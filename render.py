@@ -21,7 +21,7 @@ from jinja2 import Environment, FileSystemLoader, select_autoescape
 # ── CLI args ───────────────────────────────────────────────────────────────────
 input_path    = Path(sys.argv[1]) if len(sys.argv) > 1 else Path("news.json")
 output_path   = Path(sys.argv[2]) if len(sys.argv) > 2 else Path("news.html")
-template_dir  = Path(__file__).parent 
+template_dir  = Path(__file__).parent / "templates"
 template_name = "page.html"
 
 # ── Constants ──────────────────────────────────────────────────────────────────
@@ -29,11 +29,6 @@ MONTHS_CA = {
     "01": "gener",    "02": "febrer",   "03": "març",     "04": "abril",
     "05": "maig",     "06": "juny",     "07": "juliol",   "08": "agost",
     "09": "setembre", "10": "octubre",  "11": "novembre", "12": "desembre",
-}
-
-SECTION_ICONS = {
-    "world":     "🌐",
-    "catalunya": "🏴",
 }
 
 TAB_TITLES = {
@@ -73,7 +68,6 @@ def prepare_sections(raw_sections: list) -> list:
             })
         sections.append({
             **sec,
-            "icon":      SECTION_ICONS.get(sec.get("id", ""), "📰"),
             "tab_title": TAB_TITLES.get(sec.get("id", ""), sec.get("title", "")),
             "articles":  articles,
         })

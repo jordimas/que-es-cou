@@ -4,8 +4,41 @@ Your task is to execute the following instructions:
 
 - What to fetch
   - Check all news sources for tech stories published today
-  - For world news, fetch 50 articles for at least 10 technology sources
-    - These should include TechCrunch, Ars Technica, The Verge, Wired, MIT Tech Review
+  - For world news, fetch 50 articles for at least 30 technology sources
+    - Use these exact RSS URLs:
+      - TechCrunch: https://techcrunch.com/feed/
+      - Ars Technica: https://feeds.arstechnica.com/arstechnica/technology-lab
+      - The Verge: https://www.theverge.com/rss/index.xml
+      - Wired: https://www.wired.com/feed/rss
+      - MIT Technology Review: https://www.technologyreview.com/feed/
+      - Engadget: https://www.engadget.com/rss.xml
+      - ZDNet: https://www.zdnet.com/news/rss.xml
+      - VentureBeat: https://feeds.feedburner.com/venturebeat/SZYF
+      - CNET: https://www.cnet.com/rss/news/
+      - MacRumors: https://feeds.macrumors.com/MacRumors-All
+      - 9to5Mac: https://9to5mac.com/feed/
+      - 9to5Google: https://9to5google.com/feed/
+      - Android Authority: https://www.androidauthority.com/feed/
+      - Tom's Hardware: https://www.tomshardware.com/feeds/all
+      - AnandTech: https://www.anandtech.com/rss/
+      - PCWorld: https://www.pcworld.com/index.rss
+      - Digital Trends: https://www.digitaltrends.com/feed/
+      - The Guardian Tech: https://www.theguardian.com/technology/rss
+      - BBC Technology: https://feeds.bbci.co.uk/news/technology/rss.xml
+      - NYT Technology: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
+      - Bloomberg Technology: https://feeds.bloomberg.com/technology/news.rss
+      - Axios: https://www.axios.com/feeds/feed.rss
+      - Wall Street Journal Tech: https://feeds.a.dj.com/rss/RSSWSJD.xml
+      - The Next Web: https://www.thenextweb.com/feed/
+      - TechRadar: https://www.techradar.com/feeds/articletype/news
+      - Gizmodo: https://www.gizmodo.com/feed/rss
+      - Slashdot: https://slashdot.org/rss/slashdot.rss
+      - The Register: https://www.theregister.com/headlines.atom
+      - Hacker News: https://news.ycombinator.com/rss
+      - Phoronix: https://www.phoronix.com/rss.php
+      - NetworkWorld: https://www.networkworld.com/feed/
+      - InfoWorld: https://www.infoworld.com/feed/
+      - Computerworld: https://www.computerworld.com/feed/
   - For Catalan news, fetch 50 articles for at least 20 sources
     - Include all the sources that you are aware of in Catalan language
     - Make sure to include the following, using these exact RSS URLs:
