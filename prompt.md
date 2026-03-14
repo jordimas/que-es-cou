@@ -6,9 +6,19 @@ Your task is to execute the following instructions:
   - Check all news sources for tech stories published today
   - For world news, fetch 50 articles for at least 10 technology sources
     - These should include TechCrunch, Ars Technica, The Verge, Wired, MIT Tech Review
-  - For Catalan news, fetch 50 articles for at least 10 sources
+  - For Catalan news, fetch 50 articles for at least 20 sources
     - Include all the sources that you are aware of in Catalan language
-    - Make sure that include: Ara.cat, Vilaweb, www.laVanguardia.com/catala, NacióDigital, 324.cat, Softcatalà
+    - Make sure to include the following, using these exact RSS URLs:
+      - Ara.cat: https://www.ara.cat/rss/
+      - VilaWeb: https://www.vilaweb.cat/feed/
+      - La Vanguardia: https://www.lavanguardia.com/rss/home.xml
+      - NacióDigital: https://naciodigital.cat/rss/
+      - 324.cat: https://www.324.cat/rss
+      - Softcatalà: https://www.softcatala.org/feed/
+      - El Nacional.cat: https://www.elnacional.cat/?feed=rss2
+      - El Mon.cat: https://www.elmon.cat/feed/
+      - Betevé: https://www.beteve.cat/feed/
+      - RAC1: https://www.rac1.cat/?feed=rss2
 - How
   - When fetching websites, use a standard Mozilla user agent (not Claude's), with curl if needed
   - If a source is blocked or returns an error, skip it and try the next one
