@@ -19,7 +19,7 @@ OUTPUT FORMAT
 - The JSON must strictly follow this schema:
 
 {
-  "generated_at": "YYYY-MM-DD",
+  "generated_at": "YYYY-MM-DDTHH:MM",
   "sections": [
     {
       "id": "world",
@@ -30,6 +30,7 @@ OUTPUT FORMAT
           "url": "https://...",
           "source": "Source name",
           "date": "YYYY-MM-DD",
+          "time": "HH:MM",
           "summary": "Summary in Catalan, maximum 50 words."
         }
       ]
@@ -43,6 +44,7 @@ OUTPUT FORMAT
           "url": "https://...",
           "source": "Source name",
           "date": "YYYY-MM-DD",
+          "time": "HH:MM",
           "summary": "Summary in Catalan, maximum 50 words."
         }
       ]
@@ -51,11 +53,12 @@ OUTPUT FORMAT
 }
 
 RULES FOR THE JSON
-- "generated_at" must be today's date in YYYY-MM-DD format
+- "generated_at" must be today's date and time in YYYY-MM-DDTHH:MM format
 - Each section must contain exactly 5 articles
 - "summary" must be 50 words or fewer, written in Catalan
 - "url" must be the direct link to the article
 - "source" is the publication name (e.g. "TechCrunch", "Ara.cat")
 - "date" is the article's publication date
+- "time" is the article's publication time in HH:MM format (24h); use "00:00" if unknown
 - Output nothing except the JSON object
 - Filename is news.json

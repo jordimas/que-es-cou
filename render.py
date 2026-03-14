@@ -47,6 +47,14 @@ def format_date_ca(iso: str) -> str:
         return iso
 
 
+def format_date_time_ca(iso_date: str, time_str: str) -> str:
+    """'2026-03-14', '09:30' → '14 de març de 2026 · 09:30'"""
+    date_display = format_date_ca(iso_date)
+    if time_str and time_str != "00:00":
+        return f"{date_display} · {time_str}"
+    return date_display
+
+
 def source_domain(url: str) -> str:
     """Extract scheme+host from a URL, fallback to '#'."""
     try:
@@ -64,7 +72,7 @@ def prepare_sections(raw_sections: list) -> list:
         for art in sec.get("articles", []):
             articles.append({
                 **art,
-                "date_display": format_date_ca(art.get("date", "")),
+                "date_display": format_date_time_ca(art.get("date", ""), art.get("time", "")),
             })
         sections.append({
             **sec,
@@ -95,13 +103,20 @@ except json.JSONDecodeError as e:
     sys.exit(f"Error: invalid JSON in '{input_path}': {e}")
 
 # ── Build template context ─────────────────────────────────────────────────────
-generated_at = data.get("generated_at", datetime.today().strftime("%Y-%m-%d"))
+generated_at = data.get("generated_at", datetime.today().strftime("%Y-%m-%dT%H:%M"))
+
+# Support both "YYYY-MM-DD" and "YYYY-MM-DDTHH:MM"
+if "T" in generated_at:
+    generated_date, generated_time = generated_at.split("T", 1)
+else:
+    generated_date, generated_time = generated_at, ""
 
 context = {
-    "generated_at": generated_at,
-    "date_display": format_date_ca(generated_at),
-    "sections":     prepare_sections(data.get("sections", [])),
-    "sources":      collect_sources(data.get("sections", [])),
+    "generated_at":      generated_at,
+    "date_display":      format_date_time_ca(generated_date, generated_time),
+    "sections":          prepare_sections(data.get("sections", [])),
+    "sources":           collect_sources(data.get("sections", [])),
+    "generated_time":    generated_time,
 }
 
 # ── Render ─────────────────────────────────────────────────────────────────────
