@@ -33,7 +33,7 @@ OUTPUT FORMAT
           "source": "Source name",
           "date": "YYYY-MM-DD",
           "time": "HH:MM",
-          "summary": "Summary in Catalan, maximum 40 words."
+          "summary": "Summary in Catalan, maximum 20 words."
         }
       ]
     },
@@ -47,7 +47,7 @@ OUTPUT FORMAT
           "source": "Source name",
           "date": "YYYY-MM-DD",
           "time": "HH:MM",
-          "summary": "Summary in Catalan, maximum 40 words."
+          "summary": "Summary in Catalan, maximum 20 words."
         }
       ]
     }
@@ -57,7 +57,7 @@ OUTPUT FORMAT
 RULES FOR THE JSON
 - "generated_at" must be today's date and current time in YYYY-MM-DDTHH:MM format, in Barcelona local time (Europe/Madrid timezone)
 - Each section must contain exactly 5 articles
-- "summary" must be 40 words or fewer, written in Catalan
+- "summary" must be 20 words or fewer, written in Catalan
 - "url" must be the direct link to the article
 - "source" is the publication name (e.g. "TechCrunch", "Ara.cat")
 - "date" is the article's publication date
