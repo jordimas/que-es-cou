@@ -3,7 +3,6 @@ Your task is to execute the following instructions:
 **FETCHING CRITERIA**
 
 - What to fetch
-  - Check all news sources for tech stories published in the last 48 hours
   - For world news, fetch 50 articles across at least 30 technology sources
     - Use these exact RSS URLs in the LIST OF WORLD SOURCES section
   - For Catalan news, fetch 50 articles across at least 20 sources
@@ -21,14 +20,15 @@ Your task is to execute the following instructions:
   - Allow fetching any external web content
 
 **SELECTION CRITERIA**
-- News have to be published in the last 48 hours
-- News must be about technology
+- All the content of all the sections MUST be about technology
 - Select up to the top 10 most important world news related to technology
  - Important criteria: prioritize stories covered by multiple sources or with significant impact
  - It is mandatory that they are about technology
+ - News have to be published in the last 48 hours
 - Select up to the top 10 most important Catalan/local news about technology
  - Important criteria: prioritize stories covered by multiple sources or with significant impact
  - It is OK if we cannot get 10 articles, but it is mandatory that they are about technology
+ - News have to be published in the last 48 hours
 - For podcasts: include all episodes published in the last 7 days from the LIST OF PODCAST SOURCES
  - Do not filter by topic; include any episode published in the last 7 days
  - If no episodes were published in the last 7 days, the articles array must be empty
