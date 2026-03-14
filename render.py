@@ -98,10 +98,12 @@ except json.JSONDecodeError as e:
 
 # ── Build template context ─────────────────────────────────────────────────────
 generated_at = data.get("generated_at", datetime.today().strftime("%Y-%m-%d"))
+generated_time = generated_at[11:16] if len(generated_at) > 10 else ""
 
 context = {
     "generated_at": generated_at,
     "date_display": format_date_ca(generated_at),
+    "generated_time": generated_time,
     "sections":     prepare_sections(data.get("sections", [])),
     "sources":      collect_sources(data.get("sections", [])),
 }
