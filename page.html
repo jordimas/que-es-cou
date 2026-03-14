@@ -155,6 +155,13 @@
     footer a { color: var(--muted); text-decoration: none; }
     footer a:hover { color: var(--green); }
 
+    .footer-ai-note {
+      margin-top: 6px;
+      color: var(--green-dim);
+      font-size: 0.72rem;
+    }
+    .footer-ai-note::before { content: "// "; color: var(--green-dim); opacity: .6; }
+
     /* ── Tabs ── */
     .tabs {
       max-width: var(--max-w);
@@ -238,6 +245,7 @@
     <a href="{{ source.url }}" target="_blank" rel="noopener">{{ source.name }}</a>{% if not loop.last %}, {% endif %}
   {% endfor %}
   <br>Generat el {{ date_display }}{% if generated_time %} a les {{ generated_time }}h{% endif %}.
+  <p class="footer-ai-note">Aquesta pàgina es regenera automàticament cada 4 hores mitjançant intel·ligència artificial.</p>
 </footer>
 
 <script>
