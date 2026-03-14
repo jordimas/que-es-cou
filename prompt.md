@@ -32,8 +32,9 @@ Your task is to execute the following instructions:
 - For podcasts: include all episodes published in the last 7 days from the LIST OF PODCAST SOURCES
  - Do not filter by topic; include any episode published in the last 7 days
  - If no episodes were published in the last 7 days, the articles array must be empty
-- For events: fetch upcoming technology events in Catalonia from the LIST OF EVENT SOURCES
+- For events: fetch upcoming technology events in the Catalan Countries (Catalonia, Valencia, Balearic Islands, Andorra) from the LIST OF EVENT SOURCES
  - Include events happening in the next 30 days
+ - Translate event titles and summaries to Catalan if they are in another language
  - If no upcoming events are found, the articles array must be empty
  
 **OUTPUT FORMAT**
