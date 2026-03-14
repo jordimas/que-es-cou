@@ -10,7 +10,7 @@ Your task is to execute the following instructions:
     - Make sure to include the following, using LIST OF CATALAN SOURCES section:
   - For podcasts, fetch the RSS feeds of Catalan technology podcasts
     - Use these exact RSS URLs in the LIST OF PODCAST SOURCES section
-    - Include only episodes published in the last 7 days
+    - Include only episodes published in the last 15 days
 - How
   - When fetching websites, use a standard Mozilla user agent (not Claude's), with curl if needed
   - If a source is blocked or returns an error, skip it and try the next one
@@ -29,9 +29,9 @@ Your task is to execute the following instructions:
  - Important criteria: prioritize stories covered by multiple sources or with significant impact
  - It is OK if we cannot get 10 articles, but it is mandatory that they are about technology
  - News have to be published in the last 48 hours
-- For podcasts: include all episodes published in the last 7 days from the LIST OF PODCAST SOURCES
- - Do not filter by topic; include any episode published in the last 7 days
- - If no episodes were published in the last 7 days, the articles array must be empty
+- For podcasts: include all episodes published in the last 15 days from the LIST OF PODCAST SOURCES
+ - Do not filter by topic; include any episode published in the last 15 days
+ - If no episodes were published in the last 15 days, the articles array must be empty
 - For events: fetch upcoming technology events in the Catalan Countries (Catalonia, Valencia, Balearic Islands, Andorra) from the LIST OF EVENT SOURCES
  - Include events happening in the next 30 days
  - Translate event titles and summaries to Catalan if they are in another language
