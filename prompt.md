@@ -32,9 +32,6 @@ Your task is to execute the following instructions:
 - For podcasts: include all episodes published in the last hour from the LIST OF PODCAST SOURCES
  - Do not filter by topic; include any episode published in the last hour
  - If no episodes were published in the last hour, the articles array must be empty
-- For videos: include videos published in the last 48 hours from the LIST OF VIDEO SOURCES
- - Do not filter by topic; include any video published in the last 48 hours
- - If no videos were published in the last 48 hours, the articles array must be empty
 - For events: fetch upcoming technology events in Catalonia from the LIST OF EVENT SOURCES
  - Include events happening in the next 30 days
  - If no upcoming events are found, the articles array must be empty
@@ -120,28 +117,6 @@ Your task is to execute the following instructions:
           "title": "Episode title",
           "url": "https://...",
           "source": "Podcast name",
-          "date": "YYYY-MM-DD",
-          "time": "HH:MM",
-          "summary": "Summary in Catalan, maximum 20 words."
-        }
-      ]
-    },
-    {
-      "id": "videos",
-      "title": "Vídeos en català sobre tecnologia",
-      "sources_checked": [
-        {
-          "name": "Channel name",
-          "url": "https://...",
-          "status": "ok | blocked | error",
-          "articles_found": 0
-        }
-      ],
-      "articles": [
-        {
-          "title": "Video title",
-          "url": "https://...",
-          "source": "Channel name",
           "date": "YYYY-MM-DD",
           "time": "HH:MM",
           "summary": "Summary in Catalan, maximum 20 words."
@@ -251,13 +226,6 @@ Your task is to execute the following instructions:
 - El Pou de la Gallina: https://elpoudegallina.com/?feed=rss2
 - Nacionalcatalà (Catalunya Nord): https://www.nacionalcatala.com/?feed=rss2
 
-**LIST OF VIDEO SOURCES**
-- Softcatalà (YouTube): https://www.youtube.com/feeds/videos.xml?channel_id=UCpZoAe9KsxE5bZVB1G1VTJA
-- VilaWeb (YouTube): https://www.youtube.com/feeds/videos.xml?channel_id=UCi3p6kbLHy7a1EcLNmqwFuA
-- Betevé (YouTube): https://www.youtube.com/feeds/videos.xml?channel_id=UC2RL-t1_-TEFhxQE-4A0zHw
-- 3Cat (YouTube): https://www.youtube.com/feeds/videos.xml?channel_id=UCQAQnGFUBYVaFhJhGrfY6vg
-- Escola d'Enginyeria UAB (YouTube): https://www.youtube.com/feeds/videos.xml?channel_id=UCwVEPCFI93-D6SIyvb_wbpA
-- IB3 (YouTube): https://www.youtube.com/feeds/videos.xml?channel_id=UCh5NJ5Wx2SbDQ7oZcJz9-Ig
 
 **LIST OF EVENT SOURCES**
 - WordPress BCN (Meetup RSS): https://www.meetup.com/WordPressBCN/events/rss/
@@ -276,5 +244,14 @@ Your task is to execute the following instructions:
 - Crims de la xarxa (iVoox): https://rss.ivoox.com/podcast/crims-de-la-xarxa_sq_f12305773_1.xml
 - Dades obertes (Catalunya Ràdio): https://api.3cat.cat/audio/podcasts?_format=rss&id=117&version=2.0
 - El Terrat de la tecnologia: https://rss.ivoox.com/podcast/terrat-tecnologia_sq_f1700107_1.xml
-- Mossegar la poma: https://rss.ivoox.com/podcast/mossegar-poma_sq_f1139235_1.xml
+- Mossegar la poma: https://podcasts.cat/32/index.xml
 - Tecnicat (podcast): https://rss.ivoox.com/podcast/tecnicat_sq_f12054621_1.xml
+- Revolució 4.0: https://podcasts.cat/143/index.xml
+- L'altra ràdio: https://podcasts.cat/36/index.xml
+- El Gòtic: https://podcasts.cat/191/index.xml
+- Generació digital: https://podcasts.cat/28/index.xml
+- Societat de la Informació: https://podcasts.cat/54/index.xml
+- Internet amb Genís Roca: https://podcasts.cat/247/index.xml
+- La poma de Newton: https://podcasts.cat/40/index.xml
+- Perspectiva: https://podcasts.cat/178/index.xml
+- Ciència al Versió RAC1: https://podcasts.cat/162/index.xml
