@@ -4,6 +4,7 @@ SELECTION CRITERIA
 - News must be from the last 24 hours
 - Select the top 5 most important world news related to technology
 - Select the top 5 most important Catalan/local news about technology
+  - Sources should be all Catalan news media
   - Sources must include: Ara.cat, Vilaweb, LaVanguardia.cat, NacióDigital, plus any other Catalan media
   - All article titles and summaries must be written in Catalan
 
@@ -31,7 +32,7 @@ OUTPUT FORMAT
           "source": "Source name",
           "date": "YYYY-MM-DD",
           "time": "HH:MM",
-          "summary": "Summary in Catalan, maximum 50 words."
+          "summary": "Summary in Catalan, maximum 40 words."
         }
       ]
     },
@@ -45,7 +46,7 @@ OUTPUT FORMAT
           "source": "Source name",
           "date": "YYYY-MM-DD",
           "time": "HH:MM",
-          "summary": "Summary in Catalan, maximum 50 words."
+          "summary": "Summary in Catalan, maximum 40 words."
         }
       ]
     }
@@ -55,7 +56,7 @@ OUTPUT FORMAT
 RULES FOR THE JSON
 - "generated_at" must be today's date and time in YYYY-MM-DDTHH:MM format
 - Each section must contain exactly 5 articles
-- "summary" must be 50 words or fewer, written in Catalan
+- "summary" must be 40 words or fewer, written in Catalan
 - "url" must be the direct link to the article
 - "source" is the publication name (e.g. "TechCrunch", "Ara.cat")
 - "date" is the article's publication date
