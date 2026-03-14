@@ -6,6 +6,7 @@ SELECTION CRITERIA
 - Select the top 5 most important Catalan/local news about technology
   - Sources should be all Catalan news media
   - Sources must include: Ara.cat, Vilaweb, LaVanguardia.cat, NacióDigital, plus any other Catalan media
+  - If the headlines are in Catalan, keep the original headline. Do not rewritte it
   - All article titles and summaries must be written in Catalan
 
 FETCHING RULES
