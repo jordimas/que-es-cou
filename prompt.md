@@ -168,4 +168,7 @@ Your task is to execute the following instructions:
 - Ara Balears: https://www.arabalears.cat/rss/
 - Coanegra: https://coanegra.cat/?feed=rss2
 - Manacor Comarcal: https://manacorcomarcal.com/?feed=rss2
+- L'Independant (Catalunya Nord): https://www.lindependant.fr/arc/outboundfeeds/rss/
+- El Pou de la Gallina: https://elpoudegallina.com/?feed=rss2
+- Nacionalcatalà (Catalunya Nord): https://www.nacionalcatala.com/?feed=rss2
 
