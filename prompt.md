@@ -143,8 +143,10 @@ Your task is to execute the following instructions:
 - El Punt Avui: https://www.elpuntavui.cat/feed/
 - Segre: https://www.segre.com/?feed=rss2
 - Regio7: https://www.regio7.cat/?feed=rss2
-- Diari de Balears: https://www.diaridebalears.cat/?feed=rss2
-- Diari de Andorra: https://www.diariandorra.ad/?feed=rss2
+- Diari d'Andorra: https://www.diariandorra.ad/?feed=rss2
+- RTVA (Ràdio i Televisió d'Andorra): https://www.rtva.ad/feed/
+- Bon Dia Andorra: https://www.bondia.ad/?feed=rss2
+- Altaveu: https://www.altaveu.com/?feed=rss2
 - Nuvol: https://www.nuvol.com/feed
 - Diari Mes (Tarragona): https://www.diarimes.com/?feed=rss2
 - Directe.cat: https://www.directe.cat/?feed=rss2
@@ -156,4 +158,14 @@ Your task is to execute the following instructions:
 - Catorze: https://www.catorze.cat/?feed=rss2
 - Xarxanet: https://www.xarxanet.org/?feed=rss2
 - Bondia: https://www.bondia.cat/?feed=rss2
+- El Temps: https://www.eltemps.cat/feed/
+- Àpunt: https://www.apunt.media/feed/
+- Nació Valenciana: https://naciovalenciana.cat/feed/
+- El Periòdic d'Ontinyent: https://www.elperiodicvalencia.com/?feed=rss2
+- Saó: https://www.saodijous.com/?feed=rss2
+- Diari de Balears: https://www.diaridebalears.cat/?feed=rss2
+- IB3 Notícies: https://ib3.org/feed/
+- Ara Balears: https://www.arabalears.cat/rss/
+- Coanegra: https://coanegra.cat/?feed=rss2
+- Manacor Comarcal: https://manacorcomarcal.com/?feed=rss2
 
