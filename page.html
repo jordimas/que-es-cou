@@ -21,6 +21,17 @@
       --max-w:     820px;
     }
 
+    :root.light {
+      --green:     #1a6630;
+      --green-dim: #2e8b57;
+      --green-glow:rgba(26,102,48,.15);
+      --amber:     #b36000;
+      --bg:        #ffffff;
+      --card-bg:   #f5f5f5;
+      --border:    #c8ddd0;
+      --muted:     #4a7a5a;
+    }
+
     /* CRT scanlines overlay */
     .scanlines {
       pointer-events: none;
@@ -123,7 +134,7 @@
       text-shadow: 0 0 6px var(--green-glow);
     }
     article h3 a:hover {
-      color: #fff;
+      color: var(--bg);
       text-shadow: 0 0 10px var(--green);
     }
 
@@ -137,7 +148,7 @@
 
     article p {
       font-size: 0.85rem;
-      color: #a8e6b4;
+      color: var(--muted);
       line-height: 1.5;
     }
 
@@ -194,6 +205,23 @@
     .tab-panel { display: none; }
     .tab-panel.active { display: block; }
 
+    /* ── Light mode: hide scanlines ── */
+    :root.light .scanlines { display: none; }
+
+    /* ── Theme toggle button ── */
+    #theme-toggle {
+      margin-left: auto;
+      background: none;
+      border: 1px solid var(--border);
+      color: var(--muted);
+      font-family: 'IBM Plex Mono', 'Courier New', monospace;
+      font-size: 0.72rem;
+      padding: 3px 8px;
+      cursor: pointer;
+      transition: color .15s, border-color .15s;
+    }
+    #theme-toggle:hover { color: var(--green); border-color: var(--green-dim); }
+
     /* ── Mobile ── */
     @media (max-width: 480px) {
       article { padding: 8px 10px; }
@@ -208,6 +236,7 @@
   <div class="inner">
     <h1>Què es cou</h1>
     <time datetime="{{ generated_at }}">{{ date_display }}{% if generated_time %} {{ generated_time }}h{% endif %}</time>
+    <button id="theme-toggle" aria-label="Canvia el tema">☀ clar</button>
   </div>
 </header>
 
@@ -256,6 +285,18 @@
       btn.classList.add('active');
       document.getElementById('tab-' + btn.dataset.tab).classList.add('active');
     });
+  });
+
+  const toggle = document.getElementById('theme-toggle');
+  const root = document.documentElement;
+  if (localStorage.getItem('theme') === 'light') {
+    root.classList.add('light');
+    toggle.textContent = '◾ fosc';
+  }
+  toggle.addEventListener('click', () => {
+    const isLight = root.classList.toggle('light');
+    toggle.textContent = isLight ? '◾ fosc' : '☀ clar';
+    localStorage.setItem('theme', isLight ? 'light' : 'dark');
   });
 </script>
 
