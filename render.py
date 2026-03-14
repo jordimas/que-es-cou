@@ -33,7 +33,7 @@ MONTHS_CA = {
 
 TAB_TITLES = {
     "world":     "Al món",
-    "catalunya": "A Catalunya",
+    "catalunya": "Països Catalans",
 }
 
 
