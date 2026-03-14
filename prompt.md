@@ -9,6 +9,9 @@ Your task is to execute the following instructions:
   - For Catalan news, fetch 50 articles across at least 20 sources
     - Include all the sources that you are aware of in Catalan language
     - Make sure to include the following, using LIST OF CATALAN SOURCES section:
+  - For podcasts, fetch the RSS feeds of Catalan technology podcasts
+    - Use these exact RSS URLs in the LIST OF PODCAST SOURCES section
+    - Include only episodes published in the last hour
 - How
   - When fetching websites, use a standard Mozilla user agent (not Claude's), with curl if needed
   - If a source is blocked or returns an error, skip it and try the next one
@@ -22,9 +25,18 @@ Your task is to execute the following instructions:
 - News must be about technology
 - Select up to the top 10 most important world news related to technology
  - Important criteria: voted, cited, or popular across different media
-- Select up to the top 10 most important Catalan/local news about technology 
+- Select up to the top 10 most important Catalan/local news about technology
  - Important criteria: voted, cited, or popular across different media
  - It is OK if we cannot get 10 articles, it is more important that meet the criteria
+- For podcasts: include all episodes published in the last hour from the LIST OF PODCAST SOURCES
+ - Do not filter by topic; include any episode published in the last hour
+ - If no episodes were published in the last hour, the articles array must be empty
+- For videos: include videos published in the last 48 hours from the LIST OF VIDEO SOURCES
+ - Do not filter by topic; include any video published in the last 48 hours
+ - If no videos were published in the last 48 hours, the articles array must be empty
+- For events: fetch upcoming technology events in Catalonia from the LIST OF EVENT SOURCES
+ - Include events happening in the next 30 days
+ - If no upcoming events are found, the articles array must be empty
  
 **OUTPUT FORMAT**
 - If the headlines are in Catalan, keep the original headline. Do not rewrite it
@@ -83,6 +95,72 @@ Your task is to execute the following instructions:
       "articles": [
         {
           "title": "Article title in Catalan",
+          "url": "https://...",
+          "source": "Source name",
+          "date": "YYYY-MM-DD",
+          "time": "HH:MM",
+          "summary": "Summary in Catalan, maximum 20 words."
+        }
+      ]
+    },
+    {
+      "id": "podcasts",
+      "title": "Podcasts en català sobre tecnologia",
+      "sources_checked": [
+        {
+          "name": "Podcast name",
+          "url": "https://...",
+          "status": "ok | blocked | error",
+          "articles_found": 0
+        }
+      ],
+      "articles": [
+        {
+          "title": "Episode title",
+          "url": "https://...",
+          "source": "Podcast name",
+          "date": "YYYY-MM-DD",
+          "time": "HH:MM",
+          "summary": "Summary in Catalan, maximum 20 words."
+        }
+      ]
+    },
+    {
+      "id": "videos",
+      "title": "Vídeos en català sobre tecnologia",
+      "sources_checked": [
+        {
+          "name": "Channel name",
+          "url": "https://...",
+          "status": "ok | blocked | error",
+          "articles_found": 0
+        }
+      ],
+      "articles": [
+        {
+          "title": "Video title",
+          "url": "https://...",
+          "source": "Channel name",
+          "date": "YYYY-MM-DD",
+          "time": "HH:MM",
+          "summary": "Summary in Catalan, maximum 20 words."
+        }
+      ]
+    },
+    {
+      "id": "events",
+      "title": "Esdeveniments tecnològics a Catalunya",
+      "sources_checked": [
+        {
+          "name": "Source name",
+          "url": "https://...",
+          "status": "ok | blocked | error",
+          "articles_found": 0
+        }
+      ],
+      "articles": [
+        {
+          "title": "Event title",
           "url": "https://...",
           "source": "Source name",
           "date": "YYYY-MM-DD",
@@ -172,3 +250,12 @@ Your task is to execute the following instructions:
 - El Pou de la Gallina: https://elpoudegallina.com/?feed=rss2
 - Nacionalcatalà (Catalunya Nord): https://www.nacionalcatala.com/?feed=rss2
 
+**LIST OF PODCAST SOURCES**
+- La Base: https://rss.ivoox.com/podcast/la-base_sq_f1712297_1.xml
+- Bits de Ciència: https://feeds.soundcloud.com/users/soundcloud:users:302945232/sounds.rss
+- La Tecnologia al Dia (Catalunya Ràdio): https://rss.audioboom.com/channels/5025358.rss
+- Crims de la xarxa (iVoox): https://rss.ivoox.com/podcast/crims-de-la-xarxa_sq_f12305773_1.xml
+- Dades obertes (Catalunya Ràdio): https://api.3cat.cat/audio/podcasts?_format=rss&id=117&version=2.0
+- El Terrat de la tecnologia: https://rss.ivoox.com/podcast/terrat-tecnologia_sq_f1700107_1.xml
+- Mossegar la poma: https://rss.ivoox.com/podcast/mossegar-poma_sq_f1139235_1.xml
+- Tecnicat (podcast): https://rss.ivoox.com/podcast/tecnicat_sq_f12054621_1.xml
