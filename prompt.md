@@ -11,6 +11,10 @@ Your task is to execute the following instructions:
   - For podcasts, fetch the RSS feeds of Catalan technology podcasts
     - Use these exact RSS URLs in the LIST OF PODCAST SOURCES section
     - Include only episodes published in the last 15 days
+  - For events: fetch upcoming technology events in the Catalan Countries (Catalonia, Valencia, Balearic Islands, Andorra) from the LIST OF EVENT SOURCES
+   - Include events happening in the next 30 days
+   - Translate event titles and summaries to Catalan if they are in another language
+   - If no upcoming events are found, the articles array must be empty
 - How
   - When fetching websites, use a standard Mozilla user agent (not Claude's), with curl if needed
   - If a source is blocked or returns an error, skip it and try the next one
@@ -28,12 +32,8 @@ Your task is to execute the following instructions:
  - Important criteria: prioritize stories covered by multiple sources or with significant impact
  - It is OK if we cannot get 10 articles, but it is mandatory that they are about technology
 - For podcasts: include all episodes published in the last 15 days from the LIST OF PODCAST SOURCES
- - Do not filter by topic; include any episode published in the last 15 days
+ - Include any episode published in the last 15 days which is about technology
  - If no episodes were published in the last 15 days, the articles array must be empty
-- For events: fetch upcoming technology events in the Catalan Countries (Catalonia, Valencia, Balearic Islands, Andorra) from the LIST OF EVENT SOURCES
- - Include events happening in the next 30 days
- - Translate event titles and summaries to Catalan if they are in another language
- - If no upcoming events are found, the articles array must be empty
  
 **OUTPUT FORMAT**
 - If the headlines are in Catalan, keep the original headline. Do not rewrite it
