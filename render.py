@@ -39,9 +39,10 @@ TAB_TITLES = {
 
 # ── Data helpers ───────────────────────────────────────────────────────────────
 def format_date_ca(iso: str) -> str:
-    """'2026-03-14' → '14 de març de 2026'"""
+    """'2026-03-14' or '2026-03-14T19:36' → '14 de març de 2026'"""
     try:
-        y, m, d = iso.split("-")
+        date_part = iso.split("T")[0]
+        y, m, d = date_part.split("-")
         return f"{int(d)} de {MONTHS_CA[m]} de {y}"
     except Exception:
         return iso
