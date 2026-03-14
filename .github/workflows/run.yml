@@ -1,12 +1,9 @@
 name: Run Claude Script
-
 on:
   workflow_dispatch:
-
 jobs:
   run:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -17,7 +14,16 @@ jobs:
       - name: Write Claude settings.json
         run: |
           mkdir -p ~/.claude
-          echo '${{ vars.CLAUDE_CONFIG }}' > ~/.claude/settings.json
+          printf '%s' '${{ secrets.CLAUDE_CONFIG }}' > ~/.claude/settings.json
+
+      - name: Debug settings.json
+        run: |
+          echo "--- File exists? ---"
+          ls -la ~/.claude/settings.json
+          echo "--- Valid JSON? ---"
+          cat ~/.claude/settings.json | python3 -m json.tool > /dev/null && echo "JSON OK" || echo "JSON INVALID"
+          echo "--- Keys present (no values) ---"
+          cat ~/.claude/settings.json | python3 -c "import json,sys; d=json.load(sys.stdin); print('env keys:', list(d.get('env',{}).keys())); print('model:', d.get('model'))"
 
       - name: Run script
         run: bash run.sh
