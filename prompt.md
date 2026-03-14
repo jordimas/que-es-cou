@@ -21,14 +21,12 @@ Your task is to execute the following instructions:
 
 **SELECTION CRITERIA**
 - All the content of all the sections MUST be about technology
-- Select up to the top 10 most important world news related to technology
+- Select up to the top 10 most important world news related to technology  published in the last 48 hours
  - Important criteria: prioritize stories covered by multiple sources or with significant impact
  - It is mandatory that they are about technology
- - News have to be published in the last 48 hours
-- Select up to the top 10 most important Catalan/local news about technology
+- Select up to the top 10 most important Catalan/local news about technology published in the last 48 hours
  - Important criteria: prioritize stories covered by multiple sources or with significant impact
  - It is OK if we cannot get 10 articles, but it is mandatory that they are about technology
- - News have to be published in the last 48 hours
 - For podcasts: include all episodes published in the last 15 days from the LIST OF PODCAST SOURCES
  - Do not filter by topic; include any episode published in the last 15 days
  - If no episodes were published in the last 15 days, the articles array must be empty
