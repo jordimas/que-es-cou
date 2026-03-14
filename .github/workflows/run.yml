@@ -1,0 +1,45 @@
+name: Run Claude Script
+
+on:
+  workflow_dispatch:
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install Claude CLI
+        run: npm install -g @anthropic-ai/claude-code
+
+      - name: Write Claude settings.json
+        run: |
+          mkdir -p ~/.claude
+          echo '${{ vars.CLAUDE_CONFIG }}' > ~/.claude/settings.json
+
+      - name: Run script
+        run: bash run.sh
+
+      - name: Rename news.html to index.html
+        run: mv news.html index.html
+
+      - name: Upload to GitHub Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+  deploy:
+    needs: run
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
