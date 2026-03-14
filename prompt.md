@@ -44,16 +44,16 @@ Your task is to execute the following instructions:
 **RULES FOR THE JSON**
 - "generated_at" must be today's date and current time in YYYY-MM-DDTHH:MM format, in Barcelona local time (Europe/Madrid timezone)
 - "summary" must be 20 words or fewer, written in Catalan
-- "url" must be the direct link to the article
+- "url" must be the exact value of the <link> tag inside the RSS <item>. Never derive, reconstruct, or infer a URL from a title, domain pattern, or any other source. If no valid <link> tag exists for an item, skip that article entirely — do not substitute a guessed URL. A URL is only valid if it was explicitly present in the fetched feed content.
+- If a URL is relative (starts with /), prepend the source's root domain to make it absolute.
+- If a URL passes through a redirect service (e.g. feedproxy.google.com, feedburner.com), follow it and record the final destination URL.
+- Skip any article whose URL does not begin with http:// or https://.
 - "source" is the publication name (e.g. "TechCrunch", "Ara.cat")
-- "date" is the article's publication date
-- "time" is the article's publication time in HH:MM format (24h); use "00:00" if unknown
-- Output nothing except the JSON object
+- "date" is the article's publication date in YYYY-MM-DD format, taken from the RSS <pubDate> or <dc:date> tag. Never infer the date from context.
+- "time" is the article's publication time in HH:MM format (24h), taken from the same tag. Use "00:00" if not present.
+- Output nothing except the JSON object — no markdown, no code fences, no explanation, no HTML, no trailing text
 - Filename is news.json
-
-- Output ONLY a valid JSON object — no markdown, no code fences, no explanation, no HTML
 - The JSON must strictly follow this schema:
-
 
 {
   "generated_at": "YYYY-MM-DDTHH:MM",
