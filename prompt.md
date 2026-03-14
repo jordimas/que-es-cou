@@ -54,7 +54,7 @@ OUTPUT FORMAT
 }
 
 RULES FOR THE JSON
-- "generated_at" must be today's date and time in YYYY-MM-DDTHH:MM format
+- "generated_at" must be today's date and current time in YYYY-MM-DDTHH:MM format, in Barcelona local time (Europe/Madrid timezone)
 - Each section must contain exactly 5 articles
 - "summary" must be 40 words or fewer, written in Catalan
 - "url" must be the direct link to the article
