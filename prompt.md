@@ -3,10 +3,10 @@ Your task is to execute the following instructions:
 **FETCHING CRITERIA**
 
 - What to fetch
-  - Check all news sources for tech stories published today
+  - Check all news sources for tech stories published today published in the last 48 hours
   - For world news, fetch 50 articles for at least 30 technology sources
     - Use these exact RSS URLs in the LIST OF WORLD SOURCES section
-  - For Catalan news, fetch 50 articles for at least 20 sources
+  - For Catalan news, fetch 50 articles for at least 20 sources published in the last 48 hours
     - Include all the sources that you are aware of in Catalan language
     - Make sure to include the following, using LIST OF CATALAN SOURCES section:
 - How
@@ -18,7 +18,7 @@ Your task is to execute the following instructions:
   - Allow fetching any external web content
 
 **SELECTION CRITERIA**
-- News must be from the last 24 hours
+- News have to be published in the last 48 hours
 - Select up to the top 10 most important world news related to technology
  - Important criteria: voted, cited, or popular across different media
 - Select up to the top 10 most important Catalan/local news about technology 
