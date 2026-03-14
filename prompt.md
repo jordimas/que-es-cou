@@ -24,10 +24,10 @@ Your task is to execute the following instructions:
 - News have to be published in the last 48 hours
 - News must be about technology
 - Select up to the top 10 most important world news related to technology
- - Important criteria: voted, cited, or popular across different media
- - It is mandatory that they are about technology 
+ - Important criteria: prioritize stories covered by multiple sources or with significant impact
+ - It is mandatory that they are about technology
 - Select up to the top 10 most important Catalan/local news about technology
- - Important criteria: voted, cited, or popular across different media
+ - Important criteria: prioritize stories covered by multiple sources or with significant impact
  - It is OK if we cannot get 10 articles, but it is mandatory that they are about technology
 - For podcasts: include all episodes published in the last 7 days from the LIST OF PODCAST SOURCES
  - Do not filter by topic; include any episode published in the last 7 days
