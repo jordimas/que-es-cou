@@ -5,37 +5,55 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Que es cou – {{ date_display }}</title>
   <style>
+    @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
     :root {
-      --accent:    #c0392b;
-      --text:      #1a1a1a;
-      --muted:     #666;
-      --border:    #e0e0e0;
-      --bg:        #f7f7f5;
-      --card-bg:   #ffffff;
-      --radius:    10px;
-      --shadow:    0 1px 4px rgba(0,0,0,.08);
+      --green:     #33ff66;
+      --green-dim: #1a8c3a;
+      --green-glow:rgba(51,255,102,.25);
+      --amber:     #ffb000;
+      --bg:        #0a0f0a;
+      --card-bg:   #0d130d;
+      --border:    #1f4d2a;
+      --muted:     #4a9e5c;
       --max-w:     820px;
     }
 
+    /* CRT scanlines overlay */
+    body::before {
+      content: "";
+      pointer-events: none;
+      position: fixed;
+      inset: 0;
+      z-index: 100;
+      background: repeating-linear-gradient(
+        to bottom,
+        transparent 0px,
+        transparent 3px,
+        rgba(0,0,0,.18) 3px,
+        rgba(0,0,0,.18) 4px
+      );
+    }
+
     body {
-      font-family: Georgia, "Times New Roman", serif;
+      font-family: 'Share Tech Mono', 'Courier New', monospace;
       background: var(--bg);
-      color: var(--text);
+      color: var(--green);
       line-height: 1.5;
       padding: 0 0 32px;
     }
 
     /* ── Header ── */
     header {
-      background: var(--card-bg);
-      border-bottom: 3px solid var(--accent);
+      background: var(--bg);
+      border-bottom: 2px solid var(--green);
       padding: 10px 12px;
       position: sticky;
       top: 0;
       z-index: 10;
-      box-shadow: 0 2px 8px rgba(0,0,0,.07);
+      box-shadow: 0 0 18px var(--green-glow);
     }
     header .inner {
       max-width: var(--max-w);
@@ -46,14 +64,16 @@
       flex-wrap: wrap;
     }
     header h1 {
-      font-size: clamp(1.2rem, 4vw, 1.7rem);
-      color: var(--accent);
-      letter-spacing: -.5px;
+      font-size: clamp(1.1rem, 4vw, 1.5rem);
+      color: var(--green);
+      text-shadow: 0 0 10px var(--green), 0 0 20px var(--green-glow);
+      text-transform: uppercase;
+      letter-spacing: 2px;
     }
+    header h1::before { content: "> "; color: var(--amber); }
     header time {
-      font-size: 0.88rem;
+      font-size: 0.82rem;
       color: var(--muted);
-      font-style: italic;
     }
 
     /* ── Main ── */
@@ -65,71 +85,80 @@
 
     /* ── Section titles ── */
     .section-title {
-      font-size: clamp(1rem, 3vw, 1.2rem);
-      color: var(--accent);
-      border-left: 4px solid var(--accent);
-      padding: 6px 0 6px 14px;
+      font-size: clamp(0.85rem, 3vw, 1rem);
+      color: var(--amber);
+      text-shadow: 0 0 8px rgba(255,176,0,.4);
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      border: none;
+      border-top: 1px solid var(--border);
+      padding: 8px 0 6px 0;
       margin: 20px 0 8px;
-      display: flex;
-      align-items: center;
-      gap: 8px;
     }
+    .section-title::before { content: "## "; opacity: .6; }
 
     /* ── Article cards ── */
     article {
       background: var(--card-bg);
-      border-radius: var(--radius);
-      box-shadow: var(--shadow);
+      border: 1px solid var(--border);
+      border-left: 3px solid var(--green-dim);
       padding: 10px 12px;
       margin-bottom: 6px;
-      display: flex;
-      gap: 14px;
-      align-items: flex-start;
-      border: 1px solid var(--border);
-      transition: box-shadow .15s;
+      transition: border-color .15s, box-shadow .15s;
     }
-    article:hover { box-shadow: 0 3px 12px rgba(0,0,0,.12); }
+    article:hover {
+      border-left-color: var(--green);
+      box-shadow: 0 0 12px var(--green-glow);
+    }
 
-    .article-body { flex: 1; min-width: 0; }
+    .article-body { min-width: 0; }
 
     article h3 {
-      font-size: clamp(0.95rem, 2.5vw, 1.05rem);
-      line-height: 1.4;
-      margin-bottom: 4px;
+      font-size: clamp(0.88rem, 2.5vw, 0.97rem);
+      line-height: 1.35;
+      margin-bottom: 3px;
     }
-    article h3 a { color: #1a0dab; text-decoration: none; }
-    article h3 a:hover { text-decoration: underline; }
+    article h3 a {
+      color: var(--green);
+      text-decoration: none;
+      text-shadow: 0 0 6px var(--green-glow);
+    }
+    article h3 a:hover {
+      color: #fff;
+      text-shadow: 0 0 10px var(--green);
+    }
 
     .meta {
-      font-size: 0.78rem;
+      font-size: 0.72rem;
       color: var(--muted);
-      font-family: system-ui, sans-serif;
-      margin-bottom: 7px;
+      margin-bottom: 5px;
     }
+    .meta::before { content: "[ "; }
+    .meta::after  { content: " ]"; }
 
     article p {
-      font-size: 0.93rem;
-      color: #333;
-      line-height: 1.65;
+      font-size: 0.85rem;
+      color: #7fcf8e;
+      line-height: 1.5;
     }
 
     /* ── Footer ── */
     footer {
       max-width: var(--max-w);
       margin: 24px auto 0;
-      padding: 16px 16px 0;
+      padding: 10px 10px 0;
       border-top: 1px solid var(--border);
-      font-size: 0.8rem;
+      font-size: 0.75rem;
       color: var(--muted);
-      font-family: system-ui, sans-serif;
-      line-height: 1.8;
+      line-height: 1.6;
     }
-    footer a { color: var(--muted); }
-    footer a:hover { color: var(--accent); }
+    footer::before { content: "// "; color: var(--green-dim); }
+    footer a { color: var(--muted); text-decoration: none; }
+    footer a:hover { color: var(--green); }
 
     /* ── Mobile ── */
     @media (max-width: 480px) {
-      article { padding: 13px 14px; }
+      article { padding: 8px 10px; }
     }
   </style>
 </head>
