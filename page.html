@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Notícies en català – {{ date_display }}</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --accent:    #c0392b;
+      --text:      #1a1a1a;
+      --muted:     #666;
+      --border:    #e0e0e0;
+      --bg:        #f7f7f5;
+      --card-bg:   #ffffff;
+      --radius:    10px;
+      --shadow:    0 1px 4px rgba(0,0,0,.08);
+      --max-w:     820px;
+    }
+
+    body {
+      font-family: Georgia, "Times New Roman", serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.7;
+      padding: 0 0 60px;
+    }
+
+    /* ── Header ── */
+    header {
+      background: var(--card-bg);
+      border-bottom: 3px solid var(--accent);
+      padding: 20px 20px 16px;
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      box-shadow: 0 2px 8px rgba(0,0,0,.07);
+    }
+    header .inner {
+      max-width: var(--max-w);
+      margin: 0 auto;
+      display: flex;
+      align-items: baseline;
+      gap: 14px;
+      flex-wrap: wrap;
+    }
+    header h1 {
+      font-size: clamp(1.2rem, 4vw, 1.7rem);
+      color: var(--accent);
+      letter-spacing: -.5px;
+    }
+    header time {
+      font-size: 0.88rem;
+      color: var(--muted);
+      font-style: italic;
+    }
+
+    /* ── Main ── */
+    main {
+      max-width: var(--max-w);
+      margin: 0 auto;
+      padding: 28px 16px 0;
+    }
+
+    /* ── Section titles ── */
+    .section-title {
+      font-size: clamp(1rem, 3vw, 1.2rem);
+      color: var(--accent);
+      border-left: 4px solid var(--accent);
+      padding: 6px 0 6px 14px;
+      margin: 36px 0 18px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    /* ── Article cards ── */
+    article {
+      background: var(--card-bg);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      padding: 16px 18px;
+      margin-bottom: 14px;
+      display: flex;
+      gap: 14px;
+      align-items: flex-start;
+      border: 1px solid var(--border);
+      transition: box-shadow .15s;
+    }
+    article:hover { box-shadow: 0 3px 12px rgba(0,0,0,.12); }
+
+    .article-body { flex: 1; min-width: 0; }
+
+    article h3 {
+      font-size: clamp(0.95rem, 2.5vw, 1.05rem);
+      line-height: 1.4;
+      margin-bottom: 4px;
+    }
+    article h3 a { color: #1a0dab; text-decoration: none; }
+    article h3 a:hover { text-decoration: underline; }
+
+    .meta {
+      font-size: 0.78rem;
+      color: var(--muted);
+      font-family: system-ui, sans-serif;
+      margin-bottom: 7px;
+    }
+
+    article p {
+      font-size: 0.93rem;
+      color: #333;
+      line-height: 1.65;
+    }
+
+    /* ── Footer ── */
+    footer {
+      max-width: var(--max-w);
+      margin: 44px auto 0;
+      padding: 16px 16px 0;
+      border-top: 1px solid var(--border);
+      font-size: 0.8rem;
+      color: var(--muted);
+      font-family: system-ui, sans-serif;
+      line-height: 1.8;
+    }
+    footer a { color: var(--muted); }
+    footer a:hover { color: var(--accent); }
+
+    /* ── Mobile ── */
+    @media (max-width: 480px) {
+      article { padding: 13px 14px; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="inner">
+    <h1>📰 Notícies en català</h1>
+    <time datetime="{{ generated_at }}">{{ date_display }}</time>
+  </div>
+</header>
+
+<main>
+  {% for section in sections %}
+  <section>
+    <h2 class="section-title">
+      <span>{{ section.icon }}</span>{{ section.title }}
+    </h2>
+
+    {% for article in section.articles %}
+    <article>
+      <div class="article-body">
+        <h3><a href="{{ article.url }}" target="_blank" rel="noopener">{{ article.title }}</a></h3>
+        <div class="meta">
+          {{ article.source }}
+          {% if article.date_display %} &mdash; {{ article.date_display }}{% endif %}
+        </div>
+        <p>{{ article.summary }}</p>
+      </div>
+    </article>
+    {% endfor %}
+
+  </section>
+  {% endfor %}
+</main>
+
+<footer>
+  <strong>Fonts:</strong>
+  {% for source in sources %}
+    <a href="{{ source.url }}" target="_blank" rel="noopener">{{ source.name }}</a>{% if not loop.last %}, {% endif %}
+  {% endfor %}
+  <br>Generat el {{ date_display }}.
+</footer>
+
+</body>
+</html>
