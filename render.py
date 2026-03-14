@@ -21,7 +21,7 @@ from jinja2 import Environment, FileSystemLoader, select_autoescape
 # ── CLI args ───────────────────────────────────────────────────────────────────
 input_path    = Path(sys.argv[1]) if len(sys.argv) > 1 else Path("news.json")
 output_path   = Path(sys.argv[2]) if len(sys.argv) > 2 else Path("news.html")
-template_dir  = Path(__file__).parent / "templates"
+template_dir  = Path(__file__).parent
 template_name = "page.html"
 
 # ── Constants ──────────────────────────────────────────────────────────────────
