@@ -25,9 +25,10 @@ Your task is to execute the following instructions:
 - News must be about technology
 - Select up to the top 10 most important world news related to technology
  - Important criteria: voted, cited, or popular across different media
+ - It is mandatory that they are about technology 
 - Select up to the top 10 most important Catalan/local news about technology
  - Important criteria: voted, cited, or popular across different media
- - It is OK if we cannot get 10 articles, it is more important that meet the criteria
+ - It is OK if we cannot get 10 articles, but it is mandatory that they are about technology
 - For podcasts: include all episodes published in the last hour from the LIST OF PODCAST SOURCES
  - Do not filter by topic; include any episode published in the last hour
  - If no episodes were published in the last hour, the articles array must be empty
