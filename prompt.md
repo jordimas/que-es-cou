@@ -150,7 +150,7 @@ Your task is to execute the following instructions:
     },
     {
       "id": "events",
-      "title": "Esdeveniments tecnològics a Catalunya",
+      "title": "Trobades",
       "sources_checked": [
         {
           "name": "Source name",
@@ -260,13 +260,14 @@ Your task is to execute the following instructions:
 - IB3 (YouTube): https://www.youtube.com/feeds/videos.xml?channel_id=UCh5NJ5Wx2SbDQ7oZcJz9-Ig
 
 **LIST OF EVENT SOURCES**
-- Meetup Barcelona Tech: https://www.meetup.com/find/?location=Barcelona&source=EVENTS&categoryId=546&type=upcoming
-- BcnEng (Meetup): https://www.meetup.com/bcneng/events/rss/
-- Startup Grind Barcelona: https://www.meetup.com/startup-grind-barcelona/events/rss/
-- Tech Barcelona: https://techbarcelona.com/events/
-- Mobile World Congress: https://www.mwcbarcelona.com/agenda/rss
-- 4YFN: https://www.4yfn.com/agenda/
-- IOC Tech Events: https://lanyrd.com/places/barcelona/tech/
+- WordPress BCN (Meetup RSS): https://www.meetup.com/WordPressBCN/events/rss/
+- Startup Grind Barcelona (Meetup RSS): https://www.meetup.com/startup-grind-barcelona/events/rss/
+- BarcelonaJS (Meetup RSS): https://www.meetup.com/BarcelonaJS/events/rss/
+- GDG Barcelona (Meetup RSS): https://www.meetup.com/GDG-Barcelona/events/rss/
+- Agile Barcelona (Meetup RSS): https://www.meetup.com/Agile-Barcelona/events/rss/
+- Docker Barcelona (Meetup RSS): https://www.meetup.com/docker-barcelona-spain/events/rss/
+- Tech Barcelona (web, JSON-LD): https://www.techbarcelona.com/agenda/
+- Eventbrite Barcelona Tech (web, JSON-LD): https://www.eventbrite.es/d/spain--barcelona/technology--events/
 
 **LIST OF PODCAST SOURCES**
 - La Base: https://rss.ivoox.com/podcast/la-base_sq_f1712297_1.xml
