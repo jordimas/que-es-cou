@@ -6,7 +6,7 @@ Usage:
     python render_news.py                        # news.json → news.html
     python render_news.py input.json output.html # custom paths
 
-The Jinja2 template is expected at: page.html
+The Jinja2 template is expected at: templates/page.html
 (relative to this script, or override with --template)
 """
 
@@ -21,7 +21,7 @@ from jinja2 import Environment, FileSystemLoader, select_autoescape
 # ── CLI args ───────────────────────────────────────────────────────────────────
 input_path    = Path(sys.argv[1]) if len(sys.argv) > 1 else Path("news.json")
 output_path   = Path(sys.argv[2]) if len(sys.argv) > 2 else Path("news.html")
-template_dir  = Path(__file__).parent
+template_dir  = Path(__file__).parent 
 template_name = "page.html"
 
 # ── Constants ──────────────────────────────────────────────────────────────────
@@ -36,6 +36,11 @@ SECTION_ICONS = {
     "catalunya": "🏴",
 }
 
+TAB_TITLES = {
+    "world":     "Al món",
+    "catalunya": "A Catalunya",
+}
+
 
 # ── Data helpers ───────────────────────────────────────────────────────────────
 def format_date_ca(iso: str) -> str:
@@ -45,14 +50,6 @@ def format_date_ca(iso: str) -> str:
         return f"{int(d)} de {MONTHS_CA[m]} de {y}"
     except Exception:
         return iso
-
-
-def format_date_time_ca(iso_date: str, time_str: str) -> str:
-    """'2026-03-14', '09:30' → '14 de març de 2026 · 09:30'"""
-    date_display = format_date_ca(iso_date)
-    if time_str and time_str != "00:00":
-        return f"{date_display} · {time_str}"
-    return date_display
 
 
 def source_domain(url: str) -> str:
@@ -72,12 +69,13 @@ def prepare_sections(raw_sections: list) -> list:
         for art in sec.get("articles", []):
             articles.append({
                 **art,
-                "date_display": format_date_time_ca(art.get("date", ""), art.get("time", "")),
+                "date_display": format_date_ca(art.get("date", "")),
             })
         sections.append({
             **sec,
-            "icon":     SECTION_ICONS.get(sec.get("id", ""), "📰"),
-            "articles": articles,
+            "icon":      SECTION_ICONS.get(sec.get("id", ""), "📰"),
+            "tab_title": TAB_TITLES.get(sec.get("id", ""), sec.get("title", "")),
+            "articles":  articles,
         })
     return sections
 
@@ -103,20 +101,13 @@ except json.JSONDecodeError as e:
     sys.exit(f"Error: invalid JSON in '{input_path}': {e}")
 
 # ── Build template context ─────────────────────────────────────────────────────
-generated_at = data.get("generated_at", datetime.today().strftime("%Y-%m-%dT%H:%M"))
-
-# Support both "YYYY-MM-DD" and "YYYY-MM-DDTHH:MM"
-if "T" in generated_at:
-    generated_date, generated_time = generated_at.split("T", 1)
-else:
-    generated_date, generated_time = generated_at, ""
+generated_at = data.get("generated_at", datetime.today().strftime("%Y-%m-%d"))
 
 context = {
-    "generated_at":      generated_at,
-    "date_display":      format_date_time_ca(generated_date, generated_time),
-    "sections":          prepare_sections(data.get("sections", [])),
-    "sources":           collect_sources(data.get("sections", [])),
-    "generated_time":    generated_time,
+    "generated_at": generated_at,
+    "date_display": format_date_ca(generated_at),
+    "sections":     prepare_sections(data.get("sections", [])),
+    "sources":      collect_sources(data.get("sections", [])),
 }
 
 # ── Render ─────────────────────────────────────────────────────────────────────
@@ -129,4 +120,3 @@ html = template.render(**context)
 
 output_path.write_text(html, encoding="utf-8")
 print(f"✅  HTML written to '{output_path}'")
-

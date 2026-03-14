@@ -19,6 +19,22 @@ Your task is to execute the following instructions:
       - El Mon.cat: https://www.elmon.cat/feed/
       - Betevé: https://www.beteve.cat/feed/
       - RAC1: https://www.rac1.cat/?feed=rss2
+      - El Punt Avui: https://www.elpuntavui.cat/feed/
+      - Segre: https://www.segre.com/?feed=rss2
+      - Regio7: https://www.regio7.cat/?feed=rss2
+      - Diari de Balears: https://www.diaridebalears.cat/?feed=rss2
+      - Diari de Andorra: https://www.diariandorra.ad/?feed=rss2
+      - Nuvol: https://www.nuvol.com/feed
+      - Diari Mes (Tarragona): https://www.diarimes.com/?feed=rss2
+      - Directe.cat: https://www.directe.cat/?feed=rss2
+      - Cugat.cat: https://www.cugat.cat/feed/
+      - CatalunyaPress: https://www.catalunyapress.cat/?feed=rss2
+      - Tot Barcelona: https://www.totbarcelona.cat/feed/
+      - e-notícies: https://www.e-noticies.cat/?feed=rss2
+      - Lleida Diari: https://www.lleidadiari.cat/feed/
+      - Catorze: https://www.catorze.cat/?feed=rss2
+      - Xarxanet: https://www.xarxanet.org/?feed=rss2
+      - Bondia: https://www.bondia.cat/?feed=rss2
 - How
   - When fetching websites, use a standard Mozilla user agent (not Claude's), with curl if needed
   - If a source is blocked or returns an error, skip it and try the next one

@@ -22,12 +22,11 @@
     }
 
     /* CRT scanlines overlay */
-    body::before {
-      content: "";
+    .scanlines {
       pointer-events: none;
       position: fixed;
       inset: 0;
-      z-index: 100;
+      z-index: 1;
       background: repeating-linear-gradient(
         to bottom,
         transparent 0px,
@@ -196,6 +195,7 @@
   </style>
 </head>
 <body>
+<div class="scanlines"></div>
 
 <header>
   <div class="inner">
@@ -206,14 +206,14 @@
 
 <nav class="tabs">
   {% for section in sections %}
-  <button class="tab-btn {% if loop.first %}active{% endif %}"
+  <button class="tab-btn{% if loop.first %} active{% endif %}"
           data-tab="{{ section.id }}">{{ section.tab_title }}</button>
   {% endfor %}
 </nav>
 
 <main>
   {% for section in sections %}
-  <div class="tab-panel {% if loop.first %}active{% endif %}" id="tab-{{ section.id }}">
+  <div class="tab-panel{% if loop.first %} active{% endif %}" id="tab-{{ section.id }}">
 
     {% for article in section.articles %}
     <article>
