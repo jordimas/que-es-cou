@@ -156,9 +156,42 @@
     footer a { color: var(--muted); text-decoration: none; }
     footer a:hover { color: var(--green); }
 
+    /* ── Tabs ── */
+    .tabs {
+      max-width: var(--max-w);
+      margin: 12px auto 0;
+      padding: 0 10px;
+      display: flex;
+      gap: 4px;
+    }
+    .tab-btn {
+      background: var(--bg);
+      color: var(--muted);
+      border: 1px solid var(--border);
+      border-bottom: none;
+      padding: 6px 14px;
+      font-family: 'Share Tech Mono', 'Courier New', monospace;
+      font-size: 0.78rem;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      cursor: pointer;
+      transition: color .15s, border-color .15s;
+    }
+    .tab-btn:hover { color: var(--green); border-color: var(--green-dim); }
+    .tab-btn.active {
+      color: var(--amber);
+      border-color: var(--amber);
+      text-shadow: 0 0 8px rgba(255,176,0,.4);
+    }
+    .tab-btn.active::before { content: "> "; }
+
+    .tab-panel { display: none; }
+    .tab-panel.active { display: block; }
+
     /* ── Mobile ── */
     @media (max-width: 480px) {
       article { padding: 8px 10px; }
+      .tab-btn { padding: 5px 10px; font-size: 0.72rem; }
     }
   </style>
 </head>
@@ -171,10 +204,16 @@
   </div>
 </header>
 
+<nav class="tabs">
+  {% for section in sections %}
+  <button class="tab-btn {% if loop.first %}active{% endif %}"
+          data-tab="{{ section.id }}">{{ section.tab_title }}</button>
+  {% endfor %}
+</nav>
+
 <main>
   {% for section in sections %}
-  <section>
-    <h2 class="section-title">{{ section.title }}</h2>
+  <div class="tab-panel {% if loop.first %}active{% endif %}" id="tab-{{ section.id }}">
 
     {% for article in section.articles %}
     <article>
@@ -189,7 +228,7 @@
     </article>
     {% endfor %}
 
-  </section>
+  </div>
   {% endfor %}
 </main>
 
@@ -200,6 +239,17 @@
   {% endfor %}
   <br>Generat el {{ date_display }}{% if generated_time %} a les {{ generated_time }}h{% endif %}.
 </footer>
+
+<script>
+  document.querySelectorAll('.tab-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+      document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
+      btn.classList.add('active');
+      document.getElementById('tab-' + btn.dataset.tab).classList.add('active');
+    });
+  });
+</script>
 
 </body>
 </html>
