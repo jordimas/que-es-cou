@@ -250,6 +250,23 @@ Your task is to execute the following instructions:
 - El Pou de la Gallina: https://elpoudegallina.com/?feed=rss2
 - Nacionalcatalà (Catalunya Nord): https://www.nacionalcatala.com/?feed=rss2
 
+**LIST OF VIDEO SOURCES**
+- Softcatalà (YouTube): https://www.youtube.com/feeds/videos.xml?channel_id=UCpZoAe9KsxE5bZVB1G1VTJA
+- VilaWeb (YouTube): https://www.youtube.com/feeds/videos.xml?channel_id=UCi3p6kbLHy7a1EcLNmqwFuA
+- Betevé (YouTube): https://www.youtube.com/feeds/videos.xml?channel_id=UC2RL-t1_-TEFhxQE-4A0zHw
+- 3Cat (YouTube): https://www.youtube.com/feeds/videos.xml?channel_id=UCQAQnGFUBYVaFhJhGrfY6vg
+- Escola d'Enginyeria UAB (YouTube): https://www.youtube.com/feeds/videos.xml?channel_id=UCwVEPCFI93-D6SIyvb_wbpA
+- IB3 (YouTube): https://www.youtube.com/feeds/videos.xml?channel_id=UCh5NJ5Wx2SbDQ7oZcJz9-Ig
+
+**LIST OF EVENT SOURCES**
+- Meetup Barcelona Tech: https://www.meetup.com/find/?location=Barcelona&source=EVENTS&categoryId=546&type=upcoming
+- BcnEng (Meetup): https://www.meetup.com/bcneng/events/rss/
+- Startup Grind Barcelona: https://www.meetup.com/startup-grind-barcelona/events/rss/
+- Tech Barcelona: https://techbarcelona.com/events/
+- Mobile World Congress: https://www.mwcbarcelona.com/agenda/rss
+- 4YFN: https://www.4yfn.com/agenda/
+- IOC Tech Events: https://lanyrd.com/places/barcelona/tech/
+
 **LIST OF PODCAST SOURCES**
 - La Base: https://rss.ivoox.com/podcast/la-base_sq_f1712297_1.xml
 - Bits de Ciència: https://feeds.soundcloud.com/users/soundcloud:users:302945232/sounds.rss
