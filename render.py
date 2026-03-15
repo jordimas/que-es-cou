@@ -64,7 +64,7 @@ def prepare_sections(raw_sections: list) -> list:
     sections = []
     for sec in raw_sections:
         articles = []
-        for art in sec.get("articles", []):
+        for art in sorted(sec.get("articles", []), key=lambda a: a.get("date", ""), reverse=True):
             articles.append({
                 **art,
                 "date_display": format_date_ca(art.get("date", "")),
