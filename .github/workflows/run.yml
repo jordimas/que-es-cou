@@ -32,6 +32,9 @@ jobs:
           echo "--- Keys present (no values) ---"
           cat ~/.claude/settings.json | python3 -c "import json,sys; d=json.load(sys.stdin); print('env keys:', list(d.get('env',{}).keys())); print('model:', d.get('model'))"
 
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
       - name: Run script
         env:
           TZ: Europe/Madrid
