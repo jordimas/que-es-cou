@@ -36,6 +36,7 @@ When in doubt, exclude the article.
   - As a tiebreaker, prefer the most recently published stories
 - Select up to the top 10 most important Catalan/local news matching the tech topic filter, published in the last 7 days
   - Prioritize stories covered by multiple sources or with significant impact
+  - Select a maxium of 3 articles per source
   - It is OK if fewer than 10 qualify
 - For podcasts: include every episode whose `pubDate` is within 15 days before `fetched_at` (from raw_feeds_podcasts.json)
   - Compute the cutoff as: cutoff = fetched_at − 15 days. Include the episode if pubDate ≥ cutoff, exclude if pubDate < cutoff
