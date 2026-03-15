@@ -10,19 +10,36 @@ Your task is to execute the following instructions:
   Each item has: title, link, pubDate, description.
 - Use the status and error_detail from each source directly to populate sources_checked in the output.
 
+**TECH TOPIC FILTER**
+
+An article counts as "about technology" if its title or description is primarily about one of these topics:
+- Software, apps, platforms, operating systems, programming
+- Hardware, chips, devices, computers, smartphones, peripherals
+- AI, machine learning, robotics, automation
+- Cybersecurity, hacking, privacy, data breaches
+- Internet, networking, cloud, data centers
+- Electric vehicles, drones, space tech, biotech, cleantech
+- Startups, tech companies, tech industry news, funding rounds in tech
+- Science with direct tech application
+
+An article does NOT count as tech if it is primarily about:
+- Politics, elections, government (unless the story is specifically about tech regulation or surveillance tech)
+- Sports, culture, entertainment, tourism
+- General economy, real estate, cost of living (unless specifically about the tech industry)
+- Health or medicine (unless it is about a specific medical device, health app, or biotech product)
+
+When in doubt, exclude the article.
+
 **SELECTION CRITERIA**
-- All the content of all the sections MUST be about technology
-- Select up to the top 10 most important world news related to technology published in the last 24 hours
- - Important criteria: prioritize stories covered by multiple sources or with significant impact
- - It is mandatory that they are about technology
-- Select up to the top 10 most important Catalan/local news about technology published in the last 72 hours
- - Important criteria: prioritize stories covered by multiple sources or with significant impact
- - It is OK if we cannot get 10 articles, but it is mandatory that they are about technology
- - Reject any article that is primarily about politics, sports, culture, economy, or other non-tech topics — even if it mentions technology in passing
-- For podcasts: include all episodes published in the last 15 days from the podcasts section of raw_feeds.json
- - Include any episode published in the last 15 days which is about technology
- - If no episodes were published in the last 15 days, the articles array must be empty
- - Episodes older than 15 days from today must be excluded — check the date carefully before including
+- Select up to the top 10 most important world news matching the tech topic filter, published in the last 24 hours
+  - Prioritize stories covered by multiple sources or with significant industry impact
+- Select up to the top 10 most important Catalan/local news matching the tech topic filter, published in the last 72 hours
+  - Prioritize stories covered by multiple sources or with significant impact
+  - It is OK if fewer than 10 qualify
+- For podcasts: include every episode whose `pubDate` is within 15 days before `fetched_at` (from raw_feeds_podcasts.json)
+  - Compute the cutoff as: cutoff = fetched_at − 15 days. Include the episode if pubDate ≥ cutoff, exclude if pubDate < cutoff
+  - The podcast sources are already curated tech podcasts — no topic filter needed, include all episodes in the date window
+  - If the episode's `link` does not start with `http://` or `https://`, skip it — do not include it
  
 **OUTPUT FORMAT**
 - If the headlines are in Catalan, keep the original headline. Do not rewrite it
@@ -33,10 +50,8 @@ Your task is to execute the following instructions:
 **RULES FOR THE JSON**
 - "generated_at" must be today's date and current time in YYYY-MM-DDTHH:MM format, in Barcelona local time (Europe/Madrid timezone)
 - "summary" must be 20 words or fewer, written in Catalan. Count the words carefully — if it exceeds 20 words, shorten it. This limit is strict.
-- "url" must be the exact value of the <link> tag inside the RSS <item>. Never derive, reconstruct, or infer a URL from a title, domain pattern, or any other source. If no valid <link> tag exists for an item, skip that article entirely — do not substitute a guessed URL. A URL is only valid if it was explicitly present in the fetched feed content.
-- If a URL is relative (starts with /), prepend the source's root domain to make it absolute.
-- If a URL passes through a redirect service (e.g. feedproxy.google.com, feedburner.com), follow it and record the final destination URL.
-- Skip any article whose URL does not begin with http:// or https://.
+- "url" must be the exact value of the `link` field from the feed item. Never derive, reconstruct, or infer a URL.
+- Skip any article whose `link` does not start with `http://` or `https://` — no exceptions, no substitutions.
 - "source" is the publication name (e.g. "TechCrunch", "Ara.cat")
 - "date" is the article's publication date in YYYY-MM-DD format, taken from the RSS <pubDate> or <dc:date> tag. Never infer the date from context.
 - "time" is the article's publication time in HH:MM format (24h), taken from the same tag. Use "00:00" if not present.
