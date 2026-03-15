@@ -194,8 +194,8 @@ Your task is to execute the following instructions:
 - 324.cat: https://www.324.cat/rss
 - Softcatalà: https://www.softcatala.org/feed/
 - El Nacional.cat: https://www.elnacional.cat/?feed=rss2
-- El Mon.cat: https://www.elmon.cat/feed/
-- Betevé: https://www.beteve.cat/feed/
+- El Mon.cat: https://www.elmon.cat
+- Betevé: https://www.beteve.cat/
 - RAC1: https://www.rac1.cat/?feed=rss2
 - El Punt Avui: https://www.elpuntavui.cat/feed/
 - Segre: https://www.segre.com/?feed=rss2
@@ -204,7 +204,7 @@ Your task is to execute the following instructions:
 - RTVA (Ràdio i Televisió d'Andorra): https://www.rtva.ad/feed/
 - Bon Dia Andorra: https://www.bondia.ad/?feed=rss2
 - Altaveu: https://www.altaveu.com/?feed=rss2
-- Nuvol: https://www.nuvol.com/feed
+- Nuvol: https://www.nuvol.com/rss
 - Diari Mes (Tarragona): https://www.diarimes.com/?feed=rss2
 - Directe.cat: https://www.directe.cat/?feed=rss2
 - Cugat.cat: https://www.cugat.cat/feed/
