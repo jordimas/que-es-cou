@@ -19,6 +19,7 @@ Your task is to execute the following instructions:
   - When fetching websites, use a standard Mozilla user agent (not Claude's), with curl if needed
   - If a source is blocked or returns an error, skip it and try the next one
   - Keep track of every source URL you attempt to fetch, and record whether it succeeded or failed
+  - When a source fails, record the exact error (e.g. "HTTP 403 Forbidden", "HTTP 404 Not Found", "Connection timeout", "SSL error") in the "error_detail" field of sources_checked
 - Permissions
   - Do not ask permission to run any CLI tool
   - Allow fetching any external web content
@@ -68,6 +69,7 @@ Your task is to execute the following instructions:
           "name": "Source name (e.g. TechCrunch)",
           "url": "https://...",
           "status": "ok | blocked | error",
+          "error_detail": "Exact error message if status is error or blocked, omit field if status is ok",
           "articles_found": 0
         }
       ],
@@ -90,6 +92,7 @@ Your task is to execute the following instructions:
           "name": "Source name (e.g. Ara.cat)",
           "url": "https://...",
           "status": "ok | blocked | error",
+          "error_detail": "Exact error message if status is error or blocked, omit field if status is ok",
           "articles_found": 0
         }
       ],
@@ -112,6 +115,7 @@ Your task is to execute the following instructions:
           "name": "Podcast name",
           "url": "https://...",
           "status": "ok | blocked | error",
+          "error_detail": "Exact error message if status is error or blocked, omit field if status is ok",
           "articles_found": 0
         }
       ],
@@ -134,6 +138,7 @@ Your task is to execute the following instructions:
           "name": "Source name",
           "url": "https://...",
           "status": "ok | blocked | error",
+          "error_detail": "Exact error message if status is error or blocked, omit field if status is ok",
           "articles_found": 0
         }
       ],
