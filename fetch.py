@@ -69,8 +69,11 @@ def parse_feed(content: bytes) -> list[dict]:
                 text(entry, "{http://www.w3.org/2005/Atom}published")
                 or text(entry, "{http://www.w3.org/2005/Atom}updated")
             )
+            title = text(entry, "{http://www.w3.org/2005/Atom}title")
+            if not title and not link:
+                continue
             items.append({
-                "title":       text(entry, "{http://www.w3.org/2005/Atom}title"),
+                "title":       title,
                 "link":        link,
                 "pubDate":     pub,
                 "description": text(entry, "{http://www.w3.org/2005/Atom}summary",
@@ -87,10 +90,13 @@ def parse_feed(content: bytes) -> list[dict]:
             guid = item.find("guid")
             if guid is not None and guid.get("isPermaLink", "true").lower() != "false":
                 link = (guid.text or "").strip()
+        title = text(item, "title")
+        if not title and not link:
+            continue
         pub = text(item, "pubDate") or item.findtext("dc:date", namespaces=NS) or ""
         desc = text(item, "description") or item.findtext("content:encoded", namespaces=NS) or ""
         items.append({
-            "title":       text(item, "title"),
+            "title":       title,
             "link":        link,
             "pubDate":     pub,
             "description": desc,
