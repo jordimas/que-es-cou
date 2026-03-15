@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """
-fetch.py - Fetches all RSS/Atom feeds from sources.yaml and writes raw_feeds.json.
+fetch.py - Fetches all RSS/Atom feeds from sources.yaml and writes one JSON per category.
 
 Usage:
-    python fetch.py                         # sources.yaml -> raw_feeds.json
-    python fetch.py sources.yaml out.json   # custom paths
+    python fetch.py                      # sources.yaml -> raw_feeds_<category>.json
+    python fetch.py sources.yaml outdir/ # custom sources and output directory
 """
 
 import json
@@ -19,7 +19,7 @@ import yaml
 
 # ── CLI args ───────────────────────────────────────────────────────────────────
 sources_path = Path(sys.argv[1]) if len(sys.argv) > 1 else Path("sources.yaml")
-output_path  = Path(sys.argv[2]) if len(sys.argv) > 2 else Path("raw_feeds.json")
+output_dir   = Path(sys.argv[2]) if len(sys.argv) > 2 else Path(".")
 
 HEADERS = {
     "User-Agent": (
@@ -158,14 +158,15 @@ SECTION_IDS = ["world", "catalunya", "podcasts", "events"]
 fetched_at = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M")
 print(f"Fetching feeds at {fetched_at} ...")
 
-sections = []
 for section_id in SECTION_IDS:
     section_sources = sources_data.get(section_id, [])
     if not section_sources:
         print(f"  [{section_id}] no sources defined, skipping")
         continue
-    sections.append(fetch_section(section_id, section_sources))
-
-output = {"fetched_at": fetched_at, "sections": sections}
-output_path.write_text(json.dumps(output, ensure_ascii=False, indent=2), encoding="utf-8")
-print(f"Written to '{output_path}'")
+    section = fetch_section(section_id, section_sources)
+    out_path = output_dir / f"raw_feeds_{section_id}.json"
+    out_path.write_text(
+        json.dumps({"fetched_at": fetched_at, "section": section}, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+    print(f"  Written to '{out_path}'")

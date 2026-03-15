@@ -2,9 +2,10 @@ Your task is to execute the following instructions:
 
 **INPUT DATA**
 
-- All feed data has already been fetched and is available in raw_feeds.json.
-- Do not fetch any URLs yourself. Use only the data in raw_feeds.json.
-- raw_feeds.json contains sections (world, catalunya, podcasts, events), each with a list of sources.
+- All feed data has already been fetched and is available in per-category JSON files:
+  raw_feeds_world.json, raw_feeds_catalunya.json, raw_feeds_podcasts.json, raw_feeds_events.json.
+- Do not fetch any URLs yourself. Use only the data in these files.
+- Each file contains a "fetched_at" timestamp and a "section" object with an "id" and a list of sources.
   Each source has: name, url, status (ok/blocked/error), optional error_detail, and an items array.
   Each item has: title, link, pubDate, description.
 - Use the status and error_detail from each source directly to populate sources_checked in the output.
