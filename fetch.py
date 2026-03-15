@@ -144,6 +144,9 @@ def fetch_section(section_id: str, sources: list[dict]) -> dict:
     ok = sum(1 for r in results if r["status"] == "ok")
     total_items = sum(len(r["items"]) for r in results)
     print(f"  [{section_id}] {ok}/{len(sources)} sources ok, {total_items} items total")
+    for r in results:
+        if r["status"] != "ok":
+            print(f"    [{r['status']}] {r['name']}: {r.get('error_detail', '')}")
     return {"id": section_id, "sources": results}
 
 
