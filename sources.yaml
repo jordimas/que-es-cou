@@ -119,6 +119,8 @@ catalunya:
     url: https://www.xarxanet.org/?feed=rss2
   - name: Bondia
     url: https://www.bondia.cat/?feed=rss2
+  - name: MetaData
+    url: https://www.metadata.cat/sindica
   - name: El Temps
     url: https://www.eltemps.cat/sindica
   - name: Àpunt
