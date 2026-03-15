@@ -42,9 +42,9 @@ NS = {
 def text(el, *tags) -> str:
     """Return stripped text of the first matching child tag, or ''."""
     for tag in tags:
-        child = el.find(tag) or el.find(f"dc:{tag}", NS) or el.find(f"atom:{tag}", NS)
-        if child is not None and child.text:
-            return child.text.strip()
+        for child in (el.find(tag), el.find(f"dc:{tag}", NS), el.find(f"atom:{tag}", NS)):
+            if child is not None and child.text:
+                return child.text.strip()
     return ""
 
 
