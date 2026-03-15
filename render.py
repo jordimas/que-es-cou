@@ -15,6 +15,7 @@ import sys
 from datetime import datetime
 from pathlib import Path
 from urllib.parse import urlparse
+from xml.sax.saxutils import escape
 
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
@@ -118,3 +119,44 @@ html = template.render(**context)
 
 output_path.write_text(html, encoding="utf-8")
 print(f"✅  HTML written to '{output_path}'")
+
+# ── Generate RSS feed ───────────────────────────────────────────────────────────
+feed_path = output_path.parent / "feed.xml"
+
+def build_rss(data: dict, sections: list) -> str:
+    pub_date = data.get("generated_at", datetime.today().isoformat())
+    # RFC 822 date for RSS (approximate: use ISO directly for lastBuildDate)
+    items_xml = []
+    for sec in sections:
+        for art in sec.get("articles", []):
+            title   = escape(art.get("title", ""))
+            link    = escape(art.get("url", ""))
+            summary = escape(art.get("summary", ""))
+            source  = escape(art.get("source", ""))
+            date    = art.get("date", pub_date)
+            items_xml.append(f"""\
+    <item>
+      <title>{title}</title>
+      <link>{link}</link>
+      <guid isPermaLink="true">{link}</guid>
+      <description>{summary}</description>
+      <author>{source}</author>
+      <pubDate>{date}</pubDate>
+    </item>""")
+    items_block = "\n".join(items_xml)
+    return f"""<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Què es cou</title>
+    <link>https://quescou.cat/</link>
+    <description>Notícies de tecnologia en català, actualitzades cada 4 hores.</description>
+    <language>ca</language>
+    <lastBuildDate>{pub_date}</lastBuildDate>
+    <atom:link href="https://quescou.cat/feed.xml" rel="self" type="application/rss+xml"/>
+{items_block}
+  </channel>
+</rss>"""
+
+feed_xml = build_rss(data, data.get("sections", []))
+feed_path.write_text(feed_xml, encoding="utf-8")
+print(f"✅  RSS feed written to '{feed_path}'")

@@ -33,7 +33,7 @@ When in doubt, exclude the article.
 **SELECTION CRITERIA**
 - Select up to the top 10 most important world news matching the tech topic filter, published in the last 24 hours
   - Prioritize stories covered by multiple sources or with significant industry impact
-- Select up to the top 10 most important Catalan/local news matching the tech topic filter, published in the last 72 hours
+- Select up to the top 10 most important Catalan/local news matching the tech topic filter, published in the last 7 days
   - Prioritize stories covered by multiple sources or with significant impact
   - It is OK if fewer than 10 qualify
 - For podcasts: include every episode whose `pubDate` is within 15 days before `fetched_at` (from raw_feeds_podcasts.json)

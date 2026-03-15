@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Què es cou – 15 de març de 2026 01:02h</title>
+  <title>Què es cou – 15 de març de 2026 11:46h</title>
   <style>
     @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&display=swap');
 
@@ -235,6 +235,29 @@
     }
     #theme-toggle:hover { color: var(--green); border-color: var(--green-dim); }
 
+    /* ── RSS icon (fixed top-right) ── */
+    #rss-link {
+      position: fixed;
+      top: 10px;
+      right: 12px;
+      z-index: 20;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 28px;
+      height: 28px;
+      border: 1px solid var(--border);
+      background: var(--bg);
+      color: var(--amber);
+      text-decoration: none;
+      transition: border-color .15s, box-shadow .15s;
+    }
+    #rss-link:hover {
+      border-color: var(--amber);
+      box-shadow: 0 0 8px rgba(255,176,0,.35);
+    }
+    #rss-link svg { display: block; }
+
     /* ── Mobile ── */
     @media (max-width: 480px) {
       article { padding: 8px 10px; }
@@ -245,6 +268,15 @@
 </head>
 <body>
 <div class="scanlines"></div>
+
+<a id="rss-link" href="/feed.xml" title="Feed RSS" aria-label="Feed RSS">
+  <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24"
+       fill="currentColor" aria-hidden="true">
+    <circle cx="5" cy="19" r="3"/>
+    <path d="M4 4a16 16 0 0 1 16 16h-3A13 13 0 0 0 4 7z"/>
+    <path d="M4 11a9 9 0 0 1 9 9H10a6 6 0 0 0-6-6z"/>
+  </svg>
+</a>
 
 <header>
   <div class="inner">
@@ -350,7 +382,7 @@
     </svg>
 
     <h1>Què es cou</h1>
-    <time datetime="2026-03-15T01:02">15 de març de 2026 01:02h</time>
+    <time datetime="2026-03-15T11:46">15 de març de 2026 11:46h</time>
     <button id="theme-toggle" aria-label="Canvia el tema">☀ clar</button>
   </div>
 </header>
@@ -378,111 +410,111 @@
     
     <article>
       <div class="article-body">
-        <h3><a href="https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/" target="_blank" rel="noopener">Meta planeja acomiadar fins al 20% de la seva plantilla per finançar la IA</a></h3>
+        <h3><a href="https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/" target="_blank" rel="noopener">Meta estudia acomiadar fins al 20% de la seva plantilla</a></h3>
         <div class="meta">
           TechCrunch
            &mdash; 14 de març de 2026
         </div>
-        <p>Meta podria eliminar uns 15.800 llocs de treball per compensar les despeses massives en infraestructura d&#39;IA.</p>
+        <p>L&#39;empresa de Zuckerberg voldria compensar la despesa massiva en infraestructura d&#39;IA amb unes 15.800 extincions de llocs de treball.</p>
       </div>
     </article>
     
     <article>
       <div class="article-body">
-        <h3><a href="https://techcrunch.com/2026/03/14/the-macbook-neo-is-the-most-repairable-macbook-in-years-according-to-ifixit/" target="_blank" rel="noopener">El MacBook Neo és el portàtil Apple més reparable en gairebé quinze anys, segons iFixit</a></h3>
+        <h3><a href="https://techcrunch.com/2026/03/14/the-macbook-neo-is-the-most-repairable-macbook-in-years-according-to-ifixit/" target="_blank" rel="noopener">El nou MacBook Neo és el portàtil d&#39;Apple més reparable en catorze anys</a></h3>
         <div class="meta">
           TechCrunch
            &mdash; 14 de març de 2026
         </div>
-        <p>iFixit desmunta el MacBook Neo i conclou que és el Mac més accessible per reparar en catorze anys.</p>
+        <p>iFixit destaca el disseny modular del MacBook Neo, que trenca la tendència Apple cap a dispositius difícils de reparar.</p>
       </div>
     </article>
     
     <article>
       <div class="article-body">
-        <h3><a href="https://arstechnica.com/security/2026/03/supply-chain-attack-using-invisible-code-hits-github-and-other-repositories/" target="_blank" rel="noopener">Atac a la cadena de subministrament amb codi invisible afecta 151 repositoris de GitHub</a></h3>
-        <div class="meta">
-          Ars Technica
-           &mdash; 13 de març de 2026
-        </div>
-        <p>Paquets maliciosos amb Unicode invisible ataquen GitHub, NPM i Open VSX, eludint les defenses de revisió de codi.</p>
-      </div>
-    </article>
-    
-    <article>
-      <div class="article-body">
-        <h3><a href="https://www.engadget.com/social-media/meta-is-killing-end-to-end-encryption-in-instagram-dms-195207421.html" target="_blank" rel="noopener">Instagram eliminarà el xifratge d&#39;extrem a extrem als missatges directes</a></h3>
-        <div class="meta">
-          Engadget
-           &mdash; 13 de març de 2026
-        </div>
-        <p>Meta desactiva el xifratge E2E a Instagram DM, generant gran preocupació entre els defensors de la privadesa.</p>
-      </div>
-    </article>
-    
-    <article>
-      <div class="article-body">
-        <h3><a href="https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/" target="_blank" rel="noopener">xAI d&#39;Elon Musk recomença de zero el seu projecte d&#39;eina de programació amb IA</a></h3>
+        <h3><a href="https://techcrunch.com/2026/03/14/honda-is-killing-its-evs-and-any-chance-of-competing-in-the-future/" target="_blank" rel="noopener">Honda abandona els seus tres models de vehicle elèctric als EUA</a></h3>
         <div class="meta">
           TechCrunch
            &mdash; 14 de març de 2026
         </div>
-        <p>xAI reinicia el seu assistent de codi IA amb dos nous executius provinents de Cursor.</p>
+        <p>La cancel·lació dels EV al mercat nord-americà podria comprometre la competitivitat global de Honda en l&#39;era elèctrica.</p>
       </div>
     </article>
     
     <article>
       <div class="article-body">
-        <h3><a href="https://9to5mac.com/2026/03/13/adobe-to-pay-75-million-settlement-for-making-it-too-hard-to-cancel-subscriptions/" target="_blank" rel="noopener">Adobe pagarà 75 milions de dòlars per dificultar la cancel·lació de subscripcions</a></h3>
-        <div class="meta">
-          9to5Mac
-           &mdash; 13 de març de 2026
-        </div>
-        <p>Adobe arriba a un acord de 75 milions per pràctiques que dificultaven als usuaris cancel·lar subscripcions.</p>
-      </div>
-    </article>
-    
-    <article>
-      <div class="article-body">
-        <h3><a href="https://www.engadget.com/ai/bytedance-has-reportedly-suspended-the-global-rollout-of-its-new-ai-video-generator-212326112.html" target="_blank" rel="noopener">ByteDance suspèn globalment el llançament del seu nou generador de vídeo amb IA</a></h3>
+        <h3><a href="https://www.engadget.com/ai/bytedance-has-reportedly-suspended-the-global-rollout-of-its-new-ai-video-generator-212326112.html" target="_blank" rel="noopener">ByteDance atura el llançament global del seu generador de vídeo per IA</a></h3>
         <div class="meta">
           Engadget
            &mdash; 14 de març de 2026
         </div>
-        <p>ByteDance atura l&#39;expansió global del seu model de vídeo IA enmig de disputes de drets d&#39;autor.</p>
+        <p>La companyia xinesa suspèn l&#39;expansió internacional del model per disputes legals sobre drets d&#39;autor de continguts.</p>
       </div>
     </article>
     
     <article>
       <div class="article-body">
-        <h3><a href="https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/" target="_blank" rel="noopener">Els xatbots d&#39;IA vinculats a casos de psicosi apareixen ara en crims de víctimes múltiples</a></h3>
-        <div class="meta">
-          TechCrunch
-           &mdash; 14 de març de 2026
-        </div>
-        <p>Un advocat alerta que ChatGPT i Gemini estan vinculats a psicosis i incidents amb víctimes múltiples.</p>
-      </div>
-    </article>
-    
-    <article>
-      <div class="article-body">
-        <h3><a href="https://www.engadget.com/entertainment/music/spotifys-new-taste-profile-feature-lets-users-fine-tune-their-algorithms-recommendations-191104626.html" target="_blank" rel="noopener">Spotify llança el Perfil de Gust perquè els usuaris controlin el seu algoritme</a></h3>
-        <div class="meta">
-          Engadget
-           &mdash; 14 de març de 2026
-        </div>
-        <p>Spotify permet editar directament les preferències musicals per personalitzar les recomanacions de l&#39;algoritme.</p>
-      </div>
-    </article>
-    
-    <article>
-      <div class="article-body">
-        <h3><a href="https://www.tomshardware.com/tech-industry/chip-material-prices-double-as-middle-east-conflict-compounds-chinas-gallium-export-ban" target="_blank" rel="noopener">Els preus dels materials per a xips es doblen pel conflicte al Pròxim Orient i la prohibició xinesa del gal·li</a></h3>
+        <h3><a href="https://www.tomshardware.com/tech-industry/cyber-security/malicious-packages-using-invisible-unicode-found-in-151-github-repos-and-vs-code" target="_blank" rel="noopener">Atac Glassworm: codi Unicode invisible infecta 151 repositoris de GitHub</a></h3>
         <div class="meta">
           Tom&#39;s Hardware
            &mdash; 14 de març de 2026
         </div>
-        <p>El conflicte al golf Pèrsic i la restricció xinesa del gal·li disparen el cost dels materials per fabricar xips.</p>
+        <p>Un atac a la cadena de subministrament oculta codi maliciós en caràcters Unicode invisibles per robar credencials.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://www.tomshardware.com/tech-industry/chip-material-prices-double-as-middle-east-conflict-compounds-china-existing-gallium-germanium-restrictions" target="_blank" rel="noopener">El preu dels materials per a xips es duplica per la guerra a l&#39;Orient Mitjà</a></h3>
+        <div class="meta">
+          Tom&#39;s Hardware
+           &mdash; 14 de març de 2026
+        </div>
+        <p>Les restriccions xineses sobre gal·li i germani, combinades amb el conflicte a l&#39;Iran, pressionen els preus dels semiconductors.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://www.techradar.com/computing/windows/a-critical-windows-11-bug-has-locked-some-users-out-of-the-c-drive-microsoft-admits-heres-what-you-can-do-if-youre-affected" target="_blank" rel="noopener">Un error crític de Windows 11 bloqueja alguns usuaris fora del disc C:</a></h3>
+        <div class="meta">
+          TechRadar
+           &mdash; 14 de març de 2026
+        </div>
+        <p>Microsoft confirma el problema que deixa sistemes completament inaccessibles, amb els portàtils Samsung com a principals afectats.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://www.theguardian.com/technology/2026/mar/14/ai-chatbots-psychosis" target="_blank" rel="noopener">Un estudi relaciona els chatbots d&#39;IA amb el pensament delusiu</a></h3>
+        <div class="meta">
+          The Guardian Tech
+           &mdash; 14 de març de 2026
+        </div>
+        <p>Investigadors alerten que la interacció prolongada amb IA conversacional pot reforçar creences falses en persones vulnerables.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/" target="_blank" rel="noopener">xAI de Musk torna a començar de zero el seu assistent de programació</a></h3>
+        <div class="meta">
+          TechCrunch
+           &mdash; 14 de març de 2026
+        </div>
+        <p>El laboratori refà l&#39;eina de codi des de zero i incorpora dos executius de Cursor per liderar el nou intent.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/" target="_blank" rel="noopener">ChatGPT s&#39;integra amb Spotify, DoorDash, Uber i altres aplicacions de tercers</a></h3>
+        <div class="meta">
+          TechCrunch
+           &mdash; 14 de març de 2026
+        </div>
+        <p>OpenAI permet executar tasques de Spotify, Canva, Figma i Expedia directament des de la interfície del xat.</p>
       </div>
     </article>
     
@@ -494,34 +526,100 @@
     
     <article>
       <div class="article-body">
+        <h3><a href="https://www.elnacional.cat/ca/tecnologia/google-presenta-groundsource-ia-ajuda-predir-desastres-naturals-com-inundacions-danes_1610811_102.html" target="_blank" rel="noopener">Google presenta Groundsource: una IA que ajuda a predir desastres naturals com inundacions o danas</a></h3>
+        <div class="meta">
+          El Nacional.cat
+           &mdash; 15 de març de 2026
+        </div>
+        <p>El sistema transforma informes públics en dades estructurades per anticipar inundacions urbanes sobtades.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://www.ara.cat/internacional/proxim-orient/intel-ligencia-artificial-dispara-capacitat-matar-dels-eua-israel_1_5674032.html" target="_blank" rel="noopener">La intel·ligència artificial dispara la capacitat de matar dels EUA i Israel</a></h3>
+        <div class="meta">
+          Ara.cat
+           &mdash; 14 de març de 2026
+        </div>
+        <p>Project Maven analitza mil imatges per segon, fent de la guerra a Iran el primer conflicte amb IA en targeting.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://www.lavanguardia.com/economia/20260315/11489114/ia-toma-forma-humana-fabrica.html" target="_blank" rel="noopener">La IA toma forma humana en la fábrica</a></h3>
+        <div class="meta">
+          La Vanguardia
+           &mdash; 15 de març de 2026
+        </div>
+        <p>Els robots humanoides s&#39;incorporen a les cadenes de producció de cotxes, logística i comerç minorista.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://www.lavanguardia.com/dinero/20260315/11489087/vertiginosa-carrera-colonizar-ia.html" target="_blank" rel="noopener">La vertiginosa carrera para colonizar la IA</a></h3>
+        <div class="meta">
+          La Vanguardia
+           &mdash; 15 de març de 2026
+        </div>
+        <p>Les grans tecnològiques despleguen enguany les seves majors inversions per superar la nova frontera tecnològica de la IA.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://www.lavanguardia.com/vida/20260315/11490040/oxford-plantea-ingenieros-juren-declaracion-etica-ia.html" target="_blank" rel="noopener">Oxford plantea que los ingenieros juren una declaración ética para la IA</a></h3>
+        <div class="meta">
+          La Vanguardia
+           &mdash; 15 de març de 2026
+        </div>
+        <p>La universitat proposa un jurament professional per a enginyers d&#39;IA, similar al jurament hipocràtic dels metges.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://www.vilaweb.cat/noticies/nova-crisi-energetica-moment-pas-vehicle-electric/" target="_blank" rel="noopener">Nova crisi energètica: el moment de fer el pas cap a un vehicle elèctric?</a></h3>
+        <div class="meta">
+          VilaWeb
+           &mdash; 14 de març de 2026
+        </div>
+        <p>L&#39;escalada del preu del petroli per la guerra a l&#39;Iran converteix el vehicle elèctric en un actiu estratègic.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://www.elnacional.cat/ca/tecnologia/elon-musk-ordena-descens-4400-satellits-starlink-evitar-collisions-reforcar-seguretat-orbita_1610184_102.html" target="_blank" rel="noopener">Elon Musk ordena el descens de 4.400 satèl·lits Starlink per evitar col·lisions</a></h3>
+        <div class="meta">
+          El Nacional.cat
+           &mdash; 14 de març de 2026
+        </div>
+        <p>SpaceX fa baixar milers de satèl·lits de l&#39;òrbita baixa per reduir el risc de col·lisions espacials.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://lleidadiari.cat/transport-sanitari-drons-tremp-lleida/" target="_blank" rel="noopener">Tremp i Lleida estrenaran drons per transportar sang</a></h3>
+        <div class="meta">
+          Lleida Diari
+           &mdash; 13 de març de 2026
+        </div>
+        <p>Catalunya posarà en marxa aquest estiu un servei regular de drons sanitaris entre l&#39;Hospital del Pallars i l&#39;Arnau de Vilanova.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
         <h3><a href="https://www.cugat.cat/noticies/la-ia-mai-no-ha-estat-adolescent/" target="_blank" rel="noopener">&#34;La IA mai no ha estat adolescent&#34;</a></h3>
         <div class="meta">
           Cugat.cat
            &mdash; 14 de març de 2026
         </div>
-        <p>Reflexió sobre la maduresa de la intel·ligència artificial i el seu impacte social des de Sant Cugat.</p>
-      </div>
-    </article>
-    
-    <article>
-      <div class="article-body">
-        <h3><a href="https://www.lavanguardia.com/dinero/20260315/11489343/confusion-instala-pymes-lastra-avance-ia.html" target="_blank" rel="noopener">La confusió s&#39;instal·la a les pimes i lastra l&#39;avanç de la IA</a></h3>
-        <div class="meta">
-          La Vanguardia
-           &mdash; 15 de març de 2026
-        </div>
-        <p>Les pimes no saben com adoptar la IA, cosa que frena la seva transformació digital a Espanya.</p>
-      </div>
-    </article>
-    
-    <article>
-      <div class="article-body">
-        <h3><a href="https://www.lavanguardia.com/dinero/20260315/11489087/vertiginosa-carrera-colonizar-ia.html" target="_blank" rel="noopener">La vertiginosa cursa per colonitzar la IA</a></h3>
-        <div class="meta">
-          La Vanguardia
-           &mdash; 15 de març de 2026
-        </div>
-        <p>Anàlisi de la competència global entre empreses tecnològiques per dominar el mercat de la intel·ligència artificial.</p>
+        <p>Una de cada quatre noies usa la IA com a confident, però els experts alerten sobre els riscos psicològics.</p>
       </div>
     </article>
     
@@ -533,45 +631,12 @@
     
     <article>
       <div class="article-body">
-        <h3><a href="https://podcasts.cat/32/33870521/" target="_blank" rel="noopener">Les dades obertes i la transparència pública – programa 656</a></h3>
+        <h3><a href="https://mossegalapoma.cat/les-dades-obertes-i-la-transparencia-publica-programa-656/" target="_blank" rel="noopener">Les dades obertes i la transparència pública – programa 656</a></h3>
         <div class="meta">
           Mossega la poma
-           &mdash; 12 de març de 2026
+           &mdash; 13 de març de 2026
         </div>
-        <p>Com les dades obertes i la transparència pública impacten la societat i la democràcia digital.</p>
-      </div>
-    </article>
-    
-    <article>
-      <div class="article-body">
-        <h3><a href="https://podcasts.cat/32/33850265/" target="_blank" rel="noopener">Com la IA està revolucionant l&#39;escriptura i la publicació de llibres – Programa 655</a></h3>
-        <div class="meta">
-          Mossega la poma
-           &mdash; 6 de març de 2026
-        </div>
-        <p>La intel·ligència artificial transforma l&#39;escriptura creativa, la publicació i els nous models editorials digitals.</p>
-      </div>
-    </article>
-    
-    <article>
-      <div class="article-body">
-        <h3><a href="https://podcasts.cat/143/33849463/" target="_blank" rel="noopener">La intel·ligència artificial envaeix el Mobile World Congress 2026</a></h3>
-        <div class="meta">
-          Revolució 4.0
-           &mdash; 6 de març de 2026
-        </div>
-        <p>Anàlisi del protagonisme de la IA al MWC 2026 i les tendències del sector tecnològic mòbil.</p>
-      </div>
-    </article>
-    
-    <article>
-      <div class="article-body">
-        <h3><a href="https://podcasts.cat/143/33826150/" target="_blank" rel="noopener">Albert Cuesta: &#34;Accent Obert posarà a prova si la IA arriba al B2 de català&#34;</a></h3>
-        <div class="meta">
-          Revolució 4.0
-           &mdash; 27 de febrer de 2026
-        </div>
-        <p>Debat sobre el català a internet i la IA generativa, amb el projecte Accent Obert per avaluar models lingüístics.</p>
+        <p>Com la gestió de dades públiques i la publicació autònoma estan transformant la transparència governamental i la cultura digital.</p>
       </div>
     </article>
     
@@ -582,18 +647,7 @@
           L&#39;altra ràdio
            &mdash; 12 de març de 2026
         </div>
-        <p>Exploració del concepte d&#39;agnotologia algorítmica: com els algorismes poden generar ignorància deliberada.</p>
-      </div>
-    </article>
-    
-    <article>
-      <div class="article-body">
-        <h3><a href="https://podcasts.cat/36/33845240/" target="_blank" rel="noopener">L&#39;Altra Ràdio - &#34;Day One&#34;, la sèrie del Mobile World Congress</a></h3>
-        <div class="meta">
-          L&#39;altra ràdio
-           &mdash; 5 de març de 2026
-        </div>
-        <p>Crònica tecnològica del primer dia del Mobile World Congress 2026 des de Fira Barcelona.</p>
+        <p>La doctora Àtia Cortés del Barcelona Supercomputing Center explica com els algorismes poden generar ignorància sistemàtica.</p>
       </div>
     </article>
     
@@ -604,29 +658,40 @@
           El Gòtic
            &mdash; 10 de març de 2026
         </div>
-        <p>Recursos i estratègies per als reptes del sector TIC i la innovació digital als territoris catalans.</p>
+        <p>Recursos i estratègies per afrontar els reptes de la ciutadania digital des de l&#39;Ajuntament de Tàrrega.</p>
       </div>
     </article>
     
     <article>
       <div class="article-body">
-        <h3><a href="https://podcasts.cat/28/33853199/" target="_blank" rel="noopener">Videojocs de dones, videojocs amb dones</a></h3>
+        <h3><a href="https://mossegalapoma.cat/com-la-ia-esta-revolucionant-lescriptura-i-la-publicacio-de-llibres-programa-655/" target="_blank" rel="noopener">Com la IA està revolucionant l&#39;escriptura i la publicació de llibres – Programa 655</a></h3>
         <div class="meta">
-          Generació digital
+          Mossega la poma
            &mdash; 7 de març de 2026
         </div>
-        <p>Debat sobre la representació femenina als videojocs i la seva influència en la indústria digital.</p>
+        <p>Experiències pràctiques amb IA per a l&#39;escriptura i la correcció, i l&#39;impacte en la indústria editorial i audiovisual.</p>
       </div>
     </article>
     
     <article>
       <div class="article-body">
-        <h3><a href="https://podcasts.cat/54/33837146/" target="_blank" rel="noopener">La nova constel·lació de satèl·lits Starlink permetrà cobertura als telèfons mòbils</a></h3>
+        <h3><a href="https://podcasts.cat/36/33845240/" target="_blank" rel="noopener">L&#39;Altra Ràdio - &#34;Day One&#34;, la sèrie del Mobile World Congress</a></h3>
+        <div class="meta">
+          L&#39;altra ràdio
+           &mdash; 5 de març de 2026
+        </div>
+        <p>Crònica de la vintena edició del MWC a Barcelona, centrada en la intel·ligència artificial com a eix de l&#39;esdeveniment.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://www.societatdelainformacio.com/podcast/la-nova-constellacio-de-satellits-starlink-permetra-cobertura-als-telefons-mobils/" target="_blank" rel="noopener">La nova constel·lació de satèl·lits Starlink permetrà cobertura als telèfons mòbils</a></h3>
         <div class="meta">
           Societat de la Informació
-           &mdash; 2 de març de 2026
+           &mdash; 3 de març de 2026
         </div>
-        <p>Starlink anuncia satèl·lits d&#39;òrbita baixa que donaran cobertura directa als mòbils sense antenes especials.</p>
+        <p>Starlink anuncia satèl·lits d&#39;òrbita super-baixa per donar cobertura directa als mòbils a tot el món sense repetidors.</p>
       </div>
     </article>
     
@@ -638,12 +703,23 @@
     
     <article>
       <div class="article-body">
-        <h3><a href="https://www.meetup.com/wordpressbcn/events/313756353/" target="_blank" rel="noopener">10web, una IA per crear WordPress, per Aleix Martí</a></h3>
+        <h3><a href="https://www.meetup.com/wordpressbcn/events/313756353/" target="_blank" rel="noopener">10web, una IA para crear WordPress por Aleix Martí</a></h3>
         <div class="meta">
           WordPress BCN
-           &mdash; 20 de març de 2026
+           &mdash; 12 de març de 2026
         </div>
-        <p>Xerrada sobre 10web i Vibe for WordPress: crear webs funcionals amb IA usant pocs prompts, sense escriure codi.</p>
+        <p>Demostració de 10web i Vibe for WordPress: crear llocs web complets amb IA i uns quants prompts.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://www.meetup.com/ai-professionals-barcelona/events/313659377/" target="_blank" rel="noopener">Build Your Brand Story Faster with AI - a hands-on &#39;AI for Business&#39; Workshop</a></h3>
+        <div class="meta">
+          AI Professionals Barcelona
+           &mdash; 6 de març de 2026
+        </div>
+        <p>Taller pràctic per aplicar el marc StoryBrand amb fluxos de treball d&#39;IA per a negocis i startups.</p>
       </div>
     </article>
     
@@ -659,47 +735,53 @@
     
       <a href="https://techcrunch.com" target="_blank" rel="noopener">TechCrunch</a>, 
     
-      <a href="https://arstechnica.com" target="_blank" rel="noopener">Ars Technica</a>, 
-    
       <a href="https://www.engadget.com" target="_blank" rel="noopener">Engadget</a>, 
     
-      <a href="https://9to5mac.com" target="_blank" rel="noopener">9to5Mac</a>, 
+      <a href="https://www.tomshardware.com" target="_blank" rel="noopener">Tom&#39;s Hardware</a>, 
     
-      <a href="https://www.tomshardware.com" target="_blank" rel="noopener">Tom&#39;s Hardware</a>
+      <a href="https://www.techradar.com" target="_blank" rel="noopener">TechRadar</a>, 
+    
+      <a href="https://www.theguardian.com" target="_blank" rel="noopener">The Guardian Tech</a>
     
   </span>
   
   <span class="footer-sources" data-tab="catalunya">
     
-      <a href="https://www.cugat.cat" target="_blank" rel="noopener">Cugat.cat</a>, 
+      <a href="https://www.elnacional.cat" target="_blank" rel="noopener">El Nacional.cat</a>, 
     
-      <a href="https://www.lavanguardia.com" target="_blank" rel="noopener">La Vanguardia</a>
+      <a href="https://www.ara.cat" target="_blank" rel="noopener">Ara.cat</a>, 
+    
+      <a href="https://www.lavanguardia.com" target="_blank" rel="noopener">La Vanguardia</a>, 
+    
+      <a href="https://www.vilaweb.cat" target="_blank" rel="noopener">VilaWeb</a>, 
+    
+      <a href="https://lleidadiari.cat" target="_blank" rel="noopener">Lleida Diari</a>, 
+    
+      <a href="https://www.cugat.cat" target="_blank" rel="noopener">Cugat.cat</a>
     
   </span>
   
   <span class="footer-sources" data-tab="podcasts">
     
-      <a href="https://podcasts.cat" target="_blank" rel="noopener">Mossega la poma</a>, 
-    
-      <a href="https://podcasts.cat" target="_blank" rel="noopener">Revolució 4.0</a>, 
+      <a href="https://mossegalapoma.cat" target="_blank" rel="noopener">Mossega la poma</a>, 
     
       <a href="https://podcasts.cat" target="_blank" rel="noopener">L&#39;altra ràdio</a>, 
     
       <a href="https://podcasts.cat" target="_blank" rel="noopener">El Gòtic</a>, 
     
-      <a href="https://podcasts.cat" target="_blank" rel="noopener">Generació digital</a>, 
-    
-      <a href="https://podcasts.cat" target="_blank" rel="noopener">Societat de la Informació</a>
+      <a href="https://www.societatdelainformacio.com" target="_blank" rel="noopener">Societat de la Informació</a>
     
   </span>
   
   <span class="footer-sources" data-tab="events">
     
-      <a href="https://www.meetup.com" target="_blank" rel="noopener">WordPress BCN</a>
+      <a href="https://www.meetup.com" target="_blank" rel="noopener">WordPress BCN</a>, 
+    
+      <a href="https://www.meetup.com" target="_blank" rel="noopener">AI Professionals Barcelona</a>
     
   </span>
   
-  <br>Generat el 15 de març de 2026 a les 01:02h.
+  <br>Generat el 15 de març de 2026 a les 11:46h.
   <p class="footer-ai-note">Aquesta pàgina es regenera automàticament cada 4 hores mitjançant intel·ligència artificial.</p>
 </footer>
 
