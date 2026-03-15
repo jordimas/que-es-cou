@@ -27,6 +27,16 @@ An article does NOT count as tech if it is primarily about:
 - Sports, culture, entertainment, tourism
 - General economy, real estate, cost of living (unless specifically about the tech industry)
 - Health or medicine (unless it is about a specific medical device, health app, or biotech product)
+- Nuclear or fossil energy policy, climate change, or weather events
+- Automotive industry market trends, trade disputes, or motorsport (e.g. BYD entering F1)
+- Media or streaming company mergers (e.g. Warner/Paramount) — unless the story is about a specific technology platform or product
+- Tax filing, personal finance, or crypto tax reporting
+
+The following ARE tech even if they seem borderline:
+- AI ethics proposals, AI regulation, AI adoption challenges in businesses
+- Emergency or communications network infrastructure (e.g. Rescat)
+- Assistive technology and accessibility tech
+- Electric vehicles when the article focuses on the technology, battery, charging, or software — NOT when it is about market trends or energy policy
 
 When in doubt, exclude the article.
 
