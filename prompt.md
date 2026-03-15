@@ -1,28 +1,13 @@
 Your task is to execute the following instructions:
 
-**FETCHING CRITERIA**
+**INPUT DATA**
 
-- What to fetch
-  - For world news, fetch 50 articles across at least 30 technology sources, prioritizing diversity across sources whenever possible.
-    - Use these exact RSS URLs in the LIST OF WORLD SOURCES section
-  - For Catalan news, fetch 50 articles across at least 20 sources, prioritizing diversity across sources whenever possible.
-    - Include all the sources that you are aware of in Catalan language
-    - Make sure to include the following, using LIST OF CATALAN SOURCES section:
-  - For podcasts, fetch the RSS feeds of Catalan technology podcasts
-    - Use these exact RSS URLs in the LIST OF PODCAST SOURCES section
-    - Include only episodes published in the last 15 days
-  - For events: fetch upcoming technology events in the Catalan Countries (Catalonia, Valencia, Balearic Islands, Andorra) from the LIST OF EVENT SOURCES
-   - Include events happening in the next 30 days
-   - Translate event titles and summaries to Catalan if they are in another language
-   - If no upcoming events are found, the articles array must be empty
-- How
-  - When fetching websites, use a standard Mozilla user agent (not Claude's), with curl if needed
-  - If a source is blocked or returns an error, skip it and try the next one
-  - Keep track of every source URL you attempt to fetch, and record whether it succeeded or failed
-  - When a source fails, record the exact error (e.g. "HTTP 403 Forbidden", "HTTP 404 Not Found", "Connection timeout", "SSL error") in the "error_detail" field of sources_checked
-- Permissions
-  - Do not ask permission to run any CLI tool
-  - Allow fetching any external web content
+- All feed data has already been fetched and is available in raw_feeds.json.
+- Do not fetch any URLs yourself. Use only the data in raw_feeds.json.
+- raw_feeds.json contains sections (world, catalunya, podcasts, events), each with a list of sources.
+  Each source has: name, url, status (ok/blocked/error), optional error_detail, and an items array.
+  Each item has: title, link, pubDate, description.
+- Use the status and error_detail from each source directly to populate sources_checked in the output.
 
 **SELECTION CRITERIA**
 - All the content of all the sections MUST be about technology
@@ -33,7 +18,7 @@ Your task is to execute the following instructions:
  - Important criteria: prioritize stories covered by multiple sources or with significant impact
  - It is OK if we cannot get 10 articles, but it is mandatory that they are about technology
  - Reject any article that is primarily about politics, sports, culture, economy, or other non-tech topics — even if it mentions technology in passing
-- For podcasts: include all episodes published in the last 15 days from the LIST OF PODCAST SOURCES
+- For podcasts: include all episodes published in the last 15 days from the podcasts section of raw_feeds.json
  - Include any episode published in the last 15 days which is about technology
  - If no episodes were published in the last 15 days, the articles array must be empty
  - Episodes older than 15 days from today must be excluded — check the date carefully before including
@@ -155,113 +140,3 @@ Your task is to execute the following instructions:
     }
   ]
 }
-
-**LIST OF WORLD SOURCES**
-- TechCrunch: https://techcrunch.com/feed/
-- Ars Technica: https://feeds.arstechnica.com/arstechnica/technology-lab
-- The Verge: https://www.theverge.com/rss/index.xml
-- Wired: https://www.wired.com/feed/rss
-- MIT Technology Review: https://www.technologyreview.com/feed/
-- Engadget: https://www.engadget.com/rss.xml
-- ZDNet: https://www.zdnet.com/news/rss.xml
-- VentureBeat: https://feeds.feedburner.com/venturebeat/SZYF
-- CNET: https://www.cnet.com/rss/news/
-- MacRumors: https://feeds.macrumors.com/MacRumors-All
-- 9to5Mac: https://9to5mac.com/feed/
-- 9to5Google: https://9to5google.com/feed/
-- Android Authority: https://www.androidauthority.com/feed/
-- Tom's Hardware: https://www.tomshardware.com/feeds/all
-- AnandTech: https://www.anandtech.com/rss/
-- PCWorld: https://www.pcworld.com/index.rss
-- Digital Trends: https://www.digitaltrends.com/feed/
-- The Guardian Tech: https://www.theguardian.com/technology/rss
-- BBC Technology: https://feeds.bbci.co.uk/news/technology/rss.xml
-- NYT Technology: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
-- Bloomberg Technology: https://feeds.bloomberg.com/technology/news.rss
-- Axios: https://www.axios.com/feeds/feed.rss
-- Wall Street Journal Tech: https://feeds.a.dj.com/rss/RSSWSJD.xml
-- The Next Web: https://www.thenextweb.com/feed/
-- TechRadar: https://www.techradar.com/feeds/articletype/news
-- Gizmodo: https://www.gizmodo.com/feed/rss
-- Slashdot: https://slashdot.org/rss/slashdot.rss
-- The Register: https://www.theregister.com/headlines.atom
-- Hacker News: https://news.ycombinator.com/rss
-- Phoronix: https://www.phoronix.com/rss.php
-- NetworkWorld: https://www.networkworld.com/feed/
-- InfoWorld: https://www.infoworld.com/feed/
-- Computerworld: https://www.computerworld.com/feed/
-
-**LIST OF CATALAN SOURCES**
-- Ara.cat: https://www.ara.cat/rss/
-- VilaWeb: https://www.vilaweb.cat/feed/
-- La Vanguardia: https://www.lavanguardia.com/rss/home.xml
-- NacióDigital: https://naciodigital.cat/rss/
-- 324.cat: https://www.324.cat/rss
-- Softcatalà: https://www.softcatala.org/feed/
-- El Nacional.cat: https://www.elnacional.cat/uploads/feeds/feed_ca.xml
-- El Mon.cat: https://www.elmon.cat/feed/
-- Betevé: https://beteve.cat/feed/
-- RAC1: https://www.rac1.cat/?feed=rss2
-- El Punt Avui: https://www.elpuntavui.cat/barcelona.feed?type=rss
-- Segre: https://www.segre.com/ca/rss/home.xml
-- Regio7: https://www.regio7.cat/?feed=rss2
-- Diari d'Andorra: https://www.diariandorra.ad/?feed=rss2
-- RTVA (Ràdio i Televisió d'Andorra): https://www.rtva.ad/feed/
-- Bon Dia Andorra: https://www.bondia.ad/?feed=rss2
-- Altaveu: https://www.altaveu.com/?feed=rss2
-- Nuvol: https://www.nuvol.com/feed
-- Diari Mes (Tarragona): https://www.diarimes.com/?feed=rss2
-- Directe.cat: https://www.directe.cat/?feed=rss2
-- Cugat.cat: https://www.cugat.cat/feed/
-- CatalunyaPress: https://www.catalunyapress.cat/?feed=rss2
-- Tot Barcelona: https://www.totbarcelona.cat/feed/
-- e-notícies: https://www.e-noticies.cat/?feed=rss2
-- Lleida Diari: https://www.lleidadiari.cat/feed/
-- Catorze: https://www.catorze.cat/?feed=rss2
-- Xarxanet: https://www.xarxanet.org/?feed=rss2
-- Bondia: https://www.bondia.cat/?feed=rss2
-- El Temps: https://www.eltemps.cat/sindica
-- Àpunt: https://www.apunt.media/feed/
-- Nació Valenciana: https://naciovalenciana.cat/feed/
-- El Periòdic d'Ontinyent: https://www.elperiodicvalencia.com/?feed=rss2
-- Saó: https://www.saodijous.com/?feed=rss2
-- Diari de Balears: https://www.diaridebalears.cat/?feed=rss2
-- IB3 Notícies: https://ib3.org/feed/
-- Ara Balears: https://www.arabalears.cat/rss/
-- Coanegra: https://coanegra.cat/?feed=rss2
-- Manacor Comarcal: https://manacorcomarcal.com/?feed=rss2
-- L'Independant (Catalunya Nord): https://www.lindependant.fr/arc/outboundfeeds/rss/
-- El Pou de la Gallina: https://elpoudegallina.com/?feed=rss2
-- Nacionalcatalà (Catalunya Nord): https://www.nacionalcatala.com/?feed=rss2
-
-
-**LIST OF EVENT SOURCES**
-- WordPress BCN (Meetup RSS): https://www.meetup.com/WordPressBCN/events/rss/
-- Startup Grind Barcelona (Meetup RSS): https://www.meetup.com/startup-grind-barcelona/events/rss/
-- BarcelonaJS (Meetup RSS): https://www.meetup.com/BarcelonaJS/events/rss/
-- GDG Barcelona (Meetup RSS): https://www.meetup.com/GDG-Barcelona/events/rss/
-- Agile Barcelona (Meetup RSS): https://www.meetup.com/Agile-Barcelona/events/rss/
-- Docker Barcelona (Meetup RSS): https://www.meetup.com/docker-barcelona-spain/events/rss/
-- React Barcelona (Meetup RSS): https://www.meetup.com/React-Barcelona/events/rss/
-- AI Professionals Barcelona (Meetup RSS): https://www.meetup.com/barcelona-data-science-machine-learning/events/rss/
-- PyBCN (Meetup RSS): https://www.meetup.com/PyBCN/events/rss/
-- Free Software Barcelona (Meetup RSS): https://www.meetup.com/Barcelona-Free-Software/events/rss/
-- Tech Barcelona (web, JSON-LD): https://www.techbarcelona.com/agenda/
-- Eventbrite Barcelona Tech (web, JSON-LD): https://www.eventbrite.es/d/spain--barcelona/technology--events/
-
-**LIST OF PODCAST SOURCES**
-- La Base: https://rss.ivoox.com/podcast/la-base_sq_f1712297_1.xml
-- La Tecnologia al Dia (Catalunya Ràdio): https://rss.audioboom.com/channels/5025358.rss
-- Crims de la xarxa (iVoox): https://rss.ivoox.com/podcast/crims-de-la-xarxa_sq_f12305773_1.xml
-- El Terrat de la tecnologia: https://rss.ivoox.com/podcast/terrat-tecnologia_sq_f1700107_1.xml
-- Mossega la poma: https://mossegalapoma.cat/feed/podcast
-- Tecnicat (podcast): https://rss.ivoox.com/podcast/tecnicat_sq_f12054621_1.xml
-- Revolució 4.0: https://dinamics.3cat.cat/public/podcast/catradio/xml/0/8/podprograma1780.xml
-- L'altra ràdio: https://podcasts.cat/36/index.xml
-- El Gòtic: https://podcasts.cat/191/index.xml
-- Generació digital: https://dinamics.3cat.cat/public/podcast/catradio/xml/5/2/podprograma925.xml
-- Societat de la Informació: https://www.societatdelainformacio.com/feed/podcast/
-- Internet amb Genís Roca: https://podcasts.cat/247/index.xml
-- La poma de Newton: https://dinamics.3cat.cat/public/podcast/catradio/xml/1/7/podprograma1471.xml
-- Perspectiva: https://dinamics.3cat.cat/public/podcast/catradio/xml/1/4/podprograma1841.xml
-- Ciència al Versió RAC1: https://api.audioteca.rac1.cat/rss/versio/ciencia
