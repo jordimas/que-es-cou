@@ -193,18 +193,18 @@ Your task is to execute the following instructions:
 - NacióDigital: https://naciodigital.cat/rss/
 - 324.cat: https://www.324.cat/rss
 - Softcatalà: https://www.softcatala.org/feed/
-- El Nacional.cat: https://www.elnacional.cat/?feed=rss2
-- El Mon.cat: https://www.elmon.cat
-- Betevé: https://www.beteve.cat/
+- El Nacional.cat: https://www.elnacional.cat/uploads/feeds/feed_ca.xml
+- El Mon.cat: https://www.elmon.cat/feed/
+- Betevé: https://beteve.cat/feed/
 - RAC1: https://www.rac1.cat/?feed=rss2
-- El Punt Avui: https://www.elpuntavui.cat/feed/
-- Segre: https://www.segre.com/?feed=rss2
+- El Punt Avui: https://www.elpuntavui.cat/
+- Segre: https://www.segre.com/
 - Regio7: https://www.regio7.cat/?feed=rss2
 - Diari d'Andorra: https://www.diariandorra.ad/?feed=rss2
 - RTVA (Ràdio i Televisió d'Andorra): https://www.rtva.ad/feed/
 - Bon Dia Andorra: https://www.bondia.ad/?feed=rss2
 - Altaveu: https://www.altaveu.com/?feed=rss2
-- Nuvol: https://www.nuvol.com/rss
+- Nuvol: https://www.nuvol.com
 - Diari Mes (Tarragona): https://www.diarimes.com/?feed=rss2
 - Directe.cat: https://www.directe.cat/?feed=rss2
 - Cugat.cat: https://www.cugat.cat/feed/
@@ -215,7 +215,7 @@ Your task is to execute the following instructions:
 - Catorze: https://www.catorze.cat/?feed=rss2
 - Xarxanet: https://www.xarxanet.org/?feed=rss2
 - Bondia: https://www.bondia.cat/?feed=rss2
-- El Temps: https://www.eltemps.cat/feed/
+- El Temps: https://www.eltemps.cat/
 - Àpunt: https://www.apunt.media/feed/
 - Nació Valenciana: https://naciovalenciana.cat/feed/
 - El Periòdic d'Ontinyent: https://www.elperiodicvalencia.com/?feed=rss2
