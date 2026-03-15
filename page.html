@@ -69,10 +69,20 @@
       max-width: var(--max-w);
       margin: 0 auto;
       display: flex;
-      align-items: baseline;
-      gap: 14px;
+      align-items: center;
+      gap: 10px;
       flex-wrap: wrap;
     }
+
+    /* ── Logo ── */
+    .site-logo {
+      display: block;
+      flex-shrink: 0;
+      image-rendering: pixelated;
+      image-rendering: crisp-edges;
+    }
+    .site-logo .logo-bg { fill: var(--bg); }
+
     header h1 {
       font-size: clamp(1.1rem, 4vw, 1.5rem);
       color: var(--green);
@@ -226,6 +236,7 @@
     @media (max-width: 480px) {
       article { padding: 8px 10px; }
       .tab-btn { padding: 5px 10px; font-size: 0.72rem; }
+      .site-logo { width: 28px; height: 28px; }
     }
   </style>
 </head>
@@ -234,6 +245,107 @@
 
 <header>
   <div class="inner">
+
+    <!-- Olla pixel-art logo (24×24 grid, 3px/pixel = 72×72 viewBox) -->
+    <svg class="site-logo" xmlns="http://www.w3.org/2000/svg"
+         viewBox="0 0 72 72" width="36" height="36"
+         aria-label="Olla – Què es cou">
+      <!-- background adapts to theme -->
+      <rect class="logo-bg" width="72" height="72"/>
+      <!-- steam (dark green) -->
+      <rect x="15" y="3"  width="3" height="6" fill="#1a8c3a"/>
+      <rect x="27" y="3"  width="3" height="6" fill="#1a8c3a"/>
+      <rect x="33" y="3"  width="3" height="6" fill="#1a8c3a"/>
+      <rect x="45" y="3"  width="3" height="6" fill="#1a8c3a"/>
+      <rect x="57" y="3"  width="3" height="6" fill="#1a8c3a"/>
+      <rect x="27" y="9"  width="3" height="3" fill="#1a8c3a"/>
+      <rect x="45" y="9"  width="3" height="3" fill="#1a8c3a"/>
+      <!-- handles (amber) -->
+      <rect x="6"  y="15" width="6"  height="3" fill="#ffb000"/>
+      <rect x="60" y="15" width="6"  height="3" fill="#ffb000"/>
+      <rect x="3"  y="18" width="12" height="3" fill="#ffb000"/>
+      <rect x="57" y="18" width="12" height="3" fill="#ffb000"/>
+      <!-- top rim: handles + green bar -->
+      <rect x="3"  y="21" width="12" height="3" fill="#ffb000"/>
+      <rect x="15" y="21" width="42" height="3" fill="#33ff66"/>
+      <rect x="57" y="21" width="12" height="3" fill="#ffb000"/>
+      <!-- lid row (shadow strip) -->
+      <rect x="12" y="24" width="6"  height="3" fill="#33ff66"/>
+      <rect x="18" y="24" width="36" height="3" fill="#0a3d1a"/>
+      <rect x="54" y="24" width="6"  height="3" fill="#33ff66"/>
+      <!-- body rows 9-16: green border, dark shadow, teal fill -->
+      <!-- row 9 -->
+      <rect x="12" y="27" width="3"  height="3" fill="#33ff66"/>
+      <rect x="15" y="27" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="18" y="27" width="36" height="3" fill="#0d8050"/>
+      <rect x="54" y="27" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="57" y="27" width="3"  height="3" fill="#33ff66"/>
+      <!-- row 10 (highlight dots top-left and top-right) -->
+      <rect x="12" y="30" width="3"  height="3" fill="#33ff66"/>
+      <rect x="15" y="30" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="18" y="30" width="3"  height="3" fill="#0d8050"/>
+      <rect x="21" y="30" width="6"  height="3" fill="#8fff9f"/>
+      <rect x="27" y="30" width="21" height="3" fill="#0d8050"/>
+      <rect x="48" y="30" width="6"  height="3" fill="#8fff9f"/>
+      <rect x="54" y="30" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="57" y="30" width="3"  height="3" fill="#33ff66"/>
+      <!-- row 11 (same as row 10) -->
+      <rect x="12" y="33" width="3"  height="3" fill="#33ff66"/>
+      <rect x="15" y="33" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="18" y="33" width="3"  height="3" fill="#0d8050"/>
+      <rect x="21" y="33" width="6"  height="3" fill="#8fff9f"/>
+      <rect x="27" y="33" width="21" height="3" fill="#0d8050"/>
+      <rect x="48" y="33" width="6"  height="3" fill="#8fff9f"/>
+      <rect x="54" y="33" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="57" y="33" width="3"  height="3" fill="#33ff66"/>
+      <!-- row 12 (plain teal) -->
+      <rect x="12" y="36" width="3"  height="3" fill="#33ff66"/>
+      <rect x="15" y="36" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="18" y="36" width="36" height="3" fill="#0d8050"/>
+      <rect x="54" y="36" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="57" y="36" width="3"  height="3" fill="#33ff66"/>
+      <!-- row 13 (green badge border) -->
+      <rect x="12" y="39" width="3"  height="3" fill="#33ff66"/>
+      <rect x="15" y="39" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="18" y="39" width="9"  height="3" fill="#0d8050"/>
+      <rect x="27" y="39" width="18" height="3" fill="#33ff66"/>
+      <rect x="45" y="39" width="9"  height="3" fill="#0d8050"/>
+      <rect x="54" y="39" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="57" y="39" width="3"  height="3" fill="#33ff66"/>
+      <!-- row 14 (light green badge interior) -->
+      <rect x="12" y="42" width="3"  height="3" fill="#33ff66"/>
+      <rect x="15" y="42" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="18" y="42" width="9"  height="3" fill="#0d8050"/>
+      <rect x="27" y="42" width="3"  height="3" fill="#33ff66"/>
+      <rect x="30" y="42" width="12" height="3" fill="#8fff9f"/>
+      <rect x="42" y="42" width="3"  height="3" fill="#33ff66"/>
+      <rect x="45" y="42" width="9"  height="3" fill="#0d8050"/>
+      <rect x="54" y="42" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="57" y="42" width="3"  height="3" fill="#33ff66"/>
+      <!-- row 15 (green badge border again) -->
+      <rect x="12" y="45" width="3"  height="3" fill="#33ff66"/>
+      <rect x="15" y="45" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="18" y="45" width="9"  height="3" fill="#0d8050"/>
+      <rect x="27" y="45" width="18" height="3" fill="#33ff66"/>
+      <rect x="45" y="45" width="9"  height="3" fill="#0d8050"/>
+      <rect x="54" y="45" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="57" y="45" width="3"  height="3" fill="#33ff66"/>
+      <!-- row 16 (plain teal) -->
+      <rect x="12" y="48" width="3"  height="3" fill="#33ff66"/>
+      <rect x="15" y="48" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="18" y="48" width="36" height="3" fill="#0d8050"/>
+      <rect x="54" y="48" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="57" y="48" width="3"  height="3" fill="#33ff66"/>
+      <!-- row 17 (bottom shadow strip) -->
+      <rect x="12" y="51" width="6"  height="3" fill="#33ff66"/>
+      <rect x="18" y="51" width="36" height="3" fill="#0a3d1a"/>
+      <rect x="54" y="51" width="6"  height="3" fill="#33ff66"/>
+      <!-- row 18 (bottom rim) -->
+      <rect x="15" y="54" width="42" height="3" fill="#33ff66"/>
+      <!-- row 19 (base) -->
+      <rect x="18" y="57" width="36" height="3" fill="#33ff66"/>
+    </svg>
+
     <h1>Què es cou</h1>
     <time datetime="{{ generated_at }}">{{ date_display }}{% if generated_time %} {{ generated_time }}h{% endif %}</time>
     <button id="theme-toggle" aria-label="Canvia el tema">☀ clar</button>

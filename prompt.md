@@ -249,7 +249,7 @@ Your task is to execute the following instructions:
 - La Tecnologia al Dia (Catalunya Ràdio): https://rss.audioboom.com/channels/5025358.rss
 - Crims de la xarxa (iVoox): https://rss.ivoox.com/podcast/crims-de-la-xarxa_sq_f12305773_1.xml
 - El Terrat de la tecnologia: https://rss.ivoox.com/podcast/terrat-tecnologia_sq_f1700107_1.xml
-- Mossegar la poma: https://mossegalapoma.cat/feed/podcast
+- Mossega la poma: https://mossegalapoma.cat/feed/podcast
 - Tecnicat (podcast): https://rss.ivoox.com/podcast/tecnicat_sq_f12054621_1.xml
 - Revolució 4.0: https://dinamics.3cat.cat/public/podcast/catradio/xml/0/8/podprograma1780.xml
 - L'altra ràdio: https://podcasts.cat/36/index.xml
