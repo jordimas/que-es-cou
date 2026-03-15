@@ -176,6 +176,9 @@
     footer a { color: var(--muted); text-decoration: none; }
     footer a:hover { color: var(--green); }
 
+    .footer-sources { display: none; }
+    .footer-sources.active { display: inline; }
+
     .footer-ai-note {
       margin-top: 6px;
       color: var(--green-dim);
@@ -382,8 +385,12 @@
 
 <footer>
   <strong>Fonts:</strong>
-  {% for source in sources %}
-    <a href="{{ source.url }}" target="_blank" rel="noopener">{{ source.name }}</a>{% if not loop.last %}, {% endif %}
+  {% for section in sections %}
+  <span class="footer-sources{% if loop.first %} active{% endif %}" data-tab="{{ section.id }}">
+    {% for source in section.sources %}
+      <a href="{{ source.url }}" target="_blank" rel="noopener">{{ source.name }}</a>{% if not loop.last %}, {% endif %}
+    {% endfor %}
+  </span>
   {% endfor %}
   <br>Generat el {{ date_display }}{% if generated_time %} a les {{ generated_time }}h{% endif %}.
   <p class="footer-ai-note">Aquesta pàgina es regenera automàticament cada 4 hores mitjançant intel·ligència artificial.</p>
@@ -394,8 +401,10 @@
     btn.addEventListener('click', () => {
       document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
       document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
+      document.querySelectorAll('.footer-sources').forEach(s => s.classList.remove('active'));
       btn.classList.add('active');
       document.getElementById('tab-' + btn.dataset.tab).classList.add('active');
+      document.querySelector('.footer-sources[data-tab="' + btn.dataset.tab + '"]').classList.add('active');
     });
   });
 

@@ -68,23 +68,24 @@ def prepare_sections(raw_sections: list) -> list:
                 **art,
                 "date_display": format_date_ca(art.get("date", "")),
             })
-        sections.append({
+        enriched = {
             **sec,
             "tab_title": TAB_TITLES.get(sec.get("id", ""), sec.get("title", "")),
             "articles":  articles,
-        })
+        }
+        enriched["sources"] = collect_sources_for_section(enriched)
+        sections.append(enriched)
     return sections
 
 
-def collect_sources(raw_sections: list) -> list:
-    """Return deduplicated list of {name, url} dicts for the footer."""
+def collect_sources_for_section(section: dict) -> list:
+    """Return deduplicated list of {name, url} dicts for a single section's articles."""
     seen, sources = set(), []
-    for sec in raw_sections:
-        for art in sec.get("articles", []):
-            name = art.get("source", "").strip()
-            if name and name not in seen:
-                seen.add(name)
-                sources.append({"name": name, "url": source_domain(art.get("url", ""))})
+    for art in section.get("articles", []):
+        name = art.get("source", "").strip()
+        if name and name not in seen:
+            seen.add(name)
+            sources.append({"name": name, "url": source_domain(art.get("url", ""))})
     return sources
 
 
@@ -105,7 +106,6 @@ context = {
     "date_display": format_date_ca(generated_at),
     "generated_time": generated_time,
     "sections":     prepare_sections(data.get("sections", [])),
-    "sources":      collect_sources(data.get("sections", [])),
 }
 
 # ── Render ─────────────────────────────────────────────────────────────────────
