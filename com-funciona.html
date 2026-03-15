@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Com funciona – Què es cou</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&display=swap');
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --green:     #33ff66;
+      --green-dim: #1a8c3a;
+      --green-glow:rgba(51,255,102,.25);
+      --amber:     #ffb000;
+      --bg:        #0a0f0a;
+      --card-bg:   #0d130d;
+      --border:    #1f4d2a;
+      --muted:     #6abf7a;
+      --max-w:     820px;
+    }
+
+    :root.light {
+      --green:     #1a6630;
+      --green-dim: #2e8b57;
+      --green-glow:rgba(26,102,48,.15);
+      --amber:     #b36000;
+      --bg:        #ffffff;
+      --card-bg:   #f5f5f5;
+      --border:    #c8ddd0;
+      --muted:     #4a7a5a;
+    }
+
+    .scanlines {
+      pointer-events: none;
+      position: fixed;
+      inset: 0;
+      z-index: 1;
+      background: repeating-linear-gradient(
+        to bottom,
+        transparent 0px,
+        transparent 3px,
+        rgba(0,0,0,.10) 3px,
+        rgba(0,0,0,.10) 4px
+      );
+    }
+    :root.light .scanlines { display: none; }
+
+    body {
+      font-family: 'IBM Plex Mono', 'Courier New', monospace;
+      background: var(--bg);
+      color: var(--green);
+      line-height: 1.6;
+      padding: 0 0 48px;
+    }
+
+    header {
+      background: var(--bg);
+      border-bottom: 2px solid var(--green);
+      padding: 10px 12px;
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      box-shadow: 0 0 18px var(--green-glow);
+    }
+    header .inner {
+      max-width: var(--max-w);
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+    header h1 {
+      font-size: clamp(1.1rem, 4vw, 1.5rem);
+      color: var(--green);
+      text-shadow: 0 0 10px var(--green), 0 0 20px var(--green-glow);
+      text-transform: uppercase;
+      letter-spacing: 2px;
+    }
+    header h1::before { content: "> "; color: var(--amber); }
+    header a.back {
+      margin-left: auto;
+      color: var(--muted);
+      font-size: 0.78rem;
+      text-decoration: none;
+      border: 1px solid var(--border);
+      padding: 3px 8px;
+      transition: color .15s, border-color .15s;
+    }
+    header a.back:hover { color: var(--green); border-color: var(--green-dim); }
+
+    main {
+      max-width: var(--max-w);
+      margin: 0 auto;
+      padding: 28px 16px 0;
+    }
+
+    h2 {
+      font-size: clamp(0.85rem, 3vw, 1rem);
+      color: var(--amber);
+      text-shadow: 0 0 8px rgba(255,176,0,.4);
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      border-top: 1px solid var(--border);
+      padding: 8px 0 6px;
+      margin: 28px 0 10px;
+    }
+    h2::before { content: "## "; opacity: .6; }
+    h2:first-of-type { margin-top: 0; border-top: none; }
+
+    p {
+      font-size: 0.88rem;
+      color: var(--muted);
+      margin-bottom: 10px;
+    }
+
+    ul {
+      list-style: none;
+      margin: 0 0 14px;
+      padding: 0;
+    }
+    ul li {
+      font-size: 0.85rem;
+      color: var(--muted);
+      padding: 4px 0 4px 1.2em;
+      position: relative;
+    }
+    ul li::before { content: "-"; position: absolute; left: 0; color: var(--green-dim); }
+
+    .category-block {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-left: 3px solid var(--green-dim);
+      padding: 12px 14px;
+      margin-bottom: 8px;
+    }
+    .category-block h3 {
+      font-size: 0.88rem;
+      color: var(--green);
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      margin-bottom: 6px;
+    }
+    .category-block h3::before { content: "> "; color: var(--amber); }
+    .category-block p { margin-bottom: 0; }
+
+    a { color: var(--muted); }
+    a:hover { color: var(--green); }
+
+    footer {
+      max-width: var(--max-w);
+      margin: 32px auto 0;
+      padding: 10px 16px 0;
+      border-top: 1px solid var(--border);
+      font-size: 0.75rem;
+      color: var(--muted);
+    }
+    footer::before { content: "// "; color: var(--green-dim); }
+
+    #theme-toggle {
+      background: none;
+      border: 1px solid var(--border);
+      color: var(--muted);
+      font-family: 'IBM Plex Mono', 'Courier New', monospace;
+      font-size: 0.72rem;
+      padding: 3px 8px;
+      cursor: pointer;
+      transition: color .15s, border-color .15s;
+    }
+    #theme-toggle:hover { color: var(--green); border-color: var(--green-dim); }
+
+    @media (max-width: 480px) {
+      main { padding: 20px 12px 0; }
+    }
+  </style>
+</head>
+<body>
+<div class="scanlines"></div>
+
+<header>
+  <div class="inner">
+    <h1>Com funciona</h1>
+    <button id="theme-toggle" aria-label="Canvia el tema">☀ clar</button>
+    <a class="back" href="index.html">&larr; Tornar</a>
+  </div>
+</header>
+
+<main>
+
+  <h2>Què és Què es cou</h2>
+  <p>
+    <em>Què es cou</em> és un agregador de notícies tecnològiques en català. Es regenera automàticament
+    cada 4 hores, recull articles i episodis de pòdcast de diverses fonts i, amb ajuda d'intel·ligència
+    artificial, en selecciona els més rellevants, els tradueix al català si cal i en genera un resum breu.
+  </p>
+
+  <h2>Categories</h2>
+
+  <div class="category-block">
+    <h3>Al món</h3>
+    <p>Les 10 notícies tecnològiques internacionals més importants de les últimes 24 hores.
+       Es prioritzen les que apareixen en diverses fonts o tenen un impacte significatiu al sector.</p>
+  </div>
+
+  <div class="category-block">
+    <h3>Països Catalans</h3>
+    <p>Fins a 10 notícies d'àmbit català o local dels últims 7 dies que tractin sobre tecnologia.
+       S'accepten menys de 10 si no n'hi ha prou que compleixin els criteris.</p>
+  </div>
+
+  <div class="category-block">
+    <h3>Podcasts</h3>
+    <p>Tots els episodis de pòdcasts en català sobre tecnologia publicats en els últims 15 dies.
+       Les fonts ja estan curades, de manera que no s'aplica cap filtre temàtic addicional.</p>
+  </div>
+
+  <div class="category-block">
+    <h3>Trobades</h3>
+    <p>Esdeveniments i trobades tecnològiques a Barcelona i rodalia, extrets de plataformes
+       com Meetup i Eventbrite.</p>
+  </div>
+
+  <h2>Criteri de selecció tecnològica</h2>
+  <p>Un article es considera «de tecnologia» si tracta principalment sobre:</p>
+  <ul>
+    <li>Programari, aplicacions, plataformes, sistemes operatius o programació</li>
+    <li>Maquinari, xips, dispositius, ordinadors, telèfons o perifèrics</li>
+    <li>IA, aprenentatge automàtic, robòtica o automatització</li>
+    <li>Ciberseguretat, privadesa o vulneracions de dades</li>
+    <li>Internet, xarxes, núvol o centres de dades</li>
+    <li>Vehicles elèctrics, drons, tecnologia espacial, biotecnologia o tecnologia neta</li>
+    <li>Startups, empreses tecnològiques, notícies del sector tech o rondes de finançament</li>
+    <li>Ciència amb aplicació tecnològica directa</li>
+  </ul>
+  <p>S'exclouen articles sobre política, esports, cultura, turisme, economia general,
+     salut o medicina (llevat que tractin específicament d'un dispositiu mèdic, una app de salut
+     o un producte biotecnològic). En cas de dubte, s'exclou.</p>
+
+  <h2>Fonts</h2>
+  <p>Les fonts s'organitzen en quatre grups i s'actualitzen manualment al fitxer
+     <code>sources.yaml</code> del repositori.</p>
+
+  <p><strong>Internacionals:</strong> TechCrunch, Ars Technica, The Verge, Wired, MIT Technology Review,
+     Engadget, ZDNet, VentureBeat, CNET, MacRumors, 9to5Mac, 9to5Google, Android Authority,
+     Tom's Hardware, PCWorld, Digital Trends, The Guardian Tech, BBC Technology, NYT Technology,
+     Bloomberg Technology, Axios, The Next Web, TechRadar, Gizmodo, Slashdot, The Register,
+     Hacker News, Phoronix, NetworkWorld, InfoWorld, Computerworld, i d'altres.</p>
+
+  <p><strong>Països Catalans:</strong> Ara.cat, VilaWeb, NacióDigital, 324.cat, Softcatalà,
+     El Nacional.cat, El Mon.cat, Betevé, RAC1, El Punt Avui, Segre, Regio7,
+     MetaData, El Temps, Àpunt, Nuvol, Catorze, Diari de Balears, IB3 Notícies, Ara Balears, i d'altres.</p>
+
+  <p><strong>Pòdcasts en català:</strong> La Base, Crims de la xarxa, El Terrat de la tecnologia,
+     Mossega la poma, Tecnicat, Revolució 4.0, L'altra ràdio, Generació digital,
+     Societat de la Informació, Internet amb Genís Roca, Foc a Terra, Popap, i d'altres.</p>
+
+  <p><strong>Esdeveniments:</strong> WordPress BCN, BarcelonaJS, GDG Barcelona, PyBCN,
+     React Barcelona, AI Professionals Barcelona, Tech Barcelona, i d'altres.</p>
+
+  <h2>Com es genera el contingut</h2>
+  <p>El procés s'executa automàticament cada 4 hores mitjançant GitHub Actions:</p>
+  <ul>
+    <li><strong>Recollida:</strong> <code>fetch.py</code> descarrega els feeds RSS/Atom de totes les fonts
+        i desa els articles en fitxers JSON per categoria.</li>
+    <li><strong>Processament:</strong> el CLI de Claude llegeix els articles, aplica els filtres temàtics,
+        selecciona els més rellevants, tradueix els títols i resums al català i genera un fitxer
+        <code>news.json</code>.</li>
+    <li><strong>Renderitzat:</strong> <code>render.py</code> converteix el JSON en aquesta pàgina HTML
+        i en un feed RSS.</li>
+    <li><strong>Publicació:</strong> el resultat es desplega automàticament a GitHub Pages.</li>
+  </ul>
+  <p>El codi font és públic a
+     <a href="https://github.com/jordimas/que-es-cou" target="_blank" rel="noopener">github.com/jordimas/que-es-cou</a>.
+  </p>
+
+</main>
+
+<footer>
+  <a href="index.html">Què es cou</a> &mdash; notícies de tecnologia en català.
+</footer>
+
+<script>
+  const toggle = document.getElementById('theme-toggle');
+  const root = document.documentElement;
+  if (localStorage.getItem('theme') === 'light') {
+    root.classList.add('light');
+    toggle.textContent = '◾ fosc';
+  }
+  toggle.addEventListener('click', () => {
+    const isLight = root.classList.toggle('light');
+    toggle.textContent = isLight ? '◾ fosc' : '☀ clar';
+    localStorage.setItem('theme', isLight ? 'light' : 'dark');
+  });
+</script>
+
+</body>
+</html>
