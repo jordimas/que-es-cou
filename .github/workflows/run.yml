@@ -5,6 +5,9 @@ on:
     branches: ["main"]
   schedule:
     - cron: "0 */4 * * *"
+concurrency:
+  group: pages
+  cancel-in-progress: true
 jobs:
   run:
     runs-on: ubuntu-latest
