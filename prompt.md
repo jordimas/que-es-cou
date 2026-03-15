@@ -12,7 +12,7 @@ Your task is to execute the following instructions:
 
 **TECH TOPIC FILTER**
 
-An article counts as "about technology" if its title or description is primarily about one of these topics:
+An article counts as "about technology" if its title and description are primarily about one of these topics:
 - Software, apps, platforms, operating systems, programming
 - Hardware, chips, devices, computers, smartphones, peripherals
 - AI, machine learning, robotics, automation
@@ -31,8 +31,9 @@ An article does NOT count as tech if it is primarily about:
 When in doubt, exclude the article.
 
 **SELECTION CRITERIA**
-- Select up to the top 10 most important world news matching the tech topic filter, published in the last 24 hours
+- Select up to 10 of the most important tech news stories published in the last 24 hours
   - Prioritize stories covered by multiple sources or with significant industry impact
+  - As a tiebreaker, prefer the most recently published stories
 - Select up to the top 10 most important Catalan/local news matching the tech topic filter, published in the last 7 days
   - Prioritize stories covered by multiple sources or with significant impact
   - It is OK if fewer than 10 qualify
