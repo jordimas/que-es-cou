@@ -241,19 +241,17 @@ Your task is to execute the following instructions:
 
 **LIST OF PODCAST SOURCES**
 - La Base: https://rss.ivoox.com/podcast/la-base_sq_f1712297_1.xml
-- Bits de Ciència: https://feeds.soundcloud.com/users/soundcloud:users:302945232/sounds.rss
 - La Tecnologia al Dia (Catalunya Ràdio): https://rss.audioboom.com/channels/5025358.rss
 - Crims de la xarxa (iVoox): https://rss.ivoox.com/podcast/crims-de-la-xarxa_sq_f12305773_1.xml
-- Dades obertes (Catalunya Ràdio): https://api.3cat.cat/audio/podcasts?_format=rss&id=117&version=2.0
 - El Terrat de la tecnologia: https://rss.ivoox.com/podcast/terrat-tecnologia_sq_f1700107_1.xml
-- Mossegar la poma: https://podcasts.cat/32/index.xml
+- Mossegar la poma: https://mossegalapoma.cat/feed/podcast
 - Tecnicat (podcast): https://rss.ivoox.com/podcast/tecnicat_sq_f12054621_1.xml
-- Revolució 4.0: https://podcasts.cat/143/index.xml
+- Revolució 4.0: https://dinamics.3cat.cat/public/podcast/catradio/xml/0/8/podprograma1780.xml
 - L'altra ràdio: https://podcasts.cat/36/index.xml
 - El Gòtic: https://podcasts.cat/191/index.xml
-- Generació digital: https://podcasts.cat/28/index.xml
-- Societat de la Informació: https://podcasts.cat/54/index.xml
+- Generació digital: https://dinamics.3cat.cat/public/podcast/catradio/xml/5/2/podprograma925.xml
+- Societat de la Informació: https://www.societatdelainformacio.com/feed/podcast/
 - Internet amb Genís Roca: https://podcasts.cat/247/index.xml
-- La poma de Newton: https://podcasts.cat/40/index.xml
-- Perspectiva: https://podcasts.cat/178/index.xml
-- Ciència al Versió RAC1: https://podcasts.cat/162/index.xml
+- La poma de Newton: https://dinamics.3cat.cat/public/podcast/catradio/xml/1/7/podprograma1471.xml
+- Perspectiva: https://dinamics.3cat.cat/public/podcast/catradio/xml/1/4/podprograma1841.xml
+- Ciència al Versió RAC1: https://api.audioteca.rac1.cat/rss/versio/ciencia
