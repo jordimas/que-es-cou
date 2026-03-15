@@ -148,11 +148,11 @@ def build_rss(data: dict, sections: list) -> str:
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Què es cou</title>
-    <link>https://quescou.cat/</link>
+    <link>https://jordimas.github.io/que-es-cou/</link>
     <description>Notícies de tecnologia en català, actualitzades cada 4 hores.</description>
     <language>ca</language>
     <lastBuildDate>{pub_date}</lastBuildDate>
-    <atom:link href="https://quescou.cat/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://jordimas.github.io/que-es-cou/feed.xml" rel="self" type="application/rss+xml"/>
 {items_block}
   </channel>
 </rss>"""
