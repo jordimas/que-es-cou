@@ -167,6 +167,8 @@ podcasts:
     url: https://dinamics.3cat.cat/public/podcast/catradio/xml/1/4/podprograma1841.xml
   - name: Popap
     url: https://dinamics.3cat.cat/public/podcast/catradio/xml/7/3/podprograma1737.xml
+  - name: Foc a Terra
+    url: https://media.rss.com/focaterra/feed.xml
   - name: Ciència al Versió RAC1
     url: https://api.audioteca.rac1.cat/rss/versio/ciencia
 
