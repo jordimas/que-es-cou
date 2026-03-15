@@ -40,6 +40,7 @@ Your task is to execute the following instructions:
 **OUTPUT FORMAT**
 - If the headlines are in Catalan, keep the original headline. Do not rewrite it
 - All article titles and summaries must be written in Catalan
+- Summaries should provide an additional angle to the headline and try not to repeat the same content
 
 **RULES FOR THE JSON**
 - "generated_at" must be today's date and current time in YYYY-MM-DDTHH:MM format, in Barcelona local time (Europe/Madrid timezone)
