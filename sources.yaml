@@ -76,7 +76,7 @@ catalunya:
   - name: NacióDigital
     url: https://naciodigital.cat/rss/
   - name: 324.cat
-    url: https://www.ccma.cat/rss/324/noticies/
+    url: https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0
   - name: Softcatalà
     url: https://www.softcatala.org/feed/
   - name: El Nacional.cat
@@ -95,8 +95,6 @@ catalunya:
     url: https://www.regio7.cat/?feed=rss2
   - name: Diari d'Andorra
     url: https://www.diariandorra.ad/?feed=rss2
-  - name: RTVA
-    url: https://www.rtva.ad/feed/
   - name: Bon Dia Andorra
     url: https://www.bondia.ad/?feed=rss2
   - name: Altaveu
@@ -126,9 +124,7 @@ catalunya:
   - name: El Temps
     url: https://www.eltemps.cat/sindica
   - name: Àpunt
-    url: https://apunt.media/feed/
-  - name: Nació Valenciana
-    url: https://naciovalenciana.cat/feed/
+    url: https://www.apuntmedia.es/rss/
   - name: El Periòdic d'Ontinyent
     url: https://www.elperiodicvalencia.com/?feed=rss2
   - name: Saó
@@ -139,22 +135,12 @@ catalunya:
     url: https://ib3.org/feed/
   - name: Ara Balears
     url: https://www.arabalears.cat/rss/
-  - name: Coanegra
-    url: https://coanegra.cat/?feed=rss2
   - name: Manacor Comarcal
     url: https://manacorcomarcal.com/?feed=rss2
-  - name: L'Independant
-    url: https://www.lindependant.fr/arc/outboundfeeds/rss/
-  - name: El Pou de la Gallina
-    url: https://elpoudegallina.com/?feed=rss2
-  - name: Nacionalcatalà
-    url: https://www.nacionalcatala.com/?feed=rss2
 
 podcasts:
   - name: La Base
     url: https://www.ivoox.com/podcast-la-base_fg_f1712297_filtro_1.xml
-  - name: La Tecnologia al Dia
-    url: https://rss.audioboom.com/channels/5025358.rss
   - name: Crims de la xarxa
     url: https://www.ivoox.com/podcast-crims-de-la-xarxa_fg_f12305773_filtro_1.xml
   - name: El Terrat de la tecnologia
@@ -200,7 +186,7 @@ events:
   - name: AI Professionals Barcelona
     url: https://www.meetup.com/barcelona-data-science-machine-learning/events/rss/
   - name: PyBCN
-    url: https://www.meetup.com/PyBCN/events/rss/
+    url: https://www.meetup.com/python-barcelona/events/rss/
   - name: Free Software Barcelona
     url: https://www.meetup.com/Barcelona-Free-Software/events/rss/
   - name: Tech Barcelona
