@@ -40,6 +40,7 @@ Your task is to execute the following instructions:
 **OUTPUT FORMAT**
 - If the headlines are in Catalan, keep the original headline. Do not rewrite it
 - All article titles and summaries must be written in Catalan
+ - If you need to translate to Catalan, please do a second step to review the quality of the translation in Catalan language and fix any grammar mistake.
 - Summaries should provide an additional angle to the headline and try not to repeat the same content
 
 **RULES FOR THE JSON**
@@ -236,6 +237,10 @@ Your task is to execute the following instructions:
 - GDG Barcelona (Meetup RSS): https://www.meetup.com/GDG-Barcelona/events/rss/
 - Agile Barcelona (Meetup RSS): https://www.meetup.com/Agile-Barcelona/events/rss/
 - Docker Barcelona (Meetup RSS): https://www.meetup.com/docker-barcelona-spain/events/rss/
+- React Barcelona (Meetup RSS): https://www.meetup.com/React-Barcelona/events/rss/
+- AI Professionals Barcelona (Meetup RSS): https://www.meetup.com/barcelona-data-science-machine-learning/events/rss/
+- PyBCN (Meetup RSS): https://www.meetup.com/PyBCN/events/rss/
+- Free Software Barcelona (Meetup RSS): https://www.meetup.com/Barcelona-Free-Software/events/rss/
 - Tech Barcelona (web, JSON-LD): https://www.techbarcelona.com/agenda/
 - Eventbrite Barcelona Tech (web, JSON-LD): https://www.eventbrite.es/d/spain--barcelona/technology--events/
 
