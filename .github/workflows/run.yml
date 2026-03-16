@@ -47,10 +47,8 @@ jobs:
           TZ: Europe/Madrid
         run: bash run.sh
 
-      - name: Build telegram.json with new hashes
-        env:
-          TZ: Europe/Madrid
-        run: python telegram.py --dry-run
+      - name: Update telegram.json with new hashes
+        run: python telegram.py --save-only
 
       - name: Save telegram.json to storage branch
         run: |
@@ -74,7 +72,7 @@ jobs:
         env:
           TG_TOKEN: ${{ secrets.TG_TOKEN }}
           TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
-        run: python telegram.py
+        run: python telegram.py --send-only
 
       - name: Rename news.html to index.html
         run: mv ${{ github.workspace }}/news.html ${{ github.workspace }}/index.html

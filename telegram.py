@@ -139,18 +139,52 @@ def build_message(sections: list, date_display: str, generated_time: str,
 def main():
     load_env()
 
-    dry_run = "--dry-run" in sys.argv
+    send_only = "--send-only" in sys.argv
+    save_only = "--save-only" in sys.argv
 
     base = Path(__file__).parent
     telegram_json_path = base / "telegram.json"
+    news_telegram_path = base / "news.telegram"
 
-    # ── Load news data ────────────────────────────────────────────────────────
+    # ── Send-only mode: POST news.telegram as-is, no hash management ──────────
+    if send_only:
+        if not news_telegram_path.exists():
+            print("news.telegram not found, nothing to send.")
+            return
+        message = news_telegram_path.read_text(encoding="utf-8").strip()
+        if not message:
+            print("news.telegram is empty, nothing to send.")
+            return
+
+        token = os.environ.get("TG_TOKEN")
+        chat_id = os.environ.get("TG_CHAT_ID")
+        if not token:
+            sys.exit("Error: missing TG_TOKEN")
+        if not chat_id:
+            sys.exit("Error: missing TG_CHAT_ID")
+
+        chunks = split_message(message)
+        print(f"Sending news.telegram in {len(chunks)} message(s)...")
+        try:
+            for i, chunk in enumerate(chunks, 1):
+                result = send_message(token, chat_id, chunk)
+                if result.get("ok"):
+                    msg_id = result["result"]["message_id"]
+                    print(f"  Part {i}/{len(chunks)} sent (ID: {msg_id})")
+                else:
+                    sys.exit(f"Telegram error: {result.get('description', 'Unknown error')}")
+        except urllib.error.HTTPError as e:
+            body = json.loads(e.read().decode("utf-8"))
+            sys.exit(f"HTTP {e.code}: {body.get('description', str(e))}")
+        except urllib.error.URLError as e:
+            sys.exit(f"Request failed: {e.reason}")
+        return
+
+    # ── Save-only mode: update telegram.json, do not send ─────────────────────
     data, sections = load_news(base)
 
-    # ── Load sent hashes ──────────────────────────────────────────────────────
     sent_hashes = load_sent_hashes(telegram_json_path)
 
-    # ── Build filtered message ────────────────────────────────────────────────
     generated_at = data.get("generated_at", "")
     date_display = format_date_ca(generated_at)
     generated_time = generated_at[11:16] if len(generated_at) > 10 else ""
@@ -161,14 +195,13 @@ def main():
         print("No new articles to send.")
         return
 
-    # ── Dry-run: save hashes only, do not send ────────────────────────────────
-    if dry_run:
+    if save_only:
         all_hashes = sent_hashes | new_hashes
         save_sent_hashes(telegram_json_path, all_hashes)
-        print(f"Dry-run: telegram.json updated with {len(new_hashes)} new hashes ({len(all_hashes)} total), nothing sent.")
+        print(f"telegram.json updated with {len(new_hashes)} new hashes ({len(all_hashes)} total), nothing sent.")
         return
 
-    # ── Resolve credentials ───────────────────────────────────────────────────
+    # ── Normal mode: send then save ────────────────────────────────────────────
     token = os.environ.get("TG_TOKEN")
     chat_id = os.environ.get("TG_CHAT_ID")
 
@@ -177,7 +210,6 @@ def main():
     if not chat_id:
         sys.exit("Error: missing TG_CHAT_ID")
 
-    # ── Send ──────────────────────────────────────────────────────────────────
     chunks = split_message(message)
     print(f"Sending {len(new_hashes)} new articles in {len(chunks)} message(s)...")
 
@@ -195,7 +227,6 @@ def main():
     except urllib.error.URLError as e:
         sys.exit(f"Request failed: {e.reason}")
 
-    # ── Save updated hashes ───────────────────────────────────────────────────
     all_hashes = sent_hashes | new_hashes
     save_sent_hashes(telegram_json_path, all_hashes)
     print(f"telegram.json updated ({len(all_hashes)} total hashes)")
