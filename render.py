@@ -152,7 +152,9 @@ def build_telegram(sections: list, date_display: str, generated_time: str) -> st
             url          = art.get("url", "")
             summary      = art.get("summary", "")
             date_display = art.get("date_display", "")
-            date_suffix  = f" — {date_display}" if date_display else ""
+            time_str     = art.get("time", "")
+            time_part    = f" {time_str}h" if time_str and time_str != "00:00" else ""
+            date_suffix  = f" — {date_display}{time_part}" if date_display else ""
             lines.append(f'• <a href="{url}">{title}</a>{date_suffix}')
             if summary:
                 lines.append(f"  {summary}")
