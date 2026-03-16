@@ -32,10 +32,11 @@ MONTHS_CA = {
     "09": "setembre", "10": "octubre",  "11": "novembre", "12": "desembre",
 }
 
-TAB_TITLES = {
+SECTION_LABELS = {
     "world":     "Al món",
     "catalunya": "Països Catalans",
     "podcasts":  "Podcasts",
+    "events":    "Trobades",
 }
 
 
@@ -71,7 +72,7 @@ def prepare_sections(raw_sections: list) -> list:
             })
         enriched = {
             **sec,
-            "tab_title": TAB_TITLES.get(sec.get("id", ""), sec.get("title", "")),
+            "tab_title": SECTION_LABELS.get(sec.get("id", ""), sec.get("title", "")),
             "articles":  articles,
         }
         enriched["sources"] = collect_sources_for_section(enriched)
@@ -181,3 +182,29 @@ def build_rss(data: dict, sections: list) -> str:
 feed_xml = build_rss(data, data.get("sections", []))
 feed_path.write_text(feed_xml, encoding="utf-8")
 print(f"✅  RSS feed written to '{feed_path}'")
+
+# ── Generate Telegram output ─────────────────────────────────────────────────
+telegram_path = output_path.parent / "news.telegram"
+
+def build_telegram(sections: list, date_display: str, generated_time: str) -> str:
+    lines = []
+    lines.append(f"<b>Què es cou</b> — {date_display} {generated_time}".strip())
+    for sec in sections:
+        articles = sec.get("articles", [])
+        if not articles:
+            continue
+        label = SECTION_LABELS.get(sec.get("id", ""), sec.get("title", ""))
+        lines.append("")
+        lines.append(f"<b>{label}</b>")
+        for art in articles:
+            title   = art.get("title", "")
+            url     = art.get("url", "")
+            summary = art.get("summary", "")
+            lines.append(f'• <a href="{url}">{title}</a>')
+            if summary:
+                lines.append(f"  {summary}")
+    return "\n".join(lines)
+
+telegram_text = build_telegram(data.get("sections", []), context["date_display"], generated_time)
+telegram_path.write_text(telegram_text, encoding="utf-8")
+print(f"✅  Telegram output written to '{telegram_path}'")
