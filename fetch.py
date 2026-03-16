@@ -10,6 +10,7 @@ Usage:
 import hashlib
 import json
 import sys
+import time
 import xml.etree.ElementTree as ET
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
@@ -105,26 +106,31 @@ def parse_feed(content: bytes) -> list[dict]:
     return items
 
 
-def fetch_source(client: httpx.Client, name: str, url: str) -> dict:
+def fetch_source(client: httpx.Client, name: str, url: str, retries: int = 2) -> dict:
     """Fetch a single source URL and return a result dict."""
     result = {"name": name, "url": url}
-    try:
-        resp = client.get(url)
-        if resp.status_code == 200:
-            result["status"] = "ok"
-            result["items"] = parse_feed(resp.content)
-        else:
-            result["status"] = "blocked" if resp.status_code in (401, 403) else "error"
-            result["error_detail"] = f"HTTP {resp.status_code} {resp.reason_phrase}"
-            result["items"] = []
-    except httpx.TimeoutException:
-        result["status"] = "error"
-        result["error_detail"] = "Connection timeout"
-        result["items"] = []
-    except Exception as e:
-        result["status"] = "error"
-        result["error_detail"] = str(e)
-        result["items"] = []
+    for attempt in range(1 + retries):
+        try:
+            resp = client.get(url)
+            if resp.status_code == 200:
+                result["status"] = "ok"
+                result["items"] = parse_feed(resp.content)
+                return result
+            elif resp.status_code in (401, 403):
+                result["status"] = "blocked"
+                result["error_detail"] = f"HTTP {resp.status_code} {resp.reason_phrase}"
+                result["items"] = []
+                return result
+            else:
+                result["error_detail"] = f"HTTP {resp.status_code} {resp.reason_phrase}"
+        except httpx.TimeoutException:
+            result["error_detail"] = "Connection timeout"
+        except Exception as e:
+            result["error_detail"] = str(e)
+        if attempt < retries:
+            time.sleep(2 ** attempt)
+    result["status"] = "error"
+    result["items"] = []
     return result
 
 
