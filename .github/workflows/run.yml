@@ -17,6 +17,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Restore telegram.json from storage branch
+        run: |
+          git fetch origin storage --depth=1 2>/dev/null || true
+          git checkout origin/storage -- telegram.json 2>/dev/null || echo "telegram.json not found in storage branch, starting fresh"
+
       - name: Install Claude CLI
         run: npm install -g @anthropic-ai/claude-code
 
@@ -52,3 +57,27 @@ jobs:
           publish_branch: gh-pages
           publish_dir: .
           exclude_assets: '.github,*.py,*.sh,*.yaml,*.md,*.txt,*.json,requirements.txt'
+
+      - name: Send Telegram notification
+        env:
+          TG_TOKEN: ${{ secrets.TG_TOKEN }}
+          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+        run: python telegram.py
+
+      - name: Save telegram.json to storage branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          # Copy updated telegram.json out of the working tree
+          cp telegram.json /tmp/telegram.json
+          # Switch to storage branch (or create it as orphan if it doesn't exist)
+          if git fetch origin storage --depth=1 2>/dev/null; then
+            git checkout -B storage origin/storage
+          else
+            git checkout --orphan storage
+            git rm -rf . --quiet 2>/dev/null || true
+          fi
+          cp /tmp/telegram.json telegram.json
+          git add telegram.json
+          git commit -m "Update telegram.json [skip ci]" || echo "Nothing to commit"
+          git push origin storage

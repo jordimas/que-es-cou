@@ -1,29 +1,42 @@
 #!/usr/bin/env python3
 
 """
-tg-post.py — CLI tool to post HTML messages to a Telegram channel
+telegram.py — Post filtered news to a Telegram channel with deduplication.
 
-Usage:
-  python tg-post.py --message "<b>Hello</b> World"
-  python tg-post.py --file ./post.html
-  echo "<b>Hello</b>" | python tg-post.py
+Reads news.json + links.json, skips articles already sent (tracked in
+telegram.json), builds per-section messages, sends new ones, and updates
+telegram.json with the hashes of sent items.
 
 Config via environment variables (or a .env file):
   TG_TOKEN   — your Telegram bot token
   TG_CHAT_ID — your channel ID (e.g. -1001234567890)
 """
 
-import argparse
+import hashlib
 import json
 import os
-import select
 import sys
 import urllib.error
 import urllib.request
 from pathlib import Path
 
 
-# ─── Load .env if present ─────────────────────────────────────────────────────
+SECTION_LABELS = {
+    "world":     "Al món",
+    "catalunya": "Països Catalans",
+    "podcasts":  "Podcasts",
+    "events":    "Trobades",
+}
+
+MONTHS_CA = {
+    "01": "gener",    "02": "febrer",   "03": "març",     "04": "abril",
+    "05": "maig",     "06": "juny",     "07": "juliol",   "08": "agost",
+    "09": "setembre", "10": "octubre",  "11": "novembre", "12": "desembre",
+}
+
+
+# ─── Helpers ──────────────────────────────────────────────────────────────────
+
 def load_env():
     env_path = Path.cwd() / ".env"
     if env_path.exists():
@@ -36,131 +49,38 @@ def load_env():
                     os.environ.setdefault(key.strip(), value)
 
 
-# ─── Read HTML from stdin (non-blocking) ─────────────────────────────────────
-def read_stdin():
-    if sys.stdin.isatty():
-        return None
-    return sys.stdin.read().strip() or None
+def item_hash(url: str, title: str) -> str:
+    return hashlib.sha256(f"{url}\n{title}".encode()).hexdigest()[:16]
 
 
-# ─── Convert full HTML doc → Telegram-safe HTML ──────────────────────────────
-def html_to_telegram(raw: str) -> str:
-    """
-    Extracts content from a full HTML document and converts it to
-    Telegram-compatible HTML (only b, i, u, s, code, pre, a are supported).
-    Uses only stdlib — no pip required.
-    """
-    import re
-    from html.parser import HTMLParser
-
-    SUPPORTED = {"b", "strong", "i", "em", "u", "s", "del", "code", "pre", "a"}
-    REMAP = {"strong": "b", "em": "i", "del": "s"}
-    BLOCK_TAGS = {"p", "div", "h1", "h2", "h3", "h4", "h5", "h6",
-                  "li", "tr", "br", "hr", "section", "article"}
-    SKIP_TAGS = {"script", "style", "head", "noscript", "svg"}
-    VOID_TAGS = {"meta", "link", "br", "hr", "img", "input", "area",
-                 "base", "col", "embed", "param", "source", "track", "wbr"}
-
-    class TelegramHTMLParser(HTMLParser):
-        def __init__(self):
-            super().__init__()
-            self.result = []
-            self.skip_depth = 0
-            self.in_body = False
-
-        def handle_starttag(self, tag, attrs):
-            if tag == "body":
-                self.in_body = True
-                return
-            if tag in VOID_TAGS:
-                return
-            if self.skip_depth > 0:
-                self.skip_depth += 1
-                return
-            if tag in SKIP_TAGS:
-                self.skip_depth += 1
-                return
-            if not self.in_body:
-                return
-            tag_out = REMAP.get(tag, tag)
-            if tag_out in SUPPORTED:
-                if tag_out == "a":
-                    href = dict(attrs).get("href", "")
-                    self.result.append(f'<a href="{href}">')
-                else:
-                    self.result.append(f"<{tag_out}>")
-            elif tag in BLOCK_TAGS:
-                if self.result and not self.result[-1].endswith("\n"):
-                    self.result.append("\n")
-
-        def handle_endtag(self, tag):
-            if tag == "body":
-                return
-            if tag in VOID_TAGS:
-                return
-            if self.skip_depth > 0:
-                self.skip_depth -= 1
-                return
-            if not self.in_body:
-                return
-            tag_out = REMAP.get(tag, tag)
-            if tag_out in SUPPORTED:
-                self.result.append(f"</{tag_out}>")
-            elif tag in BLOCK_TAGS:
-                self.result.append("\n")
-
-        def handle_data(self, data):
-            if self.skip_depth > 0 or not self.in_body:
-                return
-            self.result.append(data)
-
-        def get_output(self):
-            text = "".join(self.result)
-            text = re.sub(r"\n{3,}", "\n\n", text)
-            return text.strip()
-
-    p = TelegramHTMLParser()
-    if "<body" not in raw.lower():
-        raw = f"<body>{raw}</body>"
-    p.feed(raw)
-    return p.get_output()
+def format_date_ca(iso: str) -> str:
+    try:
+        date_part = iso.split("T")[0]
+        y, m, d = date_part.split("-")
+        return f"{int(d)} de {MONTHS_CA[m]} de {y}"
+    except Exception:
+        return iso
 
 
-# ─── Split HTML into safe chunks (max 4096 chars) ────────────────────────────
-def split_html(html: str, limit: int = 4096) -> list[str]:
-    """
-    Splits HTML into chunks that fit within Telegram's limit.
-    Tries to break on paragraph/line boundaries to avoid cutting mid-tag.
-    """
-    if len(html) <= limit:
-        return [html]
-
-    chunks = []
-    while html:
-        if len(html) <= limit:
-            chunks.append(html)
-            break
-
-        # Try to find a clean break point within the limit (paragraph, newline)
-        chunk = html[:limit]
-        break_pos = max(
-            chunk.rfind("\n\n"),
-            chunk.rfind("</p>"),
-            chunk.rfind("</li>"),
-            chunk.rfind("\n"),
-        )
-
-        if break_pos <= 0:
-            # No clean break found — hard cut at limit
-            break_pos = limit
-
-        chunks.append(html[:break_pos].strip())
-        html = html[break_pos:].strip()
-
-    return [c for c in chunks if c]
+def load_sent_hashes(telegram_json_path: Path) -> set:
+    if telegram_json_path.exists():
+        try:
+            data = json.loads(telegram_json_path.read_text(encoding="utf-8"))
+            return set(data.get("sent", []))
+        except (json.JSONDecodeError, KeyError):
+            pass
+    return set()
 
 
-# ─── Send to Telegram ─────────────────────────────────────────────────────────
+def save_sent_hashes(telegram_json_path: Path, hashes: set):
+    telegram_json_path.write_text(
+        json.dumps({"sent": sorted(hashes)}, indent=2, ensure_ascii=False),
+        encoding="utf-8",
+    )
+
+
+# ─── Telegram API ─────────────────────────────────────────────────────────────
+
 def send_message(token: str, chat_id: str, html: str, silent: bool = False) -> dict:
     url = f"https://api.telegram.org/bot{token}/sendMessage"
     payload = json.dumps({
@@ -182,123 +102,135 @@ def send_message(token: str, chat_id: str, html: str, silent: bool = False) -> d
         return json.loads(response.read().decode("utf-8"))
 
 
-# ─── CLI argument parser ──────────────────────────────────────────────────────
-def build_parser() -> argparse.ArgumentParser:
-    parser = argparse.ArgumentParser(
-        prog="tg-post",
-        description="Post HTML messages to a Telegram channel",
-        formatter_class=argparse.RawDescriptionHelpFormatter,
-        epilog="""
-examples:
-  python tg-post.py --message "<b>Breaking News</b>: Something happened"
-  python tg-post.py --file ./post.html
-  python tg-post.py --message "<i>Test</i>" --silent
-  echo "<b>Hello</b>" | python tg-post.py
+def split_message(html: str, limit: int = 4096) -> list:
+    if len(html) <= limit:
+        return [html]
+    chunks = []
+    while html:
+        if len(html) <= limit:
+            chunks.append(html)
+            break
+        chunk = html[:limit]
+        break_pos = max(
+            chunk.rfind("\n\n"),
+            chunk.rfind("</a>"),
+            chunk.rfind("\n"),
+        )
+        if break_pos <= 0:
+            break_pos = limit
+        chunks.append(html[:break_pos].strip())
+        html = html[break_pos:].strip()
+    return [c for c in chunks if c]
 
-environment variables:
-  TG_TOKEN      Your Telegram bot token
-  TG_CHAT_ID    Your channel ID (e.g. -1001234567890)
-        """,
-    )
-    source = parser.add_mutually_exclusive_group()
-    source.add_argument("-m", "--message", metavar="HTML", help="HTML string to send")
-    source.add_argument("-f", "--file", metavar="PATH", help="Path to an HTML file to send")
 
-    parser.add_argument("-t", "--token", metavar="TOKEN", help="Telegram bot token (overrides TG_TOKEN)")
-    parser.add_argument("-c", "--chat", metavar="ID", help="Channel chat ID (overrides TG_CHAT_ID)")
-    parser.add_argument("-s", "--silent", action="store_true", help="Send without notifying subscribers")
-    parser.add_argument("--preview", action="store_true", help="Print the message without sending")
+# ─── Build message ────────────────────────────────────────────────────────────
 
-    return parser
+def build_message(sections: list, date_display: str, generated_time: str,
+                  sent_hashes: set) -> tuple:
+    """
+    Returns (message_text, new_hashes) where new_hashes are hashes of items
+    included in this message.
+    """
+    lines = [f"<b>Que es cou</b> — {date_display} {generated_time}".strip()]
+    new_hashes = set()
+
+    for sec in sections:
+        articles = sec.get("articles", [])
+        new_articles = [a for a in articles if item_hash(a["url"], a["title"]) not in sent_hashes]
+        if not new_articles:
+            continue
+
+        label = SECTION_LABELS.get(sec.get("id", ""), sec.get("title", ""))
+        lines.append("")
+        lines.append(f"<b>{label}</b>")
+        for art in new_articles:
+            h = item_hash(art["url"], art["title"])
+            new_hashes.add(h)
+            lines.append(f'• <a href="{art["url"]}">{art["title"]}</a>')
+            if art.get("summary"):
+                lines.append(f'  {art["summary"]}')
+
+    return "\n".join(lines), new_hashes
 
 
 # ─── Main ─────────────────────────────────────────────────────────────────────
+
 def main():
     load_env()
-    parser = build_parser()
-    args = parser.parse_args()
 
-    # ── Resolve HTML content (priority: --message > --file > stdin) ──
-    html = None
+    base = Path(__file__).parent
+    news_path = base / "news.json"
+    links_path = base / "links.json"
+    telegram_json_path = base / "telegram.json"
 
-    if args.message:
-        html = args.message
+    # ── Load news data ────────────────────────────────────────────────────────
+    try:
+        data = json.loads(news_path.read_text(encoding="utf-8"))
+    except FileNotFoundError:
+        sys.exit(f"Error: '{news_path}' not found.")
 
-    elif args.file:
-        file_path = Path(args.file).resolve()
-        if not file_path.exists():
-            print(f"❌  File not found: {file_path}", file=sys.stderr)
-            sys.exit(1)
-        html = file_path.read_text(encoding="utf-8").strip()
+    try:
+        links = json.loads(links_path.read_text(encoding="utf-8"))
+    except FileNotFoundError:
+        links = {}
 
-    else:
-        html = read_stdin()
+    # ── Resolve link_id → url ─────────────────────────────────────────────────
+    sections = []
+    for sec in data.get("sections", []):
+        articles = []
+        for art in sec.get("articles", []):
+            url = links.get(art.get("link_id", ""), "")
+            if not url:
+                continue
+            articles.append({**art, "url": url})
+        if articles:
+            sections.append({**sec, "articles": articles})
 
-    if not html:
-        print("❌  No message provided. Use --message, --file, or pipe HTML via stdin.", file=sys.stderr)
-        print("    Run with --help for usage info.", file=sys.stderr)
-        sys.exit(1)
+    # ── Load sent hashes ──────────────────────────────────────────────────────
+    sent_hashes = load_sent_hashes(telegram_json_path)
 
-    # ── Convert full HTML doc to Telegram-safe HTML ───────────────────
-    original_len = len(html)
-    html = html_to_telegram(html)
-    if len(html) < original_len:
-        print(f"🧹  Converted to Telegram HTML ({original_len} → {len(html)} chars)")
+    # ── Build filtered message ────────────────────────────────────────────────
+    generated_at = data.get("generated_at", "")
+    date_display = format_date_ca(generated_at)
+    generated_time = generated_at[11:16] if len(generated_at) > 10 else ""
 
-    # ── Preview mode ──────────────────────────────────────────────────
-    if args.preview:
-        print("\n── Preview ──────────────────────────────────")
-        print(html)
-        print("─────────────────────────────────────────────\n")
-        sys.exit(0)
+    message, new_hashes = build_message(sections, date_display, generated_time, sent_hashes)
 
-    # ── Resolve credentials ───────────────────────────────────────────
-    token = args.token or os.environ.get("TG_TOKEN")
-    chat_id = args.chat or os.environ.get("TG_CHAT_ID")
+    if not new_hashes:
+        print("No new articles to send.")
+        return
+
+    # ── Resolve credentials ───────────────────────────────────────────────────
+    token = os.environ.get("TG_TOKEN")
+    chat_id = os.environ.get("TG_CHAT_ID")
 
     if not token:
-        print("❌  Missing bot token. Set TG_TOKEN in .env or use --token.", file=sys.stderr)
-        sys.exit(1)
-
+        sys.exit("Error: missing TG_TOKEN")
     if not chat_id:
-        print("❌  Missing chat ID. Set TG_CHAT_ID in .env or use --chat.", file=sys.stderr)
-        sys.exit(1)
+        sys.exit("Error: missing TG_CHAT_ID")
 
-    # ── Split if needed ───────────────────────────────────────────────
-    chunks = split_html(html)
-    total = len(chunks)
-
-    if total > 1:
-        print(f"✂️   Message too long ({len(html)} chars) — splitting into {total} parts...")
-
-    # ── Send ──────────────────────────────────────────────────────────
-    print(f"📤  Sending to channel {chat_id}...")
+    # ── Send ──────────────────────────────────────────────────────────────────
+    chunks = split_message(message)
+    print(f"Sending {len(new_hashes)} new articles in {len(chunks)} message(s)...")
 
     try:
         for i, chunk in enumerate(chunks, 1):
-            if total > 1:
-                print(f"   Part {i}/{total} ({len(chunk)} chars)...")
-
-            result = send_message(token, chat_id, chunk, args.silent)
-
+            result = send_message(token, chat_id, chunk)
             if result.get("ok"):
                 msg_id = result["result"]["message_id"]
-                print(f"✅  Posted! Message ID: {msg_id}" if total == 1 else f"   ✅  Part {i} posted (ID: {msg_id})")
+                print(f"  Part {i}/{len(chunks)} sent (ID: {msg_id})")
             else:
-                print(f"❌  Telegram error: {result.get('description', 'Unknown error')}", file=sys.stderr)
-                sys.exit(1)
-
-        if total > 1:
-            print(f"🎉  All {total} parts sent successfully!")
-
+                sys.exit(f"Telegram error: {result.get('description', 'Unknown error')}")
     except urllib.error.HTTPError as e:
         body = json.loads(e.read().decode("utf-8"))
-        print(f"❌  HTTP {e.code}: {body.get('description', str(e))}", file=sys.stderr)
-        sys.exit(1)
-
+        sys.exit(f"HTTP {e.code}: {body.get('description', str(e))}")
     except urllib.error.URLError as e:
-        print(f"❌  Request failed: {e.reason}", file=sys.stderr)
-        sys.exit(1)
+        sys.exit(f"Request failed: {e.reason}")
+
+    # ── Save updated hashes ───────────────────────────────────────────────────
+    all_hashes = sent_hashes | new_hashes
+    save_sent_hashes(telegram_json_path, all_hashes)
+    print(f"telegram.json updated ({len(all_hashes)} total hashes)")
 
 
 if __name__ == "__main__":
