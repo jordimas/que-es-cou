@@ -47,17 +47,6 @@ jobs:
           TZ: Europe/Madrid
         run: bash run.sh
 
-      - name: Rename news.html to index.html
-        run: mv news.html index.html
-
-      - name: Deploy to github_pages branch
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: github_pages
-          publish_dir: .
-          exclude_assets: '.github,*.py,*.sh,*.yaml,*.md,*.txt,*.json,requirements.txt'
-
       - name: Send Telegram notification
         env:
           TG_TOKEN: ${{ secrets.TG_TOKEN }}
@@ -65,7 +54,6 @@ jobs:
         run: python telegram.py
 
       - name: Save telegram.json to storage branch
-        working-directory: ${{ github.workspace }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -82,3 +70,14 @@ jobs:
           git add telegram.json
           git commit -m "Update telegram.json [skip ci]" || echo "Nothing to commit"
           git push origin storage
+
+      - name: Rename news.html to index.html
+        run: mv ${{ github.workspace }}/news.html ${{ github.workspace }}/index.html
+
+      - name: Deploy to github_pages branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: github_pages
+          publish_dir: ${{ github.workspace }}
+          exclude_assets: '.github,*.py,*.sh,*.yaml,*.md,*.txt,*.json,requirements.txt'
