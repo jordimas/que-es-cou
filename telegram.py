@@ -20,19 +20,7 @@ import urllib.error
 import urllib.request
 from pathlib import Path
 
-
-SECTION_LABELS = {
-    "world":     "Al món",
-    "catalunya": "Països Catalans",
-    "podcasts":  "Podcasts",
-    "events":    "Trobades",
-}
-
-MONTHS_CA = {
-    "01": "gener",    "02": "febrer",   "03": "març",     "04": "abril",
-    "05": "maig",     "06": "juny",     "07": "juliol",   "08": "agost",
-    "09": "setembre", "10": "octubre",  "11": "novembre", "12": "desembre",
-}
+from news_utils import SECTION_LABELS, format_date_ca, load_news
 
 
 # ─── Helpers ──────────────────────────────────────────────────────────────────
@@ -51,15 +39,6 @@ def load_env():
 
 def item_hash(url: str, title: str) -> str:
     return hashlib.sha256(f"{url}\n{title}".encode()).hexdigest()[:16]
-
-
-def format_date_ca(iso: str) -> str:
-    try:
-        date_part = iso.split("T")[0]
-        y, m, d = date_part.split("-")
-        return f"{int(d)} de {MONTHS_CA[m]} de {y}"
-    except Exception:
-        return iso
 
 
 def load_sent_hashes(telegram_json_path: Path) -> set:
@@ -159,32 +138,10 @@ def main():
     load_env()
 
     base = Path(__file__).parent
-    news_path = base / "news.json"
-    links_path = base / "links.json"
     telegram_json_path = base / "telegram.json"
 
     # ── Load news data ────────────────────────────────────────────────────────
-    try:
-        data = json.loads(news_path.read_text(encoding="utf-8"))
-    except FileNotFoundError:
-        sys.exit(f"Error: '{news_path}' not found.")
-
-    try:
-        links = json.loads(links_path.read_text(encoding="utf-8"))
-    except FileNotFoundError:
-        links = {}
-
-    # ── Resolve link_id → url ─────────────────────────────────────────────────
-    sections = []
-    for sec in data.get("sections", []):
-        articles = []
-        for art in sec.get("articles", []):
-            url = links.get(art.get("link_id", ""), "")
-            if not url:
-                continue
-            articles.append({**art, "url": url})
-        if articles:
-            sections.append({**sec, "articles": articles})
+    data, sections = load_news(base)
 
     # ── Load sent hashes ──────────────────────────────────────────────────────
     sent_hashes = load_sent_hashes(telegram_json_path)

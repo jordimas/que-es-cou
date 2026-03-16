@@ -10,7 +10,6 @@ The Jinja2 template is expected at: templates/page.html
 (relative to this script, or override with --template)
 """
 
-import json
 import sys
 from datetime import datetime
 from pathlib import Path
@@ -19,36 +18,13 @@ from xml.sax.saxutils import escape
 
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
+from news_utils import SECTION_LABELS, format_date_ca, load_news
+
 # ── CLI args ───────────────────────────────────────────────────────────────────
 input_path    = Path(sys.argv[1]) if len(sys.argv) > 1 else Path("news.json")
 output_path   = Path(sys.argv[2]) if len(sys.argv) > 2 else Path("news.html")
 template_dir  = Path(__file__).parent
 template_name = "page.html"
-
-# ── Constants ──────────────────────────────────────────────────────────────────
-MONTHS_CA = {
-    "01": "gener",    "02": "febrer",   "03": "març",     "04": "abril",
-    "05": "maig",     "06": "juny",     "07": "juliol",   "08": "agost",
-    "09": "setembre", "10": "octubre",  "11": "novembre", "12": "desembre",
-}
-
-SECTION_LABELS = {
-    "world":     "Al món",
-    "catalunya": "Països Catalans",
-    "podcasts":  "Podcasts",
-    "events":    "Trobades",
-}
-
-
-# ── Data helpers ───────────────────────────────────────────────────────────────
-def format_date_ca(iso: str) -> str:
-    """'2026-03-14' or '2026-03-14T19:36' → '14 de març de 2026'"""
-    try:
-        date_part = iso.split("T")[0]
-        y, m, d = date_part.split("-")
-        return f"{int(d)} de {MONTHS_CA[m]} de {y}"
-    except Exception:
-        return iso
 
 
 def source_domain(url: str) -> str:
@@ -92,33 +68,8 @@ def collect_sources_for_section(section: dict) -> list:
 
 
 # ── Load JSON ──────────────────────────────────────────────────────────────────
-try:
-    data = json.loads(input_path.read_text(encoding="utf-8"))
-except FileNotFoundError:
-    sys.exit(f"Error: '{input_path}' not found.")
-except json.JSONDecodeError as e:
-    sys.exit(f"Error: invalid JSON in '{input_path}': {e}")
-
-links_path = input_path.parent / "links.json"
-try:
-    links = json.loads(links_path.read_text(encoding="utf-8"))
-except FileNotFoundError:
-    links = {}
-
-filtered_sections = []
-for section in data.get("sections", []):
-    filtered_articles = []
-    for art in section.get("articles", []):
-        link_id = art.get("link_id", "")
-        url = links.get(link_id, "")
-        if not url:
-            print(f"WARNING: link_id '{link_id}' not found in links.json, skipping article: {art.get('title', '')}")
-            continue
-        art["url"] = url
-        filtered_articles.append(art)
-    section["articles"] = filtered_articles
-    filtered_sections.append(section)
-data["sections"] = filtered_sections
+data, resolved_sections = load_news(input_path.parent, warn_missing_links=True)
+data["sections"] = resolved_sections
 
 # ── Build template context ─────────────────────────────────────────────────────
 generated_at = data.get("generated_at", datetime.today().strftime("%Y-%m-%d"))
