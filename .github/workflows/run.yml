@@ -67,6 +67,7 @@ jobs:
           git add telegram.json
           git commit -m "Update telegram.json [skip ci]" || echo "Nothing to commit"
           git push origin storage
+          git checkout main
 
       - name: Send Telegram notification
         env:
