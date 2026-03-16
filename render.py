@@ -10,6 +10,8 @@ The Jinja2 template is expected at: templates/page.html
 (relative to this script, or override with --template)
 """
 
+import hashlib
+import json
 import sys
 from datetime import datetime
 from pathlib import Path
@@ -136,30 +138,50 @@ print(f"✅  RSS feed written to '{feed_path}'")
 
 # ── Generate Telegram output ─────────────────────────────────────────────────
 telegram_path = output_path.parent / "news.telegram"
+telegram_json_path = output_path.parent / "telegram.json"
 
-def build_telegram(sections: list, date_display: str, generated_time: str) -> str:
+
+def item_hash(url: str, title: str) -> str:
+    return hashlib.sha256(f"{url}\n{title}".encode()).hexdigest()[:16]
+
+
+def load_sent_hashes(path: Path) -> set:
+    if path.exists():
+        try:
+            data = json.loads(path.read_text(encoding="utf-8"))
+            return set(data.get("sent", []))
+        except (json.JSONDecodeError, KeyError):
+            pass
+    return set()
+
+
+def build_telegram(sections: list, date_display: str, generated_time: str,
+                   sent_hashes: set) -> str:
     lines = []
     lines.append(f"<b>Què es cou</b> — {date_display} {generated_time}".strip())
     for sec in sections:
         articles = sec.get("articles", [])
-        if not articles:
+        new_articles = [a for a in articles if item_hash(a.get("url", ""), a.get("title", "")) not in sent_hashes]
+        if not new_articles:
             continue
         label = SECTION_LABELS.get(sec.get("id", ""), sec.get("title", ""))
         lines.append("")
         lines.append(f"<b>{label}</b>")
-        for art in articles:
+        for art in new_articles:
             title        = art.get("title", "")
             url          = art.get("url", "")
             summary      = art.get("summary", "")
-            date_display = art.get("date_display", "")
+            art_date     = art.get("date_display", "")
             time_str     = art.get("time", "")
             time_part    = f" {time_str}h" if time_str and time_str != "00:00" else ""
-            date_suffix  = f" — {date_display}{time_part}" if date_display else ""
+            date_suffix  = f" — {art_date}{time_part}" if art_date else ""
             lines.append(f'• <a href="{url}">{title}</a>{date_suffix}')
             if summary:
                 lines.append(f"  {summary}")
     return "\n".join(lines)
 
-telegram_text = build_telegram(context["sections"], context["date_display"], generated_time)
+
+sent_hashes = load_sent_hashes(telegram_json_path)
+telegram_text = build_telegram(context["sections"], context["date_display"], generated_time, sent_hashes)
 telegram_path.write_text(telegram_text, encoding="utf-8")
 print(f"✅  Telegram output written to '{telegram_path}'")
