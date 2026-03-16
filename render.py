@@ -197,14 +197,16 @@ def build_telegram(sections: list, date_display: str, generated_time: str) -> st
         lines.append("")
         lines.append(f"<b>{label}</b>")
         for art in articles:
-            title   = art.get("title", "")
-            url     = art.get("url", "")
-            summary = art.get("summary", "")
-            lines.append(f'• <a href="{url}">{title}</a>')
+            title        = art.get("title", "")
+            url          = art.get("url", "")
+            summary      = art.get("summary", "")
+            date_display = art.get("date_display", "")
+            date_suffix  = f" — {date_display}" if date_display else ""
+            lines.append(f'• <a href="{url}">{title}</a>{date_suffix}')
             if summary:
                 lines.append(f"  {summary}")
     return "\n".join(lines)
 
-telegram_text = build_telegram(data.get("sections", []), context["date_display"], generated_time)
+telegram_text = build_telegram(context["sections"], context["date_display"], generated_time)
 telegram_path.write_text(telegram_text, encoding="utf-8")
 print(f"✅  Telegram output written to '{telegram_path}'")
