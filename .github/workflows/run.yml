@@ -1,0 +1,83 @@
+name: Run Claude Script
+on:
+  workflow_dispatch:
+  push:
+    branches: ["main"]
+  schedule:
+    - cron: "0 */4 * * *"
+concurrency:
+  group: pages
+  cancel-in-progress: true
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Restore telegram.json from storage branch
+        run: |
+          git fetch origin storage --depth=1 2>/dev/null || true
+          git checkout origin/storage -- telegram.json 2>/dev/null || echo "telegram.json not found in storage branch, starting fresh"
+
+      - name: Install Claude CLI
+        run: npm install -g @anthropic-ai/claude-code
+
+      - name: Write Claude settings.json
+        run: |
+          mkdir -p ~/.claude
+          printf '%s' '${{ secrets.CLAUDE_CONFIG }}' > ~/.claude/settings.json
+
+      - name: Debug settings.json
+        run: |
+          echo "--- File exists? ---"
+          ls -la ~/.claude/settings.json
+          echo "--- Valid JSON? ---"
+          cat ~/.claude/settings.json | python3 -m json.tool > /dev/null && echo "JSON OK" || echo "JSON INVALID"
+          echo "--- Keys present (no values) ---"
+          cat ~/.claude/settings.json | python3 -c "import json,sys; d=json.load(sys.stdin); print('env keys:', list(d.get('env',{}).keys())); print('model:', d.get('model'))"
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run script
+        env:
+          TZ: Europe/Madrid
+        run: bash run.sh
+
+      - name: Rename news.html to index.html
+        run: mv news.html index.html
+
+      - name: Deploy to github_pages branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages
+          publish_dir: .
+          exclude_assets: '.github,*.py,*.sh,*.yaml,*.md,*.txt,*.json,requirements.txt'
+
+      - name: Send Telegram notification
+        env:
+          TG_TOKEN: ${{ secrets.TG_TOKEN }}
+          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+        run: python telegram.py
+
+      - name: Save telegram.json to storage branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          # Copy updated telegram.json out of the working tree
+          cp telegram.json /tmp/telegram.json
+          # Switch to storage branch (or create it as orphan if it doesn't exist)
+          if git fetch origin storage --depth=1 2>/dev/null; then
+            git checkout -B storage origin/storage
+          else
+            git checkout --orphan storage
+            git rm -rf . --quiet 2>/dev/null || true
+          fi
+          cp /tmp/telegram.json telegram.json
+          git add telegram.json
+          git commit -m "Update telegram.json [skip ci]" || echo "Nothing to commit"
+          git push origin storage
