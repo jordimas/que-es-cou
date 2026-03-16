@@ -52,7 +52,7 @@ When in doubt, exclude the article.
 **RULES FOR THE JSON**
 - "generated_at" must be today's date and current time in YYYY-MM-DDTHH:MM format, in Barcelona local time (Europe/Madrid timezone)
 - "summary" must be 20 words or fewer, written in Catalan. Count the words carefully — if it exceeds 20 words, shorten it. This limit is strict.
-- "url" must be the exact value of the `link` field from the feed item. Never derive, reconstruct, or infer a URL.
+- "link_id" must be the exact value of the `link_id` field from the feed item. Never derive, reconstruct, or infer a link_id.
 - Skip any article whose `link` does not start with `http://` or `https://` — no exceptions, no substitutions.
 - "source" is the publication name (e.g. "TechCrunch", "Ara.cat")
 - "date" is the article's publication date in YYYY-MM-DD format, taken from the RSS <pubDate> or <dc:date> tag. Never infer the date from context.
@@ -79,7 +79,7 @@ When in doubt, exclude the article.
       "articles": [
         {
           "title": "Article title in Catalan",
-          "url": "https://...",
+          "link_id": "xxxx",
           "source": "Source name",
           "date": "YYYY-MM-DD",
           "time": "HH:MM",
@@ -102,7 +102,7 @@ When in doubt, exclude the article.
       "articles": [
         {
           "title": "Article title in Catalan",
-          "url": "https://...",
+          "link_id": "xxxx",
           "source": "Source name",
           "date": "YYYY-MM-DD",
           "time": "HH:MM",
@@ -125,7 +125,7 @@ When in doubt, exclude the article.
       "articles": [
         {
           "title": "Episode title",
-          "url": "https://...",
+          "link_id": "xxxx",
           "source": "Podcast name",
           "date": "YYYY-MM-DD",
           "time": "HH:MM",
@@ -148,7 +148,7 @@ When in doubt, exclude the article.
       "articles": [
         {
           "title": "Event title",
-          "url": "https://...",
+          "link_id": "xxxx",
           "source": "Source name",
           "date": "YYYY-MM-DD",
           "time": "HH:MM",

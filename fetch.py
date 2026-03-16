@@ -7,6 +7,7 @@ Usage:
     python fetch.py sources.yaml outdir/ # custom sources and output directory
 """
 
+import hashlib
 import json
 import sys
 import xml.etree.ElementTree as ET
@@ -161,15 +162,28 @@ SECTION_IDS = ["world", "catalunya", "podcasts", "events"]
 fetched_at = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M")
 print(f"Fetching feeds at {fetched_at} ...")
 
+links = {}
+
 for section_id in SECTION_IDS:
     section_sources = sources_data.get(section_id, [])
     if not section_sources:
         print(f"  [{section_id}] no sources defined, skipping")
         continue
     section = fetch_section(section_id, section_sources)
+    for source in section["sources"]:
+        for item in source.get("items", []):
+            link = item.get("link", "")
+            if link:
+                link_id = "c_" + hashlib.sha1(link.encode()).hexdigest()[-6:]
+                links[link_id] = link
+                item["link_id"] = link_id
     out_path = output_dir / f"raw_feeds_{section_id}.json"
     out_path.write_text(
         json.dumps({"fetched_at": fetched_at, "section": section}, ensure_ascii=False, indent=2),
         encoding="utf-8",
     )
     print(f"  Written to '{out_path}'")
+
+links_path = output_dir / "links.json"
+links_path.write_text(json.dumps(links, ensure_ascii=False, indent=2), encoding="utf-8")
+print(f"  Written to '{links_path}'")
