@@ -139,6 +139,8 @@ def build_message(sections: list, date_display: str, generated_time: str,
 def main():
     load_env()
 
+    dry_run = "--dry-run" in sys.argv
+
     base = Path(__file__).parent
     telegram_json_path = base / "telegram.json"
 
@@ -157,6 +159,13 @@ def main():
 
     if not new_hashes:
         print("No new articles to send.")
+        return
+
+    # ── Dry-run: save hashes only, do not send ────────────────────────────────
+    if dry_run:
+        all_hashes = sent_hashes | new_hashes
+        save_sent_hashes(telegram_json_path, all_hashes)
+        print(f"Dry-run: telegram.json updated with {len(new_hashes)} new hashes ({len(all_hashes)} total), nothing sent.")
         return
 
     # ── Resolve credentials ───────────────────────────────────────────────────

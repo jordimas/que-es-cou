@@ -47,11 +47,10 @@ jobs:
           TZ: Europe/Madrid
         run: bash run.sh
 
-      - name: Send Telegram notification
+      - name: Build telegram.json with new hashes
         env:
-          TG_TOKEN: ${{ secrets.TG_TOKEN }}
-          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
-        run: python telegram.py
+          TZ: Europe/Madrid
+        run: python telegram.py --dry-run
 
       - name: Save telegram.json to storage branch
         run: |
@@ -70,6 +69,12 @@ jobs:
           git add telegram.json
           git commit -m "Update telegram.json [skip ci]" || echo "Nothing to commit"
           git push origin storage
+
+      - name: Send Telegram notification
+        env:
+          TG_TOKEN: ${{ secrets.TG_TOKEN }}
+          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+        run: python telegram.py
 
       - name: Rename news.html to index.html
         run: mv ${{ github.workspace }}/news.html ${{ github.workspace }}/index.html
