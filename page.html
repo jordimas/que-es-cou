@@ -199,11 +199,12 @@
       color: var(--muted);
       border: 1px solid var(--border);
       border-bottom: none;
-      padding: 6px 14px;
+      padding: 8px 18px;
       font-family: 'IBM Plex Mono', 'Courier New', monospace;
-      font-size: 0.78rem;
+      font-size: 0.92rem;
+      font-weight: 600;
       text-transform: uppercase;
-      letter-spacing: 1px;
+      letter-spacing: 2px;
       cursor: pointer;
       transition: color .15s, border-color .15s;
     }
@@ -211,7 +212,7 @@
     .tab-btn.active {
       color: var(--amber);
       border-color: var(--amber);
-      text-shadow: 0 0 8px rgba(255,176,0,.4);
+      text-shadow: 0 0 12px rgba(255,176,0,.6), 0 0 24px rgba(255,176,0,.25);
     }
     .tab-btn.active::before { content: "> "; }
 
@@ -261,7 +262,7 @@
     /* ── Mobile ── */
     @media (max-width: 480px) {
       article { padding: 8px 10px; }
-      .tab-btn { padding: 5px 10px; font-size: 0.72rem; }
+      .tab-btn { padding: 6px 12px; font-size: 0.82rem; }
       .site-logo { width: 28px; height: 28px; }
     }
   </style>
