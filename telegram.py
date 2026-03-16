@@ -125,7 +125,9 @@ def build_message(sections: list, date_display: str, generated_time: str,
         for art in new_articles:
             h = item_hash(art["url"], art["title"])
             new_hashes.add(h)
-            lines.append(f'• <a href="{art["url"]}">{art["title"]}</a>')
+            time_part = f' {art["time"]}h' if art.get("time") and art["time"] != "00:00" else ""
+            date_suffix = f' — {art["date_display"]}{time_part}' if art.get("date_display") else ""
+            lines.append(f'• <a href="{art["url"]}">{art["title"]}</a>{date_suffix}')
             if art.get("summary"):
                 lines.append(f'  {art["summary"]}')
 
