@@ -2,11 +2,11 @@ name: Run Claude Script
 on:
   workflow_dispatch:
   push:
-    branches: ["main"]
+    branches: ["main", "dev"]
   schedule:
     - cron: "0 */4 * * *"
 concurrency:
-  group: pages
+  group: pages-${{ github.ref_name }}
   cancel-in-progress: true
 jobs:
   run:
@@ -19,8 +19,9 @@ jobs:
 
       - name: Restore telegram.json from storage branch
         run: |
+          BRANCH=${{ github.ref_name }}
           git fetch origin storage --depth=1 2>/dev/null || true
-          git checkout origin/storage -- telegram.json 2>/dev/null || echo "telegram.json not found in storage branch, starting fresh"
+          git checkout origin/storage -- ${BRANCH}/telegram.json 2>/dev/null && mv ${BRANCH}/telegram.json telegram.json || echo "telegram.json not found in storage branch, starting fresh"
 
       - name: Install Claude CLI
         run: npm install -g @anthropic-ai/claude-code
@@ -52,6 +53,7 @@ jobs:
 
       - name: Save telegram.json to storage branch
         run: |
+          BRANCH=${{ github.ref_name }}
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           # Copy updated telegram.json out of the working tree
@@ -63,11 +65,12 @@ jobs:
             git checkout --orphan storage
             git rm -rf . --quiet 2>/dev/null || true
           fi
-          cp /tmp/telegram.json telegram.json
-          git add telegram.json
-          git commit -m "Update telegram.json [skip ci]" || echo "Nothing to commit"
+          mkdir -p ${BRANCH}
+          cp /tmp/telegram.json ${BRANCH}/telegram.json
+          git add ${BRANCH}/telegram.json
+          git commit -m "Update ${BRANCH}/telegram.json [skip ci]" || echo "Nothing to commit"
           git push origin storage
-          git checkout main
+          git checkout ${BRANCH}
 
       - name: Send Telegram notification
         env:
@@ -78,10 +81,21 @@ jobs:
       - name: Rename news.html to index.html
         run: mv ${{ github.workspace }}/news.html ${{ github.workspace }}/index.html
 
-      - name: Deploy to gh-pages branch
+      - name: Deploy to gh-pages branch (main → root)
+        if: github.ref_name == 'main'
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: gh-pages
           publish_dir: ${{ github.workspace }}
+          exclude_assets: '.github,*.py,*.sh,*.yaml,*.md,*.txt,*.json,requirements.txt'
+
+      - name: Deploy to gh-pages branch (dev → /dev subdirectory)
+        if: github.ref_name == 'dev'
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages
+          publish_dir: ${{ github.workspace }}
+          destination_dir: dev
           exclude_assets: '.github,*.py,*.sh,*.yaml,*.md,*.txt,*.json,requirements.txt'
