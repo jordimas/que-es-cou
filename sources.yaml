@@ -171,6 +171,14 @@ podcasts:
     url: https://media.rss.com/focaterra/feed.xml
   - name: Ciència al Versió RAC1
     url: https://api.audioteca.rac1.cat/rss/versio/ciencia
+  - name: WordPress Pòdcast
+    url: https://www.wppodcast.cat/feed/podcast/
+  - name: EvidentMENT
+    url: https://www.evidentment.cat/feed/
+  - name: La Píndola Vermella
+    url: https://www.ivoox.com/podcast-pindola-vermella_fg_f12363688_filtro_1.xml
+  - name: Heroïnes Digitals
+    url: https://anchor.fm/s/f29f72dc/podcast/rss
 
 events:
   - name: WordPress BCN
