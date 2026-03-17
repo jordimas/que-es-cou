@@ -1,0 +1,850 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Què es cou – 17 de març de 2026 21:05h</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&display=swap');
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --green:     #33ff66;
+      --green-dim: #1a8c3a;
+      --green-glow:rgba(51,255,102,.25);
+      --amber:     #ffb000;
+      --bg:        #0a0f0a;
+      --card-bg:   #0d130d;
+      --border:    #1f4d2a;
+      --muted:     #6abf7a;
+      --max-w:     820px;
+    }
+
+    :root.light {
+      --green:     #1a6630;
+      --green-dim: #2e8b57;
+      --green-glow:rgba(26,102,48,.15);
+      --amber:     #b36000;
+      --bg:        #ffffff;
+      --card-bg:   #f5f5f5;
+      --border:    #c8ddd0;
+      --muted:     #4a7a5a;
+    }
+
+    /* CRT scanlines overlay */
+    .scanlines {
+      pointer-events: none;
+      position: fixed;
+      inset: 0;
+      z-index: 1;
+      background: repeating-linear-gradient(
+        to bottom,
+        transparent 0px,
+        transparent 3px,
+        rgba(0,0,0,.10) 3px,
+        rgba(0,0,0,.10) 4px
+      );
+    }
+
+    body {
+      font-family: 'IBM Plex Mono', 'Courier New', monospace;
+      background: var(--bg);
+      color: var(--green);
+      line-height: 1.5;
+      padding: 0 0 32px;
+    }
+
+    /* ── Header ── */
+    header {
+      background: var(--bg);
+      border-bottom: 2px solid var(--green);
+      padding: 10px 12px;
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      box-shadow: 0 0 18px var(--green-glow);
+    }
+    header .inner {
+      max-width: var(--max-w);
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+
+    /* ── Logo ── */
+    .site-logo {
+      display: block;
+      flex-shrink: 0;
+      image-rendering: pixelated;
+      image-rendering: crisp-edges;
+    }
+    .site-logo .logo-bg { fill: var(--bg); }
+
+    header h1 {
+      font-size: clamp(1.1rem, 4vw, 1.5rem);
+      color: var(--green);
+      text-shadow: 0 0 10px var(--green), 0 0 20px var(--green-glow);
+      text-transform: uppercase;
+      letter-spacing: 2px;
+    }
+    header h1::before { content: "> "; color: var(--amber); }
+    header time {
+      font-size: 0.82rem;
+      color: var(--muted);
+    }
+
+    /* ── Main ── */
+    main {
+      max-width: var(--max-w);
+      margin: 0 auto;
+      padding: 12px 10px 0;
+    }
+
+    /* ── Section titles ── */
+    .section-title {
+      font-size: clamp(0.85rem, 3vw, 1rem);
+      color: var(--amber);
+      text-shadow: 0 0 8px rgba(255,176,0,.4);
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      border: none;
+      border-top: 1px solid var(--border);
+      padding: 8px 0 6px 0;
+      margin: 20px 0 8px;
+    }
+    .section-title::before { content: "## "; opacity: .6; }
+
+    /* ── Article cards ── */
+    article {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-left: 3px solid var(--green-dim);
+      padding: 10px 12px;
+      margin-bottom: 6px;
+      transition: border-color .15s, box-shadow .15s;
+    }
+    article:hover {
+      border-left-color: var(--green);
+      box-shadow: 0 0 12px var(--green-glow);
+    }
+
+    .article-body { min-width: 0; }
+
+    article h3 {
+      font-size: clamp(0.88rem, 2.5vw, 0.97rem);
+      line-height: 1.35;
+      margin-bottom: 3px;
+    }
+    article h3 a {
+      color: var(--green);
+      text-decoration: none;
+      text-shadow: 0 0 6px var(--green-glow);
+    }
+    article h3 a:hover {
+      color: var(--bg);
+      text-shadow: 0 0 10px var(--green);
+    }
+
+    .meta {
+      font-size: 0.72rem;
+      color: var(--muted);
+      margin-bottom: 5px;
+    }
+    .meta::before { content: "[ "; }
+    .meta::after  { content: " ]"; }
+
+    article p {
+      font-size: 0.85rem;
+      color: var(--muted);
+      line-height: 1.5;
+    }
+
+    /* ── Footer ── */
+    footer {
+      max-width: var(--max-w);
+      margin: 24px auto 0;
+      padding: 10px 10px 0;
+      border-top: 1px solid var(--border);
+      font-size: 0.75rem;
+      color: var(--muted);
+      line-height: 1.6;
+    }
+    footer::before { content: "// "; color: var(--green-dim); }
+    footer a { color: var(--muted); text-decoration: none; }
+    footer a:hover { color: var(--green); }
+
+    .footer-sources { display: none; }
+    .footer-sources.active { display: inline; }
+
+    .footer-ai-note {
+      margin-top: 6px;
+      color: var(--green-dim);
+      font-size: 0.72rem;
+    }
+    .footer-ai-note::before { content: "// "; color: var(--green-dim); opacity: .6; }
+
+    /* ── Tabs ── */
+    .tabs {
+      max-width: var(--max-w);
+      margin: 12px auto 0;
+      padding: 0 10px;
+      display: flex;
+      gap: 4px;
+    }
+    .tab-btn {
+      background: var(--bg);
+      color: var(--muted);
+      border: 1px solid var(--border);
+      border-bottom: none;
+      padding: 8px 18px;
+      font-family: 'IBM Plex Mono', 'Courier New', monospace;
+      font-size: 0.92rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      cursor: pointer;
+      transition: color .15s, border-color .15s;
+    }
+    .tab-btn:hover { color: var(--green); border-color: var(--green-dim); }
+    .tab-btn.active {
+      color: var(--amber);
+      border-color: var(--amber);
+      text-shadow: 0 0 12px rgba(255,176,0,.6), 0 0 24px rgba(255,176,0,.25);
+    }
+    .tab-btn.active::before { content: "> "; }
+
+    .tab-panel { display: none; }
+    .tab-panel.active { display: block; }
+
+    /* ── Light mode: hide scanlines ── */
+    :root.light .scanlines { display: none; }
+
+    /* ── Theme toggle button ── */
+    #theme-toggle {
+      margin-left: auto;
+      background: none;
+      border: 1px solid var(--border);
+      color: var(--muted);
+      font-family: 'IBM Plex Mono', 'Courier New', monospace;
+      font-size: 0.72rem;
+      padding: 3px 8px;
+      cursor: pointer;
+      transition: color .15s, border-color .15s;
+    }
+    #theme-toggle:hover { color: var(--green); border-color: var(--green-dim); }
+
+    /* ── RSS icon (fixed top-right) ── */
+    #rss-link {
+      position: fixed;
+      top: 10px;
+      right: 12px;
+      z-index: 20;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 28px;
+      height: 28px;
+      border: 1px solid var(--border);
+      background: var(--bg);
+      color: var(--amber);
+      text-decoration: none;
+      transition: border-color .15s, box-shadow .15s;
+    }
+    #rss-link:hover {
+      border-color: var(--amber);
+      box-shadow: 0 0 8px rgba(255,176,0,.35);
+    }
+    #rss-link svg { display: block; }
+
+    /* ── Mobile ── */
+    @media (max-width: 480px) {
+      article { padding: 8px 10px; }
+      .tab-btn { padding: 6px 12px; font-size: 0.82rem; }
+      .site-logo { width: 28px; height: 28px; }
+    }
+  </style>
+</head>
+<body>
+<div class="scanlines"></div>
+
+<a id="rss-link" href="feed.xml" title="Feed RSS" aria-label="Feed RSS">
+  <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24"
+       fill="currentColor" aria-hidden="true">
+    <circle cx="5" cy="19" r="3"/>
+    <path d="M4 4a16 16 0 0 1 16 16h-3A13 13 0 0 0 4 7z"/>
+    <path d="M4 11a9 9 0 0 1 9 9H10a6 6 0 0 0-6-6z"/>
+  </svg>
+</a>
+
+<header>
+  <div class="inner">
+
+    <!-- Olla pixel-art logo (24×24 grid, 3px/pixel = 72×72 viewBox) -->
+    <svg class="site-logo" xmlns="http://www.w3.org/2000/svg"
+         viewBox="0 0 72 72" width="36" height="36"
+         aria-label="Olla – Què es cou">
+      <!-- background adapts to theme -->
+      <rect class="logo-bg" width="72" height="72"/>
+      <!-- steam (dark green) -->
+      <rect x="15" y="3"  width="3" height="6" fill="#1a8c3a"/>
+      <rect x="27" y="3"  width="3" height="6" fill="#1a8c3a"/>
+      <rect x="33" y="3"  width="3" height="6" fill="#1a8c3a"/>
+      <rect x="45" y="3"  width="3" height="6" fill="#1a8c3a"/>
+      <rect x="57" y="3"  width="3" height="6" fill="#1a8c3a"/>
+      <rect x="27" y="9"  width="3" height="3" fill="#1a8c3a"/>
+      <rect x="45" y="9"  width="3" height="3" fill="#1a8c3a"/>
+      <!-- handles (amber) -->
+      <rect x="6"  y="15" width="6"  height="3" fill="#ffb000"/>
+      <rect x="60" y="15" width="6"  height="3" fill="#ffb000"/>
+      <rect x="3"  y="18" width="12" height="3" fill="#ffb000"/>
+      <rect x="57" y="18" width="12" height="3" fill="#ffb000"/>
+      <!-- top rim: handles + green bar -->
+      <rect x="3"  y="21" width="12" height="3" fill="#ffb000"/>
+      <rect x="15" y="21" width="42" height="3" fill="#33ff66"/>
+      <rect x="57" y="21" width="12" height="3" fill="#ffb000"/>
+      <!-- lid row (shadow strip) -->
+      <rect x="12" y="24" width="6"  height="3" fill="#33ff66"/>
+      <rect x="18" y="24" width="36" height="3" fill="#0a3d1a"/>
+      <rect x="54" y="24" width="6"  height="3" fill="#33ff66"/>
+      <!-- body rows 9-16: green border, dark shadow, teal fill -->
+      <!-- row 9 -->
+      <rect x="12" y="27" width="3"  height="3" fill="#33ff66"/>
+      <rect x="15" y="27" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="18" y="27" width="36" height="3" fill="#0d8050"/>
+      <rect x="54" y="27" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="57" y="27" width="3"  height="3" fill="#33ff66"/>
+      <!-- row 10 (highlight dots top-left and top-right) -->
+      <rect x="12" y="30" width="3"  height="3" fill="#33ff66"/>
+      <rect x="15" y="30" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="18" y="30" width="3"  height="3" fill="#0d8050"/>
+      <rect x="21" y="30" width="6"  height="3" fill="#8fff9f"/>
+      <rect x="27" y="30" width="21" height="3" fill="#0d8050"/>
+      <rect x="48" y="30" width="6"  height="3" fill="#8fff9f"/>
+      <rect x="54" y="30" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="57" y="30" width="3"  height="3" fill="#33ff66"/>
+      <!-- row 11 (same as row 10) -->
+      <rect x="12" y="33" width="3"  height="3" fill="#33ff66"/>
+      <rect x="15" y="33" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="18" y="33" width="3"  height="3" fill="#0d8050"/>
+      <rect x="21" y="33" width="6"  height="3" fill="#8fff9f"/>
+      <rect x="27" y="33" width="21" height="3" fill="#0d8050"/>
+      <rect x="48" y="33" width="6"  height="3" fill="#8fff9f"/>
+      <rect x="54" y="33" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="57" y="33" width="3"  height="3" fill="#33ff66"/>
+      <!-- row 12 (plain teal) -->
+      <rect x="12" y="36" width="3"  height="3" fill="#33ff66"/>
+      <rect x="15" y="36" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="18" y="36" width="36" height="3" fill="#0d8050"/>
+      <rect x="54" y="36" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="57" y="36" width="3"  height="3" fill="#33ff66"/>
+      <!-- row 13 (green badge border) -->
+      <rect x="12" y="39" width="3"  height="3" fill="#33ff66"/>
+      <rect x="15" y="39" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="18" y="39" width="9"  height="3" fill="#0d8050"/>
+      <rect x="27" y="39" width="18" height="3" fill="#33ff66"/>
+      <rect x="45" y="39" width="9"  height="3" fill="#0d8050"/>
+      <rect x="54" y="39" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="57" y="39" width="3"  height="3" fill="#33ff66"/>
+      <!-- row 14 (light green badge interior) -->
+      <rect x="12" y="42" width="3"  height="3" fill="#33ff66"/>
+      <rect x="15" y="42" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="18" y="42" width="9"  height="3" fill="#0d8050"/>
+      <rect x="27" y="42" width="3"  height="3" fill="#33ff66"/>
+      <rect x="30" y="42" width="12" height="3" fill="#8fff9f"/>
+      <rect x="42" y="42" width="3"  height="3" fill="#33ff66"/>
+      <rect x="45" y="42" width="9"  height="3" fill="#0d8050"/>
+      <rect x="54" y="42" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="57" y="42" width="3"  height="3" fill="#33ff66"/>
+      <!-- row 15 (green badge border again) -->
+      <rect x="12" y="45" width="3"  height="3" fill="#33ff66"/>
+      <rect x="15" y="45" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="18" y="45" width="9"  height="3" fill="#0d8050"/>
+      <rect x="27" y="45" width="18" height="3" fill="#33ff66"/>
+      <rect x="45" y="45" width="9"  height="3" fill="#0d8050"/>
+      <rect x="54" y="45" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="57" y="45" width="3"  height="3" fill="#33ff66"/>
+      <!-- row 16 (plain teal) -->
+      <rect x="12" y="48" width="3"  height="3" fill="#33ff66"/>
+      <rect x="15" y="48" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="18" y="48" width="36" height="3" fill="#0d8050"/>
+      <rect x="54" y="48" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="57" y="48" width="3"  height="3" fill="#33ff66"/>
+      <!-- row 17 (bottom shadow strip) -->
+      <rect x="12" y="51" width="6"  height="3" fill="#33ff66"/>
+      <rect x="18" y="51" width="36" height="3" fill="#0a3d1a"/>
+      <rect x="54" y="51" width="6"  height="3" fill="#33ff66"/>
+      <!-- row 18 (bottom rim) -->
+      <rect x="15" y="54" width="42" height="3" fill="#33ff66"/>
+      <!-- row 19 (base) -->
+      <rect x="18" y="57" width="36" height="3" fill="#33ff66"/>
+    </svg>
+
+    <h1>Què es cou</h1>
+    <time datetime="2026-03-17T21:05">17 de març de 2026 21:05h</time>
+    <button id="theme-toggle" aria-label="Canvia el tema">☀ clar</button>
+  </div>
+</header>
+
+<nav class="tabs">
+  
+  <button class="tab-btn active"
+          data-tab="world">Al món</button>
+  
+  <button class="tab-btn"
+          data-tab="catalunya">Països Catalans</button>
+  
+  <button class="tab-btn"
+          data-tab="podcasts">Podcasts</button>
+  
+  <button class="tab-btn"
+          data-tab="events">Trobades</button>
+  
+</nav>
+
+<main>
+  
+  <div class="tab-panel active" id="tab-world">
+
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://techcrunch.com/2026/03/17/stryker-says-its-restoring-systems-after-pro-iran-hackers-wiped-thousands-of-employee-devices/" target="_blank" rel="noopener">Hackers proiranians esborren milers de dispositius d&#39;empleats de Stryker</a></h3>
+        <div class="meta">
+          TechCrunch
+           &mdash; 17 de març de 2026
+        </div>
+        <p>El primer gran ciberatac als EUA en resposta a la guerra amb l&#39;Iran ha afectat les operacions de l&#39;empresa mèdica.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://techcrunch.com/2026/03/17/openai-expands-government-footprint-with-aws-deal/" target="_blank" rel="noopener">OpenAI amplia la seva presència al govern dels EUA amb un acord amb AWS</a></h3>
+        <div class="meta">
+          TechCrunch
+           &mdash; 17 de març de 2026
+        </div>
+        <p>OpenAI i AWS s&#39;associen per vendre sistemes d&#39;IA al govern nord-americà per a treballs classificats i no classificats.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://techcrunch.com/2026/03/17/everything-apple-announced-macbook-neo-iphone-17e-ipad-air/" target="_blank" rel="noopener">MacBook Neo, AirPods Max 2, iPhone 17e: tot el que Apple ha anunciat aquest mes</a></h3>
+        <div class="meta">
+          TechCrunch
+           &mdash; 17 de març de 2026
+        </div>
+        <p>Des d&#39;un nou iPhone fins a un MacBook econòmic, Apple ha presentat tota una gamma de productes nous.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://techcrunch.com/2026/03/17/googles-personal-intelligence-feature-is-expanding-to-all-us-users/" target="_blank" rel="noopener">Google Personal Intelligence s&#39;estén a tots els usuaris dels EUA</a></h3>
+        <div class="meta">
+          TechCrunch
+           &mdash; 17 de març de 2026
+        </div>
+        <p>La funció permet a Gemini accedir a Gmail i Google Photos per oferir respostes personalitzades, ara disponible per a tots.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-launches-dgx-station-with-its-bleeding-edge-gb300-grace-blackwell-superchip-now-available-to-order-and-will-begin-shipping-in-the-coming-months" target="_blank" rel="noopener">Nvidia llança l&#39;estació DGX amb el nou xip GB300 Grace Blackwell Ultra</a></h3>
+        <div class="meta">
+          Tom&#39;s Hardware
+           &mdash; 17 de març de 2026
+        </div>
+        <p>L&#39;estació de treball per a IA incorpora 784 GB de memòria combinada HBM3e i LPPDDR5X amb 1.600 W de potència.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://9to5mac.com/2026/03/17/openai-releases-gpt-5-4-mini-and-nano-its-most-capable-small-models-yet/" target="_blank" rel="noopener">OpenAI publica GPT-5.4 mini i nano, els seus models petits més capaços fins ara</a></h3>
+        <div class="meta">
+          9to5Mac
+           &mdash; 17 de març de 2026
+        </div>
+        <p>OpenAI amplia la família GPT-5.4 amb dues versions lleugeres pensades per a dispositius i aplicacions amb recursos limitats.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://www.bloomberg.com/news/articles/2026-03-17/nvidia-ceo-says-company-is-firing-up-h200-production-for-china" target="_blank" rel="noopener">Jensen Huang confirma que Nvidia reactiva la producció de H200 per a la Xina</a></h3>
+        <div class="meta">
+          Bloomberg Technology
+           &mdash; 17 de març de 2026
+        </div>
+        <p>El CEO de Nvidia anuncia la represa de la fabricació d&#39;acceleradors H200 destinats als clients xinesos.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://www.techradar.com/pro/security/notorious-online-data-leak-market-breachforums-taken-down-by-whitehat-heroes" target="_blank" rel="noopener">BreachForums, el mercat de filtracions de dades, és tombat pels experts en ciberseguretat</a></h3>
+        <div class="meta">
+          TechRadar
+           &mdash; 17 de març de 2026
+        </div>
+        <p>El notori portal de venda de dades robades ha estat clausurat, tot i que pot tornar a aparèixer.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://arstechnica.com/security/2026/03/researchers-disclose-vulnerabilities-in-ip-kvms-from-4-manufacturers/" target="_blank" rel="noopener">Investigadors descobreixen vulnerabilitats en dispositius IP KVM de quatre fabricants</a></h3>
+        <div class="meta">
+          Ars Technica
+           &mdash; 17 de març de 2026
+        </div>
+        <p>Els dispositius exposats a Internet que permeten accés a nivell BIOS presenten greus falles de seguretat sense pegats.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://www.theverge.com/tech/895921/intel-core-ultra-290hx-270hx-flagship-gaming-laptop-cpu" target="_blank" rel="noopener">Intel presenta els nous processadors Core Ultra 200HX Plus per a portàtils gaming d&#39;alta gamma</a></h3>
+        <div class="meta">
+          The Verge
+           &mdash; 17 de març de 2026
+        </div>
+        <p>Els nous xips Arrow Lake Refresh optimitzen jocs i apps en temps real sense necessitat de pegats dels desenvolupadors.</p>
+      </div>
+    </article>
+    
+
+  </div>
+  
+  <div class="tab-panel" id="tab-catalunya">
+
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://www.ara.cat/economia/tecnologia/factorial-llanca-fons-10-m-accelerar-l-adopcio-ia-pimes-europees_1_5679778.html" target="_blank" rel="noopener">Factorial llança un fons de 10 M€ per accelerar l&#39;adopció de la IA a les pimes europees</a></h3>
+        <div class="meta">
+          Ara.cat
+           &mdash; 17 de març de 2026
+        </div>
+        <p>La startup barcelonina de gestió empresarial crea un fons per finançar la integració d&#39;IA a petites i mitjanes empreses d&#39;Europa.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://www.metadata.cat/noticia/6219/pokemon-go-del-joc-al-mapa-del-mon-entrenar-robots-repartiment" target="_blank" rel="noopener">Pokémon Go, del joc al mapa del món: Niantic utilitza milions d&#39;imatges per entrenar robots de repartiment</a></h3>
+        <div class="meta">
+          MetaData
+           &mdash; 17 de març de 2026
+        </div>
+        <p>Les dades generades pels jugadors permeten als robots moure&#39;s sense GPS en entorns urbans complexos.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://www.elnacional.cat/ca/tecnologia/es-pot-ampliar-emmagatzematge-macbook-neo-tecnicament-si-es-pot_1612476_102.html" target="_blank" rel="noopener">¿Es pot ampliar l&#39;emmagatzematge del MacBook Neo? Tècnicament, sí que es pot</a></h3>
+        <div class="meta">
+          El Nacional.cat
+           &mdash; 17 de març de 2026
+        </div>
+        <p>Un creador de contingut demostra com actualitzar el disc del nou MacBook Neo fins a 1 TB manualment.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://www.elnacional.cat/ca/tecnologia/adeu-galaxy-trifold-samsung-hauria-aturat-vendes-seu-plegable-3000-dolars_1612392_102.html" target="_blank" rel="noopener">Adeu al Galaxy Z TriFold: Samsung hauria aturat les vendes del seu plegable de 3.000 dòlars</a></h3>
+        <div class="meta">
+          El Nacional.cat
+           &mdash; 17 de març de 2026
+        </div>
+        <p>Un mitjà coreà assegura que Samsung ha aturat la producció del triplec tres mesos després del llançament.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://www.elnacional.cat/ca/motor/byd-ja-te-preparat-primer-cotxe-electric-es-carregara-en-menys-5-minuts_1612086_102.html" target="_blank" rel="noopener">BYD ja té preparat el primer cotxe elèctric que es carregarà en menys de 5 minuts</a></h3>
+        <div class="meta">
+          El Nacional.cat
+           &mdash; 17 de març de 2026
+        </div>
+        <p>La nova bateria de BYD incorpora la tecnologia Flash Charging per assolir una càrrega ultraràpida sense precedents.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://elmon.cat/general/banco-santander-aena-i-iag-millor-reputacio-corporativa-algoritmica-en-gemini-segons-repindex-ai-1131671/" target="_blank" rel="noopener">Banco Santander, Aena i IAG, millor reputació corporativa algorítmica en Gemini, segons repindex.ai</a></h3>
+        <div class="meta">
+          El Mon.cat
+           &mdash; 17 de març de 2026
+        </div>
+        <p>Una eina catalana analitza setmanalment com les empreses apareixen i són valorades pels models d&#39;IA generativa com Gemini.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://www.metadata.cat/noticia/6212/estats-ue-prohibir-continguts-sexuals-generats-amb-ia-sense-consentiment" target="_blank" rel="noopener">Els estats de la UE avalen prohibir continguts sexuals generats amb IA sense consentiment</a></h3>
+        <div class="meta">
+          MetaData
+           &mdash; 16 de març de 2026
+        </div>
+        <p>La reforma de la normativa europea d&#39;IA s&#39;accelera arran de la polèmica per les imatges íntimes generades per l&#39;assistent Grok.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://criatures.ara.cat/familia/nens-juguen-grups-whatsapp-d-preparats-gestionar_128_5677088.html" target="_blank" rel="noopener">&#34;Molts nens juguen a tenir grups de WhatsApp abans d&#39;estar preparats per gestionar-los&#34;</a></h3>
+        <div class="meta">
+          Ara.cat
+           &mdash; 16 de març de 2026
+        </div>
+        <p>Una experta en màrqueting digital alerta dels riscos de donar accés a xarxes socials a nens sense prou maduresa digital.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://motor.ara.cat/novetats/byd-planteja-entrar-formula-1_1_5677421.html" target="_blank" rel="noopener">BYD es planteja entrar a la Fórmula 1</a></h3>
+        <div class="meta">
+          Ara.cat
+           &mdash; 13 de març de 2026
+        </div>
+        <p>El fabricant xinès, que va superar Tesla en vendes el 2025, estudia entrar a la competició de motor.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://www.metadata.cat/noticia/6205/mwc-4yfn-23-milions-euros-de-negoci-empreses-catalanes" target="_blank" rel="noopener">El MWC i el 4YFN generaran més de 23 milions d&#39;euros de negoci per a empreses catalanes</a></h3>
+        <div class="meta">
+          MetaData
+           &mdash; 12 de març de 2026
+        </div>
+        <p>Les 106 empreses i startups catalanes presents als espais del Govern van mantenir unes 2.500 reunions al congrés.</p>
+      </div>
+    </article>
+    
+
+  </div>
+  
+  <div class="tab-panel" id="tab-podcasts">
+
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://rss.com/podcasts/focaterra/2621247" target="_blank" rel="noopener">Avui sí que perdem el patrocini de Parlem</a></h3>
+        <div class="meta">
+          Foc a Terra
+           &mdash; 16 de març de 2026
+        </div>
+        <p>Ernest Pérez-Mas, fundador de Parlem, és el convidat per parlar de la nova etapa de la companyia de telecomunicacions.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://mossegalapoma.cat/les-dades-obertes-i-la-transparencia-publica-programa-656/" target="_blank" rel="noopener">Les dades obertes i la transparència pública – programa 656</a></h3>
+        <div class="meta">
+          Mossega la poma
+           &mdash; 13 de març de 2026
+        </div>
+        <p>Com la creació de contingut digital i la gestió de dades públiques transformen la cultura i l&#39;accés a la informació.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://podcasts.cat/36/33868712/" target="_blank" rel="noopener">L&#39;Altra Ràdio – Què és l&#39;agnotologia algorítmica</a></h3>
+        <div class="meta">
+          L&#39;altra ràdio
+           &mdash; 12 de març de 2026
+        </div>
+        <p>La doctora Àtia Cortés explica el concepte d&#39;agnotologia i com els algoritmes poden generar ignorància de manera sistemàtica.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://podcasts.cat/191/33863599/" target="_blank" rel="noopener">El gòTIC – Tenim una missió! del 11/3/2026</a></h3>
+        <div class="meta">
+          El Gòtic
+           &mdash; 10 de març de 2026
+        </div>
+        <p>Recursos i estratègies per afrontar els reptes de la ciutadania digital en la nova temporada del programa.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://rss.com/podcasts/focaterra/2608006" target="_blank" rel="noopener">Ja no vibrem amb el Mobile</a></h3>
+        <div class="meta">
+          Foc a Terra
+           &mdash; 9 de març de 2026
+        </div>
+        <p>Crònica en directe del MWC i el 4YFN: novetats, festes i rumors des dels passadissos del congrés mòbil.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://mossegalapoma.cat/com-la-ia-esta-revolucionant-lescriptura-i-la-publicacio-de-llibres-programa-655/" target="_blank" rel="noopener">Com la IA està revolucionant l&#39;escriptura i la publicació de llibres – Programa 655</a></h3>
+        <div class="meta">
+          Mossega la poma
+           &mdash; 7 de març de 2026
+        </div>
+        <p>Experiències pràctiques amb IA per a l&#39;escriptura creativa, l&#39;edició i la publicació autònoma de continguts.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://podcasts.cat/36/33845240/" target="_blank" rel="noopener">L&#39;Altra Ràdio – &#34;Day One&#34;, la sèrie del Mobile World Congress</a></h3>
+        <div class="meta">
+          L&#39;altra ràdio
+           &mdash; 5 de març de 2026
+        </div>
+        <p>Reportatge sobre la vintena edició del MWC a Fira Barcelona, dedicat a l&#39;era de la intel·ligència artificial.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://www.societatdelainformacio.com/podcast/la-nova-constellacio-de-satellits-starlink-permetra-cobertura-als-telefons-mobils/" target="_blank" rel="noopener">La nova constel·lació de satèl·lits Starlink permetrà cobertura als telèfons mòbils</a></h3>
+        <div class="meta">
+          Societat de la Informació
+           &mdash; 3 de març de 2026
+        </div>
+        <p>Starlink anuncia una constel·lació de satèl·lits d&#39;òrbita super-baixa per donar cobertura directa als mòbils a escala global.</p>
+      </div>
+    </article>
+    
+
+  </div>
+  
+  <div class="tab-panel" id="tab-events">
+
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://www.meetup.com/barcelona-free-software/events/313790663/" target="_blank" rel="noopener">Com usar Wikidata per visibilitzar obres digitals de domini públic?</a></h3>
+        <div class="meta">
+          Free Software Barcelona
+           &mdash; 16 de març de 2026
+        </div>
+        <p>David Ramírez-Ordóñez explicarà com usar dades obertes i Wikidata per localitzar i visibilitzar el patrimoni digital lliure.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://www.meetup.com/wordpressbcn/events/313756353/" target="_blank" rel="noopener">10web, una IA per crear WordPress per Aleix Martí</a></h3>
+        <div class="meta">
+          WordPress BCN
+           &mdash; 12 de març de 2026
+        </div>
+        <p>Sessió sobre 10web i el seu sistema de vibe coding per construir llocs WordPress complets amb pocs prompts d&#39;IA.</p>
+      </div>
+    </article>
+    
+
+  </div>
+  
+</main>
+
+<footer>
+  <strong>Fonts:</strong>
+  
+  <span class="footer-sources active" data-tab="world">
+    
+      <a href="https://techcrunch.com" target="_blank" rel="noopener">TechCrunch</a>, 
+    
+      <a href="https://www.tomshardware.com" target="_blank" rel="noopener">Tom&#39;s Hardware</a>, 
+    
+      <a href="https://9to5mac.com" target="_blank" rel="noopener">9to5Mac</a>, 
+    
+      <a href="https://www.bloomberg.com" target="_blank" rel="noopener">Bloomberg Technology</a>, 
+    
+      <a href="https://www.techradar.com" target="_blank" rel="noopener">TechRadar</a>, 
+    
+      <a href="https://arstechnica.com" target="_blank" rel="noopener">Ars Technica</a>, 
+    
+      <a href="https://www.theverge.com" target="_blank" rel="noopener">The Verge</a>
+    
+  </span>
+  
+  <span class="footer-sources" data-tab="catalunya">
+    
+      <a href="https://www.ara.cat" target="_blank" rel="noopener">Ara.cat</a>, 
+    
+      <a href="https://www.metadata.cat" target="_blank" rel="noopener">MetaData</a>, 
+    
+      <a href="https://www.elnacional.cat" target="_blank" rel="noopener">El Nacional.cat</a>, 
+    
+      <a href="https://elmon.cat" target="_blank" rel="noopener">El Mon.cat</a>
+    
+  </span>
+  
+  <span class="footer-sources" data-tab="podcasts">
+    
+      <a href="https://rss.com" target="_blank" rel="noopener">Foc a Terra</a>, 
+    
+      <a href="https://mossegalapoma.cat" target="_blank" rel="noopener">Mossega la poma</a>, 
+    
+      <a href="https://podcasts.cat" target="_blank" rel="noopener">L&#39;altra ràdio</a>, 
+    
+      <a href="https://podcasts.cat" target="_blank" rel="noopener">El Gòtic</a>, 
+    
+      <a href="https://www.societatdelainformacio.com" target="_blank" rel="noopener">Societat de la Informació</a>
+    
+  </span>
+  
+  <span class="footer-sources" data-tab="events">
+    
+      <a href="https://www.meetup.com" target="_blank" rel="noopener">Free Software Barcelona</a>, 
+    
+      <a href="https://www.meetup.com" target="_blank" rel="noopener">WordPress BCN</a>
+    
+  </span>
+  
+  <br>Generat el 17 de març de 2026 a les 21:05h.
+  <p class="footer-ai-note">Aquesta pàgina es regenera automàticament cada 4 hores mitjançant intel·ligència artificial. <a href="com-funciona.html">Com funciona</a></p>
+</footer>
+
+<script>
+  document.querySelectorAll('.tab-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+      document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
+      document.querySelectorAll('.footer-sources').forEach(s => s.classList.remove('active'));
+      btn.classList.add('active');
+      document.getElementById('tab-' + btn.dataset.tab).classList.add('active');
+      document.querySelector('.footer-sources[data-tab="' + btn.dataset.tab + '"]').classList.add('active');
+    });
+  });
+
+  const toggle = document.getElementById('theme-toggle');
+  const root = document.documentElement;
+  if (localStorage.getItem('theme') === 'light') {
+    root.classList.add('light');
+    toggle.textContent = '◾ fosc';
+  }
+  toggle.addEventListener('click', () => {
+    const isLight = root.classList.toggle('light');
+    toggle.textContent = isLight ? '◾ fosc' : '☀ clar';
+    localStorage.setItem('theme', isLight ? 'light' : 'dark');
+  });
+</script>
+
+</body>
+</html>
