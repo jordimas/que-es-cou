@@ -1,4 +1,4 @@
-name: Run Claude Script (dev)
+name: Run dev job
 on:
   workflow_dispatch:
   push:
