@@ -1,0 +1,19 @@
+name: Run Claude Script
+on:
+  workflow_dispatch:
+  push:
+    branches: ["main"]
+  schedule:
+    - cron: "0 6 * * *"
+concurrency:
+  group: pages-main
+  cancel-in-progress: true
+jobs:
+  run:
+    uses: ./.github/workflows/_run.yml
+    with:
+      branch: main
+    secrets:
+      CLAUDE_CONFIG: ${{ secrets.CLAUDE_CONFIG }}
+      TG_TOKEN: ${{ secrets.TG_TOKEN_PROD }}
+      TG_CHAT_ID: ${{ secrets.TG_CHAT_ID_PROD }}
