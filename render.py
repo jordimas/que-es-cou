@@ -168,14 +168,15 @@ def build_telegram(sections: list, date_display: str, generated_time: str,
         lines.append("")
         lines.append(f"<b>{label}</b>")
         for art in new_articles:
-            title        = art.get("title", "")
-            url          = art.get("url", "")
-            summary      = art.get("summary", "")
-            art_date     = art.get("date_display", "")
-            time_str     = art.get("time", "")
-            time_part    = f" {time_str}h" if time_str and time_str != "00:00" else ""
-            date_suffix  = f" — {art_date}{time_part}" if art_date else ""
-            lines.append(f'• <a href="{url}">{title}</a>{date_suffix}')
+            title    = art.get("title", "")
+            url      = art.get("url", "")
+            summary  = art.get("summary", "")
+            source   = art.get("source", "")
+            art_date = art.get("date_display", "")
+            source_date = f'{source} — {art_date}' if source and art_date else source or art_date
+            lines.append(f'• <a href="{url}">{title}</a>')
+            if source_date:
+                lines.append(f"  {source_date}")
             if summary:
                 lines.append(f"  {summary}")
     return "\n".join(lines)

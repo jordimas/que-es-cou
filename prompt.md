@@ -3,7 +3,10 @@ Your task is to execute the following instructions:
 **INPUT DATA**
 
 - All feed data has already been fetched and is available in per-category JSON files:
-  raw_feeds_world.json, raw_feeds_catalunya.json, raw_feeds_podcasts.json, raw_feeds_events.json.
+  - raw_feeds_world.json -> category world
+  - raw_feeds_catalunya.json -> category  catalunya
+  - raw_feeds_podcasts.json -> category podcasts
+  - raw_feeds_events.json -> category events
 - Do not fetch any URLs yourself. Use only the data in these files.
 - Each file contains a "fetched_at" timestamp and a "section" object with an "id" and a list of sources.
   Each source has: name, url, status (ok/blocked/error), optional error_detail, and an items array.
@@ -31,17 +34,21 @@ An article does NOT count as tech if it is primarily about:
 When in doubt, exclude the article.
 
 **SELECTION CRITERIA**
-- Select up to 10 of the most important tech news stories published in the last 24 hours
+- For world category, select up to 10 of the most important tech news stories published in the last 24 hours
   - Prioritize stories covered by multiple sources or with significant industry impact
   - As a tiebreaker, prefer the most recently published stories
-- Select up to the top 10 most important Catalan/local news matching the tech topic filter, published in the last 7 days
+- For catalunya category, select up to the top 10 most important Catalan news matching the tech topic filter, published in the last 7 days
   - Prioritize stories covered by multiple sources or with significant impact
   - Select a maxium of 3 articles per source
   - It is OK if fewer than 10 articles are selected
-- For podcasts: include every episode whose `pubDate` is within 15 days before `fetched_at` (from raw_feeds_podcasts.json)
+- For podcasts category: include every episode whose `pubDate` is within 15 days before `fetched_at`
   - Compute the cutoff as: cutoff = fetched_at − 15 days. Include the episode if pubDate ≥ cutoff, exclude if pubDate < cutoff
-  - The podcast sources are already curated tech podcasts — no topic filter needed, include all episodes in the date window
+  - The sources are already curated tech podcasts — no topic filter needed, include all episodes in the date window
   - If the episode's `link` does not start with `http://` or `https://`, skip it — do not include it
+- For events category: include every event whose `pubDate` is within 15 days before `fetched_at`
+  - Compute the cutoff as: cutoff = fetched_at − 15 days. Include the episode if pubDate ≥ cutoff, exclude if pubDate < cutoff
+  - The podcast sources are already curated — no topic filter needed, include all episodes in the date window
+
  
 **OUTPUT FORMAT**
 - If the headlines are in Catalan, keep the original headline. Do not rewrite it

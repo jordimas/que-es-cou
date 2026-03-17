@@ -4,7 +4,7 @@ on:
   push:
     branches: ["dev"]
   schedule:
-    - cron: "0 */4 * * *"
+    - cron: "*/30 * * * *"
 concurrency:
   group: pages-dev
   cancel-in-progress: true

@@ -110,7 +110,8 @@ def build_message(sections: list, date_display: str, generated_time: str,
     Returns (message_text, new_hashes) where new_hashes are hashes of items
     included in this message.
     """
-    lines = [f"<b>Que es cou</b> — {date_display} {generated_time}".strip()]
+    lines = [f"<b>Què es cou</b> — {date_display} {generated_time}".strip(),
+             "https://jordimas.github.io/que-es-cou/"]
     new_hashes = set()
 
     for sec in sections:
@@ -125,9 +126,12 @@ def build_message(sections: list, date_display: str, generated_time: str,
         for art in new_articles:
             h = item_hash(art["url"], art["title"])
             new_hashes.add(h)
-            time_part = f' {art["time"]}h' if art.get("time") and art["time"] != "00:00" else ""
-            date_suffix = f' — {art["date_display"]}{time_part}' if art.get("date_display") else ""
-            lines.append(f'• <a href="{art["url"]}">{art["title"]}</a>{date_suffix}')
+            source = art.get("source", "")
+            date_str = format_date_ca(art["date"]) if art.get("date") else ""
+            source_date = f'{source} — {date_str}' if source and date_str else source or date_str
+            lines.append(f'• <a href="{art["url"]}">{art["title"]}</a>')
+            if source_date:
+                lines.append(f'  {source_date}')
             if art.get("summary"):
                 lines.append(f'  {art["summary"]}')
 
