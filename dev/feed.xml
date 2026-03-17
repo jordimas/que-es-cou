@@ -5,93 +5,93 @@
     <link>https://jordimas.github.io/que-es-cou/</link>
     <description>Notícies de tecnologia en català, actualitzades cada 4 hores.</description>
     <language>ca</language>
-    <lastBuildDate>2026-03-17T21:42</lastBuildDate>
+    <lastBuildDate>2026-03-17T21:49</lastBuildDate>
     <atom:link href="https://jordimas.github.io/que-es-cou/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Apple llança la primera actualització de seguretat en segon pla per corregir un error de Safari</title>
-      <link>https://techcrunch.com/2026/03/17/apple-rolls-out-first-background-security-update-for-iphones-ipads-and-macs-to-fix-safari-bug/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/03/17/apple-rolls-out-first-background-security-update-for-iphones-ipads-and-macs-to-fix-safari-bug/</guid>
-      <description>La primera millora de seguretat en segon pla d'Apple corregeix una vulnerabilitat al navegador Safari en dispositius actualitzats.</description>
-      <author>TechCrunch</author>
-      <pubDate>2026-03-17</pubDate>
-    </item>
-    <item>
-      <title>Nvidia reprèn la producció de GPU H200 per a la Xina amb llicències del govern dels EUA</title>
-      <link>https://www.bloomberg.com/news/articles/2026-03-17/nvidia-ceo-says-company-is-firing-up-h200-production-for-china</link>
-      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-03-17/nvidia-ceo-says-company-is-firing-up-h200-production-for-china</guid>
-      <description>Jensen Huang confirma que Nvidia ha rebut comandes xineses i reprèn la fabricació d'acceleradors H200 per al mercat asiàtic.</description>
-      <author>Bloomberg Technology</author>
-      <pubDate>2026-03-17</pubDate>
-    </item>
-    <item>
-      <title>OpenAI presenta GPT-5.4 mini i nano, els seus models petits més potents fins ara</title>
-      <link>https://9to5mac.com/2026/03/17/openai-releases-gpt-5-4-mini-and-nano-its-most-capable-small-models-yet/</link>
-      <guid isPermaLink="true">https://9to5mac.com/2026/03/17/openai-releases-gpt-5-4-mini-and-nano-its-most-capable-small-models-yet/</guid>
-      <description>OpenAI llança dos nous models lleugers amb rendiment proper al GPT-5.4 complet, pensats per a velocitat i cost reduït.</description>
-      <author>9to5Mac</author>
-      <pubDate>2026-03-17</pubDate>
-    </item>
-    <item>
-      <title>Google expandeix la Intel·ligència Personal de Gemini a tots els usuaris gratuïts dels EUA</title>
-      <link>https://techcrunch.com/2026/03/17/googles-personal-intelligence-feature-is-expanding-to-all-us-users/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/03/17/googles-personal-intelligence-feature-is-expanding-to-all-us-users/</guid>
-      <description>La funció permet a Gemini accedir a Gmail i Google Fotos per oferir respostes personalitzades a qualsevol usuari gratuït.</description>
-      <author>TechCrunch</author>
-      <pubDate>2026-03-17</pubDate>
-    </item>
-    <item>
-      <title>Meta abandona Horizon Worlds per als auriculars Quest</title>
-      <link>https://www.bloomberg.com/news/articles/2026-03-17/meta-to-discontinue-key-metaverse-product-for-vr-headsets</link>
-      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-03-17/meta-to-discontinue-key-metaverse-product-for-vr-headsets</guid>
-      <description>Meta retira el seu entorn virtual Horizon Worlds dels dispositius Quest i abandona l'aposta pel metavers.</description>
-      <author>Bloomberg Technology</author>
-      <pubDate>2026-03-17</pubDate>
-    </item>
-    <item>
-      <title>BreachForums, el mercat de filtracions de dades en línia, és tancat per experts en seguretat</title>
-      <link>https://www.techradar.com/pro/security/notorious-online-data-leak-market-breachforums-taken-down-by-whitehat-heroes</link>
-      <guid isPermaLink="true">https://www.techradar.com/pro/security/notorious-online-data-leak-market-breachforums-taken-down-by-whitehat-heroes</guid>
-      <description>Experts en ciberseguretat han aconseguit clausurar el notori mercat de venda de dades robades BreachForums.</description>
-      <author>TechRadar</author>
-      <pubDate>2026-03-17</pubDate>
-    </item>
-    <item>
-      <title>El Pentàgon desenvolupa alternatives a Anthropic arran del trencament de la relació</title>
-      <link>https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/</guid>
-      <description>El departament de Defensa dels EUA busca substituir les eines d'IA d'Anthropic després d'un conflicte amb l'administració Trump.</description>
-      <author>TechCrunch</author>
-      <pubDate>2026-03-17</pubDate>
-    </item>
-    <item>
-      <title>Nvidia llança la DGX Station amb el superxip GB300 Grace Blackwell Ultra</title>
-      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-launches-dgx-station-with-its-bleeding-edge-gb300-grace-blackwell-superchip-now-available-to-order-and-will-begin-shipping-in-the-coming-months</link>
-      <guid isPermaLink="true">https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-launches-dgx-station-with-its-bleeding-edge-gb300-grace-blackwell-superchip-now-available-to-order-and-will-begin-shipping-in-the-coming-months</guid>
-      <description>Nova estació d'IA de sobretaula de Nvidia amb el xip GB300 Grace Blackwell, 784 GB de memòria i 1.600 W.</description>
+      <title>Nvidia actualitza el full de ruta del centre de dades amb la CPU Rosa i les GPU Feynman apilades</title>
+      <link>https://www.tomshardware.com/pc-components/gpus/nvidia-updates-data-center-roadmap-with-rosa-cpu-and-stacked-feynman-gpus-optical-nvlink-groq-lpus-with-nvfp4-and-nvlink-also-on-deck</link>
+      <guid isPermaLink="true">https://www.tomshardware.com/pc-components/gpus/nvidia-updates-data-center-roadmap-with-rosa-cpu-and-stacked-feynman-gpus-optical-nvlink-groq-lpus-with-nvfp4-and-nvlink-also-on-deck</guid>
+      <description>Nvidia publica el full de ruta 2026-2028 amb nova CPU Rosa, GPU Feynman i NVLink òptic integrats.</description>
       <author>Tom's Hardware</author>
       <pubDate>2026-03-17</pubDate>
     </item>
     <item>
-      <title>Noies adolescents demanden xAI per les imatges d'abús sexual generades per Grok</title>
+      <title>La Xina intensifica l'escrutini sobre l'adquisició de Manus per part de Meta</title>
+      <link>https://www.nytimes.com/2026/03/17/technology/china-scrutiny-meta-manus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/17/technology/china-scrutiny-meta-manus.html</guid>
+      <description>Pequín pressiona els vinculats a Manus, startup singapurenca d'arrels xineses adquirida per Meta.</description>
+      <author>NYT Technology</author>
+      <pubDate>2026-03-17</pubDate>
+    </item>
+    <item>
+      <title>Apple llança la primera actualització de seguretat en segon pla per corregir un error de Safari</title>
+      <link>https://techcrunch.com/2026/03/17/apple-rolls-out-first-background-security-update-for-iphones-ipads-and-macs-to-fix-safari-bug/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/03/17/apple-rolls-out-first-background-security-update-for-iphones-ipads-and-macs-to-fix-safari-bug/</guid>
+      <description>La nova funció aplica correccions de seguretat automàticament a iPhone, iPad i Mac sense reinici.</description>
+      <author>TechCrunch</author>
+      <pubDate>2026-03-17</pubDate>
+    </item>
+    <item>
+      <title>OpenAI llança GPT-5.4 mini i nano, els seus models petits més capaços fins ara</title>
+      <link>https://9to5mac.com/2026/03/17/openai-releases-gpt-5-4-mini-and-nano-its-most-capable-small-models-yet/</link>
+      <guid isPermaLink="true">https://9to5mac.com/2026/03/17/openai-releases-gpt-5-4-mini-and-nano-its-most-capable-small-models-yet/</guid>
+      <description>GPT-5.4 mini ofereix rendiment proper al model gran, però a un cost i velocitat molt inferiors.</description>
+      <author>9to5Mac</author>
+      <pubDate>2026-03-17</pubDate>
+    </item>
+    <item>
+      <title>Meta abandona Horizon Worlds als auriculars Quest de realitat virtual</title>
+      <link>https://www.bloomberg.com/news/articles/2026-03-17/meta-to-discontinue-key-metaverse-product-for-vr-headsets</link>
+      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-03-17/meta-to-discontinue-key-metaverse-product-for-vr-headsets</guid>
+      <description>Meta retira el seu principal producte del metavers per als cascos Quest, revertint l'aposta original.</description>
+      <author>Bloomberg Technology</author>
+      <pubDate>2026-03-17</pubDate>
+    </item>
+    <item>
+      <title>Nvidia reprèn la producció de GPU H200 per a clients de la Xina</title>
+      <link>https://www.bloomberg.com/news/articles/2026-03-17/nvidia-ceo-says-company-is-firing-up-h200-production-for-china</link>
+      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-03-17/nvidia-ceo-says-company-is-firing-up-h200-production-for-china</guid>
+      <description>Jensen Huang confirma que Nvidia subministrarà acceleradors H200 al mercat xinès amb llicència dels EUA.</description>
+      <author>Bloomberg Technology</author>
+      <pubDate>2026-03-17</pubDate>
+    </item>
+    <item>
+      <title>El mercat de filtracions de dades BreachForums és desestructurat per investigadors de seguretat</title>
+      <link>https://www.techradar.com/pro/security/notorious-online-data-leak-market-breachforums-taken-down-by-whitehat-heroes</link>
+      <guid isPermaLink="true">https://www.techradar.com/pro/security/notorious-online-data-leak-market-breachforums-taken-down-by-whitehat-heroes</guid>
+      <description>Experts en seguretat han aconseguit desactivar un dels fòrums de ciberdelinqüència més notoris del món.</description>
+      <author>TechRadar</author>
+      <pubDate>2026-03-17</pubDate>
+    </item>
+    <item>
+      <title>Adolescents demanden xAI pels danys de les imatges d'abús sexual infantil generades per Grok</title>
       <link>https://www.cnet.com/tech/services-and-software/grok-ai-deepfake-porn-teen-girls-lawsuit-march-2026/</link>
       <guid isPermaLink="true">https://www.cnet.com/tech/services-and-software/grok-ai-deepfake-porn-teen-girls-lawsuit-march-2026/</guid>
-      <description>Dues menors al·leguen danys devastadors per imatges de contingut sexual infantil generades per l'assistent Grok d'Elon Musk.</description>
+      <description>La demanda acusa el chatbot de crear i difondre imatges il·legals que han afectat greument les demandants.</description>
       <author>CNET</author>
       <pubDate>2026-03-17</pubDate>
     </item>
     <item>
-      <title>OpenJDK 26 publicat: desapareix l'API de Java Applet després de dècades</title>
-      <link>https://www.phoronix.com/news/OpenJDK-Java-26-Released</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/OpenJDK-Java-26-Released</guid>
-      <description>La nova versió de Java elimina definitivament l'API d'applets i consolida noves funcionalitats per al futur de la plataforma.</description>
-      <author>Phoronix</author>
+      <title>Mastercard adquireix la firma de stablecoins BVNK per fins a 1.800 milions de dòlars</title>
+      <link>https://www.bloomberg.com/news/videos/2026-03-17/mastercard-buys-stablecoin-firm-bvnk-for-up-to-1-8b-video</link>
+      <guid isPermaLink="true">https://www.bloomberg.com/news/videos/2026-03-17/mastercard-buys-stablecoin-firm-bvnk-for-up-to-1-8b-video</guid>
+      <description>L'operació posiciona Mastercard en la infraestructura de criptomonedes davant la competència emergent.</description>
+      <author>Bloomberg Technology</author>
+      <pubDate>2026-03-17</pubDate>
+    </item>
+    <item>
+      <title>L'Enciclopèdia Britànica demanda OpenAI per infracció de drets d'autor en l'entrenament d'IA</title>
+      <link>https://www.computerworld.com/article/4146519/encyclopedia-britannica-is-suing-openai-over-ai-training.html</link>
+      <guid isPermaLink="true">https://www.computerworld.com/article/4146519/encyclopedia-britannica-is-suing-openai-over-ai-training.html</guid>
+      <description>La demanda s'afegeix a l'onada de litigis per l'ús de continguts protegits per entrenar models d'IA.</description>
+      <author>Computerworld</author>
       <pubDate>2026-03-17</pubDate>
     </item>
     <item>
       <title>Factorial llança un fons de 10 M€ per accelerar l'adopció de la IA a les pimes europees</title>
       <link>https://www.ara.cat/economia/tecnologia/factorial-llanca-fons-10-m-accelerar-l-adopcio-ia-pimes-europees_1_5679778.html</link>
       <guid isPermaLink="true">https://www.ara.cat/economia/tecnologia/factorial-llanca-fons-10-m-accelerar-l-adopcio-ia-pimes-europees_1_5679778.html</guid>
-      <description>La plataforma catalana d'operacions empresarials Factorial crea un fons d'acceleració d'IA per a petites i mitjanes empreses europees.</description>
+      <description>La startup catalana de gestió empresarial crea un fons per finançar la transformació digital de pimes.</description>
       <author>Ara.cat</author>
       <pubDate>2026-03-17</pubDate>
     </item>
@@ -99,23 +99,23 @@
       <title>Pokémon Go, del joc al mapa del món: Niantic utilitza milions d'imatges per entrenar robots de repartiment</title>
       <link>https://www.metadata.cat/noticia/6219/pokemon-go-del-joc-al-mapa-del-mon-entrenar-robots-repartiment</link>
       <guid isPermaLink="true">https://www.metadata.cat/noticia/6219/pokemon-go-del-joc-al-mapa-del-mon-entrenar-robots-repartiment</guid>
-      <description>Niantic aprofita les dades dels jugadors per construir models d'IA que permeten als robots repartidors moure's sense GPS.</description>
+      <description>Niantic aprofita les dades dels jugadors per construir una IA que guia robots repartidors sense GPS.</description>
       <author>MetaData</author>
       <pubDate>2026-03-17</pubDate>
     </item>
     <item>
-      <title>Els jugadors de Pokémon Go han creat, sense saber-ho, un mapa mundial per orientar robots</title>
-      <link>https://www.ara.cat/economia/tecnologia/jugadors-pokemon-go-han-fet-ho-mapa-mundial-serveix-orientar-robots_1_5680282.html</link>
-      <guid isPermaLink="true">https://www.ara.cat/economia/tecnologia/jugadors-pokemon-go-han-fet-ho-mapa-mundial-serveix-orientar-robots_1_5680282.html</guid>
-      <description>Les dades de realitat augmentada recollides pels milions de jugadors de Pokémon Go serviran per entrenar robots autònoms.</description>
-      <author>Ara.cat</author>
-      <pubDate>2026-03-16</pubDate>
+      <title>Reportatge: Escena 4.0, la 'start-up' catalana que vol reinventar els escenaris culturals amb tecnologia immersiva i energia pròpia</title>
+      <link>https://www.metadata.cat/reportatge/6215/escena-4.0-reinventar-escenaris-culturals-tecnologia-immersiva</link>
+      <guid isPermaLink="true">https://www.metadata.cat/reportatge/6215/escena-4.0-reinventar-escenaris-culturals-tecnologia-immersiva</guid>
+      <description>La startup impulsa una cúpula modular intel·ligent que integra audiovisual immersiu i generació energètica.</description>
+      <author>MetaData</author>
+      <pubDate>2026-03-17</pubDate>
     </item>
     <item>
       <title>Els estats de la UE avalen prohibir continguts sexuals generats amb IA sense consentiment</title>
       <link>https://www.metadata.cat/noticia/6212/estats-ue-prohibir-continguts-sexuals-generats-amb-ia-sense-consentiment</link>
       <guid isPermaLink="true">https://www.metadata.cat/noticia/6212/estats-ue-prohibir-continguts-sexuals-generats-amb-ia-sense-consentiment</guid>
-      <description>La reforma de la normativa europea d'IA avança per prohibir imatges íntimes generades sense consentiment, arran del cas Grok.</description>
+      <description>La reforma de la normativa europea d'IA s'accelera per les imatges íntimes il·legals generades per Grok.</description>
       <author>MetaData</author>
       <pubDate>2026-03-16</pubDate>
     </item>
@@ -123,47 +123,47 @@
       <title>La Viquipèdia fa 25 anys: el català, pioner de l'enciclopèdia lliure d'internet</title>
       <link>https://www.metadata.cat/noticia/6210/viquipedia-25-anys-catala-pioner-enciclopedia-lliure-internet</link>
       <guid isPermaLink="true">https://www.metadata.cat/noticia/6210/viquipedia-25-anys-catala-pioner-enciclopedia-lliure-internet</guid>
-      <description>La versió catalana de la Viquipèdia, tercera edició del projecte al món, celebra 25 anys amb més de 750.000 articles.</description>
+      <description>La versió catalana, tercera del món el març del 2001, supera avui els 750.000 articles en línia.</description>
       <author>MetaData</author>
       <pubDate>2026-03-16</pubDate>
     </item>
     <item>
-      <title>Escena 4.0, la start-up catalana que vol reinventar els escenaris culturals amb tecnologia immersiva</title>
-      <link>https://www.metadata.cat/reportatge/6215/escena-4.0-reinventar-escenaris-culturals-tecnologia-immersiva</link>
-      <guid isPermaLink="true">https://www.metadata.cat/reportatge/6215/escena-4.0-reinventar-escenaris-culturals-tecnologia-immersiva</guid>
-      <description>La start-up impulsa una cúpula modular intel·ligent que integra audiovisual i generació energètica per a festivals i concerts.</description>
-      <author>MetaData</author>
-      <pubDate>2026-03-17</pubDate>
+      <title>Per què Catalunya continua atrapada a la "vall de la mort" de la innovació?</title>
+      <link>https://www.ara.cat/ciencia-medi-ambient/catalunya-continua-atrapada-vall-mort-innovacio_129_5672645.html</link>
+      <guid isPermaLink="true">https://www.ara.cat/ciencia-medi-ambient/catalunya-continua-atrapada-vall-mort-innovacio_129_5672645.html</guid>
+      <description>L'ecosistema català té talent científic però pateix dificultats estructurals per transferir-lo a l'empresa.</description>
+      <author>Ara.cat</author>
+      <pubDate>2026-03-16</pubDate>
     </item>
     <item>
-      <title>Biorce, la start-up catalana que vol accelerar els assajos clínics amb agents d'IA</title>
-      <link>https://www.metadata.cat/reportatge/6204/biorce-start-up-catalana-accelerar-assajos-clinics-agents-ia</link>
-      <guid isPermaLink="true">https://www.metadata.cat/reportatge/6204/biorce-start-up-catalana-accelerar-assajos-clinics-agents-ia</guid>
-      <description>La plataforma Aika d'aquesta start-up automatitza la planificació d'assajos clínics per reduir temps i errors en recerca farmacèutica.</description>
+      <title>OFFF Barcelona, el festival de creativitat, art i disseny digital més important del món, torna amb la seva 26a edició</title>
+      <link>https://www.metadata.cat/noticia/6207/offf-barcelona-festival-creativitat-art-disseny-digital-2026</link>
+      <guid isPermaLink="true">https://www.metadata.cat/noticia/6207/offf-barcelona-festival-creativitat-art-disseny-digital-2026</guid>
+      <description>L'OFFF se celebrarà del 16 al 18 d'abril al Disseny Hub Barcelona amb quaranta ponents internacionals.</description>
       <author>MetaData</author>
-      <pubDate>2026-03-12</pubDate>
+      <pubDate>2026-03-13</pubDate>
     </item>
     <item>
-      <title>Neix ESSIA, la primera IA de l'Economia Social i Solidària</title>
-      <link>https://www.metadata.cat/noticia/6201/neix-essia-primera-ia-economia-social-solidaria</link>
-      <guid isPermaLink="true">https://www.metadata.cat/noticia/6201/neix-essia-primera-ia-economia-social-solidaria</guid>
-      <description>Dues cooperatives catalanes impulsen una IA pròpia per a l'ecosistema cooperatiu amb sobirania de dades i energia renovable.</description>
+      <title>NotebookLM: la IA de Google que organitza els teus apunts en català</title>
+      <link>https://www.metadata.cat/noticia/6202/notebooklm-ia-google-organitza-apunts-catala</link>
+      <guid isPermaLink="true">https://www.metadata.cat/noticia/6202/notebooklm-ia-google-organitza-apunts-catala</guid>
+      <description>L'eina analitza PDFs i vídeos per generar resums i respostes en català basant-se en les fonts de l'usuari.</description>
       <author>MetaData</author>
-      <pubDate>2026-03-11</pubDate>
+      <pubDate>2026-03-13</pubDate>
     </item>
     <item>
       <title>Una dècada d'Eurecat: 1.250 milions d'impacte i més de 3.500 pimes impulsades</title>
       <link>https://www.metadata.cat/noticia/6208/una-decada-deurecat-1.250-milions-impacte-3.500-pimes-impulsades</link>
       <guid isPermaLink="true">https://www.metadata.cat/noticia/6208/una-decada-deurecat-1.250-milions-impacte-3.500-pimes-impulsades</guid>
-      <description>El centre tecnològic català Eurecat celebra deu anys amb 74 milions d'ingressos i un paper clau en la transferència tecnològica.</description>
+      <description>El centre tecnològic català tanca el 2025 amb 74 milions d'ingressos i consolida la transferència tecnològica.</description>
       <author>MetaData</author>
       <pubDate>2026-03-13</pubDate>
     </item>
     <item>
-      <title>El MWC i el 4YFN generaran més de 23 milions d'euros de negoci per a empreses catalanes</title>
-      <link>https://www.metadata.cat/noticia/6205/mwc-4yfn-23-milions-euros-de-negoci-empreses-catalanes</link>
-      <guid isPermaLink="true">https://www.metadata.cat/noticia/6205/mwc-4yfn-23-milions-euros-de-negoci-empreses-catalanes</guid>
-      <description>Les 106 empreses i startups catalanes presents al MWC han mantingut 2.500 reunions de negoci durant el congrés.</description>
+      <title>Reportatge: Biorce, la 'start-up' catalana que vol accelerar els assajos clínics amb agents d'IA</title>
+      <link>https://www.metadata.cat/reportatge/6204/biorce-start-up-catalana-accelerar-assajos-clinics-agents-ia</link>
+      <guid isPermaLink="true">https://www.metadata.cat/reportatge/6204/biorce-start-up-catalana-accelerar-assajos-clinics-agents-ia</guid>
+      <description>La plataforma Aika automatitza la planificació d'assajos clínics per reduir temps i costos en farmàcia.</description>
       <author>MetaData</author>
       <pubDate>2026-03-12</pubDate>
     </item>
@@ -171,7 +171,7 @@
       <title>Avui sí que perdem el patrocini de Parlem</title>
       <link>https://rss.com/podcasts/focaterra/2621247</link>
       <guid isPermaLink="true">https://rss.com/podcasts/focaterra/2621247</guid>
-      <description>El podcast rep la visita del fundador de Parlem Telecom, que explica el futur de l'empresa de telecomunicacions catalana.</description>
+      <description>El podcast reflexiona sobre la pèrdua d'un patrocinador i el futur del finançament dels podcasts tecnològics.</description>
       <author>Foc a Terra</author>
       <pubDate>2026-03-16</pubDate>
     </item>
@@ -179,7 +179,7 @@
       <title>Les dades obertes i la transparència pública – programa 656</title>
       <link>https://mossegalapoma.cat/les-dades-obertes-i-la-transparencia-publica-programa-656/</link>
       <guid isPermaLink="true">https://mossegalapoma.cat/les-dades-obertes-i-la-transparencia-publica-programa-656/</guid>
-      <description>L'episodi explora com la creació de contingut digital i la gestió de dades públiques transformen la cultura i la transparència.</description>
+      <description>Debat sobre com les dades obertes poden millorar la rendició de comptes i la transparència dels governs.</description>
       <author>Mossega la poma</author>
       <pubDate>2026-03-13</pubDate>
     </item>
@@ -187,7 +187,7 @@
       <title>L'Altra Ràdio - Què és l'agnotologia algorítmica</title>
       <link>https://podcasts.cat/36/33868712/</link>
       <guid isPermaLink="true">https://podcasts.cat/36/33868712/</guid>
-      <description>La doctora Àtia Cortés explica com els algoritmes poden generar ignorància i desinformació estructurada en la societat digital.</description>
+      <description>Anàlisi de com els algoritmes poden generar i difondre ignorància deliberada en la societat digital.</description>
       <author>L'altra ràdio</author>
       <pubDate>2026-03-12</pubDate>
     </item>
@@ -195,7 +195,7 @@
       <title>El gòTIC - Tenim una missió! del 11/3/2026</title>
       <link>https://podcasts.cat/191/33863599/</link>
       <guid isPermaLink="true">https://podcasts.cat/191/33863599/</guid>
-      <description>Recursos i estratègies per afrontar els grans reptes de la ciutadania digital en la societat actual.</description>
+      <description>El podcast barceloní presenta el seu nou enfocament editorial i els reptes tecnològics de la temporada.</description>
       <author>El Gòtic</author>
       <pubDate>2026-03-10</pubDate>
     </item>
@@ -203,7 +203,7 @@
       <title>Ja no vibrem amb el Mobile</title>
       <link>https://rss.com/podcasts/focaterra/2608006</link>
       <guid isPermaLink="true">https://rss.com/podcasts/focaterra/2608006</guid>
-      <description>Reportatge en directe del MWC i el 4YFN: novetats, festes i rumors del congrés de mòbils de Barcelona.</description>
+      <description>Reflexió sobre per què el Mobile World Congress ha perdut l'impacte transformador dels seus inicis.</description>
       <author>Foc a Terra</author>
       <pubDate>2026-03-09</pubDate>
     </item>
@@ -211,7 +211,7 @@
       <title>Com la IA està revolucionant l'escriptura i la publicació de llibres – Programa 655</title>
       <link>https://mossegalapoma.cat/com-la-ia-esta-revolucionant-lescriptura-i-la-publicacio-de-llibres-programa-655/</link>
       <guid isPermaLink="true">https://mossegalapoma.cat/com-la-ia-esta-revolucionant-lescriptura-i-la-publicacio-de-llibres-programa-655/</guid>
-      <description>Experiències pràctiques sobre l'ús de la IA per escriure, crear i publicar llibres en l'era digital.</description>
+      <description>Anàlisi de com la intel·ligència artificial transforma el procés creatiu i l'edició literària actual.</description>
       <author>Mossega la poma</author>
       <pubDate>2026-03-07</pubDate>
     </item>
@@ -219,7 +219,7 @@
       <title>L'Altra Ràdio - "Day One", la sèrie del Mobile World Congress</title>
       <link>https://podcasts.cat/36/33845240/</link>
       <guid isPermaLink="true">https://podcasts.cat/36/33845240/</guid>
-      <description>Reportatge sonor de la vintena edició del MWC a Fira Barcelona, sota el lema "L'era de la intel·ligència".</description>
+      <description>Reportatge sobre la primera jornada del MWC i les principals tendències tecnològiques presentades enguany.</description>
       <author>L'altra ràdio</author>
       <pubDate>2026-03-05</pubDate>
     </item>
@@ -227,15 +227,15 @@
       <title>La nova constel·lació de satèl·lits Starlink permetrà cobertura als telèfons mòbils</title>
       <link>https://www.societatdelainformacio.com/podcast/la-nova-constellacio-de-satellits-starlink-permetra-cobertura-als-telefons-mobils/</link>
       <guid isPermaLink="true">https://www.societatdelainformacio.com/podcast/la-nova-constellacio-de-satellits-starlink-permetra-cobertura-als-telefons-mobils/</guid>
-      <description>Starlink anuncia satèl·lits d'òrbita molt baixa per donar cobertura directa als telèfons mòbils arreu del món.</description>
+      <description>SpaceX desplega nous satèl·lits Starlink per oferir connectivitat directa als mòbils sense cobertura terrestre.</description>
       <author>Societat de la Informació</author>
       <pubDate>2026-03-03</pubDate>
     </item>
     <item>
-      <title>10web, una IA para crear WordPress por Aleix Martí</title>
+      <title>10web, una IA per crear WordPress amb Aleix Martí</title>
       <link>https://www.meetup.com/wordpressbcn/events/313756353/</link>
       <guid isPermaLink="true">https://www.meetup.com/wordpressbcn/events/313756353/</guid>
-      <description>Demostració del sistema vibe coding 10web per crear llocs WordPress complets amb uns pocs prompts d'IA.</description>
+      <description>Sessió sobre 10web i el seu enfocament de vibe coding per crear llocs WordPress complets amb prompts.</description>
       <author>WordPress BCN</author>
       <pubDate>2026-03-12</pubDate>
     </item>
@@ -243,7 +243,7 @@
       <title>Com usar Wikidata per visibilitzar obres digitals de domini públic?</title>
       <link>https://www.meetup.com/barcelona-free-software/events/313790663/</link>
       <guid isPermaLink="true">https://www.meetup.com/barcelona-free-software/events/313790663/</guid>
-      <description>David Ramírez-Ordóñez presentarà projectes per digitalitzar i visibilitzar obres de domini públic colombià amb dades obertes.</description>
+      <description>Xerrada el 26 de març sobre dades obertes i visibilitat d'obres de domini públic a biblioteques i arxius.</description>
       <author>Free Software Barcelona</author>
       <pubDate>2026-03-16</pubDate>
     </item>
