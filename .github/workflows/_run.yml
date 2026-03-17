@@ -9,6 +9,10 @@ on:
         required: false
         type: string
         default: ""
+      send_telegram:
+        required: false
+        type: boolean
+        default: true
     secrets:
       CLAUDE_CONFIG:
         required: true
@@ -42,15 +46,6 @@ jobs:
           mkdir -p ~/.claude
           printf '%s' '${{ secrets.CLAUDE_CONFIG }}' > ~/.claude/settings.json
 
-      - name: Debug settings.json
-        run: |
-          echo "--- File exists? ---"
-          ls -la ~/.claude/settings.json
-          echo "--- Valid JSON? ---"
-          cat ~/.claude/settings.json | python3 -m json.tool > /dev/null && echo "JSON OK" || echo "JSON INVALID"
-          echo "--- Keys present (no values) ---"
-          cat ~/.claude/settings.json | python3 -c "import json,sys; d=json.load(sys.stdin); print('env keys:', list(d.get('env',{}).keys())); print('model:', d.get('model'))"
-
       - name: Install Python dependencies
         run: pip install -r requirements.txt
 
@@ -82,6 +77,7 @@ jobs:
           git checkout ${BRANCH}
 
       - name: Send Telegram notification
+        if: ${{ inputs.send_telegram }}
         env:
           TG_TOKEN: ${{ secrets.TG_TOKEN }}
           TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
@@ -97,4 +93,4 @@ jobs:
           publish_branch: gh-pages
           publish_dir: ${{ github.workspace }}
           destination_dir: ${{ inputs.deploy_dir }}
-          exclude_assets: '.github,*.py,*.sh,*.yaml,*.md,*.txt,*.json,requirements.txt'
+          exclude_assets: '.github,*.py,*.sh,*.yaml,*.md,requirements.txt,*.json'

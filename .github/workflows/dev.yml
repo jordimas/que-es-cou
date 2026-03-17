@@ -4,7 +4,8 @@ on:
   push:
     branches: ["dev"]
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "0 1,5,9,13,17,21 * * *"
+    - cron: "0 19 * * *"
 concurrency:
   group: pages-dev
   cancel-in-progress: true
@@ -14,6 +15,7 @@ jobs:
     with:
       branch: dev
       deploy_dir: dev
+      send_telegram: ${{ github.event_name == 'schedule' && github.event.schedule == '0 19 * * *' }}
     secrets:
       CLAUDE_CONFIG: ${{ secrets.CLAUDE_CONFIG }}
       TG_TOKEN: ${{ secrets.TG_TOKEN_DEV }}

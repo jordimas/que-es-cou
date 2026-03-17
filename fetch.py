@@ -163,7 +163,7 @@ try:
 except FileNotFoundError:
     sys.exit(f"Error: '{sources_path}' not found.")
 
-SECTION_IDS = ["world", "catalunya", "podcasts", "events"]
+SECTION_IDS = ["world", "catalunya", "podcasts", "events", "videos"]
 
 fetched_at = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M")
 print(f"Fetching feeds at {fetched_at} ...")

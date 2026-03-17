@@ -15,6 +15,7 @@ SECTION_LABELS = {
     "catalunya": "Països Catalans",
     "podcasts":  "Podcasts",
     "events":    "Trobades",
+    "videos":    "Vídeos",
 }
 
 

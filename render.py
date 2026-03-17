@@ -159,6 +159,7 @@ def build_telegram(sections: list, date_display: str, generated_time: str,
                    sent_hashes: set) -> str:
     lines = []
     lines.append(f"<b>Què es cou</b> — {date_display} {generated_time}".strip())
+    lines.append("https://jordimas.github.io/que-es-cou/")
     for sec in sections:
         articles = sec.get("articles", [])
         new_articles = [a for a in articles if item_hash(a.get("url", ""), a.get("title", "")) not in sent_hashes]

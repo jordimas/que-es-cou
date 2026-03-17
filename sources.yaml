@@ -197,3 +197,27 @@ events:
     url: https://www.techbarcelona.com/agenda/
   - name: Eventbrite Barcelona Tech
     url: https://www.eventbrite.es/d/spain--barcelona/technology--events/
+    
+videos:
+  - name: Albert Lloreta
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCemmGKC37IgR8mwXSzvKRYQ
+  - name: Xboxers Catalans
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCBm6DJY3FsyD2XJ0g4pAsRw
+  - name: Catalunya PlayStation
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UC55Cx5vewLvwhp9Fa4OLHww
+  - name: Parlem de Ciència
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCM0AUafHTll5Hk8-ionO9iQ
+  - name: elCitoplasma
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCI098Xq9FQnQy84hsENSNQw
+  - name: Pixelats
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCvIm1hoOtrsfcdr_ks2cUcw
+  - name: Senyor Font
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCKqIV2kNv0VFmEPO3lfGqJQ
+  - name: 3D Nassos
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCPn2HQEQSbjULALiegrFZqw
+  - name: Vadebits.cat
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCafok7ZGp5WEHEFtjqBjMSw
+  - name: Societat Catalana de Tecnologia
+    url: https://www.youtube.com/feeds/videos.xml?playlist_id=PLJPVNzVlFt_AvbkxyvC-OcCVRLKoPIKvM
+
+

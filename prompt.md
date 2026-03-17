@@ -7,6 +7,7 @@ Your task is to execute the following instructions:
   - raw_feeds_catalunya.json -> category  catalunya
   - raw_feeds_podcasts.json -> category podcasts
   - raw_feeds_events.json -> category events
+  - raw_feeds_videos.json -> category videos
 - Do not fetch any URLs yourself. Use only the data in these files.
 - Each file contains a "fetched_at" timestamp and a "section" object with an "id" and a list of sources.
   Each source has: name, url, status (ok/blocked/error), optional error_detail, and an items array.
@@ -48,6 +49,10 @@ When in doubt, exclude the article.
 - For events category: include every event whose `pubDate` is within 15 days before `fetched_at`
   - Compute the cutoff as: cutoff = fetched_at − 15 days. Include the episode if pubDate ≥ cutoff, exclude if pubDate < cutoff
   - The podcast sources are already curated — no topic filter needed, include all episodes in the date window
+- For videos category: include every video whose `pubDate` is within 15 days before `fetched_at`
+  - Compute the cutoff as: cutoff = fetched_at − 15 days. Include the video if pubDate ≥ cutoff, exclude if pubDate < cutoff
+  - The sources are already curated Catalan YouTube channels — no topic filter needed, include all videos in the date window
+  - If the video's `link` does not start with `http://` or `https://`, skip it
 
  
 **OUTPUT FORMAT**
@@ -157,6 +162,29 @@ When in doubt, exclude the article.
           "title": "Event title",
           "link_id": "xxxx",
           "source": "Source name",
+          "date": "YYYY-MM-DD",
+          "time": "HH:MM",
+          "summary": "Summary in Catalan, maximum 20 words."
+        }
+      ]
+    },
+    {
+      "id": "videos",
+      "title": "Vídeos en català sobre tecnologia",
+      "sources_checked": [
+        {
+          "name": "Channel name",
+          "url": "https://...",
+          "status": "ok | blocked | error",
+          "error_detail": "Exact error message if status is error or blocked, omit field if status is ok",
+          "articles_found": 0
+        }
+      ],
+      "articles": [
+        {
+          "title": "Video title",
+          "link_id": "xxxx",
+          "source": "Channel name",
           "date": "YYYY-MM-DD",
           "time": "HH:MM",
           "summary": "Summary in Catalan, maximum 20 words."
