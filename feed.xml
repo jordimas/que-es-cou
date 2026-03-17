@@ -5,205 +5,237 @@
     <link>https://jordimas.github.io/que-es-cou/</link>
     <description>Notícies de tecnologia en català, actualitzades cada 4 hores.</description>
     <language>ca</language>
-    <lastBuildDate>2026-03-17T23:30</lastBuildDate>
+    <lastBuildDate>2026-03-17T23:43</lastBuildDate>
     <atom:link href="https://jordimas.github.io/que-es-cou/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Meta tanca Horizon Worlds a les ulleres de realitat virtual</title>
+      <title>Meta tanca Horizon Worlds als visors de realitat virtual</title>
       <link>https://www.wired.com/story/meta-is-shutting-down-horizon-worlds-on-meta-quest/</link>
       <guid isPermaLink="true">https://www.wired.com/story/meta-is-shutting-down-horizon-worlds-on-meta-quest/</guid>
-      <description>Meta abandonarà la versió VR de Horizon Worlds al juny i se centrarà en l'app mòbil.</description>
+      <description>Els usuaris dels visors Quest perdran l'accés al metavers social de Meta a partir del juny.</description>
       <author>Wired</author>
       <pubDate>2026-03-17</pubDate>
     </item>
     <item>
-      <title>Hackers pro-Iran esborren milers de dispositius d'empleats de Stryker</title>
-      <link>https://techcrunch.com/2026/03/17/stryker-says-its-restoring-systems-after-pro-iran-hackers-wiped-thousands-of-employee-devices/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/03/17/stryker-says-its-restoring-systems-after-pro-iran-hackers-wiped-thousands-of-employee-devices/</guid>
-      <description>El primer gran ciberatac als EUA en resposta a la guerra amb l'Iran ha afectat l'empresa mèdica Stryker.</description>
-      <author>TechCrunch</author>
+      <title>Apple llança la primera actualització de seguretat en segon pla per a iPhone, iPad i Mac</title>
+      <link>https://www.engadget.com/computing/apple-releases-its-first-background-security-improvement-for-macos-ios-and-ipados-214052311.html?src=rss</link>
+      <guid isPermaLink="true">https://www.engadget.com/computing/apple-releases-its-first-background-security-improvement-for-macos-ios-and-ipados-214052311.html?src=rss</guid>
+      <description>La nova millora silenciosa corregeix una vulnerabilitat al navegador Safari sense reinici del dispositiu.</description>
+      <author>Engadget</author>
       <pubDate>2026-03-17</pubDate>
     </item>
     <item>
-      <title>OpenAI s'associa amb AWS per vendre IA al govern dels EUA</title>
-      <link>https://techcrunch.com/2026/03/17/openai-expands-government-footprint-with-aws-deal/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/03/17/openai-expands-government-footprint-with-aws-deal/</guid>
-      <description>OpenAI ampliarà l'accés del govern americà als seus sistemes d'IA, tant en entorns classificats com no classificats.</description>
-      <author>TechCrunch</author>
-      <pubDate>2026-03-17</pubDate>
-    </item>
-    <item>
-      <title>Apple llança la primera actualització de seguretat en segon pla per a iOS, iPadOS i macOS</title>
-      <link>https://techcrunch.com/2026/03/17/apple-rolls-out-first-background-security-update-for-iphones-ipads-and-macs-to-fix-safari-bug/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/03/17/apple-rolls-out-first-background-security-update-for-iphones-ipads-and-macs-to-fix-safari-bug/</guid>
-      <description>Apple corregeix una vulnerabilitat de Safari amb una nova modalitat d'actualització automàtica i silenciosa.</description>
-      <author>TechCrunch</author>
-      <pubDate>2026-03-17</pubDate>
-    </item>
-    <item>
-      <title>Google amplia la funció Personal Intelligence a tots els usuaris dels EUA</title>
-      <link>https://techcrunch.com/2026/03/17/googles-personal-intelligence-feature-is-expanding-to-all-us-users/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/03/17/googles-personal-intelligence-feature-is-expanding-to-all-us-users/</guid>
-      <description>El Gemini d'Google ara pot accedir a Gmail i Google Photos per oferir respostes personalitzades a tots els usuaris gratuïts.</description>
-      <author>TechCrunch</author>
-      <pubDate>2026-03-17</pubDate>
-    </item>
-    <item>
-      <title>Mistral llança Forge perquè les empreses entrenen models d'IA propis</title>
+      <title>Mistral AI llança Forge per ajudar empreses a crear models d'IA propis</title>
       <link>https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/</link>
       <guid isPermaLink="true">https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/</guid>
-      <description>Mistral Forge permet entrenar models d'IA personalitzats des de zero amb dades pròpies, desafiant OpenAI i Anthropic.</description>
+      <description>La plataforma permet entrenar models d'IA des de zero amb dades pròpies, competint amb OpenAI i Anthropic.</description>
       <author>TechCrunch</author>
       <pubDate>2026-03-17</pubDate>
     </item>
     <item>
-      <title>Nvidia DLSS 5: polèmica pels nous efectes visuals generats per IA</title>
-      <link>https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing</link>
-      <guid isPermaLink="true">https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing</guid>
-      <description>La nova tecnologia d'escalat de Nvidia genera controvèrsia entre jugadors per la seva semblança amb el motion smoothing.</description>
-      <author>The Verge</author>
+      <title>Nvidia GTC 2026: DLSS 5, NemoClaw i el nou processador Vera CPU</title>
+      <link>https://www.cnet.com/tech/services-and-software/nvidia-gtc-2026-3-things-you-should-know-about/</link>
+      <guid isPermaLink="true">https://www.cnet.com/tech/services-and-software/nvidia-gtc-2026-3-things-you-should-know-about/</guid>
+      <description>Jensen Huang presenta la nova pila d'agents d'IA i el full de ruta de maquinari per als centres de dades.</description>
+      <author>CNET</author>
       <pubDate>2026-03-17</pubDate>
     </item>
     <item>
-      <title>Intel presenta els nous processadors Core Ultra 200HX Plus per a portàtils de joc</title>
-      <link>https://www.theverge.com/tech/895921/intel-core-ultra-290hx-270hx-flagship-gaming-laptop-cpu</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/895921/intel-core-ultra-290hx-270hx-flagship-gaming-laptop-cpu</guid>
-      <description>Els nous xips Arrow Lake Refresh arriben als portàtils d'alt rendiment amb fins a 24 nuclis.</description>
-      <author>The Verge</author>
+      <title>ChatGPT gratuït incorpora el nou model GPT 5.4 mini amb millors capacitats de programació</title>
+      <link>https://9to5google.com/2026/03/17/openai-gpt-5-4-mini-nano-models/</link>
+      <guid isPermaLink="true">https://9to5google.com/2026/03/17/openai-gpt-5-4-mini-nano-models/</guid>
+      <description>OpenAI estén l'accés al model més lleuger i ràpid de la seva família GPT 5 als usuaris sense subscripció.</description>
+      <author>9to5Google</author>
       <pubDate>2026-03-17</pubDate>
     </item>
     <item>
-      <title>Nvidia actualitza el full de ruta de centres de dades amb CPUs Rosa i GPUs Feynman apilades</title>
-      <link>https://www.tomshardware.com/pc-components/gpus/nvidia-updates-data-center-roadmap-with-rosa-cpu-and-stacked-feynman-gpus-optical-nvlink-groq-lpus-with-nvfp4-and-nvlink-also-on-deck</link>
-      <guid isPermaLink="true">https://www.tomshardware.com/pc-components/gpus/nvidia-updates-data-center-roadmap-with-rosa-cpu-and-stacked-feynman-gpus-optical-nvlink-groq-lpus-with-nvfp4-and-nvlink-also-on-deck</guid>
-      <description>Jensen Huang presenta a la GTC el pla de futur de Nvidia amb noves arquitectures per a IA i supercòmput.</description>
+      <title>Encyclopaedia Britannica i Merriam-Webster demanden OpenAI per infracció de drets d'autor</title>
+      <link>https://www.cnet.com/tech/services-and-software/encyclopedia-britannica-and-merriam-webster-sue-openai/</link>
+      <guid isPermaLink="true">https://www.cnet.com/tech/services-and-software/encyclopedia-britannica-and-merriam-webster-sue-openai/</guid>
+      <description>Les editorials s'uneixen a la creixent onada de demandes contra empreses d'IA per ús no autoritzat de continguts.</description>
+      <author>CNET</author>
+      <pubDate>2026-03-17</pubDate>
+    </item>
+    <item>
+      <title>Samsung atura la venda del Galaxy Z TriFold als tres mesos del llançament</title>
+      <link>https://www.cnet.com/tech/mobile/samsung-ends-sales-galaxy-z-trifold/</link>
+      <guid isPermaLink="true">https://www.cnet.com/tech/mobile/samsung-ends-sales-galaxy-z-trifold/</guid>
+      <description>El telèfon plegable de quasi 3.000 dòlars deixa de comercialitzar-se als Estats Units i Corea del Sud.</description>
+      <author>CNET</author>
+      <pubDate>2026-03-17</pubDate>
+    </item>
+    <item>
+      <title>Els missatges directes d'Instagram probablement mai van estar xifrats</title>
+      <link>https://9to5mac.com/2026/03/17/security-bite-your-instagram-dms-were-likely-never-encrypted-to-begin-with/</link>
+      <guid isPermaLink="true">https://9to5mac.com/2026/03/17/security-bite-your-instagram-dms-were-likely-never-encrypted-to-begin-with/</guid>
+      <description>Una investigació revela que el xifrat de DMs d'Instagram era superficial i no protegia realment la privacitat.</description>
+      <author>9to5Mac</author>
+      <pubDate>2026-03-17</pubDate>
+    </item>
+    <item>
+      <title>Hackers pro-Iran van esborrar milers de dispositius d'empleats de Stryker</title>
+      <link>https://techcrunch.com/2026/03/17/stryker-says-its-restoring-systems-after-pro-iran-hackers-wiped-thousands-of-employee-devices/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/03/17/stryker-says-its-restoring-systems-after-pro-iran-hackers-wiped-thousands-of-employee-devices/</guid>
+      <description>L'atac al fabricant de dispositius mèdics ha interromput àmpliament les operacions de l'empresa.</description>
+      <author>TechCrunch</author>
+      <pubDate>2026-03-17</pubDate>
+    </item>
+    <item>
+      <title>Intel presenta els nous processadors mòbils Core Ultra 200HX Plus</title>
+      <link>https://www.tomshardware.com/pc-components/cpus/intel-launches-core-ultra-200hx-plus-mobile-cpus-including-290hx-plus-and-270hx-plus-flagships-arrow-lake-refresh-is-up-to-8-percent-faster-in-gaming</link>
+      <guid isPermaLink="true">https://www.tomshardware.com/pc-components/cpus/intel-launches-core-ultra-200hx-plus-mobile-cpus-including-290hx-plus-and-270hx-plus-flagships-arrow-lake-refresh-is-up-to-8-percent-faster-in-gaming</guid>
+      <description>Els nous models 290HX i 270HX Plus ofereixen fins a un 8% més rendiment en jocs que la generació anterior.</description>
       <author>Tom's Hardware</author>
       <pubDate>2026-03-17</pubDate>
     </item>
     <item>
-      <title>Spotify introdueix la reproducció sense pèrdues en mode exclusiu per a Windows</title>
-      <link>https://www.theverge.com/entertainment/896290/spotify-exclusive-mode-windows</link>
-      <guid isPermaLink="true">https://www.theverge.com/entertainment/896290/spotify-exclusive-mode-windows</guid>
-      <description>El nou mode Exclusiu de Spotify a Windows cedeix el control d'àudio a l'app per a la màxima qualitat sonora.</description>
-      <author>The Verge</author>
+      <title>Pokémon Go, del joc al mapa del món: Niantic utilitza milions d'imatges per entrenar robots de repartiment</title>
+      <link>https://www.metadata.cat/noticia/6219/pokemon-go-del-joc-al-mapa-del-mon-entrenar-robots-repartiment</link>
+      <guid isPermaLink="true">https://www.metadata.cat/noticia/6219/pokemon-go-del-joc-al-mapa-del-mon-entrenar-robots-repartiment</guid>
+      <description>Les dades dels jugadors permeten construir un model d'IA que guia robots autònoms pels carrers urbans.</description>
+      <author>MetaData</author>
       <pubDate>2026-03-17</pubDate>
     </item>
     <item>
-      <title>El DFactory triplicarà el seu espai per a la indústria 4.0 a Barcelona</title>
+      <title>Factorial llança un fons de 10 M€ per accelerar l'adopció de la IA a les pimes europees</title>
+      <link>https://www.ara.cat/economia/tecnologia/factorial-llanca-fons-10-m-accelerar-l-adopcio-ia-pimes-europees_1_5679778.html</link>
+      <guid isPermaLink="true">https://www.ara.cat/economia/tecnologia/factorial-llanca-fons-10-m-accelerar-l-adopcio-ia-pimes-europees_1_5679778.html</guid>
+      <description>La startup catalana de gestió de RRHH invertirà en empreses que apliquin la intel·ligència artificial.</description>
+      <author>Ara.cat</author>
+      <pubDate>2026-03-17</pubDate>
+    </item>
+    <item>
+      <title>Escena 4.0, la startup catalana que vol reinventar els escenaris culturals amb tecnologia immersiva</title>
+      <link>https://www.metadata.cat/reportatge/6215/escena-4.0-reinventar-escenaris-culturals-tecnologia-immersiva</link>
+      <guid isPermaLink="true">https://www.metadata.cat/reportatge/6215/escena-4.0-reinventar-escenaris-culturals-tecnologia-immersiva</guid>
+      <description>El projecte impulsa una cúpula modular que integra audiovisual i generació d'energia pròpia als escenaris.</description>
+      <author>MetaData</author>
+      <pubDate>2026-03-17</pubDate>
+    </item>
+    <item>
+      <title>El DFactory multiplicarà per tres el seu espai per al talent innovador</title>
       <link>https://naciodigital.cat/economia/el-dfactory-multiplicara-per-tres-el-seu-espai-per-al-talent-innovador.html</link>
       <guid isPermaLink="true">https://naciodigital.cat/economia/el-dfactory-multiplicara-per-tres-el-seu-espai-per-al-talent-innovador.html</guid>
-      <description>La Zona Franca ampliarà de 17.000 a 60.000 m² l'espai dedicat a empreses tecnològiques i innovadores.</description>
+      <description>La Zona Franca ampliarà de 17.000 a 60.000 m² l'espai dedicat a la indústria 4.0 a Barcelona.</description>
       <author>NacióDigital</author>
       <pubDate>2026-03-17</pubDate>
     </item>
     <item>
-      <title>Has jugat a Pokémon Go? Les dades recopilades serviran per entrenar robots repartidors</title>
-      <link>https://www.3cat.cat/3catinfo/has-jugat-a-pokemon-go-les-dades-recopilades-serviran-per-entrenar-robots-repartidors/noticia/3399927/</link>
-      <guid isPermaLink="true">https://www.3cat.cat/3catinfo/has-jugat-a-pokemon-go-les-dades-recopilades-serviran-per-entrenar-robots-repartidors/noticia/3399927/</guid>
-      <description>L'empresa de Pokémon Go usarà la geolocalització dels jugadors per entrenar una flota de robots autònoms.</description>
-      <author>324.cat</author>
-      <pubDate>2026-03-16</pubDate>
-    </item>
-    <item>
-      <title>L'ús de la IA genera dubtes sobre Netanyahu: falses afirmacions asseguren que és mort</title>
-      <link>https://www.3cat.cat/3catinfo/lus-de-la-ia-genera-dubtes-al-voltant-de-netanyahu-falsos-clams-asseguren-que-es-mort/noticia/3399902/</link>
-      <guid isPermaLink="true">https://www.3cat.cat/3catinfo/lus-de-la-ia-genera-dubtes-al-voltant-de-netanyahu-falsos-clams-asseguren-que-es-mort/noticia/3399902/</guid>
-      <description>Milers d'usuaris dubten si Netanyahu és viu, atribuint falsament les seves aparicions a muntatges amb IA.</description>
-      <author>324.cat</author>
+      <title>Els estats de la UE avalen prohibir continguts sexuals generats amb IA sense consentiment</title>
+      <link>https://www.metadata.cat/noticia/6212/estats-ue-prohibir-continguts-sexuals-generats-amb-ia-sense-consentiment</link>
+      <guid isPermaLink="true">https://www.metadata.cat/noticia/6212/estats-ue-prohibir-continguts-sexuals-generats-amb-ia-sense-consentiment</guid>
+      <description>La reforma de la normativa europea d'IA s'accelera per regular els deepfakes i la pornografia no consentida.</description>
+      <author>MetaData</author>
       <pubDate>2026-03-16</pubDate>
     </item>
     <item>
       <title>Xiaomi torna a llançar un portàtil que apunta directament al MacBook Air</title>
       <link>https://www.elnacional.cat/ca/tecnologia/xiaomi-torna-llancar-portatil-apunta-directament-macbook-air_1612512_102.html</link>
       <guid isPermaLink="true">https://www.elnacional.cat/ca/tecnologia/xiaomi-torna-llancar-portatil-apunta-directament-macbook-air_1612512_102.html</guid>
-      <description>El Xiaomi Book Pro 14 és oficial a la Xina amb un perfil molt similar al del MacBook Air d'Apple.</description>
+      <description>El Xiaomi Book Pro 14 es presenta a la Xina com a alternativa directa al portàtil d'Apple.</description>
       <author>El Nacional.cat</author>
       <pubDate>2026-03-17</pubDate>
     </item>
     <item>
-      <title>Ja es pot fer servir WhatsApp sense l'app: la nova funció per xatejar sense compte</title>
+      <title>Ja es pot fer servir WhatsApp sense l'app: nova funció per xatejar sense compte</title>
       <link>https://www.elnacional.cat/ca/tecnologia/ja-es-pot-fer-servir-whatsapp-sense-app-aixi-es-nova-funcio-xatejar-si-no-tens-compte_1612488_102.html</link>
       <guid isPermaLink="true">https://www.elnacional.cat/ca/tecnologia/ja-es-pot-fer-servir-whatsapp-sense-app-aixi-es-nova-funcio-xatejar-si-no-tens-compte_1612488_102.html</guid>
-      <description>WhatsApp prova els xats amb convidats sense necessitat de tenir compte a l'aplicació.</description>
+      <description>WhatsApp prova els xats amb convidats sense registre, que permeten comunicar-se temporalment sense compte propi.</description>
       <author>El Nacional.cat</author>
       <pubDate>2026-03-17</pubDate>
     </item>
     <item>
-      <title>Adeu al Galaxy Z TriFold: Samsung hauria aturat les vendes del seu plegable de 3.000 dòlars</title>
-      <link>https://www.elnacional.cat/ca/tecnologia/adeu-galaxy-trifold-samsung-hauria-aturat-vendes-seu-plegable-3000-dolars_1612392_102.html</link>
-      <guid isPermaLink="true">https://www.elnacional.cat/ca/tecnologia/adeu-galaxy-trifold-samsung-hauria-aturat-vendes-seu-plegable-3000-dolars_1612392_102.html</guid>
-      <description>Tres mesos després del llançament, Samsung hauria decidit deixar de fabricar el Galaxy Z TriFold.</description>
+      <title>L'ús de la IA genera dubtes al voltant de Netanyahu: falsos clams asseguren que és mort</title>
+      <link>https://www.3cat.cat/3catinfo/lus-de-la-ia-genera-dubtes-al-voltant-de-netanyahu-falsos-clams-asseguren-que-es-mort/noticia/3399902/</link>
+      <guid isPermaLink="true">https://www.3cat.cat/3catinfo/lus-de-la-ia-genera-dubtes-al-voltant-de-netanyahu-falsos-clams-asseguren-que-es-mort/noticia/3399902/</guid>
+      <description>Milers d'usuaris dubten si el primer ministre israelià és viu atribuint les seves aparicions a muntatges d'IA.</description>
+      <author>324.cat</author>
+      <pubDate>2026-03-16</pubDate>
+    </item>
+    <item>
+      <title>Has jugat a Pokémon Go? Les dades recopilades serviran per entrenar robots repartidors</title>
+      <link>https://www.3cat.cat/3catinfo/has-jugat-a-pokemon-go-les-dades-recopilades-serviran-per-entrenar-robots-repartidors/noticia/3399927/</link>
+      <guid isPermaLink="true">https://www.3cat.cat/3catinfo/has-jugat-a-pokemon-go-les-dades-recopilades-serviran-per-entrenar-robots-repartidors/noticia/3399927/</guid>
+      <description>Niantic ha venut les imatges geotagejades dels jugadors per millorar la navegació de robots de repartiment.</description>
+      <author>324.cat</author>
+      <pubDate>2026-03-16</pubDate>
+    </item>
+    <item>
+      <title>¿Es pot ampliar l'emmagatzematge del MacBook Neo? Tècnicament, sí que es pot</title>
+      <link>https://www.elnacional.cat/ca/tecnologia/es-pot-ampliar-emmagatzematge-macbook-neo-tecnicament-si-es-pot_1612476_102.html</link>
+      <guid isPermaLink="true">https://www.elnacional.cat/ca/tecnologia/es-pot-ampliar-emmagatzematge-macbook-neo-tecnicament-si-es-pot_1612476_102.html</guid>
+      <description>Un youtuber ha demostrat que és possible actualitzar l'SSD del nou portàtil Apple fins a 1 TB.</description>
       <author>El Nacional.cat</author>
       <pubDate>2026-03-17</pubDate>
-    </item>
-    <item>
-      <title>Les dades obertes i la transparència pública – programa 656</title>
-      <link>https://mossegalapoma.cat/les-dades-obertes-i-la-transparencia-publica-programa-656/</link>
-      <guid isPermaLink="true">https://mossegalapoma.cat/les-dades-obertes-i-la-transparencia-publica-programa-656/</guid>
-      <description>Debat sobre l'accés a les dades públiques i com la transparència enforteix la democràcia digital.</description>
-      <author>Mossega la poma</author>
-      <pubDate>2026-03-13</pubDate>
-    </item>
-    <item>
-      <title>Com la IA està revolucionant l'escriptura i la publicació de llibres – Programa 655</title>
-      <link>https://mossegalapoma.cat/com-la-ia-esta-revolucionant-lescriptura-i-la-publicacio-de-llibres-programa-655/</link>
-      <guid isPermaLink="true">https://mossegalapoma.cat/com-la-ia-esta-revolucionant-lescriptura-i-la-publicacio-de-llibres-programa-655/</guid>
-      <description>Anàlisi de l'impacte de la intel·ligència artificial en la creació literària i la indústria editorial.</description>
-      <author>Mossega la poma</author>
-      <pubDate>2026-03-07</pubDate>
-    </item>
-    <item>
-      <title>L'Altra Ràdio - Què és l'agnotologia algorítmica</title>
-      <link>https://podcasts.cat/36/33868712/</link>
-      <guid isPermaLink="true">https://podcasts.cat/36/33868712/</guid>
-      <description>Exploració del concepte d'agnotologia aplicat als algoritmes i com generen ignorància entre els usuaris.</description>
-      <author>L'altra ràdio</author>
-      <pubDate>2026-03-12</pubDate>
-    </item>
-    <item>
-      <title>L'Altra Ràdio - "Day One", la sèrie del Mobile World Congress</title>
-      <link>https://podcasts.cat/36/33845240/</link>
-      <guid isPermaLink="true">https://podcasts.cat/36/33845240/</guid>
-      <description>Reportatge sobre els moments clau i les tendències presentades al Mobile World Congress 2026.</description>
-      <author>L'altra ràdio</author>
-      <pubDate>2026-03-05</pubDate>
-    </item>
-    <item>
-      <title>El gòTIC - Tenim una missió! del 11/3/2026</title>
-      <link>https://podcasts.cat/191/33863599/</link>
-      <guid isPermaLink="true">https://podcasts.cat/191/33863599/</guid>
-      <description>Recursos i estratègies per integrar la tecnologia a l'aula des del centre de recursos de Tàrrega.</description>
-      <author>El Gòtic</author>
-      <pubDate>2026-03-10</pubDate>
-    </item>
-    <item>
-      <title>La nova constel·lació de satèl·lits Starlink permetrà cobertura als telèfons mòbils</title>
-      <link>https://www.societatdelainformacio.com/podcast/la-nova-constellacio-de-satellits-starlink-permetra-cobertura-als-telefons-mobils/</link>
-      <guid isPermaLink="true">https://www.societatdelainformacio.com/podcast/la-nova-constellacio-de-satellits-starlink-permetra-cobertura-als-telefons-mobils/</guid>
-      <description>Starlink anuncia una nova xarxa de satèl·lits d'òrbita baixa per a la connexió directa amb mòbils.</description>
-      <author>Societat de la Informació</author>
-      <pubDate>2026-03-03</pubDate>
     </item>
     <item>
       <title>Avui sí que perdem el patrocini de Parlem</title>
       <link>https://rss.com/podcasts/focaterra/2621247</link>
       <guid isPermaLink="true">https://rss.com/podcasts/focaterra/2621247</guid>
-      <description>Episodi sobre els canvis de model de finançament del podcast i la relació amb els patrocinadors tecnològics.</description>
+      <description>El podcast de tecnologia en català reflexiona sobre els canvis en el seu model de finançament i patrocinis.</description>
       <author>Foc a Terra</author>
       <pubDate>2026-03-16</pubDate>
+    </item>
+    <item>
+      <title>Les dades obertes i la transparència pública – programa 656</title>
+      <link>https://mossegalapoma.cat/les-dades-obertes-i-la-transparencia-publica-programa-656/</link>
+      <guid isPermaLink="true">https://mossegalapoma.cat/les-dades-obertes-i-la-transparencia-publica-programa-656/</guid>
+      <description>El programa analitza l'estat de les dades obertes a l'administració pública i el seu impacte en la transparència.</description>
+      <author>Mossega la poma</author>
+      <pubDate>2026-03-13</pubDate>
+    </item>
+    <item>
+      <title>L'Altra Ràdio – Què és l'agnotologia algorítmica</title>
+      <link>https://podcasts.cat/36/33868712/</link>
+      <guid isPermaLink="true">https://podcasts.cat/36/33868712/</guid>
+      <description>Exploració del fenomen pel qual els algoritmes generen ignorància deliberada entre els usuaris digitals.</description>
+      <author>L'altra ràdio</author>
+      <pubDate>2026-03-12</pubDate>
+    </item>
+    <item>
+      <title>El gòTIC – Tenim una missió! del 11/3/2026</title>
+      <link>https://podcasts.cat/191/33863599/</link>
+      <guid isPermaLink="true">https://podcasts.cat/191/33863599/</guid>
+      <description>El programa comparteix recursos i estratègies digitals per a la comunitat educativa de Tàrrega.</description>
+      <author>El Gòtic</author>
+      <pubDate>2026-03-11</pubDate>
     </item>
     <item>
       <title>Ja no vibrem amb el Mobile</title>
       <link>https://rss.com/podcasts/focaterra/2608006</link>
       <guid isPermaLink="true">https://rss.com/podcasts/focaterra/2608006</guid>
-      <description>Reflexió sobre el Mobile World Congress 2026 entre xinesos i vibe coders: ha perdut l'emoció d'abans?</description>
+      <description>Reflexió sobre el Mobile World Congress 2026 i la presència creixent de la IA i els vibecoders.</description>
       <author>Foc a Terra</author>
       <pubDate>2026-03-09</pubDate>
+    </item>
+    <item>
+      <title>Com la IA està revolucionant l'escriptura i la publicació de llibres – Programa 655</title>
+      <link>https://mossegalapoma.cat/com-la-ia-esta-revolucionant-lescriptura-i-la-publicacio-de-llibres-programa-655/</link>
+      <guid isPermaLink="true">https://mossegalapoma.cat/com-la-ia-esta-revolucionant-lescriptura-i-la-publicacio-de-llibres-programa-655/</guid>
+      <description>Anàlisi de com la intel·ligència artificial transforma el procés creatiu i editorial en l'àmbit literari.</description>
+      <author>Mossega la poma</author>
+      <pubDate>2026-03-07</pubDate>
+    </item>
+    <item>
+      <title>L'Altra Ràdio – "Day One", la sèrie del Mobile World Congress</title>
+      <link>https://podcasts.cat/36/33845240/</link>
+      <guid isPermaLink="true">https://podcasts.cat/36/33845240/</guid>
+      <description>Crònica del primer dia del Mobile World Congress 2026 amb les novetats tecnològiques més destacades.</description>
+      <author>L'altra ràdio</author>
+      <pubDate>2026-03-05</pubDate>
+    </item>
+    <item>
+      <title>La nova constel·lació de satèl·lits Starlink permetrà cobertura als telèfons mòbils</title>
+      <link>https://www.societatdelainformacio.com/podcast/la-nova-constellacio-de-satellits-starlink-permetra-cobertura-als-telefons-mobils/</link>
+      <guid isPermaLink="true">https://www.societatdelainformacio.com/podcast/la-nova-constellacio-de-satellits-starlink-permetra-cobertura-als-telefons-mobils/</guid>
+      <description>Starlink presenta una nova constel·lació d'òrbita super-baixa per oferir connectivitat directa als mòbils.</description>
+      <author>Societat de la Informació</author>
+      <pubDate>2026-03-03</pubDate>
     </item>
     <item>
       <title>10web, una IA para crear WordPress por Aleix Martí</title>
       <link>https://www.meetup.com/wordpressbcn/events/313756353/</link>
       <guid isPermaLink="true">https://www.meetup.com/wordpressbcn/events/313756353/</guid>
-      <description>Demostració de 10web i Vibe for WordPress: com crear llocs WordPress complets amb uns pocs prompts d'IA.</description>
+      <description>Demostració de 10web i Vibe for WordPress: creació de llocs web complets amb uns pocs prompts d'IA.</description>
       <author>WordPress BCN</author>
       <pubDate>2026-03-12</pubDate>
     </item>
@@ -211,7 +243,7 @@
       <title>Com usar Wikidata per visibilitzar obres digitals de domini públic?</title>
       <link>https://www.meetup.com/barcelona-free-software/events/313790663/</link>
       <guid isPermaLink="true">https://www.meetup.com/barcelona-free-software/events/313790663/</guid>
-      <description>Xerrada sobre Wikidata i dades obertes per visibilitzar obres digitals de domini públic a Colòmbia.</description>
+      <description>Xerrada sobre l'ús de Wikidata per catalogar i visibilitzar obres digitals en domini públic a Colòmbia.</description>
       <author>Free Software Barcelona</author>
       <pubDate>2026-03-16</pubDate>
     </item>
@@ -219,33 +251,25 @@
       <title>Llibres per repensar l'internet</title>
       <link>https://www.youtube.com/watch?v=VgTRg9bx-Js</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=VgTRg9bx-Js</guid>
-      <description>Recomanació de lectures per reflexionar sobre el futur i la transformació d'internet.</description>
+      <description>Recomanació de lectures per reflexionar críticament sobre el funcionament i el futur d'internet.</description>
       <author>Albert Lloreta</author>
       <pubDate>2026-03-10</pubDate>
-    </item>
-    <item>
-      <title>[Campionat Forza Rivals] - 7ª Temporada - 6ª - Mugello Club - Càster @pol_aeri + Almoracers</title>
-      <link>https://www.youtube.com/watch?v=vUD_Bu_0BM8</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=vUD_Bu_0BM8</guid>
-      <description>Sisena cursa de la setena temporada del campionat Forza Rivals en català al circuit de Mugello.</description>
-      <author>Xboxers Catalans</author>
-      <pubDate>2026-03-04</pubDate>
     </item>
     <item>
       <title>Pixelats vs. THE OUTFOXIES!!</title>
       <link>https://www.youtube.com/watch?v=yTyRhfy3zqM</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=yTyRhfy3zqM</guid>
-      <description>El programa Pixelats prova el clàssic joc de lluita The Outfoxies en un nou episodi en català.</description>
+      <description>Partida i anàlisi del clàssic joc d'acció The Outfoxies en el canal de videojocs en català.</description>
       <author>Pixelats</author>
       <pubDate>2026-03-04</pubDate>
     </item>
     <item>
-      <title>POTI-POTI VIDEOJOCS: l'adéu a Bluepoint, State of Play, canvi de rumb a Xbox, il·lusió amb NieR</title>
-      <link>https://www.youtube.com/watch?v=Zbvuf5emsw8</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=Zbvuf5emsw8</guid>
-      <description>Debat sobre les darreres notícies del món dels videojocs: Bluepoint, Xbox i les novetats del State of Play.</description>
-      <author>3D Nassos</author>
-      <pubDate>2026-03-01</pubDate>
+      <title>[Campionat Forza Rivals] - 7ª Temporada - 6ª - Mugello Club</title>
+      <link>https://www.youtube.com/watch?v=vUD_Bu_0BM8</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=vUD_Bu_0BM8</guid>
+      <description>Retransmissió del campionat de Forza Rivals en català amb caster i els Almoracers al circuit Mugello.</description>
+      <author>Xboxers Catalans</author>
+      <pubDate>2026-03-04</pubDate>
     </item>
   </channel>
 </rss>
