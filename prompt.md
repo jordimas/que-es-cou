@@ -4,7 +4,7 @@ Your task is to execute the following instructions:
 
 - All feed data has already been fetched and is available in per-category JSON files:
   - raw_feeds_world.json -> category world
-  - raw_feeds_catalunya.json -> category  catalunya
+  - raw_feeds_catalunya.json -> category catalunya
   - raw_feeds_podcasts.json -> category podcasts
   - raw_feeds_events.json -> category events
   - raw_feeds_videos.json -> category videos
@@ -35,12 +35,19 @@ An article does NOT count as tech if it is primarily about:
 When in doubt, exclude the article.
 
 **SELECTION CRITERIA**
-- For world category, select up to 10 of the most important tech news stories published in the last 24 hours
-  - Prioritize stories covered by multiple sources or with significant industry impact
-  - As a tiebreaker, prefer the most recently published stories
-- For catalunya category, select up to the top 10 most important Catalan news matching the tech topic filter, published in the last 7 days
-  - Prioritize stories covered by multiple sources or with significant impact
-  - Select a maxium of 3 articles per source
+- For world category, select up to 10 articles of news stories published following this prioritization criteria by order of importance:
+  - Discard articles that do not match the 'tech topic filter' criteria
+  - Discard any articles for which pubDate is older than 24 hours
+  - Count how many sources mention the same story (match by similar title/topic). Sort descending by this count.
+  - As a tiebreaker, sort by pubDate descending (most recent first)
+  - Take the top 10 after sorting. When stories tie on both criteria, prefer the one that appears first in the input.
+- For catalunya category, select up to 10 articles of news stories published following this prioritization criteria by order of importance:
+  - Discard articles that do not match the 'tech topic filter' criteria
+  - Discard any article which is not in Catalan language
+  - Discard any articles for which pubDate is older than 7 days
+  - Prioritize stories covered by multiple sources
+  - Prioritize stores with impact for society and end-users
+  - Hard limit: never include more than 3 articles from the same source, skip any further articles from that source.
   - It is OK if fewer than 10 articles are selected
 - For podcasts category: include every episode whose `pubDate` is within 15 days before `fetched_at`
   - Compute the cutoff as: cutoff = fetched_at − 15 days. Include the episode if pubDate ≥ cutoff, exclude if pubDate < cutoff
