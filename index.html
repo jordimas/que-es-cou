@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Què es cou – 18 de març de 2026 16:15h</title>
+  <title>Què es cou – 18 de març de 2026 18:30h</title>
   <style>
     @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&display=swap');
 
@@ -237,11 +237,10 @@
     }
     #theme-toggle:hover { color: var(--green); border-color: var(--green-dim); }
 
-    /* ── RSS icon (fixed top-right) ── */
-    #rss-link {
+    /* ── RSS / Telegram icons (fixed top-right) ── */
+    #rss-link, #telegram-link {
       position: fixed;
       top: 10px;
-      right: 12px;
       z-index: 20;
       display: flex;
       align-items: center;
@@ -254,11 +253,17 @@
       text-decoration: none;
       transition: border-color .15s, box-shadow .15s;
     }
+    #rss-link { right: 12px; }
+    #telegram-link { right: 46px; }
     #rss-link:hover {
       border-color: var(--amber);
       box-shadow: 0 0 8px rgba(255,176,0,.35);
     }
-    #rss-link svg { display: block; }
+    #telegram-link:hover {
+      border-color: var(--amber);
+      box-shadow: 0 0 8px rgba(255,176,0,.35);
+    }
+    #rss-link svg, #telegram-link svg { display: block; }
 
     /* ── Mobile ── */
     @media (max-width: 480px) {
@@ -270,6 +275,13 @@
 </head>
 <body>
 <div class="scanlines"></div>
+
+<a id="telegram-link" href="https://t.co/674bdOEK73" title="Canal de Telegram" aria-label="Canal de Telegram" target="_blank" rel="noopener">
+  <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24"
+       fill="currentColor" aria-hidden="true">
+    <path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.894 8.221-1.97 9.28c-.145.658-.537.818-1.084.508l-3-2.21-1.447 1.394c-.16.16-.295.295-.605.295l.213-3.053 5.56-5.023c.242-.213-.054-.333-.373-.12L7.19 13.668l-2.96-.924c-.643-.204-.657-.643.136-.953l11.57-4.461c.537-.194 1.006.131.958.891z"/>
+  </svg>
+</a>
 
 <a id="rss-link" href="feed.xml" title="Feed RSS" aria-label="Feed RSS">
   <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24"
@@ -384,7 +396,7 @@
     </svg>
 
     <h1>Què es cou</h1>
-    <time datetime="2026-03-18T16:15">18 de març de 2026 16:15h</time>
+    <time datetime="2026-03-18T18:30">18 de març de 2026 18:30h</time>
     <button id="theme-toggle" aria-label="Canvia el tema">☀ clar</button>
   </div>
 </header>
@@ -415,111 +427,111 @@
     
     <article>
       <div class="article-body">
-        <h3><a href="https://www.wired.com/story/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/" target="_blank" rel="noopener">Centenars de milions d&#39;iPhones poden ser hackejats amb la nova eina DarkSword usada per pirates russos</a></h3>
+        <h3><a href="https://techcrunch.com/2026/03/18/dod-says-anthropics-red-lines-make-it-an-unacceptable-risk-to-national-security/" target="_blank" rel="noopener">El Departament de Defensa dels EUA diu que Anthropic suposa un &#39;risc inacceptable&#39; per a la seguretat nacional</a></h3>
+        <div class="meta">
+          TechCrunch
+           &mdash; 18 de març de 2026
+        </div>
+        <p>El Pentàgon rebutja la demanda d&#39;Anthropic i defensa que les &#39;línies vermelles&#39; del seu model Claude el fan inviable en operacions militars.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://www.wired.com/story/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/" target="_blank" rel="noopener">Centenars de milions d&#39;iPhones es poden piratejar amb una nova eina descoberta en ús</a></h3>
         <div class="meta">
           Wired
            &mdash; 18 de març de 2026
         </div>
-        <p>L&#39;eina DarkSword compromet iPhones amb iOS 18 quan visiten llocs infectats, sense cap interacció addicional.</p>
+        <p>L&#39;exploit DarkSword, usat per hackers russos, permet prendre el control d&#39;iPhones amb iOS 18 visitant llocs infectats.</p>
       </div>
     </article>
     
     <article>
       <div class="article-body">
-        <h3><a href="https://techcrunch.com/2026/03/18/marquis-says-over-672000-people-had-personal-and-financial-data-stolen-in-ransomware-attack/" target="_blank" rel="noopener">Marquis confirma que 672.000 persones van tenir dades personals i financeres robades en un atac de ransomware</a></h3>
+        <h3><a href="https://www.engadget.com/transportation/evs/bmws-i3-is-reborn-as-a-sporty-440-mile-range-ev-sedan-124614369.html?src=rss" target="_blank" rel="noopener">El nou BMW i3 elèctric torna amb fins a 440 milles d&#39;autonomia</a></h3>
+        <div class="meta">
+          Engadget
+           &mdash; 18 de març de 2026
+        </div>
+        <p>BMW ressuscita el nom i3 amb un berlina elèctrica de nova generació, molt més gran i potent que l&#39;original.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://techcrunch.com/2026/03/18/facebook-launches-a-new-monetization-program-to-attract-popular-creators-from-tiktok-youtube/" target="_blank" rel="noopener">Facebook llança un nou programa de monetització per atreure creadors de TikTok i YouTube</a></h3>
         <div class="meta">
           TechCrunch
            &mdash; 18 de març de 2026
         </div>
-        <p>La fintech notifica afectats: pirates van robar números de la Seguretat Social i informació bancària.</p>
+        <p>Meta va pagar gairebé 3.000 milions a creadors el 2025 i ara ofereix bonificacions mensuals per captar talent extern.</p>
       </div>
     </article>
     
     <article>
       <div class="article-body">
-        <h3><a href="https://www.propublica.org/article/microsoft-cloud-fedramp-cybersecurity-government" target="_blank" rel="noopener">Experts federals en ciberseguretat van qualificar el núvol de Microsoft de &#34;una merda&#34; però el van aprovar igualment</a></h3>
+        <h3><a href="https://www.engadget.com/ai/google-expands-search-live-globally-150000252.html?src=rss" target="_blank" rel="noopener">Google expandeix Search Live a tot el món</a></h3>
         <div class="meta">
-          Hacker News
+          Engadget
            &mdash; 18 de març de 2026
         </div>
-        <p>Informe revela que responsables governamentals van criticar severament la seguretat del núvol de Microsoft internament.</p>
+        <p>La funció d&#39;IA que permet fer preguntes apuntant la càmera del mòbil ja és disponible a més de 200 països.</p>
       </div>
     </article>
     
     <article>
       <div class="article-body">
-        <h3><a href="https://www.cnet.com/tech/mobile/samsung-ends-sales-galaxy-z-trifold/" target="_blank" rel="noopener">Samsung abandona la venda del Galaxy Z TriFold només tres mesos després del llançament</a></h3>
-        <div class="meta">
-          CNET
-           &mdash; 18 de març de 2026
-        </div>
-        <p>El dispositiu de 10 polzades que costava gairebé 3.000 dòlars deixarà d&#39;estar disponible als EUA i Corea del Sud.</p>
-      </div>
-    </article>
-    
-    <article>
-      <div class="article-body">
-        <h3><a href="https://go.theregister.com/feed/www.theregister.com/2026/03/18/researchers_lift_the_lid_on/" target="_blank" rel="noopener">Corea del Nord manté un exèrcit de 100.000 treballadors informàtics falsos que recapten 500 milions de dòlars anuals</a></h3>
-        <div class="meta">
-          The Register
-           &mdash; 18 de març de 2026
-        </div>
-        <p>IBM X-Force i Flare Research han mapejat l&#39;organigrama complet del frau, des de reclutadors fins a col·laboradors occidentals.</p>
-      </div>
-    </article>
-    
-    <article>
-      <div class="article-body">
-        <h3><a href="https://techcrunch.com/2026/03/18/dod-says-anthropics-red-lines-make-it-an-unacceptable-risk-to-national-security/" target="_blank" rel="noopener">El Departament de Defensa dels EUA diu que les &#39;línies vermelles&#39; d&#39;Anthropic el converteixen en un risc inacceptable per a la seguretat nacional</a></h3>
+        <h3><a href="https://techcrunch.com/2026/03/18/marquis-says-over-672000-people-had-personal-and-financial-data-stolen-in-ransomware-attack/" target="_blank" rel="noopener">Marquis afirma que hackers van robar dades personals i financeres de 672.000 persones en un atac de ransomware</a></h3>
         <div class="meta">
           TechCrunch
            &mdash; 18 de març de 2026
         </div>
-        <p>El Pentàgon al·lega que Anthropic podria desactivar la seva tecnologia en operacions militars i el classifica com a risc.</p>
+        <p>La fintech Marquis notifica a centenars de milers d&#39;usuaris que els van robar dades sensibles, inclosos números de Seguretat Social.</p>
       </div>
     </article>
     
     <article>
       <div class="article-body">
-        <h3><a href="https://www.macrumors.com/2026/03/18/apple-blocks-updates-for-vibe-coding-apps/" target="_blank" rel="noopener">Apple bloqueja en silenci les actualitzacions de les populars aplicacions de &#39;vibe coding&#39;</a></h3>
+        <h3><a href="https://www.engadget.com/computing/apple-releases-its-first-background-security-improvement-for-macos-ios-and-ipados-214052311.html?src=rss" target="_blank" rel="noopener">Apple publica la primera actualització de seguretat en segon pla per a iPhones, iPads i Macs</a></h3>
         <div class="meta">
-          MacRumors
-           &mdash; 18 de març de 2026
+          Engadget
+           &mdash; 17 de març de 2026
         </div>
-        <p>Apps com Replit i Vibecode no poden publicar actualitzacions a l&#39;App Store fins que no compleixin nous requisits d&#39;Apple.</p>
+        <p>Apple corregeix una vulnerabilitat de Safari sense que l&#39;usuari hagi d&#39;acceptar manualment l&#39;actualització.</p>
       </div>
     </article>
     
     <article>
       <div class="article-body">
-        <h3><a href="https://www.pcworld.com/article/3092299/my-most-useful-chrome-extension-was-stealing-my-data-for-years.html" target="_blank" rel="noopener">Una extensió de Chrome que usava per feina m&#39;ha estat robant dades durant anys</a></h3>
+        <h3><a href="https://www.wired.com/story/meta-is-shutting-down-horizon-worlds-on-meta-quest/" target="_blank" rel="noopener">Meta tanca Horizon Worlds a Meta Quest el juny</a></h3>
         <div class="meta">
-          PCWorld
-           &mdash; 18 de març de 2026
+          Wired
+           &mdash; 17 de març de 2026
         </div>
-        <p>El cas alerta sobre el risc real de les extensions del navegador que semblen innocents però recopilen dades dels usuaris.</p>
+        <p>Meta elimina l&#39;accés a la seva experiència de realitat virtual social dins del visor Quest, part d&#39;una reducció de negoci.</p>
       </div>
     </article>
     
     <article>
       <div class="article-body">
-        <h3><a href="https://www.bbc.com/news/articles/cvg1gr5v333o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">El govern britànic fa marxa enrere sobre la IA i els drets d&#39;autor arran de les protestes dels artistes</a></h3>
+        <h3><a href="https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/" target="_blank" rel="noopener">Mistral aposta per la IA &#39;a mida&#39; amb Forge per competir amb OpenAI i Anthropic a l&#39;empresa</a></h3>
         <div class="meta">
-          BBC Technology
-           &mdash; 18 de març de 2026
+          TechCrunch
+           &mdash; 17 de març de 2026
         </div>
-        <p>El govern del Regne Unit ja no té cap opció preferida sobre com regular l&#39;ús d&#39;obres protegides per entrenar IA.</p>
+        <p>Mistral Forge permet a les empreses entrenar models d&#39;IA propis des de zero amb les seves pròpies dades.</p>
       </div>
     </article>
     
     <article>
       <div class="article-body">
-        <h3><a href="https://www.nytimes.com/2026/03/18/technology/turing-award-winners-quantum-cryptography.html" target="_blank" rel="noopener">El Premi Turing recau en els inventors de la criptografia quàntica</a></h3>
+        <h3><a href="https://9to5mac.com/2026/03/17/openai-releases-gpt-5-4-mini-and-nano-its-most-capable-small-models-yet/" target="_blank" rel="noopener">OpenAI publica GPT-5.4 mini i nano, els seus models petits més capaços fins ara</a></h3>
         <div class="meta">
-          NYT Technology
-           &mdash; 18 de març de 2026
+          9to5Mac
+           &mdash; 17 de març de 2026
         </div>
-        <p>Charles Bennett i Gilles Brassard van crear als anys 80 un sistema de xifrat inviolable basat en la mecànica quàntica.</p>
+        <p>Els nous models de menor mida d&#39;OpenAI arriben als usuaris de ChatGPT gratuït i del pla Go.</p>
       </div>
     </article>
     
@@ -531,45 +543,45 @@
     
     <article>
       <div class="article-body">
-        <h3><a href="https://www.elnacional.cat/ca/societat/aigues-barcelona-grup-veolia-presenten-repipe-optimitzar-renovacio-xarxes-aigua_1612980_102.html" target="_blank" rel="noopener">Aigües de Barcelona i l&#39;AMB presenten REPIPE per optimitzar la renovació de xarxes d&#39;aigua amb IA</a></h3>
+        <h3><a href="https://www.elnacional.cat/ca/tecnologia/whatsapp-llanca-seva-app-rellotges-garmin_1612926_102.html" target="_blank" rel="noopener">WhatsApp llança la seva app per als rellotges Garmin</a></h3>
         <div class="meta">
           El Nacional.cat
            &mdash; 18 de març de 2026
         </div>
-        <p>La plataforma prediu amb IA la probabilitat d&#39;avaries als 4.800 quilòmetres de xarxa d&#39;abastament d&#39;agua de Barcelona.</p>
+        <p>Els usuaris de rellotges Garmin ja podran rebre missatges, notificacions i trucades entrants de WhatsApp al canell.</p>
       </div>
     </article>
     
     <article>
       <div class="article-body">
-        <h3><a href="https://www.metadata.cat/noticia/6222/16-dones-videojoc-catala-posen-cara-industria-en-creixement-bretxa-genere" target="_blank" rel="noopener">&#34;Obre els ulls&#34;: 16 dones del videojoc català posen cara a una indústria en creixement amb bretxa de gènere</a></h3>
+        <h3><a href="https://www.elnacional.cat/ca/tecnologia/pitjor-iphone-17e-no-se-solucionara-fins-iphone-19e_1612977_102.html" target="_blank" rel="noopener">El pitjor de l&#39;iPhone 17e no se solucionarà fins a l&#39;iPhone 19e</a></h3>
         <div class="meta">
-          MetaData
+          El Nacional.cat
            &mdash; 18 de març de 2026
         </div>
-        <p>La campanya vol visibilitzar el talent femení en un sector on les dones representen només el 27% dels professionals.</p>
+        <p>El model econòmic d&#39;Apple no millorarà la qualitat d&#39;imatge de la càmera fins a les pròximes dues generacions.</p>
       </div>
     </article>
     
     <article>
       <div class="article-body">
-        <h3><a href="https://www.metadata.cat/noticia/6221/barcelona-posiciona-capital-futur-espacial-Europa" target="_blank" rel="noopener">Barcelona es posiciona com a capital del futur espacial d&#39;Europa</a></h3>
+        <h3><a href="https://www.elnacional.cat/ca/tecnologia/whatsapp-afegeix-funcio-nova-igual-no-has-adonat_1612881_102.html" target="_blank" rel="noopener">WhatsApp afegeix una funció nova de la qual potser no t&#39;has adonat</a></h3>
         <div class="meta">
-          MetaData
+          El Nacional.cat
            &mdash; 18 de març de 2026
         </div>
-        <p>Emmarcada en l&#39;Estratègia Catalunya Espai 2030, la trobada reuneix institucions europees per impulsar la sobirania espacial.</p>
+        <p>WhatsApp ha llançat una novetat destacada que, tot i ser interessant, passa gairebé desapercebuda als usuaris.</p>
       </div>
     </article>
     
     <article>
       <div class="article-body">
-        <h3><a href="https://www.cugat.cat/noticies/sant-cugat-segon-pol-de-start-ups-de-catalunya/" target="_blank" rel="noopener">Sant Cugat, segon pol de start-ups de Catalunya amb 94 empreses emergents</a></h3>
+        <h3><a href="https://www.vilaweb.cat/noticies/x-cau-escala-mundial-2/" target="_blank" rel="noopener">X es recupera progressivament de la caiguda del servei a tot el món</a></h3>
         <div class="meta">
-          Cugat.cat
+          VilaWeb
            &mdash; 18 de març de 2026
         </div>
-        <p>Informe d&#39;ACCIÓ situa Sant Cugat com el segon municipi català per nombre de startups, rere Barcelona.</p>
+        <p>La xarxa social X ha patit una incidència de servei a escala mundial cap a les 16.30 hores.</p>
       </div>
     </article>
     
@@ -580,18 +592,7 @@
           MetaData
            &mdash; 17 de març de 2026
         </div>
-        <p>Niantic aprofita dades de jugadors per construir un model d&#39;IA que permet a robots moure&#39;s sense GPS en ciutats.</p>
-      </div>
-    </article>
-    
-    <article>
-      <div class="article-body">
-        <h3><a href="https://www.metadata.cat/reportatge/6215/escena-4.0-reinventar-escenaris-culturals-tecnologia-immersiva" target="_blank" rel="noopener">Escena 4.0, la start-up catalana que vol reinventar els escenaris culturals amb tecnologia immersiva</a></h3>
-        <div class="meta">
-          MetaData
-           &mdash; 17 de març de 2026
-        </div>
-        <p>Impulsa una cúpula intel·ligent modular que integra audiovisual i generació energètica pròpia per concerts i festivals.</p>
+        <p>Niantic aprofita dades dels jugadors per construir un model d&#39;IA que permet als robots moure&#39;s sense GPS en entorns urbans.</p>
       </div>
     </article>
     
@@ -602,18 +603,7 @@
           MetaData
            &mdash; 16 de març de 2026
         </div>
-        <p>La reforma de la normativa europea d&#39;IA s&#39;accelera arran de la polèmica per imatges íntimes generades per l&#39;assistent Grok.</p>
-      </div>
-    </article>
-    
-    <article>
-      <div class="article-body">
-        <h3><a href="https://www.metadata.cat/noticia/6210/viquipedia-25-anys-catala-pioner-enciclopedia-lliure-internet" target="_blank" rel="noopener">La Viquipèdia fa 25 anys: el català, pioner de l&#39;enciclopèdia lliure d&#39;internet</a></h3>
-        <div class="meta">
-          MetaData
-           &mdash; 16 de març de 2026
-        </div>
-        <p>La versió catalana, tercera edició del projecte al món el març de 2001, supera avui els 750.000 articles.</p>
+        <p>La reforma de la normativa europea d&#39;IA s&#39;accelera arran de la polèmica per les imatges íntimes generades per Grok.</p>
       </div>
     </article>
     
@@ -624,18 +614,18 @@
           MetaData
            &mdash; 13 de març de 2026
         </div>
-        <p>L&#39;eina analitza PDFs, webs o vídeos i genera guies d&#39;estudi i respostes basades en les fonts que hi afegeix l&#39;usuari.</p>
+        <p>L&#39;eina de Google analitza PDFs, webs o vídeos i genera guies d&#39;estudi i respostes basades en les fonts de l&#39;usuari.</p>
       </div>
     </article>
     
     <article>
       <div class="article-body">
-        <h3><a href="https://www.metadata.cat/noticia/6205/mwc-4yfn-23-milions-euros-de-negoci-empreses-catalanes" target="_blank" rel="noopener">El MWC i el 4YFN generaran més de 23 milions d&#39;euros de negoci per a empreses catalanes</a></h3>
+        <h3><a href="https://www.metadata.cat/noticia/6199/barcelona-invertira-9-milions-intelligencia-artificial-millorar-serveis-publics" target="_blank" rel="noopener">Barcelona invertirà 9,4 milions en intel·ligència artificial per millorar els serveis públics</a></h3>
         <div class="meta">
           MetaData
-           &mdash; 12 de març de 2026
+           &mdash; 10 de març de 2026
         </div>
-        <p>Les 106 empreses catalanes al Mobile World Congress consoliden la presència del sector tech català a escala global.</p>
+        <p>L&#39;Ajuntament impulsa 37 accions per desplegar una IA ètica i centrada en la ciutadania fins al 2028.</p>
       </div>
     </article>
     
@@ -647,45 +637,67 @@
     
     <article>
       <div class="article-body">
+        <h3><a href="https://www.wppodcast.cat/podcast/linici-de-twenty-twenty-seven/" target="_blank" rel="noopener">L&#39;inici de Twenty Twenty-Seven</a></h3>
+        <div class="meta">
+          WordPress Pòdcast
+           &mdash; 17 de març de 2026
+        </div>
+        <p>Comença el procés de creació del tema Twenty Twenty-Seven, sis mesos abans que de costum, per a WordPress 7.2.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
         <h3><a href="https://rss.com/podcasts/focaterra/2621247" target="_blank" rel="noopener">Avui sí que perdem el patrocini de Parlem</a></h3>
         <div class="meta">
           Foc a Terra
            &mdash; 16 de març de 2026
         </div>
-        <p>L&#39;equip del podcast anuncia la pèrdua del patrocinador Parlem i reflexiona sobre el model de finançament del projecte.</p>
+        <p>Entrevista amb Ernest Pérez-Mas, fundador i president de Parlem, que s&#39;ha passat al podcàsting per fer la competència.</p>
       </div>
     </article>
     
     <article>
       <div class="article-body">
-        <h3><a href="https://mossegalapoma.cat/les-dades-obertes-i-la-transparencia-publica-programa-656/" target="_blank" rel="noopener">Les dades obertes i la transparència pública – programa 656</a></h3>
+        <h3><a href="https://mossegalapoma.cat/les-dades-obertes-i-la-transparencia-publica-programa-656/" target="_blank" rel="noopener">Les dades obertes i la transparència pública — Programa 656</a></h3>
         <div class="meta">
           Mossega la poma
            &mdash; 13 de març de 2026
         </div>
-        <p>Programa sobre l&#39;ús de dades obertes com a eina de transparència i control democràtic de les administracions públiques.</p>
+        <p>Anàlisi de com les dades obertes i la transparència pública poden beneficiar la ciutadania i la governança digital.</p>
       </div>
     </article>
     
     <article>
       <div class="article-body">
-        <h3><a href="https://podcasts.cat/36/33868712/" target="_blank" rel="noopener">L&#39;Altra Ràdio - Què és l&#39;agnotologia algorítmica</a></h3>
+        <h3><a href="https://podcasts.cat/36/33868712/" target="_blank" rel="noopener">L&#39;Altra Ràdio — Què és l&#39;agnotologia algorítmica</a></h3>
         <div class="meta">
           L&#39;altra ràdio
            &mdash; 12 de març de 2026
         </div>
-        <p>Exploració del fenomen de la ignorància fabricada a través d&#39;algoritmes i la seva influència en la societat digital.</p>
+        <p>La doctora Àtia Cortés del BSC explica el concepte que combina la producció deliberada d&#39;ignorància amb els algorismes.</p>
       </div>
     </article>
     
     <article>
       <div class="article-body">
-        <h3><a href="https://podcasts.cat/191/33863599/" target="_blank" rel="noopener">El gòTIC - Tenim una missió! del 11/3/2026</a></h3>
+        <h3><a href="https://podcasts.cat/191/33863599/" target="_blank" rel="noopener">El gòTIC — Tenim una missió! del 11/3/2026</a></h3>
         <div class="meta">
           El Gòtic
-           &mdash; 11 de març de 2026
+           &mdash; 10 de març de 2026
         </div>
-        <p>L&#39;equip comparteix recursos i estratègies per fer front als reptes digitals des de l&#39;Ajuntament de Tàrrega.</p>
+        <p>Recursos i estratègies del gòTIC Ajuntament de Tàrrega per fer front als reptes i preguntes de la ciutadania digital.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://www.wppodcast.cat/podcast/panell-de-contribucio/" target="_blank" rel="noopener">Panell de contribució</a></h3>
+        <div class="meta">
+          WordPress Pòdcast
+           &mdash; 10 de març de 2026
+        </div>
+        <p>La comunitat WordPress publica el primer panell de contribució públic al projecte, amb dades des del 2021.</p>
       </div>
     </article>
     
@@ -696,29 +708,29 @@
           Foc a Terra
            &mdash; 9 de març de 2026
         </div>
-        <p>Crònica del MWC i el 4YFN 2026: entre la irrupció dels fabricants xinesos i la tendència del vibe coding.</p>
+        <p>Crònica des del MWC i el 4YFN: novetats, festes i rumors entre passadissos sobre xinesos i vibe coders.</p>
       </div>
     </article>
     
     <article>
       <div class="article-body">
-        <h3><a href="https://mossegalapoma.cat/com-la-ia-esta-revolucionant-lescriptura-i-la-publicacio-de-llibres-programa-655/" target="_blank" rel="noopener">Com la IA està revolucionant l&#39;escriptura i la publicació de llibres – Programa 655</a></h3>
+        <h3><a href="https://mossegalapoma.cat/com-la-ia-esta-revolucionant-lescriptura-i-la-publicacio-de-llibres-programa-655/" target="_blank" rel="noopener">Com la IA està revolucionant l&#39;escriptura i la publicació de llibres — Programa 655</a></h3>
         <div class="meta">
           Mossega la poma
            &mdash; 7 de març de 2026
         </div>
-        <p>Debat sobre com la intel·ligència artificial transforma el procés creatiu, editorial i de distribució del llibre.</p>
+        <p>Exploració de l&#39;impacte de la intel·ligència artificial en la creació literària i la indústria editorial.</p>
       </div>
     </article>
     
     <article>
       <div class="article-body">
-        <h3><a href="https://podcasts.cat/36/33845240/" target="_blank" rel="noopener">L&#39;Altra Ràdio - &#34;Day One&#34;, la sèrie del Mobile World Congress</a></h3>
+        <h3><a href="https://podcasts.cat/36/33845240/" target="_blank" rel="noopener">L&#39;Altra Ràdio — &#34;Day One&#34;, la sèrie del Mobile World Congress</a></h3>
         <div class="meta">
           L&#39;altra ràdio
            &mdash; 5 de març de 2026
         </div>
-        <p>Reportatge especial sobre les novetats i tendències presentades al Mobile World Congress de Barcelona 2026.</p>
+        <p>Repàs de les novetats del MWC 2026 i presentació de la sèrie &#39;Day One&#39; de Prime Video ambientada al congrés.</p>
       </div>
     </article>
     
@@ -735,7 +747,7 @@
           AI Professionals Barcelona
            &mdash; 18 de març de 2026
         </div>
-        <p>Sessió en línia gratuïta d&#39;1,5 hores per connectar professionals d&#39;IA de tot el món en grups reduïts.</p>
+        <p>Sessió en línia i gratuïta de networking per a professionals d&#39;IA d&#39;arreu del món, amb grups de treball reduïts.</p>
       </div>
     </article>
     
@@ -746,18 +758,18 @@
           Free Software Barcelona
            &mdash; 16 de març de 2026
         </div>
-        <p>Xerrada el 26 de març a Akasha Hub sobre projectes que usen Wikidata per visibilitzar el patrimoni digital lliure.</p>
+        <p>David Ramírez-Ordóñez parlarà de projectes que fan servir Wikidata per visibilitzar obres digitals en domini públic.</p>
       </div>
     </article>
     
     <article>
       <div class="article-body">
-        <h3><a href="https://www.meetup.com/wordpressbcn/events/313756353/" target="_blank" rel="noopener">10web, una IA para crear WordPress por Aleix Martí</a></h3>
+        <h3><a href="https://www.meetup.com/wordpressbcn/events/313756353/" target="_blank" rel="noopener">10web, una IA per crear WordPress per Aleix Martí</a></h3>
         <div class="meta">
           WordPress BCN
            &mdash; 12 de març de 2026
         </div>
-        <p>Presentació de l&#39;eina 10web i Vibe for WordPress per crear llocs complets amb uns pocs prompts d&#39;IA.</p>
+        <p>Demostració de 10web i Vibe for WordPress per crear llocs complets amb IA a partir de simples prompts descriptius.</p>
       </div>
     </article>
     
@@ -774,7 +786,7 @@
           Pixelats
            &mdash; 18 de març de 2026
         </div>
-        <p>Partida en català al videojoc de plataformes Ninja Jajamaru: The Great Yokai Battle!! al canal Pixelats.</p>
+        <p>El canal Pixelats posa a prova el joc de lluita Ninja Jajamaru en el seu format de repte habitual.</p>
       </div>
     </article>
     
@@ -785,7 +797,7 @@
           Albert Lloreta
            &mdash; 10 de març de 2026
         </div>
-        <p>Recomanacions de lectures per reflexionar sobre el futur d&#39;internet, la tecnologia i el seu impacte social.</p>
+        <p>Recomanacions de lectures per reflexionar sobre el funcionament i el futur d&#39;internet des d&#39;una perspectiva crítica.</p>
       </div>
     </article>
     
@@ -796,7 +808,7 @@
           Xboxers Catalans
            &mdash; 4 de març de 2026
         </div>
-        <p>Sisena prova del campionat de Forza Rivals en català, disputada al circuit virtual de Mugello Club.</p>
+        <p>Sisena cursa de la setena temporada del Campionat Forza Rivals al circuit de Mugello, en català.</p>
       </div>
     </article>
     
@@ -807,7 +819,7 @@
           Pixelats
            &mdash; 4 de març de 2026
         </div>
-        <p>El canal Pixelats juga en català al clàssic arcade The Outfoxies, llançat originalment per Namco el 1994.</p>
+        <p>El canal Pixelats repassa el clàssic arcade The Outfoxies en el seu format de repte de videojocs retro.</p>
       </div>
     </article>
     
@@ -821,23 +833,13 @@
   
   <span class="footer-sources active" data-tab="world">
     
-      <a href="https://www.wired.com" target="_blank" rel="noopener">Wired</a>, 
-    
       <a href="https://techcrunch.com" target="_blank" rel="noopener">TechCrunch</a>, 
     
-      <a href="https://www.propublica.org" target="_blank" rel="noopener">Hacker News</a>, 
+      <a href="https://www.wired.com" target="_blank" rel="noopener">Wired</a>, 
     
-      <a href="https://www.cnet.com" target="_blank" rel="noopener">CNET</a>, 
+      <a href="https://www.engadget.com" target="_blank" rel="noopener">Engadget</a>, 
     
-      <a href="https://go.theregister.com" target="_blank" rel="noopener">The Register</a>, 
-    
-      <a href="https://www.macrumors.com" target="_blank" rel="noopener">MacRumors</a>, 
-    
-      <a href="https://www.pcworld.com" target="_blank" rel="noopener">PCWorld</a>, 
-    
-      <a href="https://www.bbc.com" target="_blank" rel="noopener">BBC Technology</a>, 
-    
-      <a href="https://www.nytimes.com" target="_blank" rel="noopener">NYT Technology</a>
+      <a href="https://9to5mac.com" target="_blank" rel="noopener">9to5Mac</a>
     
   </span>
   
@@ -845,13 +847,15 @@
     
       <a href="https://www.elnacional.cat" target="_blank" rel="noopener">El Nacional.cat</a>, 
     
-      <a href="https://www.metadata.cat" target="_blank" rel="noopener">MetaData</a>, 
+      <a href="https://www.vilaweb.cat" target="_blank" rel="noopener">VilaWeb</a>, 
     
-      <a href="https://www.cugat.cat" target="_blank" rel="noopener">Cugat.cat</a>
+      <a href="https://www.metadata.cat" target="_blank" rel="noopener">MetaData</a>
     
   </span>
   
   <span class="footer-sources" data-tab="podcasts">
+    
+      <a href="https://www.wppodcast.cat" target="_blank" rel="noopener">WordPress Pòdcast</a>, 
     
       <a href="https://rss.com" target="_blank" rel="noopener">Foc a Terra</a>, 
     
@@ -883,7 +887,7 @@
     
   </span>
   
-  <br>Generat el 18 de març de 2026 a les 16:15h.
+  <br>Generat el 18 de març de 2026 a les 18:30h.
   <p class="footer-ai-note">Aquesta pàgina es regenera automàticament cada 4 hores mitjançant intel·ligència artificial. <a href="com-funciona.html">Com funciona</a></p>
 </footer>
 

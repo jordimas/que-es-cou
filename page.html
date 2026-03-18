@@ -237,11 +237,10 @@
     }
     #theme-toggle:hover { color: var(--green); border-color: var(--green-dim); }
 
-    /* ── RSS icon (fixed top-right) ── */
-    #rss-link {
+    /* ── RSS / Telegram icons (fixed top-right) ── */
+    #rss-link, #telegram-link {
       position: fixed;
       top: 10px;
-      right: 12px;
       z-index: 20;
       display: flex;
       align-items: center;
@@ -254,11 +253,17 @@
       text-decoration: none;
       transition: border-color .15s, box-shadow .15s;
     }
+    #rss-link { right: 12px; }
+    #telegram-link { right: 46px; }
     #rss-link:hover {
       border-color: var(--amber);
       box-shadow: 0 0 8px rgba(255,176,0,.35);
     }
-    #rss-link svg { display: block; }
+    #telegram-link:hover {
+      border-color: var(--amber);
+      box-shadow: 0 0 8px rgba(255,176,0,.35);
+    }
+    #rss-link svg, #telegram-link svg { display: block; }
 
     /* ── Mobile ── */
     @media (max-width: 480px) {
@@ -270,6 +275,13 @@
 </head>
 <body>
 <div class="scanlines"></div>
+
+<a id="telegram-link" href="https://t.co/674bdOEK73" title="Canal de Telegram" aria-label="Canal de Telegram" target="_blank" rel="noopener">
+  <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24"
+       fill="currentColor" aria-hidden="true">
+    <path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.894 8.221-1.97 9.28c-.145.658-.537.818-1.084.508l-3-2.21-1.447 1.394c-.16.16-.295.295-.605.295l.213-3.053 5.56-5.023c.242-.213-.054-.333-.373-.12L7.19 13.668l-2.96-.924c-.643-.204-.657-.643.136-.953l11.57-4.461c.537-.194 1.006.131.958.891z"/>
+  </svg>
+</a>
 
 <a id="rss-link" href="feed.xml" title="Feed RSS" aria-label="Feed RSS">
   <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24"
