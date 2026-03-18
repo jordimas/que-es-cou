@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Què es cou</title>
+    <link>https://jordimas.github.io/que-es-cou/</link>
+    <description>Notícies de tecnologia en català, actualitzades cada 4 hores.</description>
+    <language>ca</language>
+    <lastBuildDate>2026-03-18T19:15</lastBuildDate>
+    <atom:link href="https://jordimas.github.io/que-es-cou/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>El Departament de Defensa dels EUA declara Anthropic un 'risc inacceptable' per a la seguretat nacional</title>
+      <link>https://techcrunch.com/2026/03/18/dod-says-anthropics-red-lines-make-it-an-unacceptable-risk-to-national-security/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/03/18/dod-says-anthropics-red-lines-make-it-an-unacceptable-risk-to-national-security/</guid>
+      <description>El Pentàgon acusa Anthropic de voler limitar l'ús del seu model Claude en operacions militars.</description>
+      <author>TechCrunch</author>
+      <pubDate>2026-03-18</pubDate>
+    </item>
+    <item>
+      <title>El Departament de Justícia diu que Anthropic no és de confiança per a sistemes bèl·lics</title>
+      <link>https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/</link>
+      <guid isPermaLink="true">https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/</guid>
+      <description>El govern respon a la demanda d'Anthropic i defensa les sancions per les restriccions al model.</description>
+      <author>Wired</author>
+      <pubDate>2026-03-18</pubDate>
+    </item>
+    <item>
+      <title>Centenars de milions d'iPhones poden ser hackejats amb una nova eina descoberta en ús real</title>
+      <link>https://www.wired.com/story/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/</link>
+      <guid isPermaLink="true">https://www.wired.com/story/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/</guid>
+      <description>L'exploit DarkSword, usat per hackers russos, permet controlar iPhones amb iOS 18 visitant webs infectades.</description>
+      <author>Wired</author>
+      <pubDate>2026-03-18</pubDate>
+    </item>
+    <item>
+      <title>Hackers russos roben dades personals d'ucraïnesos amb noves eines de hackeig d'iPhone</title>
+      <link>https://techcrunch.com/2026/03/18/russians-caught-stealing-personal-data-from-ukrainians-with-new-advanced-iphone-hacking-tools/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/03/18/russians-caught-stealing-personal-data-from-ukrainians-with-new-advanced-iphone-hacking-tools/</guid>
+      <description>Un grup vinculat al govern rus usa DarkSword per espiar i robar criptomonedes a ciutadans ucraïnesos.</description>
+      <author>TechCrunch</author>
+      <pubDate>2026-03-18</pubDate>
+    </item>
+    <item>
+      <title>Apple publica la primera actualització de seguretat en segon pla per a iPhone, iPad i Mac</title>
+      <link>https://techcrunch.com/2026/03/17/apple-rolls-out-first-background-security-update-for-iphones-ipads-and-macs-to-fix-safari-bug/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/03/17/apple-rolls-out-first-background-security-update-for-iphones-ipads-and-macs-to-fix-safari-bug/</guid>
+      <description>La primera 'Background Security Improvement' corregeix una vulnerabilitat a Safari sense interacció de l'usuari.</description>
+      <author>TechCrunch</author>
+      <pubDate>2026-03-17</pubDate>
+    </item>
+    <item>
+      <title>El Regne Unit fa marxa enrere sobre la proposta de drets d'autor per a la IA</title>
+      <link>https://www.engadget.com/ai/uk-reverses-course-on-ai-copyright-position-after-backlash-175630732.html?src=rss</link>
+      <guid isPermaLink="true">https://www.engadget.com/ai/uk-reverses-course-on-ai-copyright-position-after-backlash-175630732.html?src=rss</guid>
+      <description>El govern britànic abandona el pla d'excepció als drets d'autor per a l'entrenament d'IA, després de les crítiques.</description>
+      <author>Engadget</author>
+      <pubDate>2026-03-18</pubDate>
+    </item>
+    <item>
+      <title>El Pentàgon planeja que empreses d'IA entrenen models amb dades classificades</title>
+      <link>https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/</link>
+      <guid isPermaLink="true">https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/</guid>
+      <description>El Departament de Defensa prepara entorns segurs perquè companyies com Anthropic o OpenAI entrenen models militars.</description>
+      <author>MIT Technology Review</author>
+      <pubDate>2026-03-17</pubDate>
+    </item>
+    <item>
+      <title>Meta tancarà Horizon Worlds a Meta Quest el juny</title>
+      <link>https://www.wired.com/story/meta-is-shutting-down-horizon-worlds-on-meta-quest/</link>
+      <guid isPermaLink="true">https://www.wired.com/story/meta-is-shutting-down-horizon-worlds-on-meta-quest/</guid>
+      <description>La plataforma de realitat virtual social de Meta desapareix del visor Quest com a part d'una reestructuració general.</description>
+      <author>Wired</author>
+      <pubDate>2026-03-17</pubDate>
+    </item>
+    <item>
+      <title>Mistral aposta pel 'construeix la teva pròpia IA' per competir amb OpenAI i Anthropic a l'empresa</title>
+      <link>https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/</guid>
+      <description>Mistral Forge permet a les empreses entrenar models d'IA personalitzats des de zero amb les seves dades pròpies.</description>
+      <author>TechCrunch</author>
+      <pubDate>2026-03-17</pubDate>
+    </item>
+    <item>
+      <title>Marquis revela que 672.000 persones han tingut dades personals i financeres robades en un atac de ransomware</title>
+      <link>https://techcrunch.com/2026/03/18/marquis-says-over-672000-people-had-personal-and-financial-data-stolen-in-ransomware-attack/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/03/18/marquis-says-over-672000-people-had-personal-and-financial-data-stolen-in-ransomware-attack/</guid>
+      <description>La fintech Marquis notifica clients afectats per un robatori que inclou números de la seguretat social.</description>
+      <author>TechCrunch</author>
+      <pubDate>2026-03-18</pubDate>
+    </item>
+    <item>
+      <title>X es recupera progressivament de la caiguda del servei a tot el món</title>
+      <link>https://www.vilaweb.cat/noticies/x-cau-escala-mundial-2/</link>
+      <guid isPermaLink="true">https://www.vilaweb.cat/noticies/x-cau-escala-mundial-2/</guid>
+      <description>La xarxa social X ha patit una incidència global que ha deixat el servei inaccessible durant diverses hores.</description>
+      <author>VilaWeb</author>
+      <pubDate>2026-03-18</pubDate>
+    </item>
+    <item>
+      <title>Barcelona es posiciona com a capital del futur espacial d'Europa</title>
+      <link>https://www.metadata.cat/noticia/6221/barcelona-posiciona-capital-futur-espacial-Europa</link>
+      <guid isPermaLink="true">https://www.metadata.cat/noticia/6221/barcelona-posiciona-capital-futur-espacial-Europa</guid>
+      <description>La ciutat reforça el seu lideratge en el sector aeroespacial amb noves iniciatives empresarials i institucionals.</description>
+      <author>MetaData</author>
+      <pubDate>2026-03-18</pubDate>
+    </item>
+    <item>
+      <title>16 dones del videojoc català posen cara a una indústria en creixement amb gènere pendent</title>
+      <link>https://www.metadata.cat/noticia/6222/16-dones-videojoc-catala-posen-cara-industria-en-creixement-bretxa-genere</link>
+      <guid isPermaLink="true">https://www.metadata.cat/noticia/6222/16-dones-videojoc-catala-posen-cara-industria-en-creixement-bretxa-genere</guid>
+      <description>El reportatge 'Obre els ulls' reivindica la presència femenina en un sector digital encara molt masculinitzat.</description>
+      <author>MetaData</author>
+      <pubDate>2026-03-18</pubDate>
+    </item>
+    <item>
+      <title>Pokémon Go, del joc al mapa del món: Niantic utilitza milions d'imatges per entrenar robots</title>
+      <link>https://www.metadata.cat/noticia/6219/pokemon-go-del-joc-al-mapa-del-mon-entrenar-robots-repartiment</link>
+      <guid isPermaLink="true">https://www.metadata.cat/noticia/6219/pokemon-go-del-joc-al-mapa-del-mon-entrenar-robots-repartiment</guid>
+      <description>Niantic transforma les dades visuals dels jugadors de Pokémon Go en entrenament de models de robòtica avançada.</description>
+      <author>MetaData</author>
+      <pubDate>2026-03-17</pubDate>
+    </item>
+    <item>
+      <title>Els estats de la UE avalen prohibir continguts sexuals generats amb IA sense consentiment</title>
+      <link>https://www.metadata.cat/noticia/6212/estats-ue-prohibir-continguts-sexuals-generats-amb-ia-sense-consentiment</link>
+      <guid isPermaLink="true">https://www.metadata.cat/noticia/6212/estats-ue-prohibir-continguts-sexuals-generats-amb-ia-sense-consentiment</guid>
+      <description>Europa avança en la regulació de la IA generativa per protegir les víctimes de deepfakes sexuals no consentits.</description>
+      <author>MetaData</author>
+      <pubDate>2026-03-16</pubDate>
+    </item>
+    <item>
+      <title>Nou robatori de cable a Rodalies: retards de més de quaranta minuts a la R2, R2 Nord i R11</title>
+      <link>https://www.vilaweb.cat/noticies/nou-robatori-de-cable-a-rodalia-retards-de-mes-de-quaranta-minuts-a-la-r2-r2-nord-i-r11/</link>
+      <guid isPermaLink="true">https://www.vilaweb.cat/noticies/nou-robatori-de-cable-a-rodalia-retards-de-mes-de-quaranta-minuts-a-la-r2-r2-nord-i-r11/</guid>
+      <description>Un altre robatori de cablejat ferroviari a Barcelona causa importants retards en diverses línies de Rodalies.</description>
+      <author>VilaWeb</author>
+      <pubDate>2026-03-18</pubDate>
+    </item>
+    <item>
+      <title>NotebookLM: la IA de Google que organitza els teus apunts en català</title>
+      <link>https://www.metadata.cat/noticia/6202/notebooklm-ia-google-organitza-apunts-catala</link>
+      <guid isPermaLink="true">https://www.metadata.cat/noticia/6202/notebooklm-ia-google-organitza-apunts-catala</guid>
+      <description>L'eina d'Intel·ligència Artificial de Google per gestionar documents ja funciona plenament en llengua catalana.</description>
+      <author>MetaData</author>
+      <pubDate>2026-03-13</pubDate>
+    </item>
+    <item>
+      <title>Vídeos amb IA a YouTube: el 75% de publicacions de metges sobre envelliment no declaren l'ús</title>
+      <link>https://www.segre.com/ca/societat/260318/videos-amb-ia-youtube-75-publicacions-metges-sobre-envelliment-declaren-l-origen-amb-intel-ligencia-artificial_1147629.html</link>
+      <guid isPermaLink="true">https://www.segre.com/ca/societat/260318/videos-amb-ia-youtube-75-publicacions-metges-sobre-envelliment-declaren-l-origen-amb-intel-ligencia-artificial_1147629.html</guid>
+      <description>Un estudi revela que la majoria de professionals sanitaris que usen IA als vídeos no ho informen als espectadors.</description>
+      <author>Segre</author>
+      <pubDate>2026-03-18</pubDate>
+    </item>
+    <item>
+      <title>Joan Gaya, expert en IA: "No som tan intel·ligents com ens pensem"</title>
+      <link>https://www.cugat.cat/noticies/joan-gaya-expert-en-ia-no-som-tan-intelligents-com-ens-pensem/</link>
+      <guid isPermaLink="true">https://www.cugat.cat/noticies/joan-gaya-expert-en-ia-no-som-tan-intelligents-com-ens-pensem/</guid>
+      <description>L'expert reflexiona sobre els límits humans davant de la intel·ligència artificial i els riscos de la sobreconfiança.</description>
+      <author>Cugat.cat</author>
+      <pubDate>2026-03-18</pubDate>
+    </item>
+    <item>
+      <title>Sant Cugat, segon pol de start-ups de Catalunya</title>
+      <link>https://www.cugat.cat/noticies/sant-cugat-segon-pol-de-start-ups-de-catalunya/</link>
+      <guid isPermaLink="true">https://www.cugat.cat/noticies/sant-cugat-segon-pol-de-start-ups-de-catalunya/</guid>
+      <description>La ciutat ocupa el segon lloc en concentració d'empreses emergents del país, per darrere de Barcelona.</description>
+      <author>Cugat.cat</author>
+      <pubDate>2026-03-18</pubDate>
+    </item>
+    <item>
+      <title>Les dades obertes i la transparència pública – programa 656</title>
+      <link>https://mossegalapoma.cat/les-dades-obertes-i-la-transparencia-publica-programa-656/</link>
+      <guid isPermaLink="true">https://mossegalapoma.cat/les-dades-obertes-i-la-transparencia-publica-programa-656/</guid>
+      <description>S'explora com la creació de contingut digital i la gestió de dades públiques transformen la transparència governamental.</description>
+      <author>Mossega la poma</author>
+      <pubDate>2026-03-13</pubDate>
+    </item>
+    <item>
+      <title>Com la IA està revolucionant l'escriptura i la publicació de llibres – Programa 655</title>
+      <link>https://mossegalapoma.cat/com-la-ia-esta-revolucionant-lescriptura-i-la-publicacio-de-llibres-programa-655/</link>
+      <guid isPermaLink="true">https://mossegalapoma.cat/com-la-ia-esta-revolucionant-lescriptura-i-la-publicacio-de-llibres-programa-655/</guid>
+      <description>La IA transforma l'escriptura, la correcció de llibres i la producció audiovisual, amb implicacions ètiques rellevants.</description>
+      <author>Mossega la poma</author>
+      <pubDate>2026-03-07</pubDate>
+    </item>
+    <item>
+      <title>10web, una IA para crear WordPress por Aleix Martí</title>
+      <link>https://www.meetup.com/wordpressbcn/events/313756353/</link>
+      <guid isPermaLink="true">https://www.meetup.com/wordpressbcn/events/313756353/</guid>
+      <description>Sessió sobre com usar l'eina 10web per crear llocs WordPress complets amb IA a partir de simples prompts.</description>
+      <author>WordPress BCN</author>
+      <pubDate>2026-03-12</pubDate>
+    </item>
+    <item>
+      <title>Networking for AI Professionals around the world - March 25</title>
+      <link>https://www.meetup.com/ai-professionals-barcelona/events/313832028/</link>
+      <guid isPermaLink="true">https://www.meetup.com/ai-professionals-barcelona/events/313832028/</guid>
+      <description>Sessió en línia gratuïta d'una hora i mitja per connectar professionals globals de la intel·ligència artificial.</description>
+      <author>AI Professionals Barcelona</author>
+      <pubDate>2026-03-18</pubDate>
+    </item>
+    <item>
+      <title>Com usar Wikidata per visibilitzar obres digitals de domini públic?</title>
+      <link>https://www.meetup.com/barcelona-free-software/events/313790663/</link>
+      <guid isPermaLink="true">https://www.meetup.com/barcelona-free-software/events/313790663/</guid>
+      <description>Xerrada sobre projectes que fan servir Wikidata per visibilitzar obres en domini públic a biblioteques i museus.</description>
+      <author>Free Software Barcelona</author>
+      <pubDate>2026-03-16</pubDate>
+    </item>
+    <item>
+      <title>Llibres per repensar l'internet</title>
+      <link>https://www.youtube.com/watch?v=VgTRg9bx-Js</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=VgTRg9bx-Js</guid>
+      <description>Recomanació de lectures per reflexionar sobre el futur d'internet i el seu impacte en la societat.</description>
+      <author>Albert Lloreta</author>
+      <pubDate>2026-03-10</pubDate>
+    </item>
+    <item>
+      <title>Pixelats vs. NINJA JAJAMARU: The Great Yokai Battle!! 🥷🐸</title>
+      <link>https://www.youtube.com/watch?v=PaFf_uiwGpg</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=PaFf_uiwGpg</guid>
+      <description>El canal Pixelats juga en català al clàssic arcade japonès Ninja JaJaMaru en el seu nou lliurament.</description>
+      <author>Pixelats</author>
+      <pubDate>2026-03-18</pubDate>
+    </item>
+    <item>
+      <title>[Campionat Forza Rivals] - 7ª Temporada - 6ª - Mugello Club</title>
+      <link>https://www.youtube.com/watch?v=vUD_Bu_0BM8</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=vUD_Bu_0BM8</guid>
+      <description>La sisena cursa de la setena temporada del campionat Forza Rivals dels Xboxers Catalans al circuit de Mugello.</description>
+      <author>Xboxers Catalans</author>
+      <pubDate>2026-03-04</pubDate>
+    </item>
+    <item>
+      <title>Pixelats vs. THE OUTFOXIES!! 🦼🦈</title>
+      <link>https://www.youtube.com/watch?v=yTyRhfy3zqM</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=yTyRhfy3zqM</guid>
+      <description>Partida en català al joc d'acció The Outfoxies, un arcade clàssic de Namco dels anys noranta.</description>
+      <author>Pixelats</author>
+      <pubDate>2026-03-04</pubDate>
+    </item>
+  </channel>
+</rss>
