@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Què es cou – {{ date_display }}{% if generated_time %} {{ generated_time }}h{% endif %}</title>
+  <title>Com ajudar – Què es cou</title>
   <style>
     @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&display=swap');
 
@@ -32,7 +32,6 @@
       --muted:     #4a7a5a;
     }
 
-    /* CRT scanlines overlay */
     .scanlines {
       pointer-events: none;
       position: fixed;
@@ -55,7 +54,6 @@
       padding: 0 0 32px;
     }
 
-    /* ── Header ── */
     header {
       background: var(--bg);
       border-bottom: 2px solid var(--green);
@@ -74,7 +72,6 @@
       flex-wrap: wrap;
     }
 
-    /* ── Logo ── */
     .site-logo {
       display: block;
       flex-shrink: 0;
@@ -90,140 +87,22 @@
       text-transform: uppercase;
       letter-spacing: 2px;
     }
-    header h1::before { content: "> "; color: var(--amber); }
-    header time {
-      font-size: 0.82rem;
-      color: var(--muted);
-    }
-
-    /* ── Main ── */
-    main {
-      max-width: var(--max-w);
-      margin: 0 auto;
-      padding: 12px 10px 0;
-    }
-
-    /* ── Section titles ── */
-    .section-title {
-      font-size: clamp(0.85rem, 3vw, 1rem);
-      color: var(--amber);
-      text-shadow: 0 0 8px rgba(255,176,0,.4);
-      text-transform: uppercase;
-      letter-spacing: 2px;
-      border: none;
-      border-top: 1px solid var(--border);
-      padding: 8px 0 6px 0;
-      margin: 20px 0 8px;
-    }
-    .section-title::before { content: "## "; opacity: .6; }
-
-    /* ── Article cards ── */
-    article {
-      background: var(--card-bg);
-      border: 1px solid var(--border);
-      border-left: 3px solid var(--green-dim);
-      padding: 10px 12px;
-      margin-bottom: 6px;
-      transition: border-color .15s, box-shadow .15s;
-    }
-    article:hover {
-      border-left-color: var(--green);
-      box-shadow: 0 0 12px var(--green-glow);
-    }
-
-    .article-body { min-width: 0; }
-
-    article h3 {
-      font-size: clamp(0.88rem, 2.5vw, 0.97rem);
-      line-height: 1.35;
-      margin-bottom: 3px;
-    }
-    article h3 a {
-      color: var(--green);
+    header h1 a {
+      color: inherit;
       text-decoration: none;
-      text-shadow: 0 0 6px var(--green-glow);
     }
-    article h3 a:hover {
-      color: var(--bg);
-      text-shadow: 0 0 10px var(--green);
-    }
+    header h1::before { content: "> "; color: var(--amber); }
 
-    .meta {
-      font-size: 0.72rem;
+    header a.back {
       color: var(--muted);
-      margin-bottom: 5px;
-    }
-    .meta::before { content: "[ "; }
-    .meta::after  { content: " ]"; }
-
-    article p {
-      font-size: 0.85rem;
-      color: var(--muted);
-      line-height: 1.5;
-    }
-
-    /* ── Footer ── */
-    footer {
-      max-width: var(--max-w);
-      margin: 24px auto 0;
-      padding: 10px 10px 0;
-      border-top: 1px solid var(--border);
-      font-size: 0.75rem;
-      color: var(--muted);
-      line-height: 1.6;
-    }
-    footer::before { content: "// "; color: var(--green-dim); }
-    footer a { color: var(--muted); text-decoration: none; }
-    footer a:hover { color: var(--green); }
-
-    .footer-sources { display: none; }
-    .footer-sources.active { display: inline; }
-
-    .footer-ai-note {
-      margin-top: 6px;
-      color: var(--green-dim);
-      font-size: 0.72rem;
-    }
-    .footer-ai-note::before { content: "// "; color: var(--green-dim); opacity: .6; }
-
-    /* ── Tabs ── */
-    .tabs {
-      max-width: var(--max-w);
-      margin: 12px auto 0;
-      padding: 0 10px;
-      display: flex;
-      flex-wrap: wrap;
-      gap: 4px;
-    }
-    .tab-btn {
-      background: var(--bg);
-      color: var(--muted);
+      font-size: 0.78rem;
+      text-decoration: none;
       border: 1px solid var(--border);
-      border-bottom: none;
-      padding: 8px 18px;
-      font-family: 'IBM Plex Mono', 'Courier New', monospace;
-      font-size: 0.92rem;
-      font-weight: 600;
-      text-transform: uppercase;
-      letter-spacing: 2px;
-      cursor: pointer;
+      padding: 3px 8px;
       transition: color .15s, border-color .15s;
     }
-    .tab-btn:hover { color: var(--green); border-color: var(--green-dim); }
-    .tab-btn.active {
-      color: var(--amber);
-      border-color: var(--amber);
-      text-shadow: 0 0 12px rgba(255,176,0,.6), 0 0 24px rgba(255,176,0,.25);
-    }
-    .tab-btn.active::before { content: "> "; }
+    header a.back:hover { color: var(--green); border-color: var(--green-dim); }
 
-    .tab-panel { display: none; }
-    .tab-panel.active { display: block; }
-
-    /* ── Light mode: hide scanlines ── */
-    :root.light .scanlines { display: none; }
-
-    /* ── Theme toggle button ── */
     #theme-toggle {
       margin-left: auto;
       background: none;
@@ -237,71 +116,84 @@
     }
     #theme-toggle:hover { color: var(--green); border-color: var(--green-dim); }
 
-    /* ── RSS / Telegram icons (fixed top-right) ── */
-    #rss-link, #telegram-link {
-      position: fixed;
-      top: 10px;
-      z-index: 20;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      width: 28px;
-      height: 28px;
-      border: 1px solid var(--border);
-      background: var(--bg);
-      color: var(--amber);
-      text-decoration: none;
-      transition: border-color .15s, box-shadow .15s;
+    main {
+      max-width: var(--max-w);
+      margin: 0 auto;
+      padding: 24px 10px 0;
     }
-    #rss-link { right: 12px; }
-    #telegram-link { right: 46px; }
-    #rss-link:hover {
-      border-color: var(--amber);
-      box-shadow: 0 0 8px rgba(255,176,0,.35);
-    }
-    #telegram-link:hover {
-      border-color: var(--amber);
-      box-shadow: 0 0 8px rgba(255,176,0,.35);
-    }
-    #rss-link svg, #telegram-link svg { display: block; }
 
-    /* ── Mobile ── */
+    h2 {
+      font-size: clamp(0.85rem, 3vw, 1rem);
+      color: var(--amber);
+      text-shadow: 0 0 8px rgba(255,176,0,.4);
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      border-top: 1px solid var(--border);
+      padding: 8px 0 6px 0;
+      margin: 24px 0 8px;
+    }
+    h2::before { content: "## "; opacity: .6; }
+
+    .intro {
+      font-size: 0.9rem;
+      color: var(--muted);
+      margin-bottom: 20px;
+      line-height: 1.6;
+    }
+
+    .card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-left: 3px solid var(--green-dim);
+      padding: 14px 16px;
+      margin-bottom: 10px;
+    }
+
+    .card h3 {
+      font-size: 0.95rem;
+      color: var(--green);
+      margin-bottom: 6px;
+    }
+    .card h3::before { content: "> "; color: var(--amber); }
+
+    .card p {
+      font-size: 0.85rem;
+      color: var(--muted);
+      line-height: 1.6;
+    }
+
+    .card a { color: var(--green); text-decoration: none; }
+    .card a:hover { text-decoration: underline; }
+
+    footer {
+      max-width: var(--max-w);
+      margin: 24px auto 0;
+      padding: 10px 10px 0;
+      border-top: 1px solid var(--border);
+      font-size: 0.75rem;
+      color: var(--muted);
+      line-height: 1.6;
+    }
+    footer::before { content: "// "; color: var(--green-dim); }
+    footer a { color: var(--muted); text-decoration: none; }
+    footer a:hover { color: var(--green); }
+
+    :root.light .scanlines { display: none; }
+
     @media (max-width: 480px) {
-      article { padding: 8px 10px; }
-      .tab-btn { padding: 5px 10px; font-size: 0.75rem; letter-spacing: 1px; }
-      .site-logo { width: 28px; height: 28px; }
+      .card { padding: 10px 12px; }
     }
   </style>
 </head>
 <body>
 <div class="scanlines"></div>
 
-<a id="telegram-link" href="https://t.co/674bdOEK73" title="Canal de Telegram" aria-label="Canal de Telegram" target="_blank" rel="noopener">
-  <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24"
-       fill="currentColor" aria-hidden="true">
-    <path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.894 8.221-1.97 9.28c-.145.658-.537.818-1.084.508l-3-2.21-1.447 1.394c-.16.16-.295.295-.605.295l.213-3.053 5.56-5.023c.242-.213-.054-.333-.373-.12L7.19 13.668l-2.96-.924c-.643-.204-.657-.643.136-.953l11.57-4.461c.537-.194 1.006.131.958.891z"/>
-  </svg>
-</a>
-
-<a id="rss-link" href="feed.xml" title="Feed RSS" aria-label="Feed RSS">
-  <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24"
-       fill="currentColor" aria-hidden="true">
-    <circle cx="5" cy="19" r="3"/>
-    <path d="M4 4a16 16 0 0 1 16 16h-3A13 13 0 0 0 4 7z"/>
-    <path d="M4 11a9 9 0 0 1 9 9H10a6 6 0 0 0-6-6z"/>
-  </svg>
-</a>
-
 <header>
   <div class="inner">
-
-    <!-- Olla pixel-art logo (24×24 grid, 3px/pixel = 72×72 viewBox) -->
     <svg class="site-logo" xmlns="http://www.w3.org/2000/svg"
          viewBox="0 0 72 72" width="36" height="36"
          aria-label="Olla – Què es cou">
-      <!-- background adapts to theme -->
       <rect class="logo-bg" width="72" height="72"/>
-      <!-- steam (dark green) -->
       <rect x="15" y="3"  width="3" height="6" fill="#1a8c3a"/>
       <rect x="27" y="3"  width="3" height="6" fill="#1a8c3a"/>
       <rect x="33" y="3"  width="3" height="6" fill="#1a8c3a"/>
@@ -309,27 +201,21 @@
       <rect x="57" y="3"  width="3" height="6" fill="#1a8c3a"/>
       <rect x="27" y="9"  width="3" height="3" fill="#1a8c3a"/>
       <rect x="45" y="9"  width="3" height="3" fill="#1a8c3a"/>
-      <!-- handles (amber) -->
       <rect x="6"  y="15" width="6"  height="3" fill="#ffb000"/>
       <rect x="60" y="15" width="6"  height="3" fill="#ffb000"/>
       <rect x="3"  y="18" width="12" height="3" fill="#ffb000"/>
       <rect x="57" y="18" width="12" height="3" fill="#ffb000"/>
-      <!-- top rim: handles + green bar -->
       <rect x="3"  y="21" width="12" height="3" fill="#ffb000"/>
       <rect x="15" y="21" width="42" height="3" fill="#33ff66"/>
       <rect x="57" y="21" width="12" height="3" fill="#ffb000"/>
-      <!-- lid row (shadow strip) -->
       <rect x="12" y="24" width="6"  height="3" fill="#33ff66"/>
       <rect x="18" y="24" width="36" height="3" fill="#0a3d1a"/>
       <rect x="54" y="24" width="6"  height="3" fill="#33ff66"/>
-      <!-- body rows 9-16: green border, dark shadow, teal fill -->
-      <!-- row 9 -->
       <rect x="12" y="27" width="3"  height="3" fill="#33ff66"/>
       <rect x="15" y="27" width="3"  height="3" fill="#0a3d1a"/>
       <rect x="18" y="27" width="36" height="3" fill="#0d8050"/>
       <rect x="54" y="27" width="3"  height="3" fill="#0a3d1a"/>
       <rect x="57" y="27" width="3"  height="3" fill="#33ff66"/>
-      <!-- row 10 (highlight dots top-left and top-right) -->
       <rect x="12" y="30" width="3"  height="3" fill="#33ff66"/>
       <rect x="15" y="30" width="3"  height="3" fill="#0a3d1a"/>
       <rect x="18" y="30" width="3"  height="3" fill="#0d8050"/>
@@ -338,7 +224,6 @@
       <rect x="48" y="30" width="6"  height="3" fill="#8fff9f"/>
       <rect x="54" y="30" width="3"  height="3" fill="#0a3d1a"/>
       <rect x="57" y="30" width="3"  height="3" fill="#33ff66"/>
-      <!-- row 11 (same as row 10) -->
       <rect x="12" y="33" width="3"  height="3" fill="#33ff66"/>
       <rect x="15" y="33" width="3"  height="3" fill="#0a3d1a"/>
       <rect x="18" y="33" width="3"  height="3" fill="#0d8050"/>
@@ -347,13 +232,11 @@
       <rect x="48" y="33" width="6"  height="3" fill="#8fff9f"/>
       <rect x="54" y="33" width="3"  height="3" fill="#0a3d1a"/>
       <rect x="57" y="33" width="3"  height="3" fill="#33ff66"/>
-      <!-- row 12 (plain teal) -->
       <rect x="12" y="36" width="3"  height="3" fill="#33ff66"/>
       <rect x="15" y="36" width="3"  height="3" fill="#0a3d1a"/>
       <rect x="18" y="36" width="36" height="3" fill="#0d8050"/>
       <rect x="54" y="36" width="3"  height="3" fill="#0a3d1a"/>
       <rect x="57" y="36" width="3"  height="3" fill="#33ff66"/>
-      <!-- row 13 (green badge border) -->
       <rect x="12" y="39" width="3"  height="3" fill="#33ff66"/>
       <rect x="15" y="39" width="3"  height="3" fill="#0a3d1a"/>
       <rect x="18" y="39" width="9"  height="3" fill="#0d8050"/>
@@ -361,7 +244,6 @@
       <rect x="45" y="39" width="9"  height="3" fill="#0d8050"/>
       <rect x="54" y="39" width="3"  height="3" fill="#0a3d1a"/>
       <rect x="57" y="39" width="3"  height="3" fill="#33ff66"/>
-      <!-- row 14 (light green badge interior) -->
       <rect x="12" y="42" width="3"  height="3" fill="#33ff66"/>
       <rect x="15" y="42" width="3"  height="3" fill="#0a3d1a"/>
       <rect x="18" y="42" width="9"  height="3" fill="#0d8050"/>
@@ -371,7 +253,6 @@
       <rect x="45" y="42" width="9"  height="3" fill="#0d8050"/>
       <rect x="54" y="42" width="3"  height="3" fill="#0a3d1a"/>
       <rect x="57" y="42" width="3"  height="3" fill="#33ff66"/>
-      <!-- row 15 (green badge border again) -->
       <rect x="12" y="45" width="3"  height="3" fill="#33ff66"/>
       <rect x="15" y="45" width="3"  height="3" fill="#0a3d1a"/>
       <rect x="18" y="45" width="9"  height="3" fill="#0d8050"/>
@@ -379,81 +260,61 @@
       <rect x="45" y="45" width="9"  height="3" fill="#0d8050"/>
       <rect x="54" y="45" width="3"  height="3" fill="#0a3d1a"/>
       <rect x="57" y="45" width="3"  height="3" fill="#33ff66"/>
-      <!-- row 16 (plain teal) -->
       <rect x="12" y="48" width="3"  height="3" fill="#33ff66"/>
       <rect x="15" y="48" width="3"  height="3" fill="#0a3d1a"/>
       <rect x="18" y="48" width="36" height="3" fill="#0d8050"/>
       <rect x="54" y="48" width="3"  height="3" fill="#0a3d1a"/>
       <rect x="57" y="48" width="3"  height="3" fill="#33ff66"/>
-      <!-- row 17 (bottom shadow strip) -->
       <rect x="12" y="51" width="6"  height="3" fill="#33ff66"/>
       <rect x="18" y="51" width="36" height="3" fill="#0a3d1a"/>
       <rect x="54" y="51" width="6"  height="3" fill="#33ff66"/>
-      <!-- row 18 (bottom rim) -->
       <rect x="15" y="54" width="42" height="3" fill="#33ff66"/>
-      <!-- row 19 (base) -->
       <rect x="18" y="57" width="36" height="3" fill="#33ff66"/>
     </svg>
 
-    <h1>Què es cou</h1>
-    <time datetime="{{ generated_at }}">{{ date_display }}{% if generated_time %} {{ generated_time }}h{% endif %}</time>
+    <h1><a href="index.html">Què es cou</a></h1>
     <button id="theme-toggle" aria-label="Canvia el tema">☀ clar</button>
+    <a class="back" href="index.html">&larr; Torna</a>
   </div>
 </header>
 
-<nav class="tabs">
-  {% for section in sections %}
-  <button class="tab-btn{% if loop.first %} active{% endif %}"
-          data-tab="{{ section.id }}">{{ section.tab_title }}</button>
-  {% endfor %}
-</nav>
-
 <main>
-  {% for section in sections %}
-  <div class="tab-panel{% if loop.first %} active{% endif %}" id="tab-{{ section.id }}">
+  <p class="intro">Aquest projecte es fa amb molt poca gent. Si us ha semblat útil, aquí teniu maneres de col·laborar-hi.</p>
 
-    {% for article in section.articles %}
-    <article>
-      <div class="article-body">
-        <h3><a href="{{ article.url }}" target="_blank" rel="noopener">{{ article.title }}</a></h3>
-        <div class="meta">
-          {{ article.source }}
-          {% if article.date_display %} &mdash; {{ article.date_display }}{% endif %}
-        </div>
-        <p>{{ article.summary }}</p>
-      </div>
-    </article>
-    {% endfor %}
-
+  <h2>Difusió</h2>
+  <div class="card">
+    <h3>Comparteix i recomana</h3>
+    <p>La manera més senzilla d'ajudar és compartir <strong>aquesta pàgina</strong> a les xarxes socials, mencionar-la a grups o recomanar-la a companys i col·legues. Cada nou lector ajuda a fer créixer la comunitat.</p>
   </div>
-  {% endfor %}
+
+  <h2>Fonts</h2>
+  <div class="card">
+    <h3>Revisa i amplia les fonts</h3>
+    <p>Tenim un fitxer <a href="https://github.com/jordimas/que-es-cou/blob/main/sources.yaml" target="_blank" rel="noopener"><code>sources.yaml</code></a> amb tots els feeds RSS que seguim. Si creus que falta alguna publicació, bloc o podcast rellevant en català sobre tecnologia, pots:</p>
+    <p style="margin-top:8px">
+      Escriure a <a href="mailto:jmas@softcatala.org">jmas@softcatala.org</a> o bé fer una
+      <a href="https://github.com/jordimas/que-es-cou" target="_blank" rel="noopener">pull request al repositori GitHub</a>.
+    </p>
+  </div>
+
+  <h2>AI / ML</h2>
+  <div class="card">
+    <h3>Evolucionar l'arquitectura</h3>
+    <p>Ara mateix el projecte usa un model de llenguatge gran (LLM) monolític per filtrar, categoritzar, prioritzar, traduir i resumir les notícies. L'objectiu a mitjà termini és migrar cap a una arquitectura d'agents amb models més petits i especialitzats de codi obert. Si tens coneixements d'AI/ML i t'interessa contribuir-hi, posa't en contacte.</p>
+  </div>
+
+  <h2>Altres</h2>
+  <div class="card">
+    <h3>Qualsevol altra idea</h3>
+    <p>Si tens alguna proposta que no encaixa en cap de les categories anteriors, també volem saber-ho. Disseny, accessibilitat, funcionalitat... tot és benvingut.</p>
+  </div>
 </main>
 
 <footer>
-  <strong>Fonts:</strong>
-  {% for section in sections %}
-  <span class="footer-sources{% if loop.first %} active{% endif %}" data-tab="{{ section.id }}">
-    {% for source in section.sources %}
-      <a href="{{ source.url }}" target="_blank" rel="noopener">{{ source.name }}</a>{% if not loop.last %}, {% endif %}
-    {% endfor %}
-  </span>
-  {% endfor %}
-  <br>Generat el {{ date_display }}{% if generated_time %} a les {{ generated_time }}h{% endif %}.
-  <p class="footer-ai-note">Aquesta pàgina es regenera automàticament cada 4 hores mitjançant intel·ligència artificial. <a href="com-funciona.html">Com funciona</a> &mdash; <a href="com-ajudar.html">Com ajudar</a></p>
+  Contacte: <a href="mailto:jmas@softcatala.org">jmas@softcatala.org</a>
 </footer>
 
 <script>
-  document.querySelectorAll('.tab-btn').forEach(btn => {
-    btn.addEventListener('click', () => {
-      document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
-      document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
-      document.querySelectorAll('.footer-sources').forEach(s => s.classList.remove('active'));
-      btn.classList.add('active');
-      document.getElementById('tab-' + btn.dataset.tab).classList.add('active');
-      document.querySelector('.footer-sources[data-tab="' + btn.dataset.tab + '"]').classList.add('active');
-    });
-  });
-
   const toggle = document.getElementById('theme-toggle');
   const root = document.documentElement;
   if (localStorage.getItem('theme') === 'light') {

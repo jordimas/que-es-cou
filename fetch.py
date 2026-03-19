@@ -153,7 +153,7 @@ def fetch_section(section_id: str, sources: list[dict]) -> dict:
     print(f"  [{section_id}] {ok}/{len(sources)} sources ok, {total_items} items total")
     for r in results:
         if r["status"] != "ok":
-            print(f"    [{r['status']}] {r['name']}: {r.get('error_detail', '')}")
+            print(f"    [{r['status']}] {r['name']} ({r['url']}): {r.get('error_detail', '')}")
     return {"id": section_id, "sources": results}
 
 

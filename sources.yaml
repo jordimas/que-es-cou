@@ -69,6 +69,10 @@ world:
 catalunya:
   - name: Ara.cat
     url: https://www.ara.cat/rss/
+  - name: El Periódico
+    url: https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml
+  - name: RAC1
+    url: https://www.rac1.cat/rss/home.xml
   - name: VilaWeb
     url: https://www.vilaweb.cat/feed/
   - name: NacióDigital
@@ -179,6 +183,14 @@ podcasts:
     url: https://www.ivoox.com/podcast-pindola-vermella_fg_f12363688_filtro_1.xml
   - name: Heroïnes Digitals
     url: https://anchor.fm/s/f29f72dc/podcast/rss
+  - name: Algorrritmes UPC
+    url: https://feeds.ivoox.com/feed_fg_f11793567_filtro_1.xml
+  - name: Felicitat digital
+    url: https://dinamics.ccma.cat/public/podcast/catradio/xml/0/7/podprograma1970.xml
+  - name: Espetech Cast
+    url: https://anchor.fm/s/5bb39088/podcast/rss
+  - name: RAC&GO
+    url: https://api.audioteca.rac1.cat/rss/rac-and-go
 
 events:
   - name: WordPress BCN
