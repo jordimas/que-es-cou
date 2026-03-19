@@ -94,3 +94,4 @@ jobs:
           publish_dir: ${{ github.workspace }}
           destination_dir: ${{ inputs.deploy_dir }}
           exclude_assets: '.github,*.py,*.sh,*.yaml,*.md,requirements.txt,*.json'
+          keep_files: true
