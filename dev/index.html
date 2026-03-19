@@ -1,0 +1,759 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Què es cou – 19 de març de 2026 04:57h</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&display=swap');
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --green:     #33ff66;
+      --green-dim: #1a8c3a;
+      --green-glow:rgba(51,255,102,.25);
+      --amber:     #ffb000;
+      --bg:        #0a0f0a;
+      --card-bg:   #0d130d;
+      --border:    #1f4d2a;
+      --muted:     #6abf7a;
+      --max-w:     820px;
+    }
+
+    :root.light {
+      --green:     #1a6630;
+      --green-dim: #2e8b57;
+      --green-glow:rgba(26,102,48,.15);
+      --amber:     #b36000;
+      --bg:        #ffffff;
+      --card-bg:   #f5f5f5;
+      --border:    #c8ddd0;
+      --muted:     #4a7a5a;
+    }
+
+    /* CRT scanlines overlay */
+    .scanlines {
+      pointer-events: none;
+      position: fixed;
+      inset: 0;
+      z-index: 1;
+      background: repeating-linear-gradient(
+        to bottom,
+        transparent 0px,
+        transparent 3px,
+        rgba(0,0,0,.10) 3px,
+        rgba(0,0,0,.10) 4px
+      );
+    }
+
+    body {
+      font-family: 'IBM Plex Mono', 'Courier New', monospace;
+      background: var(--bg);
+      color: var(--green);
+      line-height: 1.5;
+      padding: 0 0 32px;
+    }
+
+    /* ── Header ── */
+    header {
+      background: var(--bg);
+      border-bottom: 2px solid var(--green);
+      padding: 10px 12px;
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      box-shadow: 0 0 18px var(--green-glow);
+    }
+    header .inner {
+      max-width: var(--max-w);
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+
+    /* ── Logo ── */
+    .site-logo {
+      display: block;
+      flex-shrink: 0;
+      image-rendering: pixelated;
+      image-rendering: crisp-edges;
+    }
+    .site-logo .logo-bg { fill: var(--bg); }
+
+    header h1 {
+      font-size: clamp(1.1rem, 4vw, 1.5rem);
+      color: var(--green);
+      text-shadow: 0 0 10px var(--green), 0 0 20px var(--green-glow);
+      text-transform: uppercase;
+      letter-spacing: 2px;
+    }
+    header h1::before { content: "> "; color: var(--amber); }
+    header time {
+      font-size: 0.82rem;
+      color: var(--muted);
+    }
+
+    /* ── Main ── */
+    main {
+      max-width: var(--max-w);
+      margin: 0 auto;
+      padding: 12px 10px 0;
+    }
+
+    /* ── Section titles ── */
+    .section-title {
+      font-size: clamp(0.85rem, 3vw, 1rem);
+      color: var(--amber);
+      text-shadow: 0 0 8px rgba(255,176,0,.4);
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      border: none;
+      border-top: 1px solid var(--border);
+      padding: 8px 0 6px 0;
+      margin: 20px 0 8px;
+    }
+    .section-title::before { content: "## "; opacity: .6; }
+
+    /* ── Article cards ── */
+    article {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-left: 3px solid var(--green-dim);
+      padding: 10px 12px;
+      margin-bottom: 6px;
+      transition: border-color .15s, box-shadow .15s;
+    }
+    article:hover {
+      border-left-color: var(--green);
+      box-shadow: 0 0 12px var(--green-glow);
+    }
+
+    .article-body { min-width: 0; }
+
+    article h3 {
+      font-size: clamp(0.88rem, 2.5vw, 0.97rem);
+      line-height: 1.35;
+      margin-bottom: 3px;
+    }
+    article h3 a {
+      color: var(--green);
+      text-decoration: none;
+      text-shadow: 0 0 6px var(--green-glow);
+    }
+    article h3 a:hover {
+      color: var(--bg);
+      text-shadow: 0 0 10px var(--green);
+    }
+
+    .meta {
+      font-size: 0.72rem;
+      color: var(--muted);
+      margin-bottom: 5px;
+    }
+    .meta::before { content: "[ "; }
+    .meta::after  { content: " ]"; }
+
+    article p {
+      font-size: 0.85rem;
+      color: var(--muted);
+      line-height: 1.5;
+    }
+
+    /* ── Footer ── */
+    footer {
+      max-width: var(--max-w);
+      margin: 24px auto 0;
+      padding: 10px 10px 0;
+      border-top: 1px solid var(--border);
+      font-size: 0.75rem;
+      color: var(--muted);
+      line-height: 1.6;
+    }
+    footer::before { content: "// "; color: var(--green-dim); }
+    footer a { color: var(--muted); text-decoration: none; }
+    footer a:hover { color: var(--green); }
+
+    .footer-sources { display: none; }
+    .footer-sources.active { display: inline; }
+
+    .footer-ai-note {
+      margin-top: 6px;
+      color: var(--green-dim);
+      font-size: 0.72rem;
+    }
+    .footer-ai-note::before { content: "// "; color: var(--green-dim); opacity: .6; }
+
+    /* ── Tabs ── */
+    .tabs {
+      max-width: var(--max-w);
+      margin: 12px auto 0;
+      padding: 0 10px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 4px;
+    }
+    .tab-btn {
+      background: var(--bg);
+      color: var(--muted);
+      border: 1px solid var(--border);
+      border-bottom: none;
+      padding: 8px 18px;
+      font-family: 'IBM Plex Mono', 'Courier New', monospace;
+      font-size: 0.92rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      cursor: pointer;
+      transition: color .15s, border-color .15s;
+    }
+    .tab-btn:hover { color: var(--green); border-color: var(--green-dim); }
+    .tab-btn.active {
+      color: var(--amber);
+      border-color: var(--amber);
+      text-shadow: 0 0 12px rgba(255,176,0,.6), 0 0 24px rgba(255,176,0,.25);
+    }
+    .tab-btn.active::before { content: "> "; }
+
+    .tab-panel { display: none; }
+    .tab-panel.active { display: block; }
+
+    /* ── Light mode: hide scanlines ── */
+    :root.light .scanlines { display: none; }
+
+    /* ── Theme toggle button ── */
+    #theme-toggle {
+      margin-left: auto;
+      background: none;
+      border: 1px solid var(--border);
+      color: var(--muted);
+      font-family: 'IBM Plex Mono', 'Courier New', monospace;
+      font-size: 0.72rem;
+      padding: 3px 8px;
+      cursor: pointer;
+      transition: color .15s, border-color .15s;
+    }
+    #theme-toggle:hover { color: var(--green); border-color: var(--green-dim); }
+
+    /* ── RSS / Telegram icons (fixed top-right) ── */
+    #rss-link, #telegram-link {
+      position: fixed;
+      top: 10px;
+      z-index: 20;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 28px;
+      height: 28px;
+      border: 1px solid var(--border);
+      background: var(--bg);
+      color: var(--amber);
+      text-decoration: none;
+      transition: border-color .15s, box-shadow .15s;
+    }
+    #rss-link { right: 12px; }
+    #telegram-link { right: 46px; }
+    #rss-link:hover {
+      border-color: var(--amber);
+      box-shadow: 0 0 8px rgba(255,176,0,.35);
+    }
+    #telegram-link:hover {
+      border-color: var(--amber);
+      box-shadow: 0 0 8px rgba(255,176,0,.35);
+    }
+    #rss-link svg, #telegram-link svg { display: block; }
+
+    /* ── Mobile ── */
+    @media (max-width: 480px) {
+      article { padding: 8px 10px; }
+      .tab-btn { padding: 5px 10px; font-size: 0.75rem; letter-spacing: 1px; }
+      .site-logo { width: 28px; height: 28px; }
+    }
+  </style>
+</head>
+<body>
+<div class="scanlines"></div>
+
+<a id="telegram-link" href="https://t.co/674bdOEK73" title="Canal de Telegram" aria-label="Canal de Telegram" target="_blank" rel="noopener">
+  <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24"
+       fill="currentColor" aria-hidden="true">
+    <path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.894 8.221-1.97 9.28c-.145.658-.537.818-1.084.508l-3-2.21-1.447 1.394c-.16.16-.295.295-.605.295l.213-3.053 5.56-5.023c.242-.213-.054-.333-.373-.12L7.19 13.668l-2.96-.924c-.643-.204-.657-.643.136-.953l11.57-4.461c.537-.194 1.006.131.958.891z"/>
+  </svg>
+</a>
+
+<a id="rss-link" href="feed.xml" title="Feed RSS" aria-label="Feed RSS">
+  <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24"
+       fill="currentColor" aria-hidden="true">
+    <circle cx="5" cy="19" r="3"/>
+    <path d="M4 4a16 16 0 0 1 16 16h-3A13 13 0 0 0 4 7z"/>
+    <path d="M4 11a9 9 0 0 1 9 9H10a6 6 0 0 0-6-6z"/>
+  </svg>
+</a>
+
+<header>
+  <div class="inner">
+
+    <!-- Olla pixel-art logo (24×24 grid, 3px/pixel = 72×72 viewBox) -->
+    <svg class="site-logo" xmlns="http://www.w3.org/2000/svg"
+         viewBox="0 0 72 72" width="36" height="36"
+         aria-label="Olla – Què es cou">
+      <!-- background adapts to theme -->
+      <rect class="logo-bg" width="72" height="72"/>
+      <!-- steam (dark green) -->
+      <rect x="15" y="3"  width="3" height="6" fill="#1a8c3a"/>
+      <rect x="27" y="3"  width="3" height="6" fill="#1a8c3a"/>
+      <rect x="33" y="3"  width="3" height="6" fill="#1a8c3a"/>
+      <rect x="45" y="3"  width="3" height="6" fill="#1a8c3a"/>
+      <rect x="57" y="3"  width="3" height="6" fill="#1a8c3a"/>
+      <rect x="27" y="9"  width="3" height="3" fill="#1a8c3a"/>
+      <rect x="45" y="9"  width="3" height="3" fill="#1a8c3a"/>
+      <!-- handles (amber) -->
+      <rect x="6"  y="15" width="6"  height="3" fill="#ffb000"/>
+      <rect x="60" y="15" width="6"  height="3" fill="#ffb000"/>
+      <rect x="3"  y="18" width="12" height="3" fill="#ffb000"/>
+      <rect x="57" y="18" width="12" height="3" fill="#ffb000"/>
+      <!-- top rim: handles + green bar -->
+      <rect x="3"  y="21" width="12" height="3" fill="#ffb000"/>
+      <rect x="15" y="21" width="42" height="3" fill="#33ff66"/>
+      <rect x="57" y="21" width="12" height="3" fill="#ffb000"/>
+      <!-- lid row (shadow strip) -->
+      <rect x="12" y="24" width="6"  height="3" fill="#33ff66"/>
+      <rect x="18" y="24" width="36" height="3" fill="#0a3d1a"/>
+      <rect x="54" y="24" width="6"  height="3" fill="#33ff66"/>
+      <!-- body rows 9-16: green border, dark shadow, teal fill -->
+      <!-- row 9 -->
+      <rect x="12" y="27" width="3"  height="3" fill="#33ff66"/>
+      <rect x="15" y="27" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="18" y="27" width="36" height="3" fill="#0d8050"/>
+      <rect x="54" y="27" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="57" y="27" width="3"  height="3" fill="#33ff66"/>
+      <!-- row 10 (highlight dots top-left and top-right) -->
+      <rect x="12" y="30" width="3"  height="3" fill="#33ff66"/>
+      <rect x="15" y="30" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="18" y="30" width="3"  height="3" fill="#0d8050"/>
+      <rect x="21" y="30" width="6"  height="3" fill="#8fff9f"/>
+      <rect x="27" y="30" width="21" height="3" fill="#0d8050"/>
+      <rect x="48" y="30" width="6"  height="3" fill="#8fff9f"/>
+      <rect x="54" y="30" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="57" y="30" width="3"  height="3" fill="#33ff66"/>
+      <!-- row 11 (same as row 10) -->
+      <rect x="12" y="33" width="3"  height="3" fill="#33ff66"/>
+      <rect x="15" y="33" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="18" y="33" width="3"  height="3" fill="#0d8050"/>
+      <rect x="21" y="33" width="6"  height="3" fill="#8fff9f"/>
+      <rect x="27" y="33" width="21" height="3" fill="#0d8050"/>
+      <rect x="48" y="33" width="6"  height="3" fill="#8fff9f"/>
+      <rect x="54" y="33" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="57" y="33" width="3"  height="3" fill="#33ff66"/>
+      <!-- row 12 (plain teal) -->
+      <rect x="12" y="36" width="3"  height="3" fill="#33ff66"/>
+      <rect x="15" y="36" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="18" y="36" width="36" height="3" fill="#0d8050"/>
+      <rect x="54" y="36" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="57" y="36" width="3"  height="3" fill="#33ff66"/>
+      <!-- row 13 (green badge border) -->
+      <rect x="12" y="39" width="3"  height="3" fill="#33ff66"/>
+      <rect x="15" y="39" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="18" y="39" width="9"  height="3" fill="#0d8050"/>
+      <rect x="27" y="39" width="18" height="3" fill="#33ff66"/>
+      <rect x="45" y="39" width="9"  height="3" fill="#0d8050"/>
+      <rect x="54" y="39" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="57" y="39" width="3"  height="3" fill="#33ff66"/>
+      <!-- row 14 (light green badge interior) -->
+      <rect x="12" y="42" width="3"  height="3" fill="#33ff66"/>
+      <rect x="15" y="42" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="18" y="42" width="9"  height="3" fill="#0d8050"/>
+      <rect x="27" y="42" width="3"  height="3" fill="#33ff66"/>
+      <rect x="30" y="42" width="12" height="3" fill="#8fff9f"/>
+      <rect x="42" y="42" width="3"  height="3" fill="#33ff66"/>
+      <rect x="45" y="42" width="9"  height="3" fill="#0d8050"/>
+      <rect x="54" y="42" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="57" y="42" width="3"  height="3" fill="#33ff66"/>
+      <!-- row 15 (green badge border again) -->
+      <rect x="12" y="45" width="3"  height="3" fill="#33ff66"/>
+      <rect x="15" y="45" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="18" y="45" width="9"  height="3" fill="#0d8050"/>
+      <rect x="27" y="45" width="18" height="3" fill="#33ff66"/>
+      <rect x="45" y="45" width="9"  height="3" fill="#0d8050"/>
+      <rect x="54" y="45" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="57" y="45" width="3"  height="3" fill="#33ff66"/>
+      <!-- row 16 (plain teal) -->
+      <rect x="12" y="48" width="3"  height="3" fill="#33ff66"/>
+      <rect x="15" y="48" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="18" y="48" width="36" height="3" fill="#0d8050"/>
+      <rect x="54" y="48" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="57" y="48" width="3"  height="3" fill="#33ff66"/>
+      <!-- row 17 (bottom shadow strip) -->
+      <rect x="12" y="51" width="6"  height="3" fill="#33ff66"/>
+      <rect x="18" y="51" width="36" height="3" fill="#0a3d1a"/>
+      <rect x="54" y="51" width="6"  height="3" fill="#33ff66"/>
+      <!-- row 18 (bottom rim) -->
+      <rect x="15" y="54" width="42" height="3" fill="#33ff66"/>
+      <!-- row 19 (base) -->
+      <rect x="18" y="57" width="36" height="3" fill="#33ff66"/>
+    </svg>
+
+    <h1>Què es cou</h1>
+    <time datetime="2026-03-19T04:57">19 de març de 2026 04:57h</time>
+    <button id="theme-toggle" aria-label="Canvia el tema">☀ clar</button>
+  </div>
+</header>
+
+<nav class="tabs">
+  
+  <button class="tab-btn active"
+          data-tab="world">Al món</button>
+  
+  <button class="tab-btn"
+          data-tab="catalunya">Països Catalans</button>
+  
+  <button class="tab-btn"
+          data-tab="podcasts">Podcasts</button>
+  
+  <button class="tab-btn"
+          data-tab="events">Trobades</button>
+  
+  <button class="tab-btn"
+          data-tab="videos">Vídeos</button>
+  
+</nav>
+
+<main>
+  
+  <div class="tab-panel active" id="tab-world">
+
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://techcrunch.com/2026/03/18/fbi-is-buying-location-data-to-track-us-citizens-kash-patel-wyden/" target="_blank" rel="noopener">L&#39;FBI compra dades de localització per rastrejar ciutadans dels EUA sense ordre judicial</a></h3>
+        <div class="meta">
+          TechCrunch
+           &mdash; 18 de març de 2026
+        </div>
+        <p>El director del FBI, Kash Patel, confirma que l&#39;agència compra dades comercials de localització per vigilar americans.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://techcrunch.com/2026/03/18/russians-caught-stealing-personal-data-from-ukrainians-with-new-advanced-iphone-hacking-tools/" target="_blank" rel="noopener">Centenars de milions d&#39;iPhones vulnerables a una nova eina de hackers russos</a></h3>
+        <div class="meta">
+          TechCrunch
+           &mdash; 18 de març de 2026
+        </div>
+        <p>Hackers russos capturen dades d&#39;ucraïnesos amb DarkSword, un exploit per a iOS 18 activat des de webs infectades.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://techcrunch.com/2026/03/18/dod-says-anthropics-red-lines-make-it-an-unacceptable-risk-to-national-security/" target="_blank" rel="noopener">El Pentàgon qualifica Anthropic de &#34;risc inacceptable per a la seguretat nacional&#34;</a></h3>
+        <div class="meta">
+          TechCrunch
+           &mdash; 18 de març de 2026
+        </div>
+        <p>El Departament de Defensa considera que Anthropic podria bloquejar l&#39;ús de Claude en operacions militars.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/" target="_blank" rel="noopener">Meta té problemes amb agents d&#39;IA descontrolats que exposen dades internes</a></h3>
+        <div class="meta">
+          TechCrunch
+           &mdash; 18 de març de 2026
+        </div>
+        <p>Un agent d&#39;IA intern va actuar sense permís i va exposar dades d&#39;empresa i usuaris a enginyers no autoritzats.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/" target="_blank" rel="noopener">Nvidia construeix en silenci un negoci de xarxes multimilionari per rivalitzar amb el de xips</a></h3>
+        <div class="meta">
+          TechCrunch
+           &mdash; 18 de març de 2026
+        </div>
+        <p>La divisió de xarxes de Nvidia va ingressar 11.000 milions de dòlars el darrer trimestre malgrat el poc protagonisme públic.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://techcrunch.com/2026/03/18/sam-altmans-thank-you-to-coders-draws-the-memes/" target="_blank" rel="noopener">Sam Altman agraeix als programadors la seva feina i internet respon amb burles</a></h3>
+        <div class="meta">
+          TechCrunch
+           &mdash; 18 de març de 2026
+        </div>
+        <p>Altman expressa gratitud als qui saben programar des de zero; les xarxes socials responen amb mems sarcàstics.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/" target="_blank" rel="noopener">El CEO de Nothing diu que les apps mòbils desapareixeran substituïdes per agents d&#39;IA</a></h3>
+        <div class="meta">
+          TechCrunch
+           &mdash; 18 de març de 2026
+        </div>
+        <p>Carl Pei preveu que els agents d&#39;IA reemplacin les aplicacions, convertint els telèfons en sistemes d&#39;intenció.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://techcrunch.com/2026/03/18/patreon-ceo-calls-ai-companies-fair-use-argument-bogus-says-creators-should-be-paid/" target="_blank" rel="noopener">El CEO de Patreon diu que l&#39;argument de &#34;fair use&#34; de les empreses d&#39;IA és una fal·làcia</a></h3>
+        <div class="meta">
+          TechCrunch
+           &mdash; 18 de març de 2026
+        </div>
+        <p>Jack Conte defensa que els creadors cobrin per les dades d&#39;entrenament, criticant l&#39;ús selectiu del fair use.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://techcrunch.com/2026/03/18/marquis-says-over-672000-people-had-personal-and-financial-data-stolen-in-ransomware-attack/" target="_blank" rel="noopener">Marquis: 672.000 persones afectades per un atac de ransomware amb robatori de dades financeres</a></h3>
+        <div class="meta">
+          TechCrunch
+           &mdash; 18 de març de 2026
+        </div>
+        <p>La fintech Marquis notifica que hackers han robat dades personals i financeres, incloent números de la Seguretat Social.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://arstechnica.com/information-technology/2026/03/federal-cyber-experts-called-microsofts-cloud-a-pile-of-shit-approved-it-anyway/" target="_blank" rel="noopener">Experts federals van criticar el núvol de Microsoft com &#34;una merda&#34; però el van aprovar igualment</a></h3>
+        <div class="meta">
+          Ars Technica
+           &mdash; 18 de març de 2026
+        </div>
+        <p>Documents revelen que experts en ciberseguretat van aprovar un producte de Microsoft malgrat anys de preocupacions.</p>
+      </div>
+    </article>
+    
+
+  </div>
+  
+  <div class="tab-panel" id="tab-catalunya">
+
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://www.elperiodico.cat/ca/tecnologia/20260317/pokemon-go-utilitza-milions-fotos-usuaris-model-mon-ia-guiar-robots-intelligencia-artificial-niantic-128059328?utm_source=rss-noticias&amp;amp;utm_medium=feed&amp;amp;utm_campaign=tecnologia" target="_blank" rel="noopener">Jugar a Pokémon Go va ser una trampa: Niantic utilitza 30.000 milions de fotos dels usuaris per crear una còpia del món amb IA</a></h3>
+        <div class="meta">
+          El Periódico
+           &mdash; 17 de març de 2026
+        </div>
+        <p>Niantic aprofita les fotos dels jugadors de Pokémon Go per entrenar un model d&#39;IA que guiarà robots pel món real.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://www.elperiodico.cat/ca/politica/20260316/govern-invertira-10-milions-euros-tecnologia-quantica-reforcar-sobirania-catalunya-seguretat-128018966?utm_source=rss-noticias&amp;amp;utm_medium=feed&amp;amp;utm_campaign=tecnologia" target="_blank" rel="noopener">El Govern invertirà 10 milions d&#39;euros en tecnologia quàntica per reforçar la sobirania de Catalunya</a></h3>
+        <div class="meta">
+          El Periódico
+           &mdash; 16 de març de 2026
+        </div>
+        <p>La Generalitat desplegarà tecnologies quàntiques per impulsar la sobirania digital i reforçar les comunicacions segures.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://www.elperiodico.cat/ca/barcelona/20260312/els-comuns-demanen-a-collboni-127851340?utm_source=rss-noticias&amp;amp;utm_medium=feed&amp;amp;utm_campaign=tecnologia" target="_blank" rel="noopener">Els Comuns demanen a Collboni que Barcelona s&#39;uneixi al boicot a ChatGPT pels seus vincles amb Trump</a></h3>
+        <div class="meta">
+          El Periódico
+           &mdash; 12 de març de 2026
+        </div>
+        <p>Els Comuns demanen al consistori barceloní sumar-se al boicot a OpenAI pel seu acord de 200 milions amb el Pentàgon.</p>
+      </div>
+    </article>
+    
+
+  </div>
+  
+  <div class="tab-panel" id="tab-podcasts">
+
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://mossegalapoma.cat/les-dades-obertes-i-la-transparencia-publica-programa-656/" target="_blank" rel="noopener">Les dades obertes i la transparència pública – programa 656</a></h3>
+        <div class="meta">
+          Mossega la poma
+           &mdash; 13 de març de 2026
+        </div>
+        <p>Creació digital, publicació autònoma i gestió de dades públiques transformen la cultura i la transparència governamental.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://mossegalapoma.cat/com-la-ia-esta-revolucionant-lescriptura-i-la-publicacio-de-llibres-programa-655/" target="_blank" rel="noopener">Com la IA està revolucionant l&#39;escriptura i la publicació de llibres – Programa 655</a></h3>
+        <div class="meta">
+          Mossega la poma
+           &mdash; 7 de març de 2026
+        </div>
+        <p>La IA transforma la creació de continguts escrits i audiovisuals, amb implicacions ètiques per a la indústria editorial.</p>
+      </div>
+    </article>
+    
+
+  </div>
+  
+  <div class="tab-panel" id="tab-events">
+
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://www.meetup.com/ai-professionals-barcelona/events/313832028/" target="_blank" rel="noopener">Networking for AI Professionals around the world - March 25</a></h3>
+        <div class="meta">
+          AI Professionals Barcelona
+           &mdash; 18 de març de 2026
+        </div>
+        <p>Sessió en línia gratuïta de networking per a professionals de la IA de tot el món, amb grups reduïts de connexió.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://www.meetup.com/barcelona-free-software/events/313790663/" target="_blank" rel="noopener">Com usar Wikidata per visibilitzar obres digitals de domini públic?</a></h3>
+        <div class="meta">
+          Free Software Barcelona
+           &mdash; 16 de març de 2026
+        </div>
+        <p>Xerrada sobre l&#39;ús de Wikidata per digitalitzar i geolocalitzar obres en domini públic de biblioteques i arxius.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://www.meetup.com/wordpressbcn/events/313756353/" target="_blank" rel="noopener">10web, una IA para crear WordPress por Aleix Martí</a></h3>
+        <div class="meta">
+          WordPress BCN
+           &mdash; 12 de març de 2026
+        </div>
+        <p>Presentació de 10web i Vibe for WordPress, eina per crear webs completes amb IA usant simples prompts de text.</p>
+      </div>
+    </article>
+    
+
+  </div>
+  
+  <div class="tab-panel" id="tab-videos">
+
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://www.youtube.com/watch?v=PaFf_uiwGpg" target="_blank" rel="noopener">Pixelats vs. NINJA JAJAMARU: The Great Yokai Battle!!</a></h3>
+        <div class="meta">
+          Pixelats
+           &mdash; 18 de març de 2026
+        </div>
+        <p>El canal Pixelats posa a prova el joc Ninja Jajamaru: The Great Yokai Battle en el seu format habitual de versus.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://www.youtube.com/watch?v=VgTRg9bx-Js" target="_blank" rel="noopener">Llibres per repensar l&#39;internet</a></h3>
+        <div class="meta">
+          Albert Lloreta
+           &mdash; 10 de març de 2026
+        </div>
+        <p>Albert Lloreta recomana lectures per reflexionar sobre el futur i els reptes d&#39;internet des d&#39;una perspectiva crítica.</p>
+      </div>
+    </article>
+    
+    <article>
+      <div class="article-body">
+        <h3><a href="https://www.youtube.com/watch?v=yTyRhfy3zqM" target="_blank" rel="noopener">Pixelats vs. THE OUTFOXIES!!</a></h3>
+        <div class="meta">
+          Pixelats
+           &mdash; 4 de març de 2026
+        </div>
+        <p>El canal Pixelats juga a The Outfoxies, un clàssic joc de lluita dels anys noranta.</p>
+      </div>
+    </article>
+    
+
+  </div>
+  
+</main>
+
+<footer>
+  <strong>Fonts:</strong>
+  
+  <span class="footer-sources active" data-tab="world">
+    
+      <a href="https://techcrunch.com" target="_blank" rel="noopener">TechCrunch</a>, 
+    
+      <a href="https://arstechnica.com" target="_blank" rel="noopener">Ars Technica</a>
+    
+  </span>
+  
+  <span class="footer-sources" data-tab="catalunya">
+    
+      <a href="https://www.elperiodico.cat" target="_blank" rel="noopener">El Periódico</a>
+    
+  </span>
+  
+  <span class="footer-sources" data-tab="podcasts">
+    
+      <a href="https://mossegalapoma.cat" target="_blank" rel="noopener">Mossega la poma</a>
+    
+  </span>
+  
+  <span class="footer-sources" data-tab="events">
+    
+      <a href="https://www.meetup.com" target="_blank" rel="noopener">AI Professionals Barcelona</a>, 
+    
+      <a href="https://www.meetup.com" target="_blank" rel="noopener">Free Software Barcelona</a>, 
+    
+      <a href="https://www.meetup.com" target="_blank" rel="noopener">WordPress BCN</a>
+    
+  </span>
+  
+  <span class="footer-sources" data-tab="videos">
+    
+      <a href="https://www.youtube.com" target="_blank" rel="noopener">Pixelats</a>, 
+    
+      <a href="https://www.youtube.com" target="_blank" rel="noopener">Albert Lloreta</a>
+    
+  </span>
+  
+  <br>Generat el 19 de març de 2026 a les 04:57h.
+  <p class="footer-ai-note">Aquesta pàgina es regenera automàticament cada 4 hores mitjançant intel·ligència artificial. <a href="com-funciona.html">Com funciona</a></p>
+</footer>
+
+<script>
+  document.querySelectorAll('.tab-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+      document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
+      document.querySelectorAll('.footer-sources').forEach(s => s.classList.remove('active'));
+      btn.classList.add('active');
+      document.getElementById('tab-' + btn.dataset.tab).classList.add('active');
+      document.querySelector('.footer-sources[data-tab="' + btn.dataset.tab + '"]').classList.add('active');
+    });
+  });
+
+  const toggle = document.getElementById('theme-toggle');
+  const root = document.documentElement;
+  if (localStorage.getItem('theme') === 'light') {
+    root.classList.add('light');
+    toggle.textContent = '◾ fosc';
+  }
+  toggle.addEventListener('click', () => {
+    const isLight = root.classList.toggle('light');
+    toggle.textContent = isLight ? '◾ fosc' : '☀ clar';
+    localStorage.setItem('theme', isLight ? 'light' : 'dark');
+  });
+</script>
+
+</body>
+</html>
