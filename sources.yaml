@@ -73,6 +73,8 @@ catalunya:
     url: https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml
   - name: RAC1
     url: https://www.rac1.cat/rss/home.xml
+  - name: La Vanguardia (en català)
+    url: https://www.lavanguardia.com/rss/encatala.xml
   - name: VilaWeb
     url: https://www.vilaweb.cat/feed/
   - name: NacióDigital
@@ -87,8 +89,6 @@ catalunya:
     url: https://www.elmon.cat/feed/
   - name: Betevé
     url: https://beteve.cat/feed/
-  - name: RAC1
-    url: https://www.rac1.cat/rss
   - name: El Punt Avui
     url: https://www.elpuntavui.cat/barcelona.feed?type=rss
   - name: Segre
@@ -141,6 +141,10 @@ catalunya:
     url: https://www.arabalears.cat/rss/
   - name: Manacor Comarcal
     url: https://manacorcomarcal.com/?feed=rss2
+  - name: Via Empresa
+    url: https://www.viaempresa.cat/uploads/feeds/feed_via-empresa-2024_ca.xml
+  - name: Lúdica
+    url: https://ludica.cat/feed/
 
 podcasts:
   - name: La Base
@@ -241,5 +245,21 @@ videos:
     url: https://www.youtube.com/feeds/videos.xml?playlist_id=PLJPVNzVlFt_AvbkxyvC-OcCVRLKoPIKvM
   - name: Gaming.cat
     url: https://www.youtube.com/feeds/videos.xml?channel_id=UCx3wbFNjfS7YKyrarN5MA_g
+  - name: Miquel Camps
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCuUKzZdfJJDKn1b9AqBx6Kw
+  - name: Marc Corredera Reviews
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCpWXCzwtRk17C8ZhmNNH67A
+  - name: Del buit al tot
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCluge_dL7B0BNTikVRXjg8w
+  - name: Barra Inversa
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCgWFb6UGJIdF_bOtgO5fgaA
+  - name: Retroscroll
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCTKZW1k7tz0CB68fGlAtkDg
+  - name: Nintenhype.cat
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UC0SCZIOHO3Fpo0VLsouX-kw
+  - name: La Poma Mossegada
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCidFf_iUay6_Y59u2XzF4mw
+  - name: Lúdica (Vídeos)
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCwc91vuY2XulsDR7Gb-EGhg
 
 
