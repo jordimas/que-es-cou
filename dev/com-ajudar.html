@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Com ajudar – Què es cou</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&display=swap');
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --green:     #33ff66;
+      --green-dim: #1a8c3a;
+      --green-glow:rgba(51,255,102,.25);
+      --amber:     #ffb000;
+      --bg:        #0a0f0a;
+      --card-bg:   #0d130d;
+      --border:    #1f4d2a;
+      --muted:     #6abf7a;
+      --max-w:     820px;
+    }
+
+    :root.light {
+      --green:     #1a6630;
+      --green-dim: #2e8b57;
+      --green-glow:rgba(26,102,48,.15);
+      --amber:     #b36000;
+      --bg:        #ffffff;
+      --card-bg:   #f5f5f5;
+      --border:    #c8ddd0;
+      --muted:     #4a7a5a;
+    }
+
+    .scanlines {
+      pointer-events: none;
+      position: fixed;
+      inset: 0;
+      z-index: 1;
+      background: repeating-linear-gradient(
+        to bottom,
+        transparent 0px,
+        transparent 3px,
+        rgba(0,0,0,.10) 3px,
+        rgba(0,0,0,.10) 4px
+      );
+    }
+
+    body {
+      font-family: 'IBM Plex Mono', 'Courier New', monospace;
+      background: var(--bg);
+      color: var(--green);
+      line-height: 1.5;
+      padding: 0 0 32px;
+    }
+
+    header {
+      background: var(--bg);
+      border-bottom: 2px solid var(--green);
+      padding: 10px 12px;
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      box-shadow: 0 0 18px var(--green-glow);
+    }
+    header .inner {
+      max-width: var(--max-w);
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+
+    .site-logo {
+      display: block;
+      flex-shrink: 0;
+      image-rendering: pixelated;
+      image-rendering: crisp-edges;
+    }
+    .site-logo .logo-bg { fill: var(--bg); }
+
+    header h1 {
+      font-size: clamp(1.1rem, 4vw, 1.5rem);
+      color: var(--green);
+      text-shadow: 0 0 10px var(--green), 0 0 20px var(--green-glow);
+      text-transform: uppercase;
+      letter-spacing: 2px;
+    }
+    header h1 a {
+      color: inherit;
+      text-decoration: none;
+    }
+    header h1::before { content: "> "; color: var(--amber); }
+
+    header a.back {
+      color: var(--muted);
+      font-size: 0.78rem;
+      text-decoration: none;
+      border: 1px solid var(--border);
+      padding: 3px 8px;
+      transition: color .15s, border-color .15s;
+    }
+    header a.back:hover { color: var(--green); border-color: var(--green-dim); }
+
+    #theme-toggle {
+      margin-left: auto;
+      background: none;
+      border: 1px solid var(--border);
+      color: var(--muted);
+      font-family: 'IBM Plex Mono', 'Courier New', monospace;
+      font-size: 0.72rem;
+      padding: 3px 8px;
+      cursor: pointer;
+      transition: color .15s, border-color .15s;
+    }
+    #theme-toggle:hover { color: var(--green); border-color: var(--green-dim); }
+
+    main {
+      max-width: var(--max-w);
+      margin: 0 auto;
+      padding: 24px 10px 0;
+    }
+
+    h2 {
+      font-size: clamp(0.85rem, 3vw, 1rem);
+      color: var(--amber);
+      text-shadow: 0 0 8px rgba(255,176,0,.4);
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      border-top: 1px solid var(--border);
+      padding: 8px 0 6px 0;
+      margin: 24px 0 8px;
+    }
+    h2::before { content: "## "; opacity: .6; }
+
+    .intro {
+      font-size: 0.9rem;
+      color: var(--muted);
+      margin-bottom: 20px;
+      line-height: 1.6;
+    }
+
+    .card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-left: 3px solid var(--green-dim);
+      padding: 14px 16px;
+      margin-bottom: 10px;
+    }
+
+    .card h3 {
+      font-size: 0.95rem;
+      color: var(--green);
+      margin-bottom: 6px;
+    }
+    .card h3::before { content: "> "; color: var(--amber); }
+
+    .card p {
+      font-size: 0.85rem;
+      color: var(--muted);
+      line-height: 1.6;
+    }
+
+    .card a { color: var(--green); text-decoration: none; }
+    .card a:hover { text-decoration: underline; }
+
+    footer {
+      max-width: var(--max-w);
+      margin: 24px auto 0;
+      padding: 10px 10px 0;
+      border-top: 1px solid var(--border);
+      font-size: 0.75rem;
+      color: var(--muted);
+      line-height: 1.6;
+    }
+    footer::before { content: "// "; color: var(--green-dim); }
+    footer a { color: var(--muted); text-decoration: none; }
+    footer a:hover { color: var(--green); }
+
+    :root.light .scanlines { display: none; }
+
+    @media (max-width: 480px) {
+      .card { padding: 10px 12px; }
+    }
+  </style>
+</head>
+<body>
+<div class="scanlines"></div>
+
+<header>
+  <div class="inner">
+    <svg class="site-logo" xmlns="http://www.w3.org/2000/svg"
+         viewBox="0 0 72 72" width="36" height="36"
+         aria-label="Olla – Què es cou">
+      <rect class="logo-bg" width="72" height="72"/>
+      <rect x="15" y="3"  width="3" height="6" fill="#1a8c3a"/>
+      <rect x="27" y="3"  width="3" height="6" fill="#1a8c3a"/>
+      <rect x="33" y="3"  width="3" height="6" fill="#1a8c3a"/>
+      <rect x="45" y="3"  width="3" height="6" fill="#1a8c3a"/>
+      <rect x="57" y="3"  width="3" height="6" fill="#1a8c3a"/>
+      <rect x="27" y="9"  width="3" height="3" fill="#1a8c3a"/>
+      <rect x="45" y="9"  width="3" height="3" fill="#1a8c3a"/>
+      <rect x="6"  y="15" width="6"  height="3" fill="#ffb000"/>
+      <rect x="60" y="15" width="6"  height="3" fill="#ffb000"/>
+      <rect x="3"  y="18" width="12" height="3" fill="#ffb000"/>
+      <rect x="57" y="18" width="12" height="3" fill="#ffb000"/>
+      <rect x="3"  y="21" width="12" height="3" fill="#ffb000"/>
+      <rect x="15" y="21" width="42" height="3" fill="#33ff66"/>
+      <rect x="57" y="21" width="12" height="3" fill="#ffb000"/>
+      <rect x="12" y="24" width="6"  height="3" fill="#33ff66"/>
+      <rect x="18" y="24" width="36" height="3" fill="#0a3d1a"/>
+      <rect x="54" y="24" width="6"  height="3" fill="#33ff66"/>
+      <rect x="12" y="27" width="3"  height="3" fill="#33ff66"/>
+      <rect x="15" y="27" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="18" y="27" width="36" height="3" fill="#0d8050"/>
+      <rect x="54" y="27" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="57" y="27" width="3"  height="3" fill="#33ff66"/>
+      <rect x="12" y="30" width="3"  height="3" fill="#33ff66"/>
+      <rect x="15" y="30" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="18" y="30" width="3"  height="3" fill="#0d8050"/>
+      <rect x="21" y="30" width="6"  height="3" fill="#8fff9f"/>
+      <rect x="27" y="30" width="21" height="3" fill="#0d8050"/>
+      <rect x="48" y="30" width="6"  height="3" fill="#8fff9f"/>
+      <rect x="54" y="30" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="57" y="30" width="3"  height="3" fill="#33ff66"/>
+      <rect x="12" y="33" width="3"  height="3" fill="#33ff66"/>
+      <rect x="15" y="33" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="18" y="33" width="3"  height="3" fill="#0d8050"/>
+      <rect x="21" y="33" width="6"  height="3" fill="#8fff9f"/>
+      <rect x="27" y="33" width="21" height="3" fill="#0d8050"/>
+      <rect x="48" y="33" width="6"  height="3" fill="#8fff9f"/>
+      <rect x="54" y="33" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="57" y="33" width="3"  height="3" fill="#33ff66"/>
+      <rect x="12" y="36" width="3"  height="3" fill="#33ff66"/>
+      <rect x="15" y="36" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="18" y="36" width="36" height="3" fill="#0d8050"/>
+      <rect x="54" y="36" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="57" y="36" width="3"  height="3" fill="#33ff66"/>
+      <rect x="12" y="39" width="3"  height="3" fill="#33ff66"/>
+      <rect x="15" y="39" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="18" y="39" width="9"  height="3" fill="#0d8050"/>
+      <rect x="27" y="39" width="18" height="3" fill="#33ff66"/>
+      <rect x="45" y="39" width="9"  height="3" fill="#0d8050"/>
+      <rect x="54" y="39" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="57" y="39" width="3"  height="3" fill="#33ff66"/>
+      <rect x="12" y="42" width="3"  height="3" fill="#33ff66"/>
+      <rect x="15" y="42" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="18" y="42" width="9"  height="3" fill="#0d8050"/>
+      <rect x="27" y="42" width="3"  height="3" fill="#33ff66"/>
+      <rect x="30" y="42" width="12" height="3" fill="#8fff9f"/>
+      <rect x="42" y="42" width="3"  height="3" fill="#33ff66"/>
+      <rect x="45" y="42" width="9"  height="3" fill="#0d8050"/>
+      <rect x="54" y="42" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="57" y="42" width="3"  height="3" fill="#33ff66"/>
+      <rect x="12" y="45" width="3"  height="3" fill="#33ff66"/>
+      <rect x="15" y="45" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="18" y="45" width="9"  height="3" fill="#0d8050"/>
+      <rect x="27" y="45" width="18" height="3" fill="#33ff66"/>
+      <rect x="45" y="45" width="9"  height="3" fill="#0d8050"/>
+      <rect x="54" y="45" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="57" y="45" width="3"  height="3" fill="#33ff66"/>
+      <rect x="12" y="48" width="3"  height="3" fill="#33ff66"/>
+      <rect x="15" y="48" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="18" y="48" width="36" height="3" fill="#0d8050"/>
+      <rect x="54" y="48" width="3"  height="3" fill="#0a3d1a"/>
+      <rect x="57" y="48" width="3"  height="3" fill="#33ff66"/>
+      <rect x="12" y="51" width="6"  height="3" fill="#33ff66"/>
+      <rect x="18" y="51" width="36" height="3" fill="#0a3d1a"/>
+      <rect x="54" y="51" width="6"  height="3" fill="#33ff66"/>
+      <rect x="15" y="54" width="42" height="3" fill="#33ff66"/>
+      <rect x="18" y="57" width="36" height="3" fill="#33ff66"/>
+    </svg>
+
+    <h1><a href="index.html">Què es cou</a></h1>
+    <button id="theme-toggle" aria-label="Canvia el tema">☀ clar</button>
+    <a class="back" href="index.html">&larr; Torna</a>
+  </div>
+</header>
+
+<main>
+  <p class="intro">Aquest projecte es fa amb molt poca gent. Si us ha semblat útil, aquí teniu maneres de col·laborar-hi.</p>
+
+  <h2>Difusió</h2>
+  <div class="card">
+    <h3>Comparteix i recomana</h3>
+    <p>La manera més senzilla d'ajudar és compartir <strong>aquesta pàgina</strong> a les xarxes socials, mencionar-la a grups o recomanar-la a companys i col·legues. Cada nou lector ajuda a fer créixer la comunitat.</p>
+  </div>
+
+  <h2>Fonts</h2>
+  <div class="card">
+    <h3>Revisa i amplia les fonts</h3>
+    <p>Tenim un fitxer <a href="https://github.com/jordimas/que-es-cou/blob/main/sources.yaml" target="_blank" rel="noopener"><code>sources.yaml</code></a> amb tots els feeds RSS que seguim. Si creus que falta alguna publicació, bloc o podcast rellevant en català sobre tecnologia, pots:</p>
+    <p style="margin-top:8px">
+      Escriure a <a href="mailto:jmas@softcatala.org">jmas@softcatala.org</a> o bé fer una
+      <a href="https://github.com/jordimas/que-es-cou" target="_blank" rel="noopener">pull request al repositori GitHub</a>.
+    </p>
+  </div>
+
+  <h2>AI / ML</h2>
+  <div class="card">
+    <h3>Evolucionar l'arquitectura</h3>
+    <p>Ara mateix el projecte usa un model de llenguatge gran (LLM) monolític per filtrar, categoritzar, prioritzar, traduir i resumir les notícies. L'objectiu a mitjà termini és migrar cap a una arquitectura d'agents amb models més petits i especialitzats de codi obert. Si tens coneixements d'AI/ML i t'interessa contribuir-hi, posa't en contacte.</p>
+  </div>
+
+  <h2>Altres</h2>
+  <div class="card">
+    <h3>Qualsevol altra idea</h3>
+    <p>Si tens alguna proposta que no encaixa en cap de les categories anteriors, també volem saber-ho. Disseny, accessibilitat, funcionalitat... tot és benvingut.</p>
+  </div>
+</main>
+
+<footer>
+  Contacte: <a href="mailto:jmas@softcatala.org">jmas@softcatala.org</a>
+</footer>
+
+<script>
+  const toggle = document.getElementById('theme-toggle');
+  const root = document.documentElement;
+  if (localStorage.getItem('theme') === 'light') {
+    root.classList.add('light');
+    toggle.textContent = '◾ fosc';
+  }
+  toggle.addEventListener('click', () => {
+    const isLight = root.classList.toggle('light');
+    toggle.textContent = isLight ? '◾ fosc' : '☀ clar';
+    localStorage.setItem('theme', isLight ? 'light' : 'dark');
+  });
+</script>
+
+</body>
+</html>
