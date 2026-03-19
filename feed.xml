@@ -5,205 +5,157 @@
     <link>https://jordimas.github.io/que-es-cou/</link>
     <description>Notícies de tecnologia en català, actualitzades cada 4 hores.</description>
     <language>ca</language>
-    <lastBuildDate>2026-03-19T15:17</lastBuildDate>
+    <lastBuildDate>2026-03-19T18:54</lastBuildDate>
     <atom:link href="https://jordimas.github.io/que-es-cou/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>L'FBI confirma que compra dades de localització dels ciutadans als corredors de dades</title>
-      <link>https://techcrunch.com/2026/03/18/fbi-is-buying-location-data-to-track-us-citizens-kash-patel-wyden/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/03/18/fbi-is-buying-location-data-to-track-us-citizens-kash-patel-wyden/</guid>
-      <description>El director de l'FBI ha confirmat que l'agència compra dades de localització de ciutadans nord-americans a tercers.</description>
+      <title>Meta decideix no tancar Horizon Worlds a la realitat virtual</title>
+      <link>https://techcrunch.com/2026/03/19/meta-decides-not-to-shut-down-horizon-worlds-on-vr-after-all/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/03/19/meta-decides-not-to-shut-down-horizon-worlds-on-vr-after-all/</guid>
+      <description>Meta reverteix la decisió de tancar Horizon Worlds a la VR, que estava al límit del tancament.</description>
       <author>TechCrunch</author>
-      <pubDate>2026-03-18</pubDate>
+      <pubDate>2026-03-19</pubDate>
     </item>
     <item>
-      <title>Uber i Rivian signen un acord de fins a 1.250 milions de dòlars per als robotaxis</title>
+      <title>Google permet als usuaris d'Android instal·lar apps de fora de la botiga amb més facilitat</title>
+      <link>https://techcrunch.com/2026/03/19/google-introduces-a-new-way-for-users-to-sideload-android-apps-that-still-protects-against-scams/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/03/19/google-introduces-a-new-way-for-users-to-sideload-android-apps-that-still-protects-against-scams/</guid>
+      <description>Google introdueix una nova opció de sideloading a Android que segueix protegint contra estafes.</description>
+      <author>TechCrunch</author>
+      <pubDate>2026-03-19</pubDate>
+    </item>
+    <item>
+      <title>Uber s'alia amb Rivian per construir robotaxis en un acord de fins a 1.250 milions de dòlars</title>
       <link>https://techcrunch.com/2026/03/19/uber-taps-rivian-to-build-robotaxis-in-deal-worth-up-to-1-25b/</link>
       <guid isPermaLink="true">https://techcrunch.com/2026/03/19/uber-taps-rivian-to-build-robotaxis-in-deal-worth-up-to-1-25b/</guid>
-      <description>Uber invertirà fins a 1.250 milions en Rivian per desenvolupar conjuntament vehicles autònoms de transport.</description>
+      <description>Uber inverteix 300 milions inicials i Rivian subministrarà fins a 50.000 SUV autònoms R2.</description>
       <author>TechCrunch</author>
       <pubDate>2026-03-19</pubDate>
     </item>
     <item>
-      <title>Microsoft atura la instal·lació automàtica de l'aplicació M365 Copilot a Windows</title>
-      <link>https://www.pcworld.com/article/3092496/microsoft-is-halting-forced-installs-of-microsoft-365-copilot-app.html</link>
-      <guid isPermaLink="true">https://www.pcworld.com/article/3092496/microsoft-is-halting-forced-installs-of-microsoft-365-copilot-app.html</guid>
-      <description>Microsoft ha pausat el desplegament forçat de l'app Microsoft 365 Copilot als ordinadors Windows.</description>
-      <author>PCWorld</author>
-      <pubDate>2026-03-18</pubDate>
-    </item>
-    <item>
-      <title>Google prova Search Live en més mercats arreu del món</title>
-      <link>https://www.engadget.com/ai/google-is-testing-search-live-in-more-markets-150000316.html?src=rss</link>
-      <guid isPermaLink="true">https://www.engadget.com/ai/google-is-testing-search-live-in-more-markets-150000316.html?src=rss</guid>
-      <description>Google expandeix Search Live, la funcionalitat de cerques en temps real, a nous països del món.</description>
-      <author>Engadget</author>
-      <pubDate>2026-03-18</pubDate>
-    </item>
-    <item>
-      <title>El navegador Comet de Perplexity AI ja és disponible per a iPhone</title>
-      <link>https://www.engadget.com/apps/perplexitys-comet-ai-browser-is-now-available-for-iphones-183947569.html?src=rss</link>
-      <guid isPermaLink="true">https://www.engadget.com/apps/perplexitys-comet-ai-browser-is-now-available-for-iphones-183947569.html?src=rss</guid>
-      <description>Perplexity ha llançat en accés anticipat el seu navegador Comet amb IA integrada per a iPhones.</description>
-      <author>Engadget</author>
-      <pubDate>2026-03-18</pubDate>
-    </item>
-    <item>
-      <title>Nvidia s'uneix a la iniciativa per construir centres de dades a l'espai</title>
-      <link>https://www.networkworld.com/article/4147626/nvidia-joins-push-for-data-centers-in-space.html</link>
-      <guid isPermaLink="true">https://www.networkworld.com/article/4147626/nvidia-joins-push-for-data-centers-in-space.html</guid>
-      <description>Nvidia col·labora en el desenvolupament d'infraestructures computacionals en òrbita per a aplicacions d'IA.</description>
-      <author>NetworkWorld</author>
-      <pubDate>2026-03-19</pubDate>
-    </item>
-    <item>
-      <title>Opera GX arriba a Linux per a jugadors i desenvolupadors</title>
-      <link>https://www.tomshardware.com/software/browsers/opera-gx-finally-arrives-on-linux-by-popular-demand-offers-gamers-and-developers-a-highly-customizable-browser-with-advanced-resource-management</link>
-      <guid isPermaLink="true">https://www.tomshardware.com/software/browsers/opera-gx-finally-arrives-on-linux-by-popular-demand-offers-gamers-and-developers-a-highly-customizable-browser-with-advanced-resource-management</guid>
-      <description>El navegador Opera GX, orientat a gamers, s'estrena en Linux amb gestió avançada de recursos del sistema.</description>
-      <author>Tom's Hardware</author>
-      <pubDate>2026-03-19</pubDate>
-    </item>
-    <item>
-      <title>Amazon porta Alexa+ al Regne Unit</title>
-      <link>https://techcrunch.com/2026/03/19/amazon-brings-alexa-to-the-uk/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/03/19/amazon-brings-alexa-to-the-uk/</guid>
-      <description>Amazon activa l'accés anticipat gratuït a Alexa+ al Regne Unit, el primer país fora dels EUA.</description>
+      <title>L'FBI s'apodera dels webs d'un grup de hackers proiranians després del pirateig a Stryker</title>
+      <link>https://techcrunch.com/2026/03/19/fbi-seizes-pro-iranian-hacking-groups-websites-after-destructive-stryker-hack/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/03/19/fbi-seizes-pro-iranian-hacking-groups-websites-after-destructive-stryker-hack/</guid>
+      <description>L'FBI i el Departament de Justícia tanquen els webs del grup hacktivista Handala, lligat a l'Iran.</description>
       <author>TechCrunch</author>
       <pubDate>2026-03-19</pubDate>
     </item>
     <item>
-      <title>Firefox incorpora una VPN gratuïta de 50 GB mensuals</title>
-      <link>https://www.pcworld.com/article/3092494/firefox-is-rolling-out-its-free-vpn-and-split-screen-mode-soon.html</link>
-      <guid isPermaLink="true">https://www.pcworld.com/article/3092494/firefox-is-rolling-out-its-free-vpn-and-split-screen-mode-soon.html</guid>
-      <description>Firefox afegirà una VPN integrada gratuïta de 50 GB mensuals per reforçar la privadesa dels usuaris.</description>
-      <author>PCWorld</author>
-      <pubDate>2026-03-18</pubDate>
-    </item>
-    <item>
-      <title>Anàlisi del Nothing Phone 4a Pro: el gamma mitjana que rivalitza amb el Pixel 10a</title>
-      <link>https://www.engadget.com/mobile/smartphones/nothing-phone-4a-pro-review-glyph-matrix-130042005.html?src=rss</link>
-      <guid isPermaLink="true">https://www.engadget.com/mobile/smartphones/nothing-phone-4a-pro-review-glyph-matrix-130042005.html?src=rss</guid>
-      <description>El Nothing Phone 4a Pro ofereix una experiència propera als terminals premium a un preu de gamma mitjana.</description>
-      <author>Engadget</author>
+      <title>Meta desplega nous sistemes d'IA per moderar contingut sense empreses externes</title>
+      <link>https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/</guid>
+      <description>Meta substitueix proveïdors externs de moderació per sistemes propis d'intel·ligència artificial.</description>
+      <author>TechCrunch</author>
       <pubDate>2026-03-19</pubDate>
     </item>
     <item>
-      <title>Catalunya accelera el Pacte pel Talent Digital per afrontar la manca de professionals TIC</title>
-      <link>https://www.metadata.cat/noticia/6224/catalunya-accelera-pacte-talent-digital-manca-professionals-tic</link>
-      <guid isPermaLink="true">https://www.metadata.cat/noticia/6224/catalunya-accelera-pacte-talent-digital-manca-professionals-tic</guid>
-      <description>El sector tecnològic català impulsa el Pacte pel Talent Digital per cobrir la creixent demanda de professionals TIC.</description>
-      <author>MetaData</author>
+      <title>El ChatGPT 'Mode Adult' podria obrir una nova era de vigilància íntima</title>
+      <link>https://www.wired.com/story/chatgpt-adult-mode-new-era-of-intimate-surveillance/</link>
+      <guid isPermaLink="true">https://www.wired.com/story/chatgpt-adult-mode-new-era-of-intimate-surveillance/</guid>
+      <description>OpenAI permetrà sexting amb ChatGPT; experts alerten del risc per a la privadesa dels usuaris.</description>
+      <author>Wired</author>
       <pubDate>2026-03-19</pubDate>
     </item>
     <item>
-      <title>Barcelona es posiciona com a capital del futur espacial d'Europa</title>
-      <link>https://www.metadata.cat/noticia/6221/barcelona-posiciona-capital-futur-espacial-Europa</link>
-      <guid isPermaLink="true">https://www.metadata.cat/noticia/6221/barcelona-posiciona-capital-futur-espacial-Europa</guid>
-      <description>La capital catalana reforça el seu paper estratègic en el sector aeroespacial europeu amb noves iniciatives.</description>
-      <author>MetaData</author>
-      <pubDate>2026-03-18</pubDate>
-    </item>
-    <item>
-      <title>Els estats de la UE avalen prohibir continguts sexuals generats amb IA sense consentiment</title>
-      <link>https://www.metadata.cat/noticia/6212/estats-ue-prohibir-continguts-sexuals-generats-amb-ia-sense-consentiment</link>
-      <guid isPermaLink="true">https://www.metadata.cat/noticia/6212/estats-ue-prohibir-continguts-sexuals-generats-amb-ia-sense-consentiment</guid>
-      <description>El Consell de la UE dona llum verda a la prohibició de deepfakes sexuals amb IA sense consentiment.</description>
-      <author>MetaData</author>
-      <pubDate>2026-03-16</pubDate>
-    </item>
-    <item>
-      <title>Google detecta un nou programari maliciós per a iPhone que afecta centenars de milions de dispositius</title>
-      <link>https://www.elnacional.cat/ca/tecnologia/google-detecta-nou-malware-iphone-afecta-centenars-milions-dispositius_1613430_102.html</link>
-      <guid isPermaLink="true">https://www.elnacional.cat/ca/tecnologia/google-detecta-nou-malware-iphone-afecta-centenars-milions-dispositius_1613430_102.html</guid>
-      <description>Un nou malware descobert per Google compromet la seguretat de centenars de milions d'iPhones arreu del món.</description>
-      <author>El Nacional.cat</author>
+      <title>DoorDash llança una app de tasques per generar dades d'entrenament per a la IA</title>
+      <link>https://techcrunch.com/2026/03/19/doordash-launches-a-new-tasks-app-that-pays-couriers-to-submit-videos-to-train-ai/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/03/19/doordash-launches-a-new-tasks-app-that-pays-couriers-to-submit-videos-to-train-ai/</guid>
+      <description>DoorDash crea una nova plataforma on persones fan tasques que serveixen per entrenar models d'intel·ligència artificial.</description>
+      <author>TechCrunch</author>
       <pubDate>2026-03-19</pubDate>
     </item>
     <item>
-      <title>Apple comparteix les 13 novetats d'iOS 26.4 que arribarà la setmana vinent</title>
-      <link>https://www.elnacional.cat/ca/tecnologia/apple-comparte-13-novetats-ios-264-es-llancara-setmana-ve_1613220_102.html</link>
-      <guid isPermaLink="true">https://www.elnacional.cat/ca/tecnologia/apple-comparte-13-novetats-ios-264-es-llancara-setmana-ve_1613220_102.html</guid>
-      <description>Apple anuncia les novetats de l'actualització iOS 26.4, inclosos nous emojis i correccions del teclat.</description>
-      <author>El Nacional.cat</author>
+      <title>Waymo arriba als 170 milions de milles sense accidents greus</title>
+      <link>https://www.theverge.com/transportation/896837/waymo-170-million-miles-safety-crashes-injuries</link>
+      <guid isPermaLink="true">https://www.theverge.com/transportation/896837/waymo-170-million-miles-safety-crashes-injuries</guid>
+      <description>Waymo supera els 170 milions de milles en mode autònom amb un historial de seguretat superior als humans.</description>
+      <author>The Verge</author>
       <pubDate>2026-03-19</pubDate>
     </item>
     <item>
-      <title>Jugar a Pokémon Go era una trampa: Niantic utilitza 30.000 milions de fotos per entrenar robots</title>
-      <link>https://www.elperiodico.cat/ca/tecnologia/20260317/pokemon-go-utilitza-milions-fotos-usuaris-model-mon-ia-guiar-robots-intelligencia-artificial-niantic-128059328?utm_source=rss-noticias&amp;amp;utm_medium=feed&amp;amp;utm_campaign=tecnologia</link>
-      <guid isPermaLink="true">https://www.elperiodico.cat/ca/tecnologia/20260317/pokemon-go-utilitza-milions-fotos-usuaris-model-mon-ia-guiar-robots-intelligencia-artificial-niantic-128059328?utm_source=rss-noticias&amp;amp;utm_medium=feed&amp;amp;utm_campaign=tecnologia</guid>
-      <description>Niantic ha aprofitat les imatges dels jugadors de Pokémon Go per entrenar sistemes de robòtica i IA.</description>
-      <author>El Periódico</author>
-      <pubDate>2026-03-17</pubDate>
-    </item>
-    <item>
-      <title>Neix SAGA Barcelona Game Fest, el saló de videojocs més gran del sud d'Europa</title>
-      <link>https://www.vilaweb.cat/noticies/saga-barcelona-game-fest-salo-videojocs-mes-gran-sud-europa/</link>
-      <guid isPermaLink="true">https://www.vilaweb.cat/noticies/saga-barcelona-game-fest-salo-videojocs-mes-gran-sud-europa/</guid>
-      <description>Barcelona acollirà SAGA, un nou saló de videojocs que aspira a ser el major del sud d'Europa.</description>
-      <author>VilaWeb</author>
+      <title>Els federals intensifiquen la investigació sobre el programari Full Self-Driving de Tesla</title>
+      <link>https://techcrunch.com/2026/03/19/feds-intensify-investigation-into-teslas-full-self-driving-supervised-software/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/03/19/feds-intensify-investigation-into-teslas-full-self-driving-supervised-software/</guid>
+      <description>La NHTSA amplia la investigació sobre el sistema de conducció autònoma de Tesla en condicions de poca visibilitat.</description>
+      <author>TechCrunch</author>
       <pubDate>2026-03-19</pubDate>
     </item>
     <item>
-      <title>Alcarràs allotjarà el primer centre de dades de Lleida, de 12.000 m² i 80 llocs de treball</title>
-      <link>https://www.segre.com/ca/comarques/260319/alcarrs-allotjar-el-primer-centre-de-dades-de-lleida-de-12000-m-i-amb-80-llocs-de-treball_1148024.html</link>
-      <guid isPermaLink="true">https://www.segre.com/ca/comarques/260319/alcarrs-allotjar-el-primer-centre-de-dades-de-lleida-de-12000-m-i-amb-80-llocs-de-treball_1148024.html</guid>
-      <description>Un nou centre de dades de 12.000 metres quadrats s'instal·larà a Alcarràs i crearà 80 llocs de treball.</description>
-      <author>Segre</author>
+      <title>La creadora de Signal xifra els missatges de la IA de Meta per protegir la privadesa</title>
+      <link>https://www.wired.com/story/signals-creator-is-helping-encrypt-meta-ai/</link>
+      <guid isPermaLink="true">https://www.wired.com/story/signals-creator-is-helping-encrypt-meta-ai/</guid>
+      <description>Meredith Whittaker demostra com xifrar les converses amb la Meta AI per evitar la recopilació de dades.</description>
+      <author>Wired</author>
       <pubDate>2026-03-19</pubDate>
     </item>
     <item>
-      <title>Joan Gaya, expert en IA: "No som tan intel·ligents com ens pensem"</title>
-      <link>https://www.cugat.cat/noticies/joan-gaya-expert-en-ia-no-som-tan-intelligents-com-ens-pensem/</link>
-      <guid isPermaLink="true">https://www.cugat.cat/noticies/joan-gaya-expert-en-ia-no-som-tan-intelligents-com-ens-pensem/</guid>
-      <description>L'expert en IA Joan Gaya reflexiona sobre les limitacions humanes davant l'avenç de la intel·ligència artificial.</description>
-      <author>Cugat.cat</author>
+      <title>Competència conclou que la gran apagada del 28 d'abril s'hauria pogut evitar</title>
+      <link>https://www.ara.cat/economia/energia/competencia-conclou-gran-apagada-28-d-abril-s-hauria-pogut-evitar_1_5683188.html</link>
+      <guid isPermaLink="true">https://www.ara.cat/economia/energia/competencia-conclou-gran-apagada-28-d-abril-s-hauria-pogut-evitar_1_5683188.html</guid>
+      <description>La CNMC determina que l'apagada massiva de la Península Ibèrica es podria haver evitat amb eines normatives.</description>
+      <author>Ara.cat</author>
+      <pubDate>2026-03-19</pubDate>
+    </item>
+    <item>
+      <title>'Start-ups', indústria i capital per impulsar la innovació energètica</title>
+      <link>https://www.ara.cat/especials/start-ups-industria-capital-impulsar-innovacio-energetica_1_5679766.html</link>
+      <guid isPermaLink="true">https://www.ara.cat/especials/start-ups-industria-capital-impulsar-innovacio-energetica_1_5679766.html</guid>
+      <description>Energia Connecta reuneix a Barcelona start-ups, capital i empreses per accelerar la innovació energètica.</description>
+      <author>Ara.cat</author>
       <pubDate>2026-03-18</pubDate>
     </item>
     <item>
       <title>Volvo EX60, el SUV elèctric amb més autonomia del món</title>
       <link>https://motor.ara.cat/novetats/volvo-ex60-suv-electric-mes-autonomia-mon_1_5681633.html</link>
       <guid isPermaLink="true">https://motor.ara.cat/novetats/volvo-ex60-suv-electric-mes-autonomia-mon_1_5681633.html</guid>
-      <description>El nou Volvo EX60 és presentat com el SUV elèctric amb la màxima autonomia disponible al mercat actual.</description>
+      <description>Volvo presenta el nou EX60, un SUV elèctric compacte aspiracional que competeix en el mercat europeu.</description>
       <author>Ara.cat</author>
       <pubDate>2026-03-18</pubDate>
+    </item>
+    <item>
+      <title>Jugar a Pokémon Go va ser una trampa: Niantic usa 30.000 milions de fotos per crear una còpia del món amb IA</title>
+      <link>https://www.elperiodico.cat/ca/tecnologia/20260317/pokemon-go-utilitza-milions-fotos-usuaris-model-mon-ia-guiar-robots-intelligencia-artificial-niantic-128059328?utm_source=rss-noticias&amp;amp;utm_medium=feed&amp;amp;utm_campaign=tecnologia</link>
+      <guid isPermaLink="true">https://www.elperiodico.cat/ca/tecnologia/20260317/pokemon-go-utilitza-milions-fotos-usuaris-model-mon-ia-guiar-robots-intelligencia-artificial-niantic-128059328?utm_source=rss-noticias&amp;amp;utm_medium=feed&amp;amp;utm_campaign=tecnologia</guid>
+      <description>Niantic aprofita les fotos dels jugadors de Pokémon Go per entrenar models d'IA per guiar robots.</description>
+      <author>El Periódico</author>
+      <pubDate>2026-03-17</pubDate>
+    </item>
+    <item>
+      <title>El Govern invertirà 10 milions d'euros en tecnologia quàntica per reforçar la sobirania de Catalunya</title>
+      <link>https://www.elperiodico.cat/ca/politica/20260316/govern-invertira-10-milions-euros-tecnologia-quantica-reforcar-sobirania-catalunya-seguretat-128018966?utm_source=rss-noticias&amp;amp;utm_medium=feed&amp;amp;utm_campaign=tecnologia</link>
+      <guid isPermaLink="true">https://www.elperiodico.cat/ca/politica/20260316/govern-invertira-10-milions-euros-tecnologia-quantica-reforcar-sobirania-catalunya-seguretat-128018966?utm_source=rss-noticias&amp;amp;utm_medium=feed&amp;amp;utm_campaign=tecnologia</guid>
+      <description>La Generalitat desplegarà tecnologies quàntiques per impulsar la sobirania digital i reforçar la seguretat.</description>
+      <author>El Periódico</author>
+      <pubDate>2026-03-16</pubDate>
+    </item>
+    <item>
+      <title>Un estudi del Deutsche Bank afirma que el títol universitari ja no és garantia d'èxit laboral amb la IA</title>
+      <link>https://www.elperiodico.cat/ca/economia/20260313/un-estudi-del-deutsche-bank-127925734?utm_source=rss-noticias&amp;amp;utm_medium=feed&amp;amp;utm_campaign=tecnologia</link>
+      <guid isPermaLink="true">https://www.elperiodico.cat/ca/economia/20260313/un-estudi-del-deutsche-bank-127925734?utm_source=rss-noticias&amp;amp;utm_medium=feed&amp;amp;utm_campaign=tecnologia</guid>
+      <description>Deutsche Bank alerta que la IA s'ha convertit en requisit excloent en els sectors més dinàmics de l'economia.</description>
+      <author>El Periódico</author>
+      <pubDate>2026-03-13</pubDate>
     </item>
     <item>
       <title>La música que ens ha marcat la vida – programa 657</title>
       <link>https://mossegalapoma.cat/la-musica-que-ens-ha-marcat-la-vida-programa-657/</link>
       <guid isPermaLink="true">https://mossegalapoma.cat/la-musica-que-ens-ha-marcat-la-vida-programa-657/</guid>
-      <description>El programa 657 explora la música que ha deixat petjada en la vida dels participants.</description>
+      <description>Mossega la poma parla de creació musical, IA i com la música de l'adolescència queda gravada per sempre.</description>
       <author>Mossega la poma</author>
       <pubDate>2026-03-19</pubDate>
-    </item>
-    <item>
-      <title>L'inici de Twenty Twenty-Seven</title>
-      <link>https://www.wppodcast.cat/podcast/linici-de-twenty-twenty-seven/</link>
-      <guid isPermaLink="true">https://www.wppodcast.cat/podcast/linici-de-twenty-twenty-seven/</guid>
-      <description>El podcast de WordPress en català aborda l'inici del desenvolupament del nou tema oficial Twenty Twenty-Seven.</description>
-      <author>WordPress Pòdcast</author>
-      <pubDate>2026-03-17</pubDate>
     </item>
     <item>
       <title>Les dades obertes i la transparència pública – programa 656</title>
       <link>https://mossegalapoma.cat/les-dades-obertes-i-la-transparencia-publica-programa-656/</link>
       <guid isPermaLink="true">https://mossegalapoma.cat/les-dades-obertes-i-la-transparencia-publica-programa-656/</guid>
-      <description>El programa 656 analitza com les dades obertes poden fomentar la transparència a les administracions públiques.</description>
+      <description>Mossega la poma explora la creació de contingut digital, la publicació autònoma i les dades públiques obertes.</description>
       <author>Mossega la poma</author>
       <pubDate>2026-03-13</pubDate>
     </item>
     <item>
-      <title>Panell de contribució</title>
-      <link>https://www.wppodcast.cat/podcast/panell-de-contribucio/</link>
-      <guid isPermaLink="true">https://www.wppodcast.cat/podcast/panell-de-contribucio/</guid>
-      <description>Episodi sobre el panell de contribució de WordPress i com participar-hi activament des de Catalunya.</description>
-      <author>WordPress Pòdcast</author>
-      <pubDate>2026-03-10</pubDate>
-    </item>
-    <item>
-      <title>Com la IA està revolucionant l'escriptura i la publicació de llibres – programa 655</title>
+      <title>Com la IA està revolucionant l'escriptura – Programa 655</title>
       <link>https://mossegalapoma.cat/com-la-ia-esta-revolucionant-lescriptura-i-la-publicacio-de-llibres-programa-655/</link>
       <guid isPermaLink="true">https://mossegalapoma.cat/com-la-ia-esta-revolucionant-lescriptura-i-la-publicacio-de-llibres-programa-655/</guid>
-      <description>El programa 655 examina com la intel·ligència artificial transforma l'escriptura i l'edició editorial.</description>
+      <description>Mossega la poma analitza com la intel·ligència artificial transforma la creació i publicació de llibres.</description>
       <author>Mossega la poma</author>
       <pubDate>2026-03-07</pubDate>
     </item>
@@ -211,23 +163,23 @@
       <title>Networking for AI Professionals around the world - March 25</title>
       <link>https://www.meetup.com/ai-professionals-barcelona/events/313832028/</link>
       <guid isPermaLink="true">https://www.meetup.com/ai-professionals-barcelona/events/313832028/</guid>
-      <description>Trobada internacional de professionals de la IA a Barcelona, oberta a participants de tot el món el 25 de març.</description>
+      <description>Sessió interactiva en línia de networking per a professionals de la IA d'arreu del món.</description>
       <author>AI Professionals Barcelona</author>
       <pubDate>2026-03-18</pubDate>
     </item>
     <item>
-      <title>Com usar Wikidata per visibilitzar obres digitals de domini públic</title>
+      <title>Com usar Wikidata per visibilitzar obres digitals de domini públic?</title>
       <link>https://www.meetup.com/barcelona-free-software/events/313790663/</link>
       <guid isPermaLink="true">https://www.meetup.com/barcelona-free-software/events/313790663/</guid>
-      <description>Sessió pràctica sobre l'ús de Wikidata per donar visibilitat a obres digitals de domini públic.</description>
+      <description>Xerrada sobre l'ús de Wikidata per treballar dades obertes i visibilitzar obres en domini públic.</description>
       <author>Free Software Barcelona</author>
       <pubDate>2026-03-16</pubDate>
     </item>
     <item>
-      <title>10web, una IA per crear llocs web amb WordPress</title>
+      <title>10web, una IA per crear WordPress per Aleix Martí</title>
       <link>https://www.meetup.com/wordpressbcn/events/313756353/</link>
       <guid isPermaLink="true">https://www.meetup.com/wordpressbcn/events/313756353/</guid>
-      <description>Presentació d'10web, una eina d'IA per crear i gestionar llocs web amb WordPress de manera automatitzada.</description>
+      <description>Demostració de 10web i Vibe for WordPress: crear webs completes amb IA usant uns pocs prompts.</description>
       <author>WordPress BCN</author>
       <pubDate>2026-03-12</pubDate>
     </item>
@@ -235,7 +187,7 @@
       <title>Pixelats vs. NINJA JAJAMARU: The Great Yokai Battle!!</title>
       <link>https://www.youtube.com/watch?v=PaFf_uiwGpg</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=PaFf_uiwGpg</guid>
-      <description>El canal Pixelats posa a prova el joc Ninja Jajamaru: The Great Yokai Battle!! en un nou vídeo en català.</description>
+      <description>El canal Pixelats retropassa el videojoc Ninja Jajamaru: The Great Yokai Battle en un nou vídeo.</description>
       <author>Pixelats</author>
       <pubDate>2026-03-18</pubDate>
     </item>
@@ -243,7 +195,7 @@
       <title>Llibres per repensar l'internet</title>
       <link>https://www.youtube.com/watch?v=VgTRg9bx-Js</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=VgTRg9bx-Js</guid>
-      <description>Recomanació de llibres per reflexionar sobre el paper d'internet en la societat i el seu futur.</description>
+      <description>Albert Lloreta recomana lectures per reflexionar sobre el futur i l'impacte d'internet a la societat.</description>
       <author>Albert Lloreta</author>
       <pubDate>2026-03-10</pubDate>
     </item>
