@@ -3,8 +3,8 @@ Your task is to execute the following instructions:
 **INPUT DATA**
 
 - All feed data has already been fetched and is available in per-category JSON files:
-  - output/raw_feeds_world.json -> category world
-  - output/raw_feeds_catalunya.json -> category catalunya
+  - output/raw_feeds_world_filtered.json -> category world
+  - output/raw_feeds_catalunya_filtered.json -> category catalunya
   - output/raw_feeds_podcasts.json -> category podcasts
   - output/raw_feeds_events.json -> category events
   - output/raw_feeds_videos.json -> category videos
@@ -14,20 +14,13 @@ Your task is to execute the following instructions:
   Each item has: title, link, pubDate, description.
 - Use the status and error_detail from each source directly to populate sources_checked in the output.
 
-**TECH TOPIC FILTER**
-
-The file `output/tech_topic_filter.json` contains the pre-computed list of article link_ids that pass the tech topic filter, grouped by category (`world` and `catalunya`).
-When selecting articles for `world` and `catalunya`, only consider articles whose `link_id` appears in the corresponding list in `tech_topic_filter.json`.
-
 **SELECTION CRITERIA**
 - For world category, select up to 10 articles of news stories published following this prioritization criteria by order of importance:
-  - Discard articles that do not match the 'tech topic filter' criteria
   - Discard any articles for which pubDate is older than 24 hours
   - Count how many sources mention the same story (match by similar title/topic). Sort descending by this count.
   - As a tiebreaker, sort by pubDate descending (most recent first)
   - Take the top 10 after sorting. When stories tie on both criteria, prefer the one that appears first in the input.
 - For catalunya category, select up to 10 articles of news stories published following this prioritization criteria by order of importance:
-  - Discard articles that do not match the 'tech topic filter' criteria
   - Discard any article which is not in Catalan language
   - Discard any articles for which pubDate is older than 7 days
   - Prioritize stories covered by multiple sources

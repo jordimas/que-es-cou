@@ -64,16 +64,43 @@ class ClassifierF1Metric(BaseMetric):
 
 ROOT = Path(__file__).parent.parent
 
-
 EVAL_DIR = Path(__file__).parent
 
 
-def run_classifier():
+def build_feeds_from_golden(golden: list) -> tuple[dict, dict]:
+    """Build minimal synthetic feed dicts containing only golden dataset items."""
+    by_cat: dict[str, list] = {}
+    for item in golden:
+        by_cat.setdefault(item["category"], []).append({
+            "link_id": item["link_id"],
+            "title": item["title"],
+            "description": item.get("description", ""),
+        })
+
+    def feed(cat):
+        return {"section": {"id": cat, "sources": [{"name": "golden", "items": by_cat.get(cat, [])}]}}
+
+    return feed("world"), feed("catalunya")
+
+
+def run_classifier(golden: list):
+    world_feed, cat_feed = build_feeds_from_golden(golden)
+    world_path = EVAL_DIR / "eval_feeds_world.json"
+    cat_path = EVAL_DIR / "eval_feeds_catalunya.json"
+    world_path.write_text(json.dumps(world_feed))
+    cat_path.write_text(json.dumps(cat_feed))
+
+    prompt = (ROOT / "prompts" / "tech_topic_filter.md").read_text()
+    prompt = prompt.replace("output/raw_feeds_world.json", str(world_path))
+    prompt = prompt.replace("output/raw_feeds_catalunya.json", str(cat_path))
+    prompt = prompt.replace("output/tech_topic_filter_new.json", str(EVAL_DIR / "tech_topic_filter.json"))
     subprocess.run(
-        ["claude", "--dangerously-skip-permissions", "-p", "Run the tech_topic_filter.md task"],
+        ["claude", "--dangerously-skip-permissions", "-p", prompt],
         check=True,
         cwd=EVAL_DIR,
     )
+    world_path.unlink()
+    cat_path.unlink()
     with open(EVAL_DIR / "tech_topic_filter.json") as f:
         return json.load(f)
 
@@ -83,7 +110,7 @@ def main():
         golden = json.load(f)
 
     print("Running classifier...")
-    predictions = run_classifier()
+    predictions = run_classifier(golden)
 
     test_case = LLMTestCase(
         input="Classify articles from raw feeds as tech or not-tech",

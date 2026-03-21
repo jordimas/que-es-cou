@@ -6,7 +6,7 @@ Usage:
     python render_news.py                        # news.json → news.html
     python render_news.py input.json output.html # custom paths
 
-The Jinja2 template is expected at: templates/page.html
+The Jinja2 template is expected at: static/page.jinja2
 (relative to this script, or override with --template)
 """
 
@@ -26,7 +26,7 @@ from news_utils import SECTION_LABELS, format_date_ca, load_news
 input_path    = Path(sys.argv[1]) if len(sys.argv) > 1 else Path("output/news.json")
 output_path   = Path(sys.argv[2]) if len(sys.argv) > 2 else Path("output/news.html")
 template_dir  = Path(__file__).parent / "static"
-template_name = "page.html"
+template_name = "page.jinja2"
 
 
 def source_domain(url: str) -> str:
@@ -87,7 +87,7 @@ context = {
 # ── Render ─────────────────────────────────────────────────────────────────────
 env = Environment(
     loader=FileSystemLoader(template_dir),
-    autoescape=select_autoescape(["html"]),
+    autoescape=select_autoescape(["html", "jinja2"]),
 )
 template = env.get_template(template_name)
 html = template.render(**context)

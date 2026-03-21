@@ -7,7 +7,7 @@ News aggregator that fetches RSS feeds, filters tech articles, and renders an HT
 - `fetch.py` — fetches all RSS/Atom feeds from `config/sources.yaml`, writes per-category JSON files (`raw_feeds_*.json`)
 - `prompts/prompt.md` — instructions for Claude to process feeds into `news.json` (filtering, translation, selection)
 - `prompts/tech_topic_filter.md` — instructions for Claude to classify/filter articles by tech topic
-- `render.py` — renders `news.json` to `news.html` using `page.html` Jinja2 template, also generates `feed.xml`
+- `render.py` — renders `news.json` to `news.html` using `page.jinja2` Jinja2 template, also generates `feed.xml`
 - `Makefile` — orchestrates the pipeline via `make run`: `fetch.py` → `claude` (prompts/tech_topic_filter.md) → `claude` (prompts/prompt.md) → `render.py`
 - `config/sources.yaml` — all RSS feed sources organized by category: world, catalunya, podcasts, events
 - `config/feed_age.json` — per-category max age overrides for feed fetching
