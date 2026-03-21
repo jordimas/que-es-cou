@@ -1,42 +1,71 @@
-<b>Què es cou</b> — 21 de març de 2026 10:20
+<b>Què es cou</b> — 21 de març de 2026 10:32
 https://jordimas.github.io/que-es-cou/
 
 <b>Al món</b>
-• <a href="https://gizmodo.com/pinterest-ceo-backs-social-media-ban-for-kids-under-16-2000736278">El CEO de Pinterest dóna suport a la prohibició de xarxes socials per a menors de 16 anys</a>
+• <a href="https://gizmodo.com/pinterest-ceo-backs-social-media-ban-for-kids-under-16-2000736278">El CEO de Pinterest dona suport a la prohibició de les xarxes socials per a menors de 16 anys</a>
   Gizmodo — 21 de març de 2026
-  El màxim responsable de Pinterest compara les xarxes socials amb la indústria tabaquera quant al seu impacte en menors.
-• <a href="https://github.com/jeffrey-sardina/systemd">Systemd alliberat: una bifurcació elimina dependències i simplifica el sistema</a>
+  Bill Ready compara les companyies de xarxes socials amb la indústria tabaquera pel que fa als menors.
+• <a href="https://github.com/jeffrey-sardina/systemd">Alliberat Liberated Systemd, una bifurcació lliure del gestor de serveis de Linux</a>
   Hacker News — 21 de març de 2026
-  Un projecte open source proposa una versió de systemd més lleugera i independent per a sistemes Linux.
-• <a href="https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record">Bloquejar l'Internet Archive no aturarà la IA, però esborrarà l'historial web</a>
+  Un projecte de codi obert crea una versió independent de systemd per a sistemes Linux.
+• <a href="https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record">Bloquejar l'Internet Archive no aturarà la IA, però esborrarà la memòria de la web</a>
   Hacker News — 21 de març de 2026
-  L'EFF adverteix que restringir l'arxiu digital destruiria la memòria col·lectiva d'internet sense frenar la IA.
-• <a href="https://blogs.igalia.com/llepage/ffmpeg-101/">FFmpeg 101: guia pràctica de l'eina de processament multimèdia més usada</a>
-  Hacker News — 21 de març de 2026
-  Una introducció completa als conceptes i usos de FFmpeg per a desenvolupadors i creadors de contingut.
-• <a href="https://gizmodo.com/microsoft-is-finally-ready-to-make-windows-11-less-terrible-after-bloating-it-with-ai-crap-2000736302">Microsoft promet millorar la qualitat de Windows 11 i reduir la IA forçada</a>
+  L'EFF adverteix que impedir l'accés de la IA a l'arxiu destruirà el registre històric de tot internet.
+• <a href="https://gizmodo.com/microsoft-is-finally-ready-to-make-windows-11-less-terrible-after-bloating-it-with-ai-crap-2000736302">Microsoft millora la qualitat de Windows 11 reduint la IA i millorant la cerca</a>
   Gizmodo — 20 de març de 2026
-  Menys Copilot, millor cerca i més personalització de la barra de tasques arriben a Windows 11.
-• <a href="https://gizmodo.com/stravas-fitness-app-exposed-the-real-time-location-of-a-french-aircraft-carrier-2000736266">L'aplicació Strava va revelar la posició en temps real d'un portaavions francès</a>
+  Microsoft redueix Copilot i millora la cerca i la personalització de la barra de tasques de Windows 11.
+• <a href="https://gizmodo.com/trump-proposes-a-light-touch-national-framework-for-ai-policy-2000736105">Trump proposa un marc de regulació d'IA lleuger que limita les lleis estatals</a>
   Gizmodo — 20 de març de 2026
-  Un mariner va compartir públicament el seu entrenament, permetent rastrejar els moviments del vaixell al Mediterrani.
-• <a href="https://www.axios.com/2026/03/20/white-house-ai-plan-trump-framework">La Casa Blanca publica el pla nacional d'IA de Trump amb un enfocament de mínima regulació</a>
+  La proposta federal demanarà al Congrés preempcions de les lleis estatals d'IA i inclou protecció per a menors.
+• <a href="https://gizmodo.com/stravas-fitness-app-exposed-the-real-time-location-of-a-french-aircraft-carrier-2000736266">Una app de fitness revela en temps real la posició del portaavions francès Charles de Gaulle</a>
+  Gizmodo — 20 de març de 2026
+  L'entrenament compartit públicament per un mariner a Strava va permetre localitzar el vaixell al Mediterrani.
+• <a href="https://www.axios.com/2026/03/20/white-house-ai-plan-trump-framework">La Casa Blanca publica el pla nacional d'intel·ligència artificial de Trump</a>
   Axios — 20 de març de 2026
-  El marc de quatre pàgines prioritza preempcions estatals, seguretat infantil i sandbox reguladors per a la IA.
-• <a href="https://github.com/FormerLab/fortransky">Un client de Bluesky en mode terminal escrit en Fortran</a>
+  El marc recomana al Congrés limitar la regulació estatal de la IA i establir sandboxes per a desenvolupadors.
+• <a href="https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/">Microsoft es compromet a millorar la qualitat de Windows en resposta a les crítiques</a>
   Hacker News — 20 de març de 2026
-  Projecte experimental que implementa el protocol AT de Bluesky des d'un client de terminal en Fortran.
-• <a href="https://github.com/ghostty-org/ghostling">Ghostling: un nou projecte del creador de Ghostty guanya tracció a GitHub</a>
+  El bloc oficial de Windows insiders descriu un pla per recuperar la confiança dels usuaris amb millores de qualitat.
+• <a href="https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html">Strava exposa la posició del portaavions francès al Mediterrani</a>
   Hacker News — 20 de març de 2026
-  El creador del terminal Ghostty publica un nou projecte open source que genera interès a la comunitat.
-• <a href="https://www.openui.com/blog/rust-wasm-parser">Un parser WASM reescrit de Rust a TypeScript va resultar ser més ràpid</a>
+  Le Monde va localitzar el Charles de Gaulle en temps real a partir d'un entrenament publicat a la xarxa social.
+• <a href="https://www.openui.com/blog/rust-wasm-parser">Un parser de Rust WASM reescrit en TypeScript resulta ser més ràpid</a>
   Hacker News — 20 de març de 2026
-  L'equip d'OpenUI va descobrir que la versió TypeScript superava el rendiment de la implementació en Rust i WASM.
+  L'equip d'OpenUI explica com la migració de Rust WASM a TypeScript va millorar sorprenentment el rendiment.
 
 <b>Països Catalans</b>
-• <a href="https://www.rac1.cat/societat/20260320/332966/experts-europeus-atribueixen-l-apagada-fallada-control-tensio-cascada-desconnexions.html">Experts europeus atribueixen l'apagada de l'abril a fallades en el control de tensió</a>
+• <a href="https://www.lavanguardia.com/encatala/20260321/11495472/militar-revela-strava-posicio-charles-gaulle.html">Un militar revela a Strava la posició del portaavions Charles de Gaulle</a>
+  La Vanguardia (en català) — 21 de març de 2026
+  Un oficial va compartir el seu entrenament a coberta i va exposar involuntàriament la posició del vaixell.
+• <a href="https://www.lavanguardia.com/encatala/20260321/11495572/els-experts-europeus-demanen-canvis-tots-els-actors-per-evitar-altra-apagada.html">Els experts europeus demanen canvis a tots els actors per evitar una altra apagada</a>
+  La Vanguardia (en català) — 21 de març de 2026
+  L'informe ENTSO-E apunta que legislació, renovables, distribuïdores i operador del sistema van fallar el 28 d'abril.
+• <a href="https://www.3cat.cat/3catinfo/crisi-del-petroli-catalunya-pot-aprofitar-per-liderar-la-ia-o-perdre-el-tren-definitivament/noticia/3400033/">Crisi del petroli: Catalunya pot aprofitar per liderar la IA o perdre el tren definitivament</a>
+  324.cat — 21 de març de 2026
+  Experts defensen que apostar pel coneixement i una estratègia clara de país és clau per al futur de la IA.
+• <a href="https://www.elnacional.cat/ca/internacional/jessica-foster-influencer-pro-trump-mai-ha-existit-ia-enganya-milers-seguidors_1614432_102.html">Jessica Foster, la influencer pro-Trump que mai ha existit: una IA enganya milers de seguidors</a>
+  El Nacional.cat — 21 de març de 2026
+  El cas evidencia l'ús creixent de perfils generats artificialment per difondre missatges polítics a les xarxes.
+• <a href="https://www.3cat.cat/3catinfo/la-deixadesa-dun-mariner-a-lapp-strava-revela-la-ubicacio-del-portaavions-charles-de-gaulle/noticia/3400848/">La deixadesa d'un mariner a Strava revela la ubicació del portaavions Charles de Gaulle</a>
+  324.cat — 20 de març de 2026
+  El mariner va sortir a córrer sobre el pont i va compartir la cursa públicament a la xarxa social esportiva.
+• <a href="https://www.rac1.cat/societat/20260320/332966/experts-europeus-atribueixen-l-apagada-fallada-control-tensio-cascada-desconnexions.html">Experts europeus atribueixen l'apagada elèctrica a una fallada en el control de tensió</a>
   RAC1 — 20 de març de 2026
-  L'informe final d'ENTSO-E descarta una sola causa i apunta a una combinació de factors múltiples en el col·lapse.
-• <a href="https://www.ara.cat/especials/start-ups-industria-capital-impulsar-innovacio-energetica_1_5679766.html">'Start-ups', indústria i capital es reuneixen per impulsar la innovació energètica a Barcelona</a>
-  Ara.cat — 18 de març de 2026
-  L'Energia Connecta al Hub BStartup analitza com accelerar la innovació en un sector tecnològicament complex.
+  L'informe final d'ENTSO-E assenyala una combinació de factors múltiples i descarta un únic origen del col·lapse.
+• <a href="https://www.3cat.cat/3catinfo/lapagada-dinternet-bloqueja-negocis-i-projectes-personals-dels-joves-iranians/noticia/3400664/">L'apagada d'internet bloqueja negocis i projectes personals dels joves iranians</a>
+  324.cat — 20 de març de 2026
+  El bloqueig de la xarxa per la guerra perjudica dissenyadors, emprenedors i professionals digitals que treballen en línia.
+• <a href="https://www.vilaweb.cat/noticies/girona-contenidors-intelligents-arees-temporals/">Girona crea uns clauers per obrir els contenidors intel·ligents i les àrees temporals</a>
+  VilaWeb — 20 de març de 2026
+  El nou sistema complementa la targeta de reciclatge i es podrà sol·licitar a partir del dilluns vinent.
+• <a href="https://www.vilaweb.cat/noticies/govern-suport-central-reversible-baells-energetica/">El govern donarà suport a la central reversible de la Baells per a la sobirania energètica</a>
+  VilaWeb — 20 de març de 2026
+  La consellera Paneque defensa el projecte hidroelèctric com a clau per estabilitzar els preus energètics.
+
+<b>Podcasts</b>
+• <a href="https://podcasts.cat/36/33892317/">L'altra ràdio – El periodisme i la Guerra del Sudan</a>
+  L'altra ràdio — 19 de març de 2026
+  Reflexió sobre el periodisme en un conflicte on una vintena de reporters han mort informant-ne.
+• <a href="https://podcasts.cat/36/33868712/">L'altra ràdio – Què és l'agnotologia algorítmica</a>
+  L'altra ràdio — 12 de març de 2026
+  Una investigadora del Barcelona Supercomputing Center explica com els algorismes produeixen ignorància deliberada.
