@@ -1,76 +1,106 @@
 world:
   - name: TechCrunch
     url: https://techcrunch.com/feed/
+    tech: true
   - name: Ars Technica
     url: https://feeds.arstechnica.com/arstechnica/technology-lab
+    tech: true
   - name: The Verge
     url: https://www.theverge.com/rss/index.xml
+    tech: true
   - name: Wired
     url: https://www.wired.com/feed/rss
+    tech: true
   - name: MIT Technology Review
     url: https://www.technologyreview.com/feed/
+    tech: true
   - name: Engadget
     url: https://www.engadget.com/rss.xml
+    tech: true
   - name: ZDNet
     url: https://www.zdnet.com/news/rss.xml
+    tech: true
   - name: VentureBeat
     url: https://feeds.feedburner.com/venturebeat/SZYF
+    tech: true
   - name: CNET
     url: https://www.cnet.com/rss/news/
+    tech: true
   - name: MacRumors
     url: https://feeds.macrumors.com/MacRumors-All
+    tech: true
   - name: 9to5Mac
     url: https://9to5mac.com/feed/
+    tech: true
   - name: 9to5Google
     url: https://9to5google.com/feed/
+    tech: true
   - name: Android Authority
     url: https://www.androidauthority.com/feed/
+    tech: true
   - name: Tom's Hardware
     url: https://www.tomshardware.com/feeds/all
+    tech: true
   - name: AnandTech
     url: https://www.anandtech.com/rss/
+    tech: true
   - name: PCWorld
     url: https://www.pcworld.com/index.rss
+    tech: true
   - name: Digital Trends
     url: https://www.digitaltrends.com/feed/
+    tech: true
   - name: The Guardian Tech
     url: https://www.theguardian.com/technology/rss
+    tech: true
   - name: BBC Technology
     url: https://feeds.bbci.co.uk/news/technology/rss.xml
+    tech: true
   - name: NYT Technology
     url: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
+    tech: true
   - name: Bloomberg Technology
     url: https://feeds.bloomberg.com/technology/news.rss
+    tech: true
   - name: Axios
     url: https://www.axios.com/feeds/feed.rss
   - name: Wall Street Journal Tech
     url: https://feeds.a.dj.com/rss/RSSWSJD.xml
   - name: The Next Web
     url: https://www.thenextweb.com/feed/
+    tech: true
   - name: TechRadar
     url: https://www.techradar.com/feeds/articletype/news
+    tech: true
   - name: Gizmodo
     url: https://www.gizmodo.com/feed/rss
   - name: Slashdot
     url: https://slashdot.org/rss/slashdot.rss
+    tech: true
   - name: The Register
     url: https://www.theregister.com/headlines.atom
+    tech: true
   - name: Hacker News
     url: https://news.ycombinator.com/rss
   - name: Phoronix
     url: https://www.phoronix.com/rss.php
+    tech: true
   - name: NetworkWorld
     url: https://www.networkworld.com/feed/
+    tech: true
   - name: InfoWorld
     url: https://www.infoworld.com/feed/
+    tech: true
   - name: Computerworld
     url: https://www.computerworld.com/feed/
+    tech: true
 
 catalunya:
   - name: Ara.cat
     url: https://www.ara.cat/rss/
   - name: El Periódico
     url: https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml
+    tech: true
   - name: RAC1
     url: https://www.rac1.cat/rss/home.xml
   - name: La Vanguardia (en català)
@@ -83,6 +113,7 @@ catalunya:
     url: https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0
   - name: Softcatalà
     url: https://www.softcatala.org/feed/
+    tech: true
   - name: El Nacional.cat
     url: https://www.elnacional.cat/uploads/feeds/feed_ca.xml
   - name: El Mon.cat
@@ -125,6 +156,7 @@ catalunya:
     url: https://www.bondia.cat/?feed=rss2
   - name: MetaData
     url: https://www.metadata.cat/sindica
+    tech: true
   - name: El Temps
     url: https://www.eltemps.cat/sindica
   - name: Àpunt
@@ -145,6 +177,7 @@ catalunya:
     url: https://www.viaempresa.cat/uploads/feeds/feed_via-empresa-2024_ca.xml
   - name: Lúdica
     url: https://ludica.cat/feed/
+    tech: true
 
 podcasts:
   - name: La Base

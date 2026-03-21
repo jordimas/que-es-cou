@@ -3,11 +3,11 @@ Your task is to execute the following instructions:
 **INPUT DATA**
 
 - All feed data has already been fetched and is available in per-category JSON files:
-  - raw_feeds_world.json -> category world
-  - raw_feeds_catalunya.json -> category catalunya
-  - raw_feeds_podcasts.json -> category podcasts
-  - raw_feeds_events.json -> category events
-  - raw_feeds_videos.json -> category videos
+  - output/raw_feeds_world.json -> category world
+  - output/raw_feeds_catalunya.json -> category catalunya
+  - output/raw_feeds_podcasts.json -> category podcasts
+  - output/raw_feeds_events.json -> category events
+  - output/raw_feeds_videos.json -> category videos
 - Do not fetch any URLs yourself. Use only the data in these files.
 - Each file contains a "fetched_at" timestamp and a "section" object with an "id" and a list of sources.
   Each source has: name, url, status (ok/blocked/error), optional error_detail, and an items array.
@@ -16,23 +16,8 @@ Your task is to execute the following instructions:
 
 **TECH TOPIC FILTER**
 
-An article counts as "about technology" if its title and description are primarily about one of these topics:
-- Software, apps, platforms, operating systems, programming
-- Hardware, chips, devices, computers, smartphones, peripherals
-- AI, machine learning, robotics, automation
-- Cybersecurity, hacking, privacy, data breaches
-- Internet, networking, cloud, data centers
-- Electric vehicles, drones, space tech, biotech, cleantech
-- Startups, tech companies, tech industry news, funding rounds in tech
-- Science with direct tech application
-
-An article does NOT count as tech if it is primarily about:
-- Politics, elections, government (unless the story is specifically about tech regulation or surveillance tech)
-- Sports, culture, entertainment, tourism
-- General economy, real estate, cost of living (unless specifically about the tech industry)
-- Health or medicine (unless it is about a specific medical device, health app, or biotech product)
-
-When in doubt, exclude the article.
+The file `output/tech_topic_filter.json` contains the pre-computed list of article link_ids that pass the tech topic filter, grouped by category (`world` and `catalunya`).
+When selecting articles for `world` and `catalunya`, only consider articles whose `link_id` appears in the corresponding list in `tech_topic_filter.json`.
 
 **SELECTION CRITERIA**
 - For world category, select up to 10 articles of news stories published following this prioritization criteria by order of importance:
@@ -77,7 +62,7 @@ When in doubt, exclude the article.
 - "date" is the article's publication date in YYYY-MM-DD format, taken from the RSS <pubDate> or <dc:date> tag. Never infer the date from context.
 - "time" is the article's publication time in HH:MM format (24h), taken from the same tag. Use "00:00" if not present.
 - Output nothing except the JSON object — no markdown, no code fences, no explanation, no HTML, no trailing text
-- Filename is news.json
+- Filename is output/news.json
 - The JSON must strictly follow this schema:
 
 {

@@ -13,15 +13,19 @@ import sys
 import time
 import xml.etree.ElementTree as ET
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
+from email.utils import parsedate_to_datetime
 from pathlib import Path
 
 import httpx
 import yaml
 
 # ── CLI args ───────────────────────────────────────────────────────────────────
-sources_path = Path(sys.argv[1]) if len(sys.argv) > 1 else Path("sources.yaml")
-output_dir   = Path(sys.argv[2]) if len(sys.argv) > 2 else Path(".")
+sources_path = Path(sys.argv[1]) if len(sys.argv) > 1 else Path("config/sources.yaml")
+output_dir   = Path(sys.argv[2]) if len(sys.argv) > 2 else Path("output")
+
+feed_age_path = sources_path.parent / "feed_age.json"
+FEED_AGE = json.loads(feed_age_path.read_text()) if feed_age_path.exists() else {}
 
 HEADERS = {
     "User-Agent": (
@@ -134,6 +138,21 @@ def fetch_source(client: httpx.Client, name: str, url: str, retries: int = 2) ->
     return result
 
 
+def filter_by_age(items: list[dict], max_days: int) -> list[dict]:
+    cutoff = datetime.now(timezone.utc) - timedelta(days=max_days)
+    result = []
+    for item in items:
+        try:
+            pub = parsedate_to_datetime(item.get("pubDate", ""))
+            if pub.tzinfo is None:
+                pub = pub.replace(tzinfo=timezone.utc)
+            if pub >= cutoff:
+                result.append(item)
+        except Exception:
+            result.append(item)  # keep items with unparseable dates
+    return result
+
+
 def fetch_section(section_id: str, sources: list[dict]) -> dict:
     """Fetch all sources for a section concurrently."""
     with httpx.Client(headers=HEADERS, timeout=TIMEOUT, follow_redirects=True) as client:
@@ -142,15 +161,19 @@ def fetch_section(section_id: str, sources: list[dict]) -> dict:
                 executor.submit(fetch_source, client, s["name"], s["url"]): s
                 for s in sources
             }
-            results = [f.result() for f in as_completed(futures)]
+            tech_flags = {s["name"]: s.get("tech", False) for s in sources}
+    results = [f.result() for f in as_completed(futures)]
+    for r in results:
+        if tech_flags.get(r["name"]):
+            r["tech"] = True
 
     # Preserve original source order
     order = {s["name"]: i for i, s in enumerate(sources)}
     results.sort(key=lambda r: order[r["name"]])
 
     ok = sum(1 for r in results if r["status"] == "ok")
-    total_items = sum(len(r["items"]) for r in results)
-    print(f"  [{section_id}] {ok}/{len(sources)} sources ok, {total_items} items total")
+    total_items = sum(len(r.get("items", [])) for r in results)
+    print(f"  [{section_id}] {ok}/{len(sources)} sources ok, {total_items} items fetched")
     for r in results:
         if r["status"] != "ok":
             print(f"    [{r['status']}] {r['name']} ({r['url']}): {r.get('error_detail', '')}")
@@ -163,12 +186,15 @@ try:
 except FileNotFoundError:
     sys.exit(f"Error: '{sources_path}' not found.")
 
+output_dir.mkdir(exist_ok=True)
+
 SECTION_IDS = ["world", "catalunya", "podcasts", "events", "videos"]
 
 fetched_at = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M")
 print(f"Fetching feeds at {fetched_at} ...")
 
 links = {}
+tech_approved = {}  # section_id -> [link_ids] pre-approved from tech: true sources
 
 for section_id in SECTION_IDS:
     section_sources = sources_data.get(section_id, [])
@@ -176,13 +202,28 @@ for section_id in SECTION_IDS:
         print(f"  [{section_id}] no sources defined, skipping")
         continue
     section = fetch_section(section_id, section_sources)
+    max_days = FEED_AGE.get(section_id, {}).get("days")
+    approved = []
     for source in section["sources"]:
+        if max_days:
+            source["items"] = filter_by_age(source.get("items", []), max_days)
+        is_tech = source.get("tech", False)
         for item in source.get("items", []):
             link = item.get("link", "")
             if link:
                 link_id = "c_" + hashlib.sha1(link.encode()).hexdigest()[-6:]
                 links[link_id] = link
                 item["link_id"] = link_id
+            if is_tech and item.get("link_id"):
+                approved.append(item["link_id"])
+        # Remove tech: true items from source so they don't enter the classifier
+        if is_tech:
+            source["items"] = []
+    if approved:
+        tech_approved[section_id] = approved
+    if max_days:
+        kept = sum(len(s.get("items", [])) for s in section["sources"])
+        print(f"  [{section_id}] {kept} items need classification, {len(approved)} auto-approved")
     out_path = output_dir / f"raw_feeds_{section_id}.json"
     out_path.write_text(
         json.dumps({"fetched_at": fetched_at, "section": section}, ensure_ascii=False, indent=2),
@@ -193,3 +234,7 @@ for section_id in SECTION_IDS:
 links_path = output_dir / "links.json"
 links_path.write_text(json.dumps(links, ensure_ascii=False, indent=2), encoding="utf-8")
 print(f"  Written to '{links_path}'")
+
+approved_path = output_dir / "tech_approved.json"
+approved_path.write_text(json.dumps(tech_approved, ensure_ascii=False, indent=2), encoding="utf-8")
+print(f"  Written to '{approved_path}'")

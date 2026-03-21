@@ -146,7 +146,7 @@ def main():
     send_only = "--send-only" in sys.argv
     save_only = "--save-only" in sys.argv
 
-    base = Path(__file__).parent
+    base = Path(__file__).parent / "output"
     telegram_json_path = base / "telegram.json"
     news_telegram_path = base / "news.telegram"
 
@@ -185,7 +185,7 @@ def main():
         return
 
     # ── Save-only mode: update telegram.json, do not send ─────────────────────
-    data, sections = load_news(base)
+    data, sections = load_news(Path(__file__).parent / "output")
 
     sent_hashes = load_sent_hashes(telegram_json_path)
 

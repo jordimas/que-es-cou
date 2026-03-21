@@ -4,16 +4,18 @@ News aggregator that fetches RSS feeds, filters tech articles, and renders an HT
 
 ## Architecture
 
-- `fetch.py` — fetches all RSS/Atom feeds from `sources.yaml`, writes per-category JSON files (`raw_feeds_*.json`)
-- `prompt.md` — instructions for Claude to process feeds into `news.json` (filtering, translation, selection)
+- `fetch.py` — fetches all RSS/Atom feeds from `config/sources.yaml`, writes per-category JSON files (`raw_feeds_*.json`)
+- `prompts/prompt.md` — instructions for Claude to process feeds into `news.json` (filtering, translation, selection)
+- `prompts/tech_topic_filter.md` — instructions for Claude to classify/filter articles by tech topic
 - `render.py` — renders `news.json` to `news.html` using `page.html` Jinja2 template, also generates `feed.xml`
-- `run.sh` — orchestrates the pipeline: `fetch.py` → `claude` (prompt.md task) → `render.py`
-- `sources.yaml` — all RSS feed sources organized by category: world, catalunya, podcasts, events
+- `Makefile` — orchestrates the pipeline via `make run`: `fetch.py` → `claude` (prompts/tech_topic_filter.md) → `claude` (prompts/prompt.md) → `render.py`
+- `config/sources.yaml` — all RSS feed sources organized by category: world, catalunya, podcasts, events
+- `config/feed_age.json` — per-category max age overrides for feed fetching
 
 ## Pipeline
 
 ```
-sources.yaml → fetch.py → raw_feeds_*.json → claude (prompt.md) → news.json → render.py → news.html + feed.xml
+config/sources.yaml → fetch.py → raw_feeds_*.json → claude (prompts/tech_topic_filter.md) → claude (prompts/prompt.md) → news.json → render.py → news.html + feed.xml
 ```
 
 ## Categories
@@ -23,7 +25,7 @@ sources.yaml → fetch.py → raw_feeds_*.json → claude (prompt.md) → news.j
 - **podcasts** — Catalan tech podcasts (all episodes within 15 days)
 - **events** — Barcelona tech meetups/events
 
-## Key rules (from prompt.md)
+## Key rules (from prompts/prompt.md)
 
 - All output (titles, summaries) must be in Catalan
 - Summaries max 20 words
@@ -41,10 +43,10 @@ pip install -r requirements.txt
 
 Run the full pipeline:
 ```bash
-bash run.sh
+make run
 ```
 
-The `run.sh` calls `claude --dangerously-skip-permissions -p "Run the prompt.md task"`.
+The `Makefile` calls `claude --dangerously-skip-permissions -p "Run the prompts/prompt.md task"`.
 
 ## CI/CD
 

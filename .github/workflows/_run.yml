@@ -36,7 +36,7 @@ jobs:
         run: |
           BRANCH=${{ inputs.branch }}
           git fetch origin storage --depth=1 2>/dev/null || true
-          git checkout origin/storage -- ${BRANCH}/telegram.json 2>/dev/null && mv ${BRANCH}/telegram.json telegram.json || echo "telegram.json not found in storage branch, starting fresh"
+          git show origin/storage:${BRANCH}/telegram.json 2>/dev/null > /tmp/telegram.json && mkdir -p output && cp /tmp/telegram.json output/telegram.json || echo "telegram.json not found in storage branch, starting fresh"
 
       - name: Install Claude CLI
         run: npm install -g @anthropic-ai/claude-code
@@ -52,7 +52,7 @@ jobs:
       - name: Run script
         env:
           TZ: Europe/Madrid
-        run: bash run.sh
+        run: make run
 
       - name: Update telegram.json with new hashes
         run: python telegram.py --save-only
@@ -62,7 +62,7 @@ jobs:
           BRANCH=${{ inputs.branch }}
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          cp telegram.json /tmp/telegram.json
+          cp output/telegram.json /tmp/telegram.json
           if git fetch origin storage --depth=1 2>/dev/null; then
             git checkout -B storage origin/storage
           else
@@ -84,14 +84,17 @@ jobs:
         run: python telegram.py --send-only
 
       - name: Rename news.html to index.html
-        run: mv ${{ github.workspace }}/news.html ${{ github.workspace }}/index.html
+        run: mv ${{ github.workspace }}/output/news.html ${{ github.workspace }}/output/index.html
+
+      - name: Copy static files to output
+        run: cp ${{ github.workspace }}/static/*.html ${{ github.workspace }}/static/robots.txt ${{ github.workspace }}/output/
 
       - name: Deploy to gh-pages branch
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: gh-pages
-          publish_dir: ${{ github.workspace }}
+          publish_dir: ${{ github.workspace }}/output
           destination_dir: ${{ inputs.deploy_dir }}
-          exclude_assets: '.github,*.py,*.sh,*.yaml,*.md,requirements.txt,*.json'
+          exclude_assets: '*.json'
           keep_files: true

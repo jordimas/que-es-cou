@@ -23,9 +23,9 @@ from jinja2 import Environment, FileSystemLoader, select_autoescape
 from news_utils import SECTION_LABELS, format_date_ca, load_news
 
 # ── CLI args ───────────────────────────────────────────────────────────────────
-input_path    = Path(sys.argv[1]) if len(sys.argv) > 1 else Path("news.json")
-output_path   = Path(sys.argv[2]) if len(sys.argv) > 2 else Path("news.html")
-template_dir  = Path(__file__).parent
+input_path    = Path(sys.argv[1]) if len(sys.argv) > 1 else Path("output/news.json")
+output_path   = Path(sys.argv[2]) if len(sys.argv) > 2 else Path("output/news.html")
+template_dir  = Path(__file__).parent / "static"
 template_name = "page.html"
 
 

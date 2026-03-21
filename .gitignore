@@ -1,0 +1,6 @@
+output/
+python3-env/
+__pycache__/
+.env
+*.db
+*.swp
