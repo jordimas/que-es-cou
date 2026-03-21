@@ -5,93 +5,101 @@
     <link>https://jordimas.github.io/que-es-cou/</link>
     <description>Notícies de tecnologia en català, actualitzades cada 4 hores.</description>
     <language>ca</language>
-    <lastBuildDate>2026-03-21T06:57</lastBuildDate>
+    <lastBuildDate>2026-03-21T10:44</lastBuildDate>
     <atom:link href="https://jordimas.github.io/que-es-cou/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Microsoft retalla el 'bloat' de Copilot a Windows 11</title>
-      <link>https://www.digitaltrends.com/computing/microsoft-is-cutting-down-copilot-bloat-in-windows-11/</link>
-      <guid isPermaLink="true">https://www.digitaltrends.com/computing/microsoft-is-cutting-down-copilot-bloat-in-windows-11/</guid>
-      <description>Microsoft redueix les integracions de Copilot arran de les crítiques dels usuaris per una experiència d'IA menys intrusiva.</description>
-      <author>Digital Trends</author>
+      <title>La Casa Blanca proposa un marc federal de política d'IA per sobre de les lleis estatals</title>
+      <link>https://www.engadget.com/ai/the-white-house-proposes-new-ai-policy-framework-that-supersedes-state-laws-192251995.html?src=rss</link>
+      <guid isPermaLink="true">https://www.engadget.com/ai/the-white-house-proposes-new-ai-policy-framework-that-supersedes-state-laws-192251995.html?src=rss</guid>
+      <description>L'administració Trump vol regular la IA federalment, derogant normatives estatals existents sobre tecnologia.</description>
+      <author>Engadget</author>
       <pubDate>2026-03-20</pubDate>
     </item>
     <item>
-      <title>Amazon vol tornar a fabricar un telèfon mòbil</title>
+      <title>Microsoft per fi vol millorar Windows 11 després d'inflar-lo amb IA</title>
+      <link>https://gizmodo.com/microsoft-is-finally-ready-to-make-windows-11-less-terrible-after-bloating-it-with-ai-crap-2000736302</link>
+      <guid isPermaLink="true">https://gizmodo.com/microsoft-is-finally-ready-to-make-windows-11-less-terrible-after-bloating-it-with-ai-crap-2000736302</guid>
+      <description>Microsoft planeja reduir el Copilot, millorar la cerca i permetre personalitzar millor la barra de tasques.</description>
+      <author>Gizmodo</author>
+      <pubDate>2026-03-20</pubDate>
+    </item>
+    <item>
+      <title>La superaplicació d'escriptori d'OpenAI: el final de ChatGPT tal com el coneixem?</title>
+      <link>https://www.infoworld.com/article/4148232/openais-desktop-superapp-the-end-of-chatgpt-as-we-know-it-2.html</link>
+      <guid isPermaLink="true">https://www.infoworld.com/article/4148232/openais-desktop-superapp-the-end-of-chatgpt-as-we-know-it-2.html</guid>
+      <description>OpenAI fusionaria ChatGPT, Codex i el seu navegador d'IA en una única aplicació d'escriptori.</description>
+      <author>InfoWorld</author>
+      <pubDate>2026-03-20</pubDate>
+    </item>
+    <item>
+      <title>El cofundador de Super Micro, acusat de contraban de xips Nvidia cap a la Xina</title>
+      <link>https://www.bloomberg.com/news/videos/2026-03-20/bloomberg-tech-3-20-2026-video</link>
+      <guid isPermaLink="true">https://www.bloomberg.com/news/videos/2026-03-20/bloomberg-tech-3-20-2026-video</guid>
+      <description>Les autoritats nord-americanes acusen el cofundador de Super Micro de desviar servidors Nvidia il·legalment a la Xina.</description>
+      <author>Bloomberg Technology</author>
+      <pubDate>2026-03-20</pubDate>
+    </item>
+    <item>
+      <title>iOS 26.4 incorpora ginys de música per estats d'ànim a la pantalla d'inici de l'iPhone</title>
+      <link>https://www.digitaltrends.com/computing/ios-26-4-brings-mood-based-music-widgets-to-your-iphones-home-screen/</link>
+      <guid isPermaLink="true">https://www.digitaltrends.com/computing/ios-26-4-brings-mood-based-music-widgets-to-your-iphones-home-screen/</guid>
+      <description>Apple afegeix ginys d'Ambient Music basats en estats d'ànim que s'executen directament des de la pantalla d'inici.</description>
+      <author>Digital Trends</author>
+      <pubDate>2026-03-21</pubDate>
+    </item>
+    <item>
+      <title>Fire Phone 2.0? Amazon vol una segona oportunitat amb un nou smartphone</title>
       <link>https://www.androidauthority.com/amazon-transformer-phone-3650860/</link>
       <guid isPermaLink="true">https://www.androidauthority.com/amazon-transformer-phone-3650860/</guid>
-      <description>Amazon prepara un nou smartphone una dècada després del fracàs del Fire Phone, amb IA com a element central.</description>
+      <description>Amazon treballaria en un nou telèfon potenciat per Alexa, una dècada després del fracàs del primer Fire Phone.</description>
       <author>Android Authority</author>
+      <pubDate>2026-03-20</pubDate>
+    </item>
+    <item>
+      <title>Una nova versió del Nintendo Switch 2 per a la UE podria tenir bateria reemplaçable</title>
+      <link>https://www.theverge.com/games/898313/nintendo-switch-2-eu-replaceable-battery</link>
+      <guid isPermaLink="true">https://www.theverge.com/games/898313/nintendo-switch-2-eu-replaceable-battery</guid>
+      <description>Nintendo publicaria una revisió del Switch 2 per al mercat europeu amb bateria substituïble pels mateixos usuaris.</description>
+      <author>The Verge</author>
+      <pubDate>2026-03-20</pubDate>
+    </item>
+    <item>
+      <title>La Steam Machine de Valve rep suport inicial a SteamOS 3.8.0</title>
+      <link>https://www.techradar.com/gaming/steam-deck/valves-steam-machine-gets-its-first-support-update-ahead-of-launch-via-steamos-preview-3-8-0-and-it-includes-one-major-fix-ive-been-waiting-for</link>
+      <guid isPermaLink="true">https://www.techradar.com/gaming/steam-deck/valves-steam-machine-gets-its-first-support-update-ahead-of-launch-via-steamos-preview-3-8-0-and-it-includes-one-major-fix-ive-been-waiting-for</guid>
+      <description>Valve llança una previsualització de SteamOS 3.8.0 amb suport de maquinari inicial per a la seva Steam Machine.</description>
+      <author>TechRadar</author>
       <pubDate>2026-03-20</pubDate>
     </item>
     <item>
       <title>Blue Origin de Jeff Bezos entra al negoci dels centres de dades espacials</title>
       <link>https://techcrunch.com/2026/03/20/jeff-bezos-blue-origin-enters-the-space-data-center-game/</link>
       <guid isPermaLink="true">https://techcrunch.com/2026/03/20/jeff-bezos-blue-origin-enters-the-space-data-center-game/</guid>
-      <description>El projecte 'Sunrise' preveu més de 50.000 satèl·lits per executar càlcul d'alta energia en òrbita.</description>
+      <description>El "Projecte Sunrise" inclouria més de 50.000 satèl·lits per fer computació d'alta energia a l'òrbita.</description>
       <author>TechCrunch</author>
       <pubDate>2026-03-20</pubDate>
     </item>
     <item>
-      <title>Microsoft demana als usuaris que expliquin els problemes de Windows</title>
-      <link>https://www.pcworld.com/article/3095058/microsoft-wants-to-know-whats-wrong-with-windows-tell-them.html</link>
-      <guid isPermaLink="true">https://www.pcworld.com/article/3095058/microsoft-wants-to-know-whats-wrong-with-windows-tell-them.html</guid>
-      <description>Microsoft activa el Feedback Hub per recollir directament les queixes dels usuaris sobre Windows 11.</description>
-      <author>PCWorld</author>
+      <title>Guia de compra: MacBook Air M5 contra MacBook Pro M5</title>
+      <link>https://www.macrumors.com/guide/m5-macbook-air-vs-m5-macbook-pro/</link>
+      <guid isPermaLink="true">https://www.macrumors.com/guide/m5-macbook-air-vs-m5-macbook-pro/</guid>
+      <description>Els dos models incorporen el xip M5; la guia compara rendiment, preu i casos d'ús de cada opció.</description>
+      <author>MacRumors</author>
       <pubDate>2026-03-20</pubDate>
     </item>
     <item>
-      <title>Google Missatges afegeix mencions i recuperació de xats eliminats</title>
-      <link>https://www.digitaltrends.com/phones/google-messages-adds-two-features-your-group-chats-desperately-needed/</link>
-      <guid isPermaLink="true">https://www.digitaltrends.com/phones/google-messages-adds-two-features-your-group-chats-desperately-needed/</guid>
-      <description>Dues funcions molt esperades arriben als grups: mencions amb @ i recuperació de converses fins a 30 dies.</description>
-      <author>Digital Trends</author>
-      <pubDate>2026-03-20</pubDate>
-    </item>
-    <item>
-      <title>La Casa Blanca proposa un marc de política d'IA que supera les lleis estatals</title>
-      <link>https://www.engadget.com/ai/the-white-house-proposes-new-ai-policy-framework-that-supersedes-state-laws-192251995.html?src=rss</link>
-      <guid isPermaLink="true">https://www.engadget.com/ai/the-white-house-proposes-new-ai-policy-framework-that-supersedes-state-laws-192251995.html?src=rss</guid>
-      <description>L'administració Trump impulsa regulació federal d'IA que sobrepassaria les lleis estatals més restrictives.</description>
-      <author>Engadget</author>
-      <pubDate>2026-03-20</pubDate>
-    </item>
-    <item>
-      <title>El Samsung Galaxy S26 serà el primer Android compatible amb AirDrop</title>
-      <link>https://www.digitaltrends.com/phones/airdrop-support-is-coming-to-samsung-galaxy-phones-starting-with-s26/</link>
-      <guid isPermaLink="true">https://www.digitaltrends.com/phones/airdrop-support-is-coming-to-samsung-galaxy-phones-starting-with-s26/</guid>
-      <description>Samsung confirma que els Galaxy podran enviar fitxers a iPhones via AirDrop a partir del model S26.</description>
-      <author>Digital Trends</author>
-      <pubDate>2026-03-20</pubDate>
-    </item>
-    <item>
-      <title>El nou MacBook Neo carrega més ràpid del que Apple reconeix</title>
-      <link>https://www.digitaltrends.com/computing/the-new-macbook-neo-can-charge-faster-than-apple-claims/</link>
-      <guid isPermaLink="true">https://www.digitaltrends.com/computing/the-new-macbook-neo-can-charge-faster-than-apple-claims/</guid>
-      <description>Les proves revelen que l'adaptador del MacBook Neo és lent per al xip que porta.</description>
-      <author>Digital Trends</author>
-      <pubDate>2026-03-20</pubDate>
-    </item>
-    <item>
-      <title>OpenAI prepara una 'superapp' d'escriptori que uneix ChatGPT, Codex i Atlas</title>
-      <link>https://www.cnet.com/tech/services-and-software/openai-is-planning-to-combine-its-ai-tools-in-a-desktop-superapp/</link>
-      <guid isPermaLink="true">https://www.cnet.com/tech/services-and-software/openai-is-planning-to-combine-its-ai-tools-in-a-desktop-superapp/</guid>
-      <description>OpenAI vol fusionar el seu xat d'IA, l'eina de codi i el navegador en una sola aplicació d'escriptori.</description>
-      <author>CNET</author>
-      <pubDate>2026-03-20</pubDate>
-    </item>
-    <item>
-      <title>Valve publica SteamOS 3.8.0 amb correccions per a la Steam Machine</title>
-      <link>https://www.techradar.com/gaming/steam-deck/valves-steam-machine-gets-its-first-support-update-ahead-of-launch-via-steamos-preview-3-8-0-and-it-includes-one-major-fix-ive-been-waiting-for</link>
-      <guid isPermaLink="true">https://www.techradar.com/gaming/steam-deck/valves-steam-machine-gets-its-first-support-update-ahead-of-launch-via-steamos-preview-3-8-0-and-it-includes-one-major-fix-ive-been-waiting-for</guid>
-      <description>La primera actualització de SteamOS per a la Steam Machine arriba mesos abans del seu llançament oficial.</description>
-      <author>TechRadar</author>
-      <pubDate>2026-03-20</pubDate>
-    </item>
-    <item>
-      <title>Barcelona impulsa un repte per aplicar IA a la gestió dels semàfors</title>
+      <title>Barcelona impulsa un repte per aplicar intel·ligència artificial a la gestió dels semàfors</title>
       <link>https://www.metadata.cat/noticia/6228/barcelona-repte-aplicar-intelligencia-artificial-gestio-semafors</link>
       <guid isPermaLink="true">https://www.metadata.cat/noticia/6228/barcelona-repte-aplicar-intelligencia-artificial-gestio-semafors</guid>
-      <description>L'Ajuntament i Fira de Barcelona busquen solucions d'intel·ligència artificial per optimitzar el trànsit urbà.</description>
+      <description>L'Ajuntament i Fira de Barcelona busquen solucions d'IA per adaptar el trànsit en temps real.</description>
+      <author>MetaData</author>
+      <pubDate>2026-03-20</pubDate>
+    </item>
+    <item>
+      <title>S’obre la convocatòria dels Premis DonaTIC 2026 per reconèixer el talent femení digital</title>
+      <link>https://www.metadata.cat/noticia/6227/convocatoria-premis-donatic-2026-reconeixer-talent-femeni-digital</link>
+      <guid isPermaLink="true">https://www.metadata.cat/noticia/6227/convocatoria-premis-donatic-2026-reconeixer-talent-femeni-digital</guid>
+      <description>La dotzena edició dels Premis DonaTIC visibilitza referents femenins i impulsa vocacions tecnològiques.</description>
       <author>MetaData</author>
       <pubDate>2026-03-20</pubDate>
     </item>
@@ -99,79 +107,47 @@
       <title>Neix SAGA Barcelona Game Fest, el gran saló del videojoc que vol situar Barcelona al mapa europeu</title>
       <link>https://www.metadata.cat/noticia/6226/saga-barcelona-game-fest-gran-salo-del-videojoc-2026</link>
       <guid isPermaLink="true">https://www.metadata.cat/noticia/6226/saga-barcelona-game-fest-gran-salo-del-videojoc-2026</guid>
-      <description>Nova fira de videojocs a Barcelona, fruit de la fusió d'esdeveniments del sector, combinant negoci i cultura.</description>
+      <description>Nou saló del videojoc a Barcelona que combinarà negoci, cultura i indústria del sector.</description>
       <author>MetaData</author>
       <pubDate>2026-03-20</pubDate>
     </item>
     <item>
-      <title>Catalunya accelera el Pacte pel Talent Digital per afrontar la manca de professionals TIC</title>
-      <link>https://www.metadata.cat/noticia/6224/catalunya-accelera-pacte-talent-digital-manca-professionals-tic</link>
-      <guid isPermaLink="true">https://www.metadata.cat/noticia/6224/catalunya-accelera-pacte-talent-digital-manca-professionals-tic</guid>
-      <description>Administració, empreses i educació s'alien per reduir el dèficit de professionals tecnològics a Catalunya.</description>
-      <author>MetaData</author>
-      <pubDate>2026-03-19</pubDate>
+      <title>Tens fills? Així funcionarà el nou control parental de WhatsApp</title>
+      <link>https://criatures.ara.cat/familia/tens-fills-aixi-funcionara-nou-control-parental-whatsapp_1_5677180.html</link>
+      <guid isPermaLink="true">https://criatures.ara.cat/familia/tens-fills-aixi-funcionara-nou-control-parental-whatsapp_1_5677180.html</guid>
+      <description>WhatsApp implementarà controls parentals per a menors de 14 anys que utilitzen l'aplicació.</description>
+      <author>Ara.cat</author>
+      <pubDate>2026-03-21</pubDate>
     </item>
     <item>
-      <title>La Viquipèdia fa 25 anys: el català, pioner de l'enciclopèdia lliure d'internet</title>
-      <link>https://www.metadata.cat/noticia/6210/viquipedia-25-anys-catala-pioner-enciclopedia-lliure-internet</link>
-      <guid isPermaLink="true">https://www.metadata.cat/noticia/6210/viquipedia-25-anys-catala-pioner-enciclopedia-lliure-internet</guid>
-      <description>La versió catalana, la tercera al món, va néixer el març del 2001 i avui és un referent lingüístic digital.</description>
-      <author>MetaData</author>
-      <pubDate>2026-03-16</pubDate>
+      <title>Crisi del petroli: Catalunya pot aprofitar per liderar la IA o perdre el tren definitivament</title>
+      <link>https://www.3cat.cat/3catinfo/crisi-del-petroli-catalunya-pot-aprofitar-per-liderar-la-ia-o-perdre-el-tren-definitivament/noticia/3400033/</link>
+      <guid isPermaLink="true">https://www.3cat.cat/3catinfo/crisi-del-petroli-catalunya-pot-aprofitar-per-liderar-la-ia-o-perdre-el-tren-definitivament/noticia/3400033/</guid>
+      <description>Els experts avisen que Catalunya ha d'apostar pel coneixement i la IA per no perdre competitivitat.</description>
+      <author>324.cat</author>
+      <pubDate>2026-03-21</pubDate>
     </item>
     <item>
-      <title>Alerten d'anuncis de pisos fraudulents a través de TikTok</title>
+      <title>Alerten d’anuncis de pisos fraudulents a través de TikTok</title>
       <link>https://www.segre.com/ca/lleida/260321/alerten-d-anuncis-pisos-fraudulents-traves-tiktok_1150571.html</link>
       <guid isPermaLink="true">https://www.segre.com/ca/lleida/260321/alerten-d-anuncis-pisos-fraudulents-traves-tiktok_1150571.html</guid>
-      <description>L'Agència de Ciberseguretat de Catalunya detecta anuncis falsos de pisos a TikTok que suplanten immobiliàries.</description>
+      <description>L'Agència de Ciberseguretat detecta anuncis fraudulents de pisos a TikTok que suplanten agències.</description>
       <author>Segre</author>
       <pubDate>2026-03-21</pubDate>
     </item>
     <item>
-      <title>iPhone 17e, anàlisi: l'iPhone d'entrada d'Apple segueix fidel a la seva filosofia, per a bé i per a mal</title>
-      <link>https://www.elnacional.cat/ca/tecnologia/iphone-17e-analisi-iphone-entrada-apple-segueix-fidel-seva-filosofia-be-mal_1610562_102.html</link>
-      <guid isPermaLink="true">https://www.elnacional.cat/ca/tecnologia/iphone-17e-analisi-iphone-entrada-apple-segueix-fidel-seva-filosofia-be-mal_1610562_102.html</guid>
-      <description>L'iPhone 17e millora l'anterior model però repeteix els mateixos errors de la gamma econòmica d'Apple.</description>
-      <author>El Nacional.cat</author>
-      <pubDate>2026-03-20</pubDate>
+      <title>Escollir bé la xarxa social: la diferència entre comunicar i perdre el temps</title>
+      <link>https://www.viaempresa.cat/economia/escollir-be-xarxa-social-diferencia-entre-comunicar-perdre-temps_2231960_102.html</link>
+      <guid isPermaLink="true">https://www.viaempresa.cat/economia/escollir-be-xarxa-social-diferencia-entre-comunicar-perdre-temps_2231960_102.html</guid>
+      <description>Triar la plataforma adequada és clau; cada xarxa social té el seu públic i forma de comunicar.</description>
+      <author>Via Empresa</author>
+      <pubDate>2026-03-21</pubDate>
     </item>
     <item>
-      <title>Amazon tornarà a llançar un smartphone carregat d'IA amb Alexa+</title>
-      <link>https://www.elnacional.cat/ca/tecnologia/amazon-tornara-llancar-smartphone-carregat-ia-alexa_1614192_102.html</link>
-      <guid isPermaLink="true">https://www.elnacional.cat/ca/tecnologia/amazon-tornara-llancar-smartphone-carregat-ia-alexa_1614192_102.html</guid>
-      <description>Amazon aposta per un nou mòbil intel·ligent amb Alexa+ integrada, deu anys després del fracàs del Fire Phone.</description>
-      <author>El Nacional.cat</author>
-      <pubDate>2026-03-20</pubDate>
-    </item>
-    <item>
-      <title>Les noves regles de Google per instal·lar aplicacions externes a Android no t'agradaran</title>
-      <link>https://www.elnacional.cat/ca/tecnologia/noves-regles-google-installar-aplicacions-externes-android-no-agradaran_1614177_102.html</link>
-      <guid isPermaLink="true">https://www.elnacional.cat/ca/tecnologia/noves-regles-google-installar-aplicacions-externes-android-no-agradaran_1614177_102.html</guid>
-      <description>Google canvia el procés d'instal·lació d'apps no verificades a Android per millorar la seguretat del sistema.</description>
-      <author>El Nacional.cat</author>
-      <pubDate>2026-03-20</pubDate>
-    </item>
-    <item>
-      <title>La deixadesa d'un mariner a l'app Strava revela la ubicació del portaavions Charles de Gaulle</title>
-      <link>https://www.3cat.cat/3catinfo/la-deixadesa-dun-mariner-a-lapp-strava-revela-la-ubicacio-del-portaavions-charles-de-gaulle/noticia/3400848/</link>
-      <guid isPermaLink="true">https://www.3cat.cat/3catinfo/la-deixadesa-dun-mariner-a-lapp-strava-revela-la-ubicacio-del-portaavions-charles-de-gaulle/noticia/3400848/</guid>
-      <description>Un mariner va compartir involuntàriament la posició del portaavions francès en publicar una cursa a Strava.</description>
-      <author>324.cat</author>
-      <pubDate>2026-03-20</pubDate>
-    </item>
-    <item>
-      <title>El Govern invertirà 10 milions d'euros en tecnologia quàntica per reforçar la sobirania de Catalunya</title>
-      <link>https://www.elperiodico.cat/ca/politica/20260316/govern-invertira-10-milions-euros-tecnologia-quantica-reforcar-sobirania-catalunya-seguretat-128018966?utm_source=rss-noticias&amp;amp;utm_medium=feed&amp;amp;utm_campaign=tecnologia</link>
-      <guid isPermaLink="true">https://www.elperiodico.cat/ca/politica/20260316/govern-invertira-10-milions-euros-tecnologia-quantica-reforcar-sobirania-catalunya-seguretat-128018966?utm_source=rss-noticias&amp;amp;utm_medium=feed&amp;amp;utm_campaign=tecnologia</guid>
-      <description>La Generalitat desplegarà computació quàntica per garantir la sobirania tecnològica i digital de Catalunya.</description>
-      <author>El Periódico</author>
-      <pubDate>2026-03-16</pubDate>
-    </item>
-    <item>
-      <title>L'Altra Ràdio - El periodisme i la Guerra del Sudan</title>
+      <title>L' Altra Ràdio - El periodisme i la Guerra del Sudan</title>
       <link>https://podcasts.cat/36/33892317/</link>
       <guid isPermaLink="true">https://podcasts.cat/36/33892317/</guid>
-      <description>Raül Martínez, doctor en Comunicació, analitza la cobertura periodística del conflicte al Sudan.</description>
+      <description>El periodisme i la cobertura del conflicte del Sudan des d'una perspectiva mediàtica.</description>
       <author>L'altra ràdio</author>
       <pubDate>2026-03-19</pubDate>
     </item>
@@ -179,15 +155,15 @@
       <title>La música que ens ha marcat la vida – programa 657</title>
       <link>https://mossegalapoma.cat/la-musica-que-ens-ha-marcat-la-vida-programa-657/</link>
       <guid isPermaLink="true">https://mossegalapoma.cat/la-musica-que-ens-ha-marcat-la-vida-programa-657/</guid>
-      <description>La UPC i el programa exploren la relació entre tecnologia, memòria i les cançons que ens defineixen.</description>
+      <description>Exploració de com la música ha marcat la vida de les persones i la seua relació amb la tecnologia.</description>
       <author>Mossega la poma</author>
       <pubDate>2026-03-19</pubDate>
     </item>
     <item>
-      <title>L'inici de Twenty Twenty-Seven</title>
+      <title>L’inici de Twenty Twenty-Seven</title>
       <link>https://www.wppodcast.cat/podcast/linici-de-twenty-twenty-seven/</link>
       <guid isPermaLink="true">https://www.wppodcast.cat/podcast/linici-de-twenty-twenty-seven/</guid>
-      <description>Sis mesos d'antelació: comença el procés de creació del nou tema oficial de WordPress Twenty Twenty-Seven.</description>
+      <description>Comença sis mesos abans el procés de creació del nou tema per defecte de WordPress 2027.</description>
       <author>WordPress Pòdcast</author>
       <pubDate>2026-03-17</pubDate>
     </item>
@@ -195,7 +171,7 @@
       <title>Avui sí que perdem el patrocini de Parlem</title>
       <link>https://rss.com/podcasts/focaterra/2621247</link>
       <guid isPermaLink="true">https://rss.com/podcasts/focaterra/2621247</guid>
-      <description>El podcast debat sobre patrocinis, independència editorial i els reptes de finançar continguts tecnològics en català.</description>
+      <description>L'equip de Foc a Terra parla del suport de Parlem i del futur del podcast tecnològic en català.</description>
       <author>Foc a Terra</author>
       <pubDate>2026-03-16</pubDate>
     </item>
@@ -203,15 +179,15 @@
       <title>Les dades obertes i la transparència pública – programa 656</title>
       <link>https://mossegalapoma.cat/les-dades-obertes-i-la-transparencia-publica-programa-656/</link>
       <guid isPermaLink="true">https://mossegalapoma.cat/les-dades-obertes-i-la-transparencia-publica-programa-656/</guid>
-      <description>Exploració de com les dades obertes i la transparència pública poden transformar la societat digital.</description>
+      <description>Exploració de les dades obertes i la transparència pública com a eines per a una societat millor.</description>
       <author>Mossega la poma</author>
       <pubDate>2026-03-13</pubDate>
     </item>
     <item>
-      <title>L'Altra Ràdio - Què és l'agnotologia algorítmica</title>
+      <title>L' Altra Ràdio - Què és l'agnotologia algorítmica</title>
       <link>https://podcasts.cat/36/33868712/</link>
       <guid isPermaLink="true">https://podcasts.cat/36/33868712/</guid>
-      <description>Secció de supercomputació i IA que explica com els algoritmes poden propagar la ignorància deliberada.</description>
+      <description>La doctora Àtia explica l'agnotologia algorítmica i com els algoritmes poden generar ignorància.</description>
       <author>L'altra ràdio</author>
       <pubDate>2026-03-12</pubDate>
     </item>
@@ -219,15 +195,15 @@
       <title>El gòTIC - Tenim una missió! del 11/3/2026</title>
       <link>https://podcasts.cat/191/33863599/</link>
       <guid isPermaLink="true">https://podcasts.cat/191/33863599/</guid>
-      <description>El gòTIC de l'Ajuntament de Tàrrega comparteix recursos i experiències sobre tecnologia i innovació ciutadana.</description>
+      <description>El gòTIC comparteix recursos educatius per descobrir la tecnologia i la innovació als centres.</description>
       <author>El Gòtic</author>
-      <pubDate>2026-03-11</pubDate>
+      <pubDate>2026-03-10</pubDate>
     </item>
     <item>
-      <title>Capítol 60: Tria el projecte més innovador de l'any</title>
+      <title>Capítol 60: Tria el projecte més innovador de l'any</title>
       <link>https://traffic.omny.fm/d/clips/47dc05c7-7279-4c6f-9b31-ae74013297d9/d3709a08-7df4-4359-85b0-af0f00b8b4b3/b171e98f-b86e-4158-a555-b4080098ba38/audio.mp3?dist=RSS</link>
       <guid isPermaLink="true">https://traffic.omny.fm/d/clips/47dc05c7-7279-4c6f-9b31-ae74013297d9/d3709a08-7df4-4359-85b0-af0f00b8b4b3/b171e98f-b86e-4158-a555-b4080098ba38/audio.mp3?dist=RSS</guid>
-      <description>L'oient pot fer de jurat entre sis projectes finalistes del Premi a la Innovació de RAC&amp;GO.</description>
+      <description>Els oients trien el projecte més innovador de l'any entre sis finalistes al premi tecnològic.</description>
       <author>RAC&amp;GO</author>
       <pubDate>2026-03-10</pubDate>
     </item>
@@ -235,7 +211,7 @@
       <title>Panell de contribució</title>
       <link>https://www.wppodcast.cat/podcast/panell-de-contribucio/</link>
       <guid isPermaLink="true">https://www.wppodcast.cat/podcast/panell-de-contribucio/</guid>
-      <description>La Comunitat WordPress presenta el primer panell públic per monitoritzar contribucions al projecte.</description>
+      <description>La comunitat WordPress presenta públicament la primera versió del panell de contribució.</description>
       <author>WordPress Pòdcast</author>
       <pubDate>2026-03-10</pubDate>
     </item>
@@ -243,23 +219,23 @@
       <title>Ja no vibrem amb el Mobile</title>
       <link>https://rss.com/podcasts/focaterra/2608006</link>
       <guid isPermaLink="true">https://rss.com/podcasts/focaterra/2608006</guid>
-      <description>Crònica del MWC i el 4YFN: entre fabricants xinesos i vibecoders, el Mobile World Congress perd irresistibilitat.</description>
+      <description>L'equip del Mobile World Congress reflexiona sobre les tendències i novetats del sector mòbil.</description>
       <author>Foc a Terra</author>
       <pubDate>2026-03-09</pubDate>
     </item>
     <item>
-      <title>Com la IA està revolucionant l'escriptura i la publicació de llibres – programa 655</title>
+      <title>Com la IA està revolucionant l’escriptura i la publicació de llibres – Programa 655</title>
       <link>https://mossegalapoma.cat/com-la-ia-esta-revolucionant-lescriptura-i-la-publicacio-de-llibres-programa-655/</link>
       <guid isPermaLink="true">https://mossegalapoma.cat/com-la-ia-esta-revolucionant-lescriptura-i-la-publicacio-de-llibres-programa-655/</guid>
-      <description>Episodi sobre com la intel·ligència artificial transforma l'escriptura creativa i el sector editorial.</description>
+      <description>Anàlisi de com la IA transforma el procés d'escriptura i publicació de llibres al mercat editorial.</description>
       <author>Mossega la poma</author>
       <pubDate>2026-03-07</pubDate>
     </item>
     <item>
-      <title>Networking for AI Professionals around the world - March 25</title>
+      <title>Networking per a Professionals de la IA arreu del món — 25 de març</title>
       <link>https://www.meetup.com/ai-professionals-barcelona/events/313832028/</link>
       <guid isPermaLink="true">https://www.meetup.com/ai-professionals-barcelona/events/313832028/</guid>
-      <description>Sessió online de networking per a professionals de la IA d'arreu del món, amb grups de treball temàtics.</description>
+      <description>Sessió de networking en línia per a professionals de la IA de tot el món el 25 de març.</description>
       <author>AI Professionals Barcelona</author>
       <pubDate>2026-03-18</pubDate>
     </item>
@@ -267,7 +243,7 @@
       <title>Com usar Wikidata per visibilitzar obres digitals de domini públic?</title>
       <link>https://www.meetup.com/barcelona-free-software/events/313790663/</link>
       <guid isPermaLink="true">https://www.meetup.com/barcelona-free-software/events/313790663/</guid>
-      <description>David Ramírez parla de Wikidata i dades obertes per digitalitzar i geolocalitzar obres de domini públic.</description>
+      <description>Xerrada sobre com usar Wikidata per visibilitzar obres digitals de domini públic.</description>
       <author>Free Software Barcelona</author>
       <pubDate>2026-03-16</pubDate>
     </item>
@@ -275,7 +251,7 @@
       <title>Els Putxinel·lis - Capítol 6 - La Competència</title>
       <link>https://www.youtube.com/watch?v=5lMEJ3YaVb8</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=5lMEJ3YaVb8</guid>
-      <description>Sisè capítol de la sèrie animada de Pixelats sobre videojocs i la indústria del gaming en català.</description>
+      <description>Capítol 6 de la sèrie animada Els Putxinel·lis: la competència entre personatges.</description>
       <author>Pixelats</author>
       <pubDate>2026-03-19</pubDate>
     </item>
@@ -283,7 +259,7 @@
       <title>Els Putxinel·lis - Capítol 5 - L'amor llunyà</title>
       <link>https://www.youtube.com/watch?v=h_DPLBh1HBs</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=h_DPLBh1HBs</guid>
-      <description>Cinquè capítol de la sèrie de comèdia sobre videojocs i tecnologia de Pixelats en català.</description>
+      <description>Capítol 5 de la sèrie animada Els Putxinel·lis: una història d'amor a distància.</description>
       <author>Pixelats</author>
       <pubDate>2026-03-19</pubDate>
     </item>
@@ -291,7 +267,7 @@
       <title>Els Putxinel·lis - Capítol 4 - Cedeix, però segueix</title>
       <link>https://www.youtube.com/watch?v=1JIuh5sgM4M</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=1JIuh5sgM4M</guid>
-      <description>Quart capítol de la sèrie animada de Pixelats sobre el món dels videojocs i la tecnologia.</description>
+      <description>Capítol 4 de la sèrie animada Els Putxinel·lis: cedir però continuar endavant.</description>
       <author>Pixelats</author>
       <pubDate>2026-03-19</pubDate>
     </item>
@@ -299,7 +275,7 @@
       <title>Els Putxinel·lis - Capítol 3 - Pobre, pobre Toad</title>
       <link>https://www.youtube.com/watch?v=aCrClLDZ7_k</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=aCrClLDZ7_k</guid>
-      <description>Tercer capítol de la sèrie animada de Pixelats dedicada als videojocs en llengua catalana.</description>
+      <description>Capítol 3 de la sèrie animada Els Putxinel·lis amb el personatge Toad.</description>
       <author>Pixelats</author>
       <pubDate>2026-03-19</pubDate>
     </item>
@@ -307,7 +283,7 @@
       <title>Els Putxinel·lis - Capítol 2 - Negociació Infructuosa</title>
       <link>https://www.youtube.com/watch?v=rrmDfGk5QMA</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=rrmDfGk5QMA</guid>
-      <description>Segon capítol de la sèrie sobre videojocs i cultura digital en català de Pixelats.</description>
+      <description>Capítol 2 de la sèrie animada Els Putxinel·lis: una negociació sense èxit.</description>
       <author>Pixelats</author>
       <pubDate>2026-03-19</pubDate>
     </item>
@@ -315,23 +291,31 @@
       <title>Els Putxinel·lis - Capítol 1 - Benvinguts al meu experiment</title>
       <link>https://www.youtube.com/watch?v=Z23NKn67HM0</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=Z23NKn67HM0</guid>
-      <description>Primer capítol de la nova sèrie animada de Pixelats sobre videojocs i tecnologia en català.</description>
+      <description>Capítol 1 de la sèrie animada Els Putxinel·lis, benvinguda al nou experiment creatiu.</description>
       <author>Pixelats</author>
       <pubDate>2026-03-19</pubDate>
     </item>
     <item>
-      <title>Pixelats vs. NINJA JAJAMARU: The Great Yokai Battle!!</title>
+      <title>Pixelats vs. NINJA JAJAMARU: The Great Yokai Battle!! 🥷🐸</title>
       <link>https://www.youtube.com/watch?v=PaFf_uiwGpg</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=PaFf_uiwGpg</guid>
-      <description>Anàlisi i partida del joc de ninja japonès Ninja Jajamaru a càrrec del canal Pixelats en català.</description>
+      <description>Pixelats juga a Ninja JaJaMaru: The Great Yokai Battle, un clàssic de plataformes japonès.</description>
       <author>Pixelats</author>
       <pubDate>2026-03-18</pubDate>
+    </item>
+    <item>
+      <title>Llibres per repensar l'internet</title>
+      <link>https://www.youtube.com/watch?v=VgTRg9bx-Js</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=VgTRg9bx-Js</guid>
+      <description>Recomanació de llibres per repensar el rol d'internet en la societat contemporània.</description>
+      <author>Albert Lloreta</author>
+      <pubDate>2026-03-10</pubDate>
     </item>
     <item>
       <title>¿Quánta penya treballa a Docusign?</title>
       <link>https://www.youtube.com/shorts/2hyxpOwIZ9g</link>
       <guid isPermaLink="true">https://www.youtube.com/shorts/2hyxpOwIZ9g</guid>
-      <description>Barra Inversa analitza la plantilla i estructura de l'empresa de signatura digital Docusign.</description>
+      <description>Barra Inversa explora quanta gent treballa a Docusign i el seu model de negoci.</description>
       <author>Barra Inversa</author>
       <pubDate>2026-03-09</pubDate>
     </item>
