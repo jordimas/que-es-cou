@@ -1,33 +1,39 @@
-<b>Què es cou</b> — 22 de març de 2026 07:03
+<b>Què es cou</b> — 22 de març de 2026 10:09
 https://jordimas.github.io/que-es-cou/
 
 <b>Al món</b>
-• <a href="https://sashiko.dev/">Sashiko: un sistema agèntic de revisió de codi del nucli Linux</a>
+• <a href="https://github.com/SacDeNoeuds/yawn">Reactius al frontend des del 2018 amb Iterables Asíncrons</a>
   Hacker News — 22 de març de 2026
-  Sistema d'IA que revisa automàticament el codi del nucli Linux de forma agèntica.
-• <a href="https://radar.cloudflare.com/domains/domain/archive.today">Cloudflare classifica archive.today com a botnet i deixa de resoldre'l via 1.1.1.2</a>
+  Una biblioteca demostra que la reactivitat al frontend era possible amb iterables asíncrons natius des del 2018.
+• <a href="https://zenodo.org/records/18976656">Convergència del buit entre models: silenci determinista entre GPT-5.2 i Claude Opus 4.6</a>
   Hacker News — 22 de març de 2026
-  Cloudflare etiqueta el lloc d'arxiu web com a C&C/Botnet, bloquejant l'accés al seu DNS públic.
-• <a href="https://github.com/hectorvent/floci">Floci: emulador local d'AWS lliure i de codi obert</a>
+  Investigadors documenten un fenomen de silenci determinista compartit entre dos grans models de llenguatge.
+• <a href="https://www.royalbhati.com/hoptab">HopTab: canviador de finestres i gestor de mosaic gratuït per a macOS</a>
+  Hacker News — 22 de març de 2026
+  Alternativa de codi obert a Cmd+Tab per a macOS amb funcions de mosaic integrades.
+• <a href="https://sashiko.dev/">Sashiko: sistema de revisió de codi del nucli Linux basat en agents d'IA</a>
+  Hacker News — 22 de març de 2026
+  Eina agèntica per automatitzar la revisió de codi al kernel Linux amb intel·ligència artificial.
+• <a href="https://radar.cloudflare.com/domains/domain/archive.today">Cloudflare marca archive.today com a botnet i el deixa inaccessible via 1.1.1.2</a>
+  Hacker News — 22 de març de 2026
+  Cloudflare classifica el servei d'arxiu web com a C&C/Botnet, bloquejant-lo al seu DNS familiar.
+• <a href="http://oldvcr.blogspot.com/2026/03/refurb-weekend-double-header-alpha.html">Alpha Micro AM-1000E i AM-1200: restauració de maquinari vintage</a>
+  Hacker News — 22 de març de 2026
+  Doble restauració de dos ordinadors Alpha Micro de l'era dels 80 amb detalls tècnics.
+• <a href="https://github.com/hectorvent/floci">Floci: emulador local d'AWS gratuït i de codi obert</a>
   Hacker News — 21 de març de 2026
-  Nova eina que permet emular serveis d'AWS localment sense necessitat de connexió al núvol.
-• <a href="https://tinygrad.org/#tinybox">Tinybox: dispositiu d'IA local amb 120.000 milions de paràmetres</a>
+  Nova eina per emular serveis AWS localment sense connexió al núvol.
+• <a href="https://news.dyne.org/child-protection-is-not-access-control/">No convertiu la protecció infantil en control d'accés a internet</a>
   Hacker News — 21 de març de 2026
-  Tinygrad presenta un dispositiu offline capaç d'executar models d'IA de 120B paràmetres sense internet.
-• <a href="https://github.com/kenforthewin/atomic">Atomic: base de coneixement personal, allotjada localment i connectada semànticament</a>
-  Hacker News — 21 de març de 2026
-  Aplicació autoallotjada per organitzar el coneixement personal amb connexions semàntiques automàtiques.
-• <a href="https://github.com/pagel-s/termcraft">Termcraft: sandbox de supervivència 2D al terminal, en Rust</a>
-  Hacker News — 21 de març de 2026
-  Joc de sandbox i supervivència 2D que s'executa íntegrament al terminal, programat amb Rust.
-• <a href="https://gizmodo.com/gemini-crypto-com-latest-crypto-firms-to-blame-downsizing-on-ai-2000736199">Les empreses cripto Gemini i Crypto.com culpen la IA dels seus acomiadaments</a>
-  Gizmodo — 21 de març de 2026
-  Diverses empreses de criptomonedes redueixen plantilles al·legant l'automatització per IA, mentre d'altres abandonen el sector.
+  Crítica a les lleis que usen la protecció dels menors com a pretext per restringir l'accés a internet.
 
 <b>Països Catalans</b>
-• <a href="https://www.segre.com/ca/televisio/260322/3cat-estrena-aquesta-nit-nova-serie-ficcio-i-tecnologia-dia-u_1151034.html">3Cat estrena una nova sèrie de ficció i tecnologia, 'Dia U'</a>
-  Segre — 22 de març de 2026
-  La sèrie ambientada al MWC explora la relació entre tecnologia i humanitat en sis capítols.
-• <a href="https://www.rac1.cat/internacional/20260321/333205/militar-frances-publica-strava-entrenament-revela-secrets-d-ben-guardats-ubicacio-exacta-portaavions-nuclear-charles-gaulle.html">Un militar francès revela a Strava la posició exacta del portaavions nuclear Charles de Gaulle</a>
-  RAC1 — 21 de març de 2026
-  Un soldat en missió va compartir el seu entrenament a Strava, revelant sense voler la posició del portaavions.
+• <a href="https://empreses.ara.cat/innovacio/nodus-agents-digitals-catalans-ia-eficiencia-operativa-pimes_1_5682230.html">Nodus, els agents digitals catalans que fan de la IA eficiència operativa per a les pimes</a>
+  Ara.cat — 22 de març de 2026
+  Startup catalana desenvolupa agents autònoms d'IA per automatitzar fluxos de treball a les petites empreses.
+• <a href="https://www.rac1.cat/societat/20260320/332966/experts-europeus-atribueixen-l-apagada-fallada-control-tensio-cascada-desconnexions.html">Un grup d'experts europeus atribueix la gran apagada de l'abril a una fallada en el control de tensió i una cascada de desconnexions</a>
+  RAC1 — 20 de març de 2026
+  L'informe final de l'ENTSO-E descarta un únic origen i apunta a una combinació de múltiples factors.
+• <a href="https://www.segre.com/ca/lleida/260318/confirmat-per-la-justicia-europera-obligacio-del-banc-de-retorn-immediat-en-cas-de-ciberestafa_1146596.html">Confirmat per la justícia europea: obligació del banc de retorn immediat en cas de ciberestafa</a>
+  Segre — 18 de març de 2026
+  El tribunal europeu obliga els bancs a retornar diners robats en ciberestafes, fins i tot si l'usuari va donar credencials.
