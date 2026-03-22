@@ -1,62 +1,59 @@
-<b>Què es cou</b> — 22 de març de 2026 13:52
+<b>Què es cou</b> — 22 de març de 2026 14:49
 https://jordimas.github.io/que-es-cou/
 
 <b>Tecnologia 🌍</b>
-• <a href="https://www.tyleo.com/blog/how-we-synchronized-editing-for-rec-rooms-multiplayer-scripting-system">Com hem sincronitzat l'edició per al sistema de scripting multijugador de Rec Room</a>
+• <a href="https://emi-h.com/articles/a-case-against-currying.html">Arguments contra el curry en programació</a>
   Hacker News — 22 de març de 2026
-  Detalls tècnics sobre la sincronització d'operacions d'edició en temps real en un entorn col·laboratiu.
-• <a href="https://www.ilograph.com/blog/posts/more-common-diagram-mistakes/">Errors comuns a evitar en la creació de diagrames d'arquitectura de sistemes</a>
+  L'article exposa per què el curry, popular en programació funcional, pot complicar innecessàriament el codi.
+• <a href="https://www.projectnomad.us">Project Nomad: coneixement que mai es desconnecta</a>
   Hacker News — 22 de març de 2026
-  Guia pràctica sobre els errors més habituals que fan malbé la claredat dels diagrames tècnics.
-• <a href="https://github.com/danveloper/flash-moe">Flash-Moe: Executant un model de 397.000 milions de paràmetres en un Mac amb 48 GB de RAM</a>
+  Projecte que permet accedir a coneixement enciclopèdic sense connexió a internet.
+• <a href="http://blog.dominikrudnik.pl/my-google-recruitment-journey-part-1">Com superar la ignorància algorítmica amb un LLM en 7 dies</a>
   Hacker News — 22 de març de 2026
-  Projecte open source que permet córrer models MoE d'escala massiva en maquinari domèstic d'Apple.
-• <a href="https://gizmodo.com/ikea-varmblixt-smart-lamp-fills-a-donut-hole-in-my-life-2000735546">La làmpada intel·ligent Ikea Varmblixt omple un buit en la meva vida</a>
+  Un enginyer descriu com va usar un model de llenguatge per preparar-se per al procés de selecció de Google.
+• <a href="https://teebot.dev">teebot.dev: del terminal a una samarreta en 6 segons</a>
+  Hacker News — 22 de març de 2026
+  Eina que converteix qualsevol sortida de terminal en un disseny imprimible de samarreta.
+• <a href="https://www.tyleo.com/blog/how-we-synchronized-editing-for-rec-rooms-multiplayer-scripting-system">Com es va sincronitzar l'edició col·laborativa al sistema de scripting de Rec Room</a>
+  Hacker News — 22 de març de 2026
+  Detalls tècnics sobre la sincronització en temps real d'un entorn d'scripting multiusuari.
+• <a href="https://www.ilograph.com/blog/posts/more-common-diagram-mistakes/">Errors habituals en diagrames d'arquitectura de sistemes</a>
+  Hacker News — 22 de març de 2026
+  Recull dels errors de disseny més freqüents que degraden la qualitat dels diagrames d'arquitectura.
+• <a href="https://worrydream.com/refs/Backus_1978_-_Can_Programming_Be_Liberated_from_the_von_Neumann_Style.pdf">Pot la programació alliberar-se de l'estil von Neumann? (1977)</a>
+  Hacker News — 22 de març de 2026
+  Article clàssic de Backus que qüestiona els fonaments dels llenguatges imperatius tradicionals.
+• <a href="https://github.com/danveloper/flash-moe">Flash-Moe: executar un model de 397.000 milions de paràmetres en un Mac amb 48 GB de RAM</a>
+  Hacker News — 22 de març de 2026
+  Un projecte de codi obert permet córrer models massius de IA en maquinari de consum domèstic.
+• <a href="https://gizmodo.com/ikea-varmblixt-smart-lamp-fills-a-donut-hole-in-my-life-2000735546">La làmpada intel·ligent Ikea Varmblixt que ha omplert un buit a casa</a>
   Gizmodo — 22 de març de 2026
-  Ressenya d'una làmpada en forma de donuts amb canvi de color i connectivitat intel·ligent.
-• <a href="https://phys.org/news/2026-03-miracle-europe-reconnects-lost-spacecraft.html">'Miracle': Europa recupera el contacte amb una nau espacial perduda</a>
-  Hacker News — 22 de març de 2026
-  Enginyers europeus reestableixen comunicació amb una sonda que es creia irrecuperable.
-• <a href="https://domenic.me/windows-native-dev/">El desenvolupament natiu per a Windows és un desastre</a>
-  Hacker News — 22 de març de 2026
-  Anàlisi crítica de la fragmentació i complexitat de les eines de desenvolupament nadiu a Windows.
-• <a href="https://zenodo.org/records/18976656">Convergència de silenci entre models d'IA: GPT-5.2 i Claude Opus 4.6</a>
-  Hacker News — 22 de març de 2026
-  Investigació sobre patrons de silenci determinista compartits entre dos grans models de llenguatge.
-• <a href="https://www.royalbhati.com/hoptab">HopTab: substitut gratuït i de codi obert per a Cmd+Tab al macOS</a>
-  Hacker News — 22 de març de 2026
-  Aplicació macOS per canviar i organitzar finestres amb més control que el gestor natiu.
-• <a href="https://sashiko.dev/">Sashiko: un sistema agèntic de revisió de codi del nucli de Linux</a>
-  Hacker News — 22 de març de 2026
-  Eina d'IA que automatitza la revisió de contribucions al kernel de Linux.
-• <a href="https://43081j.com/2026/03/three-pillars-of-javascript-bloat">Els tres pilars del sobrepès en JavaScript</a>
-  Hacker News — 22 de març de 2026
-  Anàlisi de les causes estructurals que fan créixer innecessàriament els paquets JavaScript.
+  Ressenya del nou llum en forma de rosquilla d'Ikea amb canvi de color i control intel·ligent.
 
 <b>Economia 🌍</b>
-• <a href="https://www.ft.com/content/df3f208a-2512-4a75-b2f3-d3bd27bae2e8">Com la guerra a l'Iran podria descarrilar el boom de la IA</a>
+• <a href="https://www.ft.com/content/df3f208a-2512-4a75-b2f3-d3bd27bae2e8">Com la guerra amb l'Iran podria frenar el boom de la IA</a>
   Financial Times — 22 de març de 2026
-  Tota la cadena de subministrament de xips depèn d'energia i productes químics de l'Orient Mitjà.
-• <a href="https://www.cnbc.com/2026/03/22/openai-data-center-pivot-underscores-wall-street-ipo-concerns.html">La revisió de la infraestructura d'OpenAI suscita interrogants de Wall Street davant la sortida a borsa</a>
+  Tota la cadena de subministrament de xips depèn de l'energia i els productes químics del Pròxim Orient.
+• <a href="https://www.cnbc.com/2026/03/22/openai-data-center-pivot-underscores-wall-street-ipo-concerns.html">El gir d'OpenAI en centres de dades posa de manifest les preocupacions de Wall Street davant la sortida a borsa</a>
   CNBC Technology — 22 de març de 2026
-  OpenAI adopta una estratègia d'infraestructura més moderada i s'allunya d'un ambiciós acord amb Nvidia.
-• <a href="https://www.cnbc.com/2026/03/22/why-low-earth-orbit-is-attracting-billions-in-investment.html">De satèl·lits a centres de dades espacials: per què l'òrbita baixa atreu milers de milions</a>
+  OpenAI modera la seva ambiciosa estratègia d'infraestructura i s'allunya d'un acord amb Nvidia.
+• <a href="https://www.cnbc.com/2026/03/22/why-low-earth-orbit-is-attracting-billions-in-investment.html">De satèl·lits a centres de dades espacials: per què l'òrbita baixa atrau milers de milions d'inversió</a>
   CNBC Technology — 22 de març de 2026
   Nvidia i SpaceX aposten fort per una nova capa d'infraestructura crítica sobre els nostres caps.
-• <a href="https://www.ft.com/content/e074d3a9-7fd8-447d-ac0a-e0de756ac5c5">Les al·lucinacions de la IA preocupen més que la pèrdua de llocs de treball</a>
+• <a href="https://www.ft.com/content/e074d3a9-7fd8-447d-ac0a-e0de756ac5c5">Les al·lucinacions de la IA preocupen més els usuaris que la pèrdua de llocs de treball</a>
   Financial Times — 22 de març de 2026
-  L'enquesta d'Anthropic a 80.000 usuaris de Claude revela com la gent utilitza realment la IA.
-• <a href="https://www.ft.com/content/b2c3e8b6-cc2f-46dc-808f-d237bfacbde8">Com la IA està transformant el negoci del dret</a>
+  Una enquesta d'Anthropic a 80.000 usuaris de Claude revela com la gent utilitza realment la IA.
+• <a href="https://www.ft.com/content/b2c3e8b6-cc2f-46dc-808f-d237bfacbde8">Com la IA transforma el món del dret</a>
   Financial Times — 22 de març de 2026
-  Una generació d'advocats comença a emprar noves eines als tribunals i en la pràctica legal.
-• <a href="https://www.cnbc.com/2026/03/21/openclaw-chatgpt-moment-sparks-concern-ai-models-becoming-commodities.html">El moment ChatGPT d'OpenClaw genera preocupació que els models d'IA es tornin productes de consum</a>
+  Advocats adopten noves eines d'IA als jutjats, canviant la manera de preparar i presentar casos.
+• <a href="https://www.cnbc.com/2026/03/21/openclaw-chatgpt-moment-sparks-concern-ai-models-becoming-commodities.html">El 'moment ChatGPT' d'OpenClaw genera el temor que els models de IA es converteixin en productes de mercat</a>
   CNBC Technology — 21 de març de 2026
-  Jensen Huang va dedicar una part central del seu discurs a una tecnologia inexistent fa sis mesos.
-• <a href="https://www.cnbc.com/2026/03/21/fedex-jobs-ai-training.html">FedEx lliura formació en IA orientada a la promoció a més de 400.000 treballadors</a>
+  Jensen Huang va dedicar part del seu discurs a GTC a una tecnologia que no existia fa sis mesos.
+• <a href="https://www.cnbc.com/2026/03/21/fedex-jobs-ai-training.html">FedEx ofereix formació en IA orientada a promocions a més de 400.000 treballadors</a>
   CNBC Technology — 21 de març de 2026
-  Iniciativa d'alfabetització en IA desplegada a mig milió d'empleats arreu del món.
+  La iniciativa de formació en IA d'FedEx arriba a mig milió d'empleats arreu del món.
 
 <b>Països Catalans</b>
-• <a href="https://www.elnacional.cat/ca/tecnologia/qui-ha-dit-apple-te-problema-ia-gracies-ella-va-guanyar-900-milions-2025_1614417_102.html">Qui ha dit que Apple té un problema amb la IA? Gràcies a ella va guanyar 900 milions el 2025</a>
-  El Nacional.cat — 22 de març de 2026
-  Apple lluny de liderar la IA amb Siri, però la seva App Store va ingressar gairebé 900 milions.
+• <a href="https://www.rac1.cat/societat/20260320/332966/experts-europeus-atribueixen-l-apagada-fallada-control-tensio-cascada-desconnexions.html">Un grup d'experts europeus atribueix la gran apagada de l'abril a una fallada en el control de tensió</a>
+  RAC1 — 20 de març de 2026
+  L'informe de l'ENTSO-E conclou que la caiguda del sistema elèctric va ser fruit de múltiples factors combinats.
