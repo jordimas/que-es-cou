@@ -20,7 +20,8 @@ MONTHS_CA = {
 }
 
 SECTION_LABELS = {
-    "world": "Al món",
+    "world": "Tecnologia 🌍",
+    "economy": "Economia 🌍",
     "catalunya": "Països Catalans",
     "podcasts": "Podcasts",
     "events": "Trobades",

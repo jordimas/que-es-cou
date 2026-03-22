@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-OpenRouter/DeepSeek client for tech topic filtering.
+OpenRouter/Gemma client for tech topic filtering.
 Drop-in replacement for: claude --dangerously-skip-permissions -p "Run the prompts/tech_topic_filter.md task"
 """
 
@@ -10,9 +10,9 @@ import sys
 import httpx
 
 OPENROUTER_API_KEY = os.environ.get("OPENROUTER_API_KEY")
-MODEL = "qwen/qwen3-next-80b-a3b-instruct:free"
+MODEL = "google/gemma-3-27b-it"
 OUTPUT_DIR = "output"
-PROMPT_PATH = os.path.join(os.path.dirname(__file__), "prompts", "tech_topic_filter.md")
+PROMPT_PATH = os.path.join(os.path.dirname(__file__), "..", "prompts", "tech_topic_filter.md")
 
 
 def load_json(path):

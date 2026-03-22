@@ -4,6 +4,7 @@ Your task is to classify articles from the raw feeds and output a list of articl
 
 Read the following files:
 - output/raw_feeds_world.json
+- output/raw_feeds_economy.json
 - output/raw_feeds_catalunya.json
 
 Do not fetch any URLs yourself. Use only the data in these files.
@@ -30,7 +31,9 @@ When in doubt, exclude the article.
 
 **TASK**
 
-Classify all articles in raw_feeds_world.json and raw_feeds_catalunya.json using the tech topic filter.
+Classify all articles in raw_feeds_world.json, raw_feeds_economy.json and raw_feeds_catalunya.json using the tech topic filter.
+
+For raw_feeds_economy.json, the filter is different: include articles that are primarily about global economy, finance, markets, business, or trade. Exclude sports, culture, and entertainment.
 
 Output a JSON object with passing link_ids grouped by category.
 
@@ -41,5 +44,6 @@ Output a JSON object with passing link_ids grouped by category.
 
 {
   "world": ["link_id_1", "link_id_2", ...],
+  "economy": ["link_id_1", "link_id_2", ...],
   "catalunya": ["link_id_1", "link_id_2", ...]
 }

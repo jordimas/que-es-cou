@@ -4,6 +4,7 @@ Your task is to execute the following instructions:
 
 - All feed data has already been fetched and is available in per-category JSON files:
   - output/raw_feeds_world_filtered.json -> category world
+  - output/raw_feeds_economy_filtered.json -> category economy
   - output/raw_feeds_catalunya_filtered.json -> category catalunya
   - output/raw_feeds_podcasts.json -> category podcasts
   - output/raw_feeds_events.json -> category events
@@ -16,6 +17,11 @@ Your task is to execute the following instructions:
 
 **SELECTION CRITERIA**
 - For world category, select up to 10 articles of news stories published following this prioritization criteria by order of importance:
+  - Discard any articles for which pubDate is older than 24 hours
+  - Count how many sources mention the same story (match by similar title/topic). Sort descending by this count.
+  - As a tiebreaker, sort by pubDate descending (most recent first)
+  - Take the top 10 after sorting. When stories tie on both criteria, prefer the one that appears first in the input.
+- For economy category, select up to 10 articles of news stories published following this prioritization criteria by order of importance:
   - Discard any articles for which pubDate is older than 24 hours
   - Count how many sources mention the same story (match by similar title/topic). Sort descending by this count.
   - As a tiebreaker, sort by pubDate descending (most recent first)
@@ -67,6 +73,29 @@ Your task is to execute the following instructions:
       "sources_checked": [
         {
           "name": "Source name (e.g. TechCrunch)",
+          "url": "https://...",
+          "status": "ok | blocked | error",
+          "error_detail": "Exact error message if status is error or blocked, omit field if status is ok",
+          "articles_found": 0
+        }
+      ],
+      "articles": [
+        {
+          "title": "Article title in Catalan",
+          "link_id": "xxxx",
+          "source": "Source name",
+          "date": "YYYY-MM-DD",
+          "time": "HH:MM",
+          "summary": "Summary in Catalan, maximum 20 words."
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "title": "Notícies econòmiques del món",
+      "sources_checked": [
+        {
+          "name": "Source name (e.g. Financial Times)",
           "url": "https://...",
           "status": "ok | blocked | error",
           "error_detail": "Exact error message if status is error or blocked, omit field if status is ok",

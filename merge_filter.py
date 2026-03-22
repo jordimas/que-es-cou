@@ -30,8 +30,9 @@ print(
     f"  Written to '{out_path}' ({sum(len(v) for v in merged.values())} total link_ids)"
 )
 
-# Write filtered raw feed files for world and catalunya
-for category in ("world", "catalunya"):
+# Write filtered raw feed files for world, economy and catalunya
+log_lines = []
+for category in ("world", "economy", "catalunya"):
     raw_path = output_dir / f"raw_feeds_{category}.json"
     filtered_path = output_dir / f"raw_feeds_{category}_filtered.json"
     if not raw_path.exists():
@@ -40,11 +41,14 @@ for category in ("world", "catalunya"):
     data = json.loads(raw_path.read_text())
     filtered_sources = []
     for source in data.get("section", {}).get("sources", []):
-        filtered_items = [
-            item
-            for item in source.get("items", [])
-            if item.get("link_id") in allowed_ids
-        ]
+        filtered_items = []
+        for item in source.get("items", []):
+            if item.get("link_id") in allowed_ids:
+                filtered_items.append(item)
+            else:
+                log_lines.append(
+                    f"[{category}] [{source['name']}] {item.get('title', '(no title)')}"
+                )
         filtered_sources.append({**source, "items": filtered_items})
     filtered_data = {
         **data,
@@ -55,3 +59,7 @@ for category in ("world", "catalunya"):
     )
     total_items = sum(len(s["items"]) for s in filtered_sources)
     print(f"  Written to '{filtered_path}' ({total_items} articles)")
+
+log_path = output_dir / "filtered_tech.log"
+log_path.write_text("\n".join(log_lines) + "\n" if log_lines else "", encoding="utf-8")
+print(f"  Written to '{log_path}' ({len(log_lines)} discarded articles)")

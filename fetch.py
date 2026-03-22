@@ -208,7 +208,7 @@ except FileNotFoundError:
 
 output_dir.mkdir(exist_ok=True)
 
-SECTION_IDS = ["world", "catalunya", "podcasts", "events", "videos"]
+SECTION_IDS = ["world", "economy", "catalunya", "podcasts", "events", "videos"]
 
 fetched_at = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M")
 print(f"Fetching feeds at {fetched_at} ...")

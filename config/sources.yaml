@@ -95,6 +95,16 @@ world:
     url: https://www.computerworld.com/feed/
     tech: true
 
+economy:
+  - name: The Economist
+    url: https://www.economist.com/science-and-technology/rss.xml
+  - name: Financial Times
+    url: https://www.ft.com/technology?format=rss
+  - name: Wall Street Journal
+    url: https://feeds.a.dj.com/rss/RSSMarketsMain.xml
+  - name: CNBC Technology
+    url: https://www.cnbc.com/id/19854910/device/rss/rss.html
+
 catalunya:
   - name: Ara.cat
     url: https://www.ara.cat/rss/
@@ -108,7 +118,8 @@ catalunya:
   - name: VilaWeb
     url: https://www.vilaweb.cat/feed/
   - name: NacióDigital
-    url: https://naciodigital.cat/rss/
+    url: https://www.naciodigital.cat/rss/tecnologia
+    tech: true
   - name: 324.cat
     url: https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0
   - name: Softcatalà
@@ -118,6 +129,10 @@ catalunya:
     url: https://www.elnacional.cat/uploads/feeds/feed_ca.xml
   - name: El Mon.cat
     url: https://www.elmon.cat/feed/
+  - name: El Mon.cat Tecnologia
+    url: https://elmon.cat/tecnologia/feed/
+  - name: El Mon.cat Societat
+    url: https://elmon.cat/societat/feed/
   - name: Betevé
     url: https://beteve.cat/feed/
   - name: El Punt Avui
@@ -178,6 +193,8 @@ catalunya:
   - name: Lúdica
     url: https://ludica.cat/feed/
     tech: true
+  - name: Accent Obert
+    url: https://accentobert.cat/feed/
 
 podcasts:
   - name: La Base
