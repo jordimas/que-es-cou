@@ -23,9 +23,9 @@ from jinja2 import Environment, FileSystemLoader, select_autoescape
 from news_utils import SECTION_LABELS, format_date_ca, load_news
 
 # ── CLI args ───────────────────────────────────────────────────────────────────
-input_path    = Path(sys.argv[1]) if len(sys.argv) > 1 else Path("output/news.json")
-output_path   = Path(sys.argv[2]) if len(sys.argv) > 2 else Path("output/news.html")
-template_dir  = Path(__file__).parent / "static"
+input_path = Path(sys.argv[1]) if len(sys.argv) > 1 else Path("output/news.json")
+output_path = Path(sys.argv[2]) if len(sys.argv) > 2 else Path("output/news.html")
+template_dir = Path(__file__).parent / "static"
 template_name = "page.jinja2"
 
 
@@ -43,15 +43,19 @@ def prepare_sections(raw_sections: list) -> list:
     sections = []
     for sec in raw_sections:
         articles = []
-        for art in sorted(sec.get("articles", []), key=lambda a: a.get("date", ""), reverse=True):
-            articles.append({
-                **art,
-                "date_display": format_date_ca(art.get("date", "")),
-            })
+        for art in sorted(
+            sec.get("articles", []), key=lambda a: a.get("date", ""), reverse=True
+        ):
+            articles.append(
+                {
+                    **art,
+                    "date_display": format_date_ca(art.get("date", "")),
+                }
+            )
         enriched = {
             **sec,
             "tab_title": SECTION_LABELS.get(sec.get("id", ""), sec.get("title", "")),
-            "articles":  articles,
+            "articles": articles,
         }
         enriched["sources"] = collect_sources_for_section(enriched)
         sections.append(enriched)
@@ -81,7 +85,7 @@ context = {
     "generated_at": generated_at,
     "date_display": format_date_ca(generated_at),
     "generated_time": generated_time,
-    "sections":     prepare_sections(data.get("sections", [])),
+    "sections": prepare_sections(data.get("sections", [])),
 }
 
 # ── Render ─────────────────────────────────────────────────────────────────────
@@ -98,17 +102,18 @@ print(f"✅  HTML written to '{output_path}'")
 # ── Generate RSS feed ───────────────────────────────────────────────────────────
 feed_path = output_path.parent / "feed.xml"
 
+
 def build_rss(data: dict, sections: list) -> str:
     pub_date = data.get("generated_at", datetime.today().isoformat())
     # RFC 822 date for RSS (approximate: use ISO directly for lastBuildDate)
     items_xml = []
     for sec in sections:
         for art in sec.get("articles", []):
-            title   = escape(art.get("title", ""))
-            link    = escape(art.get("url", ""))
+            title = escape(art.get("title", ""))
+            link = escape(art.get("url", ""))
             summary = escape(art.get("summary", ""))
-            source  = escape(art.get("source", ""))
-            date    = art.get("date", pub_date)
+            source = escape(art.get("source", ""))
+            date = art.get("date", pub_date)
             items_xml.append(f"""\
     <item>
       <title>{title}</title>
@@ -131,6 +136,7 @@ def build_rss(data: dict, sections: list) -> str:
 {items_block}
   </channel>
 </rss>"""
+
 
 feed_xml = build_rss(data, data.get("sections", []))
 feed_path.write_text(feed_xml, encoding="utf-8")
@@ -155,26 +161,33 @@ def load_sent_hashes(path: Path) -> set:
     return set()
 
 
-def build_telegram(sections: list, date_display: str, generated_time: str,
-                   sent_hashes: set) -> str:
+def build_telegram(
+    sections: list, date_display: str, generated_time: str, sent_hashes: set
+) -> str:
     lines = []
     lines.append(f"<b>Què es cou</b> — {date_display} {generated_time}".strip())
     lines.append("https://jordimas.github.io/que-es-cou/")
     for sec in sections:
         articles = sec.get("articles", [])
-        new_articles = [a for a in articles if item_hash(a.get("url", ""), a.get("title", "")) not in sent_hashes]
+        new_articles = [
+            a
+            for a in articles
+            if item_hash(a.get("url", ""), a.get("title", "")) not in sent_hashes
+        ]
         if not new_articles:
             continue
         label = SECTION_LABELS.get(sec.get("id", ""), sec.get("title", ""))
         lines.append("")
         lines.append(f"<b>{label}</b>")
         for art in new_articles:
-            title    = art.get("title", "")
-            url      = art.get("url", "")
-            summary  = art.get("summary", "")
-            source   = art.get("source", "")
+            title = art.get("title", "")
+            url = art.get("url", "")
+            summary = art.get("summary", "")
+            source = art.get("source", "")
             art_date = art.get("date_display", "")
-            source_date = f'{source} — {art_date}' if source and art_date else source or art_date
+            source_date = (
+                f"{source} — {art_date}" if source and art_date else source or art_date
+            )
             lines.append(f'• <a href="{url}">{title}</a>')
             if source_date:
                 lines.append(f"  {source_date}")
@@ -184,6 +197,8 @@ def build_telegram(sections: list, date_display: str, generated_time: str,
 
 
 sent_hashes = load_sent_hashes(telegram_json_path)
-telegram_text = build_telegram(context["sections"], context["date_display"], generated_time, sent_hashes)
+telegram_text = build_telegram(
+    context["sections"], context["date_display"], generated_time, sent_hashes
+)
 telegram_path.write_text(telegram_text, encoding="utf-8")
 print(f"✅  Telegram output written to '{telegram_path}'")

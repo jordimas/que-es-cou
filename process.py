@@ -7,7 +7,6 @@ Requires ANTHROPIC_API_KEY environment variable.
 """
 
 import json
-import os
 import sys
 from pathlib import Path
 
@@ -24,7 +23,9 @@ feed_parts = []
 for section_id in ["world", "catalunya", "podcasts", "events", "videos"]:
     path = output_dir / f"raw_feeds_{section_id}.json"
     if path.exists():
-        feed_parts.append(f"### raw_feeds_{section_id}.json\n{path.read_text(encoding='utf-8')}")
+        feed_parts.append(
+            f"### raw_feeds_{section_id}.json\n{path.read_text(encoding='utf-8')}"
+        )
 
 user_content = "\n\n".join(feed_parts)
 
@@ -56,5 +57,7 @@ except json.JSONDecodeError as e:
     sys.exit(f"ERROR: Claude output is not valid JSON: {e}\nOutput:\n{output[:500]}")
 
 output_dir.mkdir(exist_ok=True)
-(output_dir / "news.json").write_text(json.dumps(parsed, ensure_ascii=False, indent=2), encoding="utf-8")
+(output_dir / "news.json").write_text(
+    json.dumps(parsed, ensure_ascii=False, indent=2), encoding="utf-8"
+)
 print("output/news.json written")

@@ -22,7 +22,7 @@ import yaml
 
 # ── CLI args ───────────────────────────────────────────────────────────────────
 sources_path = Path(sys.argv[1]) if len(sys.argv) > 1 else Path("config/sources.yaml")
-output_dir   = Path(sys.argv[2]) if len(sys.argv) > 2 else Path("output")
+output_dir = Path(sys.argv[2]) if len(sys.argv) > 2 else Path("output")
 
 feed_age_path = sources_path.parent / "feed_age.json"
 FEED_AGE = json.loads(feed_age_path.read_text()) if feed_age_path.exists() else {}
@@ -38,17 +38,21 @@ MAX_WORKERS = 20
 
 # ── Namespaces commonly found in RSS/Atom feeds ────────────────────────────────
 NS = {
-    "dc":      "http://purl.org/dc/elements/1.1/",
+    "dc": "http://purl.org/dc/elements/1.1/",
     "content": "http://purl.org/rss/1.0/modules/content/",
-    "atom":    "http://www.w3.org/2005/Atom",
-    "media":   "http://search.yahoo.com/mrss/",
+    "atom": "http://www.w3.org/2005/Atom",
+    "media": "http://search.yahoo.com/mrss/",
 }
 
 
 def text(el, *tags) -> str:
     """Return stripped text of the first matching child tag, or ''."""
     for tag in tags:
-        for child in (el.find(tag), el.find(f"dc:{tag}", NS), el.find(f"atom:{tag}", NS)):
+        for child in (
+            el.find(tag),
+            el.find(f"dc:{tag}", NS),
+            el.find(f"atom:{tag}", NS),
+        ):
             if child is not None and child.text:
                 return child.text.strip()
     return ""
@@ -71,20 +75,24 @@ def parse_feed(content: bytes) -> list[dict]:
             if link_el is None:
                 link_el = entry.find("{http://www.w3.org/2005/Atom}link")
             link = link_el.get("href", "") if link_el is not None else ""
-            pub = (
-                text(entry, "{http://www.w3.org/2005/Atom}published")
-                or text(entry, "{http://www.w3.org/2005/Atom}updated")
+            pub = text(entry, "{http://www.w3.org/2005/Atom}published") or text(
+                entry, "{http://www.w3.org/2005/Atom}updated"
             )
             title = text(entry, "{http://www.w3.org/2005/Atom}title")
             if not title and not link:
                 continue
-            items.append({
-                "title":       title,
-                "link":        link,
-                "pubDate":     pub,
-                "description": text(entry, "{http://www.w3.org/2005/Atom}summary",
-                                         "{http://www.w3.org/2005/Atom}content"),
-            })
+            items.append(
+                {
+                    "title": title,
+                    "link": link,
+                    "pubDate": pub,
+                    "description": text(
+                        entry,
+                        "{http://www.w3.org/2005/Atom}summary",
+                        "{http://www.w3.org/2005/Atom}content",
+                    ),
+                }
+            )
         return items
 
     # RSS feed — find <channel><item> elements
@@ -100,13 +108,19 @@ def parse_feed(content: bytes) -> list[dict]:
         if not title and not link:
             continue
         pub = text(item, "pubDate") or item.findtext("dc:date", namespaces=NS) or ""
-        desc = text(item, "description") or item.findtext("content:encoded", namespaces=NS) or ""
-        items.append({
-            "title":       title,
-            "link":        link,
-            "pubDate":     pub,
-            "description": desc,
-        })
+        desc = (
+            text(item, "description")
+            or item.findtext("content:encoded", namespaces=NS)
+            or ""
+        )
+        items.append(
+            {
+                "title": title,
+                "link": link,
+                "pubDate": pub,
+                "description": desc,
+            }
+        )
     return items
 
 
@@ -132,7 +146,7 @@ def fetch_source(client: httpx.Client, name: str, url: str, retries: int = 2) ->
         except Exception as e:
             result["error_detail"] = str(e)
         if attempt < retries:
-            time.sleep(2 ** attempt)
+            time.sleep(2**attempt)
     result["status"] = "error"
     result["items"] = []
     return result
@@ -155,7 +169,9 @@ def filter_by_age(items: list[dict], max_days: int) -> list[dict]:
 
 def fetch_section(section_id: str, sources: list[dict]) -> dict:
     """Fetch all sources for a section concurrently."""
-    with httpx.Client(headers=HEADERS, timeout=TIMEOUT, follow_redirects=True) as client:
+    with httpx.Client(
+        headers=HEADERS, timeout=TIMEOUT, follow_redirects=True
+    ) as client:
         with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
             futures = {
                 executor.submit(fetch_source, client, s["name"], s["url"]): s
@@ -173,10 +189,14 @@ def fetch_section(section_id: str, sources: list[dict]) -> dict:
 
     ok = sum(1 for r in results if r["status"] == "ok")
     total_items = sum(len(r.get("items", [])) for r in results)
-    print(f"  [{section_id}] {ok}/{len(sources)} sources ok, {total_items} items fetched")
+    print(
+        f"  [{section_id}] {ok}/{len(sources)} sources ok, {total_items} items fetched"
+    )
     for r in results:
         if r["status"] != "ok":
-            print(f"    [{r['status']}] {r['name']} ({r['url']}): {r.get('error_detail', '')}")
+            print(
+                f"    [{r['status']}] {r['name']} ({r['url']}): {r.get('error_detail', '')}"
+            )
     return {"id": section_id, "sources": results}
 
 
@@ -223,10 +243,14 @@ for section_id in SECTION_IDS:
         tech_approved[section_id] = approved
     if max_days:
         kept = sum(len(s.get("items", [])) for s in section["sources"])
-        print(f"  [{section_id}] {kept} items need classification, {len(approved)} auto-approved")
+        print(
+            f"  [{section_id}] {kept} items need classification, {len(approved)} auto-approved"
+        )
     out_path = output_dir / f"raw_feeds_{section_id}.json"
     out_path.write_text(
-        json.dumps({"fetched_at": fetched_at, "section": section}, ensure_ascii=False, indent=2),
+        json.dumps(
+            {"fetched_at": fetched_at, "section": section}, ensure_ascii=False, indent=2
+        ),
         encoding="utf-8",
     )
     print(f"  Written to '{out_path}'")
@@ -236,5 +260,7 @@ links_path.write_text(json.dumps(links, ensure_ascii=False, indent=2), encoding=
 print(f"  Written to '{links_path}'")
 
 approved_path = output_dir / "tech_approved.json"
-approved_path.write_text(json.dumps(tech_approved, ensure_ascii=False, indent=2), encoding="utf-8")
+approved_path.write_text(
+    json.dumps(tech_approved, ensure_ascii=False, indent=2), encoding="utf-8"
+)
 print(f"  Written to '{approved_path}'")

@@ -26,7 +26,9 @@ for category in set(list(new_filter.keys()) + list(approved.keys())):
     merged[category] = ids
 
 out_path.write_text(json.dumps(merged, ensure_ascii=False, indent=2), encoding="utf-8")
-print(f"  Written to '{out_path}' ({sum(len(v) for v in merged.values())} total link_ids)")
+print(
+    f"  Written to '{out_path}' ({sum(len(v) for v in merged.values())} total link_ids)"
+)
 
 # Write filtered raw feed files for world and catalunya
 for category in ("world", "catalunya"):
@@ -38,9 +40,18 @@ for category in ("world", "catalunya"):
     data = json.loads(raw_path.read_text())
     filtered_sources = []
     for source in data.get("section", {}).get("sources", []):
-        filtered_items = [item for item in source.get("items", []) if item.get("link_id") in allowed_ids]
+        filtered_items = [
+            item
+            for item in source.get("items", [])
+            if item.get("link_id") in allowed_ids
+        ]
         filtered_sources.append({**source, "items": filtered_items})
-    filtered_data = {**data, "section": {**data["section"], "sources": filtered_sources}}
-    filtered_path.write_text(json.dumps(filtered_data, ensure_ascii=False, indent=2), encoding="utf-8")
+    filtered_data = {
+        **data,
+        "section": {**data["section"], "sources": filtered_sources},
+    }
+    filtered_path.write_text(
+        json.dumps(filtered_data, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
     total_items = sum(len(s["items"]) for s in filtered_sources)
     print(f"  Written to '{filtered_path}' ({total_items} articles)")

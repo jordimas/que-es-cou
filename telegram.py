@@ -25,6 +25,7 @@ from news_utils import SECTION_LABELS, format_date_ca, load_news
 
 # ─── Helpers ──────────────────────────────────────────────────────────────────
 
+
 def load_env():
     env_path = Path.cwd() / ".env"
     if env_path.exists():
@@ -60,15 +61,18 @@ def save_sent_hashes(telegram_json_path: Path, hashes: set):
 
 # ─── Telegram API ─────────────────────────────────────────────────────────────
 
+
 def send_message(token: str, chat_id: str, html: str, silent: bool = False) -> dict:
     url = f"https://api.telegram.org/bot{token}/sendMessage"
-    payload = json.dumps({
-        "chat_id": chat_id,
-        "text": html,
-        "parse_mode": "HTML",
-        "disable_notification": silent,
-        "link_preview_options": {"is_disabled": True},
-    }).encode("utf-8")
+    payload = json.dumps(
+        {
+            "chat_id": chat_id,
+            "text": html,
+            "parse_mode": "HTML",
+            "disable_notification": silent,
+            "link_preview_options": {"is_disabled": True},
+        }
+    ).encode("utf-8")
 
     req = urllib.request.Request(
         url,
@@ -104,19 +108,25 @@ def split_message(html: str, limit: int = 4096) -> list:
 
 # ─── Build message ────────────────────────────────────────────────────────────
 
-def build_message(sections: list, date_display: str, generated_time: str,
-                  sent_hashes: set) -> tuple:
+
+def build_message(
+    sections: list, date_display: str, generated_time: str, sent_hashes: set
+) -> tuple:
     """
     Returns (message_text, new_hashes) where new_hashes are hashes of items
     included in this message.
     """
-    lines = [f"<b>Què es cou</b> — {date_display} {generated_time}".strip(),
-             "https://jordimas.github.io/que-es-cou/"]
+    lines = [
+        f"<b>Què es cou</b> — {date_display} {generated_time}".strip(),
+        "https://jordimas.github.io/que-es-cou/",
+    ]
     new_hashes = set()
 
     for sec in sections:
         articles = sec.get("articles", [])
-        new_articles = [a for a in articles if item_hash(a["url"], a["title"]) not in sent_hashes]
+        new_articles = [
+            a for a in articles if item_hash(a["url"], a["title"]) not in sent_hashes
+        ]
         if not new_articles:
             continue
 
@@ -128,17 +138,20 @@ def build_message(sections: list, date_display: str, generated_time: str,
             new_hashes.add(h)
             source = art.get("source", "")
             date_str = format_date_ca(art["date"]) if art.get("date") else ""
-            source_date = f'{source} — {date_str}' if source and date_str else source or date_str
+            source_date = (
+                f"{source} — {date_str}" if source and date_str else source or date_str
+            )
             lines.append(f'• <a href="{art["url"]}">{art["title"]}</a>')
             if source_date:
-                lines.append(f'  {source_date}')
+                lines.append(f"  {source_date}")
             if art.get("summary"):
-                lines.append(f'  {art["summary"]}')
+                lines.append(f"  {art['summary']}")
 
     return "\n".join(lines), new_hashes
 
 
 # ─── Main ─────────────────────────────────────────────────────────────────────
+
 
 def main():
     load_env()
@@ -176,7 +189,9 @@ def main():
                     msg_id = result["result"]["message_id"]
                     print(f"  Part {i}/{len(chunks)} sent (ID: {msg_id})")
                 else:
-                    sys.exit(f"Telegram error: {result.get('description', 'Unknown error')}")
+                    sys.exit(
+                        f"Telegram error: {result.get('description', 'Unknown error')}"
+                    )
         except urllib.error.HTTPError as e:
             body = json.loads(e.read().decode("utf-8"))
             sys.exit(f"HTTP {e.code}: {body.get('description', str(e))}")
@@ -193,7 +208,9 @@ def main():
     date_display = format_date_ca(generated_at)
     generated_time = generated_at[11:16] if len(generated_at) > 10 else ""
 
-    message, new_hashes = build_message(sections, date_display, generated_time, sent_hashes)
+    message, new_hashes = build_message(
+        sections, date_display, generated_time, sent_hashes
+    )
 
     if not new_hashes:
         print("No new articles to send.")
@@ -202,7 +219,9 @@ def main():
     if save_only:
         all_hashes = sent_hashes | new_hashes
         save_sent_hashes(telegram_json_path, all_hashes)
-        print(f"telegram.json updated with {len(new_hashes)} new hashes ({len(all_hashes)} total), nothing sent.")
+        print(
+            f"telegram.json updated with {len(new_hashes)} new hashes ({len(all_hashes)} total), nothing sent."
+        )
         return
 
     # ── Normal mode: send then save ────────────────────────────────────────────
@@ -224,7 +243,9 @@ def main():
                 msg_id = result["result"]["message_id"]
                 print(f"  Part {i}/{len(chunks)} sent (ID: {msg_id})")
             else:
-                sys.exit(f"Telegram error: {result.get('description', 'Unknown error')}")
+                sys.exit(
+                    f"Telegram error: {result.get('description', 'Unknown error')}"
+                )
     except urllib.error.HTTPError as e:
         body = json.loads(e.read().decode("utf-8"))
         sys.exit(f"HTTP {e.code}: {body.get('description', str(e))}")

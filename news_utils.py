@@ -5,17 +5,26 @@ import sys
 from pathlib import Path
 
 MONTHS_CA = {
-    "01": "gener",    "02": "febrer",   "03": "març",     "04": "abril",
-    "05": "maig",     "06": "juny",     "07": "juliol",   "08": "agost",
-    "09": "setembre", "10": "octubre",  "11": "novembre", "12": "desembre",
+    "01": "gener",
+    "02": "febrer",
+    "03": "març",
+    "04": "abril",
+    "05": "maig",
+    "06": "juny",
+    "07": "juliol",
+    "08": "agost",
+    "09": "setembre",
+    "10": "octubre",
+    "11": "novembre",
+    "12": "desembre",
 }
 
 SECTION_LABELS = {
-    "world":     "Al món",
+    "world": "Al món",
     "catalunya": "Països Catalans",
-    "podcasts":  "Podcasts",
-    "events":    "Trobades",
-    "videos":    "Vídeos",
+    "podcasts": "Podcasts",
+    "events": "Trobades",
+    "videos": "Vídeos",
 }
 
 
@@ -39,8 +48,10 @@ def resolve_links(data: dict, links: dict, warn_missing: bool = False) -> list:
             url = links.get(link_id, "")
             if not url:
                 if warn_missing:
-                    print(f"WARNING: link_id '{link_id}' not found in links.json, "
-                          f"skipping article: {art.get('title', '')}")
+                    print(
+                        f"WARNING: link_id '{link_id}' not found in links.json, "
+                        f"skipping article: {art.get('title', '')}"
+                    )
                 continue
             articles.append({**art, "url": url})
         if articles:

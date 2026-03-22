@@ -6,60 +6,44 @@ Uses GroqCloud with DeepSeek best model (deepseek-r1-distill-llama-70b).
 
 import json
 import os
+import re
 import sys
 from pathlib import Path
 
 from groq import Groq
 
-GROQ_MODEL = "deepseek-r1-distill-llama-70b"
+GROQ_MODEL = os.environ.get("GROQ_MODEL", "meta-llama/llama-4-scout-17b-16e-instruct")
 
-SYSTEM_PROMPT = """You are a precise news article classifier. When given instructions, follow them exactly.
-Output only valid JSON with no markdown fences, no explanation, no extra text."""
+SYSTEM_PROMPT = """You are a news article classifier. You output ONLY a raw JSON array of link_id strings. No keys, no objects, no markdown, no explanation. Just the array.
+Correct: ["c_abc123", "c_def456"]
+Wrong: {"link_ids": ["c_abc123"]}"""
 
-TASK_PROMPT = """Your task is to classify articles from the raw feeds and output a list of article link_ids that pass the tech topic filter.
+TASK_PROMPT = """Classify each article as tech or not-tech based on its title and description.
 
-**TECH TOPIC FILTER**
-
-An article counts as "about technology" if its title and description are primarily about one of these topics:
-- Software, apps, platforms, operating systems, programming
-- Hardware, chips, devices, computers, smartphones, peripherals
-- AI, machine learning, robotics, automation
-- Cybersecurity, hacking, privacy, data breaches
-- Internet, networking, cloud, data centers
-- Electric vehicles, drones, space tech, biotech, cleantech
-- Startups, tech companies, tech industry news, funding rounds in tech
+INCLUDE an article if it is primarily about:
+- Software, apps, platforms, operating systems, programming, web
+- Hardware, chips, devices, computers, smartphones, tablets, peripherals, gadgets
+- AI, machine learning, robotics, automation, LLMs
+- Cybersecurity, hacking, privacy, data breaches, surveillance
+- Internet, networking, cloud, data centers, telecom
+- Electric vehicles, drones, space tech, biotech, cleantech, renewables
+- Tech companies, startups, tech industry, funding rounds, tech products
+- Tech regulation, platform policy, digital rights
 - Science with direct tech application
+- Deals/reviews/news about tech products (phones, laptops, TVs, etc.)
 
-An article does NOT count as tech if it is primarily about:
-- Politics, elections, government (unless the story is specifically about tech regulation or surveillance tech)
-- Sports, culture, entertainment, tourism
-- General economy, real estate, cost of living (unless specifically about the tech industry)
-- Health or medicine (unless it is about a specific medical device, health app, or biotech product)
+EXCLUDE only if the article clearly is about:
+- Pure politics/elections/war with no tech angle
+- Sports, food, culture, tourism, entertainment (films/shows not involving tech)
+- General economy, real estate, cost of living
+- Health/medicine with no device or app angle
 
-When in doubt, exclude the article.
+When in doubt, INCLUDE the article.
 
-**TASK**
+Return ONLY a JSON array of the link_ids of all tech articles. Example: ["c_abc123", "c_def456"]
 
-Classify all articles using the tech topic filter.
-
-Output a JSON object with passing link_ids grouped by category.
-
-**RULES FOR THE JSON**
-- Output nothing except the JSON object — no markdown, no code fences, no explanation, no HTML, no trailing text
-- The JSON must strictly follow this schema:
-
-{
-  "world": ["link_id_1", "link_id_2", ...],
-  "catalunya": ["link_id_1", "link_id_2", ...]
-}
-
-**INPUT DATA**
-
-world articles:
-{world_data}
-
-catalunya articles:
-{catalunya_data}
+{category} articles:
+{articles_data}
 """
 
 
@@ -69,19 +53,25 @@ def load_articles(path: Path) -> list[dict]:
     articles = []
     for source in data.get("section", {}).get("sources", []):
         for item in source.get("items", []):
-            articles.append({
-                "link_id": item.get("link_id", ""),
-                "title": item.get("title", ""),
-                "description": item.get("description", ""),
-            })
+            desc = re.sub(r"<[^>]+>", " ", item.get("description", ""))
+            desc = re.sub(r"\s+", " ", desc).strip()[:200]
+            articles.append(
+                {
+                    "link_id": item.get("link_id", ""),
+                    "title": item.get("title", ""),
+                    "description": desc,
+                }
+            )
     return articles
 
 
 def main():
     base = Path(__file__).parent / "output"
-    world_path = base / "raw_feeds_world.json"
-    catalunya_path = base / "raw_feeds_catalunya.json"
-    out_path = base / "tech_topic_filter_new.json"
+    world_path = Path(os.environ.get("WORLD_PATH", base / "raw_feeds_world.json"))
+    catalunya_path = Path(
+        os.environ.get("CATALUNYA_PATH", base / "raw_feeds_catalunya.json")
+    )
+    out_path = Path(os.environ.get("OUT_PATH", base / "tech_topic_filter_new.json"))
 
     if not world_path.exists() or not catalunya_path.exists():
         print(f"ERROR: input files not found in {base}", file=sys.stderr)
@@ -90,11 +80,6 @@ def main():
     world_articles = load_articles(world_path)
     catalunya_articles = load_articles(catalunya_path)
 
-    prompt = TASK_PROMPT.format(
-        world_data=json.dumps(world_articles, ensure_ascii=False),
-        catalunya_data=json.dumps(catalunya_articles, ensure_ascii=False),
-    )
-
     api_key = os.environ.get("GROQ_API_KEY")
     if not api_key:
         print("ERROR: GROQ_API_KEY environment variable not set", file=sys.stderr)
@@ -102,33 +87,92 @@ def main():
 
     client = Groq(api_key=api_key)
 
-    print(f"Classifying {len(world_articles)} world + {len(catalunya_articles)} catalunya articles with {GROQ_MODEL}...")
-
-    response = client.chat.completions.create(
-        model=GROQ_MODEL,
-        messages=[
-            {"role": "system", "content": SYSTEM_PROMPT},
-            {"role": "user", "content": prompt},
-        ],
-        temperature=0.0,
+    print(
+        f"Classifying {len(world_articles)} world + {len(catalunya_articles)} catalunya articles with {GROQ_MODEL}..."
     )
 
-    raw = response.choices[0].message.content.strip()
+    BATCH_SIZE = int(os.environ.get("BATCH_SIZE", 80))
+    total_prompt_tokens = 0
+    total_completion_tokens = 0
+    last_headers: dict = {}
 
-    # Strip thinking tags emitted by reasoning models
-    if "<think>" in raw:
-        end = raw.rfind("</think>")
-        raw = raw[end + len("</think>"):].strip() if end != -1 else raw
+    def classify_batch(cat: str, articles: list) -> list:
+        nonlocal total_prompt_tokens, total_completion_tokens, last_headers
+        prompt = TASK_PROMPT.format(
+            category=cat,
+            articles_data=json.dumps(articles, ensure_ascii=False),
+        )
+        raw_response = client.with_raw_response.chat.completions.create(
+            model=GROQ_MODEL,
+            messages=[
+                {"role": "system", "content": SYSTEM_PROMPT},
+                {"role": "user", "content": prompt},
+            ],
+            temperature=0.0,
+            max_tokens=4096,
+        )
+        response = raw_response.parse()
+        if response.usage:
+            total_prompt_tokens += response.usage.prompt_tokens
+            total_completion_tokens += response.usage.completion_tokens
+        last_headers = dict(raw_response.headers)
+        raw = response.choices[0].message.content.strip()
+        if "<think>" in raw:
+            end = raw.rfind("</think>")
+            raw = raw[end + len("</think>") :].strip() if end != -1 else raw
+        # Extract JSON array from response (model may add explanation or wrap in object)
+        start = raw.find("[")
+        end = raw.rfind("]")
+        if start != -1 and end > start:
+            raw = raw[start : end + 1]
+        elif raw.startswith("{"):
+            # Unwrap {"link_ids": [...]} style
+            try:
+                obj = json.loads(raw)
+                raw = json.dumps(next(iter(obj.values())))
+            except Exception:
+                pass
+        try:
+            parsed = json.loads(raw)
+            # Handle {"link_ids": [...]} wrapper some models return
+            if isinstance(parsed, dict):
+                parsed = next(iter(parsed.values()))
+            return parsed
+        except json.JSONDecodeError:
+            # Repair unquoted link_ids: [c_abc, c_def] → ["c_abc", "c_def"]
+            repaired = re.sub(r"\b(c_[0-9a-f]+)\b", r'"\1"', raw)
+            try:
+                return json.loads(repaired)
+            except json.JSONDecodeError as e:
+                print(
+                    f"ERROR: model returned invalid JSON for {cat}: {e}",
+                    file=sys.stderr,
+                )
+                print(raw, file=sys.stderr)
+                sys.exit(1)
 
-    try:
-        result = json.loads(raw)
-    except json.JSONDecodeError as e:
-        print(f"ERROR: model returned invalid JSON: {e}", file=sys.stderr)
-        print(raw, file=sys.stderr)
-        sys.exit(1)
+    result = {}
+    for cat, articles in [("world", world_articles), ("catalunya", catalunya_articles)]:
+        ids: list[str] = []
+        for i in range(0, len(articles), BATCH_SIZE):
+            batch = articles[i : i + BATCH_SIZE]
+            print(
+                f"  {cat} batch {i // BATCH_SIZE + 1}/{(len(articles) + BATCH_SIZE - 1) // BATCH_SIZE} ({len(batch)} articles)..."
+            )
+            ids.extend(classify_batch(cat, batch))
+        result[cat] = ids
 
     out_path.write_text(json.dumps(result, ensure_ascii=False, indent=2))
-    print(f"Written {len(result.get('world', []))} world + {len(result.get('catalunya', []))} catalunya IDs to {out_path}")
+    print(
+        f"Written {len(result.get('world', []))} world + {len(result.get('catalunya', []))} catalunya IDs to {out_path}"
+    )
+
+    total_tokens = total_prompt_tokens + total_completion_tokens
+    print(f"\nTokens used this run: {total_tokens:,} (prompt: {total_prompt_tokens:,}, completion: {total_completion_tokens:,})")
+    remaining_day = last_headers.get("x-ratelimit-remaining-tokens-day")
+    limit_day = last_headers.get("x-ratelimit-limit-tokens-day")
+    if remaining_day and limit_day:
+        print(f"Daily token quota: {int(remaining_day):,} remaining / {int(limit_day):,} total")
 
 
 if __name__ == "__main__":
