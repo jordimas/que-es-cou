@@ -20,6 +20,7 @@ An article counts as "about technology" if its title and description are primari
 - Electric vehicles, drones, space tech, biotech, cleantech
 - Startups, tech companies, tech industry news, funding rounds in tech
 - Science with direct tech application
+- Catalan language support or localization in tech products, devices, software, or vehicles
 
 An article does NOT count as tech if it is primarily about:
 - Politics, elections, government (unless the story is specifically about tech regulation or surveillance tech)
