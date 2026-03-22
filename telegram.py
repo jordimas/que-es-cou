@@ -23,6 +23,8 @@ from pathlib import Path
 from news_utils import SECTION_LABELS, format_date_ca, load_news
 
 
+MAX_ARTICLES_PER_SECTION = 15
+
 # ─── Helpers ──────────────────────────────────────────────────────────────────
 
 
@@ -126,7 +128,7 @@ def build_message(
         articles = sec.get("articles", [])
         new_articles = [
             a for a in articles if item_hash(a["url"], a["title"]) not in sent_hashes
-        ]
+        ][:MAX_ARTICLES_PER_SECTION]
         if not new_articles:
             continue
 

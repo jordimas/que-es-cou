@@ -24,8 +24,6 @@ import yaml
 sources_path = Path(sys.argv[1]) if len(sys.argv) > 1 else Path("config/sources.yaml")
 output_dir = Path(sys.argv[2]) if len(sys.argv) > 2 else Path("output")
 
-feed_age_path = sources_path.parent / "feed_age.json"
-FEED_AGE = json.loads(feed_age_path.read_text()) if feed_age_path.exists() else {}
 
 HEADERS = {
     "User-Agent": (
@@ -217,12 +215,13 @@ links = {}
 tech_approved = {}  # section_id -> [link_ids] pre-approved from tech: true sources
 
 for section_id in SECTION_IDS:
-    section_sources = sources_data.get(section_id, [])
-    if not section_sources:
+    section_data = sources_data.get(section_id, {})
+    if not section_data:
         print(f"  [{section_id}] no sources defined, skipping")
         continue
+    section_sources = section_data.get("sources", [])
+    max_days = section_data.get("max_days")
     section = fetch_section(section_id, section_sources)
-    max_days = FEED_AGE.get(section_id, {}).get("days")
     approved = []
     for source in section["sources"]:
         if max_days:

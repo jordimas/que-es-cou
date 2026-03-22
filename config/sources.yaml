@@ -1,4 +1,6 @@
 world:
+  max_days: 1
+  sources:
   - name: TechCrunch
     url: https://techcrunch.com/feed/
     tech: true
@@ -96,6 +98,8 @@ world:
     tech: true
 
 economy:
+  max_days: 7
+  sources:
   - name: The Economist
     url: https://www.economist.com/science-and-technology/rss.xml
   - name: Financial Times
@@ -106,6 +110,8 @@ economy:
     url: https://www.cnbc.com/id/19854910/device/rss/rss.html
 
 catalunya:
+  max_days: 7
+  sources:
   - name: Ara.cat
     url: https://www.ara.cat/rss/
   - name: El Periódico
@@ -197,6 +203,8 @@ catalunya:
     url: https://accentobert.cat/feed/
 
 podcasts:
+  max_days: 15
+  sources:
   - name: La Base
     url: https://www.ivoox.com/podcast-la-base_fg_f1712297_filtro_1.xml
   - name: Crims de la xarxa
@@ -247,6 +255,8 @@ podcasts:
     url: https://api.audioteca.rac1.cat/rss/rac-and-go
 
 events:
+  max_days: 30
+  sources:
   - name: WordPress BCN
     url: https://www.meetup.com/WordPressBCN/events/rss/
   - name: Startup Grind Barcelona
@@ -271,8 +281,10 @@ events:
     url: https://www.techbarcelona.com/agenda/
   - name: Eventbrite Barcelona Tech
     url: https://www.eventbrite.es/d/spain--barcelona/technology--events/
-    
+
 videos:
+  max_days: 15
+  sources:
   - name: Albert Lloreta
     url: https://www.youtube.com/feeds/videos.xml?channel_id=UCemmGKC37IgR8mwXSzvKRYQ
   - name: Xboxers Catalans
@@ -309,5 +321,3 @@ videos:
     url: https://www.youtube.com/feeds/videos.xml?channel_id=UCidFf_iUay6_Y59u2XzF4mw
   - name: Lúdica (Vídeos)
     url: https://www.youtube.com/feeds/videos.xml?channel_id=UCwc91vuY2XulsDR7Gb-EGhg
-
-
