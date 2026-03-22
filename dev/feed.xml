@@ -5,45 +5,53 @@
     <link>https://jordimas.github.io/que-es-cou/</link>
     <description>Notícies de tecnologia en català, actualitzades cada 4 hores.</description>
     <language>ca</language>
-    <lastBuildDate>2026-03-22T10:41</lastBuildDate>
+    <lastBuildDate>2026-03-22T12:39</lastBuildDate>
     <atom:link href="https://jordimas.github.io/que-es-cou/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Convergència del buit entre models: silenci determinista de GPT-5.2 i Claude Opus 4.6</title>
+      <title>Una làmpada intel·ligent IKEA Varmblixt per als amants del disseny</title>
+      <link>https://gizmodo.com/ikea-varmblixt-smart-lamp-fills-a-donut-hole-in-my-life-2000735546</link>
+      <guid isPermaLink="true">https://gizmodo.com/ikea-varmblixt-smart-lamp-fills-a-donut-hole-in-my-life-2000735546</guid>
+      <description>IKEA llança una làmpada intel·ligent en forma de donut que canvia de color i integra tecnologia smart home.</description>
+      <author>Gizmodo</author>
+      <pubDate>2026-03-22</pubDate>
+    </item>
+    <item>
+      <title>Miracle espacial: Europa recupera el contacte amb una nau perduda</title>
+      <link>https://phys.org/news/2026-03-miracle-europe-reconnects-lost-spacecraft.html</link>
+      <guid isPermaLink="true">https://phys.org/news/2026-03-miracle-europe-reconnects-lost-spacecraft.html</guid>
+      <description>Científics europeus han reconnectat amb una nau espacial donada per perduda, en un fet qualificat de miracle.</description>
+      <author>Hacker News</author>
+      <pubDate>2026-03-22</pubDate>
+    </item>
+    <item>
+      <title>Investigadors estudien el silenci determinista entre GPT-5.2 i Claude Opus 4.6</title>
       <link>https://zenodo.org/records/18976656</link>
       <guid isPermaLink="true">https://zenodo.org/records/18976656</guid>
-      <description>Estudi sobre comportament determinista i silenci convergent en models d'IA de gran escala.</description>
+      <description>Un nou estudi analitza patrons de comportament similars entre dos dels models d'IA més avançats.</description>
       <author>Hacker News</author>
       <pubDate>2026-03-22</pubDate>
     </item>
     <item>
-      <title>HopTab: canviador i organitzador de finestres macOS gratuït i de codi obert</title>
+      <title>HopTab: canviador de finestres i organitzador de pantalla gratuït per a macOS</title>
       <link>https://www.royalbhati.com/hoptab</link>
       <guid isPermaLink="true">https://www.royalbhati.com/hoptab</guid>
-      <description>Alternativa gratuïta al Cmd+Tab de macOS per canviar i organitzar finestres de forma eficient.</description>
+      <description>Aplicació de codi obert per a macOS que substitueix Cmd+Tab amb gestió avançada de finestres.</description>
       <author>Hacker News</author>
       <pubDate>2026-03-22</pubDate>
     </item>
     <item>
-      <title>Sashiko: sistema de revisió de codi del kernel Linux basat en agents d'IA</title>
+      <title>Sashiko: sistema agèntic de revisió de codi del nucli Linux</title>
       <link>https://sashiko.dev/</link>
       <guid isPermaLink="true">https://sashiko.dev/</guid>
-      <description>Eina agentiva que automatitza la revisió de codi del kernel de Linux amb intel·ligència artificial.</description>
+      <description>Nova eina que utilitza agents d'IA per revisar automàticament el codi font del nucli Linux.</description>
       <author>Hacker News</author>
       <pubDate>2026-03-22</pubDate>
     </item>
     <item>
-      <title>Cloudflare marca archive.today com a "C&amp;C/Botnet" i deixa de resoldre el domini</title>
+      <title>Cloudflare etiqueta archive.today com a botnet i en bloqueja la resolució</title>
       <link>https://radar.cloudflare.com/domains/domain/archive.today</link>
       <guid isPermaLink="true">https://radar.cloudflare.com/domains/domain/archive.today</guid>
-      <description>El servei 1.1.1.2 de Cloudflare ha bloquejat el domini archive.today per considerar-lo maliciós.</description>
-      <author>Hacker News</author>
-      <pubDate>2026-03-22</pubDate>
-    </item>
-    <item>
-      <title>Alpha Micro AM-1000E i AM-1200: restauració de maquinari retro</title>
-      <link>http://oldvcr.blogspot.com/2026/03/refurb-weekend-double-header-alpha.html</link>
-      <guid isPermaLink="true">http://oldvcr.blogspot.com/2026/03/refurb-weekend-double-header-alpha.html</guid>
-      <description>Recuperació i posada en marxa de dos ordinadors Alpha Micro de l'era clàssica de la informàtica.</description>
+      <description>Cloudflare ha classificat archive.today com a C&amp;C/Botnet i ja no el resol via 1.1.1.2.</description>
       <author>Hacker News</author>
       <pubDate>2026-03-22</pubDate>
     </item>
@@ -51,79 +59,63 @@
       <title>Els tres pilars del bloat de JavaScript</title>
       <link>https://43081j.com/2026/03/three-pillars-of-javascript-bloat</link>
       <guid isPermaLink="true">https://43081j.com/2026/03/three-pillars-of-javascript-bloat</guid>
-      <description>Anàlisi de les causes principals que fan que les aplicacions web JavaScript siguin excessivament pesants.</description>
+      <description>Anàlisi dels factors principals que fan que les aplicacions web JavaScript siguin cada cop més pesades.</description>
       <author>Hacker News</author>
       <pubDate>2026-03-22</pubDate>
     </item>
     <item>
-      <title>Floci: emulador local d'AWS gratuït i de codi obert</title>
+      <title>Floci: emulador local d'AWS de codi obert i gratuït</title>
       <link>https://github.com/hectorvent/floci</link>
       <guid isPermaLink="true">https://github.com/hectorvent/floci</guid>
-      <description>Nova eina per emular serveis d'AWS localment sense necessitat de connexió al núvol d'Amazon.</description>
+      <description>Nova eina per emular serveis d'Amazon Web Services en local sense necessitat de connexió al núvol.</description>
       <author>Hacker News</author>
       <pubDate>2026-03-21</pubDate>
     </item>
     <item>
-      <title>Edició de vídeo professional al navegador amb WebGPU i WASM</title>
+      <title>Edició de vídeo professional directament al navegador amb WebGPU i WASM</title>
       <link>https://tooscut.app/</link>
       <guid isPermaLink="true">https://tooscut.app/</guid>
-      <description>Nova aplicació web que permet editar vídeo professionalment directament al navegador sense instal·lació.</description>
+      <description>Eina web que aprofita WebGPU i WebAssembly per oferir edició de vídeo professional sense instal·lació.</description>
       <author>Hacker News</author>
       <pubDate>2026-03-21</pubDate>
     </item>
     <item>
-      <title>No convertiu la protecció infantil en control d'accés a Internet</title>
-      <link>https://news.dyne.org/child-protection-is-not-access-control/</link>
-      <guid isPermaLink="true">https://news.dyne.org/child-protection-is-not-access-control/</guid>
-      <description>Reflexió crítica sobre com les lleis de protecció de menors poden derivar en censura d'internet.</description>
+      <title>Tinybox: un ordinador potent i compacte per a l'aprenentatge profund</title>
+      <link>https://tinygrad.org/#tinybox</link>
+      <guid isPermaLink="true">https://tinygrad.org/#tinybox</guid>
+      <description>Tinygrad presenta Tinybox, una màquina d'escriptori orientada a entrenar models d'IA de forma assequible.</description>
       <author>Hacker News</author>
       <pubDate>2026-03-21</pubDate>
     </item>
     <item>
-      <title>Eines de desenvolupament en Common Lisp</title>
-      <link>https://www.creativetension.co/posts/common-lisp-development-tooling</link>
-      <guid isPermaLink="true">https://www.creativetension.co/posts/common-lisp-development-tooling</guid>
-      <description>Guia actualitzada sobre l'ecosistema d'eines per desenvolupar programari en Common Lisp.</description>
-      <author>Hacker News</author>
-      <pubDate>2026-03-21</pubDate>
-    </item>
-    <item>
-      <title>Un grup d'experts europeus atribueixen la gran apagada de l'abril a una fallada en el control de tensió i a una cascada de desconnexions</title>
-      <link>https://www.rac1.cat/societat/20260320/332966/experts-europeus-atribueixen-l-apagada-fallada-control-tensio-cascada-desconnexions.html</link>
-      <guid isPermaLink="true">https://www.rac1.cat/societat/20260320/332966/experts-europeus-atribueixen-l-apagada-fallada-control-tensio-cascada-desconnexions.html</guid>
-      <description>L'informe final d'ENTSO-E apunta a factors múltiples i descarta un únic origen del col·lapse elèctric.</description>
-      <author>RAC1</author>
-      <pubDate>2026-03-20</pubDate>
-    </item>
-    <item>
-      <title>Els experts europeus demanen canvis a tots els actors per evitar una altra apagada</title>
-      <link>https://www.lavanguardia.com/encatala/20260321/11495572/els-experts-europeus-demanen-canvis-tots-els-actors-per-evitar-altra-apagada.html</link>
-      <guid isPermaLink="true">https://www.lavanguardia.com/encatala/20260321/11495572/els-experts-europeus-demanen-canvis-tots-els-actors-per-evitar-altra-apagada.html</guid>
-      <description>Legislació, renovables, distribuïdores i operador del sistema van fallar el 28 d'abril, segons l'informe.</description>
-      <author>La Vanguardia (en català)</author>
-      <pubDate>2026-03-21</pubDate>
+      <title>Fins i tot el millor escenari per als mercats energètics és desastrós</title>
+      <link>https://www.economist.com/finance-and-economics/2026/03/22/even-the-best-case-scenario-for-energy-markets-is-disastrous</link>
+      <guid isPermaLink="true">https://www.economist.com/finance-and-economics/2026/03/22/even-the-best-case-scenario-for-energy-markets-is-disastrous</guid>
+      <description>Sigui quin sigui el desenllaç de la guerra amb l'Iran, els preus alts de l'energia persistiran.</description>
+      <author>The Economist</author>
+      <pubDate>2026-03-22</pubDate>
     </item>
     <item>
       <title>Nodus, els agents digitals catalans que fan de la IA eficiència operativa per a les pimes</title>
       <link>https://empreses.ara.cat/innovacio/nodus-agents-digitals-catalans-ia-eficiencia-operativa-pimes_1_5682230.html</link>
       <guid isPermaLink="true">https://empreses.ara.cat/innovacio/nodus-agents-digitals-catalans-ia-eficiencia-operativa-pimes_1_5682230.html</guid>
-      <description>Startup catalana que desenvolupa agents d'IA autònoms per automatitzar processos en petites i mitjanes empreses.</description>
+      <description>Startup catalana desenvolupa agents d'IA autònoms per automatitzar fluxos de treball a petites empreses.</description>
       <author>Ara.cat</author>
       <pubDate>2026-03-22</pubDate>
     </item>
     <item>
-      <title>Instagram deixarà d'encriptar els missatges privats</title>
-      <link>https://www.ara.cat/media/instagram-deixara-d-encriptar-missatges-privats_1_5684592.html</link>
-      <guid isPermaLink="true">https://www.ara.cat/media/instagram-deixara-d-encriptar-missatges-privats_1_5684592.html</guid>
-      <description>Meta ha eliminat l'encriptació de missatges d'Instagram per permetre als jutges accedir als continguts.</description>
-      <author>Ara.cat</author>
-      <pubDate>2026-03-20</pubDate>
+      <title>La cimera de Barcelona i el risc de no actuar</title>
+      <link>https://www.lavanguardia.com/encatala/20260322/11496077/cimera-barcelona-i-risc-actuar.html</link>
+      <guid isPermaLink="true">https://www.lavanguardia.com/encatala/20260322/11496077/cimera-barcelona-i-risc-actuar.html</guid>
+      <description>Reflexió sobre la regulació digital europea i les tensions amb les grans plataformes tecnològiques americanes.</description>
+      <author>La Vanguardia (en català)</author>
+      <pubDate>2026-03-22</pubDate>
     </item>
     <item>
       <title>Tens fills? Així funcionarà el nou control parental de WhatsApp</title>
       <link>https://criatures.ara.cat/familia/tens-fills-aixi-funcionara-nou-control-parental-whatsapp_1_5677180.html</link>
       <guid isPermaLink="true">https://criatures.ara.cat/familia/tens-fills-aixi-funcionara-nou-control-parental-whatsapp_1_5677180.html</guid>
-      <description>WhatsApp implementarà controls per als menors de 14 anys que limitaran trucades, missatges i accés a la IA.</description>
+      <description>Meta activarà un control parental per a menors de 14 anys que limitarà les funcions de WhatsApp.</description>
       <author>Ara.cat</author>
       <pubDate>2026-03-21</pubDate>
     </item>
@@ -131,111 +123,103 @@
       <title>Una nova eina permet veure la contaminació de l'aire de Barcelona gairebé carrer a carrer</title>
       <link>https://www.rac1.cat/societat/20260321/333206/bsc-crea-eina-veure-contaminacio-l-aire-barcelona-carrer-carrer.html</link>
       <guid isPermaLink="true">https://www.rac1.cat/societat/20260321/333206/bsc-crea-eina-veure-contaminacio-l-aire-barcelona-carrer-carrer.html</guid>
-      <description>El Barcelona Supercomputing Center ha creat una base de dades oberta sobre NO2 entre 2019 i 2024.</description>
+      <description>El Barcelona Supercomputing Center publica una base de dades oberta sobre la qualitat de l'aire entre 2019 i 2024.</description>
       <author>RAC1</author>
       <pubDate>2026-03-21</pubDate>
     </item>
     <item>
-      <title>Un militar revela a Strava la posició del 'Charles de Gaulle'</title>
-      <link>https://www.lavanguardia.com/encatala/20260321/11495472/militar-revela-strava-posicio-charles-gaulle.html</link>
-      <guid isPermaLink="true">https://www.lavanguardia.com/encatala/20260321/11495472/militar-revela-strava-posicio-charles-gaulle.html</guid>
-      <description>Un oficial francès va exposar la ubicació del portaavions al compartir el seu entrenament a l'app esportiva.</description>
-      <author>La Vanguardia (en català)</author>
-      <pubDate>2026-03-21</pubDate>
+      <title>Instagram deixarà d'encriptar els missatges privats</title>
+      <link>https://www.ara.cat/media/instagram-deixara-d-encriptar-missatges-privats_1_5684592.html</link>
+      <guid isPermaLink="true">https://www.ara.cat/media/instagram-deixara-d-encriptar-missatges-privats_1_5684592.html</guid>
+      <description>Meta eliminarà el xifratge dels missatges d'Instagram al maig per permetre l'accés judicial al contingut.</description>
+      <author>Ara.cat</author>
+      <pubDate>2026-03-20</pubDate>
     </item>
     <item>
-      <title>La cimera de Barcelona i el risc de no actuar</title>
-      <link>https://www.lavanguardia.com/encatala/20260322/11496077/cimera-barcelona-i-risc-actuar.html</link>
-      <guid isPermaLink="true">https://www.lavanguardia.com/encatala/20260322/11496077/cimera-barcelona-i-risc-actuar.html</guid>
-      <description>Reflexió sobre els riscos d'inacció davant les grans plataformes tecnològiques i la regulació digital europea.</description>
-      <author>La Vanguardia (en català)</author>
-      <pubDate>2026-03-22</pubDate>
+      <title>Un grup d'experts europeus atribueixen la gran apagada de l'abril a una fallada en el control de tensió</title>
+      <link>https://www.rac1.cat/societat/20260320/332966/experts-europeus-atribueixen-l-apagada-fallada-control-tensio-cascada-desconnexions.html</link>
+      <guid isPermaLink="true">https://www.rac1.cat/societat/20260320/332966/experts-europeus-atribueixen-l-apagada-fallada-control-tensio-cascada-desconnexions.html</guid>
+      <description>L'informe final de l'ENTSO-E conclou que l'apagada elèctrica d'Espanya i Portugal fou per múltiples factors combinats.</description>
+      <author>RAC1</author>
+      <pubDate>2026-03-20</pubDate>
     </item>
     <item>
       <title>La música que ens ha marcat la vida – programa 657</title>
       <link>https://mossegalapoma.cat/la-musica-que-ens-ha-marcat-la-vida-programa-657/</link>
       <guid isPermaLink="true">https://mossegalapoma.cat/la-musica-que-ens-ha-marcat-la-vida-programa-657/</guid>
-      <description>La música adolescent, eines d'edició d'àudio, IA i projectes de Softcatalà per al català a internet.</description>
+      <description>Parlen de creació musical, IA i com la música escoltada entre els 14 i 18 anys queda gravada per sempre.</description>
       <author>Mossega la poma</author>
       <pubDate>2026-03-19</pubDate>
-    </item>
-    <item>
-      <title>Les dades obertes i la transparència pública – programa 656</title>
-      <link>https://mossegalapoma.cat/les-dades-obertes-i-la-transparencia-publica-programa-656/</link>
-      <guid isPermaLink="true">https://mossegalapoma.cat/les-dades-obertes-i-la-transparencia-publica-programa-656/</guid>
-      <description>Creació de contingut digital, publicació autònoma i gestió de dades públiques en l'era de la IA.</description>
-      <author>Mossega la poma</author>
-      <pubDate>2026-03-13</pubDate>
-    </item>
-    <item>
-      <title>Com la IA està revolucionant l'escriptura i la publicació de llibres – Programa 655</title>
-      <link>https://mossegalapoma.cat/com-la-ia-esta-revolucionant-lescriptura-i-la-publicacio-de-llibres-programa-655/</link>
-      <guid isPermaLink="true">https://mossegalapoma.cat/com-la-ia-esta-revolucionant-lescriptura-i-la-publicacio-de-llibres-programa-655/</guid>
-      <description>La IA transforma la creació d'escriptura, la producció cinematogràfica i la indústria editorial.</description>
-      <author>Mossega la poma</author>
-      <pubDate>2026-03-07</pubDate>
     </item>
     <item>
       <title>L'Altra Ràdio - El periodisme i la Guerra del Sudan</title>
       <link>https://podcasts.cat/36/33892317/</link>
       <guid isPermaLink="true">https://podcasts.cat/36/33892317/</guid>
-      <description>Periodistes exiliats creen mitjans digitals per informar del conflicte del Sudan des de l'estranger.</description>
+      <description>Reflexió sobre el periodisme digital al Sudan, on periodistes exiliats informen del conflicte via internet.</description>
       <author>L'altra ràdio</author>
       <pubDate>2026-03-19</pubDate>
-    </item>
-    <item>
-      <title>L'Altra Ràdio - Què és l'agnotologia algorítmica</title>
-      <link>https://podcasts.cat/36/33868712/</link>
-      <guid isPermaLink="true">https://podcasts.cat/36/33868712/</guid>
-      <description>Investigadora del BSC explica com els algoritmes i la IA poden produir ignorància de manera deliberada.</description>
-      <author>L'altra ràdio</author>
-      <pubDate>2026-03-12</pubDate>
-    </item>
-    <item>
-      <title>El gòTIC - Tenim una missió! del 11/3/2026</title>
-      <link>https://podcasts.cat/191/33863599/</link>
-      <guid isPermaLink="true">https://podcasts.cat/191/33863599/</guid>
-      <description>Recursos i estratègies per afrontar els reptes de la ciutadania digital des de l'Ajuntament de Tàrrega.</description>
-      <author>El Gòtic</author>
-      <pubDate>2026-03-10</pubDate>
     </item>
     <item>
       <title>Avui sí que perdem el patrocini de Parlem</title>
       <link>https://rss.com/podcasts/focaterra/2621247</link>
       <guid isPermaLink="true">https://rss.com/podcasts/focaterra/2621247</guid>
-      <description>Entrevista amb Ernest Pérez-Mas, fundador de Parlem, que ara es llança al món del podcàsting.</description>
+      <description>Entrevista a Ernest Pérez-Mas, fundador de Parlem, que ara es llança al món del podcàsting.</description>
       <author>Foc a Terra</author>
       <pubDate>2026-03-16</pubDate>
-    </item>
-    <item>
-      <title>Ja no vibrem amb el Mobile</title>
-      <link>https://rss.com/podcasts/focaterra/2608006</link>
-      <guid isPermaLink="true">https://rss.com/podcasts/focaterra/2608006</guid>
-      <description>Crònica en directe del Mobile World Congress i el 4YFN: novetats, festes i rumors entre xinesos i vibecoders.</description>
-      <author>Foc a Terra</author>
-      <pubDate>2026-03-09</pubDate>
     </item>
     <item>
       <title>L'inici de Twenty Twenty-Seven</title>
       <link>https://www.wppodcast.cat/podcast/linici-de-twenty-twenty-seven/</link>
       <guid isPermaLink="true">https://www.wppodcast.cat/podcast/linici-de-twenty-twenty-seven/</guid>
-      <description>Sis mesos abans del que és habitual comença la creació del tema Twenty Twenty-Seven per a WordPress 7.2.</description>
+      <description>Comença el procés de creació del tema oficial Twenty Twenty-Seven per WordPress 7.2.</description>
       <author>WordPress Pòdcast</author>
       <pubDate>2026-03-17</pubDate>
+    </item>
+    <item>
+      <title>Les dades obertes i la transparència pública – programa 656</title>
+      <link>https://mossegalapoma.cat/les-dades-obertes-i-la-transparencia-publica-programa-656/</link>
+      <guid isPermaLink="true">https://mossegalapoma.cat/les-dades-obertes-i-la-transparencia-publica-programa-656/</guid>
+      <description>Exploren com la transparència de dades públiques i la IA estan transformant la gestió governamental.</description>
+      <author>Mossega la poma</author>
+      <pubDate>2026-03-13</pubDate>
+    </item>
+    <item>
+      <title>L'Altra Ràdio - Què és l'agnotologia algorítmica</title>
+      <link>https://podcasts.cat/36/33868712/</link>
+      <guid isPermaLink="true">https://podcasts.cat/36/33868712/</guid>
+      <description>Experta del BSC explica com els algoritmes i la IA poden produir deliberadament ignorància col·lectiva.</description>
+      <author>L'altra ràdio</author>
+      <pubDate>2026-03-12</pubDate>
     </item>
     <item>
       <title>Panell de contribució</title>
       <link>https://www.wppodcast.cat/podcast/panell-de-contribucio/</link>
       <guid isPermaLink="true">https://www.wppodcast.cat/podcast/panell-de-contribucio/</guid>
-      <description>La comunitat WordPress publica el primer panell públic de contribució al projecte amb dades des del 2021.</description>
+      <description>La comunitat WordPress estrena un panell públic que mostra les contribucions al projecte des del 2021.</description>
       <author>WordPress Pòdcast</author>
       <pubDate>2026-03-10</pubDate>
+    </item>
+    <item>
+      <title>El gòTIC - Tenim una missió! del 11/3/2026</title>
+      <link>https://podcasts.cat/191/33863599/</link>
+      <guid isPermaLink="true">https://podcasts.cat/191/33863599/</guid>
+      <description>El gòTIC de Tàrrega comparteix recursos per afrontar els grans reptes de la ciutadania digital.</description>
+      <author>El Gòtic</author>
+      <pubDate>2026-03-11</pubDate>
+    </item>
+    <item>
+      <title>Ja no vibrem amb el Mobile</title>
+      <link>https://rss.com/podcasts/focaterra/2608006</link>
+      <guid isPermaLink="true">https://rss.com/podcasts/focaterra/2608006</guid>
+      <description>Crònica del Mobile World Congress i el 4YFN: novetats, festes i rumors entre xinesos i vibecoders.</description>
+      <author>Foc a Terra</author>
+      <pubDate>2026-03-09</pubDate>
     </item>
     <item>
       <title>Capítol 60: Tria el projecte més innovador de l'any</title>
       <link>https://traffic.omny.fm/d/clips/47dc05c7-7279-4c6f-9b31-ae74013297d9/d3709a08-7df4-4359-85b0-af0f00b8b4b3/b171e98f-b86e-4158-a555-b4080098ba38/audio.mp3?dist=RSS</link>
       <guid isPermaLink="true">https://traffic.omny.fm/d/clips/47dc05c7-7279-4c6f-9b31-ae74013297d9/d3709a08-7df4-4359-85b0-af0f00b8b4b3/b171e98f-b86e-4158-a555-b4080098ba38/audio.mp3?dist=RSS</guid>
-      <description>Escolta els sis projectes finalistes del Premi Emprèn XXI de CaixaBank Day One i vota el guanyador.</description>
+      <description>Joc de rol per al premi Emprèn XXI de CaixaBank Day One, presentat durant el Mobile World Congress.</description>
       <author>RAC&amp;GO</author>
       <pubDate>2026-03-10</pubDate>
     </item>
@@ -243,7 +227,7 @@
       <title>Networking for AI Professionals around the world - March 25</title>
       <link>https://www.meetup.com/ai-professionals-barcelona/events/313832028/</link>
       <guid isPermaLink="true">https://www.meetup.com/ai-professionals-barcelona/events/313832028/</guid>
-      <description>Sessió en línia gratuïta d'1,5 hores per connectar professionals globals de la IA en grups petits.</description>
+      <description>Sessió en línia de networking per a professionals de la IA de tot el món el 25 de març.</description>
       <author>AI Professionals Barcelona</author>
       <pubDate>2026-03-18</pubDate>
     </item>
@@ -251,23 +235,15 @@
       <title>Com usar Wikidata per visibilitzar obres digitals de domini públic?</title>
       <link>https://www.meetup.com/barcelona-free-software/events/313790663/</link>
       <guid isPermaLink="true">https://www.meetup.com/barcelona-free-software/events/313790663/</guid>
-      <description>Xerrada al 26 de març a l'Akasha Hub sobre Wikidata i obres digitals de domini públic de Colòmbia.</description>
+      <description>Xerrada sobre l'ús de Wikidata per visibilitzar obres de domini públic en biblioteques i museus, el 26 de març.</description>
       <author>Free Software Barcelona</author>
       <pubDate>2026-03-16</pubDate>
-    </item>
-    <item>
-      <title>Llibres per repensar l'internet</title>
-      <link>https://www.youtube.com/watch?v=VgTRg9bx-Js</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=VgTRg9bx-Js</guid>
-      <description>Recomanacions de lectures per reflexionar sobre el paper d'internet en la societat contemporània.</description>
-      <author>Albert Lloreta</author>
-      <pubDate>2026-03-10</pubDate>
     </item>
     <item>
       <title>Els Putxinel·lis - Capítol 6 - La Competència</title>
       <link>https://www.youtube.com/watch?v=5lMEJ3YaVb8</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=5lMEJ3YaVb8</guid>
-      <description>Sisè episodi de la sèrie de curtmetratges d'animació Els Putxinel·lis del canal Pixelats.</description>
+      <description>Sisè capítol de la sèrie animada Els Putxinel·lis del canal de videojocs Pixelats.</description>
       <author>Pixelats</author>
       <pubDate>2026-03-19</pubDate>
     </item>
@@ -275,7 +251,7 @@
       <title>Els Putxinel·lis - Capítol 5 - L'amor llunyà</title>
       <link>https://www.youtube.com/watch?v=h_DPLBh1HBs</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=h_DPLBh1HBs</guid>
-      <description>Cinquè episodi de la sèrie d'animació Els Putxinel·lis, sobre l'amor a distància.</description>
+      <description>Cinquè capítol de la sèrie Els Putxinel·lis, sobre les aventures d'aquests personatges de ficció.</description>
       <author>Pixelats</author>
       <pubDate>2026-03-19</pubDate>
     </item>
@@ -283,7 +259,7 @@
       <title>Els Putxinel·lis - Capítol 4 - Cedeix, però segueix</title>
       <link>https://www.youtube.com/watch?v=1JIuh5sgM4M</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=1JIuh5sgM4M</guid>
-      <description>Quart episodi de la sèrie d'animació Els Putxinel·lis del canal català Pixelats.</description>
+      <description>Quart capítol de la sèrie animada Els Putxinel·lis del canal Pixelats.</description>
       <author>Pixelats</author>
       <pubDate>2026-03-19</pubDate>
     </item>
@@ -291,7 +267,7 @@
       <title>Els Putxinel·lis - Capítol 3 - Pobre, pobre Toad</title>
       <link>https://www.youtube.com/watch?v=aCrClLDZ7_k</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=aCrClLDZ7_k</guid>
-      <description>Tercer episodi de la sèrie d'animació catalana Els Putxinel·lis protagonitzat pel personatge Toad.</description>
+      <description>Tercer capítol de la sèrie Els Putxinel·lis amb el personatge Toad com a protagonista.</description>
       <author>Pixelats</author>
       <pubDate>2026-03-19</pubDate>
     </item>
@@ -299,7 +275,7 @@
       <title>Els Putxinel·lis - Capítol 2 - Negociació Infructuosa</title>
       <link>https://www.youtube.com/watch?v=rrmDfGk5QMA</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=rrmDfGk5QMA</guid>
-      <description>Segon episodi de la sèrie d'animació Els Putxinel·lis, sobre una negociació sense èxit.</description>
+      <description>Segon capítol de la sèrie animada catalana Els Putxinel·lis del canal Pixelats.</description>
       <author>Pixelats</author>
       <pubDate>2026-03-19</pubDate>
     </item>
@@ -307,7 +283,7 @@
       <title>Els Putxinel·lis - Capítol 1 - Benvinguts al meu experiment</title>
       <link>https://www.youtube.com/watch?v=Z23NKn67HM0</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=Z23NKn67HM0</guid>
-      <description>Primer episodi de la nova sèrie d'animació Els Putxinel·lis del canal de videojocs català Pixelats.</description>
+      <description>Primer capítol de la nova sèrie animada Els Putxinel·lis del canal de videojocs Pixelats.</description>
       <author>Pixelats</author>
       <pubDate>2026-03-19</pubDate>
     </item>
@@ -315,9 +291,25 @@
       <title>Pixelats vs. NINJA JAJAMARU: The Great Yokai Battle!!</title>
       <link>https://www.youtube.com/watch?v=PaFf_uiwGpg</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=PaFf_uiwGpg</guid>
-      <description>El canal Pixelats juga en català al remake del clàssic arcade japonès Ninja JaJaMaru.</description>
+      <description>El canal Pixelats prova el joc de plataformes Ninja Jajamaru: The Great Yokai Battle en directe.</description>
       <author>Pixelats</author>
       <pubDate>2026-03-18</pubDate>
+    </item>
+    <item>
+      <title>Llibres per repensar l'internet</title>
+      <link>https://www.youtube.com/watch?v=VgTRg9bx-Js</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=VgTRg9bx-Js</guid>
+      <description>Recomanació de llibres que ajuden a entendre i repensar el funcionament i l'impacte d'internet.</description>
+      <author>Albert Lloreta</author>
+      <pubDate>2026-03-10</pubDate>
+    </item>
+    <item>
+      <title>¿Quánta penya treballa a Docusign?</title>
+      <link>https://www.youtube.com/shorts/2hyxpOwIZ9g</link>
+      <guid isPermaLink="true">https://www.youtube.com/shorts/2hyxpOwIZ9g</guid>
+      <description>Short de Barra Inversa que analitza la dimensió i l'estructura de la plantilla de Docusign.</description>
+      <author>Barra Inversa</author>
+      <pubDate>2026-03-09</pubDate>
     </item>
   </channel>
 </rss>
