@@ -32,6 +32,7 @@ Your task is to execute the following instructions:
   - Prioritize stories covered by multiple sources
   - Prioritize stores with impact for society and end-users
   - Hard limit: never include more than 3 articles from the same source, skip any further articles from that source.
+  - As a final tiebreaker, prefer the article that appears first in the input.
   - It is OK if fewer than 10 articles are selected
 - For podcasts category: include every episode whose `pubDate` is within 15 days before `fetched_at`
   - Compute the cutoff as: cutoff = fetched_at − 15 days. Include the episode if pubDate ≥ cutoff, exclude if pubDate < cutoff

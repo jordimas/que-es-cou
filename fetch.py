@@ -223,9 +223,12 @@ for section_id in SECTION_IDS:
     max_days = section_data.get("max_days")
     section = fetch_section(section_id, section_sources)
     approved = []
+    discarded = 0
     for source in section["sources"]:
         if max_days:
+            before = len(source.get("items", []))
             source["items"] = filter_by_age(source.get("items", []), max_days)
+            discarded += before - len(source["items"])
         is_tech = source.get("tech", False)
         for item in source.get("items", []):
             link = item.get("link", "")
@@ -243,7 +246,7 @@ for section_id in SECTION_IDS:
     if max_days:
         kept = sum(len(s.get("items", [])) for s in section["sources"])
         print(
-            f"  [{section_id}] {kept} items need classification, {len(approved)} auto-approved"
+            f"  [{section_id}] {kept} items need classification, {len(approved)} auto-approved ({discarded} discarded too old)"
         )
     out_path = output_dir / f"raw_feeds_{section_id}.json"
     out_path.write_text(

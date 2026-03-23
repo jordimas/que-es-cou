@@ -4,11 +4,11 @@ run:
 	@date +%s > /tmp/.make_run_start
 	python fetch.py
 	@echo "Execute filtering"
-	claude --dangerously-skip-permissions -p "Run the prompts/tech_topic_filter.md task"
+	claude --dangerously-skip-permissions --model claude-sonnet-4-6 -p "Run the prompts/tech_topic_filter.md task"
 	python merge_filter.py
 	@echo "Execute prompt.md"
 	rm -f output/news.json
-	claude --dangerously-skip-permissions -p "Run the prompts/prompt.md task"
+	claude --dangerously-skip-permissions --model claude-sonnet-4-6 -p "Run the prompts/prompt.md task"
 	@echo "Checking"
 	python validate.py
 	@echo "Rendering"

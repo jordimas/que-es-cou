@@ -16,6 +16,8 @@ on:
     secrets:
       CLAUDE_CONFIG:
         required: true
+      CLAUDE_CODE_OAUTH_TOKEN:
+        required: false
       TG_TOKEN:
         required: true
       TG_CHAT_ID:
@@ -52,6 +54,7 @@ jobs:
       - name: Run script
         env:
           TZ: Europe/Madrid
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
         run: make run
 
       - name: Update telegram.json with new hashes
