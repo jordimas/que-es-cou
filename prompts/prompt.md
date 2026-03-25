@@ -12,7 +12,7 @@ Your task is to execute the following instructions:
 - Do not fetch any URLs yourself. Use only the data in these files.
 - Each file contains a "fetched_at" timestamp and a "section" object with an "id" and a list of sources.
   Each source has: name, url, status (ok/blocked/error), optional error_detail, and an items array.
-  Each item has: title, link, pubDate, description.
+  Each item has: title, pubDate, description.
 - Use the status and error_detail from each source directly to populate sources_checked in the output.
 
 **SELECTION CRITERIA**
@@ -37,14 +37,12 @@ Your task is to execute the following instructions:
 - For podcasts category: include every episode whose `pubDate` is within 15 days before `fetched_at`
   - Compute the cutoff as: cutoff = fetched_at − 15 days. Include the episode if pubDate ≥ cutoff, exclude if pubDate < cutoff
   - The sources are already curated tech podcasts — no topic filter needed, include all episodes in the date window
-  - If the episode's `link` does not start with `http://` or `https://`, skip it — do not include it
 - For events category: include every event whose `pubDate` is within 15 days before `fetched_at`
   - Compute the cutoff as: cutoff = fetched_at − 15 days. Include the episode if pubDate ≥ cutoff, exclude if pubDate < cutoff
   - The podcast sources are already curated — no topic filter needed, include all episodes in the date window
 - For videos category: include every video whose `pubDate` is within 15 days before `fetched_at`
   - Compute the cutoff as: cutoff = fetched_at − 15 days. Include the video if pubDate ≥ cutoff, exclude if pubDate < cutoff
   - The sources are already curated Catalan YouTube channels — no topic filter needed, include all videos in the date window
-  - If the video's `link` does not start with `http://` or `https://`, skip it
 
  
 **OUTPUT FORMAT**
@@ -57,7 +55,6 @@ Your task is to execute the following instructions:
 - "generated_at" must be today's date and current time in YYYY-MM-DDTHH:MM format, in Barcelona local time (Europe/Madrid timezone)
 - "summary" must be 20 words or fewer, written in Catalan. Count the words carefully — if it exceeds 20 words, shorten it. This limit is strict.
 - "link_id" must be the exact value of the `link_id` field from the feed item. Never derive, reconstruct, or infer a link_id.
-- Skip any article whose `link` does not start with `http://` or `https://` — no exceptions, no substitutions.
 - "source" is the publication name (e.g. "TechCrunch", "Ara.cat")
 - "date" is the article's publication date in YYYY-MM-DD format, taken from the RSS <pubDate> or <dc:date> tag. Never infer the date from context.
 - "time" is the article's publication time in HH:MM format (24h), taken from the same tag. Use "00:00" if not present.

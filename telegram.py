@@ -22,7 +22,6 @@ from pathlib import Path
 
 from news_utils import SECTION_LABELS, format_date_ca, load_news
 
-
 MAX_ARTICLES_PER_SECTION = 15
 
 # ─── Helpers ──────────────────────────────────────────────────────────────────

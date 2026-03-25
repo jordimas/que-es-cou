@@ -12,7 +12,9 @@ import httpx
 OPENROUTER_API_KEY = os.environ.get("OPENROUTER_API_KEY")
 MODEL = "google/gemma-3-27b-it"
 OUTPUT_DIR = "output"
-PROMPT_PATH = os.path.join(os.path.dirname(__file__), "..", "prompts", "tech_topic_filter.md")
+PROMPT_PATH = os.path.join(
+    os.path.dirname(__file__), "..", "prompts", "tech_topic_filter.md"
+)
 
 
 def load_json(path):
@@ -86,9 +88,9 @@ def main():
 
     # Validate it's valid JSON with the expected schema
     result = json.loads(content)
-    assert "world" in result and "catalunya" in result, (
-        "Missing expected keys in response"
-    )
+    assert (
+        "world" in result and "catalunya" in result
+    ), "Missing expected keys in response"
 
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(result, f, ensure_ascii=False, indent=2)

@@ -168,11 +168,15 @@ def main():
     )
 
     total_tokens = total_prompt_tokens + total_completion_tokens
-    print(f"\nTokens used this run: {total_tokens:,} (prompt: {total_prompt_tokens:,}, completion: {total_completion_tokens:,})")
+    print(
+        f"\nTokens used this run: {total_tokens:,} (prompt: {total_prompt_tokens:,}, completion: {total_completion_tokens:,})"
+    )
     remaining_day = last_headers.get("x-ratelimit-remaining-tokens-day")
     limit_day = last_headers.get("x-ratelimit-limit-tokens-day")
     if remaining_day and limit_day:
-        print(f"Daily token quota: {int(remaining_day):,} remaining / {int(limit_day):,} total")
+        print(
+            f"Daily token quota: {int(remaining_day):,} remaining / {int(limit_day):,} total"
+        )
 
 
 if __name__ == "__main__":

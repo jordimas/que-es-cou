@@ -98,7 +98,7 @@ world:
     tech: true
 
 economy:
-  max_days: 7
+  max_days: 5
   sources:
   - name: The Economist
     url: https://www.economist.com/science-and-technology/rss.xml
@@ -110,7 +110,7 @@ economy:
     url: https://www.cnbc.com/id/19854910/device/rss/rss.html
 
 catalunya:
-  max_days: 7
+  max_days: 5
   sources:
   - name: Ara.cat
     url: https://www.ara.cat/rss/
@@ -255,7 +255,7 @@ podcasts:
     url: https://api.audioteca.rac1.cat/rss/rac-and-go
 
 events:
-  max_days: 30
+  max_days: 15
   sources:
   - name: WordPress BCN
     url: https://www.meetup.com/WordPressBCN/events/rss/
@@ -283,7 +283,7 @@ events:
     url: https://www.eventbrite.es/d/spain--barcelona/technology--events/
 
 videos:
-  max_days: 15
+  max_days: 7
   sources:
   - name: Albert Lloreta
     url: https://www.youtube.com/feeds/videos.xml?channel_id=UCemmGKC37IgR8mwXSzvKRYQ

@@ -178,7 +178,9 @@ def main():
     with open(Path(__file__).parent / "golden_dataset.json") as f:
         golden = json.load(f)
 
-    print(f"Running classifier ({args.impl}{f'/{args.model}' if args.model else ''})...")
+    print(
+        f"Running classifier ({args.impl}{f'/{args.model}' if args.model else ''})..."
+    )
     predictions = run_classifier(golden, args.impl, model=args.model)
 
     test_case = LLMTestCase(

@@ -230,14 +230,24 @@ for section_id in SECTION_IDS:
             source["items"] = filter_by_age(source.get("items", []), max_days)
             discarded += before - len(source["items"])
         is_tech = source.get("tech", False)
+        filtered_items = []
         for item in source.get("items", []):
             link = item.get("link", "")
-            if link:
-                link_id = "c_" + hashlib.sha1(link.encode()).hexdigest()[-6:]
-                links[link_id] = link
-                item["link_id"] = link_id
+            if not link or not (
+                link.startswith("http://") or link.startswith("https://")
+            ):
+                continue
+
+            link_id = "c_" + hashlib.sha1(link.encode()).hexdigest()[-6:]
+            links[link_id] = link
+            item["link_id"] = link_id
+            if "link" in item:
+                del item["link"]
+            filtered_items.append(item)
+
             if is_tech and item.get("link_id"):
                 approved.append(item["link_id"])
+        source["items"] = filtered_items
         # Remove tech: true items from source so they don't enter the classifier
         if is_tech:
             source["items"] = []
