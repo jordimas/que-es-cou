@@ -4,7 +4,7 @@ on:
   push:
     branches: ["main"]
   schedule:
-    - cron: "0 17 * * *"
+#    - cron: "0 17 * * *"
     - cron: "0 8 * * *"
 concurrency:
   group: pages-main
