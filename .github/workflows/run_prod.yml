@@ -14,7 +14,8 @@ jobs:
     uses: ./.github/workflows/_run.yml
     with:
       branch: main
-      send_telegram: ${{ github.event_name == 'schedule' && github.event.schedule == '30 11 * * *' }}
+      #send_telegram: ${{ github.event_name == 'schedule' && github.event.schedule == '30 11 * * *' }}
+      send_telegram: true
     secrets:
       CLAUDE_CONFIG: ${{ secrets.CLAUDE_CONFIG }}
       CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
