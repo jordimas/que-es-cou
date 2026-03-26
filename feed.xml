@@ -5,269 +5,277 @@
     <link>https://jordimas.github.io/que-es-cou/</link>
     <description>Notícies de tecnologia en català, actualitzades cada 4 hores.</description>
     <language>ca</language>
-    <lastBuildDate>2026-03-26T19:00</lastBuildDate>
+    <lastBuildDate>2026-03-26T21:10</lastBuildDate>
     <atom:link href="https://jordimas.github.io/que-es-cou/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Colibri – plataforma de xat basada en el protocol AT per a comunitats de qualsevol mida</title>
+      <title>Colibri: nova plataforma de xat per a comunitats basada en el protocol AT</title>
       <link>https://colibri.social/</link>
       <guid isPermaLink="true">https://colibri.social/</guid>
-      <description>Nova plataforma construïda sobre el protocol AT que vol ser una alternativa comunitària a les xarxes centralitzades.</description>
+      <description>Nova plataforma de missatgeria per a comunitats, construïda sobre el protocol AT de Bluesky.</description>
       <author>Hacker News</author>
       <pubDate>2026-03-26</pubDate>
     </item>
     <item>
-      <title>Construir un blog amb Elixir i Phoenix</title>
+      <title>Crear un blog amb Elixir i Phoenix</title>
       <link>https://jola.dev/posts/building-a-blog-with-elixir-and-phoenix</link>
       <guid isPermaLink="true">https://jola.dev/posts/building-a-blog-with-elixir-and-phoenix</guid>
-      <description>Tutorial pràctic sobre com crear un blog funcional usant el framework Phoenix del llenguatge Elixir.</description>
+      <description>Guia pràctica per construir un blog des de zero amb el framework Phoenix d'Elixir.</description>
       <author>Hacker News</author>
       <pubDate>2026-03-26</pubDate>
     </item>
     <item>
-      <title>Aquest telèfon 'semi-intel·ligent' de 450 dòlars amb prou feines és un telèfon</title>
+      <title>Aquest telèfon semibàsic de 450 dòlars pràcticament no és un telèfon</title>
       <link>https://gizmodo.com/this-450-semi-dumb-phone-is-barely-even-a-phone-2000738485</link>
       <guid isPermaLink="true">https://gizmodo.com/this-450-semi-dumb-phone-is-barely-even-a-phone-2000738485</guid>
-      <description>El Meadow ofereix algunes apps i trucades però té una llista de contactes molt limitada.</description>
+      <description>Meadow ofereix trucades, missatges i algunes apps limitades, però no permet una llista de contactes gran.</description>
       <author>Gizmodo</author>
       <pubDate>2026-03-26</pubDate>
     </item>
     <item>
-      <title>Una startup encén el primer coet de fusió nuclear del món</title>
+      <title>Una startup encén amb èxit el primer coet de fusió nuclear del món</title>
       <link>https://gizmodo.com/startup-successfully-ignites-worlds-first-fusion-rocket-2000738506</link>
       <guid isPermaLink="true">https://gizmodo.com/startup-successfully-ignites-worlds-first-fusion-rocket-2000738506</guid>
-      <description>Pulsar Fusion aconsegueix el 'primer plasma' al seu coet Sunbird, dissenyat per propulsar naus a velocitats mai assolides.</description>
+      <description>Pulsar Fusion ha aconseguit el 'primer plasma' al seu coet Sunbird, basat en fusió nuclear.</description>
       <author>Gizmodo</author>
       <pubDate>2026-03-26</pubDate>
     </item>
     <item>
-      <title>OpenTelemetry Profiles entra en alfa pública</title>
+      <title>OpenTelemetry profiles entra en alfa pública</title>
       <link>https://opentelemetry.io/blog/2026/profiles-alpha/</link>
       <guid isPermaLink="true">https://opentelemetry.io/blog/2026/profiles-alpha/</guid>
-      <description>El sistema de perfilat distribuït d'OpenTelemetry arriba a la fase alfa oberta per a tota la comunitat.</description>
+      <description>La funcionalitat de perfilació d'OpenTelemetry arriba a la fase d'alfa pública.</description>
       <author>Hacker News</author>
       <pubDate>2026-03-26</pubDate>
     </item>
     <item>
-      <title>Stripe Projects: provisiona i gestiona serveis des de la línia de comandes</title>
+      <title>Stripe Projects: provisiona i gestiona serveis des de la CLI</title>
       <link>https://projects.dev/</link>
       <guid isPermaLink="true">https://projects.dev/</guid>
-      <description>Stripe llança una eina per provisionar i gestionar serveis de pagament directament des del CLI.</description>
+      <description>Stripe llança una nova eina per crear i gestionar serveis directament des de la línia d'ordres.</description>
       <author>Hacker News</author>
       <pubDate>2026-03-26</pubDate>
     </item>
     <item>
-      <title>Show HN: eina que avalua proveïdors B2B conversant amb els seus agents d'IA</title>
-      <link>https://github.com/salespeak-ai/buyer-eval-skill</link>
-      <guid isPermaLink="true">https://github.com/salespeak-ai/buyer-eval-skill</guid>
-      <description>Una skill de Claude que permet avaluar proveïdors empresarials mantenint converses automatitzades amb els seus agents.</description>
-      <author>Hacker News</author>
-      <pubDate>2026-03-26</pubDate>
-    </item>
-    <item>
-      <title>La meva resposta minut a minut a l'atac de malware de LiteLLM</title>
+      <title>La meva resposta minut a minut a l'atac de programari maliciós de LiteLLM</title>
       <link>https://futuresearch.ai/blog/litellm-attack-transcript/</link>
       <guid isPermaLink="true">https://futuresearch.ai/blog/litellm-attack-transcript/</guid>
-      <description>Relat de primera mà sobre la gestió d'un incident de seguretat a la cadena de subministrament de LiteLLM.</description>
+      <description>Relat de primera mà sobre com es va gestionar un atac de programari maliciós al projecte LiteLLM.</description>
       <author>Hacker News</author>
       <pubDate>2026-03-26</pubDate>
     </item>
     <item>
-      <title>Un regulador de Califòrnia classifica els 'robotaxis' de Tesla com a servei de limusina</title>
+      <title>El regulador californià classifica els 'robotaxis' de Tesla com a servei de limusina</title>
       <link>https://gizmodo.com/california-regulator-says-teslas-robotaxis-are-more-like-a-limo-in-the-eyes-of-the-law-2000738512</link>
       <guid isPermaLink="true">https://gizmodo.com/california-regulator-says-teslas-robotaxis-are-more-like-a-limo-in-the-eyes-of-the-law-2000738512</guid>
-      <description>El permís de Tesla a Califòrnia com a servei de limusina l'eximeix de lliurar dades sobre les seves operacions.</description>
+      <description>El permís de transport compartit de Tesla a Califòrnia exempta l'empresa de reportar dades d'operació.</description>
       <author>Gizmodo</author>
       <pubDate>2026-03-26</pubDate>
     </item>
     <item>
-      <title>La interoperabilitat pot salvar la web oberta (2023)</title>
+      <title>La interoperabilitat pot salvar el web obert (2023)</title>
       <link>https://spectrum.ieee.org/doctorow-interoperability</link>
       <guid isPermaLink="true">https://spectrum.ieee.org/doctorow-interoperability</guid>
-      <description>Article recuperat sobre com la interoperabilitat entre plataformes digitals és clau per preservar un internet obert.</description>
+      <description>Article del 2023 que argumenta que la interoperabilitat és clau per preservar la web oberta.</description>
       <author>Hacker News</author>
       <pubDate>2026-03-26</pubDate>
     </item>
     <item>
-      <title>Apple amplia el seu programa de fabricació als EUA amb quatre nous socis</title>
+      <title>Intel anuncia les GPU Arc Pro B70 i Arc Pro B65</title>
+      <link>https://www.techpowerup.com/347703/intel-announces-arc-pro-b70-and-arc-pro-b65-gpus-maxes-out-xe2-battlemage-architecture</link>
+      <guid isPermaLink="true">https://www.techpowerup.com/347703/intel-announces-arc-pro-b70-and-arc-pro-b65-gpus-maxes-out-xe2-battlemage-architecture</guid>
+      <description>Intel presenta dues noves targetes gràfiques professionals de la família Arc Pro per a estacions de treball.</description>
+      <author>Hacker News</author>
+      <pubDate>2026-03-26</pubDate>
+    </item>
+    <item>
+      <title>Cramer diu que Meta no és el nou tabac i desaconsella vendre les accions</title>
+      <link>https://www.cnbc.com/2026/03/26/cramer-meta-is-not-the-new-tobacco-warns-against-selling-over-court-rulings.html</link>
+      <guid isPermaLink="true">https://www.cnbc.com/2026/03/26/cramer-meta-is-not-the-new-tobacco-warns-against-selling-over-court-rulings.html</guid>
+      <description>L'analista Jim Cramer recomana no vendre Meta malgrat les condemnes per salut mental infantil.</description>
+      <author>CNBC Technology</author>
+      <pubDate>2026-03-26</pubDate>
+    </item>
+    <item>
+      <title>Apple amplia el seu programa de fabricació americà amb quatre nous socis</title>
       <link>https://www.cnbc.com/2026/03/26/apple-american-manufacturing-program-trump.html</link>
       <guid isPermaLink="true">https://www.cnbc.com/2026/03/26/apple-american-manufacturing-program-trump.html</guid>
-      <description>Apple incorpora Bosch, Cirrus Logic, TDK i Qnity al seu programa de manufactura americana, comprometent 400 milions fins al 2030.</description>
+      <description>Apple incorpora Bosch, Cirrus Logic, TDK i Qnity al seu programa de fabricació als EUA fins al 2030.</description>
       <author>CNBC Technology</author>
       <pubDate>2026-03-26</pubDate>
     </item>
     <item>
-      <title>Meta pateix dues derrotes judicials en casos de seguretat infantil</title>
+      <title>Les derrotes judicials de Meta marquen un punt d'inflexió per a les xarxes socials</title>
       <link>https://www.cnbc.com/2026/03/26/meta-lawsuit-decision-zuckerberg-woes.html</link>
       <guid isPermaLink="true">https://www.cnbc.com/2026/03/26/meta-lawsuit-decision-zuckerberg-woes.html</guid>
-      <description>Dos tribunals condemnen Meta per perjudicar menors, un moment que experts consideren una fita per a les xarxes socials.</description>
+      <description>Dues condemnes seguides posen Meta en crisi i obren un debat sobre la responsabilitat de les plataformes socials.</description>
       <author>CNBC Technology</author>
       <pubDate>2026-03-26</pubDate>
     </item>
     <item>
-      <title>La Xina s'avança en la cursa del talent en intel·ligència artificial</title>
+      <title>Apple comprarà per primera vegada components fabricats als EUA per un proveïdor japonès</title>
+      <link>https://www.ft.com/content/712814d1-65e8-4c83-bf4d-8414e473ba32</link>
+      <guid isPermaLink="true">https://www.ft.com/content/712814d1-65e8-4c83-bf4d-8414e473ba32</guid>
+      <description>TDK produirà sensors avançats per a càmeres d'iPhone en una fàbrica dels EUA.</description>
+      <author>Financial Times</author>
+      <pubDate>2026-03-26</pubDate>
+    </item>
+    <item>
+      <title>La Xina guanya la carrera pel talent en intel·ligència artificial</title>
       <link>https://www.economist.com/interactive/science-and-technology/2026/03/25/china-is-winning-the-ai-talent-race</link>
       <guid isPermaLink="true">https://www.economist.com/interactive/science-and-technology/2026/03/25/china-is-winning-the-ai-talent-race</guid>
-      <description>L'avantatge de la Xina en capital humà d'IA respecte a Occident continua creixent, amb implicacions globals creixents.</description>
+      <description>L'avantatge de la Xina sobre Occident en talent d'IA no para de créixer.</description>
       <author>The Economist</author>
       <pubDate>2026-03-26</pubDate>
     </item>
     <item>
-      <title>SpaceX incrementa les ambicions de la seva sortida a borsa per captar 75.000 milions de dòlars</title>
+      <title>L'ascens dels tokens d'IA: la nova matèria primera de la Xina</title>
+      <link>https://www.ft.com/content/2567877b-9acc-4cf3-a9e5-5f46c1abd13e</link>
+      <guid isPermaLink="true">https://www.ft.com/content/2567877b-9acc-4cf3-a9e5-5f46c1abd13e</guid>
+      <description>Models d'IA xinesos com DeepSeek superen els rivals nord-americans en el consum de tokens.</description>
+      <author>Financial Times</author>
+      <pubDate>2026-03-26</pubDate>
+    </item>
+    <item>
+      <title>SpaceX reforça les aspiracions de sortida a borsa amb plans per captar 75.000 milions de dòlars</title>
       <link>https://www.ft.com/content/37a14f36-77f6-413e-a4d5-b05cefbddfb1</link>
       <guid isPermaLink="true">https://www.ft.com/content/37a14f36-77f6-413e-a4d5-b05cefbddfb1</guid>
-      <description>SpaceX vol sortir a borsa amb una valoració d'1,75 bilions de dòlars, la major oferta del sector espacial.</description>
+      <description>L'empresa de Musk vol sortir a borsa amb una valoració d'1,75 bilions de dòlars.</description>
       <author>Financial Times</author>
       <pubDate>2026-03-25</pubDate>
     </item>
     <item>
-      <title>Els grans directius que marxen citen la IA com a factor de la seva decisió</title>
-      <link>https://www.cnbc.com/2026/03/26/coca-cola-james-quincey-walmart-doug-mcmillon-artificial-intelligence-step-down.html</link>
-      <guid isPermaLink="true">https://www.cnbc.com/2026/03/26/coca-cola-james-quincey-walmart-doug-mcmillon-artificial-intelligence-step-down.html</guid>
-      <description>Els CEOs de Coca-Cola i Walmart assenyalen la propera onada d'IA com a raó del seu relleu generacional al capdavant.</description>
-      <author>CNBC Technology</author>
-      <pubDate>2026-03-26</pubDate>
+      <title>Meta i Google, responsables per danyar la salut mental dels nens en un cas emblemàtic als EUA</title>
+      <link>https://www.ft.com/content/d3d80bd4-d2b1-4522-9752-4071df5b4c0a</link>
+      <guid isPermaLink="true">https://www.ft.com/content/d3d80bd4-d2b1-4522-9752-4071df5b4c0a</guid>
+      <description>Un jurat condemna Meta i Google per perjudicar la salut mental de nens, amb danys d'almenys 3 milions.</description>
+      <author>Financial Times</author>
+      <pubDate>2026-03-25</pubDate>
     </item>
     <item>
-      <title>La marxa imparable dels 'omniscalers' tecnològics</title>
-      <link>https://www.ft.com/content/0eaa8134-fafe-4405-98a3-540abcad6a3d</link>
-      <guid isPermaLink="true">https://www.ft.com/content/0eaa8134-fafe-4405-98a3-540abcad6a3d</guid>
-      <description>Alphabet, Amazon, Alibaba i Huawei concentren recursos globals de manera creixent, aprofundint la seva posició dominant al mercat.</description>
+      <title>Un jurat de Los Angeles declara Meta i YouTube negligents en un judici sobre addicció digital</title>
+      <link>https://www.cnbc.com/2026/03/25/meta-youtube-los-angeles-california-verdict.html</link>
+      <guid isPermaLink="true">https://www.cnbc.com/2026/03/25/meta-youtube-los-angeles-california-verdict.html</guid>
+      <description>El jurat de LA considera Meta i YouTube responsables d'addicció a les xarxes entre nens i adolescents.</description>
+      <author>CNBC Technology</author>
+      <pubDate>2026-03-25</pubDate>
+    </item>
+    <item>
+      <title>Les borses nord-americanes cauen mentre el petroli puja davant l'ultimàtum de Trump a l'Iran</title>
+      <link>https://www.ft.com/content/1d92ecc5-f810-41f3-9dc1-465acbdd9a5b</link>
+      <guid isPermaLink="true">https://www.ft.com/content/1d92ecc5-f810-41f3-9dc1-465acbdd9a5b</guid>
+      <description>La tensió amb l'Iran i la incertesa sobre un acord fa caure les borses i pujar el petroli.</description>
       <author>Financial Times</author>
       <pubDate>2026-03-26</pubDate>
     </item>
     <item>
-      <title>Els bots i la IA s'han apoderat definitivament d'internet</title>
-      <link>https://www.cnbc.com/2026/03/26/ai-bots-humans-internet.html</link>
-      <guid isPermaLink="true">https://www.cnbc.com/2026/03/26/ai-bots-humans-internet.html</guid>
-      <description>Un informe revela que el tràfic automatitzat supera el humà a internet i creix vuit vegades més ràpid.</description>
-      <author>CNBC Technology</author>
+      <title>El Govern reconeix que es van filtrar milers de dades personals per error en les subvencions</title>
+      <link>https://www.ara.cat/politica/govern-reconeix-filtrar-milers-dades-personals-error-subvencions_1_5689702.html</link>
+      <guid isPermaLink="true">https://www.ara.cat/politica/govern-reconeix-filtrar-milers-dades-personals-error-subvencions_1_5689702.html</guid>
+      <description>La Generalitat admet la filtració accidental de 6.771 dades personals en la base de dades de subvencions.</description>
+      <author>Ara.cat</author>
+      <pubDate>2026-03-25</pubDate>
+    </item>
+    <item>
+      <title>La UE amenaça amb una multa milionària webs com Pornhub per permetre l'accés a menors</title>
+      <link>https://www.ara.cat/societat/ue-amenaca-multa-milionaria-webs-pornhub-permetre-l-acces-menors_1_5690905.html</link>
+      <guid isPermaLink="true">https://www.ara.cat/societat/ue-amenaca-multa-milionaria-webs-pornhub-permetre-l-acces-menors_1_5690905.html</guid>
+      <description>La Comissió Europea acusa XVideos, XNXX, PornHub i Stripchat de no verificar l'edat dels usuaris.</description>
+      <author>Ara.cat</author>
       <pubDate>2026-03-26</pubDate>
     </item>
     <item>
-      <title>Pot Europa alliberar-se de la dominació tecnològica dels EUA?</title>
-      <link>https://www.ft.com/content/18aed4ff-365d-43a4-bbff-e9156f9b3ea3</link>
-      <guid isPermaLink="true">https://www.ft.com/content/18aed4ff-365d-43a4-bbff-e9156f9b3ea3</guid>
-      <description>Debat sobre les possibilitats d'Europa per crear una alternativa als gegants tecnològics nord-americans.</description>
-      <author>Financial Times</author>
-      <pubDate>2026-03-26</pubDate>
+      <title>La IA europea no parlarà català si no és llengua oficial</title>
+      <link>https://www.ara.cat/ciencia-medi-ambient/tecnologia/ia-europea-no-parlara-catala-no-llengua-oficial_1_5682311.html</link>
+      <guid isPermaLink="true">https://www.ara.cat/ciencia-medi-ambient/tecnologia/ia-europea-no-parlara-catala-no-llengua-oficial_1_5682311.html</guid>
+      <description>Aconseguir l'oficialitat del català a la UE impulsaria el seu suport en sistemes d'IA i augmentaria el seu ecosistema tecnològic.</description>
+      <author>Ara.cat</author>
+      <pubDate>2026-03-22</pubDate>
     </item>
     <item>
-      <title>Resultat del judici de Meta, accions espacials i legislació sobre mercats de predicció</title>
-      <link>https://www.cnbc.com/2026/03/26/5-things-to-know-before-the-market-opens.html</link>
-      <guid isPermaLink="true">https://www.cnbc.com/2026/03/26/5-things-to-know-before-the-market-opens.html</guid>
-      <description>Cinc punts clau per als inversors: veredicte de Meta, accions espacials en alça i nous projectes de llei.</description>
-      <author>CNBC Technology</author>
-      <pubDate>2026-03-26</pubDate>
-    </item>
-    <item>
-      <title>Els enginyers de programari sobreviuran a la IA agèntica?</title>
-      <link>https://www.ft.com/content/7325e967-5f4e-40b1-af3f-7d2351781843</link>
-      <guid isPermaLink="true">https://www.ft.com/content/7325e967-5f4e-40b1-af3f-7d2351781843</guid>
-      <description>Malgrat el creixement de la IA, les ofertes laborals per a programadors sènior augmenten, no baixen.</description>
-      <author>Financial Times</author>
-      <pubDate>2026-03-26</pubDate>
+      <title>La NASA anuncia un ambiciós pla per construir una base permanent a la Lluna</title>
+      <link>https://www.lavanguardia.com/encatala/20260325/11498483/nasa-anuncia-ambicios-pla-per-construir-base-permanent-lluna.html</link>
+      <guid isPermaLink="true">https://www.lavanguardia.com/encatala/20260325/11498483/nasa-anuncia-ambicios-pla-per-construir-base-permanent-lluna.html</guid>
+      <description>La NASA destinarà 20.000 milions i abandona l'estació orbital per establir una presència humana a la Lluna.</description>
+      <author>La Vanguardia (en català)</author>
+      <pubDate>2026-03-25</pubDate>
     </item>
     <item>
       <title>Condemnes pel danys de les xarxes socials</title>
       <link>https://www.lavanguardia.com/encatala/20260326/11499303/condemnes-pel-danys-les-xarxes-socials.html</link>
       <guid isPermaLink="true">https://www.lavanguardia.com/encatala/20260326/11499303/condemnes-pel-danys-les-xarxes-socials.html</guid>
-      <description>Dues condemnes als EUA en 48 hores confirmen la responsabilitat de Meta i Google sobre el dany als menors.</description>
+      <description>Dos jurats nord-americans condemnen Meta i Google per addiccions en menors en dos processos en 48 hores.</description>
       <author>La Vanguardia (en català)</author>
       <pubDate>2026-03-26</pubDate>
     </item>
     <item>
-      <title>Parlem i Avatel trenquen negociacions i es descarta una integració</title>
-      <link>https://www.ara.cat/economia/tecnologia/parlem-avatel-trenquen-negociacions-descarta-integracio_1_5690389.html</link>
-      <guid isPermaLink="true">https://www.ara.cat/economia/tecnologia/parlem-avatel-trenquen-negociacions-descarta-integracio_1_5690389.html</guid>
-      <description>Avatel renuncia de forma irrevocable a integrar-se amb Parlem, frustrant l'operació que hauria reforçat la teleco catalana.</description>
-      <author>Ara.cat</author>
+      <title>Una batalla entre aspiradores inspira 'Roombattle', l'esbojarrat debut de l'estudi català Dust Games</title>
+      <link>https://www.lavanguardia.com/encatala/20260326/11499213/roombattle-dust-games-batalla-aspiradores-pc-videojoc.html</link>
+      <guid isPermaLink="true">https://www.lavanguardia.com/encatala/20260326/11499213/roombattle-dust-games-batalla-aspiradores-pc-videojoc.html</guid>
+      <description>Dust Games, estudi català, debuta al mercat PC amb 'Roombattle', un party game per a sis jugadors.</description>
+      <author>La Vanguardia (en català)</author>
       <pubDate>2026-03-26</pubDate>
     </item>
     <item>
       <title>La humanitat vol tornar a la Lluna… però aquesta vegada per quedar-s'hi</title>
       <link>https://www.rac1.cat/meteo/20260325/334165/humanitat-vol-tornar-lluna-vegada-quedar.html</link>
       <guid isPermaLink="true">https://www.rac1.cat/meteo/20260325/334165/humanitat-vol-tornar-lluna-vegada-quedar.html</guid>
-      <description>La NASA anuncia un nou pla per construir una base permanent a la Lluna i establir presència humana contínua.</description>
+      <description>El programa Artemis de la NASA preveu establir una presència humana permanent a la superfície lunar.</description>
       <author>RAC1</author>
       <pubDate>2026-03-25</pubDate>
     </item>
     <item>
-      <title>Europa toca el crostó a webs porno com Pornhub i amenaça amb sancions si no protegeixen els menors</title>
-      <link>https://www.3cat.cat/3catinfo/europa-toca-el-crosto-a-webs-porno-com-pornhub-i-amenaca-amb-sancions-si-no-protegeix-els-menors/noticia/3401733/</link>
-      <guid isPermaLink="true">https://www.3cat.cat/3catinfo/europa-toca-el-crosto-a-webs-porno-com-pornhub-i-amenaca-amb-sancions-si-no-protegeix-els-menors/noticia/3401733/</guid>
-      <description>La Comissió Europea amenaça de sancionar Pornhub i altres plataformes per incomplir la protecció de menors de la DSA.</description>
-      <author>324.cat</author>
-      <pubDate>2026-03-26</pubDate>
-    </item>
-    <item>
-      <title>La Comissió Europea investiga Snapchat per riscos per als menors</title>
-      <link>https://www.apuntmedia.es/noticies/mon/comissio-europea-investiga-snapchat-riscos-als-menors_1_1856993.html?utm_medium=rss</link>
-      <guid isPermaLink="true">https://www.apuntmedia.es/noticies/mon/comissio-europea-investiga-snapchat-riscos-als-menors_1_1856993.html?utm_medium=rss</guid>
-      <description>Europa investiga Snapchat per permetre l'exposició de menors a continguts sexuals, delictius i productes restringits per edat.</description>
-      <author>Àpunt</author>
-      <pubDate>2026-03-26</pubDate>
-    </item>
-    <item>
-      <title>El Segrià, entre les comarques on el Govern preveu més renovables</title>
-      <link>https://lleidadiari.cat/segria-energies-renovables-govern/</link>
-      <guid isPermaLink="true">https://lleidadiari.cat/segria-energies-renovables-govern/</guid>
-      <description>El Pla Territorial PLATER identifica el Segrià com una de les comarques amb més potencial per a energies renovables.</description>
-      <author>Lleida Diari</author>
+      <title>Estafadors i capellans</title>
+      <link>https://www.rac1.cat/opinio/20260326/334301/estafadors-capellans.html</link>
+      <guid isPermaLink="true">https://www.rac1.cat/opinio/20260326/334301/estafadors-capellans.html</guid>
+      <description>L'FBI alerta que criminals usen deepfakes per suplantar líders religiosos i cometre fraus en línia.</description>
+      <author>RAC1</author>
       <pubDate>2026-03-26</pubDate>
     </item>
     <item>
       <title>Tim Cook, CEO d'Apple: "No vull que la gent miri tant el mòbil. No vols passar així el teu dia, surt a la natura"</title>
       <link>https://www.rac1.cat/tecnologia/20260325/333894/tim-cook-ceo-d-apple-gent-miri-tant-mobil-vols-passar-aixi-dia-surt-natura.html</link>
       <guid isPermaLink="true">https://www.rac1.cat/tecnologia/20260325/333894/tim-cook-ceo-d-apple-gent-miri-tant-mobil-vols-passar-aixi-dia-surt-natura.html</guid>
-      <description>Tim Cook s'oposa a l'ús excessiu del mòbil i promou desconnectar de les pantalles per gaudir de la natura.</description>
+      <description>Tim Cook reconeix que l'ús excessiu del mòbil és un problema i anima les persones a desconnectar.</description>
       <author>RAC1</author>
       <pubDate>2026-03-25</pubDate>
-    </item>
-    <item>
-      <title>El Govern reconeix que es van filtrar milers de dades personals per error en les subvencions</title>
-      <link>https://www.ara.cat/politica/govern-reconeix-filtrar-milers-dades-personals-error-subvencions_1_5689702.html</link>
-      <guid isPermaLink="true">https://www.ara.cat/politica/govern-reconeix-filtrar-milers-dades-personals-error-subvencions_1_5689702.html</guid>
-      <description>La Generalitat admet que 6.771 dades personals van ser filtrades per error a la base de dades de subvencions.</description>
-      <author>Ara.cat</author>
-      <pubDate>2026-03-25</pubDate>
-    </item>
-    <item>
-      <title>La IA europea no parlarà català si no és llengua oficial</title>
-      <link>https://www.ara.cat/ciencia-medi-ambient/tecnologia/ia-europea-no-parlara-catala-no-llengua-oficial_1_5682311.html</link>
-      <guid isPermaLink="true">https://www.ara.cat/ciencia-medi-ambient/tecnologia/ia-europea-no-parlara-catala-no-llengua-oficial_1_5682311.html</guid>
-      <description>L'oficialitat del català a la UE és clau per garantir que la IA europea inclogui i respecti la llengua.</description>
-      <author>Ara.cat</author>
-      <pubDate>2026-03-22</pubDate>
-    </item>
-    <item>
-      <title>El 'phishing' de veu humana persuadeix més que la màquina</title>
-      <link>https://www.lavanguardia.com/encatala/20260324/11497543/phishing-veu-humana-persuadeix-mes-maquina.html</link>
-      <guid isPermaLink="true">https://www.lavanguardia.com/encatala/20260324/11497543/phishing-veu-humana-persuadeix-mes-maquina.html</guid>
-      <description>Un estudi demostra que el phishing amb veu humana és més efectiu que l'automatitzat per enganyar les víctimes.</description>
-      <author>La Vanguardia (en català)</author>
-      <pubDate>2026-03-24</pubDate>
     </item>
     <item>
       <title>La música que ens ha marcat la vida – programa 657</title>
       <link>https://mossegalapoma.cat/la-musica-que-ens-ha-marcat-la-vida-programa-657/</link>
       <guid isPermaLink="true">https://mossegalapoma.cat/la-musica-que-ens-ha-marcat-la-vida-programa-657/</guid>
-      <description>Sobre creació musical, IA i la música que escoltem entre els 14-18 anys, que ens marca per sempre.</description>
+      <description>Creació musical, la IA i com la música que escoltem entre els 14 i 18 anys queda gravada per sempre.</description>
       <author>Mossega la poma</author>
       <pubDate>2026-03-19</pubDate>
+    </item>
+    <item>
+      <title>Les dades obertes i la transparència pública – programa 656</title>
+      <link>https://mossegalapoma.cat/les-dades-obertes-i-la-transparencia-publica-programa-656/</link>
+      <guid isPermaLink="true">https://mossegalapoma.cat/les-dades-obertes-i-la-transparencia-publica-programa-656/</guid>
+      <description>Creació de contingut digital, publicació autònoma i gestió de dades públiques en l'era de la intel·ligència artificial.</description>
+      <author>Mossega la poma</author>
+      <pubDate>2026-03-13</pubDate>
     </item>
     <item>
       <title>L' Altra Ràdio - El periodisme i la Guerra del Sudan</title>
       <link>https://podcasts.cat/36/33892317/</link>
       <guid isPermaLink="true">https://podcasts.cat/36/33892317/</guid>
-      <description>Un doctor en comunicació reflexiona sobre el periodisme en la Guerra del Sudan i els mitjans digitals en exili.</description>
+      <description>Reflexió sobre periodisme en conflictes armats: el Sudan, on uns vint periodistes han mort des del 2023.</description>
       <author>L'altra ràdio</author>
       <pubDate>2026-03-19</pubDate>
+    </item>
+    <item>
+      <title>L' Altra Ràdio - Què és l'agnotologia algorítmica</title>
+      <link>https://podcasts.cat/36/33868712/</link>
+      <guid isPermaLink="true">https://podcasts.cat/36/33868712/</guid>
+      <description>Explicació de l'agnotologia algorítmica: la producció deliberada d'ignorància a través dels sistemes digitals i l'IA.</description>
+      <author>L'altra ràdio</author>
+      <pubDate>2026-03-12</pubDate>
     </item>
     <item>
       <title>El gòTIC - Tenim una missió! del 25/3/2026</title>
       <link>https://podcasts.cat/191/33910802/</link>
       <guid isPermaLink="true">https://podcasts.cat/191/33910802/</guid>
-      <description>Des del gòTIC de Tàrrega, comparteixen recursos i estratègies per a la ciutadania digital davant els reptes actuals.</description>
+      <description>El gòTIC de Tàrrega comparteix recursos i estratègies per ajudar la ciutadania a navegar els reptes digitals.</description>
       <author>El Gòtic</author>
       <pubDate>2026-03-24</pubDate>
     </item>
@@ -275,63 +283,47 @@
       <title>De Catalunya a Silicon Valley, i torna cap a Catalunya, amb Anna Navarro i Descals</title>
       <link>https://rss.com/podcasts/focaterra/2643530</link>
       <guid isPermaLink="true">https://rss.com/podcasts/focaterra/2643530</guid>
-      <description>Anna Navarro explica la seva trajectòria en grans tecnològiques i el seu retorn a Catalunya com a activista independentista.</description>
+      <description>Anna Navarro explica la seva trajectòria en tecnologia, de Silicon Valley a la política catalana independentista.</description>
       <author>Foc a Terra</author>
       <pubDate>2026-03-23</pubDate>
-    </item>
-    <item>
-      <title>WordPress 7.0 beta 6</title>
-      <link>https://www.wppodcast.cat/podcast/wordpress-7-0-beta-6/</link>
-      <guid isPermaLink="true">https://www.wppodcast.cat/podcast/wordpress-7-0-beta-6/</guid>
-      <description>WordPress 7.0 continua en beta per validar la mida de la instal·lació i l'ús del sistema de temps real.</description>
-      <author>WordPress Pòdcast</author>
-      <pubDate>2026-03-24</pubDate>
-    </item>
-    <item>
-      <title>Capítol 61: Niddo, la solució a la logística familiar de parelles separades</title>
-      <link>https://traffic.omny.fm/d/clips/47dc05c7-7279-4c6f-9b31-ae74013297d9/d3709a08-7df4-4359-85b0-af0f00b8b4b3/d928bd25-62d8-4f4f-b2d4-b41600d3f9b9/audio.mp3?dist=RSS</link>
-      <guid isPermaLink="true">https://traffic.omny.fm/d/clips/47dc05c7-7279-4c6f-9b31-ae74013297d9/d3709a08-7df4-4359-85b0-af0f00b8b4b3/d928bd25-62d8-4f4f-b2d4-b41600d3f9b9/audio.mp3?dist=RSS</guid>
-      <description>L'app Niddo facilita la logística de parelles separades coordinant recollides, despeses i comunicació sobre els fills.</description>
-      <author>RAC&amp;GO</author>
-      <pubDate>2026-03-24</pubDate>
     </item>
     <item>
       <title>Avui sí que perdem el patrocini de Parlem</title>
       <link>https://rss.com/podcasts/focaterra/2621247</link>
       <guid isPermaLink="true">https://rss.com/podcasts/focaterra/2621247</guid>
-      <description>Ernest Pérez-Mas, fundador de Parlem, visita Foc a Terra i parla del món del podcàsting i la competència.</description>
+      <description>Ernest Pérez-Mas, fundador de Parlem, visita el podcast en el moment en que la teleco acaba de trencar amb Avatel.</description>
       <author>Foc a Terra</author>
       <pubDate>2026-03-16</pubDate>
+    </item>
+    <item>
+      <title>WordPress 7.0 beta 6</title>
+      <link>https://www.wppodcast.cat/podcast/wordpress-7-0-beta-6/</link>
+      <guid isPermaLink="true">https://www.wppodcast.cat/podcast/wordpress-7-0-beta-6/</guid>
+      <description>WordPress 7.0 segueix en fase beta sense llançar la versió candidata per validar el sistema de temps real.</description>
+      <author>WordPress Pòdcast</author>
+      <pubDate>2026-03-24</pubDate>
     </item>
     <item>
       <title>L'inici de Twenty Twenty-Seven</title>
       <link>https://www.wppodcast.cat/podcast/linici-de-twenty-twenty-seven/</link>
       <guid isPermaLink="true">https://www.wppodcast.cat/podcast/linici-de-twenty-twenty-seven/</guid>
-      <description>El procés de creació del tema Twenty Twenty-Seven comença sis mesos abans de l'habitual, previst per a WordPress 7.2.</description>
+      <description>Comença el disseny de Twenty Twenty-Seven, el tema de WordPress previst per al llançament de la versió 7.2.</description>
       <author>WordPress Pòdcast</author>
       <pubDate>2026-03-17</pubDate>
     </item>
     <item>
-      <title>L' Altra Ràdio - Què és l'agnotologia algorítmica</title>
-      <link>https://podcasts.cat/36/33868712/</link>
-      <guid isPermaLink="true">https://podcasts.cat/36/33868712/</guid>
-      <description>La doctora Àtia Cortés explica l'agnotologia algorítmica: com els sistemes digitals produeixen ignorància deliberada.</description>
-      <author>L'altra ràdio</author>
-      <pubDate>2026-03-12</pubDate>
-    </item>
-    <item>
-      <title>Les dades obertes i la transparència pública – programa 656</title>
-      <link>https://mossegalapoma.cat/les-dades-obertes-i-la-transparencia-publica-programa-656/</link>
-      <guid isPermaLink="true">https://mossegalapoma.cat/les-dades-obertes-i-la-transparencia-publica-programa-656/</guid>
-      <description>Exploren la creació de contingut digital, la publicació autònoma i la gestió de dades públiques i governamentals.</description>
-      <author>Mossega la poma</author>
-      <pubDate>2026-03-13</pubDate>
+      <title>Capítol 61: Niddo, la solució a la logística familiar de parelles separades</title>
+      <link>https://traffic.omny.fm/d/clips/47dc05c7-7279-4c6f-9b31-ae74013297d9/d3709a08-7df4-4359-85b0-af0f00b8b4b3/d928bd25-62d8-4f4f-b2d4-b41600d3f9b9/audio.mp3?dist=RSS</link>
+      <guid isPermaLink="true">https://traffic.omny.fm/d/clips/47dc05c7-7279-4c6f-9b31-ae74013297d9/d3709a08-7df4-4359-85b0-af0f00b8b4b3/d928bd25-62d8-4f4f-b2d4-b41600d3f9b9/audio.mp3?dist=RSS</guid>
+      <description>Niddo és una nova app que ajuda a gestionar la logística i les despeses dels fills en parelles separades.</description>
+      <author>RAC&amp;GO</author>
+      <pubDate>2026-03-24</pubDate>
     </item>
     <item>
       <title>Com usar Wikidata per visibilitzar obres digitals de domini públic?</title>
       <link>https://www.meetup.com/barcelona-free-software/events/313790663/</link>
       <guid isPermaLink="true">https://www.meetup.com/barcelona-free-software/events/313790663/</guid>
-      <description>Xerrada sobre projectes que usen Wikidata per obrir obres digitals en domini públic, a Akasha Hub de Barcelona.</description>
+      <description>Xerrada sobre com usar Wikidata per treballar dades obertes i visibilitzar obres de domini públic digital.</description>
       <author>Free Software Barcelona</author>
       <pubDate>2026-03-16</pubDate>
     </item>
@@ -339,7 +331,7 @@
       <title>guardar la música</title>
       <link>https://www.youtube.com/watch?v=53Ug5KCgESs</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=53Ug5KCgESs</guid>
-      <description>Reflexió visual sobre com guardem la música en l'era de l'streaming i la digitalització dels arxius personals.</description>
+      <description>Vídeo sobre com guardem avui la nostra música digital en l'era de les plataformes d'streaming.</description>
       <author>Albert Lloreta</author>
       <pubDate>2026-03-25</pubDate>
     </item>
@@ -347,7 +339,7 @@
       <title>Els Putxinel·lis - Capítol 6 - La Competència</title>
       <link>https://www.youtube.com/watch?v=5lMEJ3YaVb8</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=5lMEJ3YaVb8</guid>
-      <description>Sisè capítol de la sèrie Els Putxinel·lis, el projecte de creació de contingut digital d'entreteniment en català.</description>
+      <description>Sisè episodi de la nova sèrie animada Els Putxinel·lis, publicada pel canal de videojocs Pixelats.</description>
       <author>Pixelats</author>
       <pubDate>2026-03-19</pubDate>
     </item>
@@ -355,7 +347,7 @@
       <title>Els Putxinel·lis - Capítol 5 - L'amor llunyà</title>
       <link>https://www.youtube.com/watch?v=h_DPLBh1HBs</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=h_DPLBh1HBs</guid>
-      <description>Cinquè capítol de la sèrie animada Els Putxinel·lis, produïda pel canal Pixelats.</description>
+      <description>Cinquè episodi de la sèrie Els Putxinel·lis, amb una trama centrada en l'amor a distància.</description>
       <author>Pixelats</author>
       <pubDate>2026-03-19</pubDate>
     </item>
@@ -363,7 +355,7 @@
       <title>Els Putxinel·lis - Capítol 4 - Cedeix, però segueix</title>
       <link>https://www.youtube.com/watch?v=1JIuh5sgM4M</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=1JIuh5sgM4M</guid>
-      <description>Quart capítol de la sèrie d'entreteniment digital en català Els Putxinel·lis del canal Pixelats.</description>
+      <description>Quart episodi de la sèrie Els Putxinel·lis sobre cedir sense rendir-se davant les dificultats.</description>
       <author>Pixelats</author>
       <pubDate>2026-03-19</pubDate>
     </item>
@@ -371,7 +363,7 @@
       <title>Els Putxinel·lis - Capítol 3 - Pobre, pobre Toad</title>
       <link>https://www.youtube.com/watch?v=aCrClLDZ7_k</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=aCrClLDZ7_k</guid>
-      <description>Tercer capítol humorístic de la sèrie Els Putxinel·lis, amb aventures de personatges de videojocs en format còmic.</description>
+      <description>Tercer episodi de la sèrie Els Putxinel·lis, centrat en les desventures del personatge Toad.</description>
       <author>Pixelats</author>
       <pubDate>2026-03-19</pubDate>
     </item>
@@ -379,7 +371,7 @@
       <title>Els Putxinel·lis - Capítol 2 - Negociació Infructuosa</title>
       <link>https://www.youtube.com/watch?v=rrmDfGk5QMA</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=rrmDfGk5QMA</guid>
-      <description>Segon capítol de la sèrie digital en català Els Putxinel·lis, amb humor entorn dels videojocs i la cultura pop.</description>
+      <description>Segon episodi de la sèrie Els Putxinel·lis, amb una negociació que no porta a cap resultat.</description>
       <author>Pixelats</author>
       <pubDate>2026-03-19</pubDate>
     </item>
@@ -387,7 +379,7 @@
       <title>Els Putxinel·lis - Capítol 1 - Benvinguts al meu experiment</title>
       <link>https://www.youtube.com/watch?v=Z23NKn67HM0</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=Z23NKn67HM0</guid>
-      <description>Primer capítol de la nova sèrie animada de videojocs en català del canal Pixelats.</description>
+      <description>Primer episodi de la sèrie Els Putxinel·lis de Pixelats: la presentació de l'experiment inicial.</description>
       <author>Pixelats</author>
       <pubDate>2026-03-19</pubDate>
     </item>
@@ -395,7 +387,7 @@
       <title>Pixelats vs. NINJA JAJAMARU: The Great Yokai Battle!! 🥷🐸</title>
       <link>https://www.youtube.com/watch?v=PaFf_uiwGpg</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=PaFf_uiwGpg</guid>
-      <description>El canal Pixelats prova el joc Ninja Jajamaru: The Great Yokai Battle amb comentaris en català.</description>
+      <description>Partida de Pixelats al joc retro d'arcades Ninja Jajamaru: The Great Yokai Battle!!</description>
       <author>Pixelats</author>
       <pubDate>2026-03-18</pubDate>
     </item>
