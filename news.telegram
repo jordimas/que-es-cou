@@ -1,102 +1,92 @@
-<b>Què es cou</b> — 26 de març de 2026 13:10
+<b>Què es cou</b> — 26 de març de 2026 19:00
 https://jordimas.github.io/que-es-cou/
 
 <b>Tecnologia 🌍</b>
-• <a href="https://www.axios.com/2026/03/26/anthropic-pentagon-ai-deal">Com podria revifar-se l'acord entre el Pentàgon i Anthropic</a>
-  Axios — 26 de març de 2026
-  Fonts d'ambdues bandes veuen una via per desencallar la disputa sobre l'ús de Claude en operacions militars.
-• <a href="https://blog.documentfoundation.org/blog/2026/03/25/libreoffice-and-the-art-of-overreacting/">LibreOffice i l'art de sobreactuar</a>
+• <a href="https://colibri.social/">Colibri – plataforma de xat basada en el protocol AT per a comunitats de qualsevol mida</a>
   Hacker News — 26 de març de 2026
-  Reflexió sobre la tendència del projecte de programari lliure a exagerar en la seva resposta als problemes.
-• <a href="https://gizmodo.com/google-issues-new-warning-about-the-quantum-computing-security-apocalypse-2000738326">Google llança un nou avís sobre l'amenaça quàntica a la ciberseguretat</a>
+  Nova plataforma construïda sobre el protocol AT que vol ser una alternativa comunitària a les xarxes centralitzades.
+• <a href="https://jola.dev/posts/building-a-blog-with-elixir-and-phoenix">Construir un blog amb Elixir i Phoenix</a>
+  Hacker News — 26 de març de 2026
+  Tutorial pràctic sobre com crear un blog funcional usant el framework Phoenix del llenguatge Elixir.
+• <a href="https://gizmodo.com/this-450-semi-dumb-phone-is-barely-even-a-phone-2000738485">Aquest telèfon 'semi-intel·ligent' de 450 dòlars amb prou feines és un telèfon</a>
   Gizmodo — 26 de març de 2026
-  El «dia Q», quan l'ordinador quàntic pugui trencar l'actual xifratge, podria arribar molt abans del previst.
-• <a href="https://www.swift.org/blog/swift-6.3-released/">Swift 6.3</a>
+  El Meadow ofereix algunes apps i trucades però té una llista de contactes molt limitada.
+• <a href="https://gizmodo.com/startup-successfully-ignites-worlds-first-fusion-rocket-2000738506">Una startup encén el primer coet de fusió nuclear del món</a>
+  Gizmodo — 26 de març de 2026
+  Pulsar Fusion aconsegueix el 'primer plasma' al seu coet Sunbird, dissenyat per propulsar naus a velocitats mai assolides.
+• <a href="https://opentelemetry.io/blog/2026/profiles-alpha/">OpenTelemetry Profiles entra en alfa pública</a>
   Hacker News — 26 de març de 2026
-  Apple publica la versió 6.3 del seu llenguatge de programació amb noves millores i funcionalitats.
-• <a href="https://www.npr.org/2026/03/25/nx-s1-5752369/ice-surveillance-data-brokers-congress-anthropic">Les agències governamentals dels EUA compren dades comercials sobre els seus ciutadans a l'engròs</a>
+  El sistema de perfilat distribuït d'OpenTelemetry arriba a la fase alfa oberta per a tota la comunitat.
+• <a href="https://projects.dev/">Stripe Projects: provisiona i gestiona serveis des de la línia de comandes</a>
   Hacker News — 26 de març de 2026
-  Governs dels EUA adquireixen massivament dades personals de ciutadans a empreses privades, generant debat de privacitat.
-• <a href="https://github.com/lightfeed/extractor">Extractor robust de LLM per a webs, en TypeScript</a>
+  Stripe llança una eina per provisionar i gestionar serveis de pagament directament des del CLI.
+• <a href="https://github.com/salespeak-ai/buyer-eval-skill">Show HN: eina que avalua proveïdors B2B conversant amb els seus agents d'IA</a>
   Hacker News — 26 de març de 2026
-  Eina de codi obert per extreure dades estructurades de qualsevol web usant models de llenguatge grans.
-• <a href="https://blog.hofstede.it/shell-tricks-that-actually-make-life-easier-and-save-your-sanity/">Trucs de shell per facilitar la vida (i salvar la cordura)</a>
+  Una skill de Claude que permet avaluar proveïdors empresarials mantenint converses automatitzades amb els seus agents.
+• <a href="https://futuresearch.ai/blog/litellm-attack-transcript/">La meva resposta minut a minut a l'atac de malware de LiteLLM</a>
   Hacker News — 26 de març de 2026
-  Col·lecció de tècniques de terminal per millorar la productivitat i evitar errors comuns en sistemes Unix.
-• <a href="https://gizmodo.com/bernie-sanders-introduces-bill-to-pause-ai-data-center-construction-warns-of-cataclysmic-changes-2000738202">Bernie Sanders presenta una llei per aturar la construcció de centres de dades d'IA</a>
-  Gizmodo — 25 de març de 2026
-  La proposta demana una moratòria nacional fins que s'estableixin regulacions sòlides per a la intel·ligència artificial.
-• <a href="https://gizmodo.com/was-this-really-the-first-humanoid-robot-at-the-white-house-an-investigation-2000738262">Era realment el primer robot humanoide a la Casa Blanca? Una investigació</a>
-  Gizmodo — 25 de març de 2026
-  S'investiga si el robot Figure AI presentat per Melania Trump és el primer humanoide a la Casa Blanca.
-• <a href="https://calpaterson.com/disregard.html">Atacs «Disregard That»</a>
-  Hacker News — 25 de març de 2026
-  Nova tipologia d'atacs d'injecció que intenten fer ignorar instruccions prèvies en sistemes basats en IA.
+  Relat de primera mà sobre la gestió d'un incident de seguretat a la cadena de subministrament de LiteLLM.
+• <a href="https://gizmodo.com/california-regulator-says-teslas-robotaxis-are-more-like-a-limo-in-the-eyes-of-the-law-2000738512">Un regulador de Califòrnia classifica els 'robotaxis' de Tesla com a servei de limusina</a>
+  Gizmodo — 26 de març de 2026
+  El permís de Tesla a Califòrnia com a servei de limusina l'eximeix de lliurar dades sobre les seves operacions.
+• <a href="https://spectrum.ieee.org/doctorow-interoperability">La interoperabilitat pot salvar la web oberta (2023)</a>
+  Hacker News — 26 de març de 2026
+  Article recuperat sobre com la interoperabilitat entre plataformes digitals és clau per preservar un internet obert.
 
 <b>Economia 🌍</b>
-• <a href="https://www.economist.com/interactive/science-and-technology/2026/03/25/china-is-winning-the-ai-talent-race">La Xina guanya la cursa pel talent en IA</a>
+• <a href="https://www.cnbc.com/2026/03/26/apple-american-manufacturing-program-trump.html">Apple amplia el seu programa de fabricació als EUA amb quatre nous socis</a>
+  CNBC Technology — 26 de març de 2026
+  Apple incorpora Bosch, Cirrus Logic, TDK i Qnity al seu programa de manufactura americana, comprometent 400 milions fins al 2030.
+• <a href="https://www.cnbc.com/2026/03/26/meta-lawsuit-decision-zuckerberg-woes.html">Meta pateix dues derrotes judicials en casos de seguretat infantil</a>
+  CNBC Technology — 26 de març de 2026
+  Dos tribunals condemnen Meta per perjudicar menors, un moment que experts consideren una fita per a les xarxes socials.
+• <a href="https://www.economist.com/interactive/science-and-technology/2026/03/25/china-is-winning-the-ai-talent-race">La Xina s'avança en la cursa del talent en intel·ligència artificial</a>
   The Economist — 26 de març de 2026
-  L'avantatge xinès sobre Occident en la formació i captació de talent en intel·ligència artificial no para de créixer.
-• <a href="https://www.ft.com/content/f0a73e78-1c80-4ab0-b5f6-88e3222bd0ff">El conseller delegat de Co-op dimiteix mentre augmenten els costos del ciberatac</a>
-  Financial Times — 26 de març de 2026
-  Shirine Khoury-Haq nega les acusacions de cultura tòxica a l'operadora de supermercats britànica afectada pel ciberatac.
-• <a href="https://www.cnbc.com/2026/03/26/google-ai-turboquant-memory-chip-stocks-samsung-micron.html">Un avenç d'IA de Google posa pressió en les accions de xips de memòria de Samsung i Micron</a>
+  L'avantatge de la Xina en capital humà d'IA respecte a Occident continua creixent, amb implicacions globals creixents.
+• <a href="https://www.cnbc.com/2026/03/26/coca-cola-james-quincey-walmart-doug-mcmillon-artificial-intelligence-step-down.html">Els grans directius que marxen citen la IA com a factor de la seva decisió</a>
   CNBC Technology — 26 de març de 2026
-  SK Hynix, Samsung i Micron en caiguda davant el temor que la IA requereixi menys memòria RAM.
-• <a href="https://www.ft.com/content/de9bf0af-b241-424f-8229-5870b1c0d93d">OpenAI posa en pausa indefinida els plans per a un chatbot eròtic</a>
+  Els CEOs de Coca-Cola i Walmart assenyalen la propera onada d'IA com a raó del seu relleu generacional al capdavant.
+• <a href="https://www.ft.com/content/0eaa8134-fafe-4405-98a3-540abcad6a3d">La marxa imparable dels 'omniscalers' tecnològics</a>
   Financial Times — 26 de març de 2026
-  La decisió arriba davant preocupacions del personal i dels inversors sobre el contingut sexual generat per IA.
-• <a href="https://www.cnbc.com/2026/03/26/figure-ai-the-robotics-company-hosted-by-melania-trump.html">Coneix Figure AI: l'empresa darrere del robot humanoide convidat a la Casa Blanca per Melania Trump</a>
+  Alphabet, Amazon, Alibaba i Huawei concentren recursos globals de manera creixent, aprofundint la seva posició dominant al mercat.
+• <a href="https://www.cnbc.com/2026/03/26/ai-bots-humans-internet.html">Els bots i la IA s'han apoderat definitivament d'internet</a>
   CNBC Technology — 26 de març de 2026
-  La primera dama dels EUA va aparèixer al costat del robot Sprout de Figure AI en un acte inèdit a la Casa Blanca.
-• <a href="https://www.ft.com/content/332c1134-18c4-4e80-a9c3-06aa0c20513e">Carlyle i KKR construiran dos centres de dades per a l'exèrcit dels EUA per 2.000 milions cada un</a>
+  Un informe revela que el tràfic automatitzat supera el humà a internet i creix vuit vegades més ràpid.
+• <a href="https://www.ft.com/content/18aed4ff-365d-43a4-bbff-e9156f9b3ea3">Pot Europa alliberar-se de la dominació tecnològica dels EUA?</a>
   Financial Times — 26 de març de 2026
-  El secretari de l'exèrcit subratlla que la guerra amb l'Iran evidencia la necessitat d'adaptar-se al paper creixent de la IA.
-• <a href="https://www.ft.com/content/23031c83-7a4a-4a59-a30f-a98900064504">Escassetat de CPU i el nou xip d'Alibaba</a>
+  Debat sobre les possibilitats d'Europa per crear una alternativa als gegants tecnològics nord-americans.
+• <a href="https://www.cnbc.com/2026/03/26/5-things-to-know-before-the-market-opens.html">Resultat del judici de Meta, accions espacials i legislació sobre mercats de predicció</a>
+  CNBC Technology — 26 de març de 2026
+  Cinc punts clau per als inversors: veredicte de Meta, accions espacials en alça i nous projectes de llei.
+• <a href="https://www.ft.com/content/7325e967-5f4e-40b1-af3f-7d2351781843">Els enginyers de programari sobreviuran a la IA agèntica?</a>
   Financial Times — 26 de març de 2026
-  Anàlisi de les tendències tecnològiques asiàtiques: l'escassetat de processadors i les apostes xiperes d'Alibaba.
-• <a href="https://www.ft.com/reports/europes-fastest-growing-companies">FT 1000: les empreses europees de creixement més ràpid</a>
-  Financial Times — 26 de març de 2026
-  El rànquing 2026 del Financial Times destaca empreses que prosperen malgrat la incertesa econòmica i la volatilitat geopolítica.
-• <a href="https://www.ft.com/content/37a14f36-77f6-413e-a4d5-b05cefbddfb1">SpaceX amplia les seves ambicions d'OPV amb plans per recaptar 75.000 milions de dòlars</a>
+  Malgrat el creixement de la IA, les ofertes laborals per a programadors sènior augmenten, no baixen.
+• <a href="https://www.ft.com/content/37a14f36-77f6-413e-a4d5-b05cefbddfb1">SpaceX incrementa les ambicions de la seva sortida a borsa per captar 75.000 milions de dòlars</a>
   Financial Times — 25 de març de 2026
-  Elon Musk vol sortir a borsa amb una valoració d'1,75 bilions de dòlars en l'OPV privada més gran de la història.
-• <a href="https://www.ft.com/content/d3d80bd4-d2b1-4522-9752-4071df5b4c0a">Meta i Google declarats responsables dels danys en la salut mental dels menors en un cas històric als EUA</a>
-  Financial Times — 25 de març de 2026
-  El jurat de Los Angeles atorga almenys tres milions de dòlars en compensació en un precedent clau per al sector.
+  SpaceX vol sortir a borsa amb una valoració d'1,75 bilions de dòlars, la major oferta del sector espacial.
 
 <b>Països Catalans</b>
-• <a href="https://www.3cat.cat/3catinfo/la-comissio-europea-investiga-snapchat-per-incomplir-les-normes-de-proteccio-infantil/noticia/3401666/">La Comissió Europea investiga Snapchat per incomplir les normes de protecció infantil</a>
-  324.cat — 26 de març de 2026
-  Snapchat permet als menors autodeclarar la seva edat i no impedeix que vegin continguts que els estan prohibits.
-• <a href="https://www.vilaweb.cat/noticies/brusselles-quatre-webs-pornografiques-incompleixen-llei-proteccio-menors/">Brussel·les acusa quatre webs pornogràfiques d'incomplir la llei de protecció als menors</a>
-  VilaWeb — 26 de març de 2026
-  La UE obre investigació a Snapchat per exposar menors a intents de reclutament per a activitats delictives.
-• <a href="https://www.vilaweb.cat/noticies/frenada-abrupta-a-la-integracio-davatel-dins-de-parlem/">Frenada abrupta a la integració d'Avatel dins de Parlem</a>
-  VilaWeb — 26 de març de 2026
-  Discrepàncies en les condicions fan fracasar de forma irreversible l'absorció de la teleco Avatel per Parlem.
-• <a href="https://www.lavanguardia.com/launi/20260326/11499605/fer-match-amb-l-empresa-dels-teus-somnis-aixi-es-fira-reuneix-uab-80-empreses-i-1-500-participants-ctx.html">Fer «match» amb l'empresa dels teus somnis: la fira que reuneix a la UAB 80 empreses i 1.500 participants</a>
+• <a href="https://www.lavanguardia.com/encatala/20260326/11499303/condemnes-pel-danys-les-xarxes-socials.html">Condemnes pel danys de les xarxes socials</a>
   La Vanguardia (en català) — 26 de març de 2026
-  La fira MEMEnginy de la UAB estrena una app per concertar cites ràpides entre empreses i candidats de tecnologia.
-• <a href="https://www.elnacional.cat/ca/tecnologia/google-podria-haver-acabat-crisi-ram-seu-nou-algorisme-fa-ia-necessiti-6-vegades-menys_1616871_102.html">Google podria haver posat fi a la crisi de la RAM: el nou algorisme TurboQuant fa que la IA en necessiti 6 vegades menys</a>
-  El Nacional.cat — 26 de març de 2026
-  El TurboQuant de Google reduiria fins a sis vegades la memòria RAM necessària per als models d'intel·ligència artificial.
-• <a href="https://www.elnacional.cat/ca/tecnologia/apple-implementa-verificacio-edat-iphone-regne-unit-aixi-funciona_1616883_102.html">Apple implementa la verificació d'edat a l'iPhone al Regne Unit: així és com funciona</a>
-  El Nacional.cat — 26 de març de 2026
-  Seguint el model australià, Apple implanta controls d'edat als iPhone del Regne Unit per protegir els menors en línia.
-• <a href="https://www.3cat.cat/3catinfo/meta-i-google-hauran-de-pagar-una-indemnitzacio-historica-a-una-noia-addicta-a-les-xarxes/noticia/3401656/">Meta i Google hauran de pagar una indemnització històrica a una noia addicta a les xarxes</a>
-  324.cat — 25 de març de 2026
-  La sentència de Los Angeles marca un precedent per a 1.500 casos similars pendents contra xarxes socials als EUA.
-• <a href="https://www.lavanguardia.com/encatala/20260324/11497543/phishing-veu-humana-persuadeix-mes-maquina.html">El «phishing» de veu humana persuadeix més que el de la màquina</a>
-  La Vanguardia (en català) — 24 de març de 2026
-  Els atacs socials d'enginyeria humana resisteixen millor les ciberdefenses que els automatitzats per intel·ligència artificial.
-
-<b>Podcasts</b>
-• <a href="https://podcasts.cat/191/33910802/">El gòTIC - Tenim una missió! del 25/3/2026</a>
-  El Gòtic — 24 de març de 2026
-  Des del gòTIC de Tàrrega, comparteixen recursos i estratègies per fer front als reptes de la ciutadania digital.
-
-<b>Vídeos</b>
-• <a href="https://www.youtube.com/watch?v=53Ug5KCgESs">guardar la música</a>
-  Albert Lloreta — 25 de març de 2026
-  Reflexió en vídeo sobre com guardem i preservem la música en l'era digital.
+  Dues condemnes als EUA en 48 hores confirmen la responsabilitat de Meta i Google sobre el dany als menors.
+• <a href="https://www.ara.cat/economia/tecnologia/parlem-avatel-trenquen-negociacions-descarta-integracio_1_5690389.html">Parlem i Avatel trenquen negociacions i es descarta una integració</a>
+  Ara.cat — 26 de març de 2026
+  Avatel renuncia de forma irrevocable a integrar-se amb Parlem, frustrant l'operació que hauria reforçat la teleco catalana.
+• <a href="https://www.3cat.cat/3catinfo/europa-toca-el-crosto-a-webs-porno-com-pornhub-i-amenaca-amb-sancions-si-no-protegeix-els-menors/noticia/3401733/">Europa toca el crostó a webs porno com Pornhub i amenaça amb sancions si no protegeixen els menors</a>
+  324.cat — 26 de març de 2026
+  La Comissió Europea amenaça de sancionar Pornhub i altres plataformes per incomplir la protecció de menors de la DSA.
+• <a href="https://www.apuntmedia.es/noticies/mon/comissio-europea-investiga-snapchat-riscos-als-menors_1_1856993.html?utm_medium=rss">La Comissió Europea investiga Snapchat per riscos per als menors</a>
+  Àpunt — 26 de març de 2026
+  Europa investiga Snapchat per permetre l'exposició de menors a continguts sexuals, delictius i productes restringits per edat.
+• <a href="https://lleidadiari.cat/segria-energies-renovables-govern/">El Segrià, entre les comarques on el Govern preveu més renovables</a>
+  Lleida Diari — 26 de març de 2026
+  El Pla Territorial PLATER identifica el Segrià com una de les comarques amb més potencial per a energies renovables.
+• <a href="https://www.rac1.cat/meteo/20260325/334165/humanitat-vol-tornar-lluna-vegada-quedar.html">La humanitat vol tornar a la Lluna… però aquesta vegada per quedar-s'hi</a>
+  RAC1 — 25 de març de 2026
+  La NASA anuncia un nou pla per construir una base permanent a la Lluna i establir presència humana contínua.
+• <a href="https://www.rac1.cat/tecnologia/20260325/333894/tim-cook-ceo-d-apple-gent-miri-tant-mobil-vols-passar-aixi-dia-surt-natura.html">Tim Cook, CEO d'Apple: "No vull que la gent miri tant el mòbil. No vols passar així el teu dia, surt a la natura"</a>
+  RAC1 — 25 de març de 2026
+  Tim Cook s'oposa a l'ús excessiu del mòbil i promou desconnectar de les pantalles per gaudir de la natura.
+• <a href="https://www.ara.cat/politica/govern-reconeix-filtrar-milers-dades-personals-error-subvencions_1_5689702.html">El Govern reconeix que es van filtrar milers de dades personals per error en les subvencions</a>
+  Ara.cat — 25 de març de 2026
+  La Generalitat admet que 6.771 dades personals van ser filtrades per error a la base de dades de subvencions.
