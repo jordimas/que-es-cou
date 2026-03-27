@@ -1,77 +1,91 @@
-<b>Què es cou</b> — 26 de març de 2026 21:10
+<b>Què es cou</b> — 27 de març de 2026 09:30
 https://jordimas.github.io/que-es-cou/
 
 <b>Tecnologia 🌍</b>
-• <a href="https://colibri.social/">Colibri: nova plataforma de xat per a comunitats basada en el protocol AT</a>
+• <a href="https://micahkepe.com/blog/jsongrep/">Una alternativa més ràpida a jq</a>
+  Hacker News — 27 de març de 2026
+  Discussió sobre una nova eina de línia de comandes per processar JSON més ràpidament que jq.
+• <a href="https://code.claude.com/docs/en/web-scheduled-tasks">Programar tasques a la web</a>
+  Hacker News — 27 de març de 2026
+  Nova plataforma web per programar i automatitzar tasques periòdiques directament des del navegador sense infraestructura pròpia.
+• <a href="https://axeldelafosse.com/blog/agent-to-agent-pair-programming">Programació en parella entre agents</a>
+  Hacker News — 27 de març de 2026
+  Exploració de com dos agents d'IA col·laboren en el codi de manera similar als humans treballant en tàndem.
+• <a href="https://www.symbolica.ai/blog/arc-agi-3">De 0% a 36% en el primer dia d'ARC-AGI-3</a>
+  Hacker News — 27 de març de 2026
+  Model d'IA que aconsegueix un resultat notable en ARC-AGI-3, nou benchmark per mesurar la intel·ligència general artificial.
+• <a href="https://www.axios.com/2026/03/26/judge-temporarily-blocks-pentagon-ban-anthropic">Un jutge bloqueja temporalment la prohibició del Pentàgon a Anthropic</a>
+  Axios — 26 de març de 2026
+  La jutge Rita Lin concedeix la interlocutòria cautelar per possible represàlia a la Primera Esmena contra Anthropic.
+• <a href="https://www.axios.com/2026/03/26/sam-altman-openai-anthropic-pentagon">Altman va explicar als empleats que va intentar 'salvar' Anthropic en el conflicte amb el Pentàgon</a>
+  Axios — 26 de març de 2026
+  Missatges interns d'OpenAI revelen que Altman es va presentar com a mediador mentre el seu company signava un contracte rival.
+• <a href="https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/">Un agent d'IA en un VPS de 7$/mes amb IRC com a capa de transport</a>
   Hacker News — 26 de març de 2026
-  Nova plataforma de missatgeria per a comunitats, construïda sobre el protocol AT de Bluesky.
-• <a href="https://jola.dev/posts/building-a-blog-with-elixir-and-phoenix">Crear un blog amb Elixir i Phoenix</a>
+  Experiment de programador que desplega un agent d'IA de baix cost en infraestructura minimalista basada en IRC.
+• <a href="https://www.reco.ai/blog/we-rewrote-jsonata-with-ai">Vam reescriure JSONata amb IA en un dia i vam estalviar 500.000 $/any</a>
   Hacker News — 26 de març de 2026
-  Guia pràctica per construir un blog des de zero amb el framework Phoenix d'Elixir.
-• <a href="https://gizmodo.com/this-450-semi-dumb-phone-is-barely-even-a-phone-2000738485">Aquest telèfon semibàsic de 450 dòlars pràcticament no és un telèfon</a>
+  Un equip va usar IA generativa per migrar una dependència costosa, reduint significativament les despeses anuals de manteniment.
+• <a href="https://gizmodo.com/apples-siri-isnt-just-going-to-use-one-chatbot-its-going-to-use-all-of-them-2000738742">Siri no usarà un sol chatbot: els usarà tots</a>
   Gizmodo — 26 de març de 2026
-  Meadow ofereix trucades, missatges i algunes apps limitades, però no permet una llista de contactes gran.
-• <a href="https://gizmodo.com/startup-successfully-ignites-worlds-first-fusion-rocket-2000738506">Una startup encén amb èxit el primer coet de fusió nuclear del món</a>
-  Gizmodo — 26 de març de 2026
-  Pulsar Fusion ha aconseguit el 'primer plasma' al seu coet Sunbird, basat en fusió nuclear.
-• <a href="https://opentelemetry.io/blog/2026/profiles-alpha/">OpenTelemetry profiles entra en alfa pública</a>
+  Apple planeja integrar múltiples models d'IA a Siri perquè els usuaris puguin triar entre diversos assistents.
+• <a href="https://trust.anthropic.com">Canvis en els subprocessadors d'Anthropic</a>
   Hacker News — 26 de març de 2026
-  La funcionalitat de perfilació d'OpenTelemetry arriba a la fase d'alfa pública.
-• <a href="https://projects.dev/">Stripe Projects: provisiona i gestiona serveis des de la CLI</a>
-  Hacker News — 26 de març de 2026
-  Stripe llança una nova eina per crear i gestionar serveis directament des de la línia d'ordres.
-• <a href="https://futuresearch.ai/blog/litellm-attack-transcript/">La meva resposta minut a minut a l'atac de programari maliciós de LiteLLM</a>
-  Hacker News — 26 de març de 2026
-  Relat de primera mà sobre com es va gestionar un atac de programari maliciós al projecte LiteLLM.
-• <a href="https://gizmodo.com/california-regulator-says-teslas-robotaxis-are-more-like-a-limo-in-the-eyes-of-the-law-2000738512">El regulador californià classifica els 'robotaxis' de Tesla com a servei de limusina</a>
-  Gizmodo — 26 de març de 2026
-  El permís de transport compartit de Tesla a Califòrnia exempta l'empresa de reportar dades d'operació.
-• <a href="https://spectrum.ieee.org/doctorow-interoperability">La interoperabilitat pot salvar el web obert (2023)</a>
-  Hacker News — 26 de març de 2026
-  Article del 2023 que argumenta que la interoperabilitat és clau per preservar la web oberta.
-• <a href="https://www.techpowerup.com/347703/intel-announces-arc-pro-b70-and-arc-pro-b65-gpus-maxes-out-xe2-battlemage-architecture">Intel anuncia les GPU Arc Pro B70 i Arc Pro B65</a>
-  Hacker News — 26 de març de 2026
-  Intel presenta dues noves targetes gràfiques professionals de la família Arc Pro per a estacions de treball.
+  Anthropic notifica actualitzacions en la llista de proveïdors tercers que processen dades dels seus usuaris i clients.
 
 <b>Economia 🌍</b>
-• <a href="https://www.cnbc.com/2026/03/26/cramer-meta-is-not-the-new-tobacco-warns-against-selling-over-court-rulings.html">Cramer diu que Meta no és el nou tabac i desaconsella vendre les accions</a>
+• <a href="https://www.cnbc.com/2026/03/26/anthropic-pentagon-dod-claude-court-ruling.html">Anthropic obté una interlocutòria cautelar contra el Pentàgon per represàlies a la Primera Esmena</a>
+  CNBC Technology — 27 de març de 2026
+  Un jutge federal de San Francisco bloqueja la designació de l'administració Trump que amenaçava els negocis d'Anthropic.
+• <a href="https://www.ft.com/content/9ff5697f-2237-49a4-8deb-e525771dda9e">La terrible primera setmana del nou CEO de Disney</a>
+  Financial Times — 27 de març de 2026
+  Josh D'Amaro afronta múltiples crisis en totes les divisions de Disney just en arrancar el seu mandat com a CEO.
+• <a href="https://www.ft.com/content/cd6c8cce-7e3b-4a49-a8c1-e5d261170986">Els mercats privats desenvolupen el seu propi 'Magnificent Seven'</a>
+  Financial Times — 27 de març de 2026
+  Els inversors es concentren en poques empreses seleccionades, deixant enrere la resta d'actius en un mercat cada vegada més estret.
+• <a href="https://www.cnbc.com/2026/03/26/apple-expands-us-manufacturing-pledge-pulling-in-a-third-portfolio-name.html">Apple amplia el seu compromís de fabricació als EUA amb una nova empresa al programa</a>
   CNBC Technology — 26 de març de 2026
-  L'analista Jim Cramer recomana no vendre Meta malgrat les condemnes per salut mental infantil.
-• <a href="https://www.cnbc.com/2026/03/26/apple-american-manufacturing-program-trump.html">Apple amplia el seu programa de fabricació americà amb quatre nous socis</a>
+  Qnity Electronics s'afegeix a Broadcom i Corning al programa de fabricació americana d'Apple, amb 400 milions comprometits fins al 2030.
+• <a href="https://www.cnbc.com/2026/03/26/openai-ads-pilot-tops-100-million-in-arr-in-under-2-months.html">El pilot publicitari d'OpenAI supera 100 milions en facturació anualitzada en menys de dos mesos</a>
   CNBC Technology — 26 de març de 2026
-  Apple incorpora Bosch, Cirrus Logic, TDK i Qnity al seu programa de fabricació als EUA fins al 2030.
-• <a href="https://www.cnbc.com/2026/03/26/meta-lawsuit-decision-zuckerberg-woes.html">Les derrotes judicials de Meta marquen un punt d'inflexió per a les xarxes socials</a>
+  El negoci d'anuncis d'OpenAI creix ràpidament als EUA, obrint una nova via de monetització més enllà de les subscripcions.
+• <a href="https://www.cnbc.com/2026/03/26/meta-to-spend-10-billion-on-ai-data-center-in-el-paso-1gw-by-2028.html">Meta multiplica per sis la inversió al seu centre de dades d'IA a Texas fins als 10.000 milions</a>
   CNBC Technology — 26 de març de 2026
-  Dues condemnes seguides posen Meta en crisi i obren un debat sobre la responsabilitat de les plataformes socials.
-• <a href="https://www.ft.com/content/712814d1-65e8-4c83-bf4d-8414e473ba32">Apple comprarà per primera vegada components fabricats als EUA per un proveïdor japonès</a>
+  La inversió a El Paso augmenta de 1.500 a 10.000 milions de dòlars per ampliar la infraestructura d'IA de Meta.
+• <a href="https://www.cnbc.com/2026/03/26/david-sacks-trump-crypto-ai-czar.html">David Sacks anuncia el final de la seva etapa com a tsar de cripto i IA de Trump</a>
+  CNBC Technology — 26 de març de 2026
+  Sacks continuarà al Comitè de Tecnologia de la Casa Blanca per impulsar el pla d'IA de l'administració Trump.
+• <a href="https://www.cnbc.com/2026/03/26/meta-lawsuit-decision-zuckerberg-woes.html">Les accions de Meta cauen gairebé un 8% per dues derrotes judicials</a>
+  CNBC Technology — 26 de març de 2026
+  Un jurat de Los Angeles va declarar Meta i YouTube negligents en el judici sobre addicció als mitjans socials.
+• <a href="https://www.cnbc.com/2026/03/26/cramer-meta-is-not-the-new-tobacco-warns-against-selling-over-court-rulings.html">Cramer diu que Meta no és el nou tabac i desaconsella vendre per les sentències judicials</a>
+  CNBC Technology — 26 de març de 2026
+  L'analista Jim Cramer defensa les accions de Meta malgrat les condemnes i es planteja fins i tot comprar-ne.
+• <a href="https://www.ft.com/content/731f921f-4be1-42c3-a9b8-462eca7e437c">Un jutge descarta la demanda de Musk contra els anunciants de X</a>
   Financial Times — 26 de març de 2026
-  TDK produirà sensors avançats per a càmeres d'iPhone en una fàbrica dels EUA.
-• <a href="https://www.economist.com/interactive/science-and-technology/2026/03/25/china-is-winning-the-ai-talent-race">La Xina guanya la carrera pel talent en intel·ligència artificial</a>
-  The Economist — 26 de març de 2026
-  L'avantatge de la Xina sobre Occident en talent d'IA no para de créixer.
-• <a href="https://www.ft.com/content/2567877b-9acc-4cf3-a9e5-5f46c1abd13e">L'ascens dels tokens d'IA: la nova matèria primera de la Xina</a>
-  Financial Times — 26 de març de 2026
-  Models d'IA xinesos com DeepSeek superen els rivals nord-americans en el consum de tokens.
-• <a href="https://www.ft.com/content/1d92ecc5-f810-41f3-9dc1-465acbdd9a5b">Les borses nord-americanes cauen mentre el petroli puja davant l'ultimàtum de Trump a l'Iran</a>
-  Financial Times — 26 de març de 2026
-  La tensió amb l'Iran i la incertesa sobre un acord fa caure les borses i pujar el petroli.
-• <a href="https://www.ft.com/content/37a14f36-77f6-413e-a4d5-b05cefbddfb1">SpaceX reforça les aspiracions de sortida a borsa amb plans per captar 75.000 milions de dòlars</a>
-  Financial Times — 25 de març de 2026
-  L'empresa de Musk vol sortir a borsa amb una valoració d'1,75 bilions de dòlars.
-• <a href="https://www.ft.com/content/d3d80bd4-d2b1-4522-9752-4071df5b4c0a">Meta i Google, responsables per danyar la salut mental dels nens en un cas emblemàtic als EUA</a>
-  Financial Times — 25 de març de 2026
-  Un jurat condemna Meta i Google per perjudicar la salut mental de nens, amb danys d'almenys 3 milions.
-• <a href="https://www.cnbc.com/2026/03/25/meta-youtube-los-angeles-california-verdict.html">Un jurat de Los Angeles declara Meta i YouTube negligents en un judici sobre addicció digital</a>
-  CNBC Technology — 25 de març de 2026
-  El jurat de LA considera Meta i YouTube responsables d'addicció a les xarxes entre nens i adolescents.
+  Musk havia acusat les marques d'organitzar un boicot il·legal contra X, però el tribunal ha rebutjat els arguments.
 
 <b>Països Catalans</b>
-• <a href="https://www.ara.cat/societat/ue-amenaca-multa-milionaria-webs-pornhub-permetre-l-acces-menors_1_5690905.html">La UE amenaça amb una multa milionària webs com Pornhub per permetre l'accés a menors</a>
-  Ara.cat — 26 de març de 2026
-  La Comissió Europea acusa XVideos, XNXX, PornHub i Stripchat de no verificar l'edat dels usuaris.
-• <a href="https://www.lavanguardia.com/encatala/20260326/11499213/roombattle-dust-games-batalla-aspiradores-pc-videojoc.html">Una batalla entre aspiradores inspira 'Roombattle', l'esbojarrat debut de l'estudi català Dust Games</a>
-  La Vanguardia (en català) — 26 de març de 2026
-  Dust Games, estudi català, debuta al mercat PC amb 'Roombattle', un party game per a sis jugadors.
-• <a href="https://www.rac1.cat/opinio/20260326/334301/estafadors-capellans.html">Estafadors i capellans</a>
+• <a href="https://www.lavanguardia.com/encatala/20260327/11500316/brussel-les-conclou-webs-porno-violen-llei-europea-permetent-l-acces-menors.html">Brussel·les conclou que webs porno violen la llei europea permetent l'accés a menors</a>
+  La Vanguardia — 27 de març de 2026
+  La Comissió podria imposar multes milionàries a PornHub, XNXX i altres per no verificar adequadament l'edat dels usuaris.
+• <a href="https://www.ara.cat/economia/farmaceutiques/ysios-capital-llanca-fons-100-m-impulsar-creacio-companyies-biotecnologiques_1_5690747.html">Ysios Capital llança un fons de 100 M€ per impulsar la creació de companyies biotecnològiques</a>
+  Ara.cat — 27 de març de 2026
+  La gestora de risc especialitzada en ciències de la vida donarà suport a empreses espanyoles en les etapes més primerenques.
+• <a href="https://www.lavanguardia.com/encatala/20260327/11500421/murtra-promet-telefonica-lider-mundial-2035.html">Murtra promet una Telefónica líder mundial el 2035</a>
+  La Vanguardia — 27 de març de 2026
+  El president de Telefónica ratifica la disciplina financera i presenta una ambiciosa estratègia de lideratge tecnològic global.
+• <a href="https://www.rac1.cat/tecnologia/20260326/333961/david-carmona-microsoft-ordinador-quantic-assoleix-temperatura-baixa-univers-buit-lv.html">David Carmona: «Un ordinador quàntic assoleix una temperatura més baixa que la de l'univers en el buit»</a>
   RAC1 — 26 de març de 2026
-  L'FBI alerta que criminals usen deepfakes per suplantar líders religiosos i cometre fraus en línia.
+  Explicació divulgativa de com funciona la computació quàntica, camp tecnològic en creixement que pocs saben definir clarament.
+• <a href="https://www.rac1.cat/meteo/20260326/334459/captar-energia-estrelles-produir-electricitat.html">Captar l'energia de les estrelles per produir electricitat: una nova frontera científica</a>
+  RAC1 — 26 de març de 2026
+  Científics estudien nous materials per aprofitar la radiació de qualsevol estrella, més enllà de la llum solar directa.
+• <a href="https://www.ara.cat/media/albert-cuesta-l-ara-premiat-nit-telecomunicacions-millor-divulgador_1_5690859.html">Albert Cuesta, de l'ARA, premiat a La Nit de les Telecomunicacions com a millor divulgador</a>
+  Ara.cat — 26 de març de 2026
+  El periodista tecnològic d'ARA rep el premi per la seva trajectòria de divulgació TIC en l'acte celebrat a L'Auditori.
+
+<b>Podcasts</b>
+• <a href="https://podcasts.cat/36/33915631/">L'Altra Ràdio - Les persones que fan servir la llengua de signes catalana poden fer ràdio</a>
+  L'altra ràdio — 26 de març de 2026
+  Es presenta Signària, eina pionera que permet a persones sordes fer ràdio amb una veu sintètica radiofònica personalitzada.
