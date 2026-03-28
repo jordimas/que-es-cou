@@ -5,8 +5,8 @@ Golden dataset: golden_dataset.json (manually labeled)
 Prediction: run claude or groq_tech_filter.py to produce tech_topic_filter.json, then compare.
 
 Usage:
-  python eval_classifier.py              # uses claude (default)
-  python eval_classifier.py --impl groq  # uses groq_tech_filter.py
+  python eval_classifier.py               # uses gemini (default)
+  python eval_classifier.py --impl groq   # uses groq_tech_filter.py
 """
 
 import argparse
@@ -103,7 +103,7 @@ def build_feeds_from_golden(golden: list) -> tuple[dict, dict]:
     return feed("world"), feed("catalunya")
 
 
-def run_classifier_claude(golden: list) -> dict:
+def run_classifier_gemini(golden: list) -> dict:
     world_feed, cat_feed = build_feeds_from_golden(golden)
     world_path = EVAL_DIR / "eval_feeds_world.json"
     cat_path = EVAL_DIR / "eval_feeds_catalunya.json"
@@ -117,7 +117,7 @@ def run_classifier_claude(golden: list) -> dict:
         "output/tech_topic_filter_new.json", str(EVAL_DIR / "tech_topic_filter.json")
     )
     subprocess.run(
-        ["claude", "--dangerously-skip-permissions", "-p", prompt],
+        ["gemini", "--yolo", "--model", "gemini-3-flash-preview", "-p", prompt],
         check=True,
         cwd=EVAL_DIR,
     )
@@ -155,16 +155,16 @@ def run_classifier_groq(golden: list, model: str = None) -> dict:
 def run_classifier(golden: list, impl: str, model: str = None) -> dict:
     if impl == "groq":
         return run_classifier_groq(golden, model=model)
-    return run_classifier_claude(golden)
+    return run_classifier_gemini(golden)
 
 
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument(
         "--impl",
-        choices=["claude", "groq"],
-        default="claude",
-        help="Which classifier implementation to evaluate (default: claude)",
+        choices=["gemini", "groq"],
+        default="gemini",
+        help="Which classifier implementation to evaluate (default: gemini)",
     )
     parser.add_argument(
         "--model",

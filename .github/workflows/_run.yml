@@ -14,10 +14,8 @@ on:
         type: boolean
         default: true
     secrets:
-      CLAUDE_CONFIG:
+      GEMINI_API_KEY:
         required: true
-      CLAUDE_CODE_OAUTH_TOKEN:
-        required: false
       TG_TOKEN:
         required: true
       TG_CHAT_ID:
@@ -40,13 +38,8 @@ jobs:
           git fetch origin storage --depth=1 2>/dev/null || true
           git show origin/storage:${BRANCH}/telegram.json 2>/dev/null > /tmp/telegram.json && mkdir -p output && cp /tmp/telegram.json output/telegram.json || echo "telegram.json not found in storage branch, starting fresh"
 
-      - name: Install Claude CLI
-        run: npm install -g @anthropic-ai/claude-code
-
-      - name: Write Claude settings.json
-        run: |
-          mkdir -p ~/.claude
-          printf '%s' '${{ secrets.CLAUDE_CONFIG }}' > ~/.claude/settings.json
+      - name: Install Gemini CLI
+        run: npm install -g @google/gemini-cli
 
       - name: Install Python dependencies
         run: pip install -r requirements.txt
@@ -54,9 +47,10 @@ jobs:
       - name: Run script
         env:
           TZ: Europe/Madrid
-          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
-          CLAUDE_CODE_MAX_OUTPUT_TOKENS: ${{ vars.CLAUDE_CODE_MAX_OUTPUT_TOKENS }}
-        run: make run
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          gemini config set trustedDirectories '["${{ github.workspace }}"]' --yes
+          make run
 
       - name: Update telegram.json with new hashes
         run: python telegram.py --save-only

@@ -1,23 +1,23 @@
 #!/usr/bin/env python3
 """
-process.py - Calls Claude API with temperature=0 to process raw feeds into news.json.
+process.py - Calls Gemini API to process raw feeds into news.json.
 
 Reads prompt.md and raw_feeds_*.json, writes news.json.
-Requires ANTHROPIC_API_KEY environment variable.
+Requires GEMINI_API_KEY environment variable.
 """
 
 import json
+import os
 import sys
 from pathlib import Path
 
-import anthropic
+import google.generativeai as genai
 
-MODEL = "claude-sonnet-4-6"
-MAX_TOKENS = 16000
+MODEL = "gemini-3-flash-preview"
 
 output_dir = Path("output")
 
-prompt_text = Path("prompt.md").read_text(encoding="utf-8")
+prompt_text = Path("prompts/prompt.md").read_text(encoding="utf-8")
 
 feed_parts = []
 for section_id in ["world", "catalunya", "podcasts", "events", "videos"]:
@@ -29,22 +29,27 @@ for section_id in ["world", "catalunya", "podcasts", "events", "videos"]:
 
 user_content = "\n\n".join(feed_parts)
 
-print(f"Calling Claude API (temperature=0, model={MODEL}) ...")
+print(f"Calling Gemini API (model={MODEL}) ...")
 
-client = anthropic.Anthropic()  # reads ANTHROPIC_API_KEY from environment
+api_key = os.environ.get("GEMINI_API_KEY")
+if not api_key:
+    sys.exit("ERROR: GEMINI_API_KEY environment variable not set")
+
+genai.configure(api_key=api_key)
+model = genai.GenerativeModel(MODEL)
 
 try:
-    message = client.messages.create(
-        model=MODEL,
-        max_tokens=MAX_TOKENS,
-        temperature=0,
-        system=prompt_text,
-        messages=[{"role": "user", "content": user_content}],
+    response = model.generate_content(
+        user_content,
+        generation_config=genai.types.GenerationConfig(
+            temperature=0,
+        ),
+        system_instruction=prompt_text,
     )
-except anthropic.APIError as e:
-    sys.exit(f"ERROR: Claude API error: {e}")
+except Exception as e:
+    sys.exit(f"ERROR: Gemini API error: {e}")
 
-output = message.content[0].text.strip()
+output = response.text.strip()
 
 # Strip markdown fences if model added them despite instructions
 if output.startswith("```"):
@@ -54,7 +59,7 @@ if output.startswith("```"):
 try:
     parsed = json.loads(output)
 except json.JSONDecodeError as e:
-    sys.exit(f"ERROR: Claude output is not valid JSON: {e}\nOutput:\n{output[:500]}")
+    sys.exit(f"ERROR: Gemini output is not valid JSON: {e}\nOutput:\n{output[:500]}")
 
 output_dir.mkdir(exist_ok=True)
 (output_dir / "news.json").write_text(
