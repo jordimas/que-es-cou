@@ -46,10 +46,10 @@ Your task is to execute the following instructions:
 
  
 **OUTPUT FORMAT**
-- If the headlines are in Catalan, keep the original headline. Do not rewrite it
-- All article titles and summaries must be written in Catalan
- - If you need to translate to Catalan, please do a second step to review the quality of the translation in Catalan language and fix any grammar mistake.
-- Summaries should provide an additional angle to the headline and try not to repeat the same content
+- ALL article titles and summaries MUST be translated to and written in Catalan. This is a strict requirement, especially for the "world" and "economy" categories.
+- Exception: If the original headline is already in Catalan (e.g., in the "catalunya", "podcasts", "events", or "videos" categories), keep the exact original headline. Do not rewrite it.
+- When translating to Catalan, please do a second step to review the quality of the translation in Catalan language and fix any grammar mistakes.
+- Summaries should provide an additional angle to the headline and try not to repeat the same content.
 
 **RULES FOR THE JSON**
 - "generated_at" must be today's date and current time in YYYY-MM-DDTHH:MM format, in Barcelona local time (Europe/Madrid timezone)
