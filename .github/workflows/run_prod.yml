@@ -16,7 +16,6 @@ jobs:
       branch: main
       send_telegram: ${{ github.event_name == 'schedule' && github.event.schedule == '0 8 * * *' }}
     secrets:
-      CLAUDE_CONFIG: ${{ secrets.CLAUDE_CONFIG }}
-      CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       TG_TOKEN: ${{ secrets.TG_TOKEN_PROD }}
       TG_CHAT_ID: ${{ secrets.TG_CHAT_ID_PROD }}
