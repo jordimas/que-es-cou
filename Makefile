@@ -4,25 +4,11 @@ run:
 	@date +%s > /tmp/.make_run_start
 	python fetch.py
 	@echo "Execute filtering"
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> dev
-	claude --dangerously-skip-permissions --model claude-haiku-4-5 -p "Run the prompts/tech_topic_filter.md task"
-	python merge_filter.py
-	@echo "Execute prompt.md"
-	rm -f output/news.json
-	claude --dangerously-skip-permissions --model claude-haiku-4-5 -p "Run the prompts/prompt.md task"
-<<<<<<< HEAD
-=======
-=======
 	gemini --yolo --model gemini-3-flash-preview -p "Run the prompts/tech_topic_filter.md task"
 	python merge_filter.py
 	@echo "Execute prompt.md"
 	rm -f output/news.json
 	gemini --yolo --model gemini-3-flash-preview -p "Run the prompts/prompt.md task"
->>>>>>> gemini
->>>>>>> dev
 	@echo "Checking"
 	python validate.py
 	@echo "Rendering"

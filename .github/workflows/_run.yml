@@ -49,7 +49,8 @@ jobs:
           TZ: Europe/Madrid
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
-          gemini config set trustedDirectories '["${{ github.workspace }}"]' --yes
+          mkdir -p ~/.gemini
+          echo "{\"trusted\": [\"${{ github.workspace }}\"]}" > ~/.gemini/trustedFolders.json
           make run
 
       - name: Update telegram.json with new hashes
