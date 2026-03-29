@@ -5,17 +5,17 @@ News aggregator that fetches RSS feeds, filters tech articles, and renders an HT
 ## Architecture
 
 - `fetch.py` — fetches all RSS/Atom feeds from `config/sources.yaml`, writes per-category JSON files (`raw_feeds_*.json`)
-- `prompts/prompt.md` — instructions for Gemini to process feeds into `news.json` (filtering, translation, selection)
+- `prompts/curate_*.md` — instructions for Gemini to curate feeds into `news.json` (filtering, translation, selection), one per category
 - `prompts/tech_topic_filter.md` — instructions for Gemini to classify/filter articles by tech topic
 - `render.py` — renders `news.json` to `news.html` using `page.jinja2` Jinja2 template, also generates `feed.xml`
-- `Makefile` — orchestrates the pipeline via `make run`: `fetch.py` → `gemini` (prompts/tech_topic_filter.md) → `gemini` (prompts/prompt.md) → `render.py`
+- `Makefile` — orchestrates the pipeline via `make run`: `fetch.py` → `groq_tech_filter.py` → `curate.py` → `render.py`
 - `config/sources.yaml` — all RSS feed sources organized by category: world, catalunya, podcasts, events
 - `config/feed_age.json` — per-category max age overrides for feed fetching
 
 ## Pipeline
 
 ```
-config/sources.yaml → fetch.py → raw_feeds_*.json → gemini (prompts/tech_topic_filter.md) → gemini (prompts/prompt.md) → news.json → render.py → news.html + feed.xml
+config/sources.yaml → fetch.py → raw_feeds_*.json → groq_tech_filter.py (prompts/tech_topic_filter.md) → curate.py (prompts/curate_*.md) → news.json → render.py → news.html + feed.xml
 ```
 
 ## Categories
@@ -25,7 +25,7 @@ config/sources.yaml → fetch.py → raw_feeds_*.json → gemini (prompts/tech_t
 - **podcasts** — Catalan tech podcasts (all episodes within 15 days)
 - **events** — Barcelona tech meetups/events
 
-## Key rules (from prompts/prompt.md)
+## Key rules (from prompts/curate_*.md)
 
 - All output (titles, summaries) must be in Catalan
 - Summaries max 20 words
@@ -46,7 +46,7 @@ Run the full pipeline:
 make run
 ```
 
-The `Makefile` calls `gemini --yolo --model gemini-3-flash-preview -p "Run the prompts/prompt.md task"`.
+The `Makefile` runs `fetch.py`, `groq_tech_filter.py`, `curate.py`, and `render.py` in sequence.
 
 ## CI/CD
 

@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 """
-Updated groq_tech_filter.py to strictly follow prompts/tech_topic_filter.md.
+Updated groq_tech_filter.py to use prompts/tech_topic_filter.md.
+Merges tech_approved.json (pre-approved from tech: true sources) with classified results.
+Writes filtered raw_feeds_*_filtered.json files.
 """
 
 import json
@@ -12,46 +14,31 @@ from pathlib import Path
 from groq import Groq
 
 GROQ_MODEL = os.environ.get("GROQ_MODEL", "meta-llama/llama-4-scout-17b-16e-instruct")
+CACHE_PATH = Path(__file__).parent / "output" / "filter_cache.json"
 
-SYSTEM_PROMPT = """You are a news article classifier. You output ONLY a raw JSON array of link_id strings. No keys, no objects, no markdown, no explanation. Just the array.
-Correct: ["c_abc123", "c_def456"]
-Wrong: {"link_ids": ["c_abc123"]}"""
 
-TECH_TASK_PROMPT = """An article counts as "about technology" if its title and description are primarily about one of these topics:
-- Software, apps, platforms, operating systems, programming
-- Hardware, chips, devices, computers, smartphones, peripherals
-- AI, machine learning, robotics, automation
-- Cybersecurity, hacking, privacy, data breaches
-- Internet, networking, cloud, data centers
-- Electric vehicles, drones, space tech, biotech, cleantech
-- Startups, tech companies, tech industry news, funding rounds in tech
-- Science with direct tech application
-- Catalan language support or localization in tech products, devices, software, or vehicles
+def load_task_prompt():
+    """Load the tech topic filter prompt from prompts/tech_topic_filter.md."""
+    prompt_path = Path(__file__).parent / "prompts" / "tech_topic_filter.md"
+    return prompt_path.read_text()
 
-An article does NOT count as tech if it is primarily about:
-- Politics, elections, government (unless the story is specifically about tech regulation or surveillance tech)
-- Sports, culture, entertainment, tourism
-- General economy, real estate, cost of living (unless specifically about the tech industry)
-- Health or medicine (unless it is about a specific medical device, health app, or biotech product)
 
-When in doubt, exclude the article.
+def load_cache() -> dict:
+    """Load the filter cache from filter_cache.json."""
+    if CACHE_PATH.exists():
+        return json.loads(CACHE_PATH.read_text())
+    return {}
 
-Return ONLY a JSON array of the link_ids of all tech articles.
 
-{category} articles:
-{articles_data}
-"""
+def save_cache(cache: dict):
+    """Save the filter cache to filter_cache.json."""
+    CACHE_PATH.parent.mkdir(parents=True, exist_ok=True)
+    CACHE_PATH.write_text(json.dumps(cache, ensure_ascii=False, indent=2))
 
-ECONOMY_TASK_PROMPT = """Include articles that are primarily about global economy, finance, markets, business, or trade. 
-Exclude sports, culture, and entertainment.
 
-When in doubt, exclude the article.
-
-Return ONLY a JSON array of the link_ids of all economy articles.
-
-{category} articles:
-{articles_data}
-"""
+def get_cached_result(link_id: str, cache: dict) -> bool | None:
+    """Get cached result for an article ID, or None if not cached."""
+    return cache.get(link_id)
 
 
 def load_articles(path: Path) -> list[dict]:
@@ -87,23 +74,48 @@ def main():
         sys.exit(1)
 
     client = Groq(api_key=api_key)
+    task_prompt = load_task_prompt()
+    cache = load_cache()
 
     BATCH_SIZE = int(os.environ.get("BATCH_SIZE", 80))
     total_prompt_tokens = 0
     total_completion_tokens = 0
     last_headers: dict = {}
+    cache_hits = 0
+    cache_misses = 0
 
     def classify_batch(cat: str, articles: list) -> list:
-        nonlocal total_prompt_tokens, total_completion_tokens, last_headers
-        prompt_tmpl = ECONOMY_TASK_PROMPT if cat == "economy" else TECH_TASK_PROMPT
-        prompt = prompt_tmpl.format(
+        nonlocal total_prompt_tokens, total_completion_tokens, last_headers, cache_hits, cache_misses
+
+        # Check cache for each article
+        cached_ids = []
+        uncached_articles = []
+        article_to_id = {}
+
+        for article in articles:
+            link_id = article.get("link_id", "")
+            cached = get_cached_result(link_id, cache)
+            if cached is not None:
+                cache_hits += 1
+                if cached:  # Only include if True
+                    cached_ids.append(link_id)
+            else:
+                cache_misses += 1
+                uncached_articles.append(article)
+                article_to_id[article.get("link_id", "")] = article
+
+        # If all cached, return immediately
+        if not uncached_articles:
+            return cached_ids
+
+        # Only call model for uncached articles
+        prompt = task_prompt.format(
             category=cat,
-            articles_data=json.dumps(articles, ensure_ascii=False),
+            articles_data=json.dumps(uncached_articles, ensure_ascii=False),
         )
         raw_response = client.with_raw_response.chat.completions.create(
             model=GROQ_MODEL,
             messages=[
-                {"role": "system", "content": SYSTEM_PROMPT},
                 {"role": "user", "content": prompt},
             ],
             temperature=0.0,
@@ -118,24 +130,47 @@ def main():
         if "<think>" in raw:
             end = raw.rfind("</think>")
             raw = raw[end + len("</think>") :].strip() if end != -1 else raw
-        
+
         start = raw.find("[")
         end = raw.rfind("]")
         if start != -1 and end > start:
             raw = raw[start : end + 1]
-        
+
         try:
             parsed = json.loads(raw)
             if isinstance(parsed, dict):
                 parsed = next(iter(parsed.values()))
-            return parsed
         except json.JSONDecodeError:
             repaired = re.sub(r"\b(c_[0-9a-f]+)\b", r'"\1"', raw)
             try:
-                return json.loads(repaired)
+                parsed = json.loads(repaired)
             except json.JSONDecodeError as e:
-                print(f"ERROR: model returned invalid JSON for {cat}: {e}", file=sys.stderr)
-                return []
+                print(
+                    f"ERROR: model returned invalid JSON for {cat}: {e}",
+                    file=sys.stderr,
+                )
+                parsed = []
+
+        # Update cache with new results
+        for link_id in parsed:
+            cache[link_id] = True
+
+        # Cache articles that were not approved (False)
+        for article in uncached_articles:
+            link_id = article.get("link_id", "")
+            if link_id not in cache:
+                cache[link_id] = False
+
+        return cached_ids + parsed
+
+    # Load pre-approved tech articles
+    approved_path = base / "tech_approved.json"
+    tech_approved = {}
+    if approved_path.exists():
+        tech_approved = json.loads(approved_path.read_text())
+        print(
+            f"Loaded {sum(len(v) for v in tech_approved.values())} pre-approved tech articles"
+        )
 
     result = {}
     tasks = [
@@ -149,18 +184,73 @@ def main():
             print(f"Skipping {cat}: {path} not found")
             result[cat] = []
             continue
-        
+
         articles = load_articles(path)
         print(f"Classifying {len(articles)} {cat} articles...")
         ids: list[str] = []
         for i in range(0, len(articles), BATCH_SIZE):
             batch = articles[i : i + BATCH_SIZE]
-            print(f"  {cat} batch {i // BATCH_SIZE + 1}/{(len(articles) + BATCH_SIZE - 1) // BATCH_SIZE}...")
             ids.extend(classify_batch(cat, batch))
+
+        # Merge with pre-approved tech articles
+        approved_ids = tech_approved.get(cat, [])
+        for link_id in approved_ids:
+            if link_id not in ids:
+                ids.append(link_id)
         result[cat] = ids
+        print(
+            f"  {cat}: {len(ids)} approved articles ({len(approved_ids)} pre-approved + {len(ids) - len(approved_ids)} classified)"
+        )
 
     out_path.write_text(json.dumps(result, ensure_ascii=False, indent=2))
     print(f"Written to {out_path}")
+
+    # Write filtered raw_feeds_*_filtered.json files
+    print("\nWriting filtered feed files...")
+    for cat, path in tasks:
+        if not path.exists():
+            continue
+
+        raw_data = json.loads(path.read_text())
+        allowed_ids = set(result.get(cat, []))
+        filtered_sources = []
+        discarded = []
+
+        for source in raw_data.get("section", {}).get("sources", []):
+            filtered_items = []
+            for item in source.get("items", []):
+                if item.get("link_id") in allowed_ids:
+                    filtered_items.append(item)
+                else:
+                    discarded.append((source["name"], item.get("title", "(no title)")))
+            filtered_sources.append({**source, "items": filtered_items})
+
+        filtered_data = {
+            **raw_data,
+            "section": {**raw_data["section"], "sources": filtered_sources},
+        }
+        filtered_path = path.parent / f"{path.stem}_filtered.json"
+        filtered_path.write_text(
+            json.dumps(filtered_data, ensure_ascii=False, indent=2)
+        )
+        total_items = sum(len(s["items"]) for s in filtered_sources)
+        print(f"  {filtered_path.name}: {total_items} articles")
+
+    # Log discarded articles
+    log_path = base / "filtered_tech.log"
+    log_lines = [f"[{source}] {title}" for source, title in discarded]
+    log_path.write_text("\n".join(log_lines) + "\n" if log_lines else "")
+    print(f"  Logged {len(log_lines)} discarded articles to {log_path.name}")
+
+    # Save cache
+    save_cache(cache)
+    print(
+        f"\nCache: {cache_hits} hits, {cache_misses} misses ({cache_hits + cache_misses} total checks)"
+    )
+    print(f"Cache saved to {CACHE_PATH.name} ({len(cache)} entries)")
+    print(
+        f"Tokens: {total_prompt_tokens + total_completion_tokens:,} ({total_prompt_tokens:,} prompt, {total_completion_tokens:,} completion)"
+    )
 
 
 if __name__ == "__main__":

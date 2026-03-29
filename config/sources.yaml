@@ -1,5 +1,5 @@
 world:
-  max_days: 1
+  max_days: 2
   sources:
   - name: TechCrunch
     url: https://techcrunch.com/feed/
@@ -76,6 +76,7 @@ world:
     tech: true
   - name: Gizmodo
     url: https://www.gizmodo.com/feed/rss
+    tech: true
   - name: Slashdot
     url: https://slashdot.org/rss/slashdot.rss
     tech: true

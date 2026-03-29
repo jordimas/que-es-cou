@@ -187,15 +187,17 @@ def fetch_section(section_id: str, sources: list[dict]) -> dict:
 
     ok = sum(1 for r in results if r["status"] == "ok")
     total_items = sum(len(r.get("items", [])) for r in results)
-    print(
-        f"  [{section_id}] {ok}/{len(sources)} sources ok, {total_items} items fetched"
-    )
     for r in results:
         if r["status"] != "ok":
             print(
                 f"    [{r['status']}] {r['name']} ({r['url']}): {r.get('error_detail', '')}"
             )
-    return {"id": section_id, "sources": results}
+    return {
+        "id": section_id,
+        "sources": results,
+        "_ok": ok,
+        "_total_items": total_items,
+    }
 
 
 # ── Main ───────────────────────────────────────────────────────────────────────
@@ -248,31 +250,32 @@ for section_id in SECTION_IDS:
             if is_tech and item.get("link_id"):
                 approved.append(item["link_id"])
         source["items"] = filtered_items
-        # Remove tech: true items from source so they don't enter the classifier
-        if is_tech:
-            source["items"] = []
     if approved:
         tech_approved[section_id] = approved
-    if max_days:
-        kept = sum(len(s.get("items", [])) for s in section["sources"])
-        print(
-            f"  [{section_id}] {kept} items need classification, {len(approved)} auto-approved ({discarded} discarded too old)"
-        )
+    kept = sum(len(s.get("items", [])) for s in section["sources"])
+    ok = section["_ok"]
+    total_items = section["_total_items"]
+    items_str = f"{total_items}→{kept}" if max_days and discarded else str(kept)
+    tech_str = f"  {len(approved)} tech" if approved else ""
+    print(
+        f"  {section_id:<12} {ok}/{len(section_sources)}  {items_str} items{tech_str}"
+    )
     out_path = output_dir / f"raw_feeds_{section_id}.json"
+    for s in section["sources"]:
+        s.pop("status", None)
+        s.pop("error_detail", None)
+        s.pop("tech", None)
     out_path.write_text(
         json.dumps(
             {"fetched_at": fetched_at, "section": section}, ensure_ascii=False, indent=2
         ),
         encoding="utf-8",
     )
-    print(f"  Written to '{out_path}'")
 
 links_path = output_dir / "links.json"
 links_path.write_text(json.dumps(links, ensure_ascii=False, indent=2), encoding="utf-8")
-print(f"  Written to '{links_path}'")
 
 approved_path = output_dir / "tech_approved.json"
 approved_path.write_text(
     json.dumps(tech_approved, ensure_ascii=False, indent=2), encoding="utf-8"
 )
-print(f"  Written to '{approved_path}'")

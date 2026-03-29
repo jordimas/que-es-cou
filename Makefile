@@ -4,11 +4,9 @@ run:
 	@date +%s > /tmp/.make_run_start
 	python fetch.py
 	@echo "Execute filtering"
-	gemini --yolo --model gemini-3-flash-preview -p "Run the prompts/tech_topic_filter.md task"
-	python merge_filter.py
-	@echo "Execute prompt.md"
+	python groq_tech_filter.py
 	rm -f output/news.json
-	gemini --yolo --model gemini-3-flash-preview -p "Run the prompts/prompt.md task"
+	python curate.py
 	@echo "Checking"
 	python validate.py
 	@echo "Rendering"

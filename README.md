@@ -8,35 +8,59 @@ News aggregator that fetches RSS feeds, filters tech articles, and renders an HT
 config/sources.yaml
        │
        ▼
-   fetch.py  ──────────────────────────► raw_feeds_*.json
-                                                │
-                                                ▼
-                                   tech_topic_filter.md
-                                                │
-                                                ▼
-                                       merge_filter.py ──► raw_feeds_*_filtered.json
-                                                                       │
-                                                                       ▼
-                                                                  prompt.md
-                                                                       │
-                                                                       ▼
-                                                                  news.json
-                                                                       │
-                                                                       ▼
-                                                                  render.py
-                                                                       │
-                                                    ┌──────────────────┴──────────────────┐
-                                                    ▼                                     ▼
-                                               news.html                              feed.xml
+   fetch.py  ──────────────────────────────┬──────────────► raw_feeds_*.json
+                                           │               (all content preserved)
+                                           │
+                                           ▼
+                                    tech_approved.json
+                                    (pre-approved from
+                                     tech: true sources)
+                                           │
+                                           ├─────────────────────────┐
+                                           │                         │
+                                           ▼                         ▼
+                              groq_tech_filter.py
+                           (Groq API classification)
+                                           │
+                         ┌─────────────────┘
+                         │ (merges pre-approved + classified)
+                         ▼
+              raw_feeds_*_filtered.json
+                         │
+                         ▼
+                    curate_*.md (Gemini)
+                         │
+                         ▼
+                    news.json
+                         │
+                         ▼
+                    render.py
+                         │
+          ┌──────────────┴──────────────┐
+          ▼                             ▼
+     news.html                      feed.xml
 ```
 
 ## Steps
 
-| Step | Script / Tool | I/O | Role |
-|------|--------------|-----|------|
-| 1. Fetch feeds | `fetch.py` | `sources.yaml` → `raw_feeds_*.json` | Downloads all RSS/Atom feeds and writes one JSON file per category (world, catalunya, podcasts, events) |
-| 2. Tech topic filter | `tech_topic_filter.md` | `raw_feeds_*.json` → `tech_topic_filter.json` | Classifies each article by tech topic and marks non-tech articles for removal |
-| 3. Merge filter | `merge_filter.py` | `raw_feeds_*.json` + `tech_topic_filter.json` → `raw_feeds_*_filtered.json` | Merges filter results and writes filtered feed files containing only approved articles |
-| 4. Process & translate | `prompt.md` | `raw_feeds_*_filtered.json` → `news.json` | Selects the top articles per category, translates titles and summaries to Catalan, and structures the final output |
-| 5. Validate | `validate.py` | `news.json` → — | Checks that `news.json` contains at least one article; fails fast if the previous step produced empty output |
-| 6. Render | `render.py` | `news.json` + `page.jinja2` → `news.html`, `feed.xml` | Renders the Jinja2 HTML page and Atom feed for GitHub Pages |
+* **fetch.py**
+  * Downloads complete RSS feeds applying the age filter
+  * Generates `raw_feeds_CATEGORY.json` with all article content
+  * Saves `link_id`s of pre-approved articles (from `tech: true` sources) to `tech_approved.json`
+  * Preserves all article content (including from tech sources) in raw feeds
+
+* **groq_tech_filter.py**
+  * Loads `raw_feeds_*.json` and `tech_approved.json`
+  * Classifies non-tech articles using Groq API with `prompts/tech_topic_filter.md`
+  * Merges pre-approved articles with newly classified articles
+  * Generates `raw_feeds_CATEGORY_filtered.json` containing only approved articles
+  * Logs discarded articles to `filtered_tech.log`
+
+* **curate.py**
+  * Curates each filtered feed through Gemini API with `prompts/curate_CATEGORY.md`
+  * Generates `news.json` with final curated articles in Catalan
+
+* **render.py**
+  * Renders `news.json` to `news.html` using Jinja2 template
+  * Generates `feed.xml` (RSS feed)
+

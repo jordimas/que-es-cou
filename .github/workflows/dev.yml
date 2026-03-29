@@ -15,5 +15,6 @@ jobs:
       send_telegram: ${{ github.event_name == 'schedule' }}
     secrets:
       GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
       TG_TOKEN: ${{ secrets.TG_TOKEN_DEV }}
       TG_CHAT_ID: ${{ secrets.TG_CHAT_ID_DEV }}

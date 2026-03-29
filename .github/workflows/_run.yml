@@ -16,6 +16,8 @@ on:
     secrets:
       GEMINI_API_KEY:
         required: true
+      GROQ_API_KEY:
+        required: false
       TG_TOKEN:
         required: true
       TG_CHAT_ID:
@@ -38,9 +40,6 @@ jobs:
           git fetch origin storage --depth=1 2>/dev/null || true
           git show origin/storage:${BRANCH}/telegram.json 2>/dev/null > /tmp/telegram.json && mkdir -p output && cp /tmp/telegram.json output/telegram.json || echo "telegram.json not found in storage branch, starting fresh"
 
-      - name: Install Gemini CLI
-        run: npm install -g @google/gemini-cli
-
       - name: Install Python dependencies
         run: pip install -r requirements.txt
 
@@ -48,10 +47,8 @@ jobs:
         env:
           TZ: Europe/Madrid
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: |
-          mkdir -p ~/.gemini
-          echo "{\"trusted\": [\"${{ github.workspace }}\"]}" > ~/.gemini/trustedFolders.json
-          make run
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: make run
 
       - name: Update telegram.json with new hashes
         run: python telegram.py --save-only
