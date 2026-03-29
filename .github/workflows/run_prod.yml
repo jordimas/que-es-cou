@@ -4,7 +4,7 @@ on:
   push:
     branches: ["main"]
   schedule:
-#    - cron: "0 17 * * *"
+    - cron: "0 17 * * *"
     - cron: "0 07 * * *"
 concurrency:
   group: pages-main
@@ -14,8 +14,7 @@ jobs:
     uses: ./.github/workflows/_run.yml
     with:
       branch: main
-      #send_telegram: ${{ github.event_name == 'schedule' && github.event.schedule == '0 07 * * *' }}
-      send_telegram: true
+      send_telegram: ${{ github.event_name == 'schedule' && github.event.schedule == '0 07 * * *' }}
     secrets:
       GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
