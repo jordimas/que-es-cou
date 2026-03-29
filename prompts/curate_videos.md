@@ -5,10 +5,8 @@ Your task is to execute the following instructions:
 - Feed data is provided below in this request from raw_feeds_videos_filtered.json or raw_feeds_videos.json
 - Do not fetch any URLs yourself. Use only the data provided below.
 - Each feed contains a "fetched_at" timestamp and a "section" object with an "id" and a list of sources.
-  Each source has: name, url, status (ok/blocked/error), optional error_detail, and an items array.
   Each item has: title, pubDate, description, link_id.
 - Include ONLY sources with errors or blocked status in sources_checked. Omit sources with status="ok" and articles_found=0.
-- For sources_checked, do NOT include "status" or "error_detail" fields in the output JSON.
 
 **SELECTION CRITERIA**
 

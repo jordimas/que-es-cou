@@ -14,7 +14,6 @@ Your task is to execute the following instructions:
 
 For catalunya category, select up to 10 articles of news stories published following this prioritization criteria by order of importance:
 - Discard any article which is not in Catalan language
-- Discard any articles for which pubDate is older than 7 days
 - Prioritize stories covered by multiple sources
 - Prioritize stories with impact for society and end-users
 - Hard limit: never include more than 3 articles from the same source, skip any further articles from that source.
