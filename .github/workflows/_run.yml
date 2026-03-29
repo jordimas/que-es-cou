@@ -40,6 +40,12 @@ jobs:
           git fetch origin storage --depth=1 2>/dev/null || true
           git show origin/storage:${BRANCH}/telegram.json 2>/dev/null > /tmp/telegram.json && mkdir -p output && cp /tmp/telegram.json output/telegram.json || echo "telegram.json not found in storage branch, starting fresh"
 
+      - name: Restore filter_cache.json from storage branch
+        run: |
+          BRANCH=${{ inputs.branch }}
+          git fetch origin storage --depth=1 2>/dev/null || true
+          git show origin/storage:${BRANCH}/filter_cache.json 2>/dev/null > /tmp/filter_cache.json && mkdir -p output && cp /tmp/filter_cache.json output/filter_cache.json || echo "filter_cache.json not found in storage branch, starting fresh"
+
       - name: Install Python dependencies
         run: pip install -r requirements.txt
 
@@ -53,12 +59,13 @@ jobs:
       - name: Update telegram.json with new hashes
         run: python telegram.py --save-only
 
-      - name: Save telegram.json to storage branch
+      - name: Save telegram.json and filter_cache.json to storage branch
         run: |
           BRANCH=${{ inputs.branch }}
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           cp output/telegram.json /tmp/telegram.json
+          cp output/filter_cache.json /tmp/filter_cache.json 2>/dev/null || true
           if git fetch origin storage --depth=1 2>/dev/null; then
             git checkout -B storage origin/storage
           else
@@ -68,7 +75,11 @@ jobs:
           mkdir -p ${BRANCH}
           cp /tmp/telegram.json ${BRANCH}/telegram.json
           git add ${BRANCH}/telegram.json
-          git commit -m "Update ${BRANCH}/telegram.json [skip ci]" || echo "Nothing to commit"
+          if [ -f /tmp/filter_cache.json ]; then
+            cp /tmp/filter_cache.json ${BRANCH}/filter_cache.json
+            git add ${BRANCH}/filter_cache.json
+          fi
+          git commit -m "Update ${BRANCH}/telegram.json and filter_cache.json [skip ci]" || echo "Nothing to commit"
           git push origin storage
           git checkout ${BRANCH}
 
