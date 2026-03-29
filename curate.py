@@ -17,7 +17,7 @@ from pathlib import Path
 
 import requests
 
-MODEL = "gemini-3-flash-preview"
+MODEL = "gemini-3-pro-preview"
 output_dir = Path("output")
 SECTIONS = ["world", "economy", "catalunya", "podcasts", "events", "videos"]
 
