@@ -67,10 +67,9 @@ def process_section(section_id, api_key):
         "generationConfig": {"temperature": 0, "maxOutputTokens": 65536},
     }
 
-    # Time the API call, with retries on transient connection errors
+    # Time the API call, with retries on transient errors
     start_time = time.time()
-    max_retries = 5
-    for attempt in range(max_retries):
+    for attempt in range(5):
         try:
             response = requests.post(
                 url, params={"key": api_key}, json=payload, headers=headers, timeout=300
@@ -79,12 +78,11 @@ def process_section(section_id, api_key):
             result = response.json()
             break
         except Exception as e:
-            if attempt < max_retries - 1:
-                wait = 30 * (attempt + 1)
-                print(f"Gemini API error for {section_id} (attempt {attempt + 1}/{max_retries}), retrying in {wait}s: {e}")
-                time.sleep(wait)
-            else:
+            if attempt == 4:
                 raise Exception(f"Gemini API error for {section_id}: {e}")
+            wait = 20 * (2 ** attempt)
+            print(f"  [retry] Gemini error for {section_id} (attempt {attempt + 1}/5), waiting {wait}s: {e}")
+            time.sleep(wait)
     api_time = time.time() - start_time
 
     if "candidates" not in result or not result["candidates"]:

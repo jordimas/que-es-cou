@@ -9,9 +9,10 @@ import json
 import os
 import re
 import sys
+import time
 from pathlib import Path
 
-from groq import Groq
+from groq import Groq, InternalServerError
 
 GROQ_MODEL = os.environ.get("GROQ_MODEL", "meta-llama/llama-4-scout-17b-16e-instruct")
 CACHE_PATH = Path(__file__).parent / "output" / "filter_cache.json"
@@ -113,14 +114,23 @@ def main():
             category=cat,
             articles_data=json.dumps(uncached_articles, ensure_ascii=False),
         )
-        raw_response = client.with_raw_response.chat.completions.create(
-            model=GROQ_MODEL,
-            messages=[
-                {"role": "user", "content": prompt},
-            ],
-            temperature=0.0,
-            max_tokens=4096,
-        )
+        for attempt in range(5):
+            try:
+                raw_response = client.with_raw_response.chat.completions.create(
+                    model=GROQ_MODEL,
+                    messages=[
+                        {"role": "user", "content": prompt},
+                    ],
+                    temperature=0.0,
+                    max_tokens=4096,
+                )
+                break
+            except InternalServerError as e:
+                if attempt == 4:
+                    raise
+                wait = 20 * (2 ** attempt)
+                print(f"  [retry] Groq 503, waiting {wait}s (attempt {attempt + 1}/5)...")
+                time.sleep(wait)
         response = raw_response.parse()
         if response.usage:
             total_prompt_tokens += response.usage.prompt_tokens
