@@ -90,11 +90,11 @@ def parse_feed(content: bytes) -> list[dict]:
                     "title": title,
                     "link": link,
                     "pubDate": pub,
-                    "description": text(
+                    "description": (text(
                         entry,
                         "{http://www.w3.org/2005/Atom}summary",
                         "{http://www.w3.org/2005/Atom}content",
-                    ),
+                    ) or "")[:500],
                 }
             )
         return items
@@ -122,7 +122,7 @@ def parse_feed(content: bytes) -> list[dict]:
                 "title": title,
                 "link": link,
                 "pubDate": pub,
-                "description": desc,
+                "description": desc[:500],
             }
         )
     return items
