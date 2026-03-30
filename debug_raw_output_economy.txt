@@ -1,56 +1,48 @@
 {
-  "generated_at": "2024-05-24T18:45",
+  "generated_at": "2026-03-30T10:17",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Eli Lilly tanca un acord de 2.750 milions de dòlars amb Insilico per fàrmacs desenvolupats amb IA",
+      "title": "Mistral capta 830 milions de dòlars per construir centres d'IA a Europa",
+      "link_id": "c_2dbbc6",
+      "source": "Financial Times",
+      "date": "2026-03-30",
+      "time": "08:06",
+      "summary": "El finançament de l'empresa francesa respon a la creixent demanda d'alternatives europees als gegants tecnològics nord-americans."
+    },
+    {
+      "title": "Mistral assegura 830 milions de dòlars en deute per finançar centres de dades d'IA",
+      "link_id": "c_c8d1e1",
+      "source": "CNBC Technology",
+      "date": "2026-03-30",
+      "time": "07:35",
+      "summary": "Aquesta injecció de capital consolida la startup com un dels pocs referents europeus en models fundacionals d'intel·ligència artificial."
+    },
+    {
+      "title": "Eli Lilly tanca un acord de 2.750 milions amb Insilico per comercialitzar fàrmacs creats amb IA",
       "link_id": "c_cde354",
       "source": "CNBC Technology",
-      "date": "2026-03-29",
-      "time": "13:36",
-      "summary": "La farmacèutica nord-americana pagarà 115 milions inicials per comercialitzar nous medicaments descoberts mitjançant intel·ligència artificial."
+      "date": "2026-03-30",
+      "time": "05:35",
+      "summary": "La farmacèutica nord-americana avança 115 milions a l'empresa de Hong Kong per impulsar nous medicaments a escala mundial."
     },
     {
-      "title": "Eli Lilly signarà un acord de 2.000 milions per desenvolupar fàrmacs amb IA amb una biotecnològica de Hong Kong",
+      "title": "Eli Lilly firma un acord de 2.000 milions per desenvolupar fàrmacs amb IA a Hong Kong",
       "link_id": "c_5f795c",
       "source": "Financial Times",
-      "date": "2026-03-29",
-      "time": "11:00",
-      "summary": "Les grans farmacèutiques mundials busquen activament nous medicaments a la Xina per ampliar les seves carteres de productes."
+      "date": "2026-03-30",
+      "time": "00:45",
+      "summary": "Les grans farmacèutiques globals intensifiquen la recerca de nous tractaments mèdics al mercat xinès mitjançant aliances estratègiques."
     },
     {
-      "title": "La disputa entre el Pentàgon i Anthropic és una prova de control",
-      "link_id": "c_a27dd1",
+      "title": "Un grup pro-IA invertirà 100 milions en les eleccions de mig mandat dels EUA",
+      "link_id": "c_a43f4c",
       "source": "Financial Times",
-      "date": "2026-03-29",
-      "time": "04:00",
-      "summary": "El conflicte planteja si les empreses privades han de poder establir límits als sistemes d'IA d'ús governamental i militar."
-    },
-    {
-      "title": "Els ministres exploren activar la clàusula de rescissió del contracte de Palantir amb l'NHS",
-      "link_id": "c_beb07b",
-      "source": "Financial Times",
-      "date": "2026-03-29",
-      "time": "04:00",
-      "summary": "El govern britànic rep pressions per expulsar la polèmica empresa nord-americana dels sistemes de dades sanitàries públiques."
-    },
-    {
-      "title": "Un inversor d'OpenAI afirma que la IA requereix una reforma de l'impost sobre la renda",
-      "link_id": "c_bba812",
-      "source": "Financial Times",
-      "date": "2026-03-29",
-      "time": "04:00",
-      "summary": "Vinod Khosla adverteix que la por dels votants a perdre la feina per la tecnologia marcarà les eleccions nord-americanes."
-    },
-    {
-      "title": "El Regne Unit s'arrisca a perdre empreses emergents de tecnologia de defensa per retards en finançament",
-      "link_id": "c_3115d8",
-      "source": "Financial Times",
-      "date": "2026-03-29",
-      "time": "04:00",
-      "summary": "La lentitud en els contractes governamentals fa que algunes companyies es plantegin traslladar-se a l'estranger per sobreviure."
+      "date": "2026-03-30",
+      "time": "00:03",
+      "summary": "Els comicis del 8 de novembre esdevindran un camp de batalla clau per definir la futura regulació tecnològica."
     }
   ]
 }

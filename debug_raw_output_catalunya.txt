@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-29T19:00",
+  "generated_at": "2024-05-24T12:00",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [],
@@ -10,23 +10,31 @@
       "source": "324.cat",
       "date": "2026-03-29",
       "time": "07:16",
-      "summary": "L'eina digital estarà operativa l'estiu del 2027 per agilitzar la gestió administrativa de docents i direccions dels centres."
+      "summary": "L'eina digital 'La Meva Educació' estarà operativa l'estiu del 2027 per agilitzar els tràmits de docents i direccions."
     },
     {
-      "title": "El govern català enllesteix La Meva Educació, l’aplicació que centralitzarà els tràmits educatius",
-      "link_id": "c_8c9b29",
-      "source": "VilaWeb",
-      "date": "2026-03-29",
-      "time": "06:28",
-      "summary": "Aquesta plataforma unificarà les gestions escolars, facilitant la comunicació entre famílies, alumnes i l'administració pública de manera eficient."
+      "title": "Educació impulsa una app per reduir la burocràcia",
+      "link_id": "c_94bb09",
+      "source": "Segre",
+      "date": "2026-03-30",
+      "time": "05:34",
+      "summary": "La nova plataforma centralitzarà la informació escolar, facilitant les gestions diàries a famílies, professors i centres educatius."
     },
     {
-      "title": "Així és el nou i espectacular Phenomena Experience, el temple del cinema a Barcelona",
-      "link_id": "c_9ce204",
-      "source": "La Vanguardia (en català)",
+      "title": "La NASA prepara la primera colònia humana a la Lluna per al 2028",
+      "link_id": "c_2e7f0c",
+      "source": "MetaData",
+      "date": "2026-03-25",
+      "time": "10:00",
+      "summary": "El programa Artemis destinarà 20.000 milions de dòlars per establir una base permanent amb presència continuada al satèl·lit."
+    },
+    {
+      "title": "La NASA torna a la Lluna mig segle després amb l'Artemis II i amb l'objectiu de trepitjar-la el 2028",
+      "link_id": "c_ae7473",
+      "source": "El Nacional.cat",
       "date": "2026-03-29",
-      "time": "07:49",
-      "summary": "Després de sis mesos d'obres, la icònica sala reobre amb tecnologia audiovisual d'última generació per potenciar l'experiència sensorial."
+      "time": "21:51",
+      "summary": "Quatre astronautes ja es preparen a Cap Canaveral per a l'imminent enlairament de la històrica missió espacial."
     },
     {
       "title": "Rosa Maria Badia rep el Premi d’Honor en una Nit de les Telecomunicacions que reconeix el talent TIC català",
@@ -34,39 +42,15 @@
       "source": "MetaData",
       "date": "2026-03-27",
       "time": "09:15",
-      "summary": "La gala ha destacat la trajectòria de la investigadora en supercomputació, subratllant la importància de la recerca tecnològica catalana."
+      "summary": "La gala va guardonar la investigadora en supercomputació, destacant també el talent emergent i el compromís social tecnològic."
     },
     {
-      "title": "Albert Cuesta, millor divulgador a la Nit de les Telecomunicacions",
-      "link_id": "c_a70ba5",
-      "source": "Accent Obert",
-      "date": "2026-03-27",
-      "time": "12:33",
-      "summary": "El periodista ha estat guardonat per la seva tasca constant apropant l'actualitat tecnològica al gran públic en llengua catalana."
-    },
-    {
-      "title": "Barcelona posa límit al “frau” del lloguer de temporada i els ‘colivings’",
-      "link_id": "c_0f8d09",
+      "title": "L’aparell de diagnòstic de càncer de pulmó més avançat és a Barcelona",
+      "link_id": "c_8cc9b1",
       "source": "La Vanguardia (en català)",
-      "date": "2026-03-28",
-      "time": "07:44",
-      "summary": "L'Ajuntament aprova mesures estrictes per garantir l'ús residencial dels habitatges i frenar l'especulació immobiliària a la ciutat."
-    },
-    {
-      "title": "Laura Caballero: \"Amb la industrialització del crim, tota empresa pot patir un ciberatac\"",
-      "link_id": "c_273ca9",
-      "source": "Via Empresa",
-      "date": "2026-03-29",
-      "time": "04:55",
-      "summary": "L'Agència de Ciberseguretat alerta de l'augment exponencial d'amenaces digitals i insta el teixit empresarial a reforçar la prevenció."
-    },
-    {
-      "title": "Trump fitxa Mark Zuckerberg i Jensen Huang com a assessors per a la regulació de la IA",
-      "link_id": "c_8d5684",
-      "source": "El Periódico",
-      "date": "2026-03-25",
-      "time": "15:12",
-      "summary": "Els líders de Meta i Nvidia guiaran les polítiques nord-americanes sobre intel·ligència artificial en la nova administració republicana."
+      "date": "2026-03-30",
+      "time": "05:27",
+      "summary": "L'Hospital del Mar es converteix en el primer centre de l'Estat a incorporar un innovador ecobroncoscopi."
     },
     {
       "title": "Adeu als portàtils: tornar a escriure a mà per recuperar l’atenció a l’aula",
@@ -74,15 +58,31 @@
       "source": "Ara Balears",
       "date": "2026-03-26",
       "time": "20:01",
-      "summary": "Un institut de Menorca restringeix l'ús d'ordinadors fins a tercer d'ESO per fomentar la concentració i l'aprenentatge tradicional."
+      "summary": "Un institut de Ciutadella limitarà els ordinadors fins a tercer d'ESO per fomentar l'aprenentatge tradicional amb paper."
     },
     {
-      "title": "OpenAI tanca Sora sis mesos després del seu llançament i reorienta la seva estratègia cap a ChatGPT",
-      "link_id": "c_5eb3fb",
-      "source": "MetaData",
-      "date": "2026-03-26",
-      "time": "15:30",
-      "summary": "L'empresa descarta la generació de vídeo per centrar els seus esforços en els models conversacionals i la robòtica avançada."
+      "title": "Sanitat incorpora noves funcionalitats a l’app GVA+Salut",
+      "link_id": "c_08409e",
+      "source": "El Periòdic d'Ontinyent",
+      "date": "2026-03-27",
+      "time": "18:29",
+      "summary": "L'aplicació valenciana afegeix la targeta SIP virtual i permet visualitzar imatges clíniques per millorar l'atenció ciutadana."
+    },
+    {
+      "title": "Les deixalles electròniques i tecnològiques, la plaga programada",
+      "link_id": "c_7ca793",
+      "source": "Betevé",
+      "date": "2026-03-30",
+      "time": "07:43",
+      "summary": "La sobreproducció d'aparells i la manca de reciclatge generen un greu problema mediambiental en esgotar-se la seva vida útil."
+    },
+    {
+      "title": "La 'start-up' sorgida de la covid que entusiasma els més grans",
+      "link_id": "c_7f8d9f",
+      "source": "Ara.cat",
+      "date": "2026-03-28",
+      "time": "17:00",
+      "summary": "Una iniciativa nascuda durant la pandèmia recondiciona tauletes digitals per facilitar la comunicació de la gent gran."
     }
   ]
 }
