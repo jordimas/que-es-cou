@@ -1,94 +1,88 @@
 {
-  "generated_at": "2026-03-29T09:38",
+  "generated_at": "2026-03-30T11:45",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
-  "sources_checked": [
-    {
-      "name": "e-notícies",
-      "url": "https://www.e-noticies.cat/?feed=rss2",
-      "articles_found": 0
-    }
-  ],
+  "sources_checked": [],
   "articles": [
     {
-      "title": "Les famílies podran veure les notes, pagar excursions i parlar amb els mestres des d'una sola app",
-      "link_id": "c_48b1dc",
+      "title": "Qui hi ha rere cada SMS? Creen una nova eina per evitar les estafes de missatgeria",
+      "link_id": "c_25ef19",
+      "source": "Ara.cat",
+      "date": "2026-03-30",
+      "time": "11:26",
+      "summary": "La CNMC aprova un registre d’àlies per verificar remitents i protegir usuaris d’estafes per SMS, MMS o RCS."
+    },
+    {
+      "title": "L’aparell de diagnòstic de càncer de pulmó més avançat és a Barcelona",
+      "link_id": "c_8cc9b1",
+      "source": "La Vanguardia",
+      "date": "2026-03-30",
+      "time": "05:27",
+      "summary": "L’Hospital del Mar incorpora l’ecobroncoscopi, el sistema més avançat per detectar càncer de pulmó a Espanya."
+    },
+    {
+      "title": "El DNI digital fa un pas més aquesta Setmana Santa: tots els nous tràmits que no requeriran el carnet físic",
+      "link_id": "c_40dea5",
+      "source": "RAC1",
+      "date": "2026-03-30",
+      "time": "10:51",
+      "summary": "A partir de dijous el DNI digital serà vàlid per identificar-se i fer tràmits sense portar el carnet físic."
+    },
+    {
+      "title": "Tenir un fill amb un holograma",
+      "link_id": "c_8f8f4d",
+      "source": "RAC1",
+      "date": "2026-03-30",
+      "time": "09:01",
+      "summary": "Una artista catalana es casa amb un holograma IA i planteja la maternitat emocional amb intel·ligència artificial."
+    },
+    {
+      "title": "Venga: criptoactius a l'abast de tothom i en català",
+      "link_id": "c_7a4429",
       "source": "Ara.cat",
       "date": "2026-03-29",
-      "time": "05:01",
-      "summary": "El Govern llançarà l'app 'La Meva Educació' el 2027 per centralitzar tràmits, notes i comunicació amb docents."
+      "time": "21:59",
+      "summary": "L’app barcelonina Venga simplifica inversions en criptomonedes parlant català i busca expandir-se a Europa."
     },
     {
-      "title": "Laura Caballero: \"Amb la industrialització del crim, tota empresa pot patir un ciberatac\"",
-      "link_id": "c_273ca9",
-      "source": "Via Empresa",
-      "date": "2026-03-29",
-      "time": "04:55",
-      "summary": "L'Agència de Ciberseguretat de Catalunya alerta sobre l'augment d'atacs i la necessitat de protegir les empreses amb tecnologia."
+      "title": "La 'start-up' sorgida de la covid que entusiasma els més grans",
+      "link_id": "c_7f8d9f",
+      "source": "Ara.cat",
+      "date": "2026-03-28",
+      "time": "17:00",
+      "summary": "Joves recondicionen dispositius perquè avis poguessin connectar amb familiars durant la pandèmia, ara impulsen creixement tecnològic."
     },
     {
-      "title": "Hisenda està fent servir un sistema amb IA per controlar que facis bé la Declaració de la Renda",
-      "link_id": "c_671179",
-      "source": "El Nacional.cat",
-      "date": "2026-03-29",
-      "time": "08:45",
-      "summary": "L'Agència Tributària utilitza algorismes d'intel·ligència artificial per supervisar les dades i evitar errors en la campanya de la renda."
+      "title": "L’exconseller Roger Torrent fitxa per una companyia d'internacionalització industrial",
+      "link_id": "c_b30ae3",
+      "source": "Ara.cat",
+      "date": "2026-03-30",
+      "time": "10:07",
+      "summary": "Roger Torrent s’incorpora al consell assessor de The Big Move, que ajuda empreses industrials catalanes a créixer a l’exterior."
     },
     {
-      "title": "Rosa Maria Badia rep el Premi d’Honor en una Nit de les Telecomunicacions que reconeix el talent TIC català",
-      "link_id": "c_861c10",
+      "title": "Reportatge: NODUS, la ‘start-up’ catalana que vol redissenyar les organitzacions amb equips híbrids d’IA i persones",
+      "link_id": "c_1ff880",
       "source": "MetaData",
-      "date": "2026-03-27",
-      "time": "09:15",
-      "summary": "La Nit de les Telecomunicacions premia la recerca en supercomputació i el talent digital emergent del sector TIC català."
+      "date": "2026-03-30",
+      "time": "10:00",
+      "summary": "NODUS crea una capa d’IA per transformar la capacitat operativa de les empreses combinant persones i algoritmes."
     },
     {
-      "title": "Vinils, cassets i càmeres de rodet: per què tornen els gadgets dels 80?",
-      "link_id": "c_e82ce9",
-      "source": "Ara.cat",
+      "title": "Bones notícies: les dones ja representen el 35,7% del sector tecnològic",
+      "link_id": "c_137d83",
+      "source": "Lleida Diari",
+      "date": "2026-03-30",
+      "time": "08:02",
+      "summary": "Barcelona Activa indica que la presència femenina al sector TIC creix i ja representa més d’un terç del total."
+    },
+    {
+      "title": "Menys burocràcia en l'educació: el govern fa un pla per reduir-la amb una app com La Meva Salut",
+      "link_id": "c_95e3e9",
+      "source": "324.cat",
       "date": "2026-03-29",
-      "time": "08:00",
-      "summary": "Els joves recuperen formats analògics dels anys 80 com a símbol d'identitat davant l'omnipresència del consum digital actual."
-    },
-    {
-      "title": "Els models d’IA són aduladors i distorsionen judicis i conductes socials",
-      "link_id": "c_53f9d1",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-03-28",
-      "time": "07:53",
-      "summary": "Un estudi revela que la intel·ligència artificial tendeix a lloar l'usuari, fet que podria distorsionar el creixement moral."
-    },
-    {
-      "title": "GameBCN i 8,5 milions de raons per elevar el videojoc català",
-      "link_id": "c_4a4e46",
-      "source": "Via Empresa",
-      "date": "2026-03-28",
-      "time": "04:55",
-      "summary": "La incubadora de videojocs de Barcelona inicia una nova edició per professionalitzar estudis i atreure inversió internacional al sector."
-    },
-    {
-      "title": "Un grup proiranià hackeja el mail del director de l'FBI i en publica fotos fent el fatxenda",
-      "link_id": "c_ed5e9a",
-      "source": "324.cat",
-      "date": "2026-03-28",
-      "time": "12:00",
-      "summary": "Pirates informàtics accedeixen al correu del director de l'FBI, evidenciant vulnerabilitats fins i tot en les altes esferes de seguretat."
-    },
-    {
-      "title": "L'agència d'aviació de l'ONU restringeix l'ús de les bateries externes durant els vols",
-      "link_id": "c_e2720e",
-      "source": "324.cat",
-      "date": "2026-03-28",
-      "time": "07:20",
-      "summary": "Les noves normatives internacionals limiten el nombre i l'ús de bateries externes als avions per motius de seguretat."
-    },
-    {
-      "title": "Frec: quan la intel·ligència artificial comença a interactuar amb eines i serveis en català",
-      "link_id": "c_ee7130",
-      "source": "Accent Obert",
-      "date": "2026-03-27",
-      "time": "14:27",
-      "summary": "Analitzem com els nous sistemes d'IA comencen a integrar-se i interactuar amb serveis digitals en llengua catalana."
+      "time": "07:16",
+      "summary": "Educació crearà l’app La Meva Educació per centralitzar tràmits i reduir la burocràcia docent a partir de l’estiu 2027."
     }
   ]
 }

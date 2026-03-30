@@ -1,14 +1,8 @@
 {
-  "generated_at": "2026-03-29T09:38",
+  "generated_at": "2026-03-30T11:45",
   "id": "videos",
   "title": "Vídeos en català sobre tecnologia",
-  "sources_checked": [
-    {
-      "name": "La Poma Mossegada",
-      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCidFf_iUay6_Y59u2XzF4mw",
-      "articles_found": 0
-    }
-  ],
+  "sources_checked": [],
   "articles": [
     {
       "title": "guardar la música",
@@ -16,7 +10,23 @@
       "source": "Albert Lloreta",
       "date": "2026-03-25",
       "time": "15:49",
-      "summary": "Una reflexió sobre la preservació digital de les nostres col·leccions musicals en l'era de l'streaming."
+      "summary": "Trucs per organitzar la teva música digital i no perdre cap tema."
+    },
+    {
+      "title": "Llibres per repensar l'internet",
+      "link_id": "c_292ddd",
+      "source": "Albert Lloreta",
+      "date": "2026-03-10",
+      "time": "10:48",
+      "summary": "Lectures imprescindibles per entendre els reptes de la xarxa actual."
+    },
+    {
+      "title": "Prohibir les xarxes a menors... mala idea (però hi ha alternatives)",
+      "link_id": "c_e34e0c",
+      "source": "Albert Lloreta",
+      "date": "2026-02-23",
+      "time": "09:17",
+      "summary": "Proposem solucions educatives per a un ús segur de les xarxes."
     },
     {
       "title": "Els Putxinel·lis - Capítol 6 - La Competència",
@@ -24,7 +34,7 @@
       "source": "Pixelats",
       "date": "2026-03-19",
       "time": "20:10",
-      "summary": "Sisena entrega de la sèrie de titelles on s'analitzen les rivalitats dins del món dels videojocs."
+      "summary": "Els personatges es preparen una batalla creativa sota format vídeo."
     },
     {
       "title": "Els Putxinel·lis - Capítol 5 - L'amor llunyà",
@@ -32,7 +42,7 @@
       "source": "Pixelats",
       "date": "2026-03-19",
       "time": "20:10",
-      "summary": "Un relat sobre les relacions a distància i la tecnologia en aquesta sèrie creativa de titelles pixelats."
+      "summary": "Una història d'amor virtual plena d'humor i nostàlgia."
     },
     {
       "title": "Els Putxinel·lis - Capítol 4 - Cedeix, però segueix",
@@ -40,7 +50,7 @@
       "source": "Pixelats",
       "date": "2026-03-19",
       "time": "20:10",
-      "summary": "Continuen les aventures dels personatges amb una lliçó sobre la persistència i la flexibilitat en situacions adverses."
+      "summary": "Els Putxinel·lis descobreixen la persistència digital i els seus límits."
     },
     {
       "title": "Els Putxinel·lis - Capítol 3 - Pobre, pobre Toad",
@@ -48,7 +58,7 @@
       "source": "Pixelats",
       "date": "2026-03-19",
       "time": "20:10",
-      "summary": "El personatge de Toad protagonitza aquest episodi ple d'humor i situacions compromeses per al bolet més famós."
+      "summary": "Un petit personatge s'enfronta a la crisi existencial tecnològica."
     },
     {
       "title": "Els Putxinel·lis - Capítol 2 - Negociació Infructuosa",
@@ -56,7 +66,7 @@
       "source": "Pixelats",
       "date": "2026-03-19",
       "time": "20:10",
-      "summary": "L'experiment continua amb una sessió de negociació que no surt com s'esperava entre els protagonistes de la sèrie."
+      "summary": "Tensió digital quan les converses virtuals fallen."
     },
     {
       "title": "Els Putxinel·lis - Capítol 1 - Benvinguts al meu experiment",
@@ -64,7 +74,7 @@
       "source": "Pixelats",
       "date": "2026-03-19",
       "time": "20:10",
-      "summary": "Inici d'una nova proposta visual que barreja l'estètica retro amb una narrativa experimental i divertida."
+      "summary": "Explica com muntar el teu propi canal multimèdia amb recursos mínims."
     },
     {
       "title": "Pixelats vs. NINJA JAJAMARU: The Great Yokai Battle!! 🥷🐸",
@@ -72,7 +82,47 @@
       "source": "Pixelats",
       "date": "2026-03-18",
       "time": "11:00",
-      "summary": "Partida comentada d'aquest clàssic d'acció japonès ple de ninges, granotes i batalles contra yokais tradicionals."
+      "summary": "La lucha retro digital entre ninjes i follets explicada."
+    },
+    {
+      "title": "Pixelats vs. THE OUTFOXIES!! 🦼🦈",
+      "link_id": "c_268e69",
+      "source": "Pixelats",
+      "date": "2026-03-04",
+      "time": "11:01",
+      "summary": "Duel multimèdia entre gamers catalans vers antics clàssics."
+    },
+    {
+      "title": "¿Quánta penya treballa a Docusign?",
+      "link_id": "c_4cc8d7",
+      "source": "Barra Inversa",
+      "date": "2026-03-09",
+      "time": "16:05",
+      "summary": "Descobreix com és el dia dins d'una empresa d'e-firmes."
+    },
+    {
+      "title": "[Campionat Forza Rivals] - 7ª Temporada - 6ª - Mugello Club - Càster @pol_aeri ​+ Almoracers",
+      "link_id": "c_1db6b4",
+      "source": "Xboxers Catalans",
+      "date": "2026-03-04",
+      "time": "10:53",
+      "summary": "Cursa virtual entre catalans amb el circuit Mugello clàssic."
+    },
+    {
+      "title": "POTI-POTI VIDEOJOCS: l'adéu a Bluepoint, State of Play, canvi de rumb a Xbox, il·lusió amb NieR 🎮",
+      "link_id": "c_84c59e",
+      "source": "3D Nassos",
+      "date": "2026-03-01",
+      "time": "10:45",
+      "summary": "Repàs mensual de notícies i novetats del gaming català."
+    },
+    {
+      "title": "[NTH] Nintendo Direct: Partner Showcase en català! (05/02/26)",
+      "link_id": "c_fcd60d",
+      "source": "Nintenhype.cat",
+      "date": "2026-02-05",
+      "time": "19:56",
+      "summary": "Reaccions dels fans catalans a les novetats de Nintendo Direct."
     },
     {
       "title": "🎙️Lúdica #53 - Paradox Interactive: l’imperi de la gran estratègia",
@@ -80,7 +130,7 @@
       "source": "Lúdica (Vídeos)",
       "date": "2026-03-24",
       "time": "17:09",
-      "summary": "Repàs profund a la trajectòria de l'estudi suec referent en els jocs de gran estratègia històrica."
+      "summary": "Anàlisi en profunditat de l'estratègia clàssica de Paradox."
     }
   ]
 }

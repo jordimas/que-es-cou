@@ -1,48 +1,88 @@
 {
-  "generated_at": "2026-03-29T09:38",
+  "generated_at": "2026-03-30T12:45",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Melania Trump presenta el robot humanoide de Figure AI a la Casa Blanca",
-      "link_id": "c_a4774c",
-      "source": "CNBC Technology",
-      "date": "2026-03-29",
-      "time": "06:59",
-      "summary": "La primera dama s'ha mostrat amb un robot de l'empresa emergent Figure AI en un acte oficial."
+      "title": "Mistral aixeca 830 milions per construir centres d’IA a Europa amb tecnologia Nvidia",
+      "link_id": "c_2dbbc6",
+      "source": "Financial Times",
+      "date": "2026-03-30",
+      "time": "08:06",
+      "summary": "La startup francesa opta per finançament deute per desplegar infraestructura d’IA al continent."
     },
     {
-      "title": "La disputa entre el Pentàgon i Anthropic posa a prova el control de la IA",
+      "title": "Mistral obté 830 milions en finançament per al seu centre de dades d’IA",
+      "link_id": "c_c8d1e1",
+      "source": "CNBC Technology",
+      "date": "2026-03-30",
+      "time": "07:35",
+      "summary": "La jove europea reforça la competència amb grans nord-americans gràcies a aquesta injecció."
+    },
+    {
+      "title": "Eli Lilly tanca tractament de 2.000 milions amb biotecnològica de Hong Kong per fàrmacs d’IA",
+      "link_id": "c_5f795c",
+      "source": "Financial Times",
+      "date": "2026-03-30",
+      "time": "00:45",
+      "summary": "L’acord permetrà al gegant farmacèutic accelerar la investigació mitjançant tècniques d’intel·ligència artificial."
+    },
+    {
+      "title": "Eli Lilly paga 2.750 milions per portar fàrmacs dissenyats per IA al mercat global",
+      "link_id": "c_cde354",
+      "source": "CNBC Technology",
+      "date": "2026-03-30",
+      "time": "05:35",
+      "summary": "Insilico rebrà 115 milions inicials per comercialitzar teràpies descobertes per algoritmes."
+    },
+    {
+      "title": "Start-ups de satèl·lits d’IA atreuen inversors abans de l’OPO de SpaceX",
+      "link_id": "c_56fe2f",
+      "source": "Financial Times",
+      "date": "2026-03-30",
+      "time": "11:00",
+      "summary": "Les promeses de Musk i Bezos d’instal·lar centres de dades a l’espai disparen l’interès."
+    },
+    {
+      "title": "Empreses quàntiques acceleren sortides a borsa en assolir punt d’inflexió",
+      "link_id": "c_35a68c",
+      "source": "CNBC Technology",
+      "date": "2026-03-30",
+      "time": "11:29",
+      "summary": "La tecnologia deixa de ser només investigació i busca ingressos comercials sòlids."
+    },
+    {
+      "title": "Pro-IA pressuposta 100 milions en eleccions de mig mandat als EUA",
+      "link_id": "c_a43f4c",
+      "source": "Financial Times",
+      "date": "2026-03-30",
+      "time": "00:03",
+      "summary": "El sector vol influir en la futura regulació mentre creix el rebuig social."
+    },
+    {
+      "title": "Meta eleva sis vegades l’inversió en centre de dades de Texas fins als 10.000 milions",
+      "link_id": "c_62af18",
+      "source": "CNBC Technology",
+      "date": "2026-03-26",
+      "time": "22:18",
+      "summary": "Els gegants tecnològics multipliquen despesa en infraestructures per donar servei a IA."
+    },
+    {
+      "title": "Test per al Pentàgon: Anthropic defensa autonomia davant control estatal",
       "link_id": "c_a27dd1",
       "source": "Financial Times",
       "date": "2026-03-29",
       "time": "04:00",
-      "summary": "El conflicte planteja si les empreses privades han de posar límits als sistemes d'intel·ligència artificial integrats."
+      "summary": "El litigi obre debat sobre qui ha de marcar límits als sistemes d’IA crítics."
     },
     {
-      "title": "El Regne Unit estudia cancel·lar el contracte de Palantir amb el servei de salut",
-      "link_id": "c_beb07b",
-      "source": "Financial Times",
-      "date": "2026-03-29",
-      "time": "04:00",
-      "summary": "El govern britànic rep pressions per expulsar la polèmica empresa nord-americana dels sistemes de dades de l'NHS."
-    },
-    {
-      "title": "Les empreses emergents de tecnologia de defensa podrien abandonar el Regne Unit",
-      "link_id": "c_3115d8",
-      "source": "Financial Times",
-      "date": "2026-03-29",
-      "time": "04:00",
-      "summary": "Els retards en el finançament i els contractes governamentals empenyen les \"start-ups\" a considerar el trasllat a l'estranger."
-    },
-    {
-      "title": "La guerra de l'Iran posa a prova la tecnologia de defensa moderna",
-      "link_id": "c_5eaba2",
+      "title": "Anuncis d’OpenAI ja facturen 100 milions anuals dos mesos després del llançament",
+      "link_id": "c_1581d3",
       "source": "CNBC Technology",
-      "date": "2026-03-28",
-      "time": "12:00",
-      "summary": "Tot i les grans inversions en empreses com SpaceX o Palantir, pocs sistemes d'armament estan realment preparats."
+      "date": "2026-03-26",
+      "time": "22:28",
+      "summary": "El model de publicitat emergent creix a ritme vertiginós en plena expansió americana."
     }
   ]
 }

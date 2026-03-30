@@ -1,48 +1,102 @@
 {
-  "generated_at": "2025-05-22T12:30",
+  "generated_at": "2026-03-30T13:15",
   "id": "podcasts",
   "title": "Podcasts en català sobre tecnologia",
-  "sources_checked": [],
+  "sources_checked": [
+    {
+      "name": "La Base",
+      "url": "https://www.ivoox.com/podcast-la-base_fg_f1712297_filtro_1.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "Crims de la xarxa",
+      "url": "https://www.ivoox.com/podcast-crims-de-la-xarxa_fg_f12305773_filtro_1.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "El Terrat de la tecnologia",
+      "url": "https://www.ivoox.com/podcast-terrat-tecnologia_fg_f1700107_filtro_1.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "Tecnicat",
+      "url": "https://www.ivoox.com/podcast-tecnicat_fg_f12054621_filtro_1.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "Revolució 4.0",
+      "url": "https://dinamics.3cat.cat/public/podcast/catradio/xml/0/8/podprograma1780.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "Generació digital",
+      "url": "https://dinamics.3cat.cat/public/podcast/catradio/xml/5/2/podprograma925.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "Societat de la Informació",
+      "url": "https://www.societatdelainformacio.com/feed/podcast/",
+      "articles_found": 0
+    },
+    {
+      "name": "La poma de Newton",
+      "url": "https://dinamics.3cat.cat/public/podcast/catradio/xml/1/7/podprograma1471.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "Perspectiva",
+      "url": "https://dinamics.3cat.cat/public/podcast/catradio/xml/1/4/podprograma1841.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "Popap",
+      "url": "https://dinamics.3cat.cat/public/podcast/catradio/xml/7/3/podprograma1737.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "Ciència al Versió RAC1",
+      "url": "https://api.audioteca.rac1.cat/rss/versio/ciencia",
+      "articles_found": 0
+    },
+    {
+      "name": "EvidentMENT",
+      "url": "https://www.evidentment.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "La Píndola Vermella",
+      "url": "https://www.ivoox.com/podcast-pindola-vermella_fg_f12363688_filtro_1.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "Heroïnes Digitals",
+      "url": "https://anchor.fm/s/f29f72dc/podcast/rss",
+      "articles_found": 0
+    },
+    {
+      "name": "Algorrritmes UPC",
+      "url": "https://feeds.ivoox.com/feed_fg_f11793567_filtro_1.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "Felicitat digital",
+      "url": "https://dinamics.ccma.cat/public/podcast/catradio/xml/0/7/podprograma1970.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "Espetech Cast",
+      "url": "https://anchor.fm/s/5bb39088/podcast/rss",
+      "articles_found": 0
+    }
+  ],
   "articles": [
     {
-      "title": "L' Altra Ràdio - Les persones que fan servir la llengua de signes catalana poden fer ràdio",
-      "link_id": "c_b337e6",
-      "source": "L'altra ràdio",
-      "date": "2026-03-26",
-      "time": "08:33",
-      "summary": "Presentació de Signària, una eina que permet a persones sordes fer ràdio mitjançant veus sintètiques personalitzades en català."
-    },
-    {
-      "title": "El gòTIC - Tenim una missió! del 25/3/2026",
-      "link_id": "c_8b8401",
-      "source": "El Gòtic",
-      "date": "2026-03-24",
-      "time": "17:29",
-      "summary": "Espai dedicat a compartir recursos i estratègies per superar els reptes de la ciutadania en l'entorn digital actual."
-    },
-    {
-      "title": "Capítol 61: Niddo, la solució a la logística familiar de parelles separades",
-      "link_id": "c_5b3fca",
-      "source": "RAC&GO",
-      "date": "2026-03-24",
-      "time": "07:00",
-      "summary": "Nova aplicació dissenyada per facilitar la conciliació i la gestió de despeses en famílies amb pares separats."
-    },
-    {
-      "title": "WordPress 7.0 beta 6",
-      "link_id": "c_968f15",
-      "source": "WordPress Pòdcast",
-      "date": "2026-03-24",
-      "time": "00:00",
-      "summary": "Actualitat sobre la fase beta de WordPress 7.0, centrada en la mida de la instal·lació i sistemes de temps real."
-    },
-    {
-      "title": "De Catalunya a Silicon Valley, i torna cap a Catalunya, amb Anna Navarro i Descals",
-      "link_id": "c_0bd6f6",
-      "source": "Foc a Terra",
-      "date": "2026-03-23",
-      "time": "05:00",
-      "summary": "Entrevista a Anna Navarro sobre la seva trajectòria a Silicon Valley i el seu salt a la política catalana."
+      "title": "Ivoox com exemple de merdificació – Programa 658",
+      "link_id": "c_4efec1",
+      "source": "Mossega la poma",
+      "date": "2026-03-30",
+      "time": "10:32",
+      "summary": "Com les plataformes passen d’ajudar l’usuari a prioritzar el negoci."
     },
     {
       "title": "La música que ens ha marcat la vida – programa 657",
@@ -50,7 +104,15 @@
       "source": "Mossega la poma",
       "date": "2026-03-19",
       "time": "11:17",
-      "summary": "Exploren la relació entre música, IA i records, destacant eines d'edició i projectes de Softcatalà per a lectors RSS."
+      "summary": "La IA i els records musicals eterns entre els 14 i 18 anys."
+    },
+    {
+      "title": "L' Altra Ràdio - Les persones que fan servir la llengua de signes catalana poden fer ràdio",
+      "link_id": "c_b337e6",
+      "source": "L'altra ràdio",
+      "date": "2026-03-26",
+      "time": "08:33",
+      "summary": "Signària converteix la llengua de signes catalana en veu sintètica radiofònica."
     },
     {
       "title": "L' Altra Ràdio - El periodisme i la Guerra del Sudan",
@@ -58,7 +120,55 @@
       "source": "L'altra ràdio",
       "date": "2026-03-19",
       "time": "08:33",
-      "summary": "Reflexió sobre els perills del periodisme en conflictes i l'ús de mitjans digitals per informar des de l'exili."
+      "summary": "Periodistes exiliats creen webs per informar sobre la guerra oblidada del Sudan."
+    },
+    {
+      "title": "El gòTIC - Tenim una missió! del 25/3/2026",
+      "link_id": "c_8b8401",
+      "source": "El Gòtic",
+      "date": "2026-03-24",
+      "time": "17:29",
+      "summary": "Recursos per enfrontar reptes digitals de la ciutadania des de Tarrega."
+    },
+    {
+      "title": "El futur de la premsa, de l'educació i el problema de l'accés a les dades obertes",
+      "link_id": "c_d12024",
+      "source": "Internet amb Genís Roca",
+      "date": "2026-03-29",
+      "time": "02:37",
+      "summary": "Accessos limitats a dades obertes, premsa i educació en risc."
+    },
+    {
+      "title": "El futur de la premsa, de l'educació i el problema de l'accés a les dades obertes",
+      "link_id": "c_0fd001",
+      "source": "Internet amb Genís Roca",
+      "date": "2026-03-28",
+      "time": "19:14",
+      "summary": "Accés restringit a dades obertes, amenaça per a premsa i educació."
+    },
+    {
+      "title": "La gamificació de la renda",
+      "link_id": "c_39a955",
+      "source": "Foc a Terra",
+      "date": "2026-03-30",
+      "time": "04:00",
+      "summary": "Vibecoding crea un lloc de subvencions en dies: la declaració esdevé joc."
+    },
+    {
+      "title": "De Catalunya a Silicon Valley, i torna cap a Catalunya, amb Anna Navarro i Descals",
+      "link_id": "c_0bd6f6",
+      "source": "Foc a Terra",
+      "date": "2026-03-23",
+      "time": "05:00",
+      "summary": "Anna Navarro explica la seva trajectòria tech i el pas a la política."
+    },
+    {
+      "title": "WordPress 7.0 beta 6",
+      "link_id": "c_968f15",
+      "source": "WordPress Pòdcast",
+      "date": "2026-03-24",
+      "time": "00:00",
+      "summary": "WordPress 7.0 encara en fase beta, instal·lació més lleugera."
     },
     {
       "title": "L’inici de Twenty Twenty-Seven",
@@ -66,15 +176,15 @@
       "source": "WordPress Pòdcast",
       "date": "2026-03-17",
       "time": "00:00",
-      "summary": "Comença el desenvolupament del futur tema per defecte de WordPress, buscant estabilitat per al llançament de la versió 7.2."
+      "summary": "Ja es treballa en Twenty Twenty-Seven, tema previst per a WP 7.2."
     },
     {
-      "title": "Avui sí que perdem el patrocini de Parlem",
-      "link_id": "c_5c65bf",
-      "source": "Foc a Terra",
-      "date": "2026-03-16",
-      "time": "05:00",
-      "summary": "Ernest Pérez-Mas, fundador de Parlem, visita el programa per parlar del seu nou projecte en el món del pòdcast."
+      "title": "Capítol 61: Niddo, la solució a la logística familiar de parelles separades",
+      "link_id": "c_5b3fca",
+      "source": "RAC&GO",
+      "date": "2026-03-24",
+      "time": "07:00",
+      "summary": "App Niddo organiza guardies i despeses per a famílies separades."
     }
   ]
 }

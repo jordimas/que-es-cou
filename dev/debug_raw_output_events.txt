@@ -1,14 +1,8 @@
 {
-  "generated_at": "2025-05-22T12:45",
+  "generated_at": "2026-03-30T13:45",
   "id": "events",
   "title": "Trobades",
-  "sources_checked": [
-    {
-      "name": "Eventbrite Barcelona Tech",
-      "url": "https://www.eventbrite.es/d/spain--barcelona/technology--events/",
-      "articles_found": 0
-    }
-  ],
+  "sources_checked": [],
   "articles": [
     {
       "title": "Networking for AI Professionals around the world - April 14",
@@ -16,7 +10,7 @@
       "source": "AI Professionals Barcelona",
       "date": "2026-03-27",
       "time": "14:32",
-      "summary": "Sessió interactiva virtual per connectar amb la comunitat global d'intel·ligència artificial, compartint coneixements i noves oportunitats de col·laboració professional."
+      "summary": "Sessió per connectar professionals d’IA en xerrades i networking."
     }
   ]
 }
