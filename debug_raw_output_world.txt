@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T10:17",
+  "generated_at": "2026-03-30T19:52",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [
@@ -22,98 +22,88 @@
       "name": "Slashdot",
       "url": "https://slashdot.org/rss/slashdot.rss",
       "articles_found": 0
-    },
-    {
-      "name": "InfoWorld",
-      "url": "https://www.infoworld.com/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "Computerworld",
-      "url": "https://www.computerworld.com/feed/",
-      "articles_found": 0
     }
   ],
   "articles": [
     {
-      "title": "He trobat les 3 millors ofertes tecnològiques per sota de 100 dòlars a l'Amazon Big Spring Sale",
-      "link_id": "c_8d7775",
+      "title": "La primera beta d'iPadOS 26.5 ja està disponible, juntament amb tvOS 26.5, watchOS 26.5 i més",
+      "link_id": "c_f73a52",
+      "source": "9to5Mac",
+      "date": "2026-03-30",
+      "time": "17:44",
+      "summary": "Apple ha llançat noves versions de prova per a desenvolupadors, preparant el terreny per a futures actualitzacions de programari."
+    },
+    {
+      "title": "El Regne Unit multa una filial d'Apple per pagar a un servei de streaming rus sancionat",
+      "link_id": "c_ffe523",
+      "source": "The Next Web",
+      "date": "2026-03-30",
+      "time": "16:11",
+      "summary": "L'empresa haurà d'abonar 390.000 lliures per haver incomplert les restriccions financeres imposades a Moscou el 2022."
+    },
+    {
+      "title": "YouTube arriba a Android Auto, però no podràs veure-hi vídeos",
+      "link_id": "c_e2d1ab",
       "source": "ZDNet",
       "date": "2026-03-30",
-      "time": "03:00",
-      "summary": "Descobreix gangues assequibles per a la llar intel·ligent que milloraran el teu dia a dia sense buidar-te la butxaca."
+      "time": "17:41",
+      "summary": "La integració permetrà controlar la reproducció d'àudio en segon pla, limitant l'experiència visual per motius de seguretat al volant."
     },
     {
-      "title": "La IA escriurà codi, però prepara't per supervisar-la i assegura't de parlar el seu idioma",
-      "link_id": "c_503e4d",
-      "source": "The Register",
-      "date": "2026-03-29",
-      "time": "23:00",
-      "summary": "La programació assistida per intel·ligència artificial requereix una revisió humana constant per polir resultats i evitar errors estructurals greus."
-    },
-    {
-      "title": "Per què OpenAI va tancar realment Sora",
-      "link_id": "c_620bd6",
-      "source": "TechCrunch",
+      "title": "50 anys d'Apple impulsant la tecnologia, per a bé o per a mal",
+      "link_id": "c_d3c33e",
+      "source": "Engadget",
       "date": "2026-03-30",
-      "time": "03:09",
-      "summary": "La sobtada retirada de l'eina de vídeo genera sospites sobre una possible estratègia massiva per recopilar dades facials dels usuaris."
+      "time": "17:00",
+      "summary": "La companyia celebra mig segle d'història marcat per la innovació en ordinadors personals, telèfons intel·ligents i dispositius portables."
     },
     {
-      "title": "Avatar Legends: The Fighting Game surt al juliol i té molt bona pinta",
-      "link_id": "c_ea3db5",
-      "source": "Digital Trends",
-      "date": "2026-03-29",
-      "time": "22:22",
-      "summary": "Aquest nou títol de lluita 2D inclourà joc creuat, combat elemental i dotze personatges icònics de la popular franquícia animada."
-    },
-    {
-      "title": "La nova aplicació de Bluesky és una IA per personalitzar el teu canal",
-      "link_id": "c_609f89",
+      "title": "L'última filtració del Pixel 11 mostra marcs més prims i una barra de càmera totalment negra",
+      "link_id": "c_ffe7d3",
       "source": "The Verge",
-      "date": "2026-03-29",
-      "time": "17:44",
-      "summary": "L'assistent Attie, basat en Claude d'Anthropic, permet als usuaris dissenyar fàcilment els seus propis algorismes dins la xarxa social descentralitzada."
-    },
-    {
-      "title": "Apple podria crear una botiga d'aplicacions d'IA per al proper avatar de Siri",
-      "link_id": "c_32bd56",
-      "source": "Digital Trends",
-      "date": "2026-03-29",
-      "time": "21:33",
-      "summary": "El futur iOS 27 permetria integrar assistents de tercers, com Gemini o Claude, directament a l'ecosistema d'Apple mitjançant noves extensions."
-    },
-    {
-      "title": "Els telèfons Galaxy antics reben suport per a AirDrop, però no ho celebris encara",
-      "link_id": "c_02735c",
-      "source": "Android Authority",
       "date": "2026-03-30",
-      "time": "06:41",
-      "summary": "Tot i que l'opció de compartir fitxers ja apareix als menús, la funció continua sent inoperativa en els models anteriors."
+      "time": "11:52",
+      "summary": "Les noves imatges revelen un disseny continuista però refinat per al proper telèfon insígnia de Google."
     },
     {
-      "title": "YouTube afegeix discretament suport per a Android Auto, però no és el que penses",
-      "link_id": "c_53bdd4",
-      "source": "Android Authority",
+      "title": "Uber adquireix una aplicació de xofers amb seu a Berlín per impulsar els viatges de luxe",
+      "link_id": "c_382268",
+      "source": "Engadget",
       "date": "2026-03-30",
-      "time": "04:21",
-      "summary": "L'actualització permet controlar la reproducció d'àudio en segon pla al cotxe, tot i que visualitzar vídeos encara està totalment bloquejat."
+      "time": "16:38",
+      "summary": "La compra de Blacklane permetrà a la plataforma expandir la seva oferta de serveis prèmium a escala internacional."
     },
     {
-      "title": "Per què la missió lunar d'aquesta setmana és tan especial per a Jeremy Hansen",
-      "link_id": "c_5f59fe",
+      "title": "Apple ha descatalogat més productes a part del Mac Pro aquest mes",
+      "link_id": "c_3b387a",
+      "source": "MacRumors",
+      "date": "2026-03-30",
+      "time": "09:35",
+      "summary": "La fi de l'icònic ordinador de sobretaula marca una transició definitiva cap a equips més integrats i eficients."
+    },
+    {
+      "title": "Copilot Cowork de Microsoft arriba amb eines de recerca d'IA més intel·ligents per detectar mancances",
+      "link_id": "c_b07d65",
       "source": "Digital Trends",
       "date": "2026-03-30",
-      "time": "01:00",
-      "summary": "La històrica missió Artemis II marcarà el primer retorn tripulat a l'òrbita lunar després de més de cinquanta anys d'espera."
+      "time": "16:33",
+      "summary": "La nova funció utilitza múltiples models d'intel·ligència artificial simultàniament per revisar idees i millorar la qualitat del treball."
     },
     {
-      "title": "'Project Hail Mary' es converteix en el major èxit de taquilla d'Amazon MGM",
-      "link_id": "c_ca376d",
-      "source": "TechCrunch",
-      "date": "2026-03-29",
-      "time": "19:50",
-      "summary": "L'adaptació de ciència-ficció ha superat les expectatives de recaptació, consolidant la forta estratègia d'inversió del gegant de l'entreteniment als cinemes."
+      "title": "Microsoft retira una actualització de Windows 11 després de fallades d'instal·lació generalitzades",
+      "link_id": "c_ad407d",
+      "source": "PCWorld",
+      "date": "2026-03-30",
+      "time": "15:27",
+      "summary": "L'empresa ha aturat el desplegament del pedaç a causa d'un error d'arxius desapareguts que afectava nombrosos usuaris."
+    },
+    {
+      "title": "La nova aplicació d'IA de Bluesky pot programar el teu canal social",
+      "link_id": "c_d7307f",
+      "source": "PCWorld",
+      "date": "2026-03-30",
+      "time": "15:10",
+      "summary": "L'eina Attie permet als usuaris crear algoritmes personalitzats mitjançant llenguatge natural, retornant-los el control sobre el contingut."
     }
   ]
 }

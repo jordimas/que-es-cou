@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T10:17",
+  "generated_at": "2024-05-24T18:45",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
@@ -10,39 +10,79 @@
       "source": "Financial Times",
       "date": "2026-03-30",
       "time": "08:06",
-      "summary": "El finançament de l'empresa francesa respon a la creixent demanda d'alternatives europees als gegants tecnològics nord-americans."
+      "summary": "El finançament respon a la creixent demanda d'alternatives europees als gegants tecnològics nord-americans."
     },
     {
-      "title": "Mistral assegura 830 milions de dòlars en deute per finançar centres de dades d'IA",
-      "link_id": "c_c8d1e1",
-      "source": "CNBC Technology",
-      "date": "2026-03-30",
-      "time": "07:35",
-      "summary": "Aquesta injecció de capital consolida la startup com un dels pocs referents europeus en models fundacionals d'intel·ligència artificial."
-    },
-    {
-      "title": "Eli Lilly tanca un acord de 2.750 milions amb Insilico per comercialitzar fàrmacs creats amb IA",
+      "title": "Eli Lilly tanca un acord de 2.750 milions amb Insilico per fàrmacs desenvolupats amb IA",
       "link_id": "c_cde354",
       "source": "CNBC Technology",
       "date": "2026-03-30",
       "time": "05:35",
-      "summary": "La farmacèutica nord-americana avança 115 milions a l'empresa de Hong Kong per impulsar nous medicaments a escala mundial."
+      "summary": "La farmacèutica nord-americana busca comercialitzar globalment nous medicaments descoberts mitjançant intel·ligència artificial per l'empresa asiàtica."
     },
     {
-      "title": "Eli Lilly firma un acord de 2.000 milions per desenvolupar fàrmacs amb IA a Hong Kong",
-      "link_id": "c_5f795c",
+      "title": "Els auditors no poden culpar la IA de les errades, adverteix el regulador",
+      "link_id": "c_a254e6",
       "source": "Financial Times",
       "date": "2026-03-30",
-      "time": "00:45",
-      "summary": "Les grans farmacèutiques globals intensifiquen la recerca de nous tractaments mèdics al mercat xinès mitjançant aliances estratègiques."
+      "time": "17:10",
+      "summary": "El Consell d'Informació Financera exigeix mantenir una supervisió humana estricta per garantir la precisió de les auditories."
     },
     {
-      "title": "Un grup pro-IA invertirà 100 milions en les eleccions de mig mandat dels EUA",
+      "title": "Per què una empresa emergent ensenya cèl·lules cerebrals humanes a jugar a \"Doom\"",
+      "link_id": "c_7a3321",
+      "source": "The Economist",
+      "date": "2026-03-30",
+      "time": "16:26",
+      "summary": "Aquest innovador experiment biològic podria obrir la porta a una nova generació de sistemes informàtics."
+    },
+    {
+      "title": "La guerra de l'Iran posa a prova la tecnologia de defensa, però falten sistemes preparats",
+      "link_id": "c_5eaba2",
+      "source": "CNBC Technology",
+      "date": "2026-03-30",
+      "time": "13:02",
+      "summary": "Empreses com Palantir i SpaceX acaparen els fons del Pentàgon malgrat la manca d'armament operatiu."
+    },
+    {
+      "title": "Rebellions, fabricant de xips d'IA recolzat per Samsung, capta 400 milions abans de sortir a borsa",
+      "link_id": "c_b614c8",
+      "source": "CNBC Technology",
+      "date": "2026-03-30",
+      "time": "13:00",
+      "summary": "L'empresa busca competir directament amb Nvidia en el mercat de la inferència d'intel·ligència artificial."
+    },
+    {
+      "title": "I el guanyador del concurs de gràfics de FTAV és...",
+      "link_id": "c_b346c9",
+      "source": "Financial Times",
+      "date": "2026-03-30",
+      "time": "11:53",
+      "summary": "Un cop d'ull humorístic als resultats del concurs, on la intel·ligència artificial podria haver tingut un paper clau."
+    },
+    {
+      "title": "Les empreses de tecnologia quàntica s'acceleren cap al mercat en un \"punt d'inflexió\" del sector",
+      "link_id": "c_35a68c",
+      "source": "CNBC Technology",
+      "date": "2026-03-30",
+      "time": "11:29",
+      "summary": "Diverses companyies emergents desafien la inestabilitat financera per sortir a borsa i comercialitzar els seus avenços."
+    },
+    {
+      "title": "Les empreses emergents de satèl·lits d'IA guanyen impuls entre els inversors abans de la sortida a borsa de SpaceX",
+      "link_id": "c_56fe2f",
+      "source": "Financial Times",
+      "date": "2026-03-30",
+      "time": "11:00",
+      "summary": "L'aposta per instal·lar centres de dades a l'espai afavoreix el creixement de companyies aeroespacials més petites."
+    },
+    {
+      "title": "Un grup pro-IA invertirà 100 milions en les eleccions de mig mandat dels EUA davant les crítiques",
       "link_id": "c_a43f4c",
       "source": "Financial Times",
       "date": "2026-03-30",
       "time": "00:03",
-      "summary": "Els comicis del 8 de novembre esdevindran un camp de batalla clau per definir la futura regulació tecnològica."
+      "summary": "Els comicis del novembre esdevindran un escenari decisiu per debatre la futura regulació de la intel·ligència artificial."
     }
   ]
 }

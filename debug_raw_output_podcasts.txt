@@ -1,16 +1,24 @@
 {
-  "generated_at": "2024-05-24T15:30",
+  "generated_at": "2024-05-24T15:00",
   "id": "podcasts",
   "title": "Podcasts en català sobre tecnologia",
   "sources_checked": [],
   "articles": [
+    {
+      "title": "Ivoox com exemple de merdificació – Programa 658",
+      "link_id": "c_4efec1",
+      "source": "Mossega la poma",
+      "date": "2026-03-30",
+      "time": "10:32",
+      "summary": "Debat sobre com plataformes com iVoox prioritzen el negoci per sobre de l'usuari i els creadors."
+    },
     {
       "title": "La música que ens ha marcat la vida – programa 657",
       "link_id": "c_9851ed",
       "source": "Mossega la poma",
       "date": "2026-03-19",
       "time": "11:17",
-      "summary": "Reflexió sobre la creació musical, la intel·ligència artificial i el projecte de Softcatalà per al català a internet."
+      "summary": "Reflexió sobre la creació musical, la intel·ligència artificial i l'impacte de la música durant l'adolescència."
     },
     {
       "title": "L' Altra Ràdio - Les persones que fan servir la llengua de signes catalana poden fer ràdio",
@@ -18,7 +26,7 @@
       "source": "L'altra ràdio",
       "date": "2026-03-26",
       "time": "08:33",
-      "summary": "Presentació de Signària, una innovadora eina de veu sintètica per a persones sordes a la ràdio."
+      "summary": "Presentació de Signària, una eina de veu sintètica perquè persones sordes puguin fer ràdio."
     },
     {
       "title": "L' Altra Ràdio - El periodisme i la Guerra del Sudan",
@@ -26,7 +34,7 @@
       "source": "L'altra ràdio",
       "date": "2026-03-19",
       "time": "08:33",
-      "summary": "Anàlisi sobre els periodistes exiliats que creen mitjans digitals per informar del conflicte al Sudan."
+      "summary": "Anàlisi sobre la perillositat d'informar des del Sudan i la creació de mitjans digitals a l'exili."
     },
     {
       "title": "El gòTIC - Tenim una missió! del 25/3/2026",
@@ -34,7 +42,7 @@
       "source": "El Gòtic",
       "date": "2026-03-24",
       "time": "17:29",
-      "summary": "Estratègies i recursos per afrontar els grans reptes i inquietuds de la ciutadania digital actual."
+      "summary": "Estratègies i recursos per afrontar els reptes i inquietuds de la ciutadania digital actual."
     },
     {
       "title": "El futur de la premsa, de l'educació i el problema de l'accès a les dades obertes",
@@ -42,7 +50,7 @@
       "source": "Internet amb Genís Roca",
       "date": "2026-03-29",
       "time": "02:37",
-      "summary": "Debat profund sobre els reptes del periodisme, l'ensenyament i la transparència de la informació pública."
+      "summary": "Debat sobre els reptes del periodisme, l'ensenyament i les dificultats per accedir a dades públiques."
     },
     {
       "title": "El futur de la premsa, de l'educació i el problema de l'accès a les dades obertes",
@@ -50,7 +58,7 @@
       "source": "Internet amb Genís Roca",
       "date": "2026-03-28",
       "time": "19:14",
-      "summary": "Anàlisi dels canvis en els mitjans de comunicació, el sistema educatiu i la gestió de dades."
+      "summary": "Anàlisi profunda sobre l'evolució dels mitjans, el sistema educatiu i la transparència de la informació."
     },
     {
       "title": "La gamificació de la renda",
@@ -58,7 +66,7 @@
       "source": "Foc a Terra",
       "date": "2026-03-30",
       "time": "04:00",
-      "summary": "Repàs sobre subvencions.cat, l'impacte del vibecoding i una visió lúdica sobre la declaració d'impostos."
+      "summary": "Repàs sobre subvencions.cat, el fenomen del vibecoding i com fer més lúdica la declaració d'impostos."
     },
     {
       "title": "De Catalunya a Silicon Valley, i torna cap a Catalunya, amb Anna Navarro i Descals",
@@ -66,7 +74,7 @@
       "source": "Foc a Terra",
       "date": "2026-03-23",
       "time": "05:00",
-      "summary": "Trajectòria d'Anna Navarro a les grans tecnològiques i el seu salt a la política catalana."
+      "summary": "Entrevista a Anna Navarro sobre la seva trajectòria a grans tecnològiques i el seu salt polític."
     },
     {
       "title": "Avui sí que perdem el patrocini de Parlem",
@@ -82,7 +90,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-03-24",
       "time": "00:00",
-      "summary": "Novetats de la fase beta, validació de la instal·lació i l'ús del sistema de temps real."
+      "summary": "Novetats sobre la fase beta de WordPress 7.0 i la validació del sistema de temps real."
     },
     {
       "title": "L’inici de Twenty Twenty-Seven",
@@ -90,7 +98,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-03-17",
       "time": "00:00",
-      "summary": "Avançament del procés de creació del nou tema estable que acompanyarà el llançament de WordPress 7.2."
+      "summary": "Arrenca anticipadament el desenvolupament del nou tema Twenty Twenty-Seven, previst per llançar-se amb WordPress 7.2."
     },
     {
       "title": "Capítol 61: Niddo, la solució a la logística familiar de parelles separades",
@@ -98,7 +106,7 @@
       "source": "RAC&GO",
       "date": "2026-03-24",
       "time": "07:00",
-      "summary": "Una nova aplicació dissenyada per reduir l'estrès i millorar la conciliació en famílies amb pares separats."
+      "summary": "Descobreix Niddo, una aplicació dissenyada per facilitar la conciliació i organització familiar en casos de separació."
     }
   ]
 }
