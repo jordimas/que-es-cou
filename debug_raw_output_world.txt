@@ -1,109 +1,88 @@
 {
-  "generated_at": "2026-03-30T19:52",
+  "generated_at": "2026-03-31T10:03",
   "id": "world",
   "title": "Notícies tecnològiques del món",
-  "sources_checked": [
-    {
-      "name": "Ars Technica",
-      "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
-      "articles_found": 0
-    },
-    {
-      "name": "AnandTech",
-      "url": "https://www.anandtech.com/rss/",
-      "articles_found": 0
-    },
-    {
-      "name": "Wall Street Journal Tech",
-      "url": "https://feeds.a.dj.com/rss/RSSWSJD.xml",
-      "articles_found": 0
-    },
-    {
-      "name": "Slashdot",
-      "url": "https://slashdot.org/rss/slashdot.rss",
-      "articles_found": 0
-    }
-  ],
+  "sources_checked": [],
   "articles": [
     {
-      "title": "La primera beta d'iPadOS 26.5 ja està disponible, juntament amb tvOS 26.5, watchOS 26.5 i més",
-      "link_id": "c_f73a52",
+      "title": "iOS 26.5 beta 1: Aquestes són totes les novetats",
+      "link_id": "c_6c376a",
       "source": "9to5Mac",
-      "date": "2026-03-30",
-      "time": "17:44",
-      "summary": "Apple ha llançat noves versions de prova per a desenvolupadors, preparant el terreny per a futures actualitzacions de programari."
+      "date": "2026-03-31",
+      "time": "00:38",
+      "summary": "La nova versió per a desenvolupadors inclou millores a Apple Maps i xifratge RCS, però encara sense la nova Siri."
     },
     {
-      "title": "El Regne Unit multa una filial d'Apple per pagar a un servei de streaming rus sancionat",
-      "link_id": "c_ffe523",
+      "title": "Meta permetrà veure històries en secret si pagues per Instagram Plus en una prova limitada",
+      "link_id": "c_672bef",
+      "source": "Android Authority",
+      "date": "2026-03-31",
+      "time": "01:33",
+      "summary": "La plataforma assaja una subscripció de pagament que ofereix funcions exclusives, com ara visualitzacions anònimes i històries de major durada."
+    },
+    {
+      "title": "Una filial d'Apple, multada al Regne Unit per incomplir les sancions a Rússia",
+      "link_id": "c_47691c",
+      "source": "9to5Mac",
+      "date": "2026-03-31",
+      "time": "01:19",
+      "summary": "L'empresa haurà de pagar gairebé 400.000 lliures per haver transferit fons a un desenvolupador rus vinculat a una entitat sancionada."
+    },
+    {
+      "title": "Meta, TikTok i Google, investigades per presumptament desobeir la prohibició de xarxes socials a Austràlia",
+      "link_id": "c_01b6c1",
+      "source": "The Guardian Tech",
+      "date": "2026-03-31",
+      "time": "07:10",
+      "summary": "El regulador australià adverteix que milions de menors de setze anys continuen accedint a les plataformes malgrat la nova llei."
+    },
+    {
+      "title": "Després del Galaxy S26, Samsung porta el suport d'AirDrop de l'iPhone als telèfons econòmics Galaxy A",
+      "link_id": "c_479cbe",
+      "source": "Digital Trends",
+      "date": "2026-03-31",
+      "time": "00:11",
+      "summary": "Una actualització de Quick Share permetrà als usuaris de la gamma mitjana compartir fitxers fàcilment amb dispositius de l'ecosistema d'Apple."
+    },
+    {
+      "title": "El Pixel 11 de Google podria resultar familiar: Això és el que ha canviat",
+      "link_id": "c_7789a0",
+      "source": "CNET",
+      "date": "2026-03-30",
+      "time": "23:31",
+      "summary": "Les primeres filtracions mostren un mòbil amb marcs més prims i un mòdul de càmera negre, mantenint l'estètica actual."
+    },
+    {
+      "title": "Newsom signa una ordre executiva que exigeix a les empreses d'IA mesures de seguretat i privacitat",
+      "link_id": "c_f01506",
+      "source": "CNET",
+      "date": "2026-03-31",
+      "time": "02:22",
+      "summary": "Desafiant les directrius de Trump, Califòrnia imposarà noves normes estrictes per a les tecnològiques que vulguin contractar amb l'estat."
+    },
+    {
+      "title": "Google Maps ja pot planificar viatges en vehicles elèctrics amb parades de càrrega mitjançant Android Auto",
+      "link_id": "c_36dd39",
+      "source": "CNET",
+      "date": "2026-03-30",
+      "time": "22:59",
+      "summary": "Aquesta funció prediu l'ús de la bateria i recomana estacions de recàrrega intel·ligents directament des de la pantalla del cotxe."
+    },
+    {
+      "title": "Uber adquireix Blacklane, la plataforma de xofers de Berlín amb el suport de Sixt i Mercedes-Benz",
+      "link_id": "c_64286c",
       "source": "The Next Web",
       "date": "2026-03-30",
-      "time": "16:11",
-      "summary": "L'empresa haurà d'abonar 390.000 lliures per haver incomplert les restriccions financeres imposades a Moscou el 2022."
+      "time": "18:08",
+      "summary": "Amb aquesta compra estratègica, l'empresa de mobilitat busca consolidar la seva presència en el lucratiu sector dels viatges corporatius premium."
     },
     {
-      "title": "YouTube arriba a Android Auto, però no podràs veure-hi vídeos",
+      "title": "YouTube arriba a Android Auto, però no el podràs veure",
       "link_id": "c_e2d1ab",
       "source": "ZDNet",
       "date": "2026-03-30",
       "time": "17:41",
-      "summary": "La integració permetrà controlar la reproducció d'àudio en segon pla, limitant l'experiència visual per motius de seguretat al volant."
-    },
-    {
-      "title": "50 anys d'Apple impulsant la tecnologia, per a bé o per a mal",
-      "link_id": "c_d3c33e",
-      "source": "Engadget",
-      "date": "2026-03-30",
-      "time": "17:00",
-      "summary": "La companyia celebra mig segle d'història marcat per la innovació en ordinadors personals, telèfons intel·ligents i dispositius portables."
-    },
-    {
-      "title": "L'última filtració del Pixel 11 mostra marcs més prims i una barra de càmera totalment negra",
-      "link_id": "c_ffe7d3",
-      "source": "The Verge",
-      "date": "2026-03-30",
-      "time": "11:52",
-      "summary": "Les noves imatges revelen un disseny continuista però refinat per al proper telèfon insígnia de Google."
-    },
-    {
-      "title": "Uber adquireix una aplicació de xofers amb seu a Berlín per impulsar els viatges de luxe",
-      "link_id": "c_382268",
-      "source": "Engadget",
-      "date": "2026-03-30",
-      "time": "16:38",
-      "summary": "La compra de Blacklane permetrà a la plataforma expandir la seva oferta de serveis prèmium a escala internacional."
-    },
-    {
-      "title": "Apple ha descatalogat més productes a part del Mac Pro aquest mes",
-      "link_id": "c_3b387a",
-      "source": "MacRumors",
-      "date": "2026-03-30",
-      "time": "09:35",
-      "summary": "La fi de l'icònic ordinador de sobretaula marca una transició definitiva cap a equips més integrats i eficients."
-    },
-    {
-      "title": "Copilot Cowork de Microsoft arriba amb eines de recerca d'IA més intel·ligents per detectar mancances",
-      "link_id": "c_b07d65",
-      "source": "Digital Trends",
-      "date": "2026-03-30",
-      "time": "16:33",
-      "summary": "La nova funció utilitza múltiples models d'intel·ligència artificial simultàniament per revisar idees i millorar la qualitat del treball."
-    },
-    {
-      "title": "Microsoft retira una actualització de Windows 11 després de fallades d'instal·lació generalitzades",
-      "link_id": "c_ad407d",
-      "source": "PCWorld",
-      "date": "2026-03-30",
-      "time": "15:27",
-      "summary": "L'empresa ha aturat el desplegament del pedaç a causa d'un error d'arxius desapareguts que afectava nombrosos usuaris."
-    },
-    {
-      "title": "La nova aplicació d'IA de Bluesky pot programar el teu canal social",
-      "link_id": "c_d7307f",
-      "source": "PCWorld",
-      "date": "2026-03-30",
-      "time": "15:10",
-      "summary": "L'eina Attie permet als usuaris crear algoritmes personalitzats mitjançant llenguatge natural, retornant-los el control sobre el contingut."
+      "summary": "L'aplicació s'integra al cotxe exclusivament per controlar la reproducció d'àudio en segon pla, evitant distraccions visuals durant la conducció."
     }
   ]
 }

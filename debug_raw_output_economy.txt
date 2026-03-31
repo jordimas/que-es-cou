@@ -1,88 +1,88 @@
 {
-  "generated_at": "2024-05-24T18:45",
+  "generated_at": "2024-05-24T14:30",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Mistral capta 830 milions de dòlars per construir centres d'IA a Europa",
-      "link_id": "c_2dbbc6",
-      "source": "Financial Times",
-      "date": "2026-03-30",
-      "time": "08:06",
-      "summary": "El finançament respon a la creixent demanda d'alternatives europees als gegants tecnològics nord-americans."
+      "title": "Nebius revela plans per construir una de les fàbriques d'IA més grans d'Europa",
+      "link_id": "c_8c9650",
+      "source": "CNBC Technology",
+      "date": "2026-03-31",
+      "time": "07:47",
+      "summary": "La regió accelera la creació d'infraestructura tecnològica per satisfer la creixent demanda de potència de càlcul."
     },
     {
-      "title": "Eli Lilly tanca un acord de 2.750 milions amb Insilico per fàrmacs desenvolupats amb IA",
-      "link_id": "c_cde354",
+      "title": "L'empresa de xips d'IA Rebellions, amb el suport de Samsung, capta 400 milions de dòlars abans de sortir a borsa",
+      "link_id": "c_b614c8",
+      "source": "CNBC Technology",
+      "date": "2026-03-31",
+      "time": "07:38",
+      "summary": "Aquesta injecció de capital reforça la seva posició per competir directament amb Nvidia en el mercat d'inferència."
+    },
+    {
+      "title": "La start-up britànica de xips Fractile busca captar 200 milions de dòlars per desafiar Nvidia",
+      "link_id": "c_fcafb8",
+      "source": "Financial Times",
+      "date": "2026-03-31",
+      "time": "04:00",
+      "summary": "L'empresa s'uneix a una onada emergent de companyies del Regne Unit centrades a accelerar el processament d'intel·ligència artificial."
+    },
+    {
+      "title": "Els furoners de l'Iran van a la guerra",
+      "link_id": "c_4919e4",
+      "source": "Financial Times",
+      "date": "2026-03-31",
+      "time": "04:00",
+      "summary": "Els atacs cibernètics de Teheran busquen recopilar informació estratègica i desestabilitzar infraestructures clau als Estats Units i Israel."
+    },
+    {
+      "title": "El gegant indi Airtel capta 1.000 milions de dòlars per a centres de dades",
+      "link_id": "c_fca991",
+      "source": "CNBC Technology",
+      "date": "2026-03-31",
+      "time": "03:51",
+      "summary": "L'interès del capital privat evidencia l'atractiu creixent del sector d'infraestructures digitals a l'Índia a escala global."
+    },
+    {
+      "title": "Les accions de Micron s'enfonsen un 10%, aprofundint la caiguda després dels resultats",
+      "link_id": "c_b6ffb2",
       "source": "CNBC Technology",
       "date": "2026-03-30",
-      "time": "05:35",
-      "summary": "La farmacèutica nord-americana busca comercialitzar globalment nous medicaments descoberts mitjançant intel·ligència artificial per l'empresa asiàtica."
+      "time": "21:06",
+      "summary": "El fabricant de memòries pateix una forta correcció al mercat malgrat haver presentat uns beneficis inicialment excel·lents."
     },
     {
-      "title": "Els auditors no poden culpar la IA de les errades, adverteix el regulador",
+      "title": "Les accions de Palo Alto es disparen després que el seu conseller delegat compri títols",
+      "link_id": "c_bfe967",
+      "source": "CNBC Technology",
+      "date": "2026-03-30",
+      "time": "20:02",
+      "summary": "Aquest moviment inusual de Nikesh Arora aporta confiança a un sector de ciberseguretat castigat per l'amenaça de l'IA."
+    },
+    {
+      "title": "Eli Lilly firma un acord de 2.000 milions per desenvolupar fàrmacs amb IA",
+      "link_id": "c_5f795c",
+      "source": "Financial Times",
+      "date": "2026-03-30",
+      "time": "18:31",
+      "summary": "La farmacèutica s'alia amb una empresa biotecnològica de Hong Kong per accelerar el descobriment de nous tractaments mèdics."
+    },
+    {
+      "title": "No es pot culpar la IA dels errors, adverteix el regulador als auditors",
       "link_id": "c_a254e6",
       "source": "Financial Times",
       "date": "2026-03-30",
       "time": "17:10",
-      "summary": "El Consell d'Informació Financera exigeix mantenir una supervisió humana estricta per garantir la precisió de les auditories."
+      "summary": "Les autoritats financeres exigeixen mantenir una supervisió humana estricta per garantir la precisió en les auditories corporatives."
     },
     {
-      "title": "Per què una empresa emergent ensenya cèl·lules cerebrals humanes a jugar a \"Doom\"",
+      "title": "Per què una start-up ensenya cèl·lules cerebrals humanes a jugar a \"Doom\"",
       "link_id": "c_7a3321",
       "source": "The Economist",
       "date": "2026-03-30",
       "time": "16:26",
-      "summary": "Aquest innovador experiment biològic podria obrir la porta a una nova generació de sistemes informàtics."
-    },
-    {
-      "title": "La guerra de l'Iran posa a prova la tecnologia de defensa, però falten sistemes preparats",
-      "link_id": "c_5eaba2",
-      "source": "CNBC Technology",
-      "date": "2026-03-30",
-      "time": "13:02",
-      "summary": "Empreses com Palantir i SpaceX acaparen els fons del Pentàgon malgrat la manca d'armament operatiu."
-    },
-    {
-      "title": "Rebellions, fabricant de xips d'IA recolzat per Samsung, capta 400 milions abans de sortir a borsa",
-      "link_id": "c_b614c8",
-      "source": "CNBC Technology",
-      "date": "2026-03-30",
-      "time": "13:00",
-      "summary": "L'empresa busca competir directament amb Nvidia en el mercat de la inferència d'intel·ligència artificial."
-    },
-    {
-      "title": "I el guanyador del concurs de gràfics de FTAV és...",
-      "link_id": "c_b346c9",
-      "source": "Financial Times",
-      "date": "2026-03-30",
-      "time": "11:53",
-      "summary": "Un cop d'ull humorístic als resultats del concurs, on la intel·ligència artificial podria haver tingut un paper clau."
-    },
-    {
-      "title": "Les empreses de tecnologia quàntica s'acceleren cap al mercat en un \"punt d'inflexió\" del sector",
-      "link_id": "c_35a68c",
-      "source": "CNBC Technology",
-      "date": "2026-03-30",
-      "time": "11:29",
-      "summary": "Diverses companyies emergents desafien la inestabilitat financera per sortir a borsa i comercialitzar els seus avenços."
-    },
-    {
-      "title": "Les empreses emergents de satèl·lits d'IA guanyen impuls entre els inversors abans de la sortida a borsa de SpaceX",
-      "link_id": "c_56fe2f",
-      "source": "Financial Times",
-      "date": "2026-03-30",
-      "time": "11:00",
-      "summary": "L'aposta per instal·lar centres de dades a l'espai afavoreix el creixement de companyies aeroespacials més petites."
-    },
-    {
-      "title": "Un grup pro-IA invertirà 100 milions en les eleccions de mig mandat dels EUA davant les crítiques",
-      "link_id": "c_a43f4c",
-      "source": "Financial Times",
-      "date": "2026-03-30",
-      "time": "00:03",
-      "summary": "Els comicis del novembre esdevindran un escenari decisiu per debatre la futura regulació de la intel·ligència artificial."
+      "summary": "Aquest experiment pioner podria obrir la porta a sistemes informàtics biològics molt més eficients que els actuals."
     }
   ]
 }

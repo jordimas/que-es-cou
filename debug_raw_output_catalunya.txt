@@ -1,16 +1,24 @@
 {
-  "generated_at": "2026-03-30T17:52",
+  "generated_at": "2026-03-31T08:05",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Menys burocràcia en l'educació: el govern fa un pla per reduir-la amb una app com La Meva Salut",
-      "link_id": "c_95e3e9",
-      "source": "324.cat",
-      "date": "2026-03-29",
-      "time": "07:16",
-      "summary": "L'eina centralitzarà els tràmits de docents i direccions per agilitzar la gestió diària als centres educatius catalans."
+      "title": "El DNI digital fa un pas més aquesta Setmana Santa: tots els nous tràmits que no requeriran el carnet físic",
+      "link_id": "c_40dea5",
+      "source": "RAC1",
+      "date": "2026-03-30",
+      "time": "10:51",
+      "summary": "A partir de dijous, el document d'identitat al mòbil tindrà plena validesa legal per fer gestions sense l'acreditació física."
+    },
+    {
+      "title": "Qui hi ha rere cada SMS? Creen una nova eina per evitar les estafes de missatgeria",
+      "link_id": "c_25ef19",
+      "source": "Ara.cat",
+      "date": "2026-03-30",
+      "time": "11:26",
+      "summary": "La CNMC aprova un registre d'àlies per verificar els remitents dels missatges i retornar la confiança als usuaris."
     },
     {
       "title": "Una aplicació similar a ‘La Meva Salut’ farà de finestreta única de la comunitat educativa",
@@ -18,15 +26,7 @@
       "source": "El Mon.cat Societat",
       "date": "2026-03-29",
       "time": "10:03",
-      "summary": "El projecte substituirà desenes de programes obsolets per unificar la comunicació i l'administració escolar en una sola plataforma."
-    },
-    {
-      "title": "El DNI digital fa un pas més aquesta Setmana Santa: tots els nous tràmits que no requeriran el carnet físic",
-      "link_id": "c_40dea5",
-      "source": "RAC1",
-      "date": "2026-03-30",
-      "time": "10:51",
-      "summary": "Portar el document d'identitat al telèfon mòbil ja té plena validesa legal per a diverses gestions administratives quotidianes."
+      "summary": "Educació invertirà 18 milions d'euros per simplificar tràmits administratius unificant els seus 150 aplicatius en una sola plataforma."
     },
     {
       "title": "L’aparell de diagnòstic de càncer de pulmó més avançat és a Barcelona",
@@ -34,31 +34,39 @@
       "source": "La Vanguardia (en català)",
       "date": "2026-03-30",
       "time": "05:27",
-      "summary": "L'Hospital del Mar estrena un ecobroncoscopi pioner a l'Estat que permet detectar tumors respiratoris amb molta més precisió."
+      "summary": "L'Hospital del Mar es converteix en el primer centre de l'Estat a incorporar un ecobroncoscopi d'última generació."
     },
     {
-      "title": "L’Hospital d’Inca incorpora material de darrera generació per als nadons prematurs",
-      "link_id": "c_93fff9",
-      "source": "IB3 Notícies",
+      "title": "Rosa Maria Badia rep el Premi d’Honor en una Nit de les Telecomunicacions que reconeix el talent TIC català",
+      "link_id": "c_861c10",
+      "source": "MetaData",
+      "date": "2026-03-27",
+      "time": "09:15",
+      "summary": "La investigadora en supercomputació ha estat guardonada en una gala que també ha premiat el talent emergent i social."
+    },
+    {
+      "title": "Albert Cuesta, millor divulgador a la Nit de les Telecomunicacions",
+      "link_id": "c_a70ba5",
+      "source": "Accent Obert",
+      "date": "2026-03-27",
+      "time": "12:33",
+      "summary": "El periodista ha estat reconegut per la seva tasca d'explicar l'actualitat tecnològica amb rigor i sempre en llengua catalana."
+    },
+    {
+      "title": "Els Mossos posen més de 120 multes en tres mesos per no portar o fer servir malament les balises V16",
+      "link_id": "c_de5657",
+      "source": "RAC1",
       "date": "2026-03-30",
-      "time": "12:51",
-      "summary": "Les noves incubadores híbrides milloren el benestar dels nounats i faciliten la tasca dels professionals sanitaris a la unitat."
+      "time": "20:15",
+      "summary": "La majoria de les sancions imposades són per no portar el dispositiu lluminós, però moltes altres per utilitzar-lo incorrectament."
     },
     {
-      "title": "Els renovats cinemes Phenomena obriran les portes dijous després de sis mesos d'obres",
-      "link_id": "c_757da4",
-      "source": "324.cat",
-      "date": "2026-03-29",
-      "time": "19:36",
-      "summary": "La mítica sala barcelonina aposta per una experiència sensorial immersiva amb projectors i sistemes de so d'última generació."
-    },
-    {
-      "title": "Així és el nou i espectacular Phenomena Experience, el temple del cinema a Barcelona",
-      "link_id": "c_9ce204",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-03-29",
-      "time": "07:49",
-      "summary": "Les instal·lacions s'han modernitzat completament per oferir projeccions exclusives, consolidant-se com un referent europeu per als cinèfils."
+      "title": "Una app per a gent gran impulsa l’envelliment actiu al Pirineu",
+      "link_id": "c_092040",
+      "source": "Lleida Diari",
+      "date": "2026-03-30",
+      "time": "12:09",
+      "summary": "El projecte 'Oliana t'acompanya' busca combatre la solitud no volguda mitjançant la innovació tecnològica i la cohesió social."
     },
     {
       "title": "Avís per als desplaçaments de Setmana Santa: l'ús de carregadors ultraràpids danya el cotxe elèctric",
@@ -66,15 +74,7 @@
       "source": "El Nacional.cat",
       "date": "2026-03-30",
       "time": "14:00",
-      "summary": "Abusar de les càrregues d'alta potència durant els viatges llargs pot accelerar significativament la degradació de les bateries."
-    },
-    {
-      "title": "Els models d’IA són aduladors i distorsionen judicis i conductes socials",
-      "link_id": "c_53f9d1",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-03-28",
-      "time": "07:53",
-      "summary": "Un estudi alerta que la tendència dels algorismes a donar la raó a l'usuari pot frenar el creixement moral."
+      "summary": "Incrementar l'exigència sobre la bateria amb càrregues molt ràpides pot accelerar-ne la degradació a llarg termini."
     },
     {
       "title": "Venga: criptoactius a l'abast de tothom i en català",
@@ -82,7 +82,7 @@
       "source": "Ara.cat",
       "date": "2026-03-29",
       "time": "21:59",
-      "summary": "Aquesta nova aplicació financera barcelonina busca democratitzar les inversions digitals oferint una interfície senzilla i en llengua catalana."
+      "summary": "La fintech barcelonina, fundada el 2023, busca simplificar les inversions digitals per a usuaris sense coneixements previs."
     }
   ]
 }
