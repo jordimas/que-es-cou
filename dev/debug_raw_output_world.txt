@@ -1,1 +1,88 @@
-{"generated_at":"2026-03-30T12:45","id":"world","title":"Notícies tecnològiques del món","sources_checked":[],"articles":[{"title":"Starcloud aixeca 170 M$ per instal·lar data centres a l’espai","link_id":"c_2a4d01","source":"TechCrunch","date":"2026-03-30","time":"11:00","summary":"La startup de Y Combinator es converteix en l’empresa més ràpida en assolir estatus de unicorni, tot just 17 mesos després de la demo day."},{"title":"Per què OpenAI va tancar Sora, segons la CEO","link_id":"c_620bd6","source":"TechCrunch","date":"2026-03-30","time":"03:09","summary":"Després de sis mesos d’existència, l’eina de vídeo per IA desapareix. Dins de l’empresa asseguren que no va ser un fracàs tècnic, sinó una revisió estratègica."},{"title":"Google retira el ressalt de la càmera al Pixel 10a i els usuaris ho celebren","link_id":"c_049923","source":"TechCrunch","date":"2026-03-29","time":"21:30","summary":"El telèfon ja pot quedar pla sobre la taula sense ballar. És el canvi estètic més aplaudit del nou model econòmic de Google."},{"title":"YouTube CEO: els millors creadors «maig no sortiran mai de casa»","link_id":"c_0dc3a5","source":"TechCrunch","date":"2026-03-29","time":"21:17","summary":"Neal Mohan assegura que la plataforma no tem la fugida davant Netflix; apostarà per formats més casolans i interactius per retenir talents."},{"title":"Bluesky presenta Attie, un assistent d’IA per filtrar contingut","link_id":"c_609f89","source":"The Verge","date":"2026-03-29","time":"17:44","summary":"Fonamentat en Claude, el nou app genera canals a mida amb ordres en llenguatge natural, allunyant-se de l’algoritme únic de X o Instagram."},{"title":"Estudi de Stanford alerta dels perills de demanar consells a IA per àmbits personals","link_id":"c_26d006","source":"TechCrunch","date":"2026-03-28","time":"20:45","summary":"El model d’OpenAI tendeix a reforçar idees prèvies en lloc de matisar; això pot empitjorar la salut mental dels usuaris vulnerables."},{"title":"D’ISEF a escola: els EUA retornen als llibres davant l’excés de pantalles","link_id":"c_0cfec4","source":"NYT","date":"2026-03-29","time":"16:04","summary":"Professors eliminen Chromebooks, YouTube i jocs. Molts alumnes de 7è diuen preferir aprendre sense pantalles, tornant a paper i llapis."},{"title":"El judici contra Meta i YouTube pot canviar les regles del joc a xarxes socials","link_id":"c_f348de","source":"NYT","date":"2026-03-29","time":"15:50","summary":"Un jurat declara culpables ambdues companyies per dissenyar productes addictius. La sentència obre la porta a futures demandes massives i regulacions més dures."},{"title":"Zukerberg ofereix ajuda a Musk per gestionar DOGE","link_id":"c_d167a4","source":"TechCrunch","date":"2026-03-28","time":"21:23","summary":"Els antics rivals han arribat a una treva estratègica. Compartirien infraestructura per optimitzar l’alta despesa del departament governamental d’eficiència energètica."},{"title":"Dues de cada cinc metges australians utilitzen transcriptors d’IA per notar visites","link_id":"c_88ed88","source":"The Guardian","date":"2026-03-28","time":"19:00","summary":"Els pacients abans de parlar han de donar consentiment. Els metges aprofiten per connectar més cara a cara, però la professió alerta de possibles errors clínics."}]}
+{
+  "generated_at": "2026-03-31T13:39",
+  "id": "world",
+  "title": "Notícies tecnològiques del món",
+  "sources_checked": [],
+  "articles": [
+    {
+      "title": "La primera beta d'iOS 26.5 prepara el terreny per als anuncis a Apple Maps",
+      "link_id": "c_ab3131",
+      "source": "Digital Trends",
+      "date": "2026-03-31",
+      "time": "11:33",
+      "summary": "La nova beta d'iOS prepara el terreny per a la publicitat a Apple Maps i introdueix \"Llocs suggerits\"."
+    },
+    {
+      "title": "Continuem seguint les millors ofertes de la venda de primavera d'Amazon, fins i tot l'últim dia",
+      "link_id": "c_370a43",
+      "source": "CNET",
+      "date": "2026-03-31",
+      "time": "11:31",
+      "summary": "Els experts en compres destaquen les millors ofertes d'última hora en tecnologia, auriculars i parament de la llar."
+    },
+    {
+      "title": "L'endemà: Meta prova el servei de subscripció Instagram Plus",
+      "link_id": "c_462e51",
+      "source": "Engadget",
+      "date": "2026-03-31",
+      "time": "11:14",
+      "summary": "Aquesta subscripció de pagament permetrà veure històries en secret i allargar-ne la durada més enllà de les 24 hores."
+    },
+    {
+      "title": "La primera filtració del Pixel 11 té molt bona pinta, però no ens diu el més important",
+      "link_id": "c_6ed67f",
+      "source": "Android Authority",
+      "date": "2026-03-31",
+      "time": "09:00",
+      "summary": "Les primeres imatges filtrades mostren un mòbil amb vores més fines i una barra de càmera totalment negra."
+    },
+    {
+      "title": "Android Auto rep una gran millora en la planificació de rutes per a vehicles elèctrics",
+      "link_id": "c_72b94c",
+      "source": "TechRadar",
+      "date": "2026-03-31",
+      "time": "10:27",
+      "summary": "El sistema ara ofereix suggeriments de càrrega intel·ligents basats en la marca i el model del teu vehicle elèctric."
+    },
+    {
+      "title": "Meta, TikTok i Google, investigades per suposadament desobeir la prohibició de xarxes socials a Austràlia",
+      "link_id": "c_01b6c1",
+      "source": "The Guardian Tech",
+      "date": "2026-03-31",
+      "time": "07:10",
+      "summary": "El govern australià acusa les grans tecnològiques de no aplicar correctament la prohibició d'accés als menors de setze anys."
+    },
+    {
+      "title": "Després del Galaxy S26, Samsung porta la compatibilitat amb l'AirDrop de l'iPhone als telèfons econòmics Galaxy A",
+      "link_id": "c_479cbe",
+      "source": "Digital Trends",
+      "date": "2026-03-31",
+      "time": "00:11",
+      "summary": "La funció per compartir fitxers amb dispositius Apple s'estendrà als telèfons de gamma mitjana mitjançant una actualització."
+    },
+    {
+      "title": "Artemis 2 en xifres: desglossant el gran retorn de la NASA a la Lluna",
+      "link_id": "c_f43725",
+      "source": "Gizmodo",
+      "date": "2026-03-31",
+      "time": "10:00",
+      "summary": "La NASA inicia el compte enrere per al primer vol tripulat al voltant de la Lluna en cinquanta anys."
+    },
+    {
+      "title": "Microsoft afegeix IA multimodels a Copilot Researcher, augmentant les apostes de precisió",
+      "link_id": "c_b68f10",
+      "source": "Computerworld",
+      "date": "2026-03-31",
+      "time": "09:34",
+      "summary": "La nova eina utilitza diversos models d'intel·ligència artificial simultàniament per avaluar i millorar la precisió de les respostes."
+    },
+    {
+      "title": "L'aplicació d'auriculars de Samsung tracta el mareig amb un so profund i relaxant",
+      "link_id": "c_f546bc",
+      "source": "CNET",
+      "date": "2026-03-31",
+      "time": "04:57",
+      "summary": "L'aplicació gratuïta Hearapy utilitza freqüències d'àudio específiques per reduir els marejos durant els viatges sense necessitat de medicaments."
+    }
+  ]
+}

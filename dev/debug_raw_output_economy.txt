@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-03-30T12:45",
+  "generated_at": "2024-05-24T16:30",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Mistral aixeca 830 milions per construir centres d’IA a Europa amb tecnologia Nvidia",
-      "link_id": "c_2dbbc6",
+      "title": "Microsoft s'enfronta a una investigació del regulador britànic pel seu programari empresarial",
+      "link_id": "c_9d3bef",
       "source": "Financial Times",
-      "date": "2026-03-30",
-      "time": "08:06",
-      "summary": "La startup francesa opta per finançament deute per desplegar infraestructura d’IA al continent."
-    },
-    {
-      "title": "Mistral obté 830 milions en finançament per al seu centre de dades d’IA",
-      "link_id": "c_c8d1e1",
-      "source": "CNBC Technology",
-      "date": "2026-03-30",
-      "time": "07:35",
-      "summary": "La jove europea reforça la competència amb grans nord-americans gràcies a aquesta injecció."
-    },
-    {
-      "title": "Eli Lilly tanca tractament de 2.000 milions amb biotecnològica de Hong Kong per fàrmacs d’IA",
-      "link_id": "c_5f795c",
-      "source": "Financial Times",
-      "date": "2026-03-30",
-      "time": "00:45",
-      "summary": "L’acord permetrà al gegant farmacèutic accelerar la investigació mitjançant tècniques d’intel·ligència artificial."
-    },
-    {
-      "title": "Eli Lilly paga 2.750 milions per portar fàrmacs dissenyats per IA al mercat global",
-      "link_id": "c_cde354",
-      "source": "CNBC Technology",
-      "date": "2026-03-30",
-      "time": "05:35",
-      "summary": "Insilico rebrà 115 milions inicials per comercialitzar teràpies descobertes per algoritmes."
-    },
-    {
-      "title": "Start-ups de satèl·lits d’IA atreuen inversors abans de l’OPO de SpaceX",
-      "link_id": "c_56fe2f",
-      "source": "Financial Times",
-      "date": "2026-03-30",
+      "date": "2026-03-31",
       "time": "11:00",
-      "summary": "Les promeses de Musk i Bezos d’instal·lar centres de dades a l’espai disparen l’interès."
+      "summary": "La CMA avaluarà si el gegant tecnològic nord-americà hauria de rebre l'estatus de mercat estratègic per evitar pràctiques monopolístiques."
     },
     {
-      "title": "Empreses quàntiques acceleren sortides a borsa en assolir punt d’inflexió",
-      "link_id": "c_35a68c",
-      "source": "CNBC Technology",
-      "date": "2026-03-30",
-      "time": "11:29",
-      "summary": "La tecnologia deixa de ser només investigació i busca ingressos comercials sòlids."
-    },
-    {
-      "title": "Pro-IA pressuposta 100 milions en eleccions de mig mandat als EUA",
-      "link_id": "c_a43f4c",
+      "title": "Per què l'escassetat d'heli és important per als fabricants de xips",
+      "link_id": "c_c38af9",
       "source": "Financial Times",
-      "date": "2026-03-30",
-      "time": "00:03",
-      "summary": "El sector vol influir en la futura regulació mentre creix el rebuig social."
+      "date": "2026-03-31",
+      "time": "11:00",
+      "summary": "La guerra al Pròxim Orient evidencia un nou coll d'ampolla crític que amenaça la cadena de subministrament global de semiconductors."
     },
     {
-      "title": "Meta eleva sis vegades l’inversió en centre de dades de Texas fins als 10.000 milions",
-      "link_id": "c_62af18",
-      "source": "CNBC Technology",
-      "date": "2026-03-26",
-      "time": "22:18",
-      "summary": "Els gegants tecnològics multipliquen despesa en infraestructures per donar servei a IA."
-    },
-    {
-      "title": "Test per al Pentàgon: Anthropic defensa autonomia davant control estatal",
-      "link_id": "c_a27dd1",
+      "title": "Els EUA pressionen el Regne Unit i els aliats per assegurar les cadenes de subministrament quàntiques",
+      "link_id": "c_dd3130",
       "source": "Financial Times",
-      "date": "2026-03-29",
+      "date": "2026-03-31",
+      "time": "10:00",
+      "summary": "Washington busca la cooperació britànica per protegir aquesta tecnologia clau enmig de tensions per un pacte tecnològic més ampli."
+    },
+    {
+      "title": "Els beneficis de Raspberry Pi es disparen gràcies a l'auge de la intel·ligència artificial",
+      "link_id": "c_0cf9e9",
+      "source": "Financial Times",
+      "date": "2026-03-31",
+      "time": "08:25",
+      "summary": "L'empresa britànica experimenta un fort creixement de vendes, impulsat especialment per la gran demanda a la Xina i els EUA."
+    },
+    {
+      "title": "Nebius desvela plans per construir una de les fàbriques d'IA més grans d'Europa",
+      "link_id": "c_8c9650",
+      "source": "CNBC Technology",
+      "date": "2026-03-31",
+      "time": "08:15",
+      "summary": "El continent accelera la creació d'infraestructures clau per satisfer la creixent necessitat de potència computacional davant l'auge tecnològic."
+    },
+    {
+      "title": "L'empresa de xips d'IA Rebellions, amb el suport de Samsung, capta 400 milions de dòlars",
+      "link_id": "c_b614c8",
+      "source": "CNBC Technology",
+      "date": "2026-03-31",
+      "time": "07:38",
+      "summary": "La companyia es prepara per sortir a borsa i desafiar el domini d'Nvidia en el mercat d'inferència d'intel·ligència artificial."
+    },
+    {
+      "title": "La start-up britànica de xips Fractile busca captar 200 milions de dòlars per desafiar Nvidia",
+      "link_id": "c_fcafb8",
+      "source": "Financial Times",
+      "date": "2026-03-31",
       "time": "04:00",
-      "summary": "El litigi obre debat sobre qui ha de marcar límits als sistemes d’IA crítics."
+      "summary": "Aquesta empresa emergent s'uneix a un grup creixent de companyies del Regne Unit que desenvolupen processadors d'IA més ràpids."
     },
     {
-      "title": "Anuncis d’OpenAI ja facturen 100 milions anuals dos mesos després del llançament",
-      "link_id": "c_1581d3",
+      "title": "Els pirates informàtics de l'Iran van a la guerra",
+      "link_id": "c_4919e4",
+      "source": "Financial Times",
+      "date": "2026-03-31",
+      "time": "04:00",
+      "summary": "Els operatius cibernètics de Teheran intensifiquen els atacs contra Israel i els EUA per extreure intel·ligència i sembrar la por."
+    },
+    {
+      "title": "Un important promotor energètic adverteix sobre la sobreconstrucció de subministraments elèctrics per a la IA",
+      "link_id": "c_0a9eda",
+      "source": "Financial Times",
+      "date": "2026-03-31",
+      "time": "04:00",
+      "summary": "David Crane defensa que els centres de dades han d'assumir els costos de la infraestructura que exigeix la seva demanda."
+    },
+    {
+      "title": "El gegant indi Airtel capta 1.000 milions de dòlars per a centres de dades",
+      "link_id": "c_fca991",
       "source": "CNBC Technology",
-      "date": "2026-03-26",
-      "time": "22:28",
-      "summary": "El model de publicitat emergent creix a ritme vertiginós en plena expansió americana."
+      "date": "2026-03-31",
+      "time": "03:51",
+      "summary": "L'operació amb Carlyle i altres fons evidencia el creixent interès global pel sector de les infraestructures digitals a l'Índia."
     }
   ]
 }

@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-03-30T11:45",
+  "generated_at": "2024-05-24T18:30",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [],
   "articles": [
+    {
+      "title": "Rosa Maria Badia rep el Premi d’Honor en una Nit de les Telecomunicacions que reconeix el talent TIC català",
+      "link_id": "c_861c10",
+      "source": "MetaData",
+      "date": "2026-03-27",
+      "time": "09:15",
+      "summary": "La investigadora en supercomputació ha estat guardonada en una gala que també ha premiat el talent emergent i divulgatiu."
+    },
+    {
+      "title": "Frec: quan la intel·ligència artificial comença a interactuar amb eines i serveis en català",
+      "link_id": "c_ee7130",
+      "source": "Accent Obert",
+      "date": "2026-03-27",
+      "time": "14:27",
+      "summary": "L'arribada de noves solucions tecnològiques permet integrar plenament la nostra llengua en els ecosistemes d'intel·ligència artificial actuals."
+    },
     {
       "title": "Qui hi ha rere cada SMS? Creen una nova eina per evitar les estafes de missatgeria",
       "link_id": "c_25ef19",
       "source": "Ara.cat",
       "date": "2026-03-30",
       "time": "11:26",
-      "summary": "La CNMC aprova un registre d’àlies per verificar remitents i protegir usuaris d’estafes per SMS, MMS o RCS."
+      "summary": "La CNMC impulsa un registre d'àlies per verificar els remitents i protegir els usuaris davant l'augment del frau telefònic."
+    },
+    {
+      "title": "Una aplicació similar a ‘La Meva Salut’ farà de finestreta única de la comunitat educativa",
+      "link_id": "c_565b86",
+      "source": "El Mon.cat Societat",
+      "date": "2026-03-29",
+      "time": "10:03",
+      "summary": "Educació invertirà 18 milions d'euros per simplificar tràmits i unificar la gestió administrativa en una sola plataforma digital."
     },
     {
       "title": "L’aparell de diagnòstic de càncer de pulmó més avançat és a Barcelona",
       "link_id": "c_8cc9b1",
-      "source": "La Vanguardia",
+      "source": "La Vanguardia (en català)",
       "date": "2026-03-30",
       "time": "05:27",
-      "summary": "L’Hospital del Mar incorpora l’ecobroncoscopi, el sistema més avançat per detectar càncer de pulmó a Espanya."
+      "summary": "L'Hospital del Mar incorpora un ecobroncoscopi pioner a l'Estat que millorarà significativament la precisió en la detecció oncològica."
     },
     {
-      "title": "El DNI digital fa un pas més aquesta Setmana Santa: tots els nous tràmits que no requeriran el carnet físic",
-      "link_id": "c_40dea5",
-      "source": "RAC1",
-      "date": "2026-03-30",
-      "time": "10:51",
-      "summary": "A partir de dijous el DNI digital serà vàlid per identificar-se i fer tràmits sense portar el carnet físic."
+      "title": "Alerta per risc d’incendi en més de 40.000 vehicles microhíbrids per un error de fabricació",
+      "link_id": "c_80c374",
+      "source": "Betevé",
+      "date": "2026-03-31",
+      "time": "09:52",
+      "summary": "L'OCU adverteix els conductors d'una fallada perillosa detectada en diversos models fabricats entre el 2023 i el 2026."
     },
     {
-      "title": "Tenir un fill amb un holograma",
-      "link_id": "c_8f8f4d",
-      "source": "RAC1",
-      "date": "2026-03-30",
-      "time": "09:01",
-      "summary": "Una artista catalana es casa amb un holograma IA i planteja la maternitat emocional amb intel·ligència artificial."
-    },
-    {
-      "title": "Venga: criptoactius a l'abast de tothom i en català",
-      "link_id": "c_7a4429",
-      "source": "Ara.cat",
-      "date": "2026-03-29",
-      "time": "21:59",
-      "summary": "L’app barcelonina Venga simplifica inversions en criptomonedes parlant català i busca expandir-se a Europa."
-    },
-    {
-      "title": "La 'start-up' sorgida de la covid que entusiasma els més grans",
-      "link_id": "c_7f8d9f",
-      "source": "Ara.cat",
-      "date": "2026-03-28",
-      "time": "17:00",
-      "summary": "Joves recondicionen dispositius perquè avis poguessin connectar amb familiars durant la pandèmia, ara impulsen creixement tecnològic."
-    },
-    {
-      "title": "L’exconseller Roger Torrent fitxa per una companyia d'internacionalització industrial",
-      "link_id": "c_b30ae3",
-      "source": "Ara.cat",
-      "date": "2026-03-30",
-      "time": "10:07",
-      "summary": "Roger Torrent s’incorpora al consell assessor de The Big Move, que ajuda empreses industrials catalanes a créixer a l’exterior."
-    },
-    {
-      "title": "Reportatge: NODUS, la ‘start-up’ catalana que vol redissenyar les organitzacions amb equips híbrids d’IA i persones",
-      "link_id": "c_1ff880",
-      "source": "MetaData",
-      "date": "2026-03-30",
-      "time": "10:00",
-      "summary": "NODUS crea una capa d’IA per transformar la capacitat operativa de les empreses combinant persones i algoritmes."
-    },
-    {
-      "title": "Bones notícies: les dones ja representen el 35,7% del sector tecnològic",
-      "link_id": "c_137d83",
+      "title": "Una app per a gent gran impulsa l’envelliment actiu al Pirineu",
+      "link_id": "c_092040",
       "source": "Lleida Diari",
       "date": "2026-03-30",
-      "time": "08:02",
-      "summary": "Barcelona Activa indica que la presència femenina al sector TIC creix i ja representa més d’un terç del total."
+      "time": "12:09",
+      "summary": "El projecte comunitari 'Oliana t’acompanya' utilitza la tecnologia per combatre la solitud no volguda i fomentar la cohesió social."
     },
     {
-      "title": "Menys burocràcia en l'educació: el govern fa un pla per reduir-la amb una app com La Meva Salut",
-      "link_id": "c_95e3e9",
-      "source": "324.cat",
-      "date": "2026-03-29",
-      "time": "07:16",
-      "summary": "Educació crearà l’app La Meva Educació per centralitzar tràmits i reduir la burocràcia docent a partir de l’estiu 2027."
+      "title": "Noruega aparta les tauletes per salvar la democràcia amb llibres",
+      "link_id": "c_0db339",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-03-31",
+      "time": "06:00",
+      "summary": "El país nòrdic replanteja l'ús de pantalles a les aules per fomentar la lectura tradicional i l'esperit crític."
+    },
+    {
+      "title": "La UB impulsa XipScope, una 'spin-off' que transforma la microscòpia amb dispositius de butxaca i IA",
+      "link_id": "c_9bbdf3",
+      "source": "Via Empresa",
+      "date": "2026-03-31",
+      "time": "13:23",
+      "summary": "Aquesta nova empresa emergent democratitza la recerca científica amb equips portàtils, autònoms i potenciats per intel·ligència artificial."
+    },
+    {
+      "title": "OpenAI tanca Sora sis mesos després del seu llançament i reorienta la seva estratègia cap a ChatGPT",
+      "link_id": "c_5eb3fb",
+      "source": "MetaData",
+      "date": "2026-03-26",
+      "time": "15:30",
+      "summary": "L'empresa abandona temporalment la generació de vídeo per centrar els seus esforços en els models conversacionals i la robòtica."
     }
   ]
 }
