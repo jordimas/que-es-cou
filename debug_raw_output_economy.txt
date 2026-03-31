@@ -1,64 +1,40 @@
 {
-  "generated_at": "2024-05-24T14:30",
+  "generated_at": "2024-05-24T18:00",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Nebius revela plans per construir una de les fàbriques d'IA més grans d'Europa",
-      "link_id": "c_8c9650",
-      "source": "CNBC Technology",
-      "date": "2026-03-31",
-      "time": "07:47",
-      "summary": "La regió accelera la creació d'infraestructura tecnològica per satisfer la creixent demanda de potència de càlcul."
-    },
-    {
-      "title": "L'empresa de xips d'IA Rebellions, amb el suport de Samsung, capta 400 milions de dòlars abans de sortir a borsa",
-      "link_id": "c_b614c8",
-      "source": "CNBC Technology",
-      "date": "2026-03-31",
-      "time": "07:38",
-      "summary": "Aquesta injecció de capital reforça la seva posició per competir directament amb Nvidia en el mercat d'inferència."
-    },
-    {
-      "title": "La start-up britànica de xips Fractile busca captar 200 milions de dòlars per desafiar Nvidia",
-      "link_id": "c_fcafb8",
+      "title": "La recuperació de Huawei perd ritme per la caiguda del núvol i els telèfons",
+      "link_id": "c_e5b3ee",
       "source": "Financial Times",
       "date": "2026-03-31",
-      "time": "04:00",
-      "summary": "L'empresa s'uneix a una onada emergent de companyies del Regne Unit centrades a accelerar el processament d'intel·ligència artificial."
+      "time": "15:43",
+      "summary": "El conglomerat tecnològic xinès registra el creixement d'ingressos més lent dels últims tres anys."
     },
     {
-      "title": "Els furoners de l'Iran van a la guerra",
-      "link_id": "c_4919e4",
+      "title": "Nvidia inverteix 2.000 milions de dòlars en Marvell per impulsar les xarxes d'IA",
+      "link_id": "c_ff522f",
       "source": "Financial Times",
       "date": "2026-03-31",
-      "time": "04:00",
-      "summary": "Els atacs cibernètics de Teheran busquen recopilar informació estratègica i desestabilitzar infraestructures clau als Estats Units i Israel."
+      "time": "15:42",
+      "summary": "Les empreses de semiconductors s'alien en fotònica de silici per accelerar els sistemes dels centres de dades."
     },
     {
-      "title": "El gegant indi Airtel capta 1.000 milions de dòlars per a centres de dades",
-      "link_id": "c_fca991",
-      "source": "CNBC Technology",
+      "title": "Microsoft s'enfronta a una investigació del regulador britànic pel programari empresarial",
+      "link_id": "c_9d3bef",
+      "source": "Financial Times",
       "date": "2026-03-31",
-      "time": "03:51",
-      "summary": "L'interès del capital privat evidencia l'atractiu creixent del sector d'infraestructures digitals a l'Índia a escala global."
+      "time": "11:00",
+      "summary": "L'autoritat de competència avaluarà si el gegant tecnològic nord-americà hauria de rebre l'estatus de mercat estratègic."
     },
     {
-      "title": "Les accions de Micron s'enfonsen un 10%, aprofundint la caiguda després dels resultats",
-      "link_id": "c_b6ffb2",
-      "source": "CNBC Technology",
-      "date": "2026-03-30",
-      "time": "21:06",
-      "summary": "El fabricant de memòries pateix una forta correcció al mercat malgrat haver presentat uns beneficis inicialment excel·lents."
-    },
-    {
-      "title": "Les accions de Palo Alto es disparen després que el seu conseller delegat compri títols",
-      "link_id": "c_bfe967",
-      "source": "CNBC Technology",
-      "date": "2026-03-30",
-      "time": "20:02",
-      "summary": "Aquest moviment inusual de Nikesh Arora aporta confiança a un sector de ciberseguretat castigat per l'amenaça de l'IA."
+      "title": "Per què l'escassetat d'heli és important per als fabricants de xips",
+      "link_id": "c_c38af9",
+      "source": "Financial Times",
+      "date": "2026-03-31",
+      "time": "11:00",
+      "summary": "La guerra al Pròxim Orient evidencia un nou coll d'ampolla potencial per a la cadena de subministrament de semiconductors."
     },
     {
       "title": "Eli Lilly firma un acord de 2.000 milions per desenvolupar fàrmacs amb IA",
@@ -66,23 +42,47 @@
       "source": "Financial Times",
       "date": "2026-03-30",
       "time": "18:31",
-      "summary": "La farmacèutica s'alia amb una empresa biotecnològica de Hong Kong per accelerar el descobriment de nous tractaments mèdics."
+      "summary": "Les grans farmacèutiques mundials busquen activament nous medicaments a la Xina mitjançant aliances estratègiques."
     },
     {
-      "title": "No es pot culpar la IA dels errors, adverteix el regulador als auditors",
-      "link_id": "c_a254e6",
+      "title": "Snap puja un 13% després que l'activista Irenic proposi canvis per multiplicar el seu valor",
+      "link_id": "c_39e774",
+      "source": "CNBC Technology",
+      "date": "2026-03-31",
+      "time": "17:25",
+      "summary": "Irenic Capital suggereix tancar la divisió Specs i substituir una cinquena part de la plantilla per intel·ligència artificial."
+    },
+    {
+      "title": "Oracle acomiada milers de treballadors mentre continua augmentant la despesa en IA",
+      "link_id": "c_e7bbba",
+      "source": "CNBC Technology",
+      "date": "2026-03-31",
+      "time": "17:11",
+      "summary": "L'empresa incrementa les inversions per construir infraestructures de centres de dades capaces de suportar càrregues de treball d'IA."
+    },
+    {
+      "title": "Els beneficis de Raspberry Pi es disparen per l'augment de la demanda impulsat per la IA",
+      "link_id": "c_0cf9e9",
       "source": "Financial Times",
-      "date": "2026-03-30",
-      "time": "17:10",
-      "summary": "Les autoritats financeres exigeixen mantenir una supervisió humana estricta per garantir la precisió en les auditories corporatives."
+      "date": "2026-03-31",
+      "time": "16:31",
+      "summary": "El creixement de les vendes de l'empresa informàtica britànica és especialment fort a la Xina i als Estats Units."
     },
     {
-      "title": "Per què una start-up ensenya cèl·lules cerebrals humanes a jugar a \"Doom\"",
-      "link_id": "c_7a3321",
-      "source": "The Economist",
-      "date": "2026-03-30",
-      "time": "16:26",
-      "summary": "Aquest experiment pioner podria obrir la porta a sistemes informàtics biològics molt més eficients que els actuals."
+      "title": "La startup de vaixells autònoms Saronic capta 1.750 milions de dòlars per modernitzar l'exèrcit",
+      "link_id": "c_5e4e07",
+      "source": "CNBC Technology",
+      "date": "2026-03-31",
+      "time": "15:36",
+      "summary": "Aquesta nova ronda de finançament duplica la valoració de l'empresa fins als 9.250 milions de dòlars."
+    },
+    {
+      "title": "Els EUA pressionen el Regne Unit i els aliats per assegurar les cadenes de subministrament quàntiques",
+      "link_id": "c_dd3130",
+      "source": "Financial Times",
+      "date": "2026-03-31",
+      "time": "10:00",
+      "summary": "El director tecnològic nord-americà busca la cooperació britànica enmig de les tensions per un pacte tecnològic més ampli."
     }
   ]
 }
