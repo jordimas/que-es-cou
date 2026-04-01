@@ -1,104 +1,88 @@
 {
-  "generated_at": "2026-04-01T10:10",
+  "generated_at": "2026-04-01T19:50",
   "id": "world",
   "title": "Notícies tecnològiques del món",
-  "sources_checked": [
-    {
-      "name": "AnandTech",
-      "url": "https://www.anandtech.com/rss/",
-      "articles_found": 0
-    },
-    {
-      "name": "Wall Street Journal Tech",
-      "url": "https://feeds.a.dj.com/rss/RSSWSJD.xml",
-      "articles_found": 0
-    },
-    {
-      "name": "Slashdot",
-      "url": "https://slashdot.org/rss/slashdot.rss",
-      "articles_found": 0
-    }
-  ],
+  "sources_checked": [],
   "articles": [
     {
-      "title": "La filtració del codi font de Claude Code revela quanta informació pot recopilar Anthropic sobre tu i el teu sistema",
-      "link_id": "c_13e30a",
-      "source": "The Register",
+      "title": "Apple celebra el seu 50è aniversari de set maneres",
+      "link_id": "c_5963c5",
+      "source": "MacRumors",
       "date": "2026-04-01",
-      "time": "07:00",
-      "summary": "L'error d'Anthropic exposa el codi font de la seva eina d'IA, revelant un accés profund a les dades dels usuaris."
+      "time": "07:02",
+      "summary": "La companyia commemora el seu mig segle amb una web animada, regals per als empleats i un concert exclusiu."
     },
     {
-      "title": "Bones notícies! Finalment pots canviar aquesta adreça de Gmail ridícula",
-      "link_id": "c_774162",
-      "source": "Gizmodo",
-      "date": "2026-03-31",
-      "time": "21:01",
-      "summary": "Google permetrà als usuaris dels Estats Units modificar el seu nom d'usuari de Gmail sense perdre les dades associades."
-    },
-    {
-      "title": "Apple celebra el seu 50è aniversari amb una pàgina d'inici animada especial",
-      "link_id": "c_ba8475",
-      "source": "9to5Mac",
+      "title": "La filtració de Claude Code suggereix que Anthropic treballa en un mode 'Proactiu'",
+      "link_id": "c_473937",
+      "source": "Engadget",
       "date": "2026-04-01",
-      "time": "07:35",
-      "summary": "La companyia commemora mig segle d'història amb una animació web que repassa les seves creacions tecnològiques més icòniques."
+      "time": "15:01",
+      "summary": "Una filtració del codi font ha revelat funcions inèdites, incloent-hi un mode proactiu que permet a la IA programar autònomament."
     },
     {
-      "title": "Apple entre les empreses nord-americanes que l'Iran titlla de 'companyies terroristes' mentre amenaça amb atacs",
-      "link_id": "c_e5b8af",
-      "source": "9to5Mac",
-      "date": "2026-03-31",
-      "time": "22:35",
-      "summary": "La Guàrdia Revolucionària de l'Iran amenaça d'atacar les instal·lacions de grans tecnològiques nord-americanes a l'Orient Mitjà."
-    },
-    {
-      "title": "Apple publica una nova actualització de microprogramari per als AirPods Max 2",
-      "link_id": "c_8c2b95",
-      "source": "9to5Mac",
-      "date": "2026-03-31",
-      "time": "18:17",
-      "summary": "Just abans del seu llançament oficial, Apple ha publicat una actualització de microprogramari per als seus nous auriculars de diadema."
-    },
-    {
-      "title": "Google prepara una polsera d'activitat per superar la moda sense pantalles de Whoop",
-      "link_id": "c_fd749d",
-      "source": "Digital Trends",
+      "title": "Aquests són els 4 astronautes de l'Artemis II que lideren l'històric retorn a la Lluna",
+      "link_id": "c_8d339d",
+      "source": "Wired",
       "date": "2026-04-01",
-      "time": "07:50",
-      "summary": "Google desenvolupa una polsera d'activitat sense pantalla amb un entrenador de salut basat en intel·ligència artificial per competir amb Whoop."
+      "time": "10:00",
+      "summary": "La tripulació inclou la primera dona, la primera persona negra i el primer no estatunidenc a viatjar a l'òrbita lunar."
     },
     {
-      "title": "Uns pirates informàtics introdueixen un troià a la biblioteca de codi que hi ha darrere de gran part d'internet",
-      "link_id": "c_2bb75c",
-      "source": "VentureBeat",
+      "title": "SpaceX sol·licita confidencialment sortir a borsa en una operació valorada potencialment en 1,75 bilions de dòlars",
+      "link_id": "c_6c6996",
+      "source": "TechCrunch",
       "date": "2026-04-01",
-      "time": "02:30",
-      "summary": "Un atac informàtic ha compromès la popular biblioteca Axios, introduint programari maliciós que amenaça milions de sistemes globalment."
+      "time": "15:46",
+      "summary": "L'empresa espacial d'Elon Musk ha contractat 21 bancs per gestionar la que podria ser la sortida a borsa més gran."
     },
     {
-      "title": "Els avenços de Samsung en el seguiment de la pressió arterial són el motiu pel qual hi torno (per sempre)",
-      "link_id": "c_5def4d",
-      "source": "ZDNet",
+      "title": "Apple llançarà pedaços excepcionals per protegir els usuaris d'iOS 18 de l'eina de pirateig DarkSword",
+      "link_id": "c_a0fc0d",
+      "source": "Wired",
       "date": "2026-04-01",
-      "time": "00:28",
-      "summary": "Després d'anys d'espera, els usuaris dels Estats Units finalment podran mesurar la seva pressió arterial amb els rellotges Galaxy Watch."
+      "time": "00:49",
+      "summary": "Apple publica una actualització de seguretat crítica per a iPhones antics per evitar atacs silenciosos d'un nou exploit perillós."
     },
     {
-      "title": "Meta llança unes noves Ray-Ban per a lents graduades",
-      "link_id": "c_5651bf",
-      "source": "CNET",
+      "title": "OpenAI recapta 3.000 milions de dòlars d'inversors minoristes en una ronda de finançament rècord de 122.000 milions",
+      "link_id": "c_6b1b3a",
+      "source": "TechCrunch",
       "date": "2026-03-31",
-      "time": "22:23",
-      "summary": "Les noves ulleres intel·ligents de Meta integren lents graduades i funcions d'intel·ligència artificial per a un ús diari més pràctic."
+      "time": "21:25",
+      "summary": "El laboratori d'IA assoleix una valoració de 852.000 milions de dòlars gràcies a inversions massives d'Amazon i Nvidia."
     },
     {
-      "title": "OpenAI, l'empresa matriu de ChatGPT, tanca una ronda de finançament de 122.000 milions de dòlars en ple auge de la IA",
-      "link_id": "c_829e0c",
-      "source": "The Guardian Tech",
+      "title": "Google crea una polsera Fitbit sense pantalla i Steph Curry ja la porta",
+      "link_id": "c_68e95f",
+      "source": "9to5Google",
+      "date": "2026-04-01",
+      "time": "00:35",
+      "summary": "Google desenvolupa una polsera d'activitat sense pantalla impulsada per la IA Gemini per competir amb Whoop, mostrada per Steph Curry."
+    },
+    {
+      "title": "Salesforce anuncia una renovació de Slack basada en IA amb 30 noves funcions",
+      "link_id": "c_faf717",
+      "source": "TechCrunch",
       "date": "2026-03-31",
-      "time": "21:55",
-      "summary": "L'empresa assoleix una valoració rècord de 852.000 milions de dòlars després de tancar la seva ronda de finançament més gran."
+      "time": "22:46",
+      "summary": "Slackbot es transforma en un agent empresarial capaç de prendre notes de reunions i executar tasques en eines de tercers."
+    },
+    {
+      "title": "L'Iran amenaça d'atacar les principals empreses tecnològiques dels Estats Units l'1 d'abril",
+      "link_id": "c_9aaa83",
+      "source": "Wired",
+      "date": "2026-03-31",
+      "time": "21:25",
+      "summary": "La Guàrdia Revolucionària Islàmica adverteix els empleats d'empreses com Apple, Google i Microsoft que evacuïn les oficines del Pròxim Orient."
+    },
+    {
+      "title": "Google ara permet canviar la teva adreça de Gmail. Descobreix com fer-ho",
+      "link_id": "c_2027ad",
+      "source": "Wired",
+      "date": "2026-03-31",
+      "time": "17:51",
+      "summary": "Els usuaris nord-americans finalment poden actualitzar les seves adreces de correu electrònic sense perdre dades, convertint l'antiga en un àlies."
     }
   ]
 }

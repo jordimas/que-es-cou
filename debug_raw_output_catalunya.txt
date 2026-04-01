@@ -1,24 +1,40 @@
 {
-  "generated_at": "2026-04-01T08:15",
+  "generated_at": "2024-05-24T16:00",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [],
   "articles": [
     {
-      "title": "L'hora de l'Artemis II: els detalls de l'enlairament cap a la Lluna la nit de dimecres a dijous",
-      "link_id": "c_7c20a6",
-      "source": "324.cat",
-      "date": "2026-03-31",
-      "time": "19:38",
-      "summary": "La missió de la NASA marca el primer vol tripulat del programa, preparant el terreny per a futurs aterratges."
+      "title": "Així és Artemis II: els detalls del llançament de la NASA d'aquesta mitjanit per tornar els humans a la Lluna",
+      "link_id": "c_7607c1",
+      "source": "RAC1",
+      "date": "2026-04-01",
+      "time": "17:52",
+      "summary": "La primera missió tripulada des del 1972 orbitarà el satèl·lit sense aterrar-hi, preparant el terreny per a futures exploracions."
     },
     {
-      "title": "Apple fa cinquanta anys: no va nàixer prometent de fer-se rica, va nàixer prometent d’alliberar la humanitat",
-      "link_id": "c_8bb351",
-      "source": "VilaWeb",
-      "date": "2026-03-31",
-      "time": "19:40",
-      "summary": "El model de negoci actual de la companyia tecnològica s'allunya cada cop més dels seus ideals fundacionals originals."
+      "title": "La missió Artemis 2, dia a dia: un viatge per veure la cara oculta de la Lluna i tornar a la Terra",
+      "link_id": "c_28d6cc",
+      "source": "324.cat",
+      "date": "2026-04-01",
+      "time": "18:41",
+      "summary": "El viatge durarà deu dies, amb moments crítics com l'enlairament, l'òrbita per la cara oculta i el retorn."
+    },
+    {
+      "title": "El primer 'hub' públic de Barcelona de recàrrega ultraràpida permetrà endollar 300 vehicles al dia",
+      "link_id": "c_30e39c",
+      "source": "Via Empresa",
+      "date": "2026-04-01",
+      "time": "13:00",
+      "summary": "L'equipament pioner s'ubicarà al passeig de la Vall d'Hebron i entrarà en funcionament a finals d'aquest mateix any."
+    },
+    {
+      "title": "Barcelona projecta una electrolinera ultraràpida que permetrà endollar 300 vehicles al dia",
+      "link_id": "c_6a18b7",
+      "source": "324.cat",
+      "date": "2026-04-01",
+      "time": "15:33",
+      "summary": "Aquesta instal·lació a la ronda de Dalt facilitarà la càrrega simultània de dotze cotxes, impulsant la mobilitat elèctrica urbana."
     },
     {
       "title": "Austràlia no pot aplicar el veto a les xarxes als menors i acusa les plataformes",
@@ -26,63 +42,47 @@
       "source": "La Vanguardia (en català)",
       "date": "2026-04-01",
       "time": "05:45",
-      "summary": "El govern australià amenaça de portar les grans tecnològiques als tribunals per la manca de col·laboració amb la nova llei."
+      "summary": "El govern australià amenaça de portar les grans tecnològiques als tribunals per la manca de col·laboració en la nova llei."
     },
     {
-      "title": "El DNI digital serà vàlid des d'este dijous per a identificar-se davant de qualsevol entitat",
-      "link_id": "c_06f3ed",
-      "source": "Àpunt",
-      "date": "2026-04-01",
-      "time": "07:20",
-      "summary": "Una nova aplicació mòbil permetrà als ciutadans signar documents i fer tràmits quotidians sense necessitat del document físic."
-    },
-    {
-      "title": "Aquesta novetat de WhatsApp no t'agradarà: una llista amb els contactes que estan en línia",
-      "link_id": "c_c5cd2b",
+      "title": "Apple compleix 50 anys: el llarg camí de reinventar la tecnologia fins al cim",
+      "link_id": "c_c97a70",
       "source": "El Nacional.cat",
       "date": "2026-04-01",
-      "time": "09:14",
-      "summary": "La popular aplicació de missatgeria prepara una actualització que reduirà la privacitat mostrant quins usuaris estan connectats simultàniament."
+      "time": "10:24",
+      "summary": "Mig segle després de la seva fundació, la companyia ha transformat radicalment la nostra manera d'interactuar amb la informàtica."
     },
     {
-      "title": "Una aplicació similar a ‘La Meva Salut’ farà de finestreta única de la comunitat educativa",
-      "link_id": "c_565b86",
-      "source": "El Mon.cat Societat",
-      "date": "2026-03-29",
-      "time": "10:03",
-      "summary": "El Departament d'Educació invertirà divuit milions d'euros per simplificar tràmits i unificar les desenes de plataformes actuals."
+      "title": "El DNI digital ja és una realitat: què podràs fer a partir d’ara?",
+      "link_id": "c_57a2bc",
+      "source": "Lleida Diari",
+      "date": "2026-04-01",
+      "time": "11:19",
+      "summary": "L'aplicació MiDNI de la Policia Nacional permet identificar-se legalment amb el telèfon mòbil, simplificant els tràmits administratius quotidians."
     },
     {
-      "title": "L’aparell de diagnòstic de càncer de pulmó més avançat és a Barcelona",
-      "link_id": "c_8cc9b1",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-03-30",
-      "time": "05:27",
-      "summary": "L'Hospital del Mar incorpora un ecobroncoscopi pioner a l'Estat que millorarà significativament la detecció precoç d'aquesta malaltia."
-    },
-    {
-      "title": "La UB impulsa XipScope, una 'spin-off' que transforma la microscòpia amb dispositius de butxaca i IA",
-      "link_id": "c_9bbdf3",
-      "source": "Via Empresa",
-      "date": "2026-03-31",
-      "time": "13:23",
-      "summary": "Aquesta innovació permetrà analitzar imatges en temps real de forma autònoma, abaratint i democratitzant l'accés a la recerca científica."
-    },
-    {
-      "title": "Venga: criptoactius a l'abast de tothom i en català",
-      "link_id": "c_7a4429",
+      "title": "Quasi un de cada quatre cotxes venuts a Catalunya s'endolla",
+      "link_id": "c_8df369",
       "source": "Ara.cat",
-      "date": "2026-03-29",
-      "time": "21:59",
-      "summary": "Una nova empresa tecnològica barcelonina busca simplificar les inversions digitals per a usuaris inexperts utilitzant la llengua catalana."
+      "date": "2026-04-01",
+      "time": "16:11",
+      "summary": "Les vendes de vehicles híbrids i elèctrics purs assoleixen el 23,8% del mercat català durant el primer trimestre de l'any."
     },
     {
-      "title": "\"El 90% dels estudis esportius s'han fet excloent les dones\"",
-      "link_id": "c_0005f5",
-      "source": "Ara.cat",
-      "date": "2026-03-31",
-      "time": "12:00",
-      "summary": "L'aplicació catalana Drop It utilitza intel·ligència artificial per adaptar els entrenaments físics al cicle menstrual de cada usuària."
+      "title": "L'app catalana que evita a les parelles separades l'estrès d'organitzar la logística dels fills",
+      "link_id": "c_27dbb4",
+      "source": "RAC1",
+      "date": "2026-04-01",
+      "time": "14:10",
+      "summary": "Aquesta eina tecnològica facilita la coordinació diària sobre metges, extraescolars i material escolar sense necessitat de contacte constant."
+    },
+    {
+      "title": "L'app de ChatGPT arriba al cotxe gràcies a iOS 26.4 i CarPlay",
+      "link_id": "c_e19fb2",
+      "source": "El Nacional.cat",
+      "date": "2026-04-01",
+      "time": "19:00",
+      "summary": "La nova actualització d'OpenAI permet als conductors interactuar amb la intel·ligència artificial directament des del sistema integrat del vehicle."
     }
   ]
 }
