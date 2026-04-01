@@ -1,88 +1,104 @@
 {
-  "generated_at": "2026-03-31T19:53",
+  "generated_at": "2026-04-01T10:10",
   "id": "world",
   "title": "Notícies tecnològiques del món",
-  "sources_checked": [],
+  "sources_checked": [
+    {
+      "name": "AnandTech",
+      "url": "https://www.anandtech.com/rss/",
+      "articles_found": 0
+    },
+    {
+      "name": "Wall Street Journal Tech",
+      "url": "https://feeds.a.dj.com/rss/RSSWSJD.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "Slashdot",
+      "url": "https://slashdot.org/rss/slashdot.rss",
+      "articles_found": 0
+    }
+  ],
   "articles": [
     {
-      "title": "Aconsegueix un descompte rècord de 200 $ en el Nothing Phone 3 al finalitzar l'Amazon Spring Sale",
-      "link_id": "c_e29670",
-      "source": "Android Authority",
-      "date": "2026-03-31",
-      "time": "17:50",
-      "summary": "L'últim vaixell insígnia de Nothing assoleix un preu mínim històric a Amazon, però l'oferta podria desaparèixer aquesta nit."
+      "title": "La filtració del codi font de Claude Code revela quanta informació pot recopilar Anthropic sobre tu i el teu sistema",
+      "link_id": "c_13e30a",
+      "source": "The Register",
+      "date": "2026-04-01",
+      "time": "07:00",
+      "summary": "L'error d'Anthropic exposa el codi font de la seva eina d'IA, revelant un accés profund a les dades dels usuaris."
     },
     {
-      "title": "Apple detalla les millores de cancel·lació de soroll dels AirPods Max 2 en una nova entrevista",
-      "link_id": "c_07df30",
-      "source": "9to5Mac",
-      "date": "2026-03-31",
-      "time": "14:17",
-      "summary": "Els enginyers d'Apple revelen com el nou xip H2 millora significativament la cancel·lació activa de soroll i l'àudio adaptatiu."
-    },
-    {
-      "title": "La beta 1 d'iOS 26.5 prepara el terreny per als anuncis a Apple Maps",
-      "link_id": "c_ab3131",
-      "source": "Digital Trends",
-      "date": "2026-03-31",
-      "time": "11:33",
-      "summary": "La nova actualització d'Apple introdueix llocs suggerits i estableix les bases per mostrar publicitat local a l'aplicació de mapes."
-    },
-    {
-      "title": "Els usuaris del Samsung Watch als EUA ja poden controlar la pressió arterial, però és complicat",
-      "link_id": "c_5def4d",
-      "source": "ZDNet",
-      "date": "2026-03-31",
-      "time": "17:03",
-      "summary": "La funció requereix l'aplicació Samsung Health Monitor actualitzada i un tensiòmetre de braç per a la calibració inicial."
-    },
-    {
-      "title": "Vols canviar la teva adreça de Gmail? Ara pots fer-ho sense perdre dades: t'expliquem com",
-      "link_id": "c_987938",
-      "source": "ZDNet",
-      "date": "2026-03-31",
-      "time": "16:41",
-      "summary": "Google permet als usuaris dels EUA modificar el seu nom d'usuari mantenint l'adreça antiga com a àlies per rebre missatges."
-    },
-    {
-      "title": "Meta presenta ulleres amb IA graduades per integrar els dispositius portables a l'ús diari",
-      "link_id": "c_6511c8",
-      "source": "Digital Trends",
-      "date": "2026-03-31",
-      "time": "16:39",
-      "summary": "Els nous models Ray-Ban estan dissenyats específicament per a lents graduades, fent la tecnologia més pràctica i accessible."
-    },
-    {
-      "title": "Hackers nord-coreans acusats de segrestar el popular projecte de codi obert Axios per difondre programari maliciós",
-      "link_id": "c_1ceecc",
-      "source": "TechCrunch",
-      "date": "2026-03-31",
-      "time": "16:01",
-      "summary": "Un atacant va inserir codi maliciós a Axios, una eina web descarregada desenes de milions de vegades setmanalment."
-    },
-    {
-      "title": "L'Iran amenaça d'atacar empreses tecnològiques dels Estats Units a partir de l'1 d'abril",
-      "link_id": "c_de9bb7",
+      "title": "Bones notícies! Finalment pots canviar aquesta adreça de Gmail ridícula",
+      "link_id": "c_774162",
       "source": "Gizmodo",
       "date": "2026-03-31",
-      "time": "17:35",
-      "summary": "La Guàrdia Revolucionària Islàmica adverteix que companyies com Apple, Google, Microsoft i Nvidia podrien ser objectius legítims de destrucció."
+      "time": "21:01",
+      "summary": "Google permetrà als usuaris dels Estats Units modificar el seu nom d'usuari de Gmail sense perdre les dades associades."
     },
     {
-      "title": "El llançament de l'Artemis II de la NASA es gravarà en vídeo immersiu per a l'Apple Vision Pro",
-      "link_id": "c_568a69",
+      "title": "Apple celebra el seu 50è aniversari amb una pàgina d'inici animada especial",
+      "link_id": "c_ba8475",
+      "source": "9to5Mac",
+      "date": "2026-04-01",
+      "time": "07:35",
+      "summary": "La companyia commemora mig segle d'història amb una animació web que repassa les seves creacions tecnològiques més icòniques."
+    },
+    {
+      "title": "Apple entre les empreses nord-americanes que l'Iran titlla de 'companyies terroristes' mentre amenaça amb atacs",
+      "link_id": "c_e5b8af",
       "source": "9to5Mac",
       "date": "2026-03-31",
-      "time": "16:10",
-      "summary": "La històrica missió tripulada al voltant de la Lluna serà capturada en format immersiu per a un futur llançament."
+      "time": "22:35",
+      "summary": "La Guàrdia Revolucionària de l'Iran amenaça d'atacar les instal·lacions de grans tecnològiques nord-americanes a l'Orient Mitjà."
     },
     {
-      "title": "TCL assumeix oficialment el negoci de televisors de Sony en una nova associació",
-      "link_id": "c_0fcc2f",
-      "source": "9to5Google",
+      "title": "Apple publica una nova actualització de microprogramari per als AirPods Max 2",
+      "link_id": "c_8c2b95",
+      "source": "9to5Mac",
       "date": "2026-03-31",
-      "time": "16:10",
-      "summary": "La companyia xinesa adquireix una participació majoritària del 51% en la nova empresa conjunta anomenada Bravia Inc."
+      "time": "18:17",
+      "summary": "Just abans del seu llançament oficial, Apple ha publicat una actualització de microprogramari per als seus nous auriculars de diadema."
+    },
+    {
+      "title": "Google prepara una polsera d'activitat per superar la moda sense pantalles de Whoop",
+      "link_id": "c_fd749d",
+      "source": "Digital Trends",
+      "date": "2026-04-01",
+      "time": "07:50",
+      "summary": "Google desenvolupa una polsera d'activitat sense pantalla amb un entrenador de salut basat en intel·ligència artificial per competir amb Whoop."
+    },
+    {
+      "title": "Uns pirates informàtics introdueixen un troià a la biblioteca de codi que hi ha darrere de gran part d'internet",
+      "link_id": "c_2bb75c",
+      "source": "VentureBeat",
+      "date": "2026-04-01",
+      "time": "02:30",
+      "summary": "Un atac informàtic ha compromès la popular biblioteca Axios, introduint programari maliciós que amenaça milions de sistemes globalment."
+    },
+    {
+      "title": "Els avenços de Samsung en el seguiment de la pressió arterial són el motiu pel qual hi torno (per sempre)",
+      "link_id": "c_5def4d",
+      "source": "ZDNet",
+      "date": "2026-04-01",
+      "time": "00:28",
+      "summary": "Després d'anys d'espera, els usuaris dels Estats Units finalment podran mesurar la seva pressió arterial amb els rellotges Galaxy Watch."
+    },
+    {
+      "title": "Meta llança unes noves Ray-Ban per a lents graduades",
+      "link_id": "c_5651bf",
+      "source": "CNET",
+      "date": "2026-03-31",
+      "time": "22:23",
+      "summary": "Les noves ulleres intel·ligents de Meta integren lents graduades i funcions d'intel·ligència artificial per a un ús diari més pràctic."
+    },
+    {
+      "title": "OpenAI, l'empresa matriu de ChatGPT, tanca una ronda de finançament de 122.000 milions de dòlars en ple auge de la IA",
+      "link_id": "c_829e0c",
+      "source": "The Guardian Tech",
+      "date": "2026-03-31",
+      "time": "21:55",
+      "summary": "L'empresa assoleix una valoració rècord de 852.000 milions de dòlars després de tancar la seva ronda de finançament més gran."
     }
   ]
 }

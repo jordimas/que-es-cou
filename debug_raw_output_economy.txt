@@ -1,88 +1,88 @@
 {
-  "generated_at": "2024-05-24T18:00",
+  "generated_at": "2024-05-24T16:00",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
+    {
+      "title": "Les accions de Marvell pugen un 13% després que Nvidia inverteixi 2.000 milions de dòlars",
+      "link_id": "c_ec03b0",
+      "source": "CNBC Technology",
+      "date": "2026-03-31",
+      "time": "20:03",
+      "summary": "Aquesta aposta estratègica consolida l'expansió de Nvidia en infraestructures d'intel·ligència artificial, sumant-se a altres inversions recents."
+    },
     {
       "title": "La recuperació de Huawei perd ritme per la caiguda del núvol i els telèfons",
       "link_id": "c_e5b3ee",
       "source": "Financial Times",
       "date": "2026-03-31",
       "time": "15:43",
-      "summary": "El conglomerat tecnològic xinès registra el creixement d'ingressos més lent dels últims tres anys."
+      "summary": "El gegant tecnològic xinès registra el creixement d'ingressos més lent dels últims tres anys, evidenciant dificultats operatives."
     },
     {
-      "title": "Nvidia inverteix 2.000 milions de dòlars en Marvell per impulsar les xarxes d'IA",
-      "link_id": "c_ff522f",
-      "source": "Financial Times",
+      "title": "Microsoft s'enfronta a una investigació del regulador britànic pel seu negoci de programari",
+      "link_id": "c_f40bd5",
+      "source": "CNBC Technology",
       "date": "2026-03-31",
-      "time": "15:42",
-      "summary": "Les empreses de semiconductors s'alien en fotònica de silici per accelerar els sistemes dels centres de dades."
+      "time": "11:49",
+      "summary": "L'autoritat de competència del Regne Unit examina les pràctiques de llicències al núvol per possibles riscos monopolístics."
     },
     {
-      "title": "Microsoft s'enfronta a una investigació del regulador britànic pel programari empresarial",
-      "link_id": "c_9d3bef",
+      "title": "Les accions de l'empresa xinesa d'IA Zhipu es disparen un 35% en duplicar els ingressos",
+      "link_id": "c_3dd5e9",
+      "source": "CNBC Technology",
+      "date": "2026-04-01",
+      "time": "06:32",
+      "summary": "Els excel·lents resultats financers posteriors a la seva sortida a borsa reforcen la confiança dels inversors en l'empresa."
+    },
+    {
+      "title": "La història oculta darrere del poder de fabricació d'Apple",
+      "link_id": "c_e96f19",
       "source": "Financial Times",
+      "date": "2026-04-01",
+      "time": "04:00",
+      "summary": "Un curs de gestió al Japó de postguerra va inspirar l'obsessió de Steve Jobs per la qualitat i l'eficiència."
+    },
+    {
+      "title": "L'estat alemany que intenta alliberar-se de Microsoft",
+      "link_id": "c_c1d581",
+      "source": "Financial Times",
+      "date": "2026-04-01",
+      "time": "04:00",
+      "summary": "Schleswig-Holstein lidera un experiment europeu per reduir la dependència tecnològica dels gegants nord-americans mitjançant programari lliure."
+    },
+    {
+      "title": "El gestor de criptomonedes CoinShares cotitzarà al Nasdaq mitjançant una fusió SPAC",
+      "link_id": "c_456c4f",
+      "source": "CNBC Technology",
       "date": "2026-03-31",
-      "time": "11:00",
-      "summary": "L'autoritat de competència avaluarà si el gegant tecnològic nord-americà hauria de rebre l'estatus de mercat estratègic."
+      "time": "22:24",
+      "summary": "L'acord amb Vine Hill Capital valora la nova societat en 1.200 milions de dòlars, impulsant la seva expansió."
     },
     {
-      "title": "Per què l'escassetat d'heli és important per als fabricants de xips",
-      "link_id": "c_c38af9",
-      "source": "Financial Times",
+      "title": "La repressió d'Apple contra les aplicacions d'IA la situa al costat equivocat de la història",
+      "link_id": "c_3f8058",
+      "source": "CNBC Technology",
       "date": "2026-03-31",
-      "time": "11:00",
-      "summary": "La guerra al Pròxim Orient evidencia un nou coll d'ampolla potencial per a la cadena de subministrament de semiconductors."
+      "time": "21:34",
+      "summary": "Les restriccions a la programació amb intel·ligència artificial contradiuen la missió fundacional de l'empresa de fa cinquanta anys."
     },
     {
-      "title": "Eli Lilly firma un acord de 2.000 milions per desenvolupar fàrmacs amb IA",
-      "link_id": "c_5f795c",
-      "source": "Financial Times",
-      "date": "2026-03-30",
-      "time": "18:31",
-      "summary": "Les grans farmacèutiques mundials busquen activament nous medicaments a la Xina mitjançant aliances estratègiques."
+      "title": "Anthropic filtra part del codi font intern de Claude Code",
+      "link_id": "c_3dbb48",
+      "source": "CNBC Technology",
+      "date": "2026-03-31",
+      "time": "20:56",
+      "summary": "Aquesta eina ha aconseguit una adopció massiva, generant ingressos superiors als 2.500 milions de dòlars anuals."
     },
     {
-      "title": "Snap puja un 13% després que l'activista Irenic proposi canvis per multiplicar el seu valor",
+      "title": "Snap puja un 14% després que l'activista Irenic proposi canvis per multiplicar el seu valor",
       "link_id": "c_39e774",
       "source": "CNBC Technology",
       "date": "2026-03-31",
-      "time": "17:25",
-      "summary": "Irenic Capital suggereix tancar la divisió Specs i substituir una cinquena part de la plantilla per intel·ligència artificial."
-    },
-    {
-      "title": "Oracle acomiada milers de treballadors mentre continua augmentant la despesa en IA",
-      "link_id": "c_e7bbba",
-      "source": "CNBC Technology",
-      "date": "2026-03-31",
-      "time": "17:11",
-      "summary": "L'empresa incrementa les inversions per construir infraestructures de centres de dades capaces de suportar càrregues de treball d'IA."
-    },
-    {
-      "title": "Els beneficis de Raspberry Pi es disparen per l'augment de la demanda impulsat per la IA",
-      "link_id": "c_0cf9e9",
-      "source": "Financial Times",
-      "date": "2026-03-31",
-      "time": "16:31",
-      "summary": "El creixement de les vendes de l'empresa informàtica britànica és especialment fort a la Xina i als Estats Units."
-    },
-    {
-      "title": "La startup de vaixells autònoms Saronic capta 1.750 milions de dòlars per modernitzar l'exèrcit",
-      "link_id": "c_5e4e07",
-      "source": "CNBC Technology",
-      "date": "2026-03-31",
-      "time": "15:36",
-      "summary": "Aquesta nova ronda de finançament duplica la valoració de l'empresa fins als 9.250 milions de dòlars."
-    },
-    {
-      "title": "Els EUA pressionen el Regne Unit i els aliats per assegurar les cadenes de subministrament quàntiques",
-      "link_id": "c_dd3130",
-      "source": "Financial Times",
-      "date": "2026-03-31",
-      "time": "10:00",
-      "summary": "El director tecnològic nord-americà busca la cooperació britànica enmig de les tensions per un pacte tecnològic més ampli."
+      "time": "20:41",
+      "summary": "El fons suggereix tancar la divisió Specs i substituir una cinquena part de la plantilla per intel·ligència artificial."
     }
   ]
 }

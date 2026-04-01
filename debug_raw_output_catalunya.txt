@@ -1,24 +1,48 @@
 {
-  "generated_at": "2024-05-24T16:00",
+  "generated_at": "2026-04-01T08:15",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [],
   "articles": [
     {
-      "title": "L’Iran amenaça d’atacar grans empreses tecnològiques nord-americanes",
-      "link_id": "c_2ebfff",
-      "source": "VilaWeb",
+      "title": "L'hora de l'Artemis II: els detalls de l'enlairament cap a la Lluna la nit de dimecres a dijous",
+      "link_id": "c_7c20a6",
+      "source": "324.cat",
       "date": "2026-03-31",
-      "time": "16:02",
-      "summary": "La Guàrdia Revolucionària adverteix companyies com Apple i Google, instigant a evacuar les seves instal·lacions al Llevant."
+      "time": "19:38",
+      "summary": "La missió de la NASA marca el primer vol tripulat del programa, preparant el terreny per a futurs aterratges."
     },
     {
-      "title": "Trump parla de progressos amb l’Iran però amenaça d’atacar infraestructures",
-      "link_id": "c_dc6522",
-      "source": "La Vanguardia (en català)",
+      "title": "Apple fa cinquanta anys: no va nàixer prometent de fer-se rica, va nàixer prometent d’alliberar la humanitat",
+      "link_id": "c_8bb351",
+      "source": "VilaWeb",
       "date": "2026-03-31",
-      "time": "10:18",
-      "summary": "El líder nord-americà manté converses serioses amb Teheran, tot i mantenir l'amenaça d'atacs estratègics a la regió."
+      "time": "19:40",
+      "summary": "El model de negoci actual de la companyia tecnològica s'allunya cada cop més dels seus ideals fundacionals originals."
+    },
+    {
+      "title": "Austràlia no pot aplicar el veto a les xarxes als menors i acusa les plataformes",
+      "link_id": "c_43e0e4",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-04-01",
+      "time": "05:45",
+      "summary": "El govern australià amenaça de portar les grans tecnològiques als tribunals per la manca de col·laboració amb la nova llei."
+    },
+    {
+      "title": "El DNI digital serà vàlid des d'este dijous per a identificar-se davant de qualsevol entitat",
+      "link_id": "c_06f3ed",
+      "source": "Àpunt",
+      "date": "2026-04-01",
+      "time": "07:20",
+      "summary": "Una nova aplicació mòbil permetrà als ciutadans signar documents i fer tràmits quotidians sense necessitat del document físic."
+    },
+    {
+      "title": "Aquesta novetat de WhatsApp no t'agradarà: una llista amb els contactes que estan en línia",
+      "link_id": "c_c5cd2b",
+      "source": "El Nacional.cat",
+      "date": "2026-04-01",
+      "time": "09:14",
+      "summary": "La popular aplicació de missatgeria prepara una actualització que reduirà la privacitat mostrant quins usuaris estan connectats simultàniament."
     },
     {
       "title": "Una aplicació similar a ‘La Meva Salut’ farà de finestreta única de la comunitat educativa",
@@ -26,15 +50,7 @@
       "source": "El Mon.cat Societat",
       "date": "2026-03-29",
       "time": "10:03",
-      "summary": "Educació inverteix 18 milions d'euros per simplificar tràmits administratius i unificar els seus 150 aplicatius actuals."
-    },
-    {
-      "title": "Els Mossos posen més de 120 multes en tres mesos per no portar o fer servir malament les balises V16",
-      "link_id": "c_de5657",
-      "source": "RAC1",
-      "date": "2026-03-30",
-      "time": "20:15",
-      "summary": "Més de la meitat de les sancions són per no dur aquest dispositiu lluminós obligatori als vehicles."
+      "summary": "El Departament d'Educació invertirà divuit milions d'euros per simplificar tràmits i unificar les desenes de plataformes actuals."
     },
     {
       "title": "L’aparell de diagnòstic de càncer de pulmó més avançat és a Barcelona",
@@ -42,7 +58,7 @@
       "source": "La Vanguardia (en català)",
       "date": "2026-03-30",
       "time": "05:27",
-      "summary": "L'Hospital del Mar es converteix en el primer centre de l'Estat a incorporar un innovador ecobroncoscopi."
+      "summary": "L'Hospital del Mar incorpora un ecobroncoscopi pioner a l'Estat que millorarà significativament la detecció precoç d'aquesta malaltia."
     },
     {
       "title": "La UB impulsa XipScope, una 'spin-off' que transforma la microscòpia amb dispositius de butxaca i IA",
@@ -50,39 +66,23 @@
       "source": "Via Empresa",
       "date": "2026-03-31",
       "time": "13:23",
-      "summary": "Aquesta nova empresa ofereix microscopis autònoms i modulars capaços d'analitzar imatges en temps real mitjançant intel·ligència artificial."
+      "summary": "Aquesta innovació permetrà analitzar imatges en temps real de forma autònoma, abaratint i democratitzant l'accés a la recerca científica."
     },
     {
-      "title": "Frec: quan la intel·ligència artificial comença a interactuar amb eines i serveis en català",
-      "link_id": "c_ee7130",
-      "source": "Accent Obert",
-      "date": "2026-03-27",
-      "time": "14:27",
-      "summary": "L'evolució de la IA obre noves portes per a la integració i ús de la llengua catalana."
+      "title": "Venga: criptoactius a l'abast de tothom i en català",
+      "link_id": "c_7a4429",
+      "source": "Ara.cat",
+      "date": "2026-03-29",
+      "time": "21:59",
+      "summary": "Una nova empresa tecnològica barcelonina busca simplificar les inversions digitals per a usuaris inexperts utilitzant la llengua catalana."
     },
     {
-      "title": "Rosa Maria Badia rep el Premi d’Honor en una Nit de les Telecomunicacions que reconeix el talent TIC català",
-      "link_id": "c_861c10",
-      "source": "MetaData",
-      "date": "2026-03-27",
-      "time": "09:15",
-      "summary": "La investigadora en supercomputació ha estat guardonada en un esdeveniment que premia el compromís social tecnològic."
-    },
-    {
-      "title": "Cupra presentarà el 9 d’abril el nou Raval, fabricat a la planta de Martorell",
-      "link_id": "c_39adc1",
-      "source": "El Punt Avui",
-      "date": "2026-03-31",
-      "time": "17:16",
-      "summary": "La marca automobilística preveu que aquest nou model elèctric es converteixi en el seu líder de vendes."
-    },
-    {
-      "title": "Es demana a conductors de Volkswagen que vagin al taller a revisar la bateria del seu cotxe elèctric",
-      "link_id": "c_14896f",
-      "source": "El Nacional.cat",
+      "title": "\"El 90% dels estudis esportius s'han fet excloent les dones\"",
+      "link_id": "c_0005f5",
+      "source": "Ara.cat",
       "date": "2026-03-31",
       "time": "12:00",
-      "summary": "Una possible fallada en els mòduls d'alt voltatge obliga a revisar diversos vehicles per garantir-ne la seguretat."
+      "summary": "L'aplicació catalana Drop It utilitza intel·ligència artificial per adaptar els entrenaments físics al cicle menstrual de cada usuària."
     }
   ]
 }
