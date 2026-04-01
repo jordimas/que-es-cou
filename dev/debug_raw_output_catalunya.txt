@@ -1,40 +1,72 @@
 {
-  "generated_at": "2024-05-24T18:30",
+  "generated_at": "2026-04-01T11:45",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Rosa Maria Badia rep el Premi d’Honor en una Nit de les Telecomunicacions que reconeix el talent TIC català",
-      "link_id": "c_861c10",
-      "source": "MetaData",
-      "date": "2026-03-27",
-      "time": "09:15",
-      "summary": "La investigadora en supercomputació ha estat guardonada en una gala que també ha premiat el talent emergent i divulgatiu."
+      "title": "L'hora de l'Artemis 2: els detalls de l'enlairament cap a la Lluna la nit de dimecres a dijous",
+      "link_id": "c_7c20a6",
+      "source": "324.cat",
+      "date": "2026-03-31",
+      "time": "19:38",
+      "summary": "La missió orbitarà el satèl·lit sense aterrar-hi, preparant el terreny per a futures exploracions humanes a la superfície lunar."
     },
     {
-      "title": "Frec: quan la intel·ligència artificial comença a interactuar amb eines i serveis en català",
-      "link_id": "c_ee7130",
-      "source": "Accent Obert",
-      "date": "2026-03-27",
-      "time": "14:27",
-      "summary": "L'arribada de noves solucions tecnològiques permet integrar plenament la nostra llengua en els ecosistemes d'intel·ligència artificial actuals."
+      "title": "Com serà Artemis II, la missió que retorna els humans a la Lluna mig segle després?",
+      "link_id": "c_00600c",
+      "source": "VilaWeb",
+      "date": "2026-04-01",
+      "time": "11:36",
+      "summary": "Quatre astronautes viatjaran a bord de la nau Orion per avaluar els sistemes vitals abans de pròxims allunatges."
     },
     {
-      "title": "Qui hi ha rere cada SMS? Creen una nova eina per evitar les estafes de missatgeria",
-      "link_id": "c_25ef19",
-      "source": "Ara.cat",
+      "title": "Apple compleix 50 anys: el llarg camí de reinventar la tecnologia fins al cim",
+      "link_id": "c_c97a70",
+      "source": "El Nacional.cat",
+      "date": "2026-04-01",
+      "time": "10:24",
+      "summary": "L'empresa de Cupertino assoleix el mig segle consolidada com un gegant tecnològic, superant crisis i transformant els hàbits digitals."
+    },
+    {
+      "title": "Mig segle mossegant el futur",
+      "link_id": "c_c76406",
+      "source": "La Vanguardia (en català)",
       "date": "2026-03-30",
-      "time": "11:26",
-      "summary": "La CNMC impulsa un registre d'àlies per verificar els remitents i protegir els usuaris davant l'augment del frau telefònic."
+      "time": "04:22",
+      "summary": "Des dels seus inicis al garatge de Jobs, la marca ha revolucionat la informàtica personal i la telefonia mòbil."
     },
     {
-      "title": "Una aplicació similar a ‘La Meva Salut’ farà de finestreta única de la comunitat educativa",
-      "link_id": "c_565b86",
-      "source": "El Mon.cat Societat",
-      "date": "2026-03-29",
-      "time": "10:03",
-      "summary": "Educació invertirà 18 milions d'euros per simplificar tràmits i unificar la gestió administrativa en una sola plataforma digital."
+      "title": "El primer 'hub' públic de Barcelona de recàrrega ultraràpida permetrà endollar 300 vehicles al dia",
+      "link_id": "c_30e39c",
+      "source": "Via Empresa",
+      "date": "2026-04-01",
+      "time": "13:00",
+      "summary": "Aquesta instal·lació pionera a l'Estat començarà a construir-se a l'estiu per impulsar la mobilitat sostenible a la capital catalana."
+    },
+    {
+      "title": "Barcelona tindrà un hub de recàrrega ultraràpida per a vehicles elèctrics a la Vall d'Hebron",
+      "link_id": "c_af036b",
+      "source": "El Nacional.cat",
+      "date": "2026-04-01",
+      "time": "12:42",
+      "summary": "El nou espai oferirà càrregues ràpides que facilitaran l'ús diari del cotxe elèctric als conductors de l'àrea metropolitana."
+    },
+    {
+      "title": "El DNI digital ja és una realitat: què podràs fer a partir d’ara?",
+      "link_id": "c_57a2bc",
+      "source": "Lleida Diari",
+      "date": "2026-04-01",
+      "time": "11:19",
+      "summary": "L'aplicació oficial MiDNI permetrà als ciutadans identificar-se legalment des del telèfon, simplificant enormement els tràmits amb l'administració pública."
+    },
+    {
+      "title": "Austràlia no pot aplicar el veto a les xarxes als menors i acusa les plataformes",
+      "link_id": "c_43e0e4",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-04-01",
+      "time": "05:45",
+      "summary": "El govern australià denuncia que les grans tecnològiques no apliquen els filtres necessaris per bloquejar l'accés als menors d'edat."
     },
     {
       "title": "L’aparell de diagnòstic de càncer de pulmó més avançat és a Barcelona",
@@ -42,47 +74,15 @@
       "source": "La Vanguardia (en català)",
       "date": "2026-03-30",
       "time": "05:27",
-      "summary": "L'Hospital del Mar incorpora un ecobroncoscopi pioner a l'Estat que millorarà significativament la precisió en la detecció oncològica."
+      "summary": "L'Hospital del Mar incorpora un ecobroncoscopi pioner que permetrà detectar tumors respiratoris amb molta més precisió i rapidesa."
     },
     {
-      "title": "Alerta per risc d’incendi en més de 40.000 vehicles microhíbrids per un error de fabricació",
-      "link_id": "c_80c374",
-      "source": "Betevé",
-      "date": "2026-03-31",
-      "time": "09:52",
-      "summary": "L'OCU adverteix els conductors d'una fallada perillosa detectada en diversos models fabricats entre el 2023 i el 2026."
-    },
-    {
-      "title": "Una app per a gent gran impulsa l’envelliment actiu al Pirineu",
-      "link_id": "c_092040",
-      "source": "Lleida Diari",
-      "date": "2026-03-30",
-      "time": "12:09",
-      "summary": "El projecte comunitari 'Oliana t’acompanya' utilitza la tecnologia per combatre la solitud no volguda i fomentar la cohesió social."
-    },
-    {
-      "title": "Noruega aparta les tauletes per salvar la democràcia amb llibres",
-      "link_id": "c_0db339",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-03-31",
-      "time": "06:00",
-      "summary": "El país nòrdic replanteja l'ús de pantalles a les aules per fomentar la lectura tradicional i l'esperit crític."
-    },
-    {
-      "title": "La UB impulsa XipScope, una 'spin-off' que transforma la microscòpia amb dispositius de butxaca i IA",
-      "link_id": "c_9bbdf3",
-      "source": "Via Empresa",
-      "date": "2026-03-31",
-      "time": "13:23",
-      "summary": "Aquesta nova empresa emergent democratitza la recerca científica amb equips portàtils, autònoms i potenciats per intel·ligència artificial."
-    },
-    {
-      "title": "OpenAI tanca Sora sis mesos després del seu llançament i reorienta la seva estratègia cap a ChatGPT",
-      "link_id": "c_5eb3fb",
-      "source": "MetaData",
-      "date": "2026-03-26",
-      "time": "15:30",
-      "summary": "L'empresa abandona temporalment la generació de vídeo per centrar els seus esforços en els models conversacionals i la robòtica."
+      "title": "Frec: quan la intel·ligència artificial comença a interactuar amb eines i serveis en català",
+      "link_id": "c_ee7130",
+      "source": "Accent Obert",
+      "date": "2026-03-27",
+      "time": "14:27",
+      "summary": "L'evolució dels models lingüístics obre noves oportunitats per integrar plenament la llengua catalana en les aplicacions tecnològiques quotidianes."
     }
   ]
 }

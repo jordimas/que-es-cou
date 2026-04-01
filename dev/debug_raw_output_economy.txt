@@ -1,88 +1,88 @@
 {
-  "generated_at": "2024-05-24T16:30",
+  "generated_at": "2024-05-24T18:30",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Microsoft s'enfronta a una investigació del regulador britànic pel seu programari empresarial",
-      "link_id": "c_9d3bef",
-      "source": "Financial Times",
-      "date": "2026-03-31",
-      "time": "11:00",
-      "summary": "La CMA avaluarà si el gegant tecnològic nord-americà hauria de rebre l'estatus de mercat estratègic per evitar pràctiques monopolístiques."
-    },
-    {
-      "title": "Per què l'escassetat d'heli és important per als fabricants de xips",
-      "link_id": "c_c38af9",
-      "source": "Financial Times",
-      "date": "2026-03-31",
-      "time": "11:00",
-      "summary": "La guerra al Pròxim Orient evidencia un nou coll d'ampolla crític que amenaça la cadena de subministrament global de semiconductors."
-    },
-    {
-      "title": "Els EUA pressionen el Regne Unit i els aliats per assegurar les cadenes de subministrament quàntiques",
-      "link_id": "c_dd3130",
-      "source": "Financial Times",
-      "date": "2026-03-31",
-      "time": "10:00",
-      "summary": "Washington busca la cooperació britànica per protegir aquesta tecnologia clau enmig de tensions per un pacte tecnològic més ampli."
-    },
-    {
-      "title": "Els beneficis de Raspberry Pi es disparen gràcies a l'auge de la intel·ligència artificial",
-      "link_id": "c_0cf9e9",
-      "source": "Financial Times",
-      "date": "2026-03-31",
-      "time": "08:25",
-      "summary": "L'empresa britànica experimenta un fort creixement de vendes, impulsat especialment per la gran demanda a la Xina i els EUA."
-    },
-    {
-      "title": "Nebius desvela plans per construir una de les fàbriques d'IA més grans d'Europa",
-      "link_id": "c_8c9650",
+      "title": "OpenAI tanca una ronda de finançament rècord de 122.000 milions de dòlars mentre creix l'expectació per la seva sortida a borsa",
+      "link_id": "c_f08d56",
       "source": "CNBC Technology",
       "date": "2026-03-31",
-      "time": "08:15",
-      "summary": "El continent accelera la creació d'infraestructures clau per satisfer la creixent necessitat de potència computacional davant l'auge tecnològic."
+      "time": "21:08",
+      "summary": "La creadora de ChatGPT capta fons d'inversors minoristes per primer cop, assolint una xifra històrica abans de cotitzar."
     },
     {
-      "title": "L'empresa de xips d'IA Rebellions, amb el suport de Samsung, capta 400 milions de dòlars",
-      "link_id": "c_b614c8",
+      "title": "Les accions de Marvell es disparen un 13% després que Nvidia n'adquireixi una participació de 2.000 milions",
+      "link_id": "c_ec03b0",
       "source": "CNBC Technology",
       "date": "2026-03-31",
-      "time": "07:38",
-      "summary": "La companyia es prepara per sortir a borsa i desafiar el domini d'Nvidia en el mercat d'inferència d'intel·ligència artificial."
+      "time": "20:03",
+      "summary": "Aquesta inversió estratègica busca accelerar els sistemes de centres de dades mitjançant la fotònica de silici."
     },
     {
-      "title": "La start-up britànica de xips Fractile busca captar 200 milions de dòlars per desafiar Nvidia",
-      "link_id": "c_fcafb8",
+      "title": "La recuperació de Huawei perd ritme per la davallada dels telèfons i el núvol",
+      "link_id": "c_e5b3ee",
       "source": "Financial Times",
       "date": "2026-03-31",
-      "time": "04:00",
-      "summary": "Aquesta empresa emergent s'uneix a un grup creixent de companyies del Regne Unit que desenvolupen processadors d'IA més ràpids."
+      "time": "15:43",
+      "summary": "El conglomerat tecnològic xinès registra el creixement d'ingressos més lent dels últims tres anys, quedant per darrere dels rivals."
     },
     {
-      "title": "Els pirates informàtics de l'Iran van a la guerra",
-      "link_id": "c_4919e4",
+      "title": "L'Iran amenaça d'atacar Nvidia, Apple i altres gegants tecnològics",
+      "link_id": "c_85ebc4",
+      "source": "CNBC Technology",
+      "date": "2026-04-01",
+      "time": "10:28",
+      "summary": "La Guàrdia Revolucionària adverteix les empreses amb operacions a l'Orient Mitjà que seran considerades objectius legítims."
+    },
+    {
+      "title": "Les accions de la xinesa Zhipu es disparen un 35% en duplicar ingressos al seu primer balanç",
+      "link_id": "c_3dd5e9",
+      "source": "CNBC Technology",
+      "date": "2026-04-01",
+      "time": "09:02",
+      "summary": "L'empresa d'intel·ligència artificial mostra un fort creixement financer en els seus primers resultats després de sortir a borsa."
+    },
+    {
+      "title": "Els robotaxis de Baidu s'aturen enmig del trànsit i provoquen accidents a Wuhan",
+      "link_id": "c_50de51",
+      "source": "CNBC Technology",
+      "date": "2026-04-01",
+      "time": "08:45",
+      "summary": "Els vehicles autònoms Apollo Go van causar almenys una col·lisió a l'autopista després de bloquejar-se sobtadament."
+    },
+    {
+      "title": "La història oculta darrere el poder de fabricació d'Apple",
+      "link_id": "c_e96f19",
       "source": "Financial Times",
-      "date": "2026-03-31",
+      "date": "2026-04-01",
       "time": "04:00",
-      "summary": "Els operatius cibernètics de Teheran intensifiquen els atacs contra Israel i els EUA per extreure intel·ligència i sembrar la por."
+      "summary": "Un curs de gestió al Japó de postguerra va inspirar l'obsessió de Steve Jobs per la qualitat."
     },
     {
-      "title": "Un important promotor energètic adverteix sobre la sobreconstrucció de subministraments elèctrics per a la IA",
-      "link_id": "c_0a9eda",
+      "title": "L'estat alemany que intenta alliberar-se de Microsoft",
+      "link_id": "c_c1d581",
       "source": "Financial Times",
-      "date": "2026-03-31",
+      "date": "2026-04-01",
       "time": "04:00",
-      "summary": "David Crane defensa que els centres de dades han d'assumir els costos de la infraestructura que exigeix la seva demanda."
+      "summary": "Schleswig-Holstein lidera un experiment europeu per posar fi a la dependència tecnològica dels gegants nord-americans."
     },
     {
-      "title": "El gegant indi Airtel capta 1.000 milions de dòlars per a centres de dades",
-      "link_id": "c_fca991",
+      "title": "Microsoft tanca el pitjor trimestre a Wall Street des del 2008 pels dubtes sobre la IA",
+      "link_id": "c_9a8e80",
       "source": "CNBC Technology",
       "date": "2026-03-31",
-      "time": "03:51",
-      "summary": "L'operació amb Carlyle i altres fons evidencia el creixent interès global pel sector de les infraestructures digitals a l'Índia."
+      "time": "22:06",
+      "summary": "Els inversors redueixen el múltiple de beneficis de l'empresa al nivell més baix des de finals del 2022."
+    },
+    {
+      "title": "La repressió d'Apple contra les aplicacions d'IA la situa al costat equivocat de la història",
+      "link_id": "c_3f8058",
+      "source": "CNBC Technology",
+      "date": "2026-03-31",
+      "time": "21:34",
+      "summary": "L'empresa contradiu la seva missió fundacional en obstaculitzar el desenvolupament de codi mitjançant intel·ligència artificial."
     }
   ]
 }
