@@ -13,7 +13,7 @@ For catalunya category, select up to 10 articles of news stories published follo
 - Discard any article which is not in Catalan language
 - Prioritize stories covered by multiple sources
 - Prioritize stories with impact for society and end-users
-- If there are multiple articles that are very similar, select only the most recent one based on pubDate
+- If multiple articles cover the same news event or topic, keep only one: prefer the most recent by pubDate; if dates are equal, keep the one that appears first in the input. Discard all others.
 - Hard limit: never include more than 3 articles from the same source, skip any further articles from that source.
 - As a final tiebreaker, prefer the article that appears first in the input.
 - It is OK if fewer than 10 articles are selected
@@ -28,7 +28,7 @@ For catalunya category, select up to 10 articles of news stories published follo
 - "summary" must be 20 words or fewer, written in Catalan. Count the words carefully — if it exceeds 20 words, shorten it. This limit is strict.
 - "link_id" must be the exact value of the `link_id` field from the feed item. Never derive, reconstruct, or infer a link_id.
 - "source" is the publication name (e.g. "Ara.cat")
-- "date" is the article's publication date in YYYY-MM-DD format, taken from the RSS <pubDate> or <dc:date> tag. Never infer the date from context.
+- "date" is the article's publication date in YYYY-MM-DD format, taken from the pubDate. Never infer the date from context.
 - "time" is the article's publication time in HH:MM format (24h), taken from the same tag. Use "00:00" if not present.
 - Output nothing except the JSON object — no markdown, no code fences, no explanation, no HTML, no trailing text
 - The JSON must strictly follow this schema:
