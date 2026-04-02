@@ -1,24 +1,80 @@
 {
-  "generated_at": "2026-04-01T19:50",
+  "generated_at": "2024-05-24T18:50",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "La presentació de SpaceX inicia el procés de sortida a borsa més gran de la història",
+      "title": "Les accions de Globalstar es disparen un 15% per la possible adquisició d'Amazon",
+      "link_id": "c_a230f5",
+      "source": "CNBC Technology",
+      "date": "2026-04-01",
+      "time": "23:58",
+      "summary": "L'acord impulsaria el servei d'internet per satèl·lit d'Amazon, competint directament amb Starlink d'Elon Musk."
+    },
+    {
+      "title": "La sol·licitud de SpaceX inicia el procés de sortida a borsa més gran de la història",
       "link_id": "c_f357f8",
       "source": "Financial Times",
       "date": "2026-04-01",
-      "time": "17:31",
-      "summary": "L'empresa d'Elon Musk prepara una cotització rècord per a l'estiu amb una valoració multimilionària."
+      "time": "21:30",
+      "summary": "L'empresa d'Elon Musk busca una valoració rècord d'1,75 bilions de dòlars per a la seva estrena estival."
     },
     {
-      "title": "Intel tanca un acord de 14.000 milions de dòlars amb Apollo per recuperar la planta de xips irlandesa",
-      "link_id": "c_aa1561",
-      "source": "Financial Times",
+      "title": "Les accions d'Intel pugen un 9% després de recomprar la seva fàbrica de xips a Irlanda",
+      "link_id": "c_27fcc4",
+      "source": "CNBC Technology",
       "date": "2026-04-01",
-      "time": "14:29",
-      "summary": "El fabricant de semiconductors recupera el control total de la fàbrica per reforçar la seva capacitat de producció europea."
+      "time": "20:02",
+      "summary": "La companyia inverteix 14.200 milions de dòlars per recuperar el control total de la planta i reforçar les finances."
+    },
+    {
+      "title": "Poolside busca socis per a centres de dades després de fracassar l'acord amb CoreWeave",
+      "link_id": "c_ad167a",
+      "source": "Financial Times",
+      "date": "2026-04-02",
+      "time": "04:00",
+      "summary": "La start-up d'IA negocia amb Google per reactivar el seu ambiciós projecte de dos gigawatts a Texas."
+    },
+    {
+      "title": "El personal de l'NHS boicoteja la plataforma de dades de Palantir per preocupacions ètiques",
+      "link_id": "c_d9cfe7",
+      "source": "Financial Times",
+      "date": "2026-04-02",
+      "time": "04:00",
+      "summary": "Els sanitaris rebutgen el contracte de 330 milions de lliures atorgat a la polèmica empresa tecnològica nord-americana."
+    },
+    {
+      "title": "Com Apple va fusionar l'artesania japonesa amb l'escala xinesa",
+      "link_id": "c_3efab3",
+      "source": "Financial Times",
+      "date": "2026-04-02",
+      "time": "04:00",
+      "summary": "La combinació de la indústria nipona i la capacitat de fabricació xinesa ha estat clau per a l'èxit tecnològic."
+    },
+    {
+      "title": "Els ingressos al núvol de Huawei van caure el 2025 pel retard de la IA xinesa",
+      "link_id": "c_8e1080",
+      "source": "CNBC Technology",
+      "date": "2026-04-02",
+      "time": "02:33",
+      "summary": "El gegant de les telecomunicacions pateix davant l'avantatge dels seus competidors nord-americans en intel·ligència artificial."
+    },
+    {
+      "title": "Franklin Templeton adquireix una firma d'actius digitals per impulsar la gestió de criptomonedes",
+      "link_id": "c_0d0964",
+      "source": "CNBC Technology",
+      "date": "2026-04-01",
+      "time": "23:35",
+      "summary": "La compra de 250 Digital reforça la nova unitat de l'empresa per expandir-se en el mercat criptogràfic."
+    },
+    {
+      "title": "Els acomiadaments d'Oracle ajudaran a reduir costos, segons els analistes",
+      "link_id": "c_01387f",
+      "source": "CNBC Technology",
+      "date": "2026-04-01",
+      "time": "21:17",
+      "summary": "La retallada de milers de llocs de treball alliberarà capital per invertir massivament en centres de dades d'IA."
     },
     {
       "title": "Cinc preguntes clau que afronta Apple en entrar al seu segon mig segle",
@@ -26,63 +82,7 @@
       "source": "CNBC Technology",
       "date": "2026-04-01",
       "time": "16:40",
-      "summary": "En el seu cinquantè aniversari, la companyia tecnològica ha de resoldre reptes sobre lideratge, intel·ligència artificial i prestigi."
-    },
-    {
-      "title": "Franklin Templeton adquireix una empresa d'inversió en actius digitals per impulsar la gestió de criptomonedes",
-      "link_id": "c_0d0964",
-      "source": "CNBC Technology",
-      "date": "2026-04-01",
-      "time": "16:27",
-      "summary": "La gestora de fons compra 250 Digital per consolidar la seva nova divisió i expandir-se en el mercat criptogràfic."
-    },
-    {
-      "title": "Els acomiadaments d'Oracle ajudaran a reduir costos, segons els analistes",
-      "link_id": "c_01387f",
-      "source": "CNBC Technology",
-      "date": "2026-04-01",
-      "time": "15:08",
-      "summary": "La retallada de milers de llocs de treball permetrà finançar la construcció de nous centres de dades per a IA."
-    },
-    {
-      "title": "L'Iran amenaça Nvidia, Apple i altres gegants tecnològics amb atacs",
-      "link_id": "c_85ebc4",
-      "source": "CNBC Technology",
-      "date": "2026-04-01",
-      "time": "14:37",
-      "summary": "La Guàrdia Revolucionària adverteix les empreses amb operacions al Pròxim Orient que seran considerades objectius legítims en el conflicte."
-    },
-    {
-      "title": "La startup de vaixells autònoms Saronic capta 1.750 milions de dòlars per modernitzar l'exèrcit dels EUA",
-      "link_id": "c_5e4e07",
-      "source": "CNBC Technology",
-      "date": "2026-04-01",
-      "time": "14:06",
-      "summary": "Aquesta nova ronda de finançament duplica la valoració de l'empresa, impulsant el desenvolupament de tecnologia naval no tripulada."
-    },
-    {
-      "title": "Les accions del \"tigre\" xinès de la IA Zhipu es disparen un 35% en duplicar els ingressos",
-      "link_id": "c_3dd5e9",
-      "source": "CNBC Technology",
-      "date": "2026-04-01",
-      "time": "09:02",
-      "summary": "L'empresa tecnològica sorprèn els inversors amb un creixement rècord en els seus primers resultats financers després de cotitzar."
-    },
-    {
-      "title": "Els robotaxis de Baidu s'aturen enmig del trànsit i causen accidents a Wuhan, Xina",
-      "link_id": "c_50de51",
-      "source": "CNBC Technology",
-      "date": "2026-04-01",
-      "time": "08:45",
-      "summary": "Una fallada en els vehicles autònoms d'Apollo Go provoca col·lisions a les carreteres, generant preocupació sobre la seva seguretat."
-    },
-    {
-      "title": "La història oculta darrere el poder de fabricació d'Apple",
-      "link_id": "c_e96f19",
-      "source": "Financial Times",
-      "date": "2026-04-01",
-      "time": "04:00",
-      "summary": "Un curs de gestió al Japó de postguerra va inspirar l'obsessió de Steve Jobs per la qualitat i l'eficiència."
+      "summary": "En fer 50 anys, l'empresa s'enfronta a reptes sobre successió, intel·ligència artificial i el manteniment del seu prestigi."
     }
   ]
 }

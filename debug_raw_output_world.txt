@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-04-01T19:50",
+  "generated_at": "2026-04-02T09:59",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Apple celebra el seu 50è aniversari de set maneres",
-      "link_id": "c_5963c5",
-      "source": "MacRumors",
-      "date": "2026-04-01",
-      "time": "07:02",
-      "summary": "La companyia commemora el seu mig segle amb una web animada, regals per als empleats i un concert exclusiu."
-    },
-    {
-      "title": "La filtració de Claude Code suggereix que Anthropic treballa en un mode 'Proactiu'",
-      "link_id": "c_473937",
-      "source": "Engadget",
-      "date": "2026-04-01",
-      "time": "15:01",
-      "summary": "Una filtració del codi font ha revelat funcions inèdites, incloent-hi un mode proactiu que permet a la IA programar autònomament."
-    },
-    {
-      "title": "Aquests són els 4 astronautes de l'Artemis II que lideren l'històric retorn a la Lluna",
-      "link_id": "c_8d339d",
-      "source": "Wired",
-      "date": "2026-04-01",
-      "time": "10:00",
-      "summary": "La tripulació inclou la primera dona, la primera persona negra i el primer no estatunidenc a viatjar a l'òrbita lunar."
-    },
-    {
-      "title": "SpaceX sol·licita confidencialment sortir a borsa en una operació valorada potencialment en 1,75 bilions de dòlars",
-      "link_id": "c_6c6996",
+      "title": "Anthropic elimina milers de repositoris de GitHub per retirar el seu codi font filtrat per accident",
+      "link_id": "c_21e7c6",
       "source": "TechCrunch",
       "date": "2026-04-01",
-      "time": "15:46",
-      "summary": "L'empresa espacial d'Elon Musk ha contractat 21 bancs per gestionar la que podria ser la sortida a borsa més gran."
+      "time": "22:12",
+      "summary": "L'empresa va esborrar codi massivament després d'una filtració, però els directius van rectificar afirmant que va ser un error."
     },
     {
-      "title": "Apple llançarà pedaços excepcionals per protegir els usuaris d'iOS 18 de l'eina de pirateig DarkSword",
-      "link_id": "c_a0fc0d",
-      "source": "Wired",
-      "date": "2026-04-01",
-      "time": "00:49",
-      "summary": "Apple publica una actualització de seguretat crítica per a iPhones antics per evitar atacs silenciosos d'un nou exploit perillós."
+      "title": "SpaceX d'Elon Musk sortirà a borsa amb una valoració d'un bilió de dòlars",
+      "link_id": "c_48596b",
+      "source": "BBC Technology",
+      "date": "2026-04-02",
+      "time": "07:05",
+      "summary": "Aquesta sortida a borsa podria ser històrica i convertir Musk en el primer bilionari del món."
     },
     {
-      "title": "OpenAI recapta 3.000 milions de dòlars d'inversors minoristes en una ronda de finançament rècord de 122.000 milions",
-      "link_id": "c_6b1b3a",
+      "title": "Enlairament: L'Artemis II de la NASA ja és a l'espai, el primer viatge humà a la Lluna en 50 anys",
+      "link_id": "c_029a1f",
+      "source": "CNET",
+      "date": "2026-04-02",
+      "time": "05:49",
+      "summary": "Quatre astronautes han iniciat un viatge històric de deu dies que els portarà a orbitar el satèl·lit terrestre."
+    },
+    {
+      "title": "Apple llança un pedaç de seguretat per a iPhones i iPads antics contra els atacs DarkSword",
+      "link_id": "c_08d771",
       "source": "TechCrunch",
-      "date": "2026-03-31",
-      "time": "21:25",
-      "summary": "El laboratori d'IA assoleix una valoració de 852.000 milions de dòlars gràcies a inversions massives d'Amazon i Nvidia."
-    },
-    {
-      "title": "Google crea una polsera Fitbit sense pantalla i Steph Curry ja la porta",
-      "link_id": "c_68e95f",
-      "source": "9to5Google",
       "date": "2026-04-01",
-      "time": "00:35",
-      "summary": "Google desenvolupa una polsera d'activitat sense pantalla impulsada per la IA Gemini per competir amb Whoop, mostrada per Steph Curry."
+      "time": "19:02",
+      "summary": "L'actualització protegeix els dispositius que no poden instal·lar iOS 26 d'una perillosa eina de pirateria informàtica."
     },
     {
-      "title": "Salesforce anuncia una renovació de Slack basada en IA amb 30 noves funcions",
-      "link_id": "c_faf717",
+      "title": "El Kia EV3 totalment elèctric del 2027 arribarà als Estats Units a finals d'any",
+      "link_id": "c_be96ef",
+      "source": "CNET",
+      "date": "2026-04-02",
+      "time": "03:00",
+      "summary": "Aquest SUV compacte i assequible oferirà fins a 515 quilòmetres d'autonomia, democratitzant l'accés als vehicles elèctrics."
+    },
+    {
+      "title": "Meta alerta els usuaris d'iPhone que van descarregar una versió de WhatsApp amb programari espia",
+      "link_id": "c_7e3b11",
+      "source": "9to5Mac",
+      "date": "2026-04-01",
+      "time": "21:42",
+      "summary": "Uns 200 usuaris van ser enganyats per instal·lar una aplicació falsa creada per una empresa de vigilància italiana."
+    },
+    {
+      "title": "Una \"fallada del sistema\" paralitza els robotaxis de Baidu a la Xina",
+      "link_id": "c_46415d",
       "source": "TechCrunch",
-      "date": "2026-03-31",
-      "time": "22:46",
-      "summary": "Slackbot es transforma en un agent empresarial capaç de prendre notes de reunions i executar tasques en eines de tercers."
+      "date": "2026-04-01",
+      "time": "21:12",
+      "summary": "Desenes de passatgers van quedar atrapats fins a dues hores als vehicles autònoms a causa d'una avaria massiva."
     },
     {
-      "title": "L'Iran amenaça d'atacar les principals empreses tecnològiques dels Estats Units l'1 d'abril",
-      "link_id": "c_9aaa83",
-      "source": "Wired",
-      "date": "2026-03-31",
-      "time": "21:25",
-      "summary": "La Guàrdia Revolucionària Islàmica adverteix els empleats d'empreses com Apple, Google i Microsoft que evacuïn les oficines del Pròxim Orient."
+      "title": "Adeu als noms d'usuari vergonyosos? Els usuaris de Gmail ja poden canviar la seva adreça",
+      "link_id": "c_892874",
+      "source": "NYT Technology",
+      "date": "2026-04-01",
+      "time": "22:14",
+      "summary": "Google permetrà modificar l'adreça de correu electrònic sense perdre cap dada, començant pels usuaris dels Estats Units."
     },
     {
-      "title": "Google ara permet canviar la teva adreça de Gmail. Descobreix com fer-ho",
-      "link_id": "c_2027ad",
-      "source": "Wired",
-      "date": "2026-03-31",
-      "time": "17:51",
-      "summary": "Els usuaris nord-americans finalment poden actualitzar les seves adreces de correu electrònic sense perdre dades, convertint l'antiga en un àlies."
+      "title": "Acomiadaments massius a Oracle comunicats per correu electrònic de matinada",
+      "link_id": "c_aa0593",
+      "source": "The Register",
+      "date": "2026-04-01",
+      "time": "21:55",
+      "summary": "L'empresa tecnològica ha retallat milers de llocs de treball per compensar la seva forta inversió en intel·ligència artificial."
+    },
+    {
+      "title": "Hasbro pateix un ciberatac i el creador de Peppa Pig avisa que la recuperació trigarà setmanes",
+      "link_id": "c_092794",
+      "source": "The Next Web",
+      "date": "2026-04-01",
+      "time": "17:10",
+      "summary": "El gegant de les joguines ha detectat accessos no autoritzats que podrien endarrerir les seves operacions comercials."
     }
   ]
 }
