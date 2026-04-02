@@ -5,117 +5,125 @@
     <link>https://jordimas.github.io/que-es-cou/</link>
     <description>Notícies de tecnologia en català, actualitzades cada 4 hores.</description>
     <language>ca</language>
-    <lastBuildDate>2026-04-02T13:37</lastBuildDate>
+    <lastBuildDate>2026-04-02T20:47</lastBuildDate>
     <atom:link href="https://jordimas.github.io/que-es-cou/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Anthropic elimina milers de repositoris de GitHub per retirar el seu codi font filtrat per accident</title>
-      <link>https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/</guid>
-      <description>L'empresa va qualificar l'acció d'error i va retirar la majoria de les sol·licituds d'eliminació de codi.</description>
-      <author>TechCrunch</author>
-      <pubDate>2026-04-01</pubDate>
-    </item>
-    <item>
-      <title>La missió Artemis II comença el seu viatge de 10 dies al voltant de la Lluna</title>
-      <link>https://www.engadget.com/science/space/the-artemis-ii-mission-has-started-its-10-day-journey-around-the-moon-033412865.html?src=rss</link>
-      <guid isPermaLink="true">https://www.engadget.com/science/space/the-artemis-ii-mission-has-started-its-10-day-journey-around-the-moon-033412865.html?src=rss</guid>
-      <description>Quatre astronautes de la NASA han iniciat un vol històric que establirà les bases per a futures exploracions lunars.</description>
-      <author>Engadget</author>
+      <title>Outlook és un desastre, fins i tot a l'espai</title>
+      <link>https://www.pcworld.com/article/3106024/even-nasa-cant-escape-microsoft-outlook-problems.html</link>
+      <guid isPermaLink="true">https://www.pcworld.com/article/3106024/even-nasa-cant-escape-microsoft-outlook-problems.html</guid>
+      <description>Els astronautes de la missió Artemis II de la NASA experimenten problemes tècnics amb el client de correu de Microsoft.</description>
+      <author>PCWorld</author>
       <pubDate>2026-04-02</pubDate>
     </item>
     <item>
-      <title>SpaceX d'Elon Musk sortirà a borsa amb una valoració d'un bilió de dòlars</title>
-      <link>https://www.bbc.com/news/articles/c2k35lg92dpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/c2k35lg92dpo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>Aquesta oferta pública podria ser una de les més valuoses de la història i convertir Musk en el primer bilionari.</description>
-      <author>BBC Technology</author>
+      <title>Google llança Gemma 4: quatre models de codi obert per a telèfons intel·ligents i estacions de treball</title>
+      <link>https://thenextweb.com/news/google-gemma-4-open-models-apache-2-launch</link>
+      <guid isPermaLink="true">https://thenextweb.com/news/google-gemma-4-open-models-apache-2-launch</guid>
+      <description>Aquesta nova família d'intel·ligència artificial, basada en Gemini 3, destaca per la seva llicència Apache 2.0 i versatilitat.</description>
+      <author>The Next Web</author>
       <pubDate>2026-04-02</pubDate>
     </item>
     <item>
-      <title>Tim Cook afirma que el llançament de l'iPhone és el seu moment preferit del 50è aniversari d'Apple</title>
-      <link>https://www.macrumors.com/2026/04/01/tim-cook-50th-anniversary-interview/</link>
-      <guid isPermaLink="true">https://www.macrumors.com/2026/04/01/tim-cook-50th-anniversary-interview/</guid>
-      <description>El director executiu va repassar prototips històrics i material d'arxiu inèdit per celebrar el mig segle de la companyia.</description>
-      <author>MacRumors</author>
-      <pubDate>2026-04-01</pubDate>
-    </item>
-    <item>
-      <title>Si no tens iOS 26, hauries de descarregar aquesta actualització d'iOS 18 ara mateix</title>
-      <link>https://www.cnet.com/tech/services-and-software/download-this-ios-18-update-now/</link>
-      <guid isPermaLink="true">https://www.cnet.com/tech/services-and-software/download-this-ios-18-update-now/</guid>
-      <description>Apple ha llançat un pedaç de seguretat crític per protegir els dispositius més antics de la perillosa amenaça DarkSword.</description>
-      <author>CNET</author>
-      <pubDate>2026-04-01</pubDate>
-    </item>
-    <item>
-      <title>El pla AI Pro de Google de 20 dòlars mensuals rep un gran augment d'emmagatzematge</title>
-      <link>https://www.engadget.com/ai/googles-20-per-month-ai-pro-plan-just-got-a-big-storage-boost-044502621.html?src=rss</link>
-      <guid isPermaLink="true">https://www.engadget.com/ai/googles-20-per-month-ai-pro-plan-just-got-a-big-storage-boost-044502621.html?src=rss</guid>
-      <description>Els subscriptors gaudiran ara de 5 TB d'espai al núvol sense cap cost addicional, millorant les còpies de seguretat.</description>
-      <author>Engadget</author>
+      <title>Es pensaven que descarregaven el codi de Claude. En lloc d'això, van rebre una forta dosi de programari maliciós</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/02/trojanized_claude_code_leak_github/</link>
+      <guid isPermaLink="true">https://go.theregister.com/feed/www.theregister.com/2026/04/02/trojanized_claude_code_leak_github/</guid>
+      <description>La filtració accidental de l'assistent de programació d'Anthropic ha estat aprofitada per distribuir codi maliciós que roba credencials.</description>
+      <author>The Register</author>
       <pubDate>2026-04-02</pubDate>
     </item>
     <item>
-      <title>El Kia EV3 totalment elèctric del 2027 arribarà als Estats Units a finals d'aquest any</title>
-      <link>https://www.cnet.com/roadshow/pictures/all-electric-2027-kia-ev3-coming-to-america-later-this-year/</link>
-      <guid isPermaLink="true">https://www.cnet.com/roadshow/pictures/all-electric-2027-kia-ev3-coming-to-america-later-this-year/</guid>
-      <description>Aquest SUV compacte i assequible oferirà fins a 320 milles d'autonomia, sent una opció atractiva per als compradors.</description>
-      <author>CNET</author>
+      <title>IBM vol programari Arm als seus servidors centrals per millorar el suport a la IA</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2026/04/02/ibm_arm_software_mainframes_ai_support/</link>
+      <guid isPermaLink="true">https://go.theregister.com/feed/www.theregister.com/2026/04/02/ibm_arm_software_mainframes_ai_support/</guid>
+      <description>L'aliança busca executar càrregues de treball intensives i natives del núvol, ampliant les opcions de maquinari per a les empreses.</description>
+      <author>The Register</author>
       <pubDate>2026-04-02</pubDate>
     </item>
     <item>
-      <title>WhatsApp avisa centenars d'usuaris que van instal·lar una aplicació falsa creada per un fabricant de programari espia</title>
-      <link>https://techcrunch.com/2026/04/01/whatsapp-notifies-hundreds-of-users-who-installed-a-fake-app-that-was-actually-government-spyware/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/04/01/whatsapp-notifies-hundreds-of-users-who-installed-a-fake-app-that-was-actually-government-spyware/</guid>
-      <description>L'empresa va identificar víctimes enganyades per descarregar una versió fraudulenta que en realitat era un programa de vigilància italià.</description>
-      <author>TechCrunch</author>
-      <pubDate>2026-04-01</pubDate>
-    </item>
-    <item>
-      <title>El teu televisor Samsung rep una actualització massiva gratuïta amb Google Cast</title>
-      <link>https://www.androidauthority.com/old-samsung-tv-getting-google-cast-3654364/</link>
-      <guid isPermaLink="true">https://www.androidauthority.com/old-samsung-tv-getting-google-cast-3654364/</guid>
-      <description>L'aplicació Google Photos arriba a les pantalles grans, permetent als usuaris reviure records directament sense necessitat de transmetre'ls.</description>
-      <author>Android Authority</author>
+      <title>Elon Musk està a punt d'estar molt ocupat!</title>
+      <link>https://www.theverge.com/tech/906027/elon-musk-lawsuit-ipo-spacex-tesla</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/906027/elon-musk-lawsuit-ipo-spacex-tesla</guid>
+      <description>SpaceX ha presentat documentació confidencial per sortir a borsa, un moviment que podria convertir-se en una oferta pública històrica.</description>
+      <author>The Verge</author>
       <pubDate>2026-04-02</pubDate>
     </item>
     <item>
-      <title>Hasbro pateix un gran ciberatac: el fabricant de joguines confirma que l'incident ha tombat part dels seus webs</title>
-      <link>https://www.techradar.com/pro/security/hasbro-hit-by-major-cyberattack-toymaker-confirms-unfortunate-incident-takes-down-some-parts-of-its-websites</link>
-      <guid isPermaLink="true">https://www.techradar.com/pro/security/hasbro-hit-by-major-cyberattack-toymaker-confirms-unfortunate-incident-takes-down-some-parts-of-its-websites</guid>
-      <description>L'empresa continua operant, però adverteix que podrien passar diverses setmanes abans que els sistemes es recuperin completament.</description>
+      <title>La resposta de Tim Cook sobre les ulleres intel·ligents d'Apple és una subtil referència a Steve Jobs</title>
+      <link>https://9to5mac.com/2026/04/02/tim-cooks-apple-smart-glasses-answer-is-a-subtle-steve-jobs-callback/</link>
+      <guid isPermaLink="true">https://9to5mac.com/2026/04/02/tim-cooks-apple-smart-glasses-answer-is-a-subtle-steve-jobs-callback/</guid>
+      <description>Durant la celebració del cinquantè aniversari de la companyia, el director executiu va insinuar futurs projectes de realitat augmentada.</description>
+      <author>9to5Mac</author>
+      <pubDate>2026-04-02</pubDate>
+    </item>
+    <item>
+      <title>Google ha duplicat l'emmagatzematge del seu pla AI Pro, superant ChatGPT: així és com es comparen</title>
+      <link>https://www.techradar.com/ai-platforms-assistants/google-has-doubled-its-storage-allowance-for-its-ai-pro-plan-and-its-just-one-upped-chatgpt-heres-how-they-compare</link>
+      <guid isPermaLink="true">https://www.techradar.com/ai-platforms-assistants/google-has-doubled-its-storage-allowance-for-its-ai-pro-plan-and-its-just-one-upped-chatgpt-heres-how-they-compare</guid>
+      <description>Els subscriptors d'aquest servei ara gaudeixen de cinc terabytes d'espai al núvol sense cap increment en el preu mensual.</description>
       <author>TechRadar</author>
       <pubDate>2026-04-02</pubDate>
     </item>
     <item>
-      <title>Les accions de Globalstar es disparen un 15% davant la possible adquisició per part d'Amazon</title>
-      <link>https://www.cnbc.com/2026/04/01/globalstar-stock-pops-15percent-on-report-amazon-is-weighing-an-acquisition.html</link>
-      <guid isPermaLink="true">https://www.cnbc.com/2026/04/01/globalstar-stock-pops-15percent-on-report-amazon-is-weighing-an-acquisition.html</guid>
-      <description>L'acord impulsaria la xarxa d'internet per satèl·lit d'Amazon, intensificant la competència directa amb Starlink d'Elon Musk.</description>
-      <author>CNBC Technology</author>
-      <pubDate>2026-04-01</pubDate>
+      <title>Microsoft s'enfronta als seus rivals d'IA amb tres nous models fundacionals</title>
+      <link>https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/</guid>
+      <description>Aquestes eines de creació pròpia permeten transcriure veu i generar àudio o imatges, competint directament amb OpenAI i Google.</description>
+      <author>TechCrunch</author>
+      <pubDate>2026-04-02</pubDate>
     </item>
     <item>
-      <title>La sol·licitud de SpaceX inicia el procés de sortida a borsa més gran de la història</title>
-      <link>https://www.ft.com/content/c212f37a-031c-4475-b728-da053820a1bb</link>
-      <guid isPermaLink="true">https://www.ft.com/content/c212f37a-031c-4475-b728-da053820a1bb</guid>
-      <description>L'empresa d'Elon Musk prepara el seu debut als mercats per a l'estiu, buscant una valoració rècord al sector aeroespacial.</description>
+      <title>Google converteix la creació de vídeos en una experiència d'un sol clic amb les darreres actualitzacions de Vids</title>
+      <link>https://www.androidauthority.com/google-vids-latest-upgrades-3654492/</link>
+      <guid isPermaLink="true">https://www.androidauthority.com/google-vids-latest-upgrades-3654492/</guid>
+      <description>La plataforma Workspace ara permet personalitzar i dirigir avatars virtuals mitjançant instruccions de text per facilitar les presentacions.</description>
+      <author>Android Authority</author>
+      <pubDate>2026-04-02</pubDate>
+    </item>
+    <item>
+      <title>Amazon estaria en converses per comprar Globalstar, el soci de satèl·lits d'Apple</title>
+      <link>https://www.macrumors.com/2026/04/02/amazon-buy-apple-satellite-partner-globalstar/</link>
+      <guid isPermaLink="true">https://www.macrumors.com/2026/04/02/amazon-buy-apple-satellite-partner-globalstar/</guid>
+      <description>L'adquisició, valorada en nou mil milions de dòlars, impulsaria la xarxa d'Amazon per rivalitzar amb Starlink de SpaceX.</description>
+      <author>MacRumors</author>
+      <pubDate>2026-04-02</pubDate>
+    </item>
+    <item>
+      <title>Amazon negocia la compra de Globalstar per 9.000 milions de dòlars per competir amb Starlink</title>
+      <link>https://www.ft.com/content/abace066-fe93-4ff0-8378-d3c3eb49519c</link>
+      <guid isPermaLink="true">https://www.ft.com/content/abace066-fe93-4ff0-8378-d3c3eb49519c</guid>
+      <description>L'adquisició impulsaria la xarxa d'internet per satèl·lit d'Amazon, buscant retallar distàncies amb el domini espacial d'Elon Musk.</description>
       <author>Financial Times</author>
       <pubDate>2026-04-01</pubDate>
     </item>
     <item>
-      <title>Les accions d'Intel pugen un 9% després de recomprar la seva fàbrica de xips a Irlanda</title>
-      <link>https://www.cnbc.com/2026/04/01/intel-stock-ireland-stake-chip-factory.html</link>
-      <guid isPermaLink="true">https://www.cnbc.com/2026/04/01/intel-stock-ireland-stake-chip-factory.html</guid>
-      <description>La recuperació del control total de la planta per 14.200 milions de dòlars reflecteix una millora financera de l'empresa.</description>
+      <title>Les accions de Tesla cauen més d'un 5% per unes dades d'entregues decebedores</title>
+      <link>https://www.cnbc.com/2026/04/02/tesla-tsla-q1-2026-vehicle-delivery-production.html</link>
+      <guid isPermaLink="true">https://www.cnbc.com/2026/04/02/tesla-tsla-q1-2026-vehicle-delivery-production.html</guid>
+      <description>La forta competència xinesa amb models més econòmics ha impactat negativament en el volum de vendes anual de la companyia.</description>
       <author>CNBC Technology</author>
-      <pubDate>2026-04-01</pubDate>
+      <pubDate>2026-04-02</pubDate>
+    </item>
+    <item>
+      <title>OpenAI adquireix el popular pòdcast tecnològic TBPN</title>
+      <link>https://www.cnbc.com/2026/04/02/openai-acquires-tech-podcast-tbpn.html</link>
+      <guid isPermaLink="true">https://www.cnbc.com/2026/04/02/openai-acquires-tech-podcast-tbpn.html</guid>
+      <description>El programa s'integrarà a l'equip d'estratègia de l'empresa d'intel·ligència artificial, tot i que no s'han revelat els detalls financers.</description>
+      <author>CNBC Technology</author>
+      <pubDate>2026-04-02</pubDate>
+    </item>
+    <item>
+      <title>Microsoft llança un model d'IA de "classe mitjana" davant les limitacions de computació</title>
+      <link>https://www.ft.com/content/e511dfce-555d-4bce-90fd-d09db7529d96</link>
+      <guid isPermaLink="true">https://www.ft.com/content/e511dfce-555d-4bce-90fd-d09db7529d96</guid>
+      <description>L'empresa optimitza recursos actuals mentre prepara la infraestructura necessària per desenvolupar sistemes molt més avançats a finals d'any.</description>
+      <author>Financial Times</author>
+      <pubDate>2026-04-02</pubDate>
     </item>
     <item>
       <title>Poolside busca socis per a centres de dades després de fracassar l'acord amb CoreWeave</title>
       <link>https://www.ft.com/content/24168508-e2a1-447d-b1a0-44a0be0c0550</link>
       <guid isPermaLink="true">https://www.ft.com/content/24168508-e2a1-447d-b1a0-44a0be0c0550</guid>
-      <description>La start-up d'intel·ligència artificial negocia amb Google per salvar el seu projecte energètic de dos gigawatts a Texas.</description>
+      <description>La start-up d'IA negocia amb Google per salvar el seu ambiciós projecte de dos gigawatts a Texas.</description>
       <author>Financial Times</author>
       <pubDate>2026-04-02</pubDate>
     </item>
@@ -123,7 +131,7 @@
       <title>El personal de l'NHS boicoteja la plataforma de dades de Palantir per motius ètics</title>
       <link>https://www.ft.com/content/dbb67083-bd1d-46e9-b196-1438d54c5795</link>
       <guid isPermaLink="true">https://www.ft.com/content/dbb67083-bd1d-46e9-b196-1438d54c5795</guid>
-      <description>Els sanitaris britànics rebutgen l'ús del sistema nord-americà, posant en risc el contracte milionari per gestionar informació de pacients.</description>
+      <description>Els sanitaris britànics rebutgen l'ús del sistema nord-americà, valorat en 330 milions de lliures, per protegir la privacitat dels pacients.</description>
       <author>Financial Times</author>
       <pubDate>2026-04-02</pubDate>
     </item>
@@ -131,7 +139,7 @@
       <title>Com Apple va fusionar l'artesania japonesa amb l'escala xinesa</title>
       <link>https://www.ft.com/content/95fda471-0694-4445-8222-30e09b03887b</link>
       <guid isPermaLink="true">https://www.ft.com/content/95fda471-0694-4445-8222-30e09b03887b</guid>
-      <description>L'èxit de la companyia s'explica per la combinació de la precisió nipona i la capacitat de producció massiva asiàtica.</description>
+      <description>L'èxit tecnològic de la companyia s'explica per la combinació estratègica de la precisió nipona i la capacitat de producció xinesa.</description>
       <author>Financial Times</author>
       <pubDate>2026-04-02</pubDate>
     </item>
@@ -139,7 +147,7 @@
       <title>Els ingressos al núvol de Huawei van caure el 2025 pel retard de la IA xinesa</title>
       <link>https://www.cnbc.com/2026/03/31/huawei-annual-report-2025-cloud-computing-revenue.html</link>
       <guid isPermaLink="true">https://www.cnbc.com/2026/03/31/huawei-annual-report-2025-cloud-computing-revenue.html</guid>
-      <description>La pèrdua de competitivitat davant les alternatives nord-americanes frena el creixement extern del gegant tecnològic en serveis digitals.</description>
+      <description>Tot i la davallada externa, el gegant tecnològic va compensar les xifres gràcies a l'augment del consum dels clients interns.</description>
       <author>CNBC Technology</author>
       <pubDate>2026-04-02</pubDate>
     </item>
@@ -147,23 +155,15 @@
       <title>Franklin Templeton adquireix una firma d'actius digitals per impulsar la gestió de criptomonedes</title>
       <link>https://www.cnbc.com/2026/04/01/franklin-templeton-acquires-digital-assets-investment-firm-in-active-crypto-management-push.html</link>
       <guid isPermaLink="true">https://www.cnbc.com/2026/04/01/franklin-templeton-acquires-digital-assets-investment-firm-in-active-crypto-management-push.html</guid>
-      <description>La compra de 250 Digital reforça la nova divisió de l'empresa, consolidant la seva aposta pel mercat criptogràfic institucional.</description>
+      <description>La compra de 250 Digital reforça la nova divisió Franklin Crypto, consolidant l'aposta de l'empresa pels actius virtuals.</description>
       <author>CNBC Technology</author>
       <pubDate>2026-04-01</pubDate>
     </item>
     <item>
-      <title>Els acomiadaments a Oracle ajudaran a reduir costos, segons els analistes</title>
-      <link>https://www.cnbc.com/2026/04/01/oracle-orcl-stock-layoffs-job-cuts-ai.html</link>
-      <guid isPermaLink="true">https://www.cnbc.com/2026/04/01/oracle-orcl-stock-layoffs-job-cuts-ai.html</guid>
-      <description>La retallada de milers de llocs de treball alliberarà capital per finançar la costosa infraestructura d'intel·ligència artificial.</description>
-      <author>CNBC Technology</author>
-      <pubDate>2026-04-01</pubDate>
-    </item>
-    <item>
-      <title>L'activista de Snap posa en relleu el futur dels drets dels accionistes</title>
-      <link>https://www.ft.com/content/3f34df57-1098-4a6b-9886-f2b1b641b43e</link>
-      <guid isPermaLink="true">https://www.ft.com/content/3f34df57-1098-4a6b-9886-f2b1b641b43e</guid>
-      <description>La manca de dret a vot de les accions cotitzades obre un debat sobre la governança a les tecnològiques.</description>
+      <title>El registre de SpaceX inicia el procés de sortida a borsa més gran de la història</title>
+      <link>https://www.ft.com/content/c212f37a-031c-4475-b728-da053820a1bb</link>
+      <guid isPermaLink="true">https://www.ft.com/content/c212f37a-031c-4475-b728-da053820a1bb</guid>
+      <description>La documentació confidencial presentada als reguladors nord-americans prepara el terreny per a una cotització rècord aquest mateix estiu.</description>
       <author>Financial Times</author>
       <pubDate>2026-04-01</pubDate>
     </item>
@@ -179,23 +179,15 @@
       <title>El DNI digital s’equipara al físic: com el podem instal·lar?</title>
       <link>https://www.vilaweb.cat/noticies/dni-digital-installar-descarregar/</link>
       <guid isPermaLink="true">https://www.vilaweb.cat/noticies/dni-digital-installar-descarregar/</guid>
-      <description>Cal disposar de certificats digitals vigents i un lector de targetes per habilitar aquesta nova identificació electrònica oficial.</description>
+      <description>Per configurar-lo calen certificats digitals vigents i un lector de targetes, tot i que existeixen punts físics habilitats.</description>
       <author>VilaWeb</author>
       <pubDate>2026-04-02</pubDate>
-    </item>
-    <item>
-      <title>Ja no cal portar el DNI a sobre: des d'avui el digital també és vàlid per identificar-se</title>
-      <link>https://www.3cat.cat/3catinfo/ja-no-caldra-portar-el-dni-a-sobre-el-digital-valdra-com-a-identificacio-a-partir-del-2-dabril/noticia/3402132/</link>
-      <guid isPermaLink="true">https://www.3cat.cat/3catinfo/ja-no-caldra-portar-el-dni-a-sobre-el-digital-valdra-com-a-identificacio-a-partir-del-2-dabril/noticia/3402132/</guid>
-      <description>Aquesta mesura facilita els tràmits telemàtics i presencials, agilitzant la relació de la ciutadania amb l'administració mitjançant el telèfon.</description>
-      <author>324.cat</author>
-      <pubDate>2026-03-28</pubDate>
     </item>
     <item>
       <title>L'Artemis 2 s'enlaira amb èxit i ja va camí de la Lluna, 50 anys després: les imatges del llançament històric</title>
       <link>https://www.rac1.cat/internacional/20260402/335729/artemis-2-s-enlaira-amb-exit-cami-lluna-50-anys-imatges-llancament-historic.html</link>
       <guid isPermaLink="true">https://www.rac1.cat/internacional/20260402/335729/artemis-2-s-enlaira-amb-exit-cami-lluna-50-anys-imatges-llancament-historic.html</guid>
-      <description>La nau ha sortit del Centre Espacial Kennedy per orbitar el satèl·lit, marcant una fita històrica per a la humanitat.</description>
+      <description>La nau ha sortit del Centre Espacial Kennedy per orbitar el satèl·lit, marcant una fita històrica per a l'exploració espacial.</description>
       <author>RAC1</author>
       <pubDate>2026-04-02</pubDate>
     </item>
@@ -203,55 +195,63 @@
       <title>La missió Artemis 2 desenganxa cap a la Lluna amb quatre astronautes</title>
       <link>https://www.lavanguardia.com/encatala/20260402/11504603/missio-artemis-2-desenganxa-cap-lluna-amb-quatre-astronautes-ctx.html</link>
       <guid isPermaLink="true">https://www.lavanguardia.com/encatala/20260402/11504603/missio-artemis-2-desenganxa-cap-lluna-amb-quatre-astronautes-ctx.html</guid>
-      <description>La càpsula Orió s'ha situat correctament a l'òrbita terrestre després del llançament del coet SLS sense incidències destacables.</description>
+      <description>El coet SLS ha impulsat la càpsula Orió, iniciant un viatge clau per preparar futurs aterratges lunars tripulats.</description>
       <author>La Vanguardia (en català)</author>
       <pubDate>2026-04-02</pubDate>
     </item>
     <item>
-      <title>S'enlaira amb èxit l'Artemis 2 amb quatre astronautes camí de la Lluna després de 50 anys</title>
-      <link>https://www.3cat.cat/3catinfo/lultima-hora-del-llancament-de-lartemis-2-a-la-lluna-amb-imatges-en-directe/noticia/3402768/</link>
-      <guid isPermaLink="true">https://www.3cat.cat/3catinfo/lultima-hora-del-llancament-de-lartemis-2-a-la-lluna-amb-imatges-en-directe/noticia/3402768/</guid>
-      <description>El viatge durarà deu dies i servirà per preparar futurs allunatges, recuperant l'exploració espacial tripulada més enllà de la Terra.</description>
-      <author>324.cat</author>
-      <pubDate>2026-04-01</pubDate>
-    </item>
-    <item>
-      <title>Wallbox refinança el seu deute deute de 169 milions d'euros</title>
-      <link>https://www.ara.cat/economia/industria/wallbox-refinanca-deute-deute-169-milions-d-euros_1_5696132.html</link>
-      <guid isPermaLink="true">https://www.ara.cat/economia/industria/wallbox-refinanca-deute-deute-169-milions-d-euros_1_5696132.html</guid>
-      <description>La companyia catalana de carregadors elèctrics reestructura el passiu amb una ampliació de capital on participarà la Generalitat.</description>
+      <title>Quasi un de cada quatre cotxes venuts a Catalunya s'endolla</title>
+      <link>https://www.ara.cat/economia/automocio/quasi-quatre-cotxes-venuts-catalunya-s-endolla_1_5696274.html</link>
+      <guid isPermaLink="true">https://www.ara.cat/economia/automocio/quasi-quatre-cotxes-venuts-catalunya-s-endolla_1_5696274.html</guid>
+      <description>Les vendes de vehicles híbrids i elèctrics purs assoleixen el 23,8% del mercat català durant el primer trimestre de l'any.</description>
       <author>Ara.cat</author>
       <pubDate>2026-04-01</pubDate>
     </item>
     <item>
-      <title>Wallbox tanca la reestructuració del seu deute amb un nou venciment el desembre del 2030</title>
-      <link>https://www.viaempresa.cat/empresa/wallbox-tanca-reestructuracio-seu-deute-nou-venciment-desembre-2030_2232763_102.html</link>
-      <guid isPermaLink="true">https://www.viaempresa.cat/empresa/wallbox-tanca-reestructuracio-seu-deute-nou-venciment-desembre-2030_2232763_102.html</guid>
-      <description>L'acord amb els creditors principals permetrà a l'empresa estabilitzar la seva estructura financera i garantir liquiditat pel pla de negoci.</description>
-      <author>Via Empresa</author>
+      <title>Quin estalvi suposa un cotxe elèctric respecte a un de benzina o de gasoil en plena tempesta del petroli</title>
+      <link>https://www.rac1.cat/motor/20260401/335252/quin-estalvi-suposa-cotxe-electric-respecte-gasolina-gasoil-plena-tempesta-petroli-lv.html</link>
+      <guid isPermaLink="true">https://www.rac1.cat/motor/20260401/335252/quin-estalvi-suposa-cotxe-electric-respecte-gasolina-gasoil-plena-tempesta-petroli-lv.html</guid>
+      <description>L'encariment global dels combustibles fòssils accentua l'avantatge econòmic de l'electrificació per als conductors que busquen reduir despeses diàries.</description>
+      <author>RAC1</author>
       <pubDate>2026-04-01</pubDate>
     </item>
     <item>
       <title>Àngel Simón, nou president no executiu d’Indra per la dimissió d’Ángel Escribano</title>
       <link>https://www.vilaweb.cat/noticies/angel-simon-nou-president-indra/</link>
       <guid isPermaLink="true">https://www.vilaweb.cat/noticies/angel-simon-nou-president-indra/</guid>
-      <description>El relleu a la cúpula de la tecnològica reforça la separació de poders entre la presidència i la direcció executiva.</description>
+      <description>L'exdirectiu de La Caixa assumeix el càrrec a proposta de la SEPI, consolidant la reestructuració de la tecnològica espanyola.</description>
       <author>VilaWeb</author>
       <pubDate>2026-04-02</pubDate>
     </item>
     <item>
-      <title>Les vendes de vehicles electrificats es disparen al març un 62%</title>
-      <link>https://www.lavanguardia.com/encatala/20260402/11504131/les-vendes-vehicles-electrificats-disparen-marc-62-ctx.html</link>
-      <guid isPermaLink="true">https://www.lavanguardia.com/encatala/20260402/11504131/les-vendes-vehicles-electrificats-disparen-marc-62-ctx.html</guid>
-      <description>Les matriculacions globals de cotxes superen les xifres prèvies a la pandèmia, consolidant la transició cap a la mobilitat sostenible.</description>
-      <author>La Vanguardia (en català)</author>
+      <title>Ángel Escribano dimiteix com a president d'Indra després de la compra fallida de la seva empresa EME</title>
+      <link>https://www.viaempresa.cat/economia/angel-escribano-dimiteix-com-president-indra-despres-compra-fallida-seva-empresa-eme_2232783_102.html</link>
+      <guid isPermaLink="true">https://www.viaempresa.cat/economia/angel-escribano-dimiteix-com-president-indra-despres-compra-fallida-seva-empresa-eme_2232783_102.html</guid>
+      <description>El fins ara president al·lega desgast personal després que la multinacional frenés l'adquisició de la seva pròpia societat.</description>
+      <author>Via Empresa</author>
       <pubDate>2026-04-02</pubDate>
+    </item>
+    <item>
+      <title>Austràlia no pot aplicar el veto a les xarxes als menors i acusa les plataformes</title>
+      <link>https://www.lavanguardia.com/encatala/20260401/11503681/australia-pot-aplicar-veto-les-xarxes-als-menors-i-acusa-les-plataformes.html</link>
+      <guid isPermaLink="true">https://www.lavanguardia.com/encatala/20260401/11503681/australia-pot-aplicar-veto-les-xarxes-als-menors-i-acusa-les-plataformes.html</guid>
+      <description>El govern australià denuncia la manca de col·laboració tecnològica per fer complir la prohibició d'accés als menors de setze anys.</description>
+      <author>La Vanguardia (en català)</author>
+      <pubDate>2026-04-01</pubDate>
+    </item>
+    <item>
+      <title>El bloqueig de Telegram a Rússia, l'últim pas del Kremlin en la censura a internet</title>
+      <link>https://www.3cat.cat/3catinfo/el-bloqueig-de-telegram-a-russia-lultim-pas-del-kremlin-en-la-censura-a-internet/noticia/3402764/</link>
+      <guid isPermaLink="true">https://www.3cat.cat/3catinfo/el-bloqueig-de-telegram-a-russia-lultim-pas-del-kremlin-en-la-censura-a-internet/noticia/3402764/</guid>
+      <description>La ciutadania russa busca alternatives tecnològiques per evadir les restriccions governamentals i mantenir l'accés a la informació lliure.</description>
+      <author>324.cat</author>
+      <pubDate>2026-04-01</pubDate>
     </item>
     <item>
       <title>Ivoox com exemple de merdificació – Programa 658</title>
       <link>https://mossegalapoma.cat/ivoox-com-exemple-de-merdificacio-programa-658/</link>
       <guid isPermaLink="true">https://mossegalapoma.cat/ivoox-com-exemple-de-merdificacio-programa-658/</guid>
-      <description>Debat sobre com plataformes com iVoox o YouTube prioritzen la monetització agressiva per sobre de l'experiència de l'usuari.</description>
+      <description>Debat sobre com les plataformes digitals prioritzen el negoci i la monetització per sobre de l'experiència de l'usuari.</description>
       <author>Mossega la poma</author>
       <pubDate>2026-03-30</pubDate>
     </item>
@@ -259,15 +259,55 @@
       <title>La música que ens ha marcat la vida – programa 657</title>
       <link>https://mossegalapoma.cat/la-musica-que-ens-ha-marcat-la-vida-programa-657/</link>
       <guid isPermaLink="true">https://mossegalapoma.cat/la-musica-que-ens-ha-marcat-la-vida-programa-657/</guid>
-      <description>Reflexió sobre la creació musical amb IA i el paper clau de Softcatalà en la llengua a internet.</description>
+      <description>Reflexió sobre la creació musical, la intel·ligència artificial i l'impacte de la música descoberta durant l'adolescència.</description>
       <author>Mossega la poma</author>
       <pubDate>2026-03-19</pubDate>
+    </item>
+    <item>
+      <title>L' Altra Ràdio - Les persones que fan servir la llengua de signes catalana poden fer ràdio</title>
+      <link>https://podcasts.cat/36/33915631/</link>
+      <guid isPermaLink="true">https://podcasts.cat/36/33915631/</guid>
+      <description>Presentació de Signària, una eina innovadora amb veu sintètica perquè persones sordes puguin crear contingut radiofònic.</description>
+      <author>L'altra ràdio</author>
+      <pubDate>2026-03-26</pubDate>
+    </item>
+    <item>
+      <title>L' Altra Ràdio - El periodisme i la Guerra del Sudan</title>
+      <link>https://podcasts.cat/36/33892317/</link>
+      <guid isPermaLink="true">https://podcasts.cat/36/33892317/</guid>
+      <description>Anàlisi sobre els riscos del periodisme al Sudan i la creació de mitjans digitals des de l'exili.</description>
+      <author>L'altra ràdio</author>
+      <pubDate>2026-03-19</pubDate>
+    </item>
+    <item>
+      <title>El gòTIC - Tenim una missió! del 25/3/2026</title>
+      <link>https://podcasts.cat/191/33910802/</link>
+      <guid isPermaLink="true">https://podcasts.cat/191/33910802/</guid>
+      <description>Estratègies i recursos pràctics per ajudar la ciutadania a afrontar els grans reptes del món digital actual.</description>
+      <author>El Gòtic</author>
+      <pubDate>2026-03-24</pubDate>
+    </item>
+    <item>
+      <title>El futur de la premsa, de l'educació i el problema de l'accès a les dades obertes</title>
+      <link>https://podcasts.cat/247/33924944/</link>
+      <guid isPermaLink="true">https://podcasts.cat/247/33924944/</guid>
+      <description>Anàlisi dels reptes actuals en l'educació, el periodisme i les dificultats per accedir a dades obertes.</description>
+      <author>Internet amb Genís Roca</author>
+      <pubDate>2026-03-29</pubDate>
+    </item>
+    <item>
+      <title>El futur de la premsa, de l'educació i el problema de l'accès a les dades obertes</title>
+      <link>https://podcasts.cat/247/33923961/</link>
+      <guid isPermaLink="true">https://podcasts.cat/247/33923961/</guid>
+      <description>Reflexió profunda sobre la transformació dels mitjans, el sistema educatiu i la transparència de la informació.</description>
+      <author>Internet amb Genís Roca</author>
+      <pubDate>2026-03-28</pubDate>
     </item>
     <item>
       <title>La gamificació de la renda</title>
       <link>https://rss.com/podcasts/focaterra/2665655</link>
       <guid isPermaLink="true">https://rss.com/podcasts/focaterra/2665655</guid>
-      <description>Anàlisi de l'èxit de subvencions.cat gràcies al vibecoding i una proposta lúdica per fer la declaració de la renda.</description>
+      <description>Repàs sobre subvencions.cat, l'impacte del vibecoding i una proposta curiosa per gamificar la declaració de la renda.</description>
       <author>Foc a Terra</author>
       <pubDate>2026-03-30</pubDate>
     </item>
@@ -275,7 +315,7 @@
       <title>De Catalunya a Silicon Valley, i torna cap a Catalunya, amb Anna Navarro i Descals</title>
       <link>https://rss.com/podcasts/focaterra/2643530</link>
       <guid isPermaLink="true">https://rss.com/podcasts/focaterra/2643530</guid>
-      <description>Repàs a la trajectòria d'Anna Navarro a les grans tecnològiques i el seu salt a la política catalana.</description>
+      <description>Entrevista a Anna Navarro sobre la seva trajectòria a grans tecnològiques i el seu salt a la política.</description>
       <author>Foc a Terra</author>
       <pubDate>2026-03-23</pubDate>
     </item>
@@ -283,7 +323,7 @@
       <title>Tot a punt per a la versió WordPress 7.0</title>
       <link>https://www.wppodcast.cat/podcast/tot-a-punt-per-a-la-versio-wordpress-7-0/</link>
       <guid isPermaLink="true">https://www.wppodcast.cat/podcast/tot-a-punt-per-a-la-versio-wordpress-7-0/</guid>
-      <description>La nova actualització entra a la fase final, centrant-se exclusivament a polir els últims detalls abans del llançament.</description>
+      <description>La nova versió de WordPress entra a la recta final centrant-se a polir els últims detalls tècnics.</description>
       <author>WordPress Pòdcast</author>
       <pubDate>2026-03-31</pubDate>
     </item>
@@ -291,7 +331,7 @@
       <title>WordPress 7.0 beta 6</title>
       <link>https://www.wppodcast.cat/podcast/wordpress-7-0-beta-6/</link>
       <guid isPermaLink="true">https://www.wppodcast.cat/podcast/wordpress-7-0-beta-6/</guid>
-      <description>La fase beta s'allarga per validar la mida de la instal·lació i el nou sistema de temps real.</description>
+      <description>La fase beta continua per validar la mida d'instal·lació i el nou sistema de temps real.</description>
       <author>WordPress Pòdcast</author>
       <pubDate>2026-03-24</pubDate>
     </item>
@@ -299,15 +339,15 @@
       <title>Capítol 61: Niddo, la solució a la logística familiar de parelles separades</title>
       <link>https://traffic.omny.fm/d/clips/47dc05c7-7279-4c6f-9b31-ae74013297d9/d3709a08-7df4-4359-85b0-af0f00b8b4b3/d928bd25-62d8-4f4f-b2d4-b41600d3f9b9/audio.mp3?dist=RSS</link>
       <guid isPermaLink="true">https://traffic.omny.fm/d/clips/47dc05c7-7279-4c6f-9b31-ae74013297d9/d3709a08-7df4-4359-85b0-af0f00b8b4b3/d928bd25-62d8-4f4f-b2d4-b41600d3f9b9/audio.mp3?dist=RSS</guid>
-      <description>Una nova aplicació busca reduir l'estrès de la conciliació en parelles separades centralitzant despeses, horaris i notes escolars.</description>
+      <description>Descobreix una nova aplicació dissenyada per reduir l'estrès i facilitar la conciliació familiar en parelles separades.</description>
       <author>RAC&amp;GO</author>
       <pubDate>2026-03-24</pubDate>
     </item>
     <item>
-      <title>Networking for AI Professionals around the world - April 14</title>
+      <title>Networking per a professionals de la IA d'arreu del món - 14 d'abril</title>
       <link>https://www.meetup.com/ai-professionals-barcelona/events/313981318/</link>
       <guid isPermaLink="true">https://www.meetup.com/ai-professionals-barcelona/events/313981318/</guid>
-      <description>Sessió en línia gratuïta amb xerrada i grups reduïts per connectar amb professionals de la intel·ligència artificial.</description>
+      <description>Sessió interactiva gratuïta i en línia amb xerrada i grups reduïts per connectar amb experts en intel·ligència artificial.</description>
       <author>AI Professionals Barcelona</author>
       <pubDate>2026-03-27</pubDate>
     </item>
@@ -315,7 +355,7 @@
       <title>guardar la música</title>
       <link>https://www.youtube.com/watch?v=53Ug5KCgESs</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=53Ug5KCgESs</guid>
-      <description>Reflexió sobre la preservació digital i com emmagatzemar les nostres cançons preferides per no perdre-les mai.</description>
+      <description>Reflexió sobre la preservació de la música en l'era digital i com emmagatzemar-la correctament.</description>
       <author>Albert Lloreta</author>
       <pubDate>2026-03-25</pubDate>
     </item>
@@ -323,7 +363,7 @@
       <title>A què hem estat jugant aquest març</title>
       <link>https://www.youtube.com/watch?v=MU2T9kaR4B4</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=MU2T9kaR4B4</guid>
-      <description>Repàs mensual dels títols més destacats i les experiències viscudes amb les consoles de Sony durant les últimes setmanes.</description>
+      <description>Repàs mensual dels videojocs més destacats que han provat durant el mes de març.</description>
       <author>Catalunya PlayStation</author>
       <pubDate>2026-03-31</pubDate>
     </item>
@@ -331,7 +371,7 @@
       <title>Els Putxinel·lis - Capítol 6 - La Competència</title>
       <link>https://www.youtube.com/watch?v=5lMEJ3YaVb8</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=5lMEJ3YaVb8</guid>
-      <description>Sisè episodi d'aquesta sèrie on s'exploren noves dinàmiques competitives i reptes inesperats entre els personatges.</description>
+      <description>Sisè episodi d'aquesta sèrie on s'enfronten a nous reptes i rivalitats inesperades.</description>
       <author>Pixelats</author>
       <pubDate>2026-03-19</pubDate>
     </item>
@@ -339,7 +379,7 @@
       <title>Els Putxinel·lis - Capítol 5 - L'amor llunyà</title>
       <link>https://www.youtube.com/watch?v=h_DPLBh1HBs</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=h_DPLBh1HBs</guid>
-      <description>Cinquena entrega centrada en les relacions a distància i els vincles emocionals dins d'aquesta peculiar història.</description>
+      <description>Cinquè capítol de la sèrie, centrat en les relacions a distància i els seus obstacles.</description>
       <author>Pixelats</author>
       <pubDate>2026-03-19</pubDate>
     </item>
@@ -347,7 +387,7 @@
       <title>Els Putxinel·lis - Capítol 4 - Cedeix, però segueix</title>
       <link>https://www.youtube.com/watch?v=1JIuh5sgM4M</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=1JIuh5sgM4M</guid>
-      <description>Quart capítol que aprofundeix en la resiliència i la importància de no rendir-se davant les adversitats.</description>
+      <description>Quart episodi que explora la importància de la perseverança davant les dificultats.</description>
       <author>Pixelats</author>
       <pubDate>2026-03-19</pubDate>
     </item>
@@ -355,7 +395,7 @@
       <title>Els Putxinel·lis - Capítol 3 - Pobre, pobre Toad</title>
       <link>https://www.youtube.com/watch?v=aCrClLDZ7_k</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=aCrClLDZ7_k</guid>
-      <description>Tercera part de la sèrie, on el conegut personatge s'enfronta a situacions còmiques i força desafortunades.</description>
+      <description>Tercer capítol on el conegut personatge Toad pateix una sèrie de desventures còmiques.</description>
       <author>Pixelats</author>
       <pubDate>2026-03-19</pubDate>
     </item>
@@ -363,7 +403,7 @@
       <title>Els Putxinel·lis - Capítol 2 - Negociació Infructuosa</title>
       <link>https://www.youtube.com/watch?v=rrmDfGk5QMA</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=rrmDfGk5QMA</guid>
-      <description>Segon episodi ple de diàlegs tensos i acords fallits que compliquen la trama principal de l'aventura.</description>
+      <description>Segon episodi marcat per intents fallits d'arribar a un acord entre els protagonistes.</description>
       <author>Pixelats</author>
       <pubDate>2026-03-19</pubDate>
     </item>
@@ -371,7 +411,7 @@
       <title>Els Putxinel·lis - Capítol 1 - Benvinguts al meu experiment</title>
       <link>https://www.youtube.com/watch?v=Z23NKn67HM0</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=Z23NKn67HM0</guid>
-      <description>Inici d'aquesta nova sèrie de vídeos on es presenta un concepte innovador i ple de sorpreses.</description>
+      <description>Inici d'aquesta nova sèrie amb la presentació d'un experiment peculiar i intrigant.</description>
       <author>Pixelats</author>
       <pubDate>2026-03-19</pubDate>
     </item>
@@ -379,7 +419,7 @@
       <title>🎙️Lúdica #53 - Paradox Interactive: l’imperi de la gran estratègia</title>
       <link>https://www.youtube.com/watch?v=JrN9HBp5OWc</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=JrN9HBp5OWc</guid>
-      <description>Anàlisi profunda de la companyia sueca i el seu domini absolut en el gènere dels jocs de gestió complexa.</description>
+      <description>Anàlisi profunda de la trajectòria i els jocs d'aquesta reconeguda desenvolupadora d'estratègia.</description>
       <author>Lúdica (Vídeos)</author>
       <pubDate>2026-03-24</pubDate>
     </item>

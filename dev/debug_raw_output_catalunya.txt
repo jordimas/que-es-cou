@@ -1,5 +1,5 @@
 {
-  "generated_at": "2024-05-20T18:45",
+  "generated_at": "2026-04-02T18:47",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [],
@@ -18,15 +18,7 @@
       "source": "VilaWeb",
       "date": "2026-04-02",
       "time": "11:18",
-      "summary": "Cal disposar de certificats digitals vigents i un lector de targetes per habilitar aquesta nova identificació electrònica oficial."
-    },
-    {
-      "title": "Ja no cal portar el DNI a sobre: des d'avui el digital també és vàlid per identificar-se",
-      "link_id": "c_2213c2",
-      "source": "324.cat",
-      "date": "2026-03-28",
-      "time": "14:05",
-      "summary": "Aquesta mesura facilita els tràmits telemàtics i presencials, agilitzant la relació de la ciutadania amb l'administració mitjançant el telèfon."
+      "summary": "Per configurar-lo calen certificats digitals vigents i un lector de targetes, tot i que existeixen punts físics habilitats."
     },
     {
       "title": "L'Artemis 2 s'enlaira amb èxit i ja va camí de la Lluna, 50 anys després: les imatges del llançament històric",
@@ -34,7 +26,7 @@
       "source": "RAC1",
       "date": "2026-04-02",
       "time": "06:40",
-      "summary": "La nau ha sortit del Centre Espacial Kennedy per orbitar el satèl·lit, marcant una fita històrica per a la humanitat."
+      "summary": "La nau ha sortit del Centre Espacial Kennedy per orbitar el satèl·lit, marcant una fita històrica per a l'exploració espacial."
     },
     {
       "title": "La missió Artemis 2 desenganxa cap a la Lluna amb quatre astronautes",
@@ -42,31 +34,23 @@
       "source": "La Vanguardia (en català)",
       "date": "2026-04-02",
       "time": "06:02",
-      "summary": "La càpsula Orió s'ha situat correctament a l'òrbita terrestre després del llançament del coet SLS sense incidències destacables."
+      "summary": "El coet SLS ha impulsat la càpsula Orió, iniciant un viatge clau per preparar futurs aterratges lunars tripulats."
     },
     {
-      "title": "S'enlaira amb èxit l'Artemis 2 amb quatre astronautes camí de la Lluna després de 50 anys",
-      "link_id": "c_73513b",
-      "source": "324.cat",
-      "date": "2026-04-01",
-      "time": "20:40",
-      "summary": "El viatge durarà deu dies i servirà per preparar futurs allunatges, recuperant l'exploració espacial tripulada més enllà de la Terra."
-    },
-    {
-      "title": "Wallbox refinança el seu deute deute de 169 milions d'euros",
-      "link_id": "c_cb2838",
+      "title": "Quasi un de cada quatre cotxes venuts a Catalunya s'endolla",
+      "link_id": "c_8df369",
       "source": "Ara.cat",
       "date": "2026-04-01",
-      "time": "14:27",
-      "summary": "La companyia catalana de carregadors elèctrics reestructura el passiu amb una ampliació de capital on participarà la Generalitat."
+      "time": "16:11",
+      "summary": "Les vendes de vehicles híbrids i elèctrics purs assoleixen el 23,8% del mercat català durant el primer trimestre de l'any."
     },
     {
-      "title": "Wallbox tanca la reestructuració del seu deute amb un nou venciment el desembre del 2030",
-      "link_id": "c_a69fb8",
-      "source": "Via Empresa",
+      "title": "Quin estalvi suposa un cotxe elèctric respecte a un de benzina o de gasoil en plena tempesta del petroli",
+      "link_id": "c_718dce",
+      "source": "RAC1",
       "date": "2026-04-01",
-      "time": "17:07",
-      "summary": "L'acord amb els creditors principals permetrà a l'empresa estabilitzar la seva estructura financera i garantir liquiditat pel pla de negoci."
+      "time": "19:48",
+      "summary": "L'encariment global dels combustibles fòssils accentua l'avantatge econòmic de l'electrificació per als conductors que busquen reduir despeses diàries."
     },
     {
       "title": "Àngel Simón, nou president no executiu d’Indra per la dimissió d’Ángel Escribano",
@@ -74,15 +58,31 @@
       "source": "VilaWeb",
       "date": "2026-04-02",
       "time": "08:12",
-      "summary": "El relleu a la cúpula de la tecnològica reforça la separació de poders entre la presidència i la direcció executiva."
+      "summary": "L'exdirectiu de La Caixa assumeix el càrrec a proposta de la SEPI, consolidant la reestructuració de la tecnològica espanyola."
     },
     {
-      "title": "Les vendes de vehicles electrificats es disparen al març un 62%",
-      "link_id": "c_daf225",
-      "source": "La Vanguardia (en català)",
+      "title": "Ángel Escribano dimiteix com a president d'Indra després de la compra fallida de la seva empresa EME",
+      "link_id": "c_806499",
+      "source": "Via Empresa",
       "date": "2026-04-02",
-      "time": "07:39",
-      "summary": "Les matriculacions globals de cotxes superen les xifres prèvies a la pandèmia, consolidant la transició cap a la mobilitat sostenible."
+      "time": "09:30",
+      "summary": "El fins ara president al·lega desgast personal després que la multinacional frenés l'adquisició de la seva pròpia societat."
+    },
+    {
+      "title": "Austràlia no pot aplicar el veto a les xarxes als menors i acusa les plataformes",
+      "link_id": "c_43e0e4",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-04-01",
+      "time": "05:45",
+      "summary": "El govern australià denuncia la manca de col·laboració tecnològica per fer complir la prohibició d'accés als menors de setze anys."
+    },
+    {
+      "title": "El bloqueig de Telegram a Rússia, l'últim pas del Kremlin en la censura a internet",
+      "link_id": "c_985dfb",
+      "source": "324.cat",
+      "date": "2026-04-01",
+      "time": "21:34",
+      "summary": "La ciutadania russa busca alternatives tecnològiques per evadir les restriccions governamentals i mantenir l'accés a la informació lliure."
     }
   ]
 }
