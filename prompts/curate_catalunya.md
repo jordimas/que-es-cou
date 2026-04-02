@@ -3,12 +3,9 @@ Your task is to execute the following instructions:
 **INPUT DATA**
 
 - Feed data is provided below in this request from raw_feeds_catalunya_filtered.json
-- Do not fetch any URLs yourself. Use only the data provided below.
 - Each feed contains a "fetched_at" timestamp and a "section" object with an "id" and a list of sources.
-  Each source has: name, url, status (ok/blocked/error), optional error_detail, and an items array.
+  Each source has: name, url, and an items array.
   Each item has: title, pubDate, description, link_id.
-- Include ONLY sources with errors or blocked status in sources_checked. Omit sources with status="ok" and articles_found=0.
-- For sources_checked, do NOT include "status" or "error_detail" fields in the output JSON.
 
 **SELECTION CRITERIA**
 
@@ -16,13 +13,13 @@ For catalunya category, select up to 10 articles of news stories published follo
 - Discard any article which is not in Catalan language
 - Prioritize stories covered by multiple sources
 - Prioritize stories with impact for society and end-users
+- If there are multiple articles that are very similar, select only the most recent one based on pubDate
 - Hard limit: never include more than 3 articles from the same source, skip any further articles from that source.
 - As a final tiebreaker, prefer the article that appears first in the input.
 - It is OK if fewer than 10 articles are selected
 
 **OUTPUT FORMAT**
 
-- Exception: If the original headline is already in Catalan (which it should be for this category), keep the exact original headline. Do not rewrite it.
 - Summaries should provide an additional angle to the headline and try not to repeat the same content.
 
 **RULES FOR THE JSON**
@@ -34,7 +31,7 @@ For catalunya category, select up to 10 articles of news stories published follo
 - "date" is the article's publication date in YYYY-MM-DD format, taken from the RSS <pubDate> or <dc:date> tag. Never infer the date from context.
 - "time" is the article's publication time in HH:MM format (24h), taken from the same tag. Use "00:00" if not present.
 - Output nothing except the JSON object — no markdown, no code fences, no explanation, no HTML, no trailing text
-- The JSON must strictly follow this schema (sources_checked includes only sources with errors or blocked status):
+- The JSON must strictly follow this schema:
 
 {
   "generated_at": "YYYY-MM-DDTHH:MM",
