@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-04-02T09:59",
+  "generated_at": "2026-04-02T19:47",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Anthropic elimina milers de repositoris de GitHub per retirar el seu codi font filtrat per accident",
-      "link_id": "c_21e7c6",
-      "source": "TechCrunch",
-      "date": "2026-04-01",
-      "time": "22:12",
-      "summary": "L'empresa va esborrar codi massivament després d'una filtració, però els directius van rectificar afirmant que va ser un error."
-    },
-    {
-      "title": "SpaceX d'Elon Musk sortirà a borsa amb una valoració d'un bilió de dòlars",
-      "link_id": "c_48596b",
-      "source": "BBC Technology",
+      "title": "Els astronautes de la NASA es preparen per a l'impuls final cap a la Lluna",
+      "link_id": "c_94d4f8",
+      "source": "Bloomberg Technology",
       "date": "2026-04-02",
-      "time": "07:05",
-      "summary": "Aquesta sortida a borsa podria ser històrica i convertir Musk en el primer bilionari del món."
+      "time": "16:42",
+      "summary": "La tripulació de l'Artemis II s'acosta a la superfície lunar, marcant una fita històrica després de més de cinquanta anys."
     },
     {
-      "title": "Enlairament: L'Artemis II de la NASA ja és a l'espai, el primer viatge humà a la Lluna en 50 anys",
-      "link_id": "c_029a1f",
-      "source": "CNET",
+      "title": "Un astronauta de l'Artemis II demana ajuda a Houston per un error de Microsoft Outlook",
+      "link_id": "c_b00e3c",
+      "source": "Tom's Hardware",
       "date": "2026-04-02",
-      "time": "05:49",
-      "summary": "Quatre astronautes han iniciat un viatge històric de deu dies que els portarà a orbitar el satèl·lit terrestre."
+      "time": "16:11",
+      "summary": "Un problema informàtic inesperat amb el correu electrònic a la càpsula Orion ha frustrat la tripulació durant el viatge espacial."
     },
     {
-      "title": "Apple llança un pedaç de seguretat per a iPhones i iPads antics contra els atacs DarkSword",
-      "link_id": "c_08d771",
-      "source": "TechCrunch",
-      "date": "2026-04-01",
-      "time": "19:02",
-      "summary": "L'actualització protegeix els dispositius que no poden instal·lar iOS 26 d'una perillosa eina de pirateria informàtica."
-    },
-    {
-      "title": "El Kia EV3 totalment elèctric del 2027 arribarà als Estats Units a finals d'any",
-      "link_id": "c_be96ef",
-      "source": "CNET",
-      "date": "2026-04-02",
-      "time": "03:00",
-      "summary": "Aquest SUV compacte i assequible oferirà fins a 515 quilòmetres d'autonomia, democratitzant l'accés als vehicles elèctrics."
-    },
-    {
-      "title": "Meta alerta els usuaris d'iPhone que van descarregar una versió de WhatsApp amb programari espia",
-      "link_id": "c_7e3b11",
-      "source": "9to5Mac",
-      "date": "2026-04-01",
-      "time": "21:42",
-      "summary": "Uns 200 usuaris van ser enganyats per instal·lar una aplicació falsa creada per una empresa de vigilància italiana."
-    },
-    {
-      "title": "Una \"fallada del sistema\" paralitza els robotaxis de Baidu a la Xina",
-      "link_id": "c_46415d",
-      "source": "TechCrunch",
-      "date": "2026-04-01",
-      "time": "21:12",
-      "summary": "Desenes de passatgers van quedar atrapats fins a dues hores als vehicles autònoms a causa d'una avaria massiva."
-    },
-    {
-      "title": "Adeu als noms d'usuari vergonyosos? Els usuaris de Gmail ja poden canviar la seva adreça",
-      "link_id": "c_892874",
-      "source": "NYT Technology",
-      "date": "2026-04-01",
-      "time": "22:14",
-      "summary": "Google permetrà modificar l'adreça de correu electrònic sense perdre cap dada, començant pels usuaris dels Estats Units."
-    },
-    {
-      "title": "Acomiadaments massius a Oracle comunicats per correu electrònic de matinada",
-      "link_id": "c_aa0593",
+      "title": "Descarreguen el codi font filtrat de Claude i acaben infectats per programari maliciós",
+      "link_id": "c_b028d8",
       "source": "The Register",
-      "date": "2026-04-01",
-      "time": "21:55",
-      "summary": "L'empresa tecnològica ha retallat milers de llocs de treball per compensar la seva forta inversió en intel·ligència artificial."
+      "date": "2026-04-02",
+      "time": "17:34",
+      "summary": "Milers d'usuaris van baixar els arxius d'Anthropic, però molts amagaven un virus dissenyat per robar credencials i dades personals."
     },
     {
-      "title": "Hasbro pateix un ciberatac i el creador de Peppa Pig avisa que la recuperació trigarà setmanes",
-      "link_id": "c_092794",
-      "source": "The Next Web",
+      "title": "Les targetes gràfiques RTX de NVIDIA acceleren els nous models d'IA Gemma 4 de Google",
+      "link_id": "c_1729a4",
+      "source": "PCWorld",
+      "date": "2026-04-02",
+      "time": "17:28",
+      "summary": "Aquesta col·laboració optimitza el rendiment local de la intel·ligència artificial, permetent una execució més ràpida i eficient en ordinadors personals."
+    },
+    {
+      "title": "IBM integrarà programari Arm als seus servidors per potenciar la intel·ligència artificial",
+      "link_id": "c_aeb399",
+      "source": "The Register",
+      "date": "2026-04-02",
+      "time": "16:32",
+      "summary": "L'aliança busca millorar l'eficiència energètica i facilitar l'execució de càrregues de treball intensives en dades als sistemes empresarials."
+    },
+    {
+      "title": "Google duplica l'emmagatzematge del seu pla AI Pro fins als 5 TB sense cost addicional",
+      "link_id": "c_f612c9",
+      "source": "TechRadar",
+      "date": "2026-04-02",
+      "time": "14:00",
+      "summary": "Aquesta millora estratègica busca superar ChatGPT, oferint més espai al núvol per als usuaris de pagament de Gemini."
+    },
+    {
+      "title": "Microsoft desafia els seus rivals amb tres nous models fundacionals d'intel·ligència artificial",
+      "link_id": "c_c12d86",
+      "source": "TechCrunch",
+      "date": "2026-04-02",
+      "time": "16:48",
+      "summary": "Desenvolupats internament, aquests sistemes permeten transcriure veu i generar àudio o imatges, competint directament amb OpenAI i Google."
+    },
+    {
+      "title": "Google transforma la creació de vídeos amb les últimes actualitzacions de l'aplicació Vids",
+      "link_id": "c_74836b",
+      "source": "Android Authority",
+      "date": "2026-04-02",
+      "time": "16:00",
+      "summary": "La nova eina permet personalitzar i dirigir avatars virtuals mitjançant instruccions senzilles, facilitant la producció de contingut audiovisual."
+    },
+    {
+      "title": "Apple: 50 anys d'història resumits en quinze minuts",
+      "link_id": "c_007fd3",
+      "source": "Computerworld",
       "date": "2026-04-01",
-      "time": "17:10",
-      "summary": "El gegant de les joguines ha detectat accessos no autoritzats que podrien endarrerir les seves operacions comercials."
+      "time": "19:20",
+      "summary": "Un repàs als moments clau i als productes revolucionaris que han convertit l'empresa en un gegant tecnològic mundial."
+    },
+    {
+      "title": "El polèmic vicepresident de Fitness d'Apple, Jay Blahnik, es jubila",
+      "link_id": "c_a2b785",
+      "source": "Engadget",
+      "date": "2026-04-02",
+      "time": "11:52",
+      "summary": "La seva sortida arriba després d'acusacions sobre la creació d'un entorn de treball tòxic durant els seus tretze anys."
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2024-05-24T18:50",
+  "generated_at": "2026-04-02T19:50",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
@@ -10,7 +10,7 @@
       "source": "CNBC Technology",
       "date": "2026-04-01",
       "time": "23:58",
-      "summary": "L'acord impulsaria el servei d'internet per satèl·lit d'Amazon, competint directament amb Starlink d'Elon Musk."
+      "summary": "L'acord impulsaria la xarxa d'internet per satèl·lit d'Amazon, competint directament amb Starlink gràcies a la infraestructura de Globalstar."
     },
     {
       "title": "La sol·licitud de SpaceX inicia el procés de sortida a borsa més gran de la història",
@@ -18,23 +18,39 @@
       "source": "Financial Times",
       "date": "2026-04-01",
       "time": "21:30",
-      "summary": "L'empresa d'Elon Musk busca una valoració rècord d'1,75 bilions de dòlars per a la seva estrena estival."
+      "summary": "L'empresa d'Elon Musk prepara la seva estrena al mercat per a l'estiu, buscant una valoració rècord al sector aeroespacial."
     },
     {
-      "title": "Les accions d'Intel pugen un 9% després de recomprar la seva fàbrica de xips a Irlanda",
-      "link_id": "c_27fcc4",
+      "title": "Les accions de Tesla cauen més d'un 4% per un informe de lliuraments decebedor",
+      "link_id": "c_abfaee",
       "source": "CNBC Technology",
-      "date": "2026-04-01",
-      "time": "20:02",
-      "summary": "La companyia inverteix 14.200 milions de dòlars per recuperar el control total de la planta i reforçar les finances."
+      "date": "2026-04-02",
+      "time": "16:49",
+      "summary": "La forta competència xinesa amb models més econòmics ha provocat una davallada en les vendes anuals del fabricant nord-americà."
     },
     {
-      "title": "Poolside busca socis per a centres de dades després de fracassar l'acord amb CoreWeave",
+      "title": "Microsoft llança un model d'IA de \"classe mitjana\" davant els límits de computació",
+      "link_id": "c_ecf2f1",
+      "source": "Financial Times",
+      "date": "2026-04-02",
+      "time": "14:00",
+      "summary": "L'empresa adapta la seva estratègia per optimitzar recursos tecnològics mentre prepara sistemes més avançats per a finals d'any."
+    },
+    {
+      "title": "Farà la IA més difícil que els no graduats ascendeixin laboralment?",
+      "link_id": "c_81f772",
+      "source": "Financial Times",
+      "date": "2026-04-02",
+      "time": "12:00",
+      "summary": "L'automatització amenaça els llocs de treball inicials d'oficina, complicant la promoció professional dels treballadors sense estudis universitaris."
+    },
+    {
+      "title": "Poolside busca socis de centres de dades després de fracassar l'acord amb CoreWeave",
       "link_id": "c_ad167a",
       "source": "Financial Times",
       "date": "2026-04-02",
       "time": "04:00",
-      "summary": "La start-up d'IA negocia amb Google per reactivar el seu ambiciós projecte de dos gigawatts a Texas."
+      "summary": "La start-up d'IA negocia amb Google i altres proveïdors per salvar el seu ambiciós projecte energètic a Texas."
     },
     {
       "title": "El personal de l'NHS boicoteja la plataforma de dades de Palantir per preocupacions ètiques",
@@ -42,7 +58,7 @@
       "source": "Financial Times",
       "date": "2026-04-02",
       "time": "04:00",
-      "summary": "Els sanitaris rebutgen el contracte de 330 milions de lliures atorgat a la polèmica empresa tecnològica nord-americana."
+      "summary": "Els sanitaris britànics rebutgen l'ús del sistema nord-americà per gestionar informació de pacients, al·legant greus riscos de privacitat."
     },
     {
       "title": "Com Apple va fusionar l'artesania japonesa amb l'escala xinesa",
@@ -50,7 +66,7 @@
       "source": "Financial Times",
       "date": "2026-04-02",
       "time": "04:00",
-      "summary": "La combinació de la indústria nipona i la capacitat de fabricació xinesa ha estat clau per a l'èxit tecnològic."
+      "summary": "L'èxit tecnològic de la companyia s'explica per la combinació de la precisió nipona i la capacitat de producció massiva xinesa."
     },
     {
       "title": "Els ingressos al núvol de Huawei van caure el 2025 pel retard de la IA xinesa",
@@ -58,7 +74,7 @@
       "source": "CNBC Technology",
       "date": "2026-04-02",
       "time": "02:33",
-      "summary": "El gegant de les telecomunicacions pateix davant l'avantatge dels seus competidors nord-americans en intel·ligència artificial."
+      "summary": "La divisió tecnològica pateix davant l'avantatge competitiu dels Estats Units, tot i mantenir cert creixement gràcies al consum intern."
     },
     {
       "title": "Franklin Templeton adquireix una firma d'actius digitals per impulsar la gestió de criptomonedes",
@@ -66,23 +82,7 @@
       "source": "CNBC Technology",
       "date": "2026-04-01",
       "time": "23:35",
-      "summary": "La compra de 250 Digital reforça la nova unitat de l'empresa per expandir-se en el mercat criptogràfic."
-    },
-    {
-      "title": "Els acomiadaments d'Oracle ajudaran a reduir costos, segons els analistes",
-      "link_id": "c_01387f",
-      "source": "CNBC Technology",
-      "date": "2026-04-01",
-      "time": "21:17",
-      "summary": "La retallada de milers de llocs de treball alliberarà capital per invertir massivament en centres de dades d'IA."
-    },
-    {
-      "title": "Cinc preguntes clau que afronta Apple en entrar al seu segon mig segle",
-      "link_id": "c_cccbb8",
-      "source": "CNBC Technology",
-      "date": "2026-04-01",
-      "time": "16:40",
-      "summary": "En fer 50 anys, l'empresa s'enfronta a reptes sobre successió, intel·ligència artificial i el manteniment del seu prestigi."
+      "summary": "La compra de 250 Digital reforça la nova unitat especialitzada de la gestora per expandir-se al mercat criptogràfic."
     }
   ]
 }

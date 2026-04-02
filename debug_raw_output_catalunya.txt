@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-04-02T09:00",
+  "generated_at": "2024-05-20T16:00",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [],
   "articles": [
-    {
-      "title": "El DNI digital ja és vàlid per identificar-se i es pot portar al mòbil",
-      "link_id": "c_6dc463",
-      "source": "Betevé",
-      "date": "2026-04-02",
-      "time": "06:28",
-      "summary": "L'aplicació MiDNI permet portar el document d'identitat al telèfon mòbil amb la mateixa validesa legal que el format físic."
-    },
-    {
-      "title": "El DNI digital és vàlid per identificar-se a partir d’avui",
-      "link_id": "c_f02ef2",
-      "source": "Segre",
-      "date": "2026-04-02",
-      "time": "05:36",
-      "summary": "Totes les administracions i empreses privades estan obligades a acceptar aquesta nova identificació digital mitjançant un codi QR."
-    },
-    {
-      "title": "Barcelona projecta una electrolinera ultraràpida que permetrà endollar 300 vehicles al dia",
-      "link_id": "c_6a18b7",
-      "source": "324.cat",
-      "date": "2026-04-01",
-      "time": "15:33",
-      "summary": "La nova instal·lació a la ronda de Dalt permetrà carregar dotze vehicles simultàniament i entrarà en funcionament a finals d'any."
-    },
-    {
-      "title": "El primer 'hub' públic de Barcelona de recàrrega ultraràpida permetrà endollar 300 vehicles al dia",
-      "link_id": "c_30e39c",
-      "source": "Via Empresa",
-      "date": "2026-04-01",
-      "time": "13:00",
-      "summary": "L'Ajuntament de Barcelona impulsa aquest equipament pioner al passeig de la Vall d'Hebron per fomentar la mobilitat sostenible."
-    },
     {
       "title": "L'Artemis 2 s'enlaira amb èxit i ja va camí de la Lluna, 50 anys després: les imatges del llançament històric",
       "link_id": "c_da518d",
       "source": "RAC1",
       "date": "2026-04-02",
       "time": "06:40",
-      "summary": "La NASA ha llançat amb èxit la missió que sobrevolarà el satèl·lit, marcant una fita històrica per a l'exploració espacial."
+      "summary": "La missió de la NASA s'ha enlairat des de Florida, marcant el retorn humà a l'òrbita lunar."
     },
     {
-      "title": "L’Artemis II s’enlaira sense dificultats i ja viatja cap a la Lluna",
-      "link_id": "c_c2483b",
-      "source": "VilaWeb",
-      "date": "2026-04-01",
-      "time": "17:21",
-      "summary": "Aquest viatge de deu dies obre la porta a futures missions per establir presència humana a la Lluna i Mart."
+      "title": "Així ha estat l'enlairament de l'Artemis 2",
+      "link_id": "c_ba3982",
+      "source": "324.cat",
+      "date": "2026-04-02",
+      "time": "01:24",
+      "summary": "El primer vol tripulat cap a la Lluna des del 1972 ha sortit amb èxit del Centre Espacial Kennedy."
     },
     {
-      "title": "Àngel Simón pren el control d'Indra després del xoc amb Escribano",
-      "link_id": "c_420ab4",
-      "source": "Ara.cat",
-      "date": "2026-04-01",
-      "time": "11:44",
-      "summary": "L'exdirectiu de La Caixa assumeix la presidència de la tecnològica després de la dimissió d'Ángel Escribano per desgast personal."
-    },
-    {
-      "title": "Wallbox reestructura el seu deute i estén els venciments fins al 2030",
-      "link_id": "c_b9df4a",
+      "title": "La missió Artemis 2 desenganxa cap a la Lluna amb quatre astronautes",
+      "link_id": "c_996607",
       "source": "La Vanguardia (en català)",
       "date": "2026-04-02",
-      "time": "07:40",
-      "summary": "La companyia catalana de carregadors elèctrics ha arribat a un acord amb els creditors per refinançar 169 milions d'euros."
+      "time": "06:02",
+      "summary": "La càpsula Orió ja orbita la Terra després del llançament del coet SLS amb quatre tripulants a bord."
     },
     {
-      "title": "Volkswagen i Cupra criden a revisió 94.000 cotxes elèctrics per risc d’incendi",
-      "link_id": "c_4ba0bb",
+      "title": "El DNI ja es pot portar al mòbil: com s'activa?",
+      "link_id": "c_c3c74e",
       "source": "Ara.cat",
       "date": "2026-04-02",
-      "time": "07:03",
-      "summary": "Un problema en el mòdul de les bateries obliga a revisar milers de vehicles fabricats entre el 2022 i 2024."
+      "time": "11:15",
+      "summary": "El document digital ja té la mateixa validesa legal que el físic i és obligatori per a les administracions."
     },
     {
-      "title": "L'app catalana que evita a les parelles separades l'estrès d'organitzar la logística dels fills",
-      "link_id": "c_27dbb4",
+      "title": "El DNI digital s’equipara al físic: com el podem instal·lar?",
+      "link_id": "c_987c08",
+      "source": "VilaWeb",
+      "date": "2026-04-02",
+      "time": "11:18",
+      "summary": "L'activació es pot fer per internet amb certificats digitals o presencialment als punts habilitats per l'administració."
+    },
+    {
+      "title": "El DNI digital ja és vàlid per identificar-se",
+      "link_id": "c_f815ea",
+      "source": "Segre",
+      "date": "2026-04-02",
+      "time": "10:20",
+      "summary": "A través d'un codi QR al mòbil, empreses i entitats públiques han d'acceptar aquesta nova modalitat d'identificació."
+    },
+    {
+      "title": "Quin estalvi suposa un cotxe elèctric respecte a un de benzina o de gasoil en plena tempesta del petroli",
+      "link_id": "c_718dce",
       "source": "RAC1",
       "date": "2026-04-01",
-      "time": "14:10",
-      "summary": "Aquesta eina tecnològica facilita la coordinació diària i la gestió d'activitats dels fills per a famílies amb pares separats."
+      "time": "19:48",
+      "summary": "L'encariment dels combustibles fòssils per la inestabilitat global fa que els vehicles elèctrics siguin una alternativa molt més econòmica."
+    },
+    {
+      "title": "Quant estalvi suposa un cotxe elèctric respecte a un de gasolina o gasoil en plena tempesta del petroli",
+      "link_id": "c_81c880",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-04-02",
+      "time": "06:23",
+      "summary": "Recórrer la mateixa distància amb un vehicle elèctric costa actualment tres vegades menys que amb un de combustió."
+    },
+    {
+      "title": "Hisenda ho confirma: pots estalviar més de 3.000 euros si has comprat un cotxe elèctric",
+      "link_id": "c_c71acc",
+      "source": "El Nacional.cat",
+      "date": "2026-04-02",
+      "time": "15:50",
+      "summary": "Els compradors de vehicles elèctrics poden beneficiar-se d'una important deducció econòmica en la pròxima Declaració de la Renda."
+    },
+    {
+      "title": "Ángel Escribano dimiteix com a president d'Indra després de la compra fallida de la seva empresa EME",
+      "link_id": "c_806499",
+      "source": "Via Empresa",
+      "date": "2026-04-02",
+      "time": "09:30",
+      "summary": "El directiu al·lega desgast personal i deixa el càrrec per no perjudicar el futur de la multinacional tecnològica."
     }
   ]
 }
