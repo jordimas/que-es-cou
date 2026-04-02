@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-04-01T13:41",
+  "generated_at": "2026-04-02T13:37",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Anthropic confirma la filtració de 512.000 línies de codi font de Claude Code, revelant els seus secrets",
-      "link_id": "c_5b1c0b",
-      "source": "TechRadar",
+      "title": "Anthropic elimina milers de repositoris de GitHub per retirar el seu codi font filtrat per accident",
+      "link_id": "c_21e7c6",
+      "source": "TechCrunch",
       "date": "2026-04-01",
-      "time": "11:05",
-      "summary": "Un error humà ha exposat l'eina d'intel·ligència artificial, permetent als usuaris descobrir funcions ocultes i detalls de la seva arquitectura."
+      "time": "22:12",
+      "summary": "L'empresa va qualificar l'acció d'error i va retirar la majoria de les sol·licituds d'eliminació de codi."
     },
     {
-      "title": "L'Iran amenaça de començar a atacar les principals empreses tecnològiques dels EUA l'1 d'abril",
-      "link_id": "c_9aaa83",
-      "source": "Wired",
-      "date": "2026-03-31",
-      "time": "21:25",
-      "summary": "La Guàrdia Revolucionària Islàmica ha assenyalat gegants com Apple, Google i Microsoft com a objectius legítims en represàlia."
-    },
-    {
-      "title": "OpenAI tanca un megaacord de finançament de 122.000 milions de dòlars",
-      "link_id": "c_0a2731",
-      "source": "Bloomberg",
-      "date": "2026-04-01",
-      "time": "09:28",
-      "summary": "Aquesta injecció de capital eleva la valoració de l'empresa a 852.000 milions, consolidant el seu domini en intel·ligència artificial."
-    },
-    {
-      "title": "Bones notícies! Per fi pots canviar aquella adreça de Gmail ridícula",
-      "link_id": "c_774162",
-      "source": "Gizmodo",
-      "date": "2026-03-31",
-      "time": "21:01",
-      "summary": "Google permetrà als usuaris modificar el seu nom d'usuari sense perdre dades, posant fi a anys de queixes."
-    },
-    {
-      "title": "Tim Cook comparteix un divertit vídeo repassant els 50 anys de productes d'Apple",
-      "link_id": "c_5ebe9a",
-      "source": "9to5Mac",
-      "date": "2026-04-01",
-      "time": "10:50",
-      "summary": "La companyia celebra el seu mig segle d'història amb animacions especials i un concert exclusiu de Paul McCartney."
-    },
-    {
-      "title": "Meta presenta ulleres amb IA graduables per integrar els wearables a l'ús diari",
-      "link_id": "c_6511c8",
-      "source": "Digital Trends",
-      "date": "2026-03-31",
-      "time": "16:39",
-      "summary": "Els nous models de Ray-Ban busquen atraure els usuaris que necessiten lents de prescripció, tot i el seu preu elevat."
-    },
-    {
-      "title": "Uns furoners introdueixen un troià a la biblioteca de codi més usada d'internet",
-      "link_id": "c_2bb75c",
-      "source": "VentureBeat",
-      "date": "2026-04-01",
-      "time": "02:30",
-      "summary": "S'acusa pirates nord-coreans d'infiltrar programari maliciós a Axios, posant en risc milions de sistemes i aplicacions a escala global."
-    },
-    {
-      "title": "La IA millorada de Slack pot analitzar com treballes",
-      "link_id": "c_5cbea2",
+      "title": "La missió Artemis II comença el seu viatge de 10 dies al voltant de la Lluna",
+      "link_id": "c_8a2f22",
       "source": "Engadget",
-      "date": "2026-04-01",
-      "time": "10:30",
-      "summary": "Salesforce ha introduït més de trenta noves funcions intel·ligents per automatitzar tasques i optimitzar la productivitat dels equips."
+      "date": "2026-04-02",
+      "time": "03:34",
+      "summary": "Quatre astronautes de la NASA han iniciat un vol històric que establirà les bases per a futures exploracions lunars."
     },
     {
-      "title": "La NASA, a punt d'enviar astronautes a la Lluna per primera vegada en 50 anys",
-      "link_id": "c_e973da",
-      "source": "Bloomberg",
-      "date": "2026-04-01",
-      "time": "11:00",
-      "summary": "La missió Artemis II farà un vol orbital al voltant del satèl·lit, marcant una fita històrica en l'exploració espacial."
+      "title": "SpaceX d'Elon Musk sortirà a borsa amb una valoració d'un bilió de dòlars",
+      "link_id": "c_48596b",
+      "source": "BBC Technology",
+      "date": "2026-04-02",
+      "time": "07:05",
+      "summary": "Aquesta oferta pública podria ser una de les més valuoses de la història i convertir Musk en el primer bilionari."
     },
     {
-      "title": "Una fallada massiva de robotaxis paralitza el trànsit en una ciutat xinesa",
-      "link_id": "c_c8ed15",
-      "source": "BBC",
+      "title": "Tim Cook afirma que el llançament de l'iPhone és el seu moment preferit del 50è aniversari d'Apple",
+      "link_id": "c_8a08a1",
+      "source": "MacRumors",
       "date": "2026-04-01",
-      "time": "11:34",
-      "summary": "Desenes de vehicles autònoms de Baidu van quedar bloquejats a Wuhan, atrapant els passatgers i generant un gran caos viari."
+      "time": "15:21",
+      "summary": "El director executiu va repassar prototips històrics i material d'arxiu inèdit per celebrar el mig segle de la companyia."
+    },
+    {
+      "title": "Si no tens iOS 26, hauries de descarregar aquesta actualització d'iOS 18 ara mateix",
+      "link_id": "c_647586",
+      "source": "CNET",
+      "date": "2026-04-01",
+      "time": "21:51",
+      "summary": "Apple ha llançat un pedaç de seguretat crític per protegir els dispositius més antics de la perillosa amenaça DarkSword."
+    },
+    {
+      "title": "El pla AI Pro de Google de 20 dòlars mensuals rep un gran augment d'emmagatzematge",
+      "link_id": "c_63e96a",
+      "source": "Engadget",
+      "date": "2026-04-02",
+      "time": "04:45",
+      "summary": "Els subscriptors gaudiran ara de 5 TB d'espai al núvol sense cap cost addicional, millorant les còpies de seguretat."
+    },
+    {
+      "title": "El Kia EV3 totalment elèctric del 2027 arribarà als Estats Units a finals d'aquest any",
+      "link_id": "c_be96ef",
+      "source": "CNET",
+      "date": "2026-04-02",
+      "time": "03:00",
+      "summary": "Aquest SUV compacte i assequible oferirà fins a 320 milles d'autonomia, sent una opció atractiva per als compradors."
+    },
+    {
+      "title": "WhatsApp avisa centenars d'usuaris que van instal·lar una aplicació falsa creada per un fabricant de programari espia",
+      "link_id": "c_f79e60",
+      "source": "TechCrunch",
+      "date": "2026-04-01",
+      "time": "16:34",
+      "summary": "L'empresa va identificar víctimes enganyades per descarregar una versió fraudulenta que en realitat era un programa de vigilància italià."
+    },
+    {
+      "title": "El teu televisor Samsung rep una actualització massiva gratuïta amb Google Cast",
+      "link_id": "c_55f568",
+      "source": "Android Authority",
+      "date": "2026-04-02",
+      "time": "11:32",
+      "summary": "L'aplicació Google Photos arriba a les pantalles grans, permetent als usuaris reviure records directament sense necessitat de transmetre'ls."
+    },
+    {
+      "title": "Hasbro pateix un gran ciberatac: el fabricant de joguines confirma que l'incident ha tombat part dels seus webs",
+      "link_id": "c_4d4c41",
+      "source": "TechRadar",
+      "date": "2026-04-02",
+      "time": "11:10",
+      "summary": "L'empresa continua operant, però adverteix que podrien passar diverses setmanes abans que els sistemes es recuperin completament."
     }
   ]
 }
