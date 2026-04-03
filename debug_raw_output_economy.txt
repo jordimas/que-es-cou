@@ -1,32 +1,72 @@
 {
-  "generated_at": "2024-05-20T16:00",
+  "generated_at": "2026-04-03T19:30",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "OpenAI adquireix un popular programa de tecnologia per 'pocs centenars de milions'",
+      "title": "'Buscant vibracions': l'estratègia de fusions d'OpenAI es torna més confusa amb la compra de TBPN",
+      "link_id": "c_e9a0c6",
+      "source": "CNBC Technology",
+      "date": "2026-04-03",
+      "time": "12:00",
+      "summary": "L'adquisició d'aquesta empresa de mitjans arriba mesos després d'una gran inversió en dispositius, generant dubtes sobre la seva direcció."
+    },
+    {
+      "title": "OpenAI adquireix un popular programa de tecnologia per \"pocs centenars de milions\"",
       "link_id": "c_aca305",
       "source": "Financial Times",
       "date": "2026-04-02",
       "time": "19:33",
-      "summary": "El creador de ChatGPT s'endinsa en la radiodifusió comprant TBPN, malgrat haver promès abandonar projectes secundaris."
+      "summary": "El creador de ChatGPT s'endinsa en la radiodifusió amb TBPN, malgrat haver promès abandonar projectes secundaris."
     },
     {
-      "title": "Sakura Internet del Japó puja un 20% per la inversió de 10.000 milions de Microsoft",
+      "title": "OpenAI adquireix el popular pòdcast de tecnologia TBPN",
+      "link_id": "c_a495c9",
+      "source": "CNBC Technology",
+      "date": "2026-04-02",
+      "time": "19:06",
+      "summary": "L'empresa integrarà el programa dins la seva organització estratègica, tot i no revelar els termes financers de l'acord."
+    },
+    {
+      "title": "Meta i Google, sota atac mentre els tribunals esquiven un escut legal de 30 anys",
+      "link_id": "c_a3e4eb",
+      "source": "CNBC Technology",
+      "date": "2026-04-03",
+      "time": "17:07",
+      "summary": "Les plataformes d'internet podrien perdre les proteccions especials que evitaven la responsabilitat sobre el contingut publicat."
+    },
+    {
+      "title": "Els inversors aposten pel caos de la IA, però la història suggereix el contrari",
+      "link_id": "c_65b5a9",
+      "source": "Financial Times",
+      "date": "2026-04-03",
+      "time": "11:00",
+      "summary": "Les revolucions tecnològiques passades indiquen que les empreses consolidades podrien adaptar-se i, fins i tot, prosperar amb èxit."
+    },
+    {
+      "title": "Les empreses emergents de defensa preveuen beneficis pel conflicte amb l'Iran mentre s'aposta per la tecnologia",
+      "link_id": "c_0f2478",
+      "source": "CNBC Technology",
+      "date": "2026-04-03",
+      "time": "11:00",
+      "summary": "El finançament d'aquestes companyies s'ha disparat recentment a causa de la necessitat urgent de modernitzar els exèrcits."
+    },
+    {
+      "title": "Sakura Internet del Japó puja un 20% per la inversió de 10.000 milions de Microsoft en IA",
       "link_id": "c_bf8ef4",
       "source": "CNBC Technology",
       "date": "2026-04-03",
       "time": "05:19",
-      "summary": "L'empresa tecnològica destinarà aquests fons fins al 2029 per desenvolupar infraestructures d'intel·ligència artificial al país asiàtic."
+      "summary": "Aquesta injecció de capital, prevista entre 2026 i 2029, busca construir una infraestructura sòlida d'intel·ligència artificial al país."
     },
     {
-      "title": "Les empreses xineses de xips assoleixen ingressos rècord impulsades per la IA i les restriccions dels EUA",
+      "title": "Les empreses xineses de xips assoleixen ingressos rècord impulsades per l'auge de la IA i les restriccions",
       "link_id": "c_b3da33",
       "source": "CNBC Technology",
       "date": "2026-04-03",
       "time": "05:00",
-      "summary": "La forta demanda interna i les limitacions tecnològiques nord-americanes han enfortit significativament els fabricants locals de semiconductors."
+      "summary": "La forta demanda interna i les limitacions tecnològiques dels Estats Units han afavorit enormement els fabricants locals."
     },
     {
       "title": "Les asseguradores recorren als bons de catàstrofe per descarregar els riscos dels centres de dades",
@@ -34,7 +74,7 @@
       "source": "Financial Times",
       "date": "2026-04-03",
       "time": "04:00",
-      "summary": "El sector busca captar capital d'inversors alternatius per poder cobrir els creixents megaprojectes d'intel·ligència artificial."
+      "summary": "La indústria busca captar capital d'inversors alternatius per poder cobrir els enormes projectes d'intel·ligència artificial."
     },
     {
       "title": "Un executiu de Microsoft destaca les vendes de Copilot mentre l'ansietat per la IA afecta les accions",
@@ -42,39 +82,7 @@
       "source": "CNBC Technology",
       "date": "2026-04-03",
       "time": "00:36",
-      "summary": "Els analistes assenyalen que l'adopció de l'eina de pagament mensual encara es troba en una fase inicial."
-    },
-    {
-      "title": "Coinbase supera un obstacle regulador clau per reforçar el seu negoci de monedes estables",
-      "link_id": "c_a95cd3",
-      "source": "CNBC Technology",
-      "date": "2026-04-02",
-      "time": "21:17",
-      "summary": "La plataforma ha rebut l'aprovació condicional dels Estats Units per operar com a banc fiduciari."
-    },
-    {
-      "title": "Les accions de Tesla pateixen la caiguda més forta del 2026 per unes entregues decebedores",
-      "link_id": "c_abfaee",
-      "source": "CNBC Technology",
-      "date": "2026-04-02",
-      "time": "20:26",
-      "summary": "La creixent competència de models xinesos més econòmics ha impactat negativament en el volum de vendes de l'empresa."
-    },
-    {
-      "title": "Microsoft llança un model d'IA de 'classe mitjana' davant els límits de computació",
-      "link_id": "c_ecf2f1",
-      "source": "Financial Times",
-      "date": "2026-04-02",
-      "time": "14:00",
-      "summary": "El cap d'IA assegura que tindran els recursos necessaris per construir sistemes de frontera a finals d'any."
-    },
-    {
-      "title": "Farà la IA més difícil que els no graduats ascendeixin en l'escala laboral?",
-      "link_id": "c_81f772",
-      "source": "Financial Times",
-      "date": "2026-04-02",
-      "time": "12:00",
-      "summary": "Els llocs de treball d'entrada al sector administratiu semblen especialment vulnerables a la disrupció tecnològica."
+      "summary": "Els analistes assenyalen que l'adopció d'aquesta eina de pagament mensual encara es troba en una fase molt inicial."
     }
   ]
 }

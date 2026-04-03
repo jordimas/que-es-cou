@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T08:00",
+  "generated_at": "2026-04-03T17:35",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [],
@@ -10,31 +10,7 @@
       "source": "324.cat",
       "date": "2026-04-03",
       "time": "08:31",
-      "summary": "La maniobra d'injecció translunar s'ha completat amb èxit després d'una encesa de motors de gairebé sis minuts."
-    },
-    {
-      "title": "Les imatges d'un llançament històric: l'Artemis 2 ja va camí de la Lluna, 50 anys després",
-      "link_id": "c_da518d",
-      "source": "RAC1",
-      "date": "2026-04-02",
-      "time": "06:40",
-      "summary": "La missió de la NASA s'ha enlairat des del Centre Espacial Kennedy per orbitar el satèl·lit sense allunar."
-    },
-    {
-      "title": "Ángel Escribano dimiteix com a president d'Indra després de la compra fallida de la seva empresa EME",
-      "link_id": "c_806499",
-      "source": "Via Empresa",
-      "date": "2026-04-02",
-      "time": "09:30",
-      "summary": "El directiu al·lega desgast personal i fa un pas al costat per no perjudicar el futur de la tecnològica."
-    },
-    {
-      "title": "Quant estalvi suposa un cotxe elèctric respecte a un de gasolina o gasoil en plena tempesta del petroli",
-      "link_id": "c_81c880",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-04-02",
-      "time": "06:23",
-      "summary": "Recórrer la mateixa distància amb un vehicle elèctric costa actualment tres vegades menys que amb un de combustió."
+      "summary": "La nau Orion ha completat la injecció translunar i viatja cap al satèl·lit en una missió històrica."
     },
     {
       "title": "El DNI ja es pot portar al mòbil: com s'activa?",
@@ -42,7 +18,23 @@
       "source": "Ara.cat",
       "date": "2026-04-02",
       "time": "11:15",
-      "summary": "L'aplicació MiDNI ja permet identificar-se digitalment amb la mateixa validesa legal que el document físic tradicional."
+      "summary": "L'aplicació MiDNI ja és oficialment vàlida per identificar-se davant d'entitats públiques i privades a tot l'Estat."
+    },
+    {
+      "title": "Quin estalvi suposa un cotxe elèctric respecte a un de benzina o de gasoil en plena tempesta del petroli",
+      "link_id": "c_718dce",
+      "source": "RAC1",
+      "date": "2026-04-01",
+      "time": "19:48",
+      "summary": "L'encariment dels combustibles fòssils fa que recórrer la mateixa distància amb un vehicle elèctric sigui molt més econòmic."
+    },
+    {
+      "title": "Traducció al català en temps real amb auriculars: així funciona la nova eina de Google",
+      "link_id": "c_6cf7eb",
+      "source": "El Periódico",
+      "date": "2026-04-03",
+      "time": "12:05",
+      "summary": "La funció 'Live Translate' permet comunicar-se a l'estranger de manera fluida, convertint els auriculars en traductors simultanis."
     },
     {
       "title": "Declaració de la renda 2025: aquestes són les dates clau que has de tenir en compte",
@@ -50,15 +42,7 @@
       "source": "RAC1",
       "date": "2026-04-02",
       "time": "19:52",
-      "summary": "Repassem el calendari fiscal d'enguany per complir amb les obligacions tributàries sense presses ni penalitzacions."
-    },
-    {
-      "title": "Els usuaris assenyalen dificultats en l'ús de l'app de Sanitat",
-      "link_id": "c_15271a",
-      "source": "Àpunt",
-      "date": "2026-04-02",
-      "time": "17:19",
-      "summary": "La darrera actualització de l'aplicació exigeix un certificat digital, fet que està complicant l'accés a molts pacients."
+      "summary": "Arriba l'abril i comença la campanya fiscal; repassa el calendari per complir amb les teves obligacions tributàries."
     },
     {
       "title": "L'app catalana que evita a les parelles separades l'estrès d'organitzar la logística dels fills",
@@ -66,7 +50,15 @@
       "source": "RAC1",
       "date": "2026-04-01",
       "time": "14:10",
-      "summary": "Aquesta eina tecnològica facilita la coordinació diària sobre metges, extraescolars i material escolar entre progenitors divorciats."
+      "summary": "Aquesta eina tecnològica facilita la coordinació diària entre progenitors divorciats per gestionar metges, extraescolars i material escolar."
+    },
+    {
+      "title": "Així funciona MiDNI, per portar el DNI al mòbil",
+      "link_id": "c_34e843",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-04-03",
+      "time": "07:23",
+      "summary": "El document d'identitat digital s'equipara al format físic, facilitant tràmits i gestions diàries des del telèfon intel·ligent."
     },
     {
       "title": "Quasi un de cada quatre cotxes venuts a Catalunya s'endolla",
@@ -74,7 +66,7 @@
       "source": "Ara.cat",
       "date": "2026-04-01",
       "time": "16:11",
-      "summary": "Els vehicles híbrids endollables i elèctrics purs ja representen el 23,8% de les matriculacions del primer trimestre."
+      "summary": "Les matriculacions de vehicles híbrids i elèctrics purs assoleixen el 23,8% durant el primer trimestre de l'any."
     },
     {
       "title": "Barcelona estrenarà aquest any la primera electrolinera de càrrega ultraràpida pública",
@@ -82,7 +74,15 @@
       "source": "Ara.cat",
       "date": "2026-04-01",
       "time": "16:48",
-      "summary": "La instal·lació s'ubicarà a la ronda de Dalt i permetrà carregar fins a 300 vehicles diaris en quinze minuts."
+      "summary": "La instal·lació a la ronda de Dalt permetrà carregar fins a 300 vehicles diaris en només quinze minuts."
+    },
+    {
+      "title": "Del terapeuta a l'amant: com la IA es cola en la intimitat emocional i sexual",
+      "link_id": "c_c24848",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-04-03",
+      "time": "07:06",
+      "summary": "L'ús d'intel·ligència artificial per gestionar vincles afectius creix, redefinint les relacions humanes i la manera d'afrontar la solitud."
     }
   ]
 }

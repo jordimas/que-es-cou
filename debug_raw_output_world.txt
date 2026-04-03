@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-04-03T09:57",
+  "generated_at": "2026-04-03T19:30",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "La missió Artemis II de la NASA, dia 2: Orion abandona l'òrbita terrestre cap a la Lluna",
-      "link_id": "c_029a1f",
-      "source": "CNET",
+      "title": "Un astronauta de l'Artemis 2 ofereix una perspectiva colpidora sobre anar a la Lluna en temps de guerra",
+      "link_id": "c_337732",
+      "source": "Gizmodo",
       "date": "2026-04-03",
-      "time": "06:17",
-      "summary": "La càpsula Orion ha encès els motors per abandonar l'òrbita terrestre i dirigir-se cap a la Lluna."
+      "time": "15:30",
+      "summary": "El pilot Victor Glover reflexiona des de l'espai sobre la importància de l'exploració lunar malgrat els conflictes terrestres actuals."
     },
     {
-      "title": "Google combat els models xinesos de codi obert amb Gemma 4",
-      "link_id": "c_abe7b8",
-      "source": "The Register",
-      "date": "2026-04-02",
-      "time": "21:15",
-      "summary": "Google llança nous models d'intel·ligència artificial de codi obert sota la llicència Apache 2.0 per atreure empreses."
-    },
-    {
-      "title": "OpenAI compra el programa 'TBPN' amb l'objectiu de canviar la narrativa sobre la IA",
+      "title": "OpenAI compra el programa de streaming 'TBPN' amb l'objectiu de canviar la narrativa sobre la IA",
       "link_id": "c_39c131",
       "source": "NYT Technology",
       "date": "2026-04-03",
-      "time": "05:59",
-      "summary": "L'empresa adquireix un popular programa d'entrevistes tecnològiques per millorar la seva imatge pública i fomentar debats constructius."
+      "time": "15:01",
+      "summary": "L'adquisició busca fomentar un diàleg constructiu i millorar la imatge pública de la intel·ligència artificial davant els seus reptes."
     },
     {
-      "title": "Microsoft crea la seva pròpia pila d'IA per reduir la dependència d'OpenAI",
-      "link_id": "c_fcc0c2",
-      "source": "Computerworld",
+      "title": "Ja pots utilitzar Google Meet amb CarPlay: com unir-te a reunions de manera segura al cotxe",
+      "link_id": "c_a0310f",
+      "source": "ZDNet",
       "date": "2026-04-03",
-      "time": "01:55",
-      "summary": "Microsoft presenta tres nous models propis per a transcripció, generació de veu i creació d'imatges a gran velocitat."
+      "time": "16:52",
+      "summary": "L'aplicació permet participar en videotrucades mentre condueixes, i aviat també estarà disponible per als usuaris d'Android Auto."
     },
     {
-      "title": "Google impulsa el vídeo amb IA a la vida quotidiana mentre OpenAI retira Sora",
-      "link_id": "c_84eb55",
+      "title": "YouTube emetrà Coachella en 4K per primera vegada, incloent-hi una transmissió gravada amb Pixel",
+      "link_id": "c_4805f0",
+      "source": "Digital Trends",
+      "date": "2026-04-03",
+      "time": "11:28",
+      "summary": "La plataforma oferirà el festival gratuïtament amb set escenaris simultanis i una opció de visualització múltiple per als espectadors."
+    },
+    {
+      "title": "He retrocedit 50 anys per jugar als millors jocs de l'Apple-1 i el meu cervell encara s'està recuperant",
+      "link_id": "c_c2e589",
       "source": "TechRadar",
       "date": "2026-04-03",
-      "time": "04:00",
-      "summary": "L'aplicació Vids de Google s'actualitza amb noves eines d'intel·ligència artificial per personalitzar i dirigir avatars en vídeos."
+      "time": "17:00",
+      "summary": "Per celebrar el cinquantè aniversari d'Apple, un redactor experimenta la nostàlgia i la complexitat dels primers videojocs de l'empresa."
     },
     {
-      "title": "YouTube millora la seva experiència musical just a temps per a Coachella",
-      "link_id": "c_9ef21f",
-      "source": "CNET",
-      "date": "2026-04-02",
-      "time": "23:48",
-      "summary": "La plataforma oferirà retransmissions en directe del festival amb qualitat 4K i múltiples escenaris simultanis gratuïtament."
-    },
-    {
-      "title": "L'iPhone 18 Pro podria ometre l'únic color que els fans han estat anhelant",
-      "link_id": "c_b8c524",
-      "source": "Digital Trends",
-      "date": "2026-04-02",
-      "time": "20:49",
-      "summary": "Els rumors apunten que el proper telèfon insígnia d'Apple tampoc estarà disponible en color negre aquest any."
-    },
-    {
-      "title": "Samsung renova la línia de televisors The Frame per al 2026 amb una agradable sorpresa de preu",
-      "link_id": "c_808547",
-      "source": "Digital Trends",
-      "date": "2026-04-02",
-      "time": "20:40",
-      "summary": "Els nous televisors The Frame de Samsung milloren la reducció de reflexos i redueixen el preu del model Pro."
-    },
-    {
-      "title": "IBM vol programari Arm als seus mainframes per donar millor suport a la IA",
-      "link_id": "c_aeb399",
-      "source": "The Register",
-      "date": "2026-04-02",
-      "time": "16:32",
-      "summary": "Ambdues companyies col·laboren per executar aplicacions basades en Arm als sistemes empresarials d'IBM, optimitzant càrregues de treball."
-    },
-    {
-      "title": "El nou CMS de Cloudflare no és un assassí de WordPress, és una alternativa",
-      "link_id": "c_ff6859",
-      "source": "Computerworld",
+      "title": "El CERT-EU culpa un atac a la cadena de subministrament de Trivy per la filtració de dades d'Europa.eu",
+      "link_id": "c_60a6dd",
+      "source": "InfoWorld",
       "date": "2026-04-03",
-      "time": "01:12",
-      "summary": "Cloudflare llança EmDash, un gestor de continguts de codi obert basat en TypeScript dissenyat per oferir més seguretat."
+      "time": "16:37",
+      "summary": "L'agència europea vincula el robatori d'informació recent a una vulnerabilitat en l'escàner de codi obert d'Aqua Security."
+    },
+    {
+      "title": "Les teves compres a Amazon costaran més: s'afegeix un recàrrec del 3,5% pel combustible a causa de la guerra d'Iran",
+      "link_id": "c_eddff9",
+      "source": "TechRadar",
+      "date": "2026-04-03",
+      "time": "13:05",
+      "summary": "L'augment dels costos logístics afectarà diversos països americans, repercutint directament en els venedors i, possiblement, en els consumidors finals."
+    },
+    {
+      "title": "Ves amb compte on fas clic: els pirates informàtics utilitzen la filtració de Claude Code per distribuir programari maliciós",
+      "link_id": "c_fb5c12",
+      "source": "TechRadar",
+      "date": "2026-04-03",
+      "time": "17:20",
+      "summary": "Han aparegut repositoris falsos a GitHub que amaguen virus dissenyats per robar informació confidencial dels desenvolupadors."
+    },
+    {
+      "title": "Microsoft llança 3 nous models d'IA en un atac directe a OpenAI i Google",
+      "link_id": "c_46ea96",
+      "source": "VentureBeat",
+      "date": "2026-04-03",
+      "time": "15:17",
+      "summary": "L'empresa presenta eines pròpies de transcripció, generació de veu i creació d'imatges per reduir la seva dependència d'OpenAI."
+    },
+    {
+      "title": "Com la nova aplicació Surf de Flipboard et permet fusionar xarxes socials, YouTube i RSS per escapar de l'algoritme",
+      "link_id": "c_bf3329",
+      "source": "ZDNet",
+      "date": "2026-04-03",
+      "time": "14:24",
+      "summary": "Aquesta eina unifica continguts de diverses plataformes en un sol lloc, retornant el control de la informació als usuaris."
     }
   ]
 }
