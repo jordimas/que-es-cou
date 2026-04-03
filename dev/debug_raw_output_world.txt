@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-04-02T20:47",
+  "generated_at": "2024-05-24T18:00",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Outlook és un desastre, fins i tot a l'espai",
-      "link_id": "c_2c579d",
-      "source": "PCWorld",
-      "date": "2026-04-02",
-      "time": "18:46",
-      "summary": "Els astronautes de la missió Artemis II de la NASA experimenten problemes tècnics amb el client de correu de Microsoft."
+      "title": "L'endemà: L'Artemis II de la NASA viatja al voltant de la Lluna",
+      "link_id": "c_c5058e",
+      "source": "Engadget",
+      "date": "2026-04-03",
+      "time": "11:15",
+      "summary": "La càpsula Orion ja s'ha separat del sistema de llançament, tot i patir problemes menors amb el vàter i l'Outlook."
     },
     {
-      "title": "Google llança Gemma 4: quatre models de codi obert per a telèfons intel·ligents i estacions de treball",
-      "link_id": "c_f8483d",
-      "source": "The Next Web",
-      "date": "2026-04-02",
-      "time": "18:16",
-      "summary": "Aquesta nova família d'intel·ligència artificial, basada en Gemini 3, destaca per la seva llicència Apache 2.0 i versatilitat."
-    },
-    {
-      "title": "Es pensaven que descarregaven el codi de Claude. En lloc d'això, van rebre una forta dosi de programari maliciós",
-      "link_id": "c_b028d8",
+      "title": "Google combat els models xinesos de codi obert amb Gemma 4",
+      "link_id": "c_abe7b8",
       "source": "The Register",
       "date": "2026-04-02",
-      "time": "17:34",
-      "summary": "La filtració accidental de l'assistent de programació d'Anthropic ha estat aprofitada per distribuir codi maliciós que roba credencials."
+      "time": "21:15",
+      "summary": "Aquesta nova IA multimodal, optimitzada per a programació, adopta la llicència Apache 2.0 per atreure més empreses."
     },
     {
-      "title": "IBM vol programari Arm als seus servidors centrals per millorar el suport a la IA",
+      "title": "OpenAI compra TBPN, el programa tecnològic preferit de Silicon Valley, en la seva primera adquisició de mitjans",
+      "link_id": "c_429537",
+      "source": "The Next Web",
+      "date": "2026-04-03",
+      "time": "08:29",
+      "summary": "El programa s'integrarà a l'estratègia de l'empresa, però mantindrà la seva independència editorial per debatre sobre intel·ligència artificial."
+    },
+    {
+      "title": "Microsoft ja no vol demanar prestada la seva IA, vol construir-la",
+      "link_id": "c_b5f09b",
+      "source": "Digital Trends",
+      "date": "2026-04-03",
+      "time": "05:51",
+      "summary": "L'empresa ha llançat tres models propis de generació d'imatges i veu per reduir la seva dependència d'OpenAI."
+    },
+    {
+      "title": "Google impulsa el vídeo amb IA a la vida quotidiana mentre OpenAI retira Sora",
+      "link_id": "c_84eb55",
+      "source": "TechRadar",
+      "date": "2026-04-03",
+      "time": "04:00",
+      "summary": "L'aplicació Vids de Workspace ara permet als usuaris personalitzar i dirigir avatars virtuals mitjançant instruccions de text."
+    },
+    {
+      "title": "Amazon, afectada per la guerra, afegeix un recàrrec per combustible que podria encarir les compres",
+      "link_id": "c_a107e3",
+      "source": "Digital Trends",
+      "date": "2026-04-03",
+      "time": "10:14",
+      "summary": "Aquesta tarifa temporal del 3,5% s'aplicarà als venedors externs a causa de l'augment del preu del petroli."
+    },
+    {
+      "title": "El Chromecast pot haver mort, però Samsung integra Google Cast gratuïtament als seus televisors",
+      "link_id": "c_f7dfa3",
+      "source": "TechRadar",
+      "date": "2026-04-03",
+      "time": "10:00",
+      "summary": "Una nova actualització del sistema operatiu Tizen portarà aquesta funcionalitat molt demanada fins i tot a models antics."
+    },
+    {
+      "title": "Apple CarPlay supera Android Auto (de nou) i rep suport per a Google Meet",
+      "link_id": "c_bfe05b",
+      "source": "Android Authority",
+      "date": "2026-04-03",
+      "time": "09:56",
+      "summary": "Els usuaris d'iPhone ja poden unir-se a reunions de manera segura mentre condueixen, avançant-se al sistema de Google."
+    },
+    {
+      "title": "L'iPhone 18 Pro podria ometre l'únic color que els fans han estat anhelant",
+      "link_id": "c_b8c524",
+      "source": "Digital Trends",
+      "date": "2026-04-02",
+      "time": "20:49",
+      "summary": "Les filtracions indiquen que el model de gamma alta d'Apple tornarà a prescindir de l'opció en color negre."
+    },
+    {
+      "title": "IBM vol programari Arm als seus mainframes per donar millor suport a la IA",
       "link_id": "c_aeb399",
       "source": "The Register",
       "date": "2026-04-02",
       "time": "16:32",
-      "summary": "L'aliança busca executar càrregues de treball intensives i natives del núvol, ampliant les opcions de maquinari per a les empreses."
-    },
-    {
-      "title": "Elon Musk està a punt d'estar molt ocupat!",
-      "link_id": "c_f7401f",
-      "source": "The Verge",
-      "date": "2026-04-02",
-      "time": "14:15",
-      "summary": "SpaceX ha presentat documentació confidencial per sortir a borsa, un moviment que podria convertir-se en una oferta pública històrica."
-    },
-    {
-      "title": "La resposta de Tim Cook sobre les ulleres intel·ligents d'Apple és una subtil referència a Steve Jobs",
-      "link_id": "c_063f6a",
-      "source": "9to5Mac",
-      "date": "2026-04-02",
-      "time": "14:05",
-      "summary": "Durant la celebració del cinquantè aniversari de la companyia, el director executiu va insinuar futurs projectes de realitat augmentada."
-    },
-    {
-      "title": "Google ha duplicat l'emmagatzematge del seu pla AI Pro, superant ChatGPT: així és com es comparen",
-      "link_id": "c_f612c9",
-      "source": "TechRadar",
-      "date": "2026-04-02",
-      "time": "14:00",
-      "summary": "Els subscriptors d'aquest servei ara gaudeixen de cinc terabytes d'espai al núvol sense cap increment en el preu mensual."
-    },
-    {
-      "title": "Microsoft s'enfronta als seus rivals d'IA amb tres nous models fundacionals",
-      "link_id": "c_c12d86",
-      "source": "TechCrunch",
-      "date": "2026-04-02",
-      "time": "16:48",
-      "summary": "Aquestes eines de creació pròpia permeten transcriure veu i generar àudio o imatges, competint directament amb OpenAI i Google."
-    },
-    {
-      "title": "Google converteix la creació de vídeos en una experiència d'un sol clic amb les darreres actualitzacions de Vids",
-      "link_id": "c_74836b",
-      "source": "Android Authority",
-      "date": "2026-04-02",
-      "time": "16:00",
-      "summary": "La plataforma Workspace ara permet personalitzar i dirigir avatars virtuals mitjançant instruccions de text per facilitar les presentacions."
-    },
-    {
-      "title": "Amazon estaria en converses per comprar Globalstar, el soci de satèl·lits d'Apple",
-      "link_id": "c_a3dd82",
-      "source": "MacRumors",
-      "date": "2026-04-02",
-      "time": "04:45",
-      "summary": "L'adquisició, valorada en nou mil milions de dòlars, impulsaria la xarxa d'Amazon per rivalitzar amb Starlink de SpaceX."
+      "summary": "Aquesta col·laboració permetrà executar aplicacions eficients en sistemes empresarials, facilitant càrregues de treball intensives en dades."
     }
   ]
 }

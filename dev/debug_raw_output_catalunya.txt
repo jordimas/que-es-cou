@@ -1,80 +1,291 @@
 {
-  "generated_at": "2026-04-02T18:47",
+  "generated_at": "2024-05-20T18:30",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
-  "sources_checked": [],
+  "sources_checked": [
+    {
+      "name": "Ara.cat",
+      "url": "https://www.ara.cat/rss/",
+      "articles_found": 0
+    },
+    {
+      "name": "El Periódico",
+      "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
+      "articles_found": 1
+    },
+    {
+      "name": "RAC1",
+      "url": "https://www.rac1.cat/rss/home.xml",
+      "articles_found": 5
+    },
+    {
+      "name": "La Vanguardia (en català)",
+      "url": "https://www.lavanguardia.com/rss/encatala.xml",
+      "articles_found": 14
+    },
+    {
+      "name": "VilaWeb",
+      "url": "https://www.vilaweb.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "NacióDigital",
+      "url": "https://www.naciodigital.cat/rss/tecnologia",
+      "articles_found": 0
+    },
+    {
+      "name": "324.cat",
+      "url": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0",
+      "articles_found": 4
+    },
+    {
+      "name": "Softcatalà",
+      "url": "https://www.softcatala.org/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "El Nacional.cat",
+      "url": "https://www.elnacional.cat/uploads/feeds/feed_ca.xml",
+      "articles_found": 14
+    },
+    {
+      "name": "El Mon.cat",
+      "url": "https://www.elmon.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "El Mon.cat Tecnologia",
+      "url": "https://elmon.cat/tecnologia/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "El Mon.cat Societat",
+      "url": "https://elmon.cat/societat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "Betevé",
+      "url": "https://beteve.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/barcelona.feed?type=rss",
+      "articles_found": 0
+    },
+    {
+      "name": "Segre",
+      "url": "https://www.segre.com/ca/rss/home.xml",
+      "articles_found": 7
+    },
+    {
+      "name": "Regio7",
+      "url": "https://www.regio7.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Diari d'Andorra",
+      "url": "https://www.diariandorra.ad/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Bon Dia Andorra",
+      "url": "https://www.bondia.ad/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Altaveu",
+      "url": "https://www.altaveu.com/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Nuvol",
+      "url": "https://www.nuvol.com/feed",
+      "articles_found": 0
+    },
+    {
+      "name": "Diari Mes",
+      "url": "https://www.diarimes.com/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Directe.cat",
+      "url": "https://www.directe.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Cugat.cat",
+      "url": "https://www.cugat.cat/feed/",
+      "articles_found": 3
+    },
+    {
+      "name": "CatalunyaPress",
+      "url": "https://www.catalunyapress.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Tot Barcelona",
+      "url": "https://www.totbarcelona.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "e-notícies",
+      "url": "https://www.e-noticies.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Lleida Diari",
+      "url": "https://www.lleidadiari.cat/feed/",
+      "articles_found": 1
+    },
+    {
+      "name": "Catorze",
+      "url": "https://www.catorze.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Xarxanet",
+      "url": "https://www.xarxanet.org/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Bondia",
+      "url": "https://www.bondia.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "MetaData",
+      "url": "https://www.metadata.cat/sindica",
+      "articles_found": 5
+    },
+    {
+      "name": "El Temps",
+      "url": "https://www.eltemps.cat/sindica",
+      "articles_found": 0
+    },
+    {
+      "name": "Àpunt",
+      "url": "https://www.apuntmedia.es/rss/",
+      "articles_found": 3
+    },
+    {
+      "name": "El Periòdic d'Ontinyent",
+      "url": "https://www.elperiodicvalencia.com/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Saó",
+      "url": "https://www.revistasao.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "Diari de Balears",
+      "url": "https://www.diaridebalears.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "IB3 Notícies",
+      "url": "https://ib3.org/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "Ara Balears",
+      "url": "https://www.arabalears.cat/rss/",
+      "articles_found": 2
+    },
+    {
+      "name": "Manacor Comarcal",
+      "url": "https://manacorcomarcal.com/?feed=rss2",
+      "articles_found": 1
+    },
+    {
+      "name": "Via Empresa",
+      "url": "https://www.viaempresa.cat/uploads/feeds/feed_via-empresa-2024_ca.xml",
+      "articles_found": 3
+    },
+    {
+      "name": "Lúdica",
+      "url": "https://ludica.cat/feed/",
+      "articles_found": 2
+    },
+    {
+      "name": "Accent Obert",
+      "url": "https://accentobert.cat/feed/",
+      "articles_found": 0
+    }
+  ],
   "articles": [
     {
-      "title": "El DNI ja es pot portar al mòbil: com s'activa?",
-      "link_id": "c_c3c74e",
-      "source": "Ara.cat",
-      "date": "2026-04-02",
-      "time": "11:15",
-      "summary": "L'aplicació MiDNI permet portar el document d'identitat al telèfon, sent obligatori per a entitats públiques i privades acceptar-lo."
-    },
-    {
-      "title": "El DNI digital s’equipara al físic: com el podem instal·lar?",
-      "link_id": "c_987c08",
-      "source": "VilaWeb",
-      "date": "2026-04-02",
+      "title": "Dia dos de la missió Artemis II: la nau Orion supera la maniobra més crítica i ja viatja cap a la Lluna",
+      "link_id": "c_72ca3b",
+      "source": "El Nacional.cat",
+      "date": "2026-04-03",
       "time": "11:18",
-      "summary": "Per configurar-lo calen certificats digitals vigents i un lector de targetes, tot i que existeixen punts físics habilitats."
+      "summary": "La nau Orion abandona l'òrbita terrestre i es dirigeix a la cara oculta del satèl·lit amb quatre tripulants."
     },
     {
-      "title": "L'Artemis 2 s'enlaira amb èxit i ja va camí de la Lluna, 50 anys després: les imatges del llançament històric",
-      "link_id": "c_da518d",
-      "source": "RAC1",
-      "date": "2026-04-02",
-      "time": "06:40",
-      "summary": "La nau ha sortit del Centre Espacial Kennedy per orbitar el satèl·lit, marcant una fita històrica per a l'exploració espacial."
-    },
-    {
-      "title": "La missió Artemis 2 desenganxa cap a la Lluna amb quatre astronautes",
-      "link_id": "c_996607",
+      "title": "Quant estalvi suposa un cotxe elèctric respecte a un de gasolina o gasoil en plena tempesta del petroli",
+      "link_id": "c_81c880",
       "source": "La Vanguardia (en català)",
       "date": "2026-04-02",
-      "time": "06:02",
-      "summary": "El coet SLS ha impulsat la càpsula Orió, iniciant un viatge clau per preparar futurs aterratges lunars tripulats."
+      "time": "06:23",
+      "summary": "Recórrer la mateixa distància amb un vehicle elèctric costa actualment tres vegades menys que fer-ho amb combustible fòssil."
     },
     {
-      "title": "Quasi un de cada quatre cotxes venuts a Catalunya s'endolla",
-      "link_id": "c_8df369",
-      "source": "Ara.cat",
-      "date": "2026-04-01",
-      "time": "16:11",
-      "summary": "Les vendes de vehicles híbrids i elèctrics purs assoleixen el 23,8% del mercat català durant el primer trimestre de l'any."
+      "title": "Del terapeuta a l'amant: com la IA es cola en la intimitat emocional i sexual",
+      "link_id": "c_c24848",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-04-03",
+      "time": "07:06",
+      "summary": "L'ús d'assistents virtuals per gestionar vincles i evitar incomoditats emocionals redefineix la nostra manera d'entendre les relacions personals."
     },
     {
-      "title": "Quin estalvi suposa un cotxe elèctric respecte a un de benzina o de gasoil en plena tempesta del petroli",
-      "link_id": "c_718dce",
-      "source": "RAC1",
-      "date": "2026-04-01",
-      "time": "19:48",
-      "summary": "L'encariment global dels combustibles fòssils accentua l'avantatge econòmic de l'electrificació per als conductors que busquen reduir despeses diàries."
+      "title": "Així funciona MiDNI, per portar el DNI al mòbil",
+      "link_id": "c_34e843",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-04-03",
+      "time": "07:23",
+      "summary": "La nova aplicació permetrà identificar-se legalment davant d'entitats públiques i privades a tot l'Estat directament des del telèfon."
     },
     {
-      "title": "Àngel Simón, nou president no executiu d’Indra per la dimissió d’Ángel Escribano",
-      "link_id": "c_38e124",
-      "source": "VilaWeb",
+      "title": "Els usuaris assenyalen dificultats en l'ús de l'app de Sanitat",
+      "link_id": "c_15271a",
+      "source": "Àpunt",
       "date": "2026-04-02",
-      "time": "08:12",
-      "summary": "L'exdirectiu de La Caixa assumeix el càrrec a proposta de la SEPI, consolidant la reestructuració de la tecnològica espanyola."
+      "time": "17:19",
+      "summary": "La nova actualització de l'aplicació exigeix un certificat digital, fet que ha generat queixes per les dificultats d'accés."
     },
     {
-      "title": "Ángel Escribano dimiteix com a president d'Indra després de la compra fallida de la seva empresa EME",
-      "link_id": "c_806499",
+      "title": "Traducció al català en temps real amb auriculars: així funciona la nova eina de Google",
+      "link_id": "c_6cf7eb",
+      "source": "El Periódico",
+      "date": "2026-04-03",
+      "time": "12:05",
+      "summary": "La funció 'Live Translate' facilita la comunicació a l'estranger i l'entorn professional traduint converses a l'instant mitjançant auriculars."
+    },
+    {
+      "title": "El comitè d'empresa d'Ocado Technology denuncia l'inici d'un ERO que afectaria el 72% de l'equip",
+      "link_id": "c_91f60e",
       "source": "Via Empresa",
-      "date": "2026-04-02",
-      "time": "09:30",
-      "summary": "El fins ara president al·lega desgast personal després que la multinacional frenés l'adquisició de la seva pròpia societat."
+      "date": "2026-04-03",
+      "time": "10:20",
+      "summary": "Els treballadors de la filial barcelonina alerten que l'empresa vol deslocalitzar l'activitat cap a països amb menors costos laborals."
     },
     {
-      "title": "Austràlia no pot aplicar el veto a les xarxes als menors i acusa les plataformes",
-      "link_id": "c_43e0e4",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-04-01",
-      "time": "05:45",
-      "summary": "El govern australià denuncia la manca de col·laboració tecnològica per fer complir la prohibició d'accés als menors de setze anys."
+      "title": "Navegar sense mariners: el veler que vol connectar les Balears amb la península amb IA",
+      "link_id": "c_cee17d",
+      "source": "Ara Balears",
+      "date": "2026-04-03",
+      "time": "08:33",
+      "summary": "Estudiants de la UPC dissenyen una petita embarcació autònoma que pretén revolucionar la navegació marítima entre la península i Eivissa."
+    },
+    {
+      "title": "El consell dels Bombers a les zones sense cobertura: la geolocalització",
+      "link_id": "c_b5a865",
+      "source": "Lleida Diari",
+      "date": "2026-04-03",
+      "time": "11:19",
+      "summary": "Els equips d'emergència recorden que portar dispositius de localització pot salvar vides en àrees naturals sense cobertura mòbil."
     },
     {
       "title": "El bloqueig de Telegram a Rússia, l'últim pas del Kremlin en la censura a internet",
@@ -82,7 +293,7 @@
       "source": "324.cat",
       "date": "2026-04-01",
       "time": "21:34",
-      "summary": "La ciutadania russa busca alternatives tecnològiques per evadir les restriccions governamentals i mantenir l'accés a la informació lliure."
+      "summary": "La prohibició de la plataforma genera un fort rebuig ciutadà, impulsant la recerca d'alternatives per esquivar la censura estatal."
     }
   ]
 }

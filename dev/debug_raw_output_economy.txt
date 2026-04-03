@@ -1,88 +1,88 @@
 {
-  "generated_at": "2024-05-24T18:30",
+  "generated_at": "2024-05-24T16:00",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Amazon negocia la compra de Globalstar per 9.000 milions de dòlars per competir amb Starlink",
-      "link_id": "c_b1371d",
+      "title": "OpenAI adquireix un popular programa tecnològic per centenars de milions",
+      "link_id": "c_aca305",
       "source": "Financial Times",
-      "date": "2026-04-01",
-      "time": "22:40",
-      "summary": "L'adquisició impulsaria la xarxa d'internet per satèl·lit d'Amazon, buscant retallar distàncies amb el domini espacial d'Elon Musk."
+      "date": "2026-04-02",
+      "time": "19:33",
+      "summary": "L'empresa s'endinsa en la radiodifusió comprant TBPN, malgrat haver promès centrar-se només en la intel·ligència artificial."
     },
     {
-      "title": "Les accions de Tesla cauen més d'un 5% per unes dades d'entregues decebedores",
+      "title": "Els inversors aposten pel caos de la IA, però la història suggereix el contrari",
+      "link_id": "c_65b5a9",
+      "source": "Financial Times",
+      "date": "2026-04-03",
+      "time": "11:00",
+      "summary": "Les revolucions tecnològiques passades indiquen que les empreses consolidades podrien adaptar-se i, fins i tot, prosperar amb èxit."
+    },
+    {
+      "title": "Les emergents de defensa busquen beneficis mentre els EUA i el Golf aposten per la tecnologia",
+      "link_id": "c_0f2478",
+      "source": "CNBC Technology",
+      "date": "2026-04-03",
+      "time": "11:00",
+      "summary": "El finançament d'aquestes companyies s'ha disparat recentment a causa de la necessitat urgent de modernitzar els exèrcits."
+    },
+    {
+      "title": "La japonesa Sakura Internet puja un 20% per l'impuls en IA de Microsoft i SoftBank",
+      "link_id": "c_bf8ef4",
+      "source": "CNBC Technology",
+      "date": "2026-04-03",
+      "time": "05:19",
+      "summary": "Microsoft destinarà 10.000 milions de dòlars fins al 2029 per construir nova infraestructura tecnològica al país nipó."
+    },
+    {
+      "title": "Les empreses xineses de xips assoleixen ingressos rècord impulsades per la IA i les restriccions dels EUA",
+      "link_id": "c_b3da33",
+      "source": "CNBC Technology",
+      "date": "2026-04-03",
+      "time": "05:00",
+      "summary": "La forta demanda interna i les limitacions nord-americanes han enfortit significativament els fabricants locals de semiconductors."
+    },
+    {
+      "title": "Les asseguradores recorren als bons de catàstrofe per descarregar els riscos dels centres de dades",
+      "link_id": "c_70c3b3",
+      "source": "Financial Times",
+      "date": "2026-04-03",
+      "time": "04:00",
+      "summary": "El sector busca finançament d'inversors alternatius per poder cobrir els creixents megaprojectes d'intel·ligència artificial."
+    },
+    {
+      "title": "Un executiu de Microsoft destaca les vendes de Copilot mentre l'ansietat per la IA afecta les accions",
+      "link_id": "c_5a7481",
+      "source": "CNBC Technology",
+      "date": "2026-04-03",
+      "time": "00:36",
+      "summary": "Tot i els dubtes del mercat, l'adopció d'aquesta eina de pagament mensual encara es troba en fase inicial."
+    },
+    {
+      "title": "Coinbase supera un obstacle regulador clau per reforçar el seu negoci de monedes estables",
+      "link_id": "c_a95cd3",
+      "source": "CNBC Technology",
+      "date": "2026-04-02",
+      "time": "21:17",
+      "summary": "L'empresa ha obtingut l'aprovació condicional dels Estats Units per operar oficialment com a banc fiduciari."
+    },
+    {
+      "title": "Les accions de Tesla pateixen la caiguda més forta del 2026 per unes entregues decebedores",
       "link_id": "c_abfaee",
       "source": "CNBC Technology",
       "date": "2026-04-02",
-      "time": "18:18",
-      "summary": "La forta competència xinesa amb models més econòmics ha impactat negativament en el volum de vendes anual de la companyia."
+      "time": "20:26",
+      "summary": "La creixent competència dels fabricants xinesos amb models més econòmics ha impactat negativament en les vendes de l'empresa."
     },
     {
-      "title": "OpenAI adquireix el popular pòdcast tecnològic TBPN",
-      "link_id": "c_a495c9",
-      "source": "CNBC Technology",
-      "date": "2026-04-02",
-      "time": "18:10",
-      "summary": "El programa s'integrarà a l'equip d'estratègia de l'empresa d'intel·ligència artificial, tot i que no s'han revelat els detalls financers."
-    },
-    {
-      "title": "Microsoft llança un model d'IA de \"classe mitjana\" davant les limitacions de computació",
+      "title": "Microsoft llança un model d'IA de «classe mitjana» davant els límits de computació",
       "link_id": "c_ecf2f1",
       "source": "Financial Times",
       "date": "2026-04-02",
       "time": "14:00",
-      "summary": "L'empresa optimitza recursos actuals mentre prepara la infraestructura necessària per desenvolupar sistemes molt més avançats a finals d'any."
-    },
-    {
-      "title": "Poolside busca socis per a centres de dades després de fracassar l'acord amb CoreWeave",
-      "link_id": "c_ad167a",
-      "source": "Financial Times",
-      "date": "2026-04-02",
-      "time": "04:00",
-      "summary": "La start-up d'IA negocia amb Google per salvar el seu ambiciós projecte de dos gigawatts a Texas."
-    },
-    {
-      "title": "El personal de l'NHS boicoteja la plataforma de dades de Palantir per motius ètics",
-      "link_id": "c_d9cfe7",
-      "source": "Financial Times",
-      "date": "2026-04-02",
-      "time": "04:00",
-      "summary": "Els sanitaris britànics rebutgen l'ús del sistema nord-americà, valorat en 330 milions de lliures, per protegir la privacitat dels pacients."
-    },
-    {
-      "title": "Com Apple va fusionar l'artesania japonesa amb l'escala xinesa",
-      "link_id": "c_3efab3",
-      "source": "Financial Times",
-      "date": "2026-04-02",
-      "time": "04:00",
-      "summary": "L'èxit tecnològic de la companyia s'explica per la combinació estratègica de la precisió nipona i la capacitat de producció xinesa."
-    },
-    {
-      "title": "Els ingressos al núvol de Huawei van caure el 2025 pel retard de la IA xinesa",
-      "link_id": "c_8e1080",
-      "source": "CNBC Technology",
-      "date": "2026-04-02",
-      "time": "02:33",
-      "summary": "Tot i la davallada externa, el gegant tecnològic va compensar les xifres gràcies a l'augment del consum dels clients interns."
-    },
-    {
-      "title": "Franklin Templeton adquireix una firma d'actius digitals per impulsar la gestió de criptomonedes",
-      "link_id": "c_0d0964",
-      "source": "CNBC Technology",
-      "date": "2026-04-01",
-      "time": "23:35",
-      "summary": "La compra de 250 Digital reforça la nova divisió Franklin Crypto, consolidant l'aposta de l'empresa pels actius virtuals."
-    },
-    {
-      "title": "El registre de SpaceX inicia el procés de sortida a borsa més gran de la història",
-      "link_id": "c_f357f8",
-      "source": "Financial Times",
-      "date": "2026-04-01",
-      "time": "21:30",
-      "summary": "La documentació confidencial presentada als reguladors nord-americans prepara el terreny per a una cotització rècord aquest mateix estiu."
+      "summary": "El gegant tecnològic assegura que tindrà prou recursos per desenvolupar sistemes més avançats a finals d'aquest any."
     }
   ]
 }
