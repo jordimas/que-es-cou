@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-04-02T19:47",
+  "generated_at": "2026-04-03T09:57",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Els astronautes de la NASA es preparen per a l'impuls final cap a la Lluna",
-      "link_id": "c_94d4f8",
-      "source": "Bloomberg Technology",
-      "date": "2026-04-02",
-      "time": "16:42",
-      "summary": "La tripulació de l'Artemis II s'acosta a la superfície lunar, marcant una fita històrica després de més de cinquanta anys."
+      "title": "La missió Artemis II de la NASA, dia 2: Orion abandona l'òrbita terrestre cap a la Lluna",
+      "link_id": "c_029a1f",
+      "source": "CNET",
+      "date": "2026-04-03",
+      "time": "06:17",
+      "summary": "La càpsula Orion ha encès els motors per abandonar l'òrbita terrestre i dirigir-se cap a la Lluna."
     },
     {
-      "title": "Un astronauta de l'Artemis II demana ajuda a Houston per un error de Microsoft Outlook",
-      "link_id": "c_b00e3c",
-      "source": "Tom's Hardware",
-      "date": "2026-04-02",
-      "time": "16:11",
-      "summary": "Un problema informàtic inesperat amb el correu electrònic a la càpsula Orion ha frustrat la tripulació durant el viatge espacial."
-    },
-    {
-      "title": "Descarreguen el codi font filtrat de Claude i acaben infectats per programari maliciós",
-      "link_id": "c_b028d8",
+      "title": "Google combat els models xinesos de codi obert amb Gemma 4",
+      "link_id": "c_abe7b8",
       "source": "The Register",
       "date": "2026-04-02",
-      "time": "17:34",
-      "summary": "Milers d'usuaris van baixar els arxius d'Anthropic, però molts amagaven un virus dissenyat per robar credencials i dades personals."
+      "time": "21:15",
+      "summary": "Google llança nous models d'intel·ligència artificial de codi obert sota la llicència Apache 2.0 per atreure empreses."
     },
     {
-      "title": "Les targetes gràfiques RTX de NVIDIA acceleren els nous models d'IA Gemma 4 de Google",
-      "link_id": "c_1729a4",
-      "source": "PCWorld",
+      "title": "OpenAI compra el programa 'TBPN' amb l'objectiu de canviar la narrativa sobre la IA",
+      "link_id": "c_39c131",
+      "source": "NYT Technology",
+      "date": "2026-04-03",
+      "time": "05:59",
+      "summary": "L'empresa adquireix un popular programa d'entrevistes tecnològiques per millorar la seva imatge pública i fomentar debats constructius."
+    },
+    {
+      "title": "Microsoft crea la seva pròpia pila d'IA per reduir la dependència d'OpenAI",
+      "link_id": "c_fcc0c2",
+      "source": "Computerworld",
+      "date": "2026-04-03",
+      "time": "01:55",
+      "summary": "Microsoft presenta tres nous models propis per a transcripció, generació de veu i creació d'imatges a gran velocitat."
+    },
+    {
+      "title": "Google impulsa el vídeo amb IA a la vida quotidiana mentre OpenAI retira Sora",
+      "link_id": "c_84eb55",
+      "source": "TechRadar",
+      "date": "2026-04-03",
+      "time": "04:00",
+      "summary": "L'aplicació Vids de Google s'actualitza amb noves eines d'intel·ligència artificial per personalitzar i dirigir avatars en vídeos."
+    },
+    {
+      "title": "YouTube millora la seva experiència musical just a temps per a Coachella",
+      "link_id": "c_9ef21f",
+      "source": "CNET",
       "date": "2026-04-02",
-      "time": "17:28",
-      "summary": "Aquesta col·laboració optimitza el rendiment local de la intel·ligència artificial, permetent una execució més ràpida i eficient en ordinadors personals."
+      "time": "23:48",
+      "summary": "La plataforma oferirà retransmissions en directe del festival amb qualitat 4K i múltiples escenaris simultanis gratuïtament."
     },
     {
-      "title": "IBM integrarà programari Arm als seus servidors per potenciar la intel·ligència artificial",
+      "title": "L'iPhone 18 Pro podria ometre l'únic color que els fans han estat anhelant",
+      "link_id": "c_b8c524",
+      "source": "Digital Trends",
+      "date": "2026-04-02",
+      "time": "20:49",
+      "summary": "Els rumors apunten que el proper telèfon insígnia d'Apple tampoc estarà disponible en color negre aquest any."
+    },
+    {
+      "title": "Samsung renova la línia de televisors The Frame per al 2026 amb una agradable sorpresa de preu",
+      "link_id": "c_808547",
+      "source": "Digital Trends",
+      "date": "2026-04-02",
+      "time": "20:40",
+      "summary": "Els nous televisors The Frame de Samsung milloren la reducció de reflexos i redueixen el preu del model Pro."
+    },
+    {
+      "title": "IBM vol programari Arm als seus mainframes per donar millor suport a la IA",
       "link_id": "c_aeb399",
       "source": "The Register",
       "date": "2026-04-02",
       "time": "16:32",
-      "summary": "L'aliança busca millorar l'eficiència energètica i facilitar l'execució de càrregues de treball intensives en dades als sistemes empresarials."
+      "summary": "Ambdues companyies col·laboren per executar aplicacions basades en Arm als sistemes empresarials d'IBM, optimitzant càrregues de treball."
     },
     {
-      "title": "Google duplica l'emmagatzematge del seu pla AI Pro fins als 5 TB sense cost addicional",
-      "link_id": "c_f612c9",
-      "source": "TechRadar",
-      "date": "2026-04-02",
-      "time": "14:00",
-      "summary": "Aquesta millora estratègica busca superar ChatGPT, oferint més espai al núvol per als usuaris de pagament de Gemini."
-    },
-    {
-      "title": "Microsoft desafia els seus rivals amb tres nous models fundacionals d'intel·ligència artificial",
-      "link_id": "c_c12d86",
-      "source": "TechCrunch",
-      "date": "2026-04-02",
-      "time": "16:48",
-      "summary": "Desenvolupats internament, aquests sistemes permeten transcriure veu i generar àudio o imatges, competint directament amb OpenAI i Google."
-    },
-    {
-      "title": "Google transforma la creació de vídeos amb les últimes actualitzacions de l'aplicació Vids",
-      "link_id": "c_74836b",
-      "source": "Android Authority",
-      "date": "2026-04-02",
-      "time": "16:00",
-      "summary": "La nova eina permet personalitzar i dirigir avatars virtuals mitjançant instruccions senzilles, facilitant la producció de contingut audiovisual."
-    },
-    {
-      "title": "Apple: 50 anys d'història resumits en quinze minuts",
-      "link_id": "c_007fd3",
+      "title": "El nou CMS de Cloudflare no és un assassí de WordPress, és una alternativa",
+      "link_id": "c_ff6859",
       "source": "Computerworld",
-      "date": "2026-04-01",
-      "time": "19:20",
-      "summary": "Un repàs als moments clau i als productes revolucionaris que han convertit l'empresa en un gegant tecnològic mundial."
-    },
-    {
-      "title": "El polèmic vicepresident de Fitness d'Apple, Jay Blahnik, es jubila",
-      "link_id": "c_a2b785",
-      "source": "Engadget",
-      "date": "2026-04-02",
-      "time": "11:52",
-      "summary": "La seva sortida arriba després d'acusacions sobre la creació d'un entorn de treball tòxic durant els seus tretze anys."
+      "date": "2026-04-03",
+      "time": "01:12",
+      "summary": "Cloudflare llança EmDash, un gestor de continguts de codi obert basat en TypeScript dissenyat per oferir més seguretat."
     }
   ]
 }
