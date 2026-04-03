@@ -18,9 +18,7 @@ INCLUDE an article if its title/description is primarily about:
 - AI, ML, robotics, automation
 - Cybersecurity, hacking, privacy, data breaches
 - Internet, networking, cloud, data centers
-- EVs, drones, space tech, biotech, cleantech
 - Startups, tech companies, funding rounds in tech
-- Science with direct tech application
 - Catalan language support/localization in tech products or software
 
 EXCLUDE if primarily about:
