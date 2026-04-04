@@ -1,5 +1,5 @@
 {
-  "generated_at": "2024-05-20T18:30",
+  "generated_at": "2026-04-04T11:20",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
@@ -16,17 +16,17 @@
     {
       "name": "RAC1",
       "url": "https://www.rac1.cat/rss/home.xml",
-      "articles_found": 5
+      "articles_found": 4
     },
     {
       "name": "La Vanguardia (en català)",
       "url": "https://www.lavanguardia.com/rss/encatala.xml",
-      "articles_found": 14
+      "articles_found": 10
     },
     {
       "name": "VilaWeb",
       "url": "https://www.vilaweb.cat/feed/",
-      "articles_found": 0
+      "articles_found": 2
     },
     {
       "name": "NacióDigital",
@@ -36,7 +36,7 @@
     {
       "name": "324.cat",
       "url": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0",
-      "articles_found": 4
+      "articles_found": 6
     },
     {
       "name": "Softcatalà",
@@ -46,12 +46,12 @@
     {
       "name": "El Nacional.cat",
       "url": "https://www.elnacional.cat/uploads/feeds/feed_ca.xml",
-      "articles_found": 14
+      "articles_found": 9
     },
     {
       "name": "El Mon.cat",
       "url": "https://www.elmon.cat/feed/",
-      "articles_found": 0
+      "articles_found": 1
     },
     {
       "name": "El Mon.cat Tecnologia",
@@ -61,12 +61,12 @@
     {
       "name": "El Mon.cat Societat",
       "url": "https://elmon.cat/societat/feed/",
-      "articles_found": 0
+      "articles_found": 1
     },
     {
       "name": "Betevé",
       "url": "https://beteve.cat/feed/",
-      "articles_found": 0
+      "articles_found": 1
     },
     {
       "name": "El Punt Avui",
@@ -116,7 +116,7 @@
     {
       "name": "Cugat.cat",
       "url": "https://www.cugat.cat/feed/",
-      "articles_found": 3
+      "articles_found": 2
     },
     {
       "name": "CatalunyaPress",
@@ -156,17 +156,17 @@
     {
       "name": "MetaData",
       "url": "https://www.metadata.cat/sindica",
-      "articles_found": 5
+      "articles_found": 4
     },
     {
       "name": "El Temps",
       "url": "https://www.eltemps.cat/sindica",
-      "articles_found": 0
+      "articles_found": 1
     },
     {
       "name": "Àpunt",
       "url": "https://www.apuntmedia.es/rss/",
-      "articles_found": 3
+      "articles_found": 2
     },
     {
       "name": "El Periòdic d'Ontinyent",
@@ -201,7 +201,7 @@
     {
       "name": "Via Empresa",
       "url": "https://www.viaempresa.cat/uploads/feeds/feed_via-empresa-2024_ca.xml",
-      "articles_found": 3
+      "articles_found": 5
     },
     {
       "name": "Lúdica",
@@ -216,44 +216,20 @@
   ],
   "articles": [
     {
-      "title": "Dia dos de la missió Artemis II: la nau Orion supera la maniobra més crítica i ja viatja cap a la Lluna",
-      "link_id": "c_72ca3b",
+      "title": "Dia tres de la missió Artemis II: la nau Orion ja ha superat la meitat del camí cap a la Lluna",
+      "link_id": "c_36126e",
       "source": "El Nacional.cat",
+      "date": "2026-04-04",
+      "time": "11:37",
+      "summary": "La tripulació aprofita el trajecte per fer exercici i preparar els equips d'investigació abans d'arribar a l'òrbita lunar."
+    },
+    {
+      "title": "Ja no cal portar el DNI físic: consulta com tenir el DNI digital",
+      "link_id": "c_2585ac",
+      "source": "Cugat.cat",
       "date": "2026-04-03",
-      "time": "11:18",
-      "summary": "La nau Orion abandona l'òrbita terrestre i es dirigeix a la cara oculta del satèl·lit amb quatre tripulants."
-    },
-    {
-      "title": "Quant estalvi suposa un cotxe elèctric respecte a un de gasolina o gasoil en plena tempesta del petroli",
-      "link_id": "c_81c880",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-04-02",
-      "time": "06:23",
-      "summary": "Recórrer la mateixa distància amb un vehicle elèctric costa actualment tres vegades menys que fer-ho amb combustible fòssil."
-    },
-    {
-      "title": "Del terapeuta a l'amant: com la IA es cola en la intimitat emocional i sexual",
-      "link_id": "c_c24848",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-04-03",
-      "time": "07:06",
-      "summary": "L'ús d'assistents virtuals per gestionar vincles i evitar incomoditats emocionals redefineix la nostra manera d'entendre les relacions personals."
-    },
-    {
-      "title": "Així funciona MiDNI, per portar el DNI al mòbil",
-      "link_id": "c_34e843",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-04-03",
-      "time": "07:23",
-      "summary": "La nova aplicació permetrà identificar-se legalment davant d'entitats públiques i privades a tot l'Estat directament des del telèfon."
-    },
-    {
-      "title": "Els usuaris assenyalen dificultats en l'ús de l'app de Sanitat",
-      "link_id": "c_15271a",
-      "source": "Àpunt",
-      "date": "2026-04-02",
-      "time": "17:19",
-      "summary": "La nova actualització de l'aplicació exigeix un certificat digital, fet que ha generat queixes per les dificultats d'accés."
+      "time": "13:33",
+      "summary": "L'aplicació MiDNI ja és plenament vàlida per identificar-se legalment davant qualsevol entitat pública o privada a l'Estat."
     },
     {
       "title": "Traducció al català en temps real amb auriculars: així funciona la nova eina de Google",
@@ -261,23 +237,47 @@
       "source": "El Periódico",
       "date": "2026-04-03",
       "time": "12:05",
-      "summary": "La funció 'Live Translate' facilita la comunicació a l'estranger i l'entorn professional traduint converses a l'instant mitjançant auriculars."
+      "summary": "La funció 'Live Translate' facilita la comunicació internacional i els viatges, convertint els auriculars en intèrprets simultanis."
     },
     {
-      "title": "El comitè d'empresa d'Ocado Technology denuncia l'inici d'un ERO que afectaria el 72% de l'equip",
-      "link_id": "c_91f60e",
-      "source": "Via Empresa",
+      "title": "Les grans cadenes ja estan obligades a donar o reciclar el menjar perquè no es faci malbé",
+      "link_id": "c_2e0989",
+      "source": "324.cat",
       "date": "2026-04-03",
-      "time": "10:20",
-      "summary": "Els treballadors de la filial barcelonina alerten que l'empresa vol deslocalitzar l'activitat cap a països amb menors costos laborals."
+      "time": "16:48",
+      "summary": "La nova normativa exigeix als grans establiments disposar de plans específics per evitar el malbaratament d'aliments."
     },
     {
-      "title": "Navegar sense mariners: el veler que vol connectar les Balears amb la península amb IA",
-      "link_id": "c_cee17d",
-      "source": "Ara Balears",
+      "title": "La justícia italiana declara il·legals els augments de preu de Netflix i l’obliga a retornar els diners",
+      "link_id": "c_b78b54",
+      "source": "VilaWeb",
       "date": "2026-04-03",
-      "time": "08:33",
-      "summary": "Estudiants de la UPC dissenyen una petita embarcació autònoma que pretén revolucionar la navegació marítima entre la península i Eivissa."
+      "time": "19:28",
+      "summary": "Els usuaris afectats des del 2017 podrien rebre compensacions de fins a 500 euros per les tarifes abusives."
+    },
+    {
+      "title": "La marca catalana que obessiona la Generació Z incorpora la llengua després d’un burofax",
+      "link_id": "c_dbdc34",
+      "source": "El Mon.cat",
+      "date": "2026-04-04",
+      "time": "09:47",
+      "summary": "La popular firma de roba juvenil rectifica i afegeix l'etiquetatge en català gràcies a l'avís de Plataforma per la Llengua."
+    },
+    {
+      "title": "L'odissea per carregar un cotxe elèctric a Catalunya: \"Estava desesperat; per arribar a casa vaig haver d'aprofitar les baixades i anar el més a poc a poc possible\"",
+      "link_id": "c_707690",
+      "source": "RAC1",
+      "date": "2026-04-02",
+      "time": "18:10",
+      "summary": "Un conductor relata els greus problemes d'autonomia i la manca d'infraestructures durant un viatge familiar al Garraf."
+    },
+    {
+      "title": "Quant estalvi suposa un cotxe elèctric respecte a un de gasolina o gasoil en plena tempesta del petroli",
+      "link_id": "c_81c880",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-04-02",
+      "time": "06:23",
+      "summary": "Malgrat l'encariment dels carburants, recórrer la mateixa distància amb un vehicle elèctric resulta tres vegades més econòmic."
     },
     {
       "title": "El consell dels Bombers a les zones sense cobertura: la geolocalització",
@@ -285,15 +285,15 @@
       "source": "Lleida Diari",
       "date": "2026-04-03",
       "time": "11:19",
-      "summary": "Els equips d'emergència recorden que portar dispositius de localització pot salvar vides en àrees naturals sense cobertura mòbil."
+      "summary": "Les autoritats recomanen portar dispositius de rastreig durant les excursions de Setmana Santa per facilitar possibles rescats."
     },
     {
-      "title": "El bloqueig de Telegram a Rússia, l'últim pas del Kremlin en la censura a internet",
-      "link_id": "c_985dfb",
-      "source": "324.cat",
-      "date": "2026-04-01",
-      "time": "21:34",
-      "summary": "La prohibició de la plataforma genera un fort rebuig ciutadà, impulsant la recerca d'alternatives per esquivar la censura estatal."
+      "title": "El comitè d'empresa d'Ocado Technology denuncia l'inici d'un ERO que afectaria el 72% de l'equip",
+      "link_id": "c_91f60e",
+      "source": "Via Empresa",
+      "date": "2026-04-03",
+      "time": "10:20",
+      "summary": "Els treballadors critiquen l'opacitat de l'empresa, que pretén deslocalitzar la producció cap a països amb mà d'obra més barata."
     }
   ]
 }

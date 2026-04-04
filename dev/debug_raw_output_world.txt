@@ -1,88 +1,88 @@
 {
-  "generated_at": "2024-05-24T18:00",
+  "generated_at": "2024-05-24T12:00",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "L'endemà: L'Artemis II de la NASA viatja al voltant de la Lluna",
-      "link_id": "c_c5058e",
-      "source": "Engadget",
+      "title": "La trajectòria de la missió lunar Artemis II és una proesa d'enginyeria",
+      "link_id": "c_86f889",
+      "source": "Wired",
+      "date": "2026-04-04",
+      "time": "09:30",
+      "summary": "Els astronautes batran rècords de distància viatjant més enllà de la Lluna gràcies a una ruta meticulosament dissenyada."
+    },
+    {
+      "title": "Els pirates informàtics publiquen la filtració de Claude Code amb programari maliciós addicional",
+      "link_id": "c_c3f088",
+      "source": "Wired",
+      "date": "2026-04-04",
+      "time": "10:30",
+      "summary": "Els ciberdelinqüents aprofiten l'exposició del codi d'Anthropic per distribuir codi maliciós entre els usuaris que l'intenten descarregar."
+    },
+    {
+      "title": "Després de reduir projectes secundaris, OpenAI compra un programa d'entrevistes",
+      "link_id": "c_89bbd5",
+      "source": "CNET",
       "date": "2026-04-03",
-      "time": "11:15",
-      "summary": "La càpsula Orion ja s'ha separat del sistema de llançament, tot i patir problemes menors amb el vàter i l'Outlook."
+      "time": "22:20",
+      "summary": "L'empresa d'intel·ligència artificial adquireix el popular pòdcast tecnològic TBPN per intentar millorar la seva imatge pública i narrativa."
     },
     {
-      "title": "Google combat els models xinesos de codi obert amb Gemma 4",
-      "link_id": "c_abe7b8",
-      "source": "The Register",
-      "date": "2026-04-02",
-      "time": "21:15",
-      "summary": "Aquesta nova IA multimodal, optimitzada per a programació, adopta la llicència Apache 2.0 per atreure més empreses."
+      "title": "Anthropic triomfa als mercats privats, però SpaceX podria espatllar la festa",
+      "link_id": "c_5e9e63",
+      "source": "TechCrunch",
+      "date": "2026-04-04",
+      "time": "01:31",
+      "summary": "La imminent sortida a borsa de l'empresa d'Elon Musk amenaça de desviar l'atenció i el capital de les IA."
     },
     {
-      "title": "OpenAI compra TBPN, el programa tecnològic preferit de Silicon Valley, en la seva primera adquisició de mitjans",
-      "link_id": "c_429537",
-      "source": "The Next Web",
+      "title": "El CERT-EU culpa l'atac a la cadena de subministrament de Trivy de la filtració de dades d'Europa.eu",
+      "link_id": "c_60a6dd",
+      "source": "InfoWorld",
       "date": "2026-04-03",
-      "time": "08:29",
-      "summary": "El programa s'integrarà a l'estratègia de l'empresa, però mantindrà la seva independència editorial per debatre sobre intel·ligència artificial."
+      "time": "16:37",
+      "summary": "L'agència europea confirma que el robatori massiu d'informació es va originar per una vulnerabilitat en l'escàner de codi obert."
     },
     {
-      "title": "Microsoft ja no vol demanar prestada la seva IA, vol construir-la",
-      "link_id": "c_b5f09b",
-      "source": "Digital Trends",
-      "date": "2026-04-03",
-      "time": "05:51",
-      "summary": "L'empresa ha llançat tres models propis de generació d'imatges i veu per reduir la seva dependència d'OpenAI."
-    },
-    {
-      "title": "Google impulsa el vídeo amb IA a la vida quotidiana mentre OpenAI retira Sora",
-      "link_id": "c_84eb55",
-      "source": "TechRadar",
-      "date": "2026-04-03",
-      "time": "04:00",
-      "summary": "L'aplicació Vids de Workspace ara permet als usuaris personalitzar i dirigir avatars virtuals mitjançant instruccions de text."
-    },
-    {
-      "title": "Amazon, afectada per la guerra, afegeix un recàrrec per combustible que podria encarir les compres",
-      "link_id": "c_a107e3",
-      "source": "Digital Trends",
-      "date": "2026-04-03",
-      "time": "10:14",
-      "summary": "Aquesta tarifa temporal del 3,5% s'aplicarà als venedors externs a causa de l'augment del preu del petroli."
-    },
-    {
-      "title": "El Chromecast pot haver mort, però Samsung integra Google Cast gratuïtament als seus televisors",
-      "link_id": "c_f7dfa3",
-      "source": "TechRadar",
-      "date": "2026-04-03",
-      "time": "10:00",
-      "summary": "Una nova actualització del sistema operatiu Tizen portarà aquesta funcionalitat molt demanada fins i tot a models antics."
-    },
-    {
-      "title": "Apple CarPlay supera Android Auto (de nou) i rep suport per a Google Meet",
-      "link_id": "c_bfe05b",
+      "title": "Microsoft posa a Copilot el mateix avís legal que un vident per evitar demandes",
+      "link_id": "c_49c662",
       "source": "Android Authority",
       "date": "2026-04-03",
-      "time": "09:56",
-      "summary": "Els usuaris d'iPhone ja poden unir-se a reunions de manera segura mentre condueixen, avançant-se al sistema de Google."
+      "time": "20:03",
+      "summary": "Les condicions d'ús revelen que l'assistent d'IA no s'hauria d'utilitzar per a tasques serioses, contradient el seu màrqueting."
     },
     {
-      "title": "L'iPhone 18 Pro podria ometre l'únic color que els fans han estat anhelant",
-      "link_id": "c_b8c524",
+      "title": "Per molts anys, iPad: la tauleta d'Apple fa 16 anys",
+      "link_id": "c_c252ea",
+      "source": "MacRumors",
+      "date": "2026-04-03",
+      "time": "19:41",
+      "summary": "Coincidint amb el cinquantè aniversari de la companyia, el revolucionari dispositiu tàctil celebra més d'una dècada i mitja d'història."
+    },
+    {
+      "title": "Un gegant dels telèfons intel·ligents revela l'absurd augment de preu dels components",
+      "link_id": "c_9da57c",
       "source": "Digital Trends",
-      "date": "2026-04-02",
-      "time": "20:49",
-      "summary": "Les filtracions indiquen que el model de gamma alta d'Apple tornarà a prescindir de l'opció en color negre."
+      "date": "2026-04-03",
+      "time": "17:55",
+      "summary": "Els costos de la memòria s'han quadruplicat, encarint els dispositius i afectant greument la indústria del maquinari tecnològic."
     },
     {
-      "title": "IBM vol programari Arm als seus mainframes per donar millor suport a la IA",
-      "link_id": "c_aeb399",
-      "source": "The Register",
-      "date": "2026-04-02",
-      "time": "16:32",
-      "summary": "Aquesta col·laboració permetrà executar aplicacions eficients en sistemes empresarials, facilitant càrregues de treball intensives en dades."
+      "title": "Microsoft forçarà l'actualització a Windows 11 25H2 per als ordinadors amb versions antigues",
+      "link_id": "c_0dbef1",
+      "source": "Tom's Hardware",
+      "date": "2026-04-04",
+      "time": "11:00",
+      "summary": "Un sistema basat en aprenentatge automàtic instal·larà la nova versió automàticament per garantir la seguretat abans que acabi el suport."
+    },
+    {
+      "title": "El Nothing Phone 4a Pro aporta estil i un gran valor per menys de 500 dòlars",
+      "link_id": "c_273f5c",
+      "source": "Android Authority",
+      "date": "2026-04-04",
+      "time": "09:30",
+      "summary": "Aquest nou telèfon de gamma mitjana destaca pel seu disseny atractiu i preu assequible, malgrat algunes imperfeccions tècniques."
     }
   ]
 }
