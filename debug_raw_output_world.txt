@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-04-04T12:58",
+  "generated_at": "2026-04-04T19:26",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "La missió Artemis II de la NASA posa rumb a la Lluna: actualitzacions del tercer dia",
-      "link_id": "c_029a1f",
-      "source": "CNET",
-      "date": "2026-04-04",
-      "time": "02:12",
-      "summary": "La tripulació de quatre persones ha abandonat l'òrbita terrestre i es dirigeix cap a la Lluna amb èxit."
-    },
-    {
-      "title": "Els pirates informàtics publiquen la filtració de Claude Code amb programari maliciós addicional",
-      "link_id": "c_c3f088",
-      "source": "Wired",
-      "date": "2026-04-04",
-      "time": "10:30",
-      "summary": "Els ciberdelinqüents aprofiten el codi font filtrat de l'eina d'Anthropic per distribuir codi maliciós als usuaris."
-    },
-    {
-      "title": "Anthropic bloqueja l'ús de subscripcions de Claude amb OpenClaw i agents d'IA de tercers",
-      "link_id": "c_7cc561",
-      "source": "VentureBeat",
-      "date": "2026-04-04",
-      "time": "03:55",
-      "summary": "L'empresa exigirà pagaments addicionals als usuaris que vulguin integrar els seus models amb eines externes com OpenClaw."
-    },
-    {
-      "title": "Anthropic triomfa als mercats privats, però SpaceX podria espatllar-li la festa",
-      "link_id": "c_5e9e63",
+      "title": "Anthropic anuncia que els subscriptors de Claude Code hauran de pagar un extra per utilitzar OpenClaw",
+      "link_id": "c_c6192d",
       "source": "TechCrunch",
       "date": "2026-04-04",
-      "time": "01:31",
-      "summary": "La imminent sortida a borsa de SpaceX podria eclipsar l'èxit actual d'Anthropic i remodelar el panorama financer."
+      "time": "16:32",
+      "summary": "La mesura encareix l'ús d'eines de tercers i ha generat queixes entre els usuaris més intensius de l'assistent."
     },
     {
-      "title": "La reestructuració directiva d'OpenAI inclou un nou rol per al COO Brad Lightcap",
+      "title": "L'última hora de la missió Artemis II a la Lluna i altres notícies científiques",
+      "link_id": "c_20ccfd",
+      "source": "Engadget",
+      "date": "2026-04-04",
+      "time": "16:00",
+      "summary": "La càpsula Orion ja ha sortit de l'òrbita terrestre, oferint imatges espectaculars del nostre planeta durant el viatge."
+    },
+    {
+      "title": "La reestructuració directiva d'OpenAI inclou un nou rol per al COO Brad Lightcap liderant \"projectes especials\"",
       "link_id": "c_12f709",
       "source": "TechCrunch",
       "date": "2026-04-03",
       "time": "20:35",
-      "summary": "Lightcap liderarà projectes especials mentre altres alts càrrecs, com la directora de màrqueting, s'agafen baixes mèdiques."
+      "summary": "Aquests canvis coincideixen amb la baixa mèdica de Fidji Simo i la preparació per a una possible sortida a borsa."
     },
     {
-      "title": "Apple llança les primeres betes públiques d'iOS 26.5, iPadOS 26.5 i macOS Tahoe 26.5",
-      "link_id": "c_4ed0c8",
-      "source": "MacRumors",
-      "date": "2026-04-03",
-      "time": "13:07",
-      "summary": "Els usuaris ja poden provar les noves versions dels sistemes operatius d'Apple abans del seu llançament oficial."
+      "title": "La beta pública d'Apple iOS 26.5 ja està disponible",
+      "link_id": "c_a26472",
+      "source": "Engadget",
+      "date": "2026-04-04",
+      "time": "17:01",
+      "summary": "Aquesta actualització introdueix recomanacions de llocs a Apple Maps i prepara el terreny per a futures funcions."
     },
     {
-      "title": "El Lenovo Legion Go 2 s'encareix 650 dòlars per la crisi de la memòria RAM",
-      "link_id": "c_97a27b",
+      "title": "Super Meat Boy 3D fa que patir sigui divertit",
+      "link_id": "c_749b81",
       "source": "The Verge",
-      "date": "2026-04-03",
-      "time": "15:19",
-      "summary": "L'escassetat de components i l'augment de preus de la memòria afecten dràsticament el cost del maquinari per a videojocs."
+      "date": "2026-04-04",
+      "time": "08:00",
+      "summary": "El clàssic joc independent de plataformes fa el salt a les tres dimensions mantenint la seva dificultat brutal."
     },
     {
-      "title": "El CERT-EU culpa un atac a la cadena de subministrament de Trivy per la bretxa d'Europa.eu",
-      "link_id": "c_60a6dd",
-      "source": "InfoWorld",
+      "title": "Després de reduir els \"projectes secundaris\", OpenAI compra un programa d'entrevistes",
+      "link_id": "c_89bbd5",
+      "source": "CNET",
       "date": "2026-04-03",
-      "time": "16:37",
-      "summary": "El robatori de dades de la plataforma europea s'atribueix a una vulnerabilitat en l'escàner de codi obert Trivy."
+      "time": "22:20",
+      "summary": "L'adquisició del popular pòdcast tecnològic TBPN busca millorar la imatge pública de l'empresa enmig de diverses controvèrsies."
     },
     {
-      "title": "Microsoft afegeix un avís a Copilot indicant que només té finalitats d'entreteniment",
-      "link_id": "c_49c662",
-      "source": "Android Authority",
+      "title": "El gegant de dades d'IA Mercor estaria buscant comprar la feina que vas fer al teu antic lloc",
+      "link_id": "c_c4f0f9",
+      "source": "Gizmodo",
       "date": "2026-04-03",
-      "time": "20:03",
-      "summary": "L'empresa tecnològica adverteix als usuaris que no confiïn en la seva IA per a tasques importants o professionals."
+      "time": "21:40",
+      "summary": "Aquesta polèmica pràctica ha provocat que Meta aturi la seva col·laboració per por a filtracions de secrets industrials."
     },
     {
-      "title": "Mercedes incorpora la direcció per cable als cotxes de producció, un gran canvi",
-      "link_id": "c_f9470c",
-      "source": "Digital Trends",
+      "title": "La plantilla de la fàbrica de Tesla a Texas s'hauria reduït un 22% el 2025",
+      "link_id": "c_d8bb7a",
+      "source": "TechCrunch",
       "date": "2026-04-03",
-      "time": "23:08",
-      "summary": "El nou model EQS substituirà la direcció mecànica per controls electrònics, transformant l'experiència de conducció i l'interior."
+      "time": "20:43",
+      "summary": "Aquesta forta caiguda de personal reflecteix les dificultats de la companyia per afrontar la baixada contínua de vendes."
+    },
+    {
+      "title": "iFixit desmunta els nous AirPods Max 2 i no se sorprèn",
+      "link_id": "c_f04b68",
+      "source": "9to5Mac",
+      "date": "2026-04-03",
+      "time": "20:39",
+      "summary": "L'anàlisi revela que els auriculars són pràcticament idèntics a l'original, amb l'única excepció dels nous xips H2."
+    },
+    {
+      "title": "Els bancs que treballen en la sortida a borsa de SpaceX haurien de subscriure's a Grok",
+      "link_id": "c_37402f",
+      "source": "Engadget",
+      "date": "2026-04-03",
+      "time": "20:02",
+      "summary": "Elon Musk exigeix a les firmes financeres que utilitzin el seu polèmic xatbot d'IA per poder assessorar l'operació."
     }
   ]
 }

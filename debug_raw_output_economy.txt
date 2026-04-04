@@ -1,64 +1,48 @@
 {
-  "generated_at": "2024-05-24T16:00",
+  "generated_at": "2024-05-24T16:45",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
+    {
+      "title": "Apple als 50 anys: El creador de l'iPhone va perdre un avantatge de 5 anys en IA, però pot guanyar",
+      "link_id": "c_251786",
+      "source": "CNBC Technology",
+      "date": "2026-04-04",
+      "time": "12:00",
+      "summary": "Per liderar la intel·ligència artificial, l'empresa haurà de replantejar la seva estricta política de privacitat en els dispositius."
+    },
     {
       "title": "Quin sentit té una novel·la escrita per IA?",
       "link_id": "c_c22131",
       "source": "Financial Times",
       "date": "2026-04-04",
       "time": "04:00",
-      "summary": "El risc real és la pèrdua d'interès per la literatura de qualitat, més que la substitució dels autors humans."
+      "summary": "El veritable risc d'aquesta tecnologia és la pèrdua d'interès per la qualitat literària i l'escriptura humana autèntica."
     },
     {
-      "title": "Fidji Simo d'OpenAI agafa la baixa mèdica i anuncia canvis directius",
+      "title": "Fidji Simo d'OpenAI agafa la baixa mèdica i anuncia canvis a la direcció",
       "link_id": "c_43b668",
       "source": "CNBC Technology",
       "date": "2026-04-03",
       "time": "22:40",
-      "summary": "Greg Brockman, president de la companyia, assumirà temporalment la supervisió dels productes durant l'absència de la directiva."
+      "summary": "Greg Brockman assumirà temporalment la supervisió dels productes per garantir l'estabilitat durant l'absència de la directiva."
     },
     {
-      "title": "L'estratègia de fusions d'OpenAI desconcerta amb la compra de TBPN",
+      "title": "L'estratègia de fusions d'OpenAI es torna més confusa amb la compra de TBPN",
       "link_id": "c_e9a0c6",
       "source": "CNBC Technology",
       "date": "2026-04-03",
       "time": "22:13",
-      "summary": "L'adquisició d'aquesta empresa de mitjans arriba poc després de la multimilionària inversió en la nova companyia de Jony Ive."
+      "summary": "L'adquisició d'aquesta empresa de mitjans genera dubtes sobre el rumb corporatiu després de recents inversions en maquinari."
     },
     {
-      "title": "Un centre de dades recolzat per Meta busca 3.000 milions de dòlars",
+      "title": "Un centre de dades recolzat per Meta busca 3.000 milions amb un finançament innovador",
       "link_id": "c_a2cfc1",
       "source": "Financial Times",
       "date": "2026-04-03",
       "time": "21:14",
-      "summary": "El \"Projecte Walleye\" proposa un model de finançament innovador on els prestadors cobririen tant la construcció com l'energia."
-    },
-    {
-      "title": "Meta i Google, amenaçades per demandes que esquiven la seva immunitat legal",
-      "link_id": "c_a3e4eb",
-      "source": "CNBC Technology",
-      "date": "2026-04-03",
-      "time": "17:07",
-      "summary": "Les plataformes digitals podrien perdre la protecció històrica que les eximia de responsabilitat sobre el contingut publicat pels usuaris."
-    },
-    {
-      "title": "Els inversors aposten pel caos de la IA, però la història ho desmenteix",
-      "link_id": "c_65b5a9",
-      "source": "Financial Times",
-      "date": "2026-04-03",
-      "time": "11:00",
-      "summary": "Les revolucions tecnològiques anteriors demostren que les empreses consolidades i astutes poden adaptar-se i, fins i tot, prosperar."
-    },
-    {
-      "title": "Les empreses emergents de defensa busquen beneficis davant la tensió amb l'Iran",
-      "link_id": "c_0f2478",
-      "source": "CNBC Technology",
-      "date": "2026-04-03",
-      "time": "11:00",
-      "summary": "El finançament d'aquestes companyies s'ha disparat recentment per la necessitat urgent de modernització militar als Estats Units i el Golf."
+      "summary": "El \"Projecte Walleye\" proposa un model inèdit on els prestadors assumeixen simultàniament els costos de construcció i energia."
     }
   ]
 }

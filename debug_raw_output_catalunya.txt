@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-04-04T11:00",
+  "generated_at": "2026-04-04T17:26",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [],
   "articles": [
-    {
-      "title": "La missió Artemis 2 desenganxa cap a la Lluna amb quatre astronautes",
-      "link_id": "c_996607",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-04-02",
-      "time": "06:02",
-      "summary": "La càpsula Orió ja orbita la Terra després de l'èxit del coet SLS, iniciant el viatge lunar."
-    },
     {
       "title": "L'Artemis ja és més a prop de la Lluna que de la Terra: \"Hem vist coses extraordinàries\"",
       "link_id": "c_d04a77",
       "source": "324.cat",
       "date": "2026-04-04",
       "time": "11:16",
-      "summary": "La nau documentarà la cara oculta del satèl·lit després de superar l'equador del seu trajecte de 219.000 quilòmetres."
+      "summary": "La nau Orion avança cap a la cara oculta del satèl·lit per documentar-la, superant l'equador del seu viatge espacial."
     },
     {
-      "title": "L’Artemis II s’enlaira amb èxit: la humanitat torna a l’òrbita lunar",
-      "link_id": "c_791bba",
-      "source": "MetaData",
-      "date": "2026-04-02",
-      "time": "10:17",
-      "summary": "Cinquanta anys després, la NASA obre la porta a trepitjar novament el satèl·lit amb aquest llançament des de Florida."
+      "title": "El DNI digital entra en vigor a l’app MiDNI i serveix per a qualsevol tràmit",
+      "link_id": "c_06c42e",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-04-04",
+      "time": "09:18",
+      "summary": "Aquesta aplicació permet identificar-se legalment des del mòbil, tot i que la seva implementació generalitzada suposarà un repte important."
     },
     {
-      "title": "El DNI ja es pot portar al mòbil: com s'activa?",
-      "link_id": "c_c3c74e",
+      "title": "La justícia italiana declara il·legals els augments de preu de Netflix i l’obliga a retornar els diners",
+      "link_id": "c_b78b54",
+      "source": "VilaWeb",
+      "date": "2026-04-03",
+      "time": "19:28",
+      "summary": "Els usuaris afectats podrien recuperar fins a cinc-cents euros, establint un precedent legal important per a les plataformes de reproducció."
+    },
+    {
+      "title": "L'addicció a les pantalles es duplica en cinc anys: el 40% de persones que demana ajuda a centres de drogodependència és per aquest motiu",
+      "link_id": "c_5f57ab",
+      "source": "RAC1",
+      "date": "2026-04-04",
+      "time": "09:04",
+      "summary": "Aquesta problemàtica creixent ja no afecta només els adolescents, sinó que cada cop més adults requereixen tractament especialitzat."
+    },
+    {
+      "title": "Traducció al català en temps real amb auriculars: així funciona la nova eina de Google",
+      "link_id": "c_6cf7eb",
+      "source": "El Periódico",
+      "date": "2026-04-03",
+      "time": "12:05",
+      "summary": "La funció converteix els dispositius en intèrprets simultanis, facilitant la comunicació internacional tant en l'àmbit professional com en viatges."
+    },
+    {
+      "title": "Volkswagen i Cupra criden a revisió 94.000 cotxes elèctrics per risc d’incendi",
+      "link_id": "c_4ba0bb",
       "source": "Ara.cat",
       "date": "2026-04-02",
-      "time": "11:15",
-      "summary": "Les entitats públiques i privades ja estan obligades a acceptar la versió digital mitjançant l'aplicació oficial MiDNI."
+      "time": "07:03",
+      "summary": "Una anomalia en els mòduls de les bateries obliga a revisar diversos models fabricats durant els darrers dos anys."
     },
     {
-      "title": "Així funciona MiDNI, per portar el DNI al mòbil",
-      "link_id": "c_34e843",
+      "title": "Del terapeuta a l'amant: com la IA es cola en la intimitat emocional i sexual",
+      "link_id": "c_c24848",
       "source": "La Vanguardia (en català)",
       "date": "2026-04-03",
-      "time": "07:23",
-      "summary": "Aquesta eina digital té plena validesa legal per identificar-se a tot l'Estat, equiparant-se completament al document físic tradicional."
+      "time": "07:06",
+      "summary": "L'ús d'algoritmes per gestionar relacions personals planteja nous debats sobre com la tecnologia transforma la nostra manera de vincular-nos."
     },
     {
-      "title": "Ja no cal portar el DNI físic: consulta com tenir el DNI digital",
-      "link_id": "c_2585ac",
-      "source": "Cugat.cat",
+      "title": "El comitè d'empresa d'Ocado Technology denuncia l'inici d'un ERO que afectaria el 72% de l'equip",
+      "link_id": "c_91f60e",
+      "source": "Via Empresa",
       "date": "2026-04-03",
-      "time": "13:33",
-      "summary": "Un any després del reial decret, l'acreditació virtual des del telèfon intel·ligent ja és una realitat plenament operativa."
+      "time": "10:20",
+      "summary": "Els treballadors de Barcelona critiquen la manca de transparència i alerten d'una possible deslocalització cap a països més barats."
     },
     {
-      "title": "Quin estalvi suposa un cotxe elèctric respecte a un de benzina o de gasoil en plena tempesta del petroli",
-      "link_id": "c_718dce",
+      "title": "L'app catalana que evita a les parelles separades l'estrès d'organitzar la logística dels fills",
+      "link_id": "c_27dbb4",
       "source": "RAC1",
       "date": "2026-04-01",
-      "time": "19:48",
-      "summary": "L'encariment global del combustible redueix el poder adquisitiu dels conductors de vehicles de combustió, afavorint l'alternativa elèctrica."
+      "time": "14:10",
+      "summary": "Aquesta eina tecnològica centralitza la coordinació d'activitats, metges i despeses per reduir els conflictes diaris entre els progenitors."
     },
     {
-      "title": "Quant estalvi suposa un cotxe elèctric respecte a un de gasolina o gasoil en plena tempesta del petroli",
-      "link_id": "c_81c880",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-04-02",
-      "time": "06:23",
-      "summary": "Recórrer la mateixa distància amb un vehicle endollable costa actualment tres vegades menys que utilitzar carburants tradicionals."
-    },
-    {
-      "title": "Retards a Palma en una nova jornada de vaga del personal de terra, sense incidències a Eivissa",
-      "link_id": "c_e41d11",
-      "source": "IB3 Notícies",
-      "date": "2026-04-03",
-      "time": "17:46",
-      "summary": "Les aturades dels treballadors de Groundforce han afectat desenes d'operacions d'arribada i sortida a l'aeroport de Son Sant Joan."
-    },
-    {
-      "title": "Més de 30 retards a l'aeroport de Palma per la vaga del personal de terra",
-      "link_id": "c_032288",
-      "source": "Ara Balears",
-      "date": "2026-04-03",
-      "time": "17:44",
-      "summary": "Aena confirma setze sortides i catorze arribades alterades per les protestes laborals dels serveis d'assistència en pista."
+      "title": "La IA descobrirà vida extraterrestre? De moment ha trobat senyals secrets de dotzenes de planetes",
+      "link_id": "c_ce1b4d",
+      "source": "El Nacional.cat",
+      "date": "2026-04-04",
+      "time": "10:00",
+      "summary": "Els sistemes d'aprenentatge automàtic analitzen dades espacials massives per detectar patrons ocults que podrien revelar nous mons habitables."
     }
   ]
 }
