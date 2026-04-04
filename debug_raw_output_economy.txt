@@ -1,88 +1,64 @@
 {
-  "generated_at": "2026-04-03T19:30",
+  "generated_at": "2024-05-24T16:00",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "'Buscant vibracions': l'estratègia de fusions d'OpenAI es torna més confusa amb la compra de TBPN",
+      "title": "Quin sentit té una novel·la escrita per IA?",
+      "link_id": "c_c22131",
+      "source": "Financial Times",
+      "date": "2026-04-04",
+      "time": "04:00",
+      "summary": "El risc real és la pèrdua d'interès per la literatura de qualitat, més que la substitució dels autors humans."
+    },
+    {
+      "title": "Fidji Simo d'OpenAI agafa la baixa mèdica i anuncia canvis directius",
+      "link_id": "c_43b668",
+      "source": "CNBC Technology",
+      "date": "2026-04-03",
+      "time": "22:40",
+      "summary": "Greg Brockman, president de la companyia, assumirà temporalment la supervisió dels productes durant l'absència de la directiva."
+    },
+    {
+      "title": "L'estratègia de fusions d'OpenAI desconcerta amb la compra de TBPN",
       "link_id": "c_e9a0c6",
       "source": "CNBC Technology",
       "date": "2026-04-03",
-      "time": "12:00",
-      "summary": "L'adquisició d'aquesta empresa de mitjans arriba mesos després d'una gran inversió en dispositius, generant dubtes sobre la seva direcció."
+      "time": "22:13",
+      "summary": "L'adquisició d'aquesta empresa de mitjans arriba poc després de la multimilionària inversió en la nova companyia de Jony Ive."
     },
     {
-      "title": "OpenAI adquireix un popular programa de tecnologia per \"pocs centenars de milions\"",
-      "link_id": "c_aca305",
+      "title": "Un centre de dades recolzat per Meta busca 3.000 milions de dòlars",
+      "link_id": "c_a2cfc1",
       "source": "Financial Times",
-      "date": "2026-04-02",
-      "time": "19:33",
-      "summary": "El creador de ChatGPT s'endinsa en la radiodifusió amb TBPN, malgrat haver promès abandonar projectes secundaris."
+      "date": "2026-04-03",
+      "time": "21:14",
+      "summary": "El \"Projecte Walleye\" proposa un model de finançament innovador on els prestadors cobririen tant la construcció com l'energia."
     },
     {
-      "title": "OpenAI adquireix el popular pòdcast de tecnologia TBPN",
-      "link_id": "c_a495c9",
-      "source": "CNBC Technology",
-      "date": "2026-04-02",
-      "time": "19:06",
-      "summary": "L'empresa integrarà el programa dins la seva organització estratègica, tot i no revelar els termes financers de l'acord."
-    },
-    {
-      "title": "Meta i Google, sota atac mentre els tribunals esquiven un escut legal de 30 anys",
+      "title": "Meta i Google, amenaçades per demandes que esquiven la seva immunitat legal",
       "link_id": "c_a3e4eb",
       "source": "CNBC Technology",
       "date": "2026-04-03",
       "time": "17:07",
-      "summary": "Les plataformes d'internet podrien perdre les proteccions especials que evitaven la responsabilitat sobre el contingut publicat."
+      "summary": "Les plataformes digitals podrien perdre la protecció històrica que les eximia de responsabilitat sobre el contingut publicat pels usuaris."
     },
     {
-      "title": "Els inversors aposten pel caos de la IA, però la història suggereix el contrari",
+      "title": "Els inversors aposten pel caos de la IA, però la història ho desmenteix",
       "link_id": "c_65b5a9",
       "source": "Financial Times",
       "date": "2026-04-03",
       "time": "11:00",
-      "summary": "Les revolucions tecnològiques passades indiquen que les empreses consolidades podrien adaptar-se i, fins i tot, prosperar amb èxit."
+      "summary": "Les revolucions tecnològiques anteriors demostren que les empreses consolidades i astutes poden adaptar-se i, fins i tot, prosperar."
     },
     {
-      "title": "Les empreses emergents de defensa preveuen beneficis pel conflicte amb l'Iran mentre s'aposta per la tecnologia",
+      "title": "Les empreses emergents de defensa busquen beneficis davant la tensió amb l'Iran",
       "link_id": "c_0f2478",
       "source": "CNBC Technology",
       "date": "2026-04-03",
       "time": "11:00",
-      "summary": "El finançament d'aquestes companyies s'ha disparat recentment a causa de la necessitat urgent de modernitzar els exèrcits."
-    },
-    {
-      "title": "Sakura Internet del Japó puja un 20% per la inversió de 10.000 milions de Microsoft en IA",
-      "link_id": "c_bf8ef4",
-      "source": "CNBC Technology",
-      "date": "2026-04-03",
-      "time": "05:19",
-      "summary": "Aquesta injecció de capital, prevista entre 2026 i 2029, busca construir una infraestructura sòlida d'intel·ligència artificial al país."
-    },
-    {
-      "title": "Les empreses xineses de xips assoleixen ingressos rècord impulsades per l'auge de la IA i les restriccions",
-      "link_id": "c_b3da33",
-      "source": "CNBC Technology",
-      "date": "2026-04-03",
-      "time": "05:00",
-      "summary": "La forta demanda interna i les limitacions tecnològiques dels Estats Units han afavorit enormement els fabricants locals."
-    },
-    {
-      "title": "Les asseguradores recorren als bons de catàstrofe per descarregar els riscos dels centres de dades",
-      "link_id": "c_70c3b3",
-      "source": "Financial Times",
-      "date": "2026-04-03",
-      "time": "04:00",
-      "summary": "La indústria busca captar capital d'inversors alternatius per poder cobrir els enormes projectes d'intel·ligència artificial."
-    },
-    {
-      "title": "Un executiu de Microsoft destaca les vendes de Copilot mentre l'ansietat per la IA afecta les accions",
-      "link_id": "c_5a7481",
-      "source": "CNBC Technology",
-      "date": "2026-04-03",
-      "time": "00:36",
-      "summary": "Els analistes assenyalen que l'adopció d'aquesta eina de pagament mensual encara es troba en una fase molt inicial."
+      "summary": "El finançament d'aquestes companyies s'ha disparat recentment per la necessitat urgent de modernització militar als Estats Units i el Golf."
     }
   ]
 }

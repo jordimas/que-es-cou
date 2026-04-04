@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-04-03T19:30",
+  "generated_at": "2026-04-04T12:58",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Un astronauta de l'Artemis 2 ofereix una perspectiva colpidora sobre anar a la Lluna en temps de guerra",
-      "link_id": "c_337732",
-      "source": "Gizmodo",
-      "date": "2026-04-03",
-      "time": "15:30",
-      "summary": "El pilot Victor Glover reflexiona des de l'espai sobre la importància de l'exploració lunar malgrat els conflictes terrestres actuals."
+      "title": "La missió Artemis II de la NASA posa rumb a la Lluna: actualitzacions del tercer dia",
+      "link_id": "c_029a1f",
+      "source": "CNET",
+      "date": "2026-04-04",
+      "time": "02:12",
+      "summary": "La tripulació de quatre persones ha abandonat l'òrbita terrestre i es dirigeix cap a la Lluna amb èxit."
     },
     {
-      "title": "OpenAI compra el programa de streaming 'TBPN' amb l'objectiu de canviar la narrativa sobre la IA",
-      "link_id": "c_39c131",
-      "source": "NYT Technology",
-      "date": "2026-04-03",
-      "time": "15:01",
-      "summary": "L'adquisició busca fomentar un diàleg constructiu i millorar la imatge pública de la intel·ligència artificial davant els seus reptes."
+      "title": "Els pirates informàtics publiquen la filtració de Claude Code amb programari maliciós addicional",
+      "link_id": "c_c3f088",
+      "source": "Wired",
+      "date": "2026-04-04",
+      "time": "10:30",
+      "summary": "Els ciberdelinqüents aprofiten el codi font filtrat de l'eina d'Anthropic per distribuir codi maliciós als usuaris."
     },
     {
-      "title": "Ja pots utilitzar Google Meet amb CarPlay: com unir-te a reunions de manera segura al cotxe",
-      "link_id": "c_a0310f",
-      "source": "ZDNet",
-      "date": "2026-04-03",
-      "time": "16:52",
-      "summary": "L'aplicació permet participar en videotrucades mentre condueixes, i aviat també estarà disponible per als usuaris d'Android Auto."
+      "title": "Anthropic bloqueja l'ús de subscripcions de Claude amb OpenClaw i agents d'IA de tercers",
+      "link_id": "c_7cc561",
+      "source": "VentureBeat",
+      "date": "2026-04-04",
+      "time": "03:55",
+      "summary": "L'empresa exigirà pagaments addicionals als usuaris que vulguin integrar els seus models amb eines externes com OpenClaw."
     },
     {
-      "title": "YouTube emetrà Coachella en 4K per primera vegada, incloent-hi una transmissió gravada amb Pixel",
-      "link_id": "c_4805f0",
-      "source": "Digital Trends",
-      "date": "2026-04-03",
-      "time": "11:28",
-      "summary": "La plataforma oferirà el festival gratuïtament amb set escenaris simultanis i una opció de visualització múltiple per als espectadors."
+      "title": "Anthropic triomfa als mercats privats, però SpaceX podria espatllar-li la festa",
+      "link_id": "c_5e9e63",
+      "source": "TechCrunch",
+      "date": "2026-04-04",
+      "time": "01:31",
+      "summary": "La imminent sortida a borsa de SpaceX podria eclipsar l'èxit actual d'Anthropic i remodelar el panorama financer."
     },
     {
-      "title": "He retrocedit 50 anys per jugar als millors jocs de l'Apple-1 i el meu cervell encara s'està recuperant",
-      "link_id": "c_c2e589",
-      "source": "TechRadar",
+      "title": "La reestructuració directiva d'OpenAI inclou un nou rol per al COO Brad Lightcap",
+      "link_id": "c_12f709",
+      "source": "TechCrunch",
       "date": "2026-04-03",
-      "time": "17:00",
-      "summary": "Per celebrar el cinquantè aniversari d'Apple, un redactor experimenta la nostàlgia i la complexitat dels primers videojocs de l'empresa."
+      "time": "20:35",
+      "summary": "Lightcap liderarà projectes especials mentre altres alts càrrecs, com la directora de màrqueting, s'agafen baixes mèdiques."
     },
     {
-      "title": "El CERT-EU culpa un atac a la cadena de subministrament de Trivy per la filtració de dades d'Europa.eu",
+      "title": "Apple llança les primeres betes públiques d'iOS 26.5, iPadOS 26.5 i macOS Tahoe 26.5",
+      "link_id": "c_4ed0c8",
+      "source": "MacRumors",
+      "date": "2026-04-03",
+      "time": "13:07",
+      "summary": "Els usuaris ja poden provar les noves versions dels sistemes operatius d'Apple abans del seu llançament oficial."
+    },
+    {
+      "title": "El Lenovo Legion Go 2 s'encareix 650 dòlars per la crisi de la memòria RAM",
+      "link_id": "c_97a27b",
+      "source": "The Verge",
+      "date": "2026-04-03",
+      "time": "15:19",
+      "summary": "L'escassetat de components i l'augment de preus de la memòria afecten dràsticament el cost del maquinari per a videojocs."
+    },
+    {
+      "title": "El CERT-EU culpa un atac a la cadena de subministrament de Trivy per la bretxa d'Europa.eu",
       "link_id": "c_60a6dd",
       "source": "InfoWorld",
       "date": "2026-04-03",
       "time": "16:37",
-      "summary": "L'agència europea vincula el robatori d'informació recent a una vulnerabilitat en l'escàner de codi obert d'Aqua Security."
+      "summary": "El robatori de dades de la plataforma europea s'atribueix a una vulnerabilitat en l'escàner de codi obert Trivy."
     },
     {
-      "title": "Les teves compres a Amazon costaran més: s'afegeix un recàrrec del 3,5% pel combustible a causa de la guerra d'Iran",
-      "link_id": "c_eddff9",
-      "source": "TechRadar",
+      "title": "Microsoft afegeix un avís a Copilot indicant que només té finalitats d'entreteniment",
+      "link_id": "c_49c662",
+      "source": "Android Authority",
       "date": "2026-04-03",
-      "time": "13:05",
-      "summary": "L'augment dels costos logístics afectarà diversos països americans, repercutint directament en els venedors i, possiblement, en els consumidors finals."
+      "time": "20:03",
+      "summary": "L'empresa tecnològica adverteix als usuaris que no confiïn en la seva IA per a tasques importants o professionals."
     },
     {
-      "title": "Ves amb compte on fas clic: els pirates informàtics utilitzen la filtració de Claude Code per distribuir programari maliciós",
-      "link_id": "c_fb5c12",
-      "source": "TechRadar",
+      "title": "Mercedes incorpora la direcció per cable als cotxes de producció, un gran canvi",
+      "link_id": "c_f9470c",
+      "source": "Digital Trends",
       "date": "2026-04-03",
-      "time": "17:20",
-      "summary": "Han aparegut repositoris falsos a GitHub que amaguen virus dissenyats per robar informació confidencial dels desenvolupadors."
-    },
-    {
-      "title": "Microsoft llança 3 nous models d'IA en un atac directe a OpenAI i Google",
-      "link_id": "c_46ea96",
-      "source": "VentureBeat",
-      "date": "2026-04-03",
-      "time": "15:17",
-      "summary": "L'empresa presenta eines pròpies de transcripció, generació de veu i creació d'imatges per reduir la seva dependència d'OpenAI."
-    },
-    {
-      "title": "Com la nova aplicació Surf de Flipboard et permet fusionar xarxes socials, YouTube i RSS per escapar de l'algoritme",
-      "link_id": "c_bf3329",
-      "source": "ZDNet",
-      "date": "2026-04-03",
-      "time": "14:24",
-      "summary": "Aquesta eina unifica continguts de diverses plataformes en un sol lloc, retornant el control de la informació als usuaris."
+      "time": "23:08",
+      "summary": "El nou model EQS substituirà la direcció mecànica per controls electrònics, transformant l'experiència de conducció i l'interior."
     }
   ]
 }
