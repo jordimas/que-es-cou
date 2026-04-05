@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T17:26",
+  "generated_at": "2026-04-05T08:00",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [],
@@ -10,7 +10,15 @@
       "source": "324.cat",
       "date": "2026-04-04",
       "time": "11:16",
-      "summary": "La nau Orion avança cap a la cara oculta del satèl·lit per documentar-la, superant l'equador del seu viatge espacial."
+      "summary": "La nau Orion supera l'equador del seu viatge i es prepara per documentar la cara oculta del satèl·lit."
+    },
+    {
+      "title": "La NASA publica les primeres imatges de la Terra fetes pels astronautes de la missió Artemis 2",
+      "link_id": "c_799593",
+      "source": "RAC1",
+      "date": "2026-04-03",
+      "time": "18:35",
+      "summary": "La nau Orió capta el nostre planeta com una esfera il·luminada on s'aprecien aurores a l'horitzó."
     },
     {
       "title": "El DNI digital entra en vigor a l’app MiDNI i serveix per a qualsevol tràmit",
@@ -18,15 +26,23 @@
       "source": "La Vanguardia (en català)",
       "date": "2026-04-04",
       "time": "09:18",
-      "summary": "Aquesta aplicació permet identificar-se legalment des del mòbil, tot i que la seva implementació generalitzada suposarà un repte important."
+      "summary": "Aquesta nova eina té la mateixa validesa legal que el document físic, tot i que l'adaptació serà progressiva."
     },
     {
-      "title": "La justícia italiana declara il·legals els augments de preu de Netflix i l’obliga a retornar els diners",
-      "link_id": "c_b78b54",
-      "source": "VilaWeb",
+      "title": "Ja no cal portar el DNI físic: consulta com tenir el DNI digital",
+      "link_id": "c_2585ac",
+      "source": "Cugat.cat",
       "date": "2026-04-03",
-      "time": "19:28",
-      "summary": "Els usuaris afectats podrien recuperar fins a cinc-cents euros, establint un precedent legal important per a les plataformes de reproducció."
+      "time": "13:33",
+      "summary": "Les entitats públiques i privades ja estan obligades a acceptar la identificació mitjançant l'aplicació mòbil MiDNI."
+    },
+    {
+      "title": "La IA que dóna veu a la llengua de signes: els sords signants podran fer ràdio",
+      "link_id": "c_c84e7f",
+      "source": "VilaWeb",
+      "date": "2026-04-04",
+      "time": "19:40",
+      "summary": "La UPF i Sorensen desenvolupen una eina pionera que permet a una alumna de periodisme cursar ràdio amb normalitat."
     },
     {
       "title": "L'addicció a les pantalles es duplica en cinc anys: el 40% de persones que demana ajuda a centres de drogodependència és per aquest motiu",
@@ -34,15 +50,15 @@
       "source": "RAC1",
       "date": "2026-04-04",
       "time": "09:04",
-      "summary": "Aquesta problemàtica creixent ja no afecta només els adolescents, sinó que cada cop més adults requereixen tractament especialitzat."
+      "summary": "Els centres alerten que l'ús problemàtic del mòbil ja no afecta només els adolescents, sinó també molts adults."
     },
     {
-      "title": "Traducció al català en temps real amb auriculars: així funciona la nova eina de Google",
-      "link_id": "c_6cf7eb",
-      "source": "El Periódico",
-      "date": "2026-04-03",
-      "time": "12:05",
-      "summary": "La funció converteix els dispositius en intèrprets simultanis, facilitant la comunicació internacional tant en l'àmbit professional com en viatges."
+      "title": "Falten 21.000 instal·ladors, sobretot d'energies renovables, perquè no hi ha aspirants",
+      "link_id": "c_583f2e",
+      "source": "324.cat",
+      "date": "2026-04-05",
+      "time": "07:59",
+      "summary": "L'expansió del sector de l'energia verda requerirà fins a 100.000 professionals d'aquí al 2050 per cobrir la demanda."
     },
     {
       "title": "Volkswagen i Cupra criden a revisió 94.000 cotxes elèctrics per risc d’incendi",
@@ -50,15 +66,15 @@
       "source": "Ara.cat",
       "date": "2026-04-02",
       "time": "07:03",
-      "summary": "Una anomalia en els mòduls de les bateries obliga a revisar diversos models fabricats durant els darrers dos anys."
+      "summary": "S'ha detectat un problema en el mòdul de bateries de diversos models fabricats entre el 2022 i el 2024."
     },
     {
-      "title": "Del terapeuta a l'amant: com la IA es cola en la intimitat emocional i sexual",
-      "link_id": "c_c24848",
-      "source": "La Vanguardia (en català)",
+      "title": "Traducció al català en temps real amb auriculars: així funciona la nova eina de Google",
+      "link_id": "c_6cf7eb",
+      "source": "El Periódico",
       "date": "2026-04-03",
-      "time": "07:06",
-      "summary": "L'ús d'algoritmes per gestionar relacions personals planteja nous debats sobre com la tecnologia transforma la nostra manera de vincular-nos."
+      "time": "12:05",
+      "summary": "La funció 'Live Translate' facilita la comunicació internacional i els viatges convertint els auriculars en un traductor instantani."
     },
     {
       "title": "El comitè d'empresa d'Ocado Technology denuncia l'inici d'un ERO que afectaria el 72% de l'equip",
@@ -66,23 +82,7 @@
       "source": "Via Empresa",
       "date": "2026-04-03",
       "time": "10:20",
-      "summary": "Els treballadors de Barcelona critiquen la manca de transparència i alerten d'una possible deslocalització cap a països més barats."
-    },
-    {
-      "title": "L'app catalana que evita a les parelles separades l'estrès d'organitzar la logística dels fills",
-      "link_id": "c_27dbb4",
-      "source": "RAC1",
-      "date": "2026-04-01",
-      "time": "14:10",
-      "summary": "Aquesta eina tecnològica centralitza la coordinació d'activitats, metges i despeses per reduir els conflictes diaris entre els progenitors."
-    },
-    {
-      "title": "La IA descobrirà vida extraterrestre? De moment ha trobat senyals secrets de dotzenes de planetes",
-      "link_id": "c_ce1b4d",
-      "source": "El Nacional.cat",
-      "date": "2026-04-04",
-      "time": "10:00",
-      "summary": "Els sistemes d'aprenentatge automàtic analitzen dades espacials massives per detectar patrons ocults que podrien revelar nous mons habitables."
+      "summary": "Els treballadors critiquen la manca de transparència i alerten que la filial tecnològica vol deslocalitzar l'activitat a altres països."
     }
   ]
 }

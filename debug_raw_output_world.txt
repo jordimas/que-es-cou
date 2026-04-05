@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-04-04T19:26",
+  "generated_at": "2026-04-05T09:50",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Anthropic anuncia que els subscriptors de Claude Code hauran de pagar un extra per utilitzar OpenClaw",
-      "link_id": "c_c6192d",
-      "source": "TechCrunch",
-      "date": "2026-04-04",
-      "time": "16:32",
-      "summary": "La mesura encareix l'ús d'eines de tercers i ha generat queixes entre els usuaris més intensius de l'assistent."
-    },
-    {
-      "title": "L'última hora de la missió Artemis II a la Lluna i altres notícies científiques",
-      "link_id": "c_20ccfd",
-      "source": "Engadget",
-      "date": "2026-04-04",
-      "time": "16:00",
-      "summary": "La càpsula Orion ja ha sortit de l'òrbita terrestre, oferint imatges espectaculars del nostre planeta durant el viatge."
-    },
-    {
-      "title": "La reestructuració directiva d'OpenAI inclou un nou rol per al COO Brad Lightcap liderant \"projectes especials\"",
-      "link_id": "c_12f709",
-      "source": "TechCrunch",
-      "date": "2026-04-03",
-      "time": "20:35",
-      "summary": "Aquests canvis coincideixen amb la baixa mèdica de Fidji Simo i la preparació per a una possible sortida a borsa."
-    },
-    {
-      "title": "La beta pública d'Apple iOS 26.5 ja està disponible",
-      "link_id": "c_a26472",
-      "source": "Engadget",
-      "date": "2026-04-04",
-      "time": "17:01",
-      "summary": "Aquesta actualització introdueix recomanacions de llocs a Apple Maps i prepara el terreny per a futures funcions."
-    },
-    {
-      "title": "Super Meat Boy 3D fa que patir sigui divertit",
-      "link_id": "c_749b81",
-      "source": "The Verge",
-      "date": "2026-04-04",
-      "time": "08:00",
-      "summary": "El clàssic joc independent de plataformes fa el salt a les tres dimensions mantenint la seva dificultat brutal."
-    },
-    {
-      "title": "Després de reduir els \"projectes secundaris\", OpenAI compra un programa d'entrevistes",
-      "link_id": "c_89bbd5",
+      "title": "Els astronautes de l'Artemis II de la NASA ja han fet més de mig camí cap a la Lluna",
+      "link_id": "c_029a1f",
       "source": "CNET",
-      "date": "2026-04-03",
-      "time": "22:20",
-      "summary": "L'adquisició del popular pòdcast tecnològic TBPN busca millorar la imatge pública de l'empresa enmig de diverses controvèrsies."
+      "date": "2026-04-05",
+      "time": "03:17",
+      "summary": "La tripulació de quatre persones supera l'equador del seu viatge històric, que entra en el quart dia d'expedició."
     },
     {
-      "title": "El gegant de dades d'IA Mercor estaria buscant comprar la feina que vas fer al teu antic lloc",
-      "link_id": "c_c4f0f9",
-      "source": "Gizmodo",
-      "date": "2026-04-03",
-      "time": "21:40",
-      "summary": "Aquesta polèmica pràctica ha provocat que Meta aturi la seva col·laboració per por a filtracions de secrets industrials."
+      "title": "Anthropic bloqueja l'accés dels subscriptors de Claude a OpenClaw per reduir costos",
+      "link_id": "c_4e7024",
+      "source": "The Next Web",
+      "date": "2026-04-04",
+      "time": "18:53",
+      "summary": "L'empresa obliga els usuaris de pagament a assumir els costos d'executar agents autònoms de tercers mitjançant tarifes per ús."
     },
     {
-      "title": "La plantilla de la fàbrica de Tesla a Texas s'hauria reduït un 22% el 2025",
-      "link_id": "c_d8bb7a",
-      "source": "TechCrunch",
-      "date": "2026-04-03",
-      "time": "20:43",
-      "summary": "Aquesta forta caiguda de personal reflecteix les dificultats de la companyia per afrontar la baixada contínua de vendes."
+      "title": "Adéu a Samsung Messages: s'anuncia oficialment la data de la seva fi",
+      "link_id": "c_e8aeae",
+      "source": "Android Authority",
+      "date": "2026-04-05",
+      "time": "01:59",
+      "summary": "L'aplicació de missatgeria predeterminada de la marca sud-coreana deixarà de funcionar el juliol de 2026 per afavorir Google Messages."
     },
     {
-      "title": "iFixit desmunta els nous AirPods Max 2 i no se sorprèn",
-      "link_id": "c_f04b68",
-      "source": "9to5Mac",
-      "date": "2026-04-03",
-      "time": "20:39",
-      "summary": "L'anàlisi revela que els auriculars són pràcticament idèntics a l'original, amb l'única excepció dels nous xips H2."
+      "title": "Un enginyer d'AWS alerta que Linux 7.0 redueix a la meitat el rendiment de PostgreSQL",
+      "link_id": "c_d3c347",
+      "source": "Hacker News",
+      "date": "2026-04-05",
+      "time": "00:13",
+      "summary": "El problema de rendiment detectat en la nova versió del nucli podria ser complex de solucionar a curt termini."
     },
     {
-      "title": "Els bancs que treballen en la sortida a borsa de SpaceX haurien de subscriure's a Grok",
-      "link_id": "c_37402f",
+      "title": "La teva sessió a LinkedIn podria no ser tan privada com et penses",
+      "link_id": "c_e413d8",
+      "source": "Digital Trends",
+      "date": "2026-04-04",
+      "time": "21:50",
+      "summary": "Un informe revela que la xarxa social utilitza scripts ocults per recopilar dades dels dispositius i extensions del navegador."
+    },
+    {
+      "title": "Pot la IA solucionar la solitud? La resposta és... complicada",
+      "link_id": "c_f912fe",
+      "source": "Digital Trends",
+      "date": "2026-04-04",
+      "time": "21:38",
+      "summary": "Tot i reduir l'aïllament, els experts alerten del risc de dependència emocional i de substituir les connexions humanes reals."
+    },
+    {
+      "title": "La seqüela de Spaceballs s'estrenarà l'abril de l'any que ve",
+      "link_id": "c_1fc333",
       "source": "Engadget",
-      "date": "2026-04-03",
-      "time": "20:02",
-      "summary": "Elon Musk exigeix a les firmes financeres que utilitzin el seu polèmic xatbot d'IA per poder assessorar l'operació."
+      "date": "2026-04-04",
+      "time": "21:35",
+      "summary": "Amazon MGM Studios confirma que la nova pel·lícula arribarà als cinemes coincidint amb el quarantè aniversari de l'original."
+    },
+    {
+      "title": "Un controlador SVGA genèric i modern per a Windows 3.1",
+      "link_id": "c_5c1e66",
+      "source": "Hacker News",
+      "date": "2026-04-05",
+      "time": "05:28",
+      "summary": "Aquest nou desenvolupament permet millorar la compatibilitat gràfica d'aquest sistema operatiu clàssic en maquinari i emuladors actuals."
+    },
+    {
+      "title": "Demostració de descodificació AV2 en temps real en portàtils de consum",
+      "link_id": "c_261504",
+      "source": "Hacker News",
+      "date": "2026-04-05",
+      "time": "01:32",
+      "summary": "Una prova recent mostra com els equips domèstics ja poden processar aquest nou format de vídeo de manera eficient."
+    },
+    {
+      "title": "He deixat que un test intel·ligent es mantingui sol durant 2 mesos: aquest és el resultat",
+      "link_id": "c_11b58a",
+      "source": "ZDNet",
+      "date": "2026-04-05",
+      "time": "01:16",
+      "summary": "El dispositiu LeafyPod demostra la seva eficàcia per mantenir les plantes vives i sanes sense cap intervenció humana directa."
     }
   ]
 }

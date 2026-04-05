@@ -1,48 +1,40 @@
 {
-  "generated_at": "2024-05-24T16:45",
+  "generated_at": "2024-05-24T18:30",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Apple als 50 anys: El creador de l'iPhone va perdre un avantatge de 5 anys en IA, però pot guanyar",
+      "title": "Els negociadors professionals que pacten amb els ciberdelinqüents",
+      "link_id": "c_8a664d",
+      "source": "Financial Times",
+      "date": "2026-04-05",
+      "time": "04:00",
+      "summary": "Les empreses contracten experts en seguretat per gestionar atacs de segrest de dades i minimitzar pèrdues milionàries."
+    },
+    {
+      "title": "El Regne Unit sedueix Anthropic perquè s'expandeixi a Londres després del xoc amb Defensa dels EUA",
+      "link_id": "c_68f469",
+      "source": "Financial Times",
+      "date": "2026-04-05",
+      "time": "04:00",
+      "summary": "El govern de Starmer aprofita les tensions nord-americanes per atreure la inversió d'aquesta empresa d'intel·ligència artificial."
+    },
+    {
+      "title": "Fidji Simo d'OpenAI agafa la baixa mèdica i anuncia canvis en la direcció",
+      "link_id": "c_43b668",
+      "source": "CNBC Technology",
+      "date": "2026-04-04",
+      "time": "19:05",
+      "summary": "Greg Brockman assumirà temporalment la supervisió de productes per garantir l'estabilitat operativa durant l'absència de Simo."
+    },
+    {
+      "title": "Apple als 50: El fabricant de l'iPhone va perdre el seu avantatge en IA, però pot guanyar",
       "link_id": "c_251786",
       "source": "CNBC Technology",
       "date": "2026-04-04",
       "time": "12:00",
-      "summary": "Per liderar la intel·ligència artificial, l'empresa haurà de replantejar la seva estricta política de privacitat en els dispositius."
-    },
-    {
-      "title": "Quin sentit té una novel·la escrita per IA?",
-      "link_id": "c_c22131",
-      "source": "Financial Times",
-      "date": "2026-04-04",
-      "time": "04:00",
-      "summary": "El veritable risc d'aquesta tecnologia és la pèrdua d'interès per la qualitat literària i l'escriptura humana autèntica."
-    },
-    {
-      "title": "Fidji Simo d'OpenAI agafa la baixa mèdica i anuncia canvis a la direcció",
-      "link_id": "c_43b668",
-      "source": "CNBC Technology",
-      "date": "2026-04-03",
-      "time": "22:40",
-      "summary": "Greg Brockman assumirà temporalment la supervisió dels productes per garantir l'estabilitat durant l'absència de la directiva."
-    },
-    {
-      "title": "L'estratègia de fusions d'OpenAI es torna més confusa amb la compra de TBPN",
-      "link_id": "c_e9a0c6",
-      "source": "CNBC Technology",
-      "date": "2026-04-03",
-      "time": "22:13",
-      "summary": "L'adquisició d'aquesta empresa de mitjans genera dubtes sobre el rumb corporatiu després de recents inversions en maquinari."
-    },
-    {
-      "title": "Un centre de dades recolzat per Meta busca 3.000 milions amb un finançament innovador",
-      "link_id": "c_a2cfc1",
-      "source": "Financial Times",
-      "date": "2026-04-03",
-      "time": "21:14",
-      "summary": "El \"Projecte Walleye\" proposa un model inèdit on els prestadors assumeixen simultàniament els costos de construcció i energia."
+      "summary": "L'empresa haurà de replantejar la seva estricta política de privacitat si vol liderar el mercat de la intel·ligència artificial."
     }
   ]
 }

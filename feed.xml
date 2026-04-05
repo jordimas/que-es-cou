@@ -5,213 +5,205 @@
     <link>https://jordimas.github.io/que-es-cou/</link>
     <description>Notícies de tecnologia en català, actualitzades cada 4 hores.</description>
     <language>ca</language>
-    <lastBuildDate>2026-04-04T19:26</lastBuildDate>
+    <lastBuildDate>2026-04-05T09:50</lastBuildDate>
     <atom:link href="https://jordimas.github.io/que-es-cou/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Anthropic anuncia que els subscriptors de Claude Code hauran de pagar un extra per utilitzar OpenClaw</title>
-      <link>https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/</guid>
-      <description>La mesura encareix l'ús d'eines de tercers i ha generat queixes entre els usuaris més intensius de l'assistent.</description>
-      <author>TechCrunch</author>
-      <pubDate>2026-04-04</pubDate>
-    </item>
-    <item>
-      <title>L'última hora de la missió Artemis II a la Lluna i altres notícies científiques</title>
-      <link>https://www.engadget.com/science/space/the-latest-on-the-artemis-ii-mission-to-the-moon-and-more-science-stories-160000539.html?src=rss</link>
-      <guid isPermaLink="true">https://www.engadget.com/science/space/the-latest-on-the-artemis-ii-mission-to-the-moon-and-more-science-stories-160000539.html?src=rss</guid>
-      <description>La càpsula Orion ja ha sortit de l'òrbita terrestre, oferint imatges espectaculars del nostre planeta durant el viatge.</description>
-      <author>Engadget</author>
-      <pubDate>2026-04-04</pubDate>
-    </item>
-    <item>
-      <title>La reestructuració directiva d'OpenAI inclou un nou rol per al COO Brad Lightcap liderant "projectes especials"</title>
-      <link>https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/</guid>
-      <description>Aquests canvis coincideixen amb la baixa mèdica de Fidji Simo i la preparació per a una possible sortida a borsa.</description>
-      <author>TechCrunch</author>
-      <pubDate>2026-04-03</pubDate>
-    </item>
-    <item>
-      <title>La beta pública d'Apple iOS 26.5 ja està disponible</title>
-      <link>https://www.engadget.com/mobile/smartphones/apple-ios-265-public-beta-is-now-available-170103425.html?src=rss</link>
-      <guid isPermaLink="true">https://www.engadget.com/mobile/smartphones/apple-ios-265-public-beta-is-now-available-170103425.html?src=rss</guid>
-      <description>Aquesta actualització introdueix recomanacions de llocs a Apple Maps i prepara el terreny per a futures funcions.</description>
-      <author>Engadget</author>
-      <pubDate>2026-04-04</pubDate>
-    </item>
-    <item>
-      <title>Super Meat Boy 3D fa que patir sigui divertit</title>
-      <link>https://www.theverge.com/games/904202/super-meat-boy-3d-review</link>
-      <guid isPermaLink="true">https://www.theverge.com/games/904202/super-meat-boy-3d-review</guid>
-      <description>El clàssic joc independent de plataformes fa el salt a les tres dimensions mantenint la seva dificultat brutal.</description>
-      <author>The Verge</author>
-      <pubDate>2026-04-04</pubDate>
-    </item>
-    <item>
-      <title>Després de reduir els "projectes secundaris", OpenAI compra un programa d'entrevistes</title>
-      <link>https://www.cnet.com/tech/services-and-software/openai-acquires-tbpn/</link>
-      <guid isPermaLink="true">https://www.cnet.com/tech/services-and-software/openai-acquires-tbpn/</guid>
-      <description>L'adquisició del popular pòdcast tecnològic TBPN busca millorar la imatge pública de l'empresa enmig de diverses controvèrsies.</description>
+      <title>Els astronautes de l'Artemis II de la NASA ja han fet més de mig camí cap a la Lluna</title>
+      <link>https://www.cnet.com/news-live/nasa-artemis-ii-live-launch-historic-moon-mission-launch/</link>
+      <guid isPermaLink="true">https://www.cnet.com/news-live/nasa-artemis-ii-live-launch-historic-moon-mission-launch/</guid>
+      <description>La tripulació de quatre persones supera l'equador del seu viatge històric, que entra en el quart dia d'expedició.</description>
       <author>CNET</author>
-      <pubDate>2026-04-03</pubDate>
+      <pubDate>2026-04-05</pubDate>
     </item>
     <item>
-      <title>El gegant de dades d'IA Mercor estaria buscant comprar la feina que vas fer al teu antic lloc</title>
-      <link>https://gizmodo.com/ai-training-data-giant-mercor-is-reportedly-looking-to-buy-the-work-you-did-at-your-old-job-2000742263</link>
-      <guid isPermaLink="true">https://gizmodo.com/ai-training-data-giant-mercor-is-reportedly-looking-to-buy-the-work-you-did-at-your-old-job-2000742263</guid>
-      <description>Aquesta polèmica pràctica ha provocat que Meta aturi la seva col·laboració per por a filtracions de secrets industrials.</description>
-      <author>Gizmodo</author>
-      <pubDate>2026-04-03</pubDate>
+      <title>Anthropic bloqueja l'accés dels subscriptors de Claude a OpenClaw per reduir costos</title>
+      <link>https://thenextweb.com/news/anthropic-openclaw-claude-subscription-ban-cost</link>
+      <guid isPermaLink="true">https://thenextweb.com/news/anthropic-openclaw-claude-subscription-ban-cost</guid>
+      <description>L'empresa obliga els usuaris de pagament a assumir els costos d'executar agents autònoms de tercers mitjançant tarifes per ús.</description>
+      <author>The Next Web</author>
+      <pubDate>2026-04-04</pubDate>
     </item>
     <item>
-      <title>La plantilla de la fàbrica de Tesla a Texas s'hauria reduït un 22% el 2025</title>
-      <link>https://techcrunch.com/2026/04/03/teslas-texas-factory-workforce-reportedly-shrunk-22-in-2025/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/04/03/teslas-texas-factory-workforce-reportedly-shrunk-22-in-2025/</guid>
-      <description>Aquesta forta caiguda de personal reflecteix les dificultats de la companyia per afrontar la baixada contínua de vendes.</description>
-      <author>TechCrunch</author>
-      <pubDate>2026-04-03</pubDate>
+      <title>Adéu a Samsung Messages: s'anuncia oficialment la data de la seva fi</title>
+      <link>https://www.androidauthority.com/samsung-messages-end-of-service-3654928/</link>
+      <guid isPermaLink="true">https://www.androidauthority.com/samsung-messages-end-of-service-3654928/</guid>
+      <description>L'aplicació de missatgeria predeterminada de la marca sud-coreana deixarà de funcionar el juliol de 2026 per afavorir Google Messages.</description>
+      <author>Android Authority</author>
+      <pubDate>2026-04-05</pubDate>
     </item>
     <item>
-      <title>iFixit desmunta els nous AirPods Max 2 i no se sorprèn</title>
-      <link>https://9to5mac.com/2026/04/03/ifixit-tears-down-the-new-airpods-max-2-isnt-surprised/</link>
-      <guid isPermaLink="true">https://9to5mac.com/2026/04/03/ifixit-tears-down-the-new-airpods-max-2-isnt-surprised/</guid>
-      <description>L'anàlisi revela que els auriculars són pràcticament idèntics a l'original, amb l'única excepció dels nous xips H2.</description>
-      <author>9to5Mac</author>
-      <pubDate>2026-04-03</pubDate>
+      <title>Un enginyer d'AWS alerta que Linux 7.0 redueix a la meitat el rendiment de PostgreSQL</title>
+      <link>https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop</guid>
+      <description>El problema de rendiment detectat en la nova versió del nucli podria ser complex de solucionar a curt termini.</description>
+      <author>Hacker News</author>
+      <pubDate>2026-04-05</pubDate>
     </item>
     <item>
-      <title>Els bancs que treballen en la sortida a borsa de SpaceX haurien de subscriure's a Grok</title>
-      <link>https://www.engadget.com/ai/banks-working-on-the-spacex-ipo-reportedly-have-to-subscribe-to-grok-200213071.html?src=rss</link>
-      <guid isPermaLink="true">https://www.engadget.com/ai/banks-working-on-the-spacex-ipo-reportedly-have-to-subscribe-to-grok-200213071.html?src=rss</guid>
-      <description>Elon Musk exigeix a les firmes financeres que utilitzin el seu polèmic xatbot d'IA per poder assessorar l'operació.</description>
+      <title>La teva sessió a LinkedIn podria no ser tan privada com et penses</title>
+      <link>https://www.digitaltrends.com/social-media/your-linkedin-session-might-not-be-as-private-as-you-think/</link>
+      <guid isPermaLink="true">https://www.digitaltrends.com/social-media/your-linkedin-session-might-not-be-as-private-as-you-think/</guid>
+      <description>Un informe revela que la xarxa social utilitza scripts ocults per recopilar dades dels dispositius i extensions del navegador.</description>
+      <author>Digital Trends</author>
+      <pubDate>2026-04-04</pubDate>
+    </item>
+    <item>
+      <title>Pot la IA solucionar la solitud? La resposta és... complicada</title>
+      <link>https://www.digitaltrends.com/cool-tech/can-ai-fix-loneliness-the-answer-is-complicated/</link>
+      <guid isPermaLink="true">https://www.digitaltrends.com/cool-tech/can-ai-fix-loneliness-the-answer-is-complicated/</guid>
+      <description>Tot i reduir l'aïllament, els experts alerten del risc de dependència emocional i de substituir les connexions humanes reals.</description>
+      <author>Digital Trends</author>
+      <pubDate>2026-04-04</pubDate>
+    </item>
+    <item>
+      <title>La seqüela de Spaceballs s'estrenarà l'abril de l'any que ve</title>
+      <link>https://www.engadget.com/entertainment/tv-movies/the-spaceballs-sequel-will-be-released-in-april-next-year-213543871.html?src=rss</link>
+      <guid isPermaLink="true">https://www.engadget.com/entertainment/tv-movies/the-spaceballs-sequel-will-be-released-in-april-next-year-213543871.html?src=rss</guid>
+      <description>Amazon MGM Studios confirma que la nova pel·lícula arribarà als cinemes coincidint amb el quarantè aniversari de l'original.</description>
       <author>Engadget</author>
-      <pubDate>2026-04-03</pubDate>
-    </item>
-    <item>
-      <title>Apple als 50 anys: El creador de l'iPhone va perdre un avantatge de 5 anys en IA, però pot guanyar</title>
-      <link>https://www.cnbc.com/2026/04/04/apple-50-anniversary-ai-iphone-siri.html</link>
-      <guid isPermaLink="true">https://www.cnbc.com/2026/04/04/apple-50-anniversary-ai-iphone-siri.html</guid>
-      <description>Per liderar la intel·ligència artificial, l'empresa haurà de replantejar la seva estricta política de privacitat en els dispositius.</description>
-      <author>CNBC Technology</author>
       <pubDate>2026-04-04</pubDate>
     </item>
     <item>
-      <title>Quin sentit té una novel·la escrita per IA?</title>
-      <link>https://www.ft.com/content/b83fbd97-e85d-4e67-90de-bfb7bf8c8cde</link>
-      <guid isPermaLink="true">https://www.ft.com/content/b83fbd97-e85d-4e67-90de-bfb7bf8c8cde</guid>
-      <description>El veritable risc d'aquesta tecnologia és la pèrdua d'interès per la qualitat literària i l'escriptura humana autèntica.</description>
+      <title>Un controlador SVGA genèric i modern per a Windows 3.1</title>
+      <link>https://github.com/PluMGMK/vbesvga.drv</link>
+      <guid isPermaLink="true">https://github.com/PluMGMK/vbesvga.drv</guid>
+      <description>Aquest nou desenvolupament permet millorar la compatibilitat gràfica d'aquest sistema operatiu clàssic en maquinari i emuladors actuals.</description>
+      <author>Hacker News</author>
+      <pubDate>2026-04-05</pubDate>
+    </item>
+    <item>
+      <title>Demostració de descodificació AV2 en temps real en portàtils de consum</title>
+      <link>http://aomedia.org/blog%20posts/Demonstrating-Real-Time-AV2-Decoding-on-Consumer-Laptops/</link>
+      <guid isPermaLink="true">http://aomedia.org/blog%20posts/Demonstrating-Real-Time-AV2-Decoding-on-Consumer-Laptops/</guid>
+      <description>Una prova recent mostra com els equips domèstics ja poden processar aquest nou format de vídeo de manera eficient.</description>
+      <author>Hacker News</author>
+      <pubDate>2026-04-05</pubDate>
+    </item>
+    <item>
+      <title>He deixat que un test intel·ligent es mantingui sol durant 2 mesos: aquest és el resultat</title>
+      <link>https://www.zdnet.com/article/leafypod-smart-planter-review/</link>
+      <guid isPermaLink="true">https://www.zdnet.com/article/leafypod-smart-planter-review/</guid>
+      <description>El dispositiu LeafyPod demostra la seva eficàcia per mantenir les plantes vives i sanes sense cap intervenció humana directa.</description>
+      <author>ZDNet</author>
+      <pubDate>2026-04-05</pubDate>
+    </item>
+    <item>
+      <title>Els negociadors professionals que pacten amb els ciberdelinqüents</title>
+      <link>https://www.ft.com/content/64266b4e-45bd-4081-ad47-265797066caa</link>
+      <guid isPermaLink="true">https://www.ft.com/content/64266b4e-45bd-4081-ad47-265797066caa</guid>
+      <description>Les empreses contracten experts en seguretat per gestionar atacs de segrest de dades i minimitzar pèrdues milionàries.</description>
       <author>Financial Times</author>
-      <pubDate>2026-04-04</pubDate>
+      <pubDate>2026-04-05</pubDate>
     </item>
     <item>
-      <title>Fidji Simo d'OpenAI agafa la baixa mèdica i anuncia canvis a la direcció</title>
+      <title>El Regne Unit sedueix Anthropic perquè s'expandeixi a Londres després del xoc amb Defensa dels EUA</title>
+      <link>https://www.ft.com/content/6bfd7b59-5e63-4a4d-ab55-7c2bd39b05a5</link>
+      <guid isPermaLink="true">https://www.ft.com/content/6bfd7b59-5e63-4a4d-ab55-7c2bd39b05a5</guid>
+      <description>El govern de Starmer aprofita les tensions nord-americanes per atreure la inversió d'aquesta empresa d'intel·ligència artificial.</description>
+      <author>Financial Times</author>
+      <pubDate>2026-04-05</pubDate>
+    </item>
+    <item>
+      <title>Fidji Simo d'OpenAI agafa la baixa mèdica i anuncia canvis en la direcció</title>
       <link>https://www.cnbc.com/2026/04/03/openai-fidji-simo-medical-leave-executive-changes.html</link>
       <guid isPermaLink="true">https://www.cnbc.com/2026/04/03/openai-fidji-simo-medical-leave-executive-changes.html</guid>
-      <description>Greg Brockman assumirà temporalment la supervisió dels productes per garantir l'estabilitat durant l'absència de la directiva.</description>
+      <description>Greg Brockman assumirà temporalment la supervisió de productes per garantir l'estabilitat operativa durant l'absència de Simo.</description>
       <author>CNBC Technology</author>
-      <pubDate>2026-04-03</pubDate>
+      <pubDate>2026-04-04</pubDate>
     </item>
     <item>
-      <title>L'estratègia de fusions d'OpenAI es torna més confusa amb la compra de TBPN</title>
-      <link>https://www.cnbc.com/2026/04/03/chasing-vibes-openai-ma-strategy-gets-more-confusing-with-tbpn-.html</link>
-      <guid isPermaLink="true">https://www.cnbc.com/2026/04/03/chasing-vibes-openai-ma-strategy-gets-more-confusing-with-tbpn-.html</guid>
-      <description>L'adquisició d'aquesta empresa de mitjans genera dubtes sobre el rumb corporatiu després de recents inversions en maquinari.</description>
+      <title>Apple als 50: El fabricant de l'iPhone va perdre el seu avantatge en IA, però pot guanyar</title>
+      <link>https://www.cnbc.com/2026/04/04/apple-50-anniversary-ai-iphone-siri.html</link>
+      <guid isPermaLink="true">https://www.cnbc.com/2026/04/04/apple-50-anniversary-ai-iphone-siri.html</guid>
+      <description>L'empresa haurà de replantejar la seva estricta política de privacitat si vol liderar el mercat de la intel·ligència artificial.</description>
       <author>CNBC Technology</author>
-      <pubDate>2026-04-03</pubDate>
-    </item>
-    <item>
-      <title>Un centre de dades recolzat per Meta busca 3.000 milions amb un finançament innovador</title>
-      <link>https://www.ft.com/content/390545d7-148d-4e88-a56a-ade079a9ed5e</link>
-      <guid isPermaLink="true">https://www.ft.com/content/390545d7-148d-4e88-a56a-ade079a9ed5e</guid>
-      <description>El "Projecte Walleye" proposa un model inèdit on els prestadors assumeixen simultàniament els costos de construcció i energia.</description>
-      <author>Financial Times</author>
-      <pubDate>2026-04-03</pubDate>
+      <pubDate>2026-04-04</pubDate>
     </item>
     <item>
       <title>L'Artemis ja és més a prop de la Lluna que de la Terra: "Hem vist coses extraordinàries"</title>
       <link>https://www.3cat.cat/3catinfo/lartemis-ja-es-a-mig-cami-de-la-lluna-hem-vist-coses-extraordinaries/noticia/3402986/</link>
       <guid isPermaLink="true">https://www.3cat.cat/3catinfo/lartemis-ja-es-a-mig-cami-de-la-lluna-hem-vist-coses-extraordinaries/noticia/3402986/</guid>
-      <description>La nau Orion avança cap a la cara oculta del satèl·lit per documentar-la, superant l'equador del seu viatge espacial.</description>
+      <description>La nau Orion supera l'equador del seu viatge i es prepara per documentar la cara oculta del satèl·lit.</description>
       <author>324.cat</author>
       <pubDate>2026-04-04</pubDate>
+    </item>
+    <item>
+      <title>La NASA publica les primeres imatges de la Terra fetes pels astronautes de la missió Artemis 2</title>
+      <link>https://www.rac1.cat/internacional/20260403/336051/nasa-publica-primeres-imatges-terra-fetes-pels-astronautes-missio-artemis-2.html</link>
+      <guid isPermaLink="true">https://www.rac1.cat/internacional/20260403/336051/nasa-publica-primeres-imatges-terra-fetes-pels-astronautes-missio-artemis-2.html</guid>
+      <description>La nau Orió capta el nostre planeta com una esfera il·luminada on s'aprecien aurores a l'horitzó.</description>
+      <author>RAC1</author>
+      <pubDate>2026-04-03</pubDate>
     </item>
     <item>
       <title>El DNI digital entra en vigor a l’app MiDNI i serveix per a qualsevol tràmit</title>
       <link>https://www.lavanguardia.com/encatala/20260404/11505642/dni-digital-entra-vigor-l-app-midni-i-serveix-per-qualsevol-tramit.html</link>
       <guid isPermaLink="true">https://www.lavanguardia.com/encatala/20260404/11505642/dni-digital-entra-vigor-l-app-midni-i-serveix-per-qualsevol-tramit.html</guid>
-      <description>Aquesta aplicació permet identificar-se legalment des del mòbil, tot i que la seva implementació generalitzada suposarà un repte important.</description>
+      <description>Aquesta nova eina té la mateixa validesa legal que el document físic, tot i que l'adaptació serà progressiva.</description>
       <author>La Vanguardia (en català)</author>
       <pubDate>2026-04-04</pubDate>
     </item>
     <item>
-      <title>La justícia italiana declara il·legals els augments de preu de Netflix i l’obliga a retornar els diners</title>
-      <link>https://www.vilaweb.cat/noticies/justicia-italiana-illegals-augments-preu-netflix/</link>
-      <guid isPermaLink="true">https://www.vilaweb.cat/noticies/justicia-italiana-illegals-augments-preu-netflix/</guid>
-      <description>Els usuaris afectats podrien recuperar fins a cinc-cents euros, establint un precedent legal important per a les plataformes de reproducció.</description>
-      <author>VilaWeb</author>
+      <title>Ja no cal portar el DNI físic: consulta com tenir el DNI digital</title>
+      <link>https://www.cugat.cat/noticies/ja-no-cal-portar-el-dni-fisic-consulta-com-tenir-el-dni-digital/</link>
+      <guid isPermaLink="true">https://www.cugat.cat/noticies/ja-no-cal-portar-el-dni-fisic-consulta-com-tenir-el-dni-digital/</guid>
+      <description>Les entitats públiques i privades ja estan obligades a acceptar la identificació mitjançant l'aplicació mòbil MiDNI.</description>
+      <author>Cugat.cat</author>
       <pubDate>2026-04-03</pubDate>
+    </item>
+    <item>
+      <title>La IA que dóna veu a la llengua de signes: els sords signants podran fer ràdio</title>
+      <link>https://www.vilaweb.cat/noticies/signaria-llengua-signes-sords-signants-radio/</link>
+      <guid isPermaLink="true">https://www.vilaweb.cat/noticies/signaria-llengua-signes-sords-signants-radio/</guid>
+      <description>La UPF i Sorensen desenvolupen una eina pionera que permet a una alumna de periodisme cursar ràdio amb normalitat.</description>
+      <author>VilaWeb</author>
+      <pubDate>2026-04-04</pubDate>
     </item>
     <item>
       <title>L'addicció a les pantalles es duplica en cinc anys: el 40% de persones que demana ajuda a centres de drogodependència és per aquest motiu</title>
       <link>https://www.rac1.cat/salut/20260404/336115/addiccio-pantalles-es-duplica-cinc-anys-40-persones-demana-ajudes-centres-drogodependencia-motiu.html</link>
       <guid isPermaLink="true">https://www.rac1.cat/salut/20260404/336115/addiccio-pantalles-es-duplica-cinc-anys-40-persones-demana-ajudes-centres-drogodependencia-motiu.html</guid>
-      <description>Aquesta problemàtica creixent ja no afecta només els adolescents, sinó que cada cop més adults requereixen tractament especialitzat.</description>
+      <description>Els centres alerten que l'ús problemàtic del mòbil ja no afecta només els adolescents, sinó també molts adults.</description>
       <author>RAC1</author>
       <pubDate>2026-04-04</pubDate>
     </item>
     <item>
-      <title>Traducció al català en temps real amb auriculars: així funciona la nova eina de Google</title>
-      <link>https://www.elperiodico.cat/ca/tecnologia/20260403/traduccio-al-catala-en-temps-128629713?utm_source=rss-noticias&amp;amp;utm_medium=feed&amp;amp;utm_campaign=tecnologia</link>
-      <guid isPermaLink="true">https://www.elperiodico.cat/ca/tecnologia/20260403/traduccio-al-catala-en-temps-128629713?utm_source=rss-noticias&amp;amp;utm_medium=feed&amp;amp;utm_campaign=tecnologia</guid>
-      <description>La funció converteix els dispositius en intèrprets simultanis, facilitant la comunicació internacional tant en l'àmbit professional com en viatges.</description>
-      <author>El Periódico</author>
-      <pubDate>2026-04-03</pubDate>
+      <title>Falten 21.000 instal·ladors, sobretot d'energies renovables, perquè no hi ha aspirants</title>
+      <link>https://www.3cat.cat/3catinfo/falten-21000-installadors-sobretot-denergies-renovables-perque-no-hi-ha-aspirants/noticia/3402361/</link>
+      <guid isPermaLink="true">https://www.3cat.cat/3catinfo/falten-21000-installadors-sobretot-denergies-renovables-perque-no-hi-ha-aspirants/noticia/3402361/</guid>
+      <description>L'expansió del sector de l'energia verda requerirà fins a 100.000 professionals d'aquí al 2050 per cobrir la demanda.</description>
+      <author>324.cat</author>
+      <pubDate>2026-04-05</pubDate>
     </item>
     <item>
       <title>Volkswagen i Cupra criden a revisió 94.000 cotxes elèctrics per risc d’incendi</title>
       <link>https://motor.ara.cat/seguretat/volkswagen-cupra-criden-revisio-94-000-cotxes-electrics-risc-d-incendi_1_5696464.html</link>
       <guid isPermaLink="true">https://motor.ara.cat/seguretat/volkswagen-cupra-criden-revisio-94-000-cotxes-electrics-risc-d-incendi_1_5696464.html</guid>
-      <description>Una anomalia en els mòduls de les bateries obliga a revisar diversos models fabricats durant els darrers dos anys.</description>
+      <description>S'ha detectat un problema en el mòdul de bateries de diversos models fabricats entre el 2022 i el 2024.</description>
       <author>Ara.cat</author>
       <pubDate>2026-04-02</pubDate>
     </item>
     <item>
-      <title>Del terapeuta a l'amant: com la IA es cola en la intimitat emocional i sexual</title>
-      <link>https://www.lavanguardia.com/encatala/20260403/11502595/terapeuta-l-amant-com-ia-cola-intimitat-emocional-i-sexual-ctx.html</link>
-      <guid isPermaLink="true">https://www.lavanguardia.com/encatala/20260403/11502595/terapeuta-l-amant-com-ia-cola-intimitat-emocional-i-sexual-ctx.html</guid>
-      <description>L'ús d'algoritmes per gestionar relacions personals planteja nous debats sobre com la tecnologia transforma la nostra manera de vincular-nos.</description>
-      <author>La Vanguardia (en català)</author>
+      <title>Traducció al català en temps real amb auriculars: així funciona la nova eina de Google</title>
+      <link>https://www.elperiodico.cat/ca/tecnologia/20260403/traduccio-al-catala-en-temps-128629713?utm_source=rss-noticias&amp;amp;utm_medium=feed&amp;amp;utm_campaign=tecnologia</link>
+      <guid isPermaLink="true">https://www.elperiodico.cat/ca/tecnologia/20260403/traduccio-al-catala-en-temps-128629713?utm_source=rss-noticias&amp;amp;utm_medium=feed&amp;amp;utm_campaign=tecnologia</guid>
+      <description>La funció 'Live Translate' facilita la comunicació internacional i els viatges convertint els auriculars en un traductor instantani.</description>
+      <author>El Periódico</author>
       <pubDate>2026-04-03</pubDate>
     </item>
     <item>
       <title>El comitè d'empresa d'Ocado Technology denuncia l'inici d'un ERO que afectaria el 72% de l'equip</title>
       <link>https://www.viaempresa.cat/empresa/comite-empresa-ocado-technology-denuncia-inici-ero-afectaria-72-equip_2232818_102.html</link>
       <guid isPermaLink="true">https://www.viaempresa.cat/empresa/comite-empresa-ocado-technology-denuncia-inici-ero-afectaria-72-equip_2232818_102.html</guid>
-      <description>Els treballadors de Barcelona critiquen la manca de transparència i alerten d'una possible deslocalització cap a països més barats.</description>
+      <description>Els treballadors critiquen la manca de transparència i alerten que la filial tecnològica vol deslocalitzar l'activitat a altres països.</description>
       <author>Via Empresa</author>
       <pubDate>2026-04-03</pubDate>
-    </item>
-    <item>
-      <title>L'app catalana que evita a les parelles separades l'estrès d'organitzar la logística dels fills</title>
-      <link>https://www.rac1.cat/empresa/20260401/334060/aplicacio-catalana-evita-parelles-separades-estres-organitzar-logistica-fills-lloc-troben-tota-informacio.html</link>
-      <guid isPermaLink="true">https://www.rac1.cat/empresa/20260401/334060/aplicacio-catalana-evita-parelles-separades-estres-organitzar-logistica-fills-lloc-troben-tota-informacio.html</guid>
-      <description>Aquesta eina tecnològica centralitza la coordinació d'activitats, metges i despeses per reduir els conflictes diaris entre els progenitors.</description>
-      <author>RAC1</author>
-      <pubDate>2026-04-01</pubDate>
-    </item>
-    <item>
-      <title>La IA descobrirà vida extraterrestre? De moment ha trobat senyals secrets de dotzenes de planetes</title>
-      <link>https://www.elnacional.cat/ca/tecnologia/descobrira-ia-vida-extraterrestre-moment-ha-trobat-senyals-secretes-dotzenes-planetes_1618929_102.html</link>
-      <guid isPermaLink="true">https://www.elnacional.cat/ca/tecnologia/descobrira-ia-vida-extraterrestre-moment-ha-trobat-senyals-secretes-dotzenes-planetes_1618929_102.html</guid>
-      <description>Els sistemes d'aprenentatge automàtic analitzen dades espacials massives per detectar patrons ocults que podrien revelar nous mons habitables.</description>
-      <author>El Nacional.cat</author>
-      <pubDate>2026-04-04</pubDate>
     </item>
     <item>
       <title>Ivoox com exemple de merdificació – Programa 658</title>
       <link>https://mossegalapoma.cat/ivoox-com-exemple-de-merdificacio-programa-658/</link>
       <guid isPermaLink="true">https://mossegalapoma.cat/ivoox-com-exemple-de-merdificacio-programa-658/</guid>
-      <description>Anàlisi de com les plataformes digitals prioritzen el negoci per sobre de l'usuari, amb exemples com iVoox o Google.</description>
+      <description>Anàlisi de com les plataformes digitals prioritzen el negoci per sobre de l'usuari, amb iVoox com a cas d'estudi.</description>
       <author>Mossega la poma</author>
       <pubDate>2026-03-30</pubDate>
     </item>
@@ -227,7 +219,7 @@
       <title>L' Altra Ràdio - Les persones que fan servir la llengua de signes catalana poden fer ràdio</title>
       <link>https://podcasts.cat/36/33915631/</link>
       <guid isPermaLink="true">https://podcasts.cat/36/33915631/</guid>
-      <description>Presentació de Signària, una eina innovadora que permet a persones sordes fer ràdio mitjançant veus sintètiques personalitzades.</description>
+      <description>Presentació de Signària, una eina innovadora que permet fer ràdio mitjançant veus sintètiques personalitzades per a persones sordes.</description>
       <author>L'altra ràdio</author>
       <pubDate>2026-03-26</pubDate>
     </item>
@@ -235,7 +227,7 @@
       <title>El gòTIC - Tenim una missió! del 25/3/2026</title>
       <link>https://podcasts.cat/191/33910802/</link>
       <guid isPermaLink="true">https://podcasts.cat/191/33910802/</guid>
-      <description>El gòTIC de Tàrrega comparteix recursos i estratègies per afrontar els reptes actuals de la ciutadania digital.</description>
+      <description>L'Ajuntament de Tàrrega comparteix recursos i estratègies per afrontar els reptes actuals de la ciutadania digital.</description>
       <author>El Gòtic</author>
       <pubDate>2026-03-24</pubDate>
     </item>
@@ -243,7 +235,7 @@
       <title>El futur de la premsa, de l'educació i el problema de l'accès a les dades obertes</title>
       <link>https://podcasts.cat/247/33924944/</link>
       <guid isPermaLink="true">https://podcasts.cat/247/33924944/</guid>
-      <description>Reflexió profunda sobre els reptes del periodisme, l'ensenyament i les barreres en l'accés a la informació pública.</description>
+      <description>Reflexió sobre els reptes del periodisme, l'ensenyament i les barreres actuals per accedir a la informació pública.</description>
       <author>Internet amb Genís Roca</author>
       <pubDate>2026-03-29</pubDate>
     </item>
@@ -251,7 +243,7 @@
       <title>El futur de la premsa, de l'educació i el problema de l'accès a les dades obertes</title>
       <link>https://podcasts.cat/247/33923961/</link>
       <guid isPermaLink="true">https://podcasts.cat/247/33923961/</guid>
-      <description>Debat sobre la transformació dels mitjans, el sistema educatiu i la importància de garantir dades obertes accessibles.</description>
+      <description>Debat profund sobre la transformació dels mitjans, el sistema educatiu i la transparència de les dades obertes.</description>
       <author>Internet amb Genís Roca</author>
       <pubDate>2026-03-28</pubDate>
     </item>
@@ -259,7 +251,7 @@
       <title>La gamificació de la renda</title>
       <link>https://rss.com/podcasts/focaterra/2665655</link>
       <guid isPermaLink="true">https://rss.com/podcasts/focaterra/2665655</guid>
-      <description>Repàs sobre subvencions.cat, l'impacte del vibecoding i una proposta curiosa per gamificar la declaració de la renda.</description>
+      <description>Repàs sobre subvencions, l'impacte del vibecoding en l'administració i una proposta lúdica per fer la declaració tributària.</description>
       <author>Foc a Terra</author>
       <pubDate>2026-03-30</pubDate>
     </item>
@@ -275,7 +267,7 @@
       <title>Tot a punt per a la versió WordPress 7.0</title>
       <link>https://www.wppodcast.cat/podcast/tot-a-punt-per-a-la-versio-wordpress-7-0/</link>
       <guid isPermaLink="true">https://www.wppodcast.cat/podcast/tot-a-punt-per-a-la-versio-wordpress-7-0/</guid>
-      <description>La nova versió del gestor de continguts entra a la recta final centrant-se a polir els últims detalls.</description>
+      <description>La nova actualització del gestor de continguts entra en la fase final, centrant-se a polir els últims detalls.</description>
       <author>WordPress Pòdcast</author>
       <pubDate>2026-03-31</pubDate>
     </item>
@@ -283,7 +275,7 @@
       <title>WordPress 7.0 beta 6</title>
       <link>https://www.wppodcast.cat/podcast/wordpress-7-0-beta-6/</link>
       <guid isPermaLink="true">https://www.wppodcast.cat/podcast/wordpress-7-0-beta-6/</guid>
-      <description>La fase beta continua per validar la mida de la instal·lació i el nou sistema de temps real.</description>
+      <description>La plataforma continua en fase de proves per validar el rendiment i el nou sistema de temps real.</description>
       <author>WordPress Pòdcast</author>
       <pubDate>2026-03-24</pubDate>
     </item>
@@ -291,15 +283,15 @@
       <title>Capítol 61: Niddo, la solució a la logística familiar de parelles separades</title>
       <link>https://traffic.omny.fm/d/clips/47dc05c7-7279-4c6f-9b31-ae74013297d9/d3709a08-7df4-4359-85b0-af0f00b8b4b3/d928bd25-62d8-4f4f-b2d4-b41600d3f9b9/audio.mp3?dist=RSS</link>
       <guid isPermaLink="true">https://traffic.omny.fm/d/clips/47dc05c7-7279-4c6f-9b31-ae74013297d9/d3709a08-7df4-4359-85b0-af0f00b8b4b3/d928bd25-62d8-4f4f-b2d4-b41600d3f9b9/audio.mp3?dist=RSS</guid>
-      <description>Descobreix l'aplicació dissenyada per reduir l'estrès de la conciliació i organitzar les despeses en famílies amb pares separats.</description>
+      <description>Una nova aplicació busca reduir l'estrès de la conciliació familiar centralitzant despeses, recollides i informació escolar.</description>
       <author>RAC&amp;GO</author>
       <pubDate>2026-03-24</pubDate>
     </item>
     <item>
-      <title>Networking for AI Professionals around the world - April 14</title>
+      <title>Networking per a professionals de la IA d'arreu del món - 14 d'abril</title>
       <link>https://www.meetup.com/ai-professionals-barcelona/events/313981318/</link>
       <guid isPermaLink="true">https://www.meetup.com/ai-professionals-barcelona/events/313981318/</guid>
-      <description>Sessió gratuïta en línia amb xerrada i grups reduïts per connectar amb professionals de la intel·ligència artificial.</description>
+      <description>Sessió interactiva gratuïta en línia amb una xerrada breu i grups reduïts per connectar amb experts del sector.</description>
       <author>AI Professionals Barcelona</author>
       <pubDate>2026-03-27</pubDate>
     </item>
@@ -307,7 +299,7 @@
       <title>guardar la música</title>
       <link>https://www.youtube.com/watch?v=53Ug5KCgESs</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=53Ug5KCgESs</guid>
-      <description>Reflexió sobre com emmagatzemar i preservar la música en l'era digital per no perdre el nostre llegat sonor.</description>
+      <description>Reflexió sobre la preservació digital i com emmagatzemar les nostres cançons preferides per evitar perdre-les en el futur.</description>
       <author>Albert Lloreta</author>
       <pubDate>2026-03-25</pubDate>
     </item>
@@ -315,7 +307,7 @@
       <title>A què hem estat jugant aquest març</title>
       <link>https://www.youtube.com/watch?v=MU2T9kaR4B4</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=MU2T9kaR4B4</guid>
-      <description>Repàs mensual dels videojocs més destacats que l'equip ha gaudit durant el mes de març a les consoles PlayStation.</description>
+      <description>Repàs mensual de les aventures i títols més destacats que han marcat les sessions de joc recents del canal.</description>
       <author>Catalunya PlayStation</author>
       <pubDate>2026-03-31</pubDate>
     </item>
@@ -323,7 +315,7 @@
       <title>🎙️Lúdica #53 - Paradox Interactive: l’imperi de la gran estratègia</title>
       <link>https://www.youtube.com/watch?v=JrN9HBp5OWc</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=JrN9HBp5OWc</guid>
-      <description>Anàlisi profunda de Paradox Interactive i el seu domini absolut en el gènere dels videojocs de gran estratègia.</description>
+      <description>Anàlisi profunda de la companyia sueca i el seu domini absolut en el gènere dels jocs de gestió complexa.</description>
       <author>Lúdica (Vídeos)</author>
       <pubDate>2026-03-24</pubDate>
     </item>
