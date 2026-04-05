@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T11:20",
+  "generated_at": "2024-05-24T16:00",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
@@ -21,12 +21,12 @@
     {
       "name": "La Vanguardia (en català)",
       "url": "https://www.lavanguardia.com/rss/encatala.xml",
-      "articles_found": 10
+      "articles_found": 7
     },
     {
       "name": "VilaWeb",
       "url": "https://www.vilaweb.cat/feed/",
-      "articles_found": 2
+      "articles_found": 3
     },
     {
       "name": "NacióDigital",
@@ -46,12 +46,12 @@
     {
       "name": "El Nacional.cat",
       "url": "https://www.elnacional.cat/uploads/feeds/feed_ca.xml",
-      "articles_found": 9
+      "articles_found": 6
     },
     {
       "name": "El Mon.cat",
       "url": "https://www.elmon.cat/feed/",
-      "articles_found": 1
+      "articles_found": 0
     },
     {
       "name": "El Mon.cat Tecnologia",
@@ -66,17 +66,17 @@
     {
       "name": "Betevé",
       "url": "https://beteve.cat/feed/",
-      "articles_found": 1
+      "articles_found": 0
     },
     {
       "name": "El Punt Avui",
       "url": "https://www.elpuntavui.cat/barcelona.feed?type=rss",
-      "articles_found": 0
+      "articles_found": 2
     },
     {
       "name": "Segre",
       "url": "https://www.segre.com/ca/rss/home.xml",
-      "articles_found": 7
+      "articles_found": 5
     },
     {
       "name": "Regio7",
@@ -116,7 +116,7 @@
     {
       "name": "Cugat.cat",
       "url": "https://www.cugat.cat/feed/",
-      "articles_found": 2
+      "articles_found": 1
     },
     {
       "name": "CatalunyaPress",
@@ -156,7 +156,7 @@
     {
       "name": "MetaData",
       "url": "https://www.metadata.cat/sindica",
-      "articles_found": 4
+      "articles_found": 3
     },
     {
       "name": "El Temps",
@@ -166,12 +166,12 @@
     {
       "name": "Àpunt",
       "url": "https://www.apuntmedia.es/rss/",
-      "articles_found": 2
+      "articles_found": 1
     },
     {
       "name": "El Periòdic d'Ontinyent",
       "url": "https://www.elperiodicvalencia.com/?feed=rss2",
-      "articles_found": 0
+      "articles_found": 1
     },
     {
       "name": "Saó",
@@ -191,7 +191,7 @@
     {
       "name": "Ara Balears",
       "url": "https://www.arabalears.cat/rss/",
-      "articles_found": 2
+      "articles_found": 0
     },
     {
       "name": "Manacor Comarcal",
@@ -201,7 +201,7 @@
     {
       "name": "Via Empresa",
       "url": "https://www.viaempresa.cat/uploads/feeds/feed_via-empresa-2024_ca.xml",
-      "articles_found": 5
+      "articles_found": 7
     },
     {
       "name": "Lúdica",
@@ -216,20 +216,28 @@
   ],
   "articles": [
     {
-      "title": "Dia tres de la missió Artemis II: la nau Orion ja ha superat la meitat del camí cap a la Lluna",
-      "link_id": "c_36126e",
-      "source": "El Nacional.cat",
-      "date": "2026-04-04",
-      "time": "11:37",
-      "summary": "La tripulació aprofita el trajecte per fer exercici i preparar els equips d'investigació abans d'arribar a l'òrbita lunar."
+      "title": "Més a prop de la Lluna",
+      "link_id": "c_faf98e",
+      "source": "Segre",
+      "date": "2026-04-05",
+      "time": "05:35",
+      "summary": "La tripulació prepara la cabina per a l'observació científica després de superar la meitat del trajecte espacial."
     },
     {
-      "title": "Ja no cal portar el DNI físic: consulta com tenir el DNI digital",
-      "link_id": "c_2585ac",
-      "source": "Cugat.cat",
-      "date": "2026-04-03",
-      "time": "13:33",
-      "summary": "L'aplicació MiDNI ja és plenament vàlida per identificar-se legalment davant qualsevol entitat pública o privada a l'Estat."
+      "title": "El DNI digital entra en vigor a l’app MiDNI i serveix per a qualsevol tràmit",
+      "link_id": "c_06c42e",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-04-04",
+      "time": "09:18",
+      "summary": "Tot i tenir la mateixa validesa legal que el format físic, la seva implementació generalitzada suposarà un repte."
+    },
+    {
+      "title": "Fer ràdio sent sorda signant: una eina feta amb IA ajuda la Berta, estudiant de Periodisme",
+      "link_id": "c_919aff",
+      "source": "324.cat",
+      "date": "2026-04-04",
+      "time": "21:30",
+      "summary": "Aquesta innovació tecnològica permet a les persones sordes disposar d'una veu pròpia generada artificialment per comunicar-se."
     },
     {
       "title": "Traducció al català en temps real amb auriculars: així funciona la nova eina de Google",
@@ -237,55 +245,39 @@
       "source": "El Periódico",
       "date": "2026-04-03",
       "time": "12:05",
-      "summary": "La funció 'Live Translate' facilita la comunicació internacional i els viatges, convertint els auriculars en intèrprets simultanis."
+      "summary": "La funció 'Live Translate' facilita la comunicació internacional i trenca les barreres idiomàtiques en entorns professionals i turístics."
     },
     {
-      "title": "Les grans cadenes ja estan obligades a donar o reciclar el menjar perquè no es faci malbé",
-      "link_id": "c_2e0989",
-      "source": "324.cat",
-      "date": "2026-04-03",
-      "time": "16:48",
-      "summary": "La nova normativa exigeix als grans establiments disposar de plans específics per evitar el malbaratament d'aliments."
-    },
-    {
-      "title": "La justícia italiana declara il·legals els augments de preu de Netflix i l’obliga a retornar els diners",
-      "link_id": "c_b78b54",
-      "source": "VilaWeb",
-      "date": "2026-04-03",
-      "time": "19:28",
-      "summary": "Els usuaris afectats des del 2017 podrien rebre compensacions de fins a 500 euros per les tarifes abusives."
-    },
-    {
-      "title": "La marca catalana que obessiona la Generació Z incorpora la llengua després d’un burofax",
-      "link_id": "c_dbdc34",
-      "source": "El Mon.cat",
-      "date": "2026-04-04",
-      "time": "09:47",
-      "summary": "La popular firma de roba juvenil rectifica i afegeix l'etiquetatge en català gràcies a l'avís de Plataforma per la Llengua."
-    },
-    {
-      "title": "L'odissea per carregar un cotxe elèctric a Catalunya: \"Estava desesperat; per arribar a casa vaig haver d'aprofitar les baixades i anar el més a poc a poc possible\"",
+      "title": "L'odissea per carregar un cotxe elèctric a Catalunya: \"Estava desesperat; per arribar a casa vaig haver d'aprofitar les baixades i anar més a poc a poc\"",
       "link_id": "c_707690",
       "source": "RAC1",
       "date": "2026-04-02",
       "time": "18:10",
-      "summary": "Un conductor relata els greus problemes d'autonomia i la manca d'infraestructures durant un viatge familiar al Garraf."
+      "summary": "La manca d'infraestructures de càrrega eficients continua generant greus problemes als conductors durant els desplaçaments vacacionals."
     },
     {
-      "title": "Quant estalvi suposa un cotxe elèctric respecte a un de gasolina o gasoil en plena tempesta del petroli",
-      "link_id": "c_81c880",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-04-02",
-      "time": "06:23",
-      "summary": "Malgrat l'encariment dels carburants, recórrer la mateixa distància amb un vehicle elèctric resulta tres vegades més econòmic."
+      "title": "Falten 21.000 instal·ladors, sobretot d'energies renovables, perquè no hi ha aspirants",
+      "link_id": "c_583f2e",
+      "source": "324.cat",
+      "date": "2026-04-05",
+      "time": "07:59",
+      "summary": "L'expansió del sector verd topa amb una greu manca de professionals qualificats per cobrir la demanda futura."
     },
     {
-      "title": "El consell dels Bombers a les zones sense cobertura: la geolocalització",
-      "link_id": "c_b5a865",
+      "title": "L’audiollibre es dispara a Catalunya i guanya nous oients",
+      "link_id": "c_f51a52",
       "source": "Lleida Diari",
-      "date": "2026-04-03",
-      "time": "11:19",
-      "summary": "Les autoritats recomanen portar dispositius de rastreig durant les excursions de Setmana Santa per facilitar possibles rescats."
+      "date": "2026-04-05",
+      "time": "09:36",
+      "summary": "El consum d'aquest format literari s'ha duplicat en cinc anys, consolidant-se com una forta tendència cultural."
+    },
+    {
+      "title": "El Port revoluciona la conservació del medi amb un bessó digital submarí",
+      "link_id": "c_2a4c1c",
+      "source": "El Punt Avui",
+      "date": "2026-04-05",
+      "time": "02:00",
+      "summary": "Aquesta tecnologia pionera permetrà monitorar i protegir l'ecosistema marí de les instal·lacions portuàries barcelonines amb gran precisió."
     },
     {
       "title": "El comitè d'empresa d'Ocado Technology denuncia l'inici d'un ERO que afectaria el 72% de l'equip",
@@ -293,7 +285,15 @@
       "source": "Via Empresa",
       "date": "2026-04-03",
       "time": "10:20",
-      "summary": "Els treballadors critiquen l'opacitat de l'empresa, que pretén deslocalitzar la producció cap a països amb mà d'obra més barata."
+      "summary": "Els treballadors alerten d'una deslocalització cap a països més barats i critiquen l'opacitat de la filial tecnològica."
+    },
+    {
+      "title": "La marca catalana que obsessiona la Generació Z incorpora la llengua després d’un burofax",
+      "link_id": "c_dbdc34",
+      "source": "El Mon.cat Societat",
+      "date": "2026-04-04",
+      "time": "09:47",
+      "summary": "La popular firma de roba Nude Project afegeix l'etiquetatge en català arran de la pressió de Plataforma per la Llengua."
     }
   ]
 }

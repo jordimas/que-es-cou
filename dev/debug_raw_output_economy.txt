@@ -1,56 +1,48 @@
 {
-  "generated_at": "2024-05-24T16:30",
+  "generated_at": "2024-05-24T19:00",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "L'estratègia de fusions d'OpenAI desconcerta amb la compra de TBPN",
-      "link_id": "c_e9a0c6",
+      "title": "Fidji Simo d'OpenAI agafa la baixa mèdica i anuncia canvis en la direcció",
+      "link_id": "c_43b668",
       "source": "CNBC Technology",
-      "date": "2026-04-03",
-      "time": "22:13",
-      "summary": "L'adquisició d'aquesta empresa de mitjans planteja dubtes sobre el rumb corporatiu més enllà de la intel·ligència artificial."
+      "date": "2026-04-05",
+      "time": "10:02",
+      "summary": "Greg Brockman assumirà la supervisió dels productes mentre la directiva estigui absent per motius de salut."
     },
     {
-      "title": "Restes d'una intercepció aèria impacten contra l'edifici d'Oracle a Dubai",
+      "title": "Els negociadors professionals que pacten amb els ciberdelinqüents",
+      "link_id": "c_8a664d",
+      "source": "Financial Times",
+      "date": "2026-04-05",
+      "time": "04:00",
+      "summary": "L'augment dels atacs de segrest de dades impulsa les empreses a contractar experts per gestionar converses d'alt risc."
+    },
+    {
+      "title": "El Regne Unit sedueix Anthropic perquè s'expandeixi a Londres després del xoc amb Defensa dels EUA",
+      "link_id": "c_68f469",
+      "source": "Financial Times",
+      "date": "2026-04-05",
+      "time": "04:00",
+      "summary": "El govern de Keir Starmer intensifica els esforços per atreure la presència d'aquesta empresa emergent d'intel·ligència artificial."
+    },
+    {
+      "title": "Trump adverteix l'Iran que \"es desfermarà l'infern en 48 hores\" mentre s'intensifica la cerca del tripulant desaparegut",
       "link_id": "c_6c2ad9",
       "source": "CNBC Technology",
       "date": "2026-04-04",
-      "time": "09:11",
-      "summary": "L'incident augmenta la tensió a la regió després de les recents amenaces iranianes contra empreses tecnològiques nord-americanes."
-    },
-    {
-      "title": "Quin sentit té una novel·la escrita per intel·ligència artificial?",
-      "link_id": "c_c22131",
-      "source": "Financial Times",
-      "date": "2026-04-04",
-      "time": "04:00",
-      "summary": "El veritable risc d'aquesta tecnologia és la possible pèrdua d'interès del públic per la qualitat literària humana."
-    },
-    {
-      "title": "Fidji Simo d'OpenAI agafa la baixa mèdica i anuncia canvis directius",
-      "link_id": "c_43b668",
-      "source": "CNBC Technology",
-      "date": "2026-04-03",
       "time": "22:40",
-      "summary": "Greg Brockman assumirà temporalment la supervisió de productes per garantir l'estabilitat operativa durant la seva absència."
+      "summary": "L'exèrcit nord-americà continua buscant l'aviador desaparegut després que el seu caça F-15E fos abatut al sud-oest iranià."
     },
     {
-      "title": "Un centre de dades recolzat per Meta busca 3.000 milions de dòlars",
-      "link_id": "c_a2cfc1",
-      "source": "Financial Times",
-      "date": "2026-04-03",
-      "time": "21:14",
-      "summary": "El projecte innova financerament en buscar prestadors que cobreixin simultàniament els costos de construcció i el subministrament energètic."
-    },
-    {
-      "title": "Meta i Google, amenaçades per demandes que esquiven la seva protecció legal",
-      "link_id": "c_a3e4eb",
+      "title": "Apple als 50: El fabricant de l'iPhone \"va desaprofitar un avantatge de 5 anys\" en IA",
+      "link_id": "c_251786",
       "source": "CNBC Technology",
-      "date": "2026-04-03",
-      "time": "17:07",
-      "summary": "Els nous litigis podrien obligar les plataformes a assumir responsabilitats inèdites sobre els continguts publicats pels usuaris."
+      "date": "2026-04-04",
+      "time": "12:00",
+      "summary": "Per poder competir en intel·ligència artificial, l'empresa podria veure's obligada a replantejar la seva històrica promesa de privacitat."
     }
   ]
 }

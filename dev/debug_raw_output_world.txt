@@ -1,88 +1,88 @@
 {
-  "generated_at": "2024-05-24T12:00",
+  "generated_at": "2026-04-05T13:20",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "La trajectòria de la missió lunar Artemis II és una proesa d'enginyeria",
-      "link_id": "c_86f889",
-      "source": "Wired",
-      "date": "2026-04-04",
-      "time": "09:30",
-      "summary": "Els astronautes batran rècords de distància viatjant més enllà de la Lluna gràcies a una ruta meticulosament dissenyada."
-    },
-    {
-      "title": "Els pirates informàtics publiquen la filtració de Claude Code amb programari maliciós addicional",
-      "link_id": "c_c3f088",
-      "source": "Wired",
-      "date": "2026-04-04",
-      "time": "10:30",
-      "summary": "Els ciberdelinqüents aprofiten l'exposició del codi d'Anthropic per distribuir codi maliciós entre els usuaris que l'intenten descarregar."
-    },
-    {
-      "title": "Després de reduir projectes secundaris, OpenAI compra un programa d'entrevistes",
-      "link_id": "c_89bbd5",
+      "title": "Els astronautes de l'Artemis II de la NASA ja han fet més de mig camí cap a la Lluna",
+      "link_id": "c_029a1f",
       "source": "CNET",
-      "date": "2026-04-03",
-      "time": "22:20",
-      "summary": "L'empresa d'intel·ligència artificial adquireix el popular pòdcast tecnològic TBPN per intentar millorar la seva imatge pública i narrativa."
+      "date": "2026-04-05",
+      "time": "03:17",
+      "summary": "La tripulació ha superat l'equador del seu viatge històric, utilitzant tauletes i telèfons intel·ligents per comunicar-se durant la missió."
     },
     {
-      "title": "Anthropic triomfa als mercats privats, però SpaceX podria espatllar la festa",
-      "link_id": "c_5e9e63",
-      "source": "TechCrunch",
+      "title": "Anthropic talla l'accés dels subscriptors de Claude a OpenClaw per reduir costos",
+      "link_id": "c_4e7024",
+      "source": "The Next Web",
       "date": "2026-04-04",
-      "time": "01:31",
-      "summary": "La imminent sortida a borsa de l'empresa d'Elon Musk amenaça de desviar l'atenció i el capital de les IA."
+      "time": "18:53",
+      "summary": "Els usuaris de pagament hauran d'assumir els costos d'executar agents autònoms de tercers mitjançant una tarifa per ús."
     },
     {
-      "title": "El CERT-EU culpa l'atac a la cadena de subministrament de Trivy de la filtració de dades d'Europa.eu",
-      "link_id": "c_60a6dd",
-      "source": "InfoWorld",
-      "date": "2026-04-03",
-      "time": "16:37",
-      "summary": "L'agència europea confirma que el robatori massiu d'informació es va originar per una vulnerabilitat en l'escàner de codi obert."
+      "title": "Microsoft qualifica Copilot de \"només per a entreteniment\" tot i cobrar-ne 30 dòlars mensuals",
+      "link_id": "c_8c3985",
+      "source": "The Next Web",
+      "date": "2026-04-05",
+      "time": "10:58",
+      "summary": "Les condicions d'ús de l'empresa adverteixen els usuaris que no confiïn en la intel·ligència artificial per a consells importants."
     },
     {
-      "title": "Microsoft posa a Copilot el mateix avís legal que un vident per evitar demandes",
-      "link_id": "c_49c662",
-      "source": "Android Authority",
-      "date": "2026-04-03",
-      "time": "20:03",
-      "summary": "Les condicions d'ús revelen que l'assistent d'IA no s'hauria d'utilitzar per a tasques serioses, contradient el seu màrqueting."
-    },
-    {
-      "title": "Per molts anys, iPad: la tauleta d'Apple fa 16 anys",
-      "link_id": "c_c252ea",
-      "source": "MacRumors",
-      "date": "2026-04-03",
-      "time": "19:41",
-      "summary": "Coincidint amb el cinquantè aniversari de la companyia, el revolucionari dispositiu tàctil celebra més d'una dècada i mitja d'història."
-    },
-    {
-      "title": "Un gegant dels telèfons intel·ligents revela l'absurd augment de preu dels components",
-      "link_id": "c_9da57c",
-      "source": "Digital Trends",
-      "date": "2026-04-03",
-      "time": "17:55",
-      "summary": "Els costos de la memòria s'han quadruplicat, encarint els dispositius i afectant greument la indústria del maquinari tecnològic."
-    },
-    {
-      "title": "Microsoft forçarà l'actualització a Windows 11 25H2 per als ordinadors amb versions antigues",
-      "link_id": "c_0dbef1",
+      "title": "Apple aprova controladors que permeten utilitzar eGPU d'AMD i Nvidia a Mac",
+      "link_id": "c_df3863",
       "source": "Tom's Hardware",
-      "date": "2026-04-04",
-      "time": "11:00",
-      "summary": "Un sistema basat en aprenentatge automàtic instal·larà la nova versió automàticament per garantir la seguretat abans que acabi el suport."
+      "date": "2026-04-05",
+      "time": "10:00",
+      "summary": "Aquest programari oficial està dissenyat per accelerar tasques d'intel·ligència artificial, deixant de banda l'optimització per a videojocs."
     },
     {
-      "title": "El Nothing Phone 4a Pro aporta estil i un gran valor per menys de 500 dòlars",
-      "link_id": "c_273f5c",
+      "title": "Rússia intenta bloquejar les VPN però acaba afectant accidentalment el seu propi sector bancari",
+      "link_id": "c_3c9d71",
+      "source": "Gizmodo",
+      "date": "2026-04-05",
+      "time": "09:00",
+      "summary": "Les restriccions governamentals contra aplicacions de missatgeria i xarxes privades han provocat caigudes massives als bancs del país."
+    },
+    {
+      "title": "Adeu a Samsung Messages: s'anuncia oficialment la data de la seva fi",
+      "link_id": "c_e8aeae",
       "source": "Android Authority",
+      "date": "2026-04-05",
+      "time": "01:59",
+      "summary": "L'aplicació de missatgeria predeterminada de la marca deixarà de funcionar el juliol de 2026, sent substituïda per Google Messages."
+    },
+    {
+      "title": "Un enginyer d'AWS informa que Linux 7.0 redueix a la meitat el rendiment de PostgreSQL",
+      "link_id": "c_d3c347",
+      "source": "Hacker News",
+      "date": "2026-04-05",
+      "time": "00:13",
+      "summary": "El problema de rendiment a la nova versió del nucli ja s'ha identificat, però la solució sembla força complexa."
+    },
+    {
+      "title": "La teva sessió de LinkedIn podria no ser tan privada com penses",
+      "link_id": "c_e413d8",
+      "source": "Digital Trends",
       "date": "2026-04-04",
-      "time": "09:30",
-      "summary": "Aquest nou telèfon de gamma mitjana destaca pel seu disseny atractiu i preu assequible, malgrat algunes imperfeccions tècniques."
+      "time": "21:50",
+      "summary": "Un informe revela que la plataforma utilitza scripts ocults per escanejar extensions del navegador i recopilar dades dels dispositius."
+    },
+    {
+      "title": "La seqüela de Spaceballs s'estrenarà l'abril de l'any que ve",
+      "link_id": "c_1fc333",
+      "source": "Engadget",
+      "date": "2026-04-04",
+      "time": "21:35",
+      "summary": "La nova pel·lícula arribarà als cinemes el 2027, coincidint amb el quarantè aniversari de la comèdia original de culte."
+    },
+    {
+      "title": "El HomePod Mini ja té 2.000 dies de vida",
+      "link_id": "c_e9504e",
+      "source": "MacRumors",
+      "date": "2026-04-05",
+      "time": "11:08",
+      "summary": "L'altaveu intel·ligent d'Apple assoleix una fita inusual de longevitat sense haver rebut cap actualització de maquinari de segona generació."
     }
   ]
 }
