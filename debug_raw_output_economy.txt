@@ -1,40 +1,40 @@
 {
-  "generated_at": "2024-05-24T18:30",
+  "generated_at": "2026-04-05T19:27",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
+    {
+      "title": "És la IA el nou fracking?",
+      "link_id": "c_7b1528",
+      "source": "Financial Times",
+      "date": "2026-04-05",
+      "time": "15:00",
+      "summary": "L'oposició als centres de dades recorda els moviments veïnals del passat contra projectes energètics."
+    },
+    {
+      "title": "Fidji Simo d'OpenAI agafa la baixa mèdica i anuncia canvis directius",
+      "link_id": "c_43b668",
+      "source": "CNBC Technology",
+      "date": "2026-04-05",
+      "time": "10:02",
+      "summary": "Greg Brockman assumirà temporalment la supervisió de productes per garantir l'estabilitat durant l'absència de Simo."
+    },
     {
       "title": "Els negociadors professionals que pacten amb els ciberdelinqüents",
       "link_id": "c_8a664d",
       "source": "Financial Times",
       "date": "2026-04-05",
       "time": "04:00",
-      "summary": "Les empreses contracten experts en seguretat per gestionar atacs de segrest de dades i minimitzar pèrdues milionàries."
+      "summary": "L'augment del segrest de dades impulsa una nova professió d'experts en seguretat per gestionar rescats corporatius."
     },
     {
-      "title": "El Regne Unit sedueix Anthropic perquè s'expandeixi a Londres després del xoc amb Defensa dels EUA",
+      "title": "El Regne Unit atreu Anthropic perquè s'expandeixi a Londres",
       "link_id": "c_68f469",
       "source": "Financial Times",
       "date": "2026-04-05",
       "time": "04:00",
-      "summary": "El govern de Starmer aprofita les tensions nord-americanes per atreure la inversió d'aquesta empresa d'intel·ligència artificial."
-    },
-    {
-      "title": "Fidji Simo d'OpenAI agafa la baixa mèdica i anuncia canvis en la direcció",
-      "link_id": "c_43b668",
-      "source": "CNBC Technology",
-      "date": "2026-04-04",
-      "time": "19:05",
-      "summary": "Greg Brockman assumirà temporalment la supervisió de productes per garantir l'estabilitat operativa durant l'absència de Simo."
-    },
-    {
-      "title": "Apple als 50: El fabricant de l'iPhone va perdre el seu avantatge en IA, però pot guanyar",
-      "link_id": "c_251786",
-      "source": "CNBC Technology",
-      "date": "2026-04-04",
-      "time": "12:00",
-      "summary": "L'empresa haurà de replantejar la seva estricta política de privacitat si vol liderar el mercat de la intel·ligència artificial."
+      "summary": "El govern de Starmer aprofita les tensions de l'empresa als EUA per impulsar el sector tecnològic britànic."
     }
   ]
 }

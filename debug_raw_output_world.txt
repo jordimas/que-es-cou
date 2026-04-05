@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-04-05T09:50",
+  "generated_at": "2026-04-05T19:27",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Els astronautes de l'Artemis II de la NASA ja han fet més de mig camí cap a la Lluna",
-      "link_id": "c_029a1f",
-      "source": "CNET",
+      "title": "A la missió lunar de la NASA, el major maldecap ha estat el vàter",
+      "link_id": "c_f43c82",
+      "source": "Bloomberg Technology",
       "date": "2026-04-05",
-      "time": "03:17",
-      "summary": "La tripulació de quatre persones supera l'equador del seu viatge històric, que entra en el quart dia d'expedició."
+      "time": "16:20",
+      "summary": "Tot i l'èxit del vol de prova de l'Artemis II, els astronautes han tingut problemes inesperats amb el lavabo."
     },
     {
-      "title": "Anthropic bloqueja l'accés dels subscriptors de Claude a OpenClaw per reduir costos",
-      "link_id": "c_4e7024",
+      "title": "Netflix deu fins a 500 € als subscriptors italians després que un tribunal declari il·legals les pujades",
+      "link_id": "c_0e5cd7",
       "source": "The Next Web",
-      "date": "2026-04-04",
-      "time": "18:53",
-      "summary": "L'empresa obliga els usuaris de pagament a assumir els costos d'executar agents autònoms de tercers mitjançant tarifes per ús."
-    },
-    {
-      "title": "Adéu a Samsung Messages: s'anuncia oficialment la data de la seva fi",
-      "link_id": "c_e8aeae",
-      "source": "Android Authority",
       "date": "2026-04-05",
-      "time": "01:59",
-      "summary": "L'aplicació de missatgeria predeterminada de la marca sud-coreana deixarà de funcionar el juliol de 2026 per afavorir Google Messages."
+      "time": "16:58",
+      "summary": "La justícia italiana obliga la plataforma a retornar els augments de preu aplicats des del 2017 per clàusules abusives."
     },
     {
-      "title": "Un enginyer d'AWS alerta que Linux 7.0 redueix a la meitat el rendiment de PostgreSQL",
-      "link_id": "c_d3c347",
+      "title": "Samsung tancarà la seva aplicació de missatges al juliol i la substituirà per la de Google",
+      "link_id": "c_864999",
+      "source": "Engadget",
+      "date": "2026-04-05",
+      "time": "16:22",
+      "summary": "L'empresa recomana als usuaris fer la transició a Google Messages per aprofitar les funcions avançades de comunicació RCS."
+    },
+    {
+      "title": "Amb un milió de desplaçats, el Líban recorre a les carteres digitals per a l'ajuda",
+      "link_id": "c_18b981",
       "source": "Hacker News",
       "date": "2026-04-05",
-      "time": "00:13",
-      "summary": "El problema de rendiment detectat en la nova versió del nucli podria ser complex de solucionar a curt termini."
+      "time": "17:02",
+      "summary": "Aquesta tecnologia permet connectar directament els donants de la diàspora amb les comunitats afectades, evitant institucions poc fiables."
     },
     {
-      "title": "La teva sessió a LinkedIn podria no ser tan privada com et penses",
-      "link_id": "c_e413d8",
-      "source": "Digital Trends",
+      "title": "Battlefield 6 captura \"l'experiència autèntica i crua del soldat modern\" segons el seu director d'àudio",
+      "link_id": "c_807e67",
+      "source": "TechRadar",
+      "date": "2026-04-05",
+      "time": "16:35",
+      "summary": "L'equip de so ha destruït cotxes i contenidors reals per aconseguir una banda sonora immersiva i realista."
+    },
+    {
+      "title": "Amazon rebaixa fins a 200 dòlars el MacBook Air M5 amb nous preus mínims històrics",
+      "link_id": "c_9821e7",
+      "source": "MacRumors",
+      "date": "2026-04-05",
+      "time": "07:27",
+      "summary": "Els models de 13 i 15 polzades assoleixen descomptes inèdits poc després del seu llançament oficial al mercat."
+    },
+    {
+      "title": "LinkedIn escaneja en secret el teu navegador buscant 6.000 extensions sense avisar-te",
+      "link_id": "c_8cc33e",
+      "source": "The Next Web",
+      "date": "2026-04-05",
+      "time": "11:35",
+      "summary": "Un codi ocult recopila dades del dispositiu i extensions instal·lades per crear una empremta digital de cada usuari."
+    },
+    {
+      "title": "Microsoft qualifica Copilot de \"només per a entreteniment\" mentre en cobra 30 dòlars mensuals",
+      "link_id": "c_8c3985",
+      "source": "The Next Web",
+      "date": "2026-04-05",
+      "time": "10:58",
+      "summary": "Les condicions d'ús de l'empresa adverteixen que no s'ha de confiar en la IA per a consells importants."
+    },
+    {
+      "title": "Apple als 50: Tres productes que van canviar com vivim i tres que no ho van fer",
+      "link_id": "c_774230",
+      "source": "BBC Technology",
       "date": "2026-04-04",
-      "time": "21:50",
-      "summary": "Un informe revela que la xarxa social utilitza scripts ocults per recopilar dades dels dispositius i extensions del navegador."
+      "time": "23:56",
+      "summary": "Analistes repassen els grans èxits i fracassos tecnològics de la companyia en el seu cinquantè aniversari."
     },
     {
-      "title": "Pot la IA solucionar la solitud? La resposta és... complicada",
-      "link_id": "c_f912fe",
-      "source": "Digital Trends",
-      "date": "2026-04-04",
-      "time": "21:38",
-      "summary": "Tot i reduir l'aïllament, els experts alerten del risc de dependència emocional i de substituir les connexions humanes reals."
-    },
-    {
-      "title": "La seqüela de Spaceballs s'estrenarà l'abril de l'any que ve",
+      "title": "La seqüela de Spaceballs s'estrenarà l'abril de l'any vinent",
       "link_id": "c_1fc333",
       "source": "Engadget",
       "date": "2026-04-04",
       "time": "21:35",
-      "summary": "Amazon MGM Studios confirma que la nova pel·lícula arribarà als cinemes coincidint amb el quarantè aniversari de l'original."
-    },
-    {
-      "title": "Un controlador SVGA genèric i modern per a Windows 3.1",
-      "link_id": "c_5c1e66",
-      "source": "Hacker News",
-      "date": "2026-04-05",
-      "time": "05:28",
-      "summary": "Aquest nou desenvolupament permet millorar la compatibilitat gràfica d'aquest sistema operatiu clàssic en maquinari i emuladors actuals."
-    },
-    {
-      "title": "Demostració de descodificació AV2 en temps real en portàtils de consum",
-      "link_id": "c_261504",
-      "source": "Hacker News",
-      "date": "2026-04-05",
-      "time": "01:32",
-      "summary": "Una prova recent mostra com els equips domèstics ja poden processar aquest nou format de vídeo de manera eficient."
-    },
-    {
-      "title": "He deixat que un test intel·ligent es mantingui sol durant 2 mesos: aquest és el resultat",
-      "link_id": "c_11b58a",
-      "source": "ZDNet",
-      "date": "2026-04-05",
-      "time": "01:16",
-      "summary": "El dispositiu LeafyPod demostra la seva eficàcia per mantenir les plantes vives i sanes sense cap intervenció humana directa."
+      "summary": "Amazon MGM Studios confirma que la nova pel·lícula arribarà als cinemes el 2027, coincidint amb el quarantè aniversari."
     }
   ]
 }

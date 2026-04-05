@@ -1,40 +1,16 @@
 {
-  "generated_at": "2026-04-05T08:00",
+  "generated_at": "2024-05-24T16:00",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [],
   "articles": [
     {
-      "title": "L'Artemis ja és més a prop de la Lluna que de la Terra: \"Hem vist coses extraordinàries\"",
-      "link_id": "c_d04a77",
+      "title": "L'Artemis 2 contempla una imatge inèdita de la cara oculta de la Lluna: què els espera ara?",
+      "link_id": "c_2cf546",
       "source": "324.cat",
-      "date": "2026-04-04",
-      "time": "11:16",
-      "summary": "La nau Orion supera l'equador del seu viatge i es prepara per documentar la cara oculta del satèl·lit."
-    },
-    {
-      "title": "La NASA publica les primeres imatges de la Terra fetes pels astronautes de la missió Artemis 2",
-      "link_id": "c_799593",
-      "source": "RAC1",
-      "date": "2026-04-03",
-      "time": "18:35",
-      "summary": "La nau Orió capta el nostre planeta com una esfera il·luminada on s'aprecien aurores a l'horitzó."
-    },
-    {
-      "title": "El DNI digital entra en vigor a l’app MiDNI i serveix per a qualsevol tràmit",
-      "link_id": "c_06c42e",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-04-04",
-      "time": "09:18",
-      "summary": "Aquesta nova eina té la mateixa validesa legal que el document físic, tot i que l'adaptació serà progressiva."
-    },
-    {
-      "title": "Ja no cal portar el DNI físic: consulta com tenir el DNI digital",
-      "link_id": "c_2585ac",
-      "source": "Cugat.cat",
-      "date": "2026-04-03",
-      "time": "13:33",
-      "summary": "Les entitats públiques i privades ja estan obligades a acceptar la identificació mitjançant l'aplicació mòbil MiDNI."
+      "date": "2026-04-05",
+      "time": "17:12",
+      "summary": "La tripulació comparteix fotografies espectaculars a més de 300.000 quilòmetres de la Terra durant el seu viatge històric."
     },
     {
       "title": "La IA que dóna veu a la llengua de signes: els sords signants podran fer ràdio",
@@ -42,7 +18,7 @@
       "source": "VilaWeb",
       "date": "2026-04-04",
       "time": "19:40",
-      "summary": "La UPF i Sorensen desenvolupen una eina pionera que permet a una alumna de periodisme cursar ràdio amb normalitat."
+      "summary": "La UPF i Sorensen desenvolupen una eina tecnològica pionera que permet als estudiants sords cursar periodisme radiofònic sense barreres."
     },
     {
       "title": "L'addicció a les pantalles es duplica en cinc anys: el 40% de persones que demana ajuda a centres de drogodependència és per aquest motiu",
@@ -50,23 +26,15 @@
       "source": "RAC1",
       "date": "2026-04-04",
       "time": "09:04",
-      "summary": "Els centres alerten que l'ús problemàtic del mòbil ja no afecta només els adolescents, sinó també molts adults."
+      "summary": "L'ús abusiu del mòbil ja no és exclusiu dels adolescents i provoca un augment alarmant de pacients adults als centres."
     },
     {
-      "title": "Falten 21.000 instal·ladors, sobretot d'energies renovables, perquè no hi ha aspirants",
-      "link_id": "c_583f2e",
-      "source": "324.cat",
-      "date": "2026-04-05",
-      "time": "07:59",
-      "summary": "L'expansió del sector de l'energia verda requerirà fins a 100.000 professionals d'aquí al 2050 per cobrir la demanda."
-    },
-    {
-      "title": "Volkswagen i Cupra criden a revisió 94.000 cotxes elèctrics per risc d’incendi",
-      "link_id": "c_4ba0bb",
-      "source": "Ara.cat",
-      "date": "2026-04-02",
-      "time": "07:03",
-      "summary": "S'ha detectat un problema en el mòdul de bateries de diversos models fabricats entre el 2022 i el 2024."
+      "title": "El DNI digital entra en vigor a l’app MiDNI i serveix per a qualsevol tràmit",
+      "link_id": "c_06c42e",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-04-04",
+      "time": "09:18",
+      "summary": "La nova aplicació permet portar el document d'identitat al mòbil amb plena validesa legal, tot i els reptes d'implementació."
     },
     {
       "title": "Traducció al català en temps real amb auriculars: així funciona la nova eina de Google",
@@ -74,7 +42,15 @@
       "source": "El Periódico",
       "date": "2026-04-03",
       "time": "12:05",
-      "summary": "La funció 'Live Translate' facilita la comunicació internacional i els viatges convertint els auriculars en un traductor instantani."
+      "summary": "La funció 'Live Translate' converteix els dispositius en intèrprets simultanis, facilitant la comunicació internacional en viatges i entorns laborals."
+    },
+    {
+      "title": "10.000 M€ després es presenta el primer cotxe 100% elèctric fet a Martorell",
+      "link_id": "c_476345",
+      "source": "Ara.cat",
+      "date": "2026-04-05",
+      "time": "16:37",
+      "summary": "Seat desvetllarà el model Cupra Raval, un pas clau en l'estratègia de Volkswagen per electrificar la mobilitat a l'Estat."
     },
     {
       "title": "El comitè d'empresa d'Ocado Technology denuncia l'inici d'un ERO que afectaria el 72% de l'equip",
@@ -82,7 +58,31 @@
       "source": "Via Empresa",
       "date": "2026-04-03",
       "time": "10:20",
-      "summary": "Els treballadors critiquen la manca de transparència i alerten que la filial tecnològica vol deslocalitzar l'activitat a altres països."
+      "summary": "Els treballadors critiquen la manca de transparència i alerten que la filial tecnològica vol deslocalitzar la producció a altres països."
+    },
+    {
+      "title": "Les IAs es comporten com a persones: ChatGPT i altres chatbots menteixen per caure't bé",
+      "link_id": "c_2bf0ee",
+      "source": "El Nacional.cat",
+      "date": "2026-04-05",
+      "time": "16:00",
+      "summary": "Un estudi revela que els models d'intel·ligència artificial tendeixen a l'adulació i adapten les respostes per complaure l'usuari."
+    },
+    {
+      "title": "L'app catalana que evita a les parelles separades l'estrès d'organitzar la logística dels fills",
+      "link_id": "c_27dbb4",
+      "source": "RAC1",
+      "date": "2026-04-01",
+      "time": "14:10",
+      "summary": "Aquesta eina digital facilita la coordinació diària d'activitats, metges i despeses escolars, reduint els conflictes entre els progenitors."
+    },
+    {
+      "title": "La Sant Jordi Jam obre la 3a edició amb la temàtica “tota pedra fa paret”",
+      "link_id": "c_53f9f8",
+      "source": "Lúdica",
+      "date": "2026-04-01",
+      "time": "15:00",
+      "summary": "Torna la trobada de desenvolupadors per crear videojocs inspirats en la cultura catalana, fomentant el talent local i la creativitat."
     }
   ]
 }
