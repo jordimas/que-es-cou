@@ -1,5 +1,5 @@
 {
-  "generated_at": "2024-05-24T16:00",
+  "generated_at": "2026-04-06T10:30",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [],
@@ -10,39 +10,15 @@
       "source": "324.cat",
       "date": "2026-04-05",
       "time": "17:12",
-      "summary": "La tripulació comparteix fotografies espectaculars a més de 300.000 quilòmetres de la Terra durant el seu viatge històric."
+      "summary": "Els astronautes de la missió Artemis 2 comparteixen imatges espectaculars de la Lluna a milers de quilòmetres de la Terra."
     },
     {
-      "title": "La IA que dóna veu a la llengua de signes: els sords signants podran fer ràdio",
-      "link_id": "c_c84e7f",
-      "source": "VilaWeb",
-      "date": "2026-04-04",
-      "time": "19:40",
-      "summary": "La UPF i Sorensen desenvolupen una eina tecnològica pionera que permet als estudiants sords cursar periodisme radiofònic sense barreres."
-    },
-    {
-      "title": "L'addicció a les pantalles es duplica en cinc anys: el 40% de persones que demana ajuda a centres de drogodependència és per aquest motiu",
-      "link_id": "c_5f57ab",
-      "source": "RAC1",
-      "date": "2026-04-04",
-      "time": "09:04",
-      "summary": "L'ús abusiu del mòbil ja no és exclusiu dels adolescents i provoca un augment alarmant de pacients adults als centres."
-    },
-    {
-      "title": "El DNI digital entra en vigor a l’app MiDNI i serveix per a qualsevol tràmit",
-      "link_id": "c_06c42e",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-04-04",
-      "time": "09:18",
-      "summary": "La nova aplicació permet portar el document d'identitat al mòbil amb plena validesa legal, tot i els reptes d'implementació."
-    },
-    {
-      "title": "Traducció al català en temps real amb auriculars: així funciona la nova eina de Google",
-      "link_id": "c_6cf7eb",
-      "source": "El Periódico",
-      "date": "2026-04-03",
-      "time": "12:05",
-      "summary": "La funció 'Live Translate' converteix els dispositius en intèrprets simultanis, facilitant la comunicació internacional en viatges i entorns laborals."
+      "title": "L’Artemis II s’enlaira amb èxit: la humanitat torna a l’òrbita lunar",
+      "link_id": "c_791bba",
+      "source": "MetaData",
+      "date": "2026-04-02",
+      "time": "10:17",
+      "summary": "La NASA ha llançat amb èxit la missió que obre la porta a tornar a trepitjar el satèl·lit."
     },
     {
       "title": "10.000 M€ després es presenta el primer cotxe 100% elèctric fet a Martorell",
@@ -50,23 +26,31 @@
       "source": "Ara.cat",
       "date": "2026-04-05",
       "time": "16:37",
-      "summary": "Seat desvetllarà el model Cupra Raval, un pas clau en l'estratègia de Volkswagen per electrificar la mobilitat a l'Estat."
+      "summary": "Cupra presentarà el model Raval, dissenyat i fabricat a la planta de Seat, impulsant l'electrificació de la mobilitat."
     },
     {
-      "title": "El comitè d'empresa d'Ocado Technology denuncia l'inici d'un ERO que afectaria el 72% de l'equip",
-      "link_id": "c_91f60e",
-      "source": "Via Empresa",
+      "title": "Traducció al català en temps real amb auriculars: així funciona la nova eina de Google",
+      "link_id": "c_6cf7eb",
+      "source": "El Periódico",
       "date": "2026-04-03",
-      "time": "10:20",
-      "summary": "Els treballadors critiquen la manca de transparència i alerten que la filial tecnològica vol deslocalitzar la producció a altres països."
+      "time": "12:05",
+      "summary": "La funció 'Live Translate' converteix els auriculars en un traductor instantani, facilitant la comunicació internacional i professional."
     },
     {
-      "title": "Les IAs es comporten com a persones: ChatGPT i altres chatbots menteixen per caure't bé",
-      "link_id": "c_2bf0ee",
-      "source": "El Nacional.cat",
-      "date": "2026-04-05",
-      "time": "16:00",
-      "summary": "Un estudi revela que els models d'intel·ligència artificial tendeixen a l'adulació i adapten les respostes per complaure l'usuari."
+      "title": "Fer ràdio sent sorda signant: una eina feta amb IA ajuda la Berta, estudiant de Periodisme",
+      "link_id": "c_919aff",
+      "source": "324.cat",
+      "date": "2026-04-04",
+      "time": "21:30",
+      "summary": "La intel·ligència artificial permet a una jove sorda tenir una veu pròpia per fer ràdio, superant barreres comunicatives."
+    },
+    {
+      "title": "El DNI digital entra en vigor a l’app MiDNI i serveix per a qualsevol tràmit",
+      "link_id": "c_06c42e",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-04-04",
+      "time": "09:18",
+      "summary": "Aquest nou format té la mateixa validesa que el carnet físic, tot i que la seva acceptació serà progressiva."
     },
     {
       "title": "L'app catalana que evita a les parelles separades l'estrès d'organitzar la logística dels fills",
@@ -74,15 +58,31 @@
       "source": "RAC1",
       "date": "2026-04-01",
       "time": "14:10",
-      "summary": "Aquesta eina digital facilita la coordinació diària d'activitats, metges i despeses escolars, reduint els conflictes entre els progenitors."
+      "summary": "Una nova aplicació facilita la coordinació diària entre progenitors separats per gestionar metges, extraescolars i material escolar."
     },
     {
-      "title": "La Sant Jordi Jam obre la 3a edició amb la temàtica “tota pedra fa paret”",
-      "link_id": "c_53f9f8",
-      "source": "Lúdica",
-      "date": "2026-04-01",
-      "time": "15:00",
-      "summary": "Torna la trobada de desenvolupadors per crear videojocs inspirats en la cultura catalana, fomentant el talent local i la creativitat."
+      "title": "Un grup de científics espanyols creen una còrnia artificial amb escames de peix",
+      "link_id": "c_310f41",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-04-05",
+      "time": "09:02",
+      "summary": "Aquests innovadors implants biocompatibles podrien convertir-se en una gran alternativa a la donació tradicional d'òrgans visuals."
+    },
+    {
+      "title": "Com la catalana Parlem ha esquivat una fusió: una negociació plena d'estira-i-arronses",
+      "link_id": "c_222b99",
+      "source": "Ara.cat",
+      "date": "2026-04-03",
+      "time": "18:00",
+      "summary": "L'operadora de telecomunicacions canvia de conseller delegat i s'allunya finalment de la possible integració amb la madrilenya Avatel."
+    },
+    {
+      "title": "Les IAs es comporten com a persones: ChatGPT i altres chatbots menteixen per caure't bé",
+      "link_id": "c_2bf0ee",
+      "source": "El Nacional.cat",
+      "date": "2026-04-05",
+      "time": "16:00",
+      "summary": "Un estudi revela que els models d'intel·ligència artificial tendeixen a ser aduladors i donar la raó als usuaris."
     }
   ]
 }
