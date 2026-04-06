@@ -1,12 +1,12 @@
 {
-  "generated_at": "2024-05-24T16:00",
+  "generated_at": "2024-05-24T16:20",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
     {
       "name": "Ara.cat",
       "url": "https://www.ara.cat/rss/",
-      "articles_found": 0
+      "articles_found": 8
     },
     {
       "name": "El Periódico",
@@ -16,17 +16,17 @@
     {
       "name": "RAC1",
       "url": "https://www.rac1.cat/rss/home.xml",
-      "articles_found": 4
+      "articles_found": 3
     },
     {
       "name": "La Vanguardia (en català)",
       "url": "https://www.lavanguardia.com/rss/encatala.xml",
-      "articles_found": 7
+      "articles_found": 9
     },
     {
       "name": "VilaWeb",
       "url": "https://www.vilaweb.cat/feed/",
-      "articles_found": 3
+      "articles_found": 0
     },
     {
       "name": "NacióDigital",
@@ -36,7 +36,7 @@
     {
       "name": "324.cat",
       "url": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0",
-      "articles_found": 6
+      "articles_found": 4
     },
     {
       "name": "Softcatalà",
@@ -46,7 +46,7 @@
     {
       "name": "El Nacional.cat",
       "url": "https://www.elnacional.cat/uploads/feeds/feed_ca.xml",
-      "articles_found": 6
+      "articles_found": 14
     },
     {
       "name": "El Mon.cat",
@@ -66,17 +66,17 @@
     {
       "name": "Betevé",
       "url": "https://beteve.cat/feed/",
-      "articles_found": 0
+      "articles_found": 1
     },
     {
       "name": "El Punt Avui",
       "url": "https://www.elpuntavui.cat/barcelona.feed?type=rss",
-      "articles_found": 2
+      "articles_found": 0
     },
     {
       "name": "Segre",
       "url": "https://www.segre.com/ca/rss/home.xml",
-      "articles_found": 5
+      "articles_found": 4
     },
     {
       "name": "Regio7",
@@ -116,7 +116,7 @@
     {
       "name": "Cugat.cat",
       "url": "https://www.cugat.cat/feed/",
-      "articles_found": 1
+      "articles_found": 0
     },
     {
       "name": "CatalunyaPress",
@@ -126,7 +126,7 @@
     {
       "name": "Tot Barcelona",
       "url": "https://www.totbarcelona.cat/feed/",
-      "articles_found": 0
+      "articles_found": 2
     },
     {
       "name": "e-notícies",
@@ -136,7 +136,7 @@
     {
       "name": "Lleida Diari",
       "url": "https://www.lleidadiari.cat/feed/",
-      "articles_found": 1
+      "articles_found": 2
     },
     {
       "name": "Catorze",
@@ -156,12 +156,12 @@
     {
       "name": "MetaData",
       "url": "https://www.metadata.cat/sindica",
-      "articles_found": 3
+      "articles_found": 2
     },
     {
       "name": "El Temps",
       "url": "https://www.eltemps.cat/sindica",
-      "articles_found": 1
+      "articles_found": 2
     },
     {
       "name": "Àpunt",
@@ -191,22 +191,22 @@
     {
       "name": "Ara Balears",
       "url": "https://www.arabalears.cat/rss/",
-      "articles_found": 0
+      "articles_found": 1
     },
     {
       "name": "Manacor Comarcal",
       "url": "https://manacorcomarcal.com/?feed=rss2",
-      "articles_found": 1
+      "articles_found": 0
     },
     {
       "name": "Via Empresa",
       "url": "https://www.viaempresa.cat/uploads/feeds/feed_via-empresa-2024_ca.xml",
-      "articles_found": 7
+      "articles_found": 8
     },
     {
       "name": "Lúdica",
       "url": "https://ludica.cat/feed/",
-      "articles_found": 2
+      "articles_found": 1
     },
     {
       "name": "Accent Obert",
@@ -216,28 +216,36 @@
   ],
   "articles": [
     {
-      "title": "Més a prop de la Lluna",
-      "link_id": "c_faf98e",
-      "source": "Segre",
+      "title": "Portar un iPhone 17 Pro Max a l'espai costa milers d'euros: així ho ha permès la NASA a Artemis II",
+      "link_id": "c_1817c8",
+      "source": "El Nacional.cat",
+      "date": "2026-04-06",
+      "time": "12:05",
+      "summary": "La missió lunar inclou tecnologia comercial per a comunicacions, demostrant la viabilitat de dispositius quotidians en entorns extrems."
+    },
+    {
+      "title": "El Govern destina 20 milions al desplegament de 4.000 punts de recàrrega de vehicles elèctrics",
+      "link_id": "c_2986c8",
+      "source": "Via Empresa",
+      "date": "2026-04-06",
+      "time": "10:48",
+      "summary": "Aquesta inversió amb fons europeus busca pal·liar el dèficit d'infraestructura i accelerar la transició cap a la mobilitat sostenible."
+    },
+    {
+      "title": "10.000 M€ després es presenta el primer cotxe 100% elèctric fet a Martorell",
+      "link_id": "c_476345",
+      "source": "Ara.cat",
       "date": "2026-04-05",
-      "time": "05:35",
-      "summary": "La tripulació prepara la cabina per a l'observació científica després de superar la meitat del trajecte espacial."
+      "time": "16:37",
+      "summary": "El nou model Raval de Cupra marca una fita clau en l'electrificació de la indústria automobilística a Catalunya."
     },
     {
-      "title": "El DNI digital entra en vigor a l’app MiDNI i serveix per a qualsevol tràmit",
-      "link_id": "c_06c42e",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-04-04",
-      "time": "09:18",
-      "summary": "Tot i tenir la mateixa validesa legal que el format físic, la seva implementació generalitzada suposarà un repte."
-    },
-    {
-      "title": "Fer ràdio sent sorda signant: una eina feta amb IA ajuda la Berta, estudiant de Periodisme",
-      "link_id": "c_919aff",
-      "source": "324.cat",
-      "date": "2026-04-04",
-      "time": "21:30",
-      "summary": "Aquesta innovació tecnològica permet a les persones sordes disposar d'una veu pròpia generada artificialment per comunicar-se."
+      "title": "Ús de pantalles en infants petits: riscos i impacte en la salut",
+      "link_id": "c_eee053",
+      "source": "Lleida Diari",
+      "date": "2026-04-06",
+      "time": "11:30",
+      "summary": "L'excés d'exposició digital en edats primerenques genera preocupació mèdica pel seu efecte en el desenvolupament cognitiu i emocional."
     },
     {
       "title": "Traducció al català en temps real amb auriculars: així funciona la nova eina de Google",
@@ -245,15 +253,31 @@
       "source": "El Periódico",
       "date": "2026-04-03",
       "time": "12:05",
-      "summary": "La funció 'Live Translate' facilita la comunicació internacional i trenca les barreres idiomàtiques en entorns professionals i turístics."
+      "summary": "La funció 'Live Translate' trenca barreres lingüístiques, facilitant la comunicació internacional i impulsant la presència del català tecnològicament."
     },
     {
-      "title": "L'odissea per carregar un cotxe elèctric a Catalunya: \"Estava desesperat; per arribar a casa vaig haver d'aprofitar les baixades i anar més a poc a poc\"",
-      "link_id": "c_707690",
-      "source": "RAC1",
-      "date": "2026-04-02",
-      "time": "18:10",
-      "summary": "La manca d'infraestructures de càrrega eficients continua generant greus problemes als conductors durant els desplaçaments vacacionals."
+      "title": "Fer ràdio sent sorda signant: una eina feta amb IA ajuda la Berta, estudiant de Periodisme",
+      "link_id": "c_919aff",
+      "source": "324.cat",
+      "date": "2026-04-04",
+      "time": "21:30",
+      "summary": "La intel·ligència artificial esdevé clau per a la inclusió, permetent a persones amb discapacitat auditiva exercir tasques comunicatives complexes."
+    },
+    {
+      "title": "Les línies 1 i 5 del metro milloren la freqüència amb un tren més en hora punta",
+      "link_id": "c_97ff87",
+      "source": "Betevé",
+      "date": "2026-04-06",
+      "time": "10:07",
+      "summary": "TMB incrementa el servei matinal per descongestionar la xarxa i millorar l'experiència diària dels milers d'usuaris barcelonins."
+    },
+    {
+      "title": "L’hamburguesa d’1 euro ara val 1,85",
+      "link_id": "c_60d5c5",
+      "source": "Ara.cat",
+      "date": "2026-04-06",
+      "time": "05:00",
+      "summary": "Aquest increment de preu exemplifica de manera pràctica com la inflació erosiona ràpidament el poder adquisitiu dels ciutadans."
     },
     {
       "title": "Falten 21.000 instal·ladors, sobretot d'energies renovables, perquè no hi ha aspirants",
@@ -261,31 +285,7 @@
       "source": "324.cat",
       "date": "2026-04-05",
       "time": "07:59",
-      "summary": "L'expansió del sector verd topa amb una greu manca de professionals qualificats per cobrir la demanda futura."
-    },
-    {
-      "title": "L’audiollibre es dispara a Catalunya i guanya nous oients",
-      "link_id": "c_f51a52",
-      "source": "Lleida Diari",
-      "date": "2026-04-05",
-      "time": "09:36",
-      "summary": "El consum d'aquest format literari s'ha duplicat en cinc anys, consolidant-se com una forta tendència cultural."
-    },
-    {
-      "title": "El Port revoluciona la conservació del medi amb un bessó digital submarí",
-      "link_id": "c_2a4c1c",
-      "source": "El Punt Avui",
-      "date": "2026-04-05",
-      "time": "02:00",
-      "summary": "Aquesta tecnologia pionera permetrà monitorar i protegir l'ecosistema marí de les instal·lacions portuàries barcelonines amb gran precisió."
-    },
-    {
-      "title": "El comitè d'empresa d'Ocado Technology denuncia l'inici d'un ERO que afectaria el 72% de l'equip",
-      "link_id": "c_91f60e",
-      "source": "Via Empresa",
-      "date": "2026-04-03",
-      "time": "10:20",
-      "summary": "Els treballadors alerten d'una deslocalització cap a països més barats i critiquen l'opacitat de la filial tecnològica."
+      "summary": "La manca de professionals qualificats amenaça d'alentir greument la transició energètica i l'expansió del sector verd al país."
     },
     {
       "title": "La marca catalana que obsessiona la Generació Z incorpora la llengua després d’un burofax",
@@ -293,7 +293,7 @@
       "source": "El Mon.cat Societat",
       "date": "2026-04-04",
       "time": "09:47",
-      "summary": "La popular firma de roba Nude Project afegeix l'etiquetatge en català arran de la pressió de Plataforma per la Llengua."
+      "summary": "La pressió de Plataforma per la Llengua aconsegueix que Nude Project normalitzi l'etiquetatge en català en els seus productes."
     }
   ]
 }

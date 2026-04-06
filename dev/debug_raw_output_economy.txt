@@ -1,48 +1,40 @@
 {
-  "generated_at": "2024-05-24T19:00",
+  "generated_at": "2026-04-06T13:40",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Fidji Simo d'OpenAI agafa la baixa mèdica i anuncia canvis en la direcció",
-      "link_id": "c_43b668",
+      "title": "L'auge dels centres de dades d'IA posa a prova les asseguradores amb l'entrada de capital privat",
+      "link_id": "c_7ca894",
       "source": "CNBC Technology",
-      "date": "2026-04-05",
-      "time": "10:02",
-      "summary": "Greg Brockman assumirà la supervisió dels productes mentre la directiva estigui absent per motius de salut."
+      "date": "2026-04-06",
+      "time": "05:38",
+      "summary": "L'afluència massiva de fons cap a aquestes infraestructures genera nous reptes i oportunitats inèdites per al sector assegurador."
     },
     {
-      "title": "Els negociadors professionals que pacten amb els ciberdelinqüents",
-      "link_id": "c_8a664d",
+      "title": "La IA arriba a l'auditoria. Estan preparats els reguladors?",
+      "link_id": "c_a90aeb",
+      "source": "Financial Times",
+      "date": "2026-04-06",
+      "time": "04:00",
+      "summary": "Aquesta tecnologia transforma ràpidament la revisió de comptes corporatius, exigint una adaptació urgent de les normatives vigents."
+    },
+    {
+      "title": "Nines amb IA ofereixen companyia a la gent gran",
+      "link_id": "c_8c2e7b",
+      "source": "Financial Times",
+      "date": "2026-04-06",
+      "time": "02:18",
+      "summary": "Corea del Sud utilitza dispositius amb ChatGPT per alleujar la pressió sobre el seu sistema d'atenció social envellit."
+    },
+    {
+      "title": "És la IA el nou 'fracking'?",
+      "link_id": "c_7b1528",
       "source": "Financial Times",
       "date": "2026-04-05",
-      "time": "04:00",
-      "summary": "L'augment dels atacs de segrest de dades impulsa les empreses a contractar experts per gestionar converses d'alt risc."
-    },
-    {
-      "title": "El Regne Unit sedueix Anthropic perquè s'expandeixi a Londres després del xoc amb Defensa dels EUA",
-      "link_id": "c_68f469",
-      "source": "Financial Times",
-      "date": "2026-04-05",
-      "time": "04:00",
-      "summary": "El govern de Keir Starmer intensifica els esforços per atreure la presència d'aquesta empresa emergent d'intel·ligència artificial."
-    },
-    {
-      "title": "Trump adverteix l'Iran que \"es desfermarà l'infern en 48 hores\" mentre s'intensifica la cerca del tripulant desaparegut",
-      "link_id": "c_6c2ad9",
-      "source": "CNBC Technology",
-      "date": "2026-04-04",
-      "time": "22:40",
-      "summary": "L'exèrcit nord-americà continua buscant l'aviador desaparegut després que el seu caça F-15E fos abatut al sud-oest iranià."
-    },
-    {
-      "title": "Apple als 50: El fabricant de l'iPhone \"va desaprofitar un avantatge de 5 anys\" en IA",
-      "link_id": "c_251786",
-      "source": "CNBC Technology",
-      "date": "2026-04-04",
-      "time": "12:00",
-      "summary": "Per poder competir en intel·ligència artificial, l'empresa podria veure's obligada a replantejar la seva històrica promesa de privacitat."
+      "time": "15:00",
+      "summary": "El rebuig social als centres de dades recorda l'oposició veïnal històrica davant grans projectes energètics."
     }
   ]
 }

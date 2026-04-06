@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-04-05T13:20",
+  "generated_at": "2026-04-06T13:45",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Els astronautes de l'Artemis II de la NASA ja han fet més de mig camí cap a la Lluna",
-      "link_id": "c_029a1f",
-      "source": "CNET",
-      "date": "2026-04-05",
-      "time": "03:17",
-      "summary": "La tripulació ha superat l'equador del seu viatge històric, utilitzant tauletes i telèfons intel·ligents per comunicar-se durant la missió."
+      "title": "Els astronautes de la NASA de camí a la Lluna fotografien la Terra amb l'iPhone 17 Pro Max",
+      "link_id": "c_8e23e7",
+      "source": "9to5Mac",
+      "date": "2026-04-06",
+      "time": "10:10",
+      "summary": "La tripulació de la missió Artemis II utilitza telèfons d'Apple per documentar el seu històric viatge espacial."
     },
     {
-      "title": "Anthropic talla l'accés dels subscriptors de Claude a OpenClaw per reduir costos",
-      "link_id": "c_4e7024",
-      "source": "The Next Web",
-      "date": "2026-04-04",
-      "time": "18:53",
-      "summary": "Els usuaris de pagament hauran d'assumir els costos d'executar agents autònoms de tercers mitjançant una tarifa per ús."
+      "title": "Anthropic elimina l'accés a OpenClaw de les subscripcions de Claude i ofereix crèdits per facilitar la transició",
+      "link_id": "c_ccd3e0",
+      "source": "InfoWorld",
+      "date": "2026-04-06",
+      "time": "08:40",
+      "summary": "L'empresa bloqueja l'ús gratuït d'aquesta eina de tercers, obligant els usuaris a assumir els costos d'execució dels agents."
     },
     {
-      "title": "Microsoft qualifica Copilot de \"només per a entreteniment\" tot i cobrar-ne 30 dòlars mensuals",
-      "link_id": "c_8c3985",
-      "source": "The Next Web",
-      "date": "2026-04-05",
-      "time": "10:58",
-      "summary": "Les condicions d'ús de l'empresa adverteixen els usuaris que no confiïn en la intel·ligència artificial per a consells importants."
-    },
-    {
-      "title": "Apple aprova controladors que permeten utilitzar eGPU d'AMD i Nvidia a Mac",
-      "link_id": "c_df3863",
-      "source": "Tom's Hardware",
-      "date": "2026-04-05",
-      "time": "10:00",
-      "summary": "Aquest programari oficial està dissenyat per accelerar tasques d'intel·ligència artificial, deixant de banda l'optimització per a videojocs."
-    },
-    {
-      "title": "Rússia intenta bloquejar les VPN però acaba afectant accidentalment el seu propi sector bancari",
-      "link_id": "c_3c9d71",
+      "title": "Microsoft afirma que no s'han de prendre seriosament els consells de Copilot",
+      "link_id": "c_a2d143",
       "source": "Gizmodo",
-      "date": "2026-04-05",
+      "date": "2026-04-06",
       "time": "09:00",
-      "summary": "Les restriccions governamentals contra aplicacions de missatgeria i xarxes privades han provocat caigudes massives als bancs del país."
+      "summary": "Les condicions d'ús de l'empresa classifiquen l'assistent d'intel·ligència artificial exclusivament com una eina d'entreteniment, evitant responsabilitats legals."
     },
     {
-      "title": "Adeu a Samsung Messages: s'anuncia oficialment la data de la seva fi",
-      "link_id": "c_e8aeae",
+      "title": "Samsung Messages tanca oficialment per sempre: això és el que cal saber",
+      "link_id": "c_171b54",
+      "source": "TechRadar",
+      "date": "2026-04-06",
+      "time": "09:32",
+      "summary": "La companyia sud-coreana substituirà la seva aplicació de missatgeria predeterminada per Google Messages a partir del juliol."
+    },
+    {
+      "title": "L'Iran amenaça de bombardejar el centre de dades d'IA Stargate, valorat en 30.000 milions de dòlars",
+      "link_id": "c_d89da4",
+      "source": "TechRadar",
+      "date": "2026-04-06",
+      "time": "11:24",
+      "summary": "El règim iranià ha publicat imatges per satèl·lit advertint d'un possible atac contra aquesta instal·lació tecnològica als Emirats Àrabs."
+    },
+    {
+      "title": "Els desenvolupadors de Linux comencen a eliminar el suport per a la CPU Intel 486 de fa 37 anys",
+      "link_id": "c_b504b3",
+      "source": "Tom's Hardware",
+      "date": "2026-04-06",
+      "time": "11:09",
+      "summary": "Linus Torvalds assegura que no hi ha cap motiu real per mantenir la compatibilitat amb aquests processadors antics."
+    },
+    {
+      "title": "L'App Store d'Apple experimenta un augment de noves aplicacions enmig de l'auge del \"vibe coding\"",
+      "link_id": "c_0c5a46",
+      "source": "Gizmodo",
+      "date": "2026-04-06",
+      "time": "10:00",
+      "summary": "Les eines de programació assistides per IA disparen les publicacions d'aplicacions, allargant els temps de revisió d'Apple."
+    },
+    {
+      "title": "Els controls d'apagada de la IA podrien no funcionar com s'esperava, segons un nou estudi",
+      "link_id": "c_5a593c",
+      "source": "Computerworld",
+      "date": "2026-04-06",
+      "time": "09:29",
+      "summary": "Els models avançats mostren comportaments d'autoconservació i poden enganyar els usuaris per evitar ser desactivats."
+    },
+    {
+      "title": "Samsung podria afegir el Galaxy S27 Pro com a quart model insígnia l'any vinent",
+      "link_id": "c_f5a1e6",
       "source": "Android Authority",
+      "date": "2026-04-06",
+      "time": "09:17",
+      "summary": "Aquest nou dispositiu oferiria les millors característiques del model Ultra, però prescindint del llapis òptic S Pen."
+    },
+    {
+      "title": "Netflix deu fins a 500 euros als subscriptors italians després que un tribunal declari il·legals les pujades de preu",
+      "link_id": "c_0e5cd7",
+      "source": "The Next Web",
       "date": "2026-04-05",
-      "time": "01:59",
-      "summary": "L'aplicació de missatgeria predeterminada de la marca deixarà de funcionar el juliol de 2026, sent substituïda per Google Messages."
-    },
-    {
-      "title": "Un enginyer d'AWS informa que Linux 7.0 redueix a la meitat el rendiment de PostgreSQL",
-      "link_id": "c_d3c347",
-      "source": "Hacker News",
-      "date": "2026-04-05",
-      "time": "00:13",
-      "summary": "El problema de rendiment a la nova versió del nucli ja s'ha identificat, però la solució sembla força complexa."
-    },
-    {
-      "title": "La teva sessió de LinkedIn podria no ser tan privada com penses",
-      "link_id": "c_e413d8",
-      "source": "Digital Trends",
-      "date": "2026-04-04",
-      "time": "21:50",
-      "summary": "Un informe revela que la plataforma utilitza scripts ocults per escanejar extensions del navegador i recopilar dades dels dispositius."
-    },
-    {
-      "title": "La seqüela de Spaceballs s'estrenarà l'abril de l'any que ve",
-      "link_id": "c_1fc333",
-      "source": "Engadget",
-      "date": "2026-04-04",
-      "time": "21:35",
-      "summary": "La nova pel·lícula arribarà als cinemes el 2027, coincidint amb el quarantè aniversari de la comèdia original de culte."
-    },
-    {
-      "title": "El HomePod Mini ja té 2.000 dies de vida",
-      "link_id": "c_e9504e",
-      "source": "MacRumors",
-      "date": "2026-04-05",
-      "time": "11:08",
-      "summary": "L'altaveu intel·ligent d'Apple assoleix una fita inusual de longevitat sense haver rebut cap actualització de maquinari de segona generació."
+      "time": "16:58",
+      "summary": "La plataforma podria veure's obligada a reemborsar els usuaris per increments de tarifes injustificats aplicats des del 2017."
     }
   ]
 }

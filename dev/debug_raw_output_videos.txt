@@ -1,8 +1,14 @@
 {
-  "generated_at": "2024-05-24T16:30",
+  "generated_at": "2024-05-24T16:00",
   "id": "videos",
   "title": "Vídeos en català sobre tecnologia",
-  "sources_checked": [],
+  "sources_checked": [
+    {
+      "name": "La Poma Mossegada",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCidFf_iUay6_Y59u2XzF4mw",
+      "articles_found": 0
+    }
+  ],
   "articles": [
     {
       "title": "guardar la música",
@@ -10,7 +16,7 @@
       "source": "Albert Lloreta",
       "date": "2026-03-25",
       "time": "15:49",
-      "summary": "Reflexió sobre la preservació de la música en l'era digital i com emmagatzemar-la correctament."
+      "summary": "Reflexió sobre la preservació digital de la música i com evitar perdre el nostre arxiu sonor personal."
     },
     {
       "title": "A què hem estat jugant aquest març",
@@ -18,7 +24,7 @@
       "source": "Catalunya PlayStation",
       "date": "2026-03-31",
       "time": "18:00",
-      "summary": "Repàs dels videojocs més destacats que l'equip ha estat gaudint durant el mes de març."
+      "summary": "Repàs mensual dels títols més destacats i les experiències de joc de la comunitat durant les últimes setmanes."
     },
     {
       "title": "🎙️Lúdica #53 - Paradox Interactive: l’imperi de la gran estratègia",
@@ -26,7 +32,7 @@
       "source": "Lúdica (Vídeos)",
       "date": "2026-03-24",
       "time": "17:09",
-      "summary": "Anàlisi profunda de Paradox Interactive i el seu domini en el gènere dels jocs de gran estratègia."
+      "summary": "Anàlisi profunda de la companyia sueca i el seu domini absolut en el gènere dels jocs d'estratègia complexa."
     }
   ]
 }
