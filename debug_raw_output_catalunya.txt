@@ -1,16 +1,24 @@
 {
-  "generated_at": "2026-04-06T10:30",
+  "generated_at": "2026-04-06T17:45",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [],
   "articles": [
     {
-      "title": "L'Artemis 2 contempla una imatge inèdita de la cara oculta de la Lluna: què els espera ara?",
-      "link_id": "c_2cf546",
-      "source": "324.cat",
-      "date": "2026-04-05",
-      "time": "17:12",
-      "summary": "Els astronautes de la missió Artemis 2 comparteixen imatges espectaculars de la Lluna a milers de quilòmetres de la Terra."
+      "title": "L'Artemis II es prepara per fer història",
+      "link_id": "c_e728bc",
+      "source": "Ara.cat",
+      "date": "2026-04-06",
+      "time": "16:13",
+      "summary": "La tripulació batrà el rècord de l'Apollo 13 allunyant-se a més de 406.000 quilòmetres de la Terra."
+    },
+    {
+      "title": "La NASA publica les primeres imatges de la Terra fetes pels astronautes de la missió Artemis 2",
+      "link_id": "c_799593",
+      "source": "RAC1",
+      "date": "2026-04-03",
+      "time": "18:35",
+      "summary": "La nau Orió ha captat el nostre planeta com una esfera il·luminada on s'aprecien aurores a l'horitzó."
     },
     {
       "title": "L’Artemis II s’enlaira amb èxit: la humanitat torna a l’òrbita lunar",
@@ -18,15 +26,23 @@
       "source": "MetaData",
       "date": "2026-04-02",
       "time": "10:17",
-      "summary": "La NASA ha llançat amb èxit la missió que obre la porta a tornar a trepitjar el satèl·lit."
+      "summary": "L'enlairament des de Florida marca el primer pas per tornar a trepitjar el satèl·lit mig segle després."
     },
     {
-      "title": "10.000 M€ després es presenta el primer cotxe 100% elèctric fet a Martorell",
-      "link_id": "c_476345",
+      "title": "El Govern destina 20 milions al desplegament de 4.000 punts de recàrrega de vehicles elèctrics",
+      "link_id": "c_2986c8",
+      "source": "Via Empresa",
+      "date": "2026-04-06",
+      "time": "10:48",
+      "summary": "Els fons europeus permetran instal·lar carregadors en equipaments públics per pal·liar el dèficit d'infraestructura elèctrica actual."
+    },
+    {
+      "title": "Volkswagen i Cupra criden a revisió 94.000 cotxes elèctrics per risc d’incendi",
+      "link_id": "c_4ba0bb",
       "source": "Ara.cat",
-      "date": "2026-04-05",
-      "time": "16:37",
-      "summary": "Cupra presentarà el model Raval, dissenyat i fabricat a la planta de Seat, impulsant l'electrificació de la mobilitat."
+      "date": "2026-04-02",
+      "time": "07:03",
+      "summary": "Una fallada en el mòdul de les bateries obliga a revisar milers de vehicles fabricats des del 2022."
     },
     {
       "title": "Traducció al català en temps real amb auriculars: així funciona la nova eina de Google",
@@ -34,55 +50,39 @@
       "source": "El Periódico",
       "date": "2026-04-03",
       "time": "12:05",
-      "summary": "La funció 'Live Translate' converteix els auriculars en un traductor instantani, facilitant la comunicació internacional i professional."
+      "summary": "La funció 'Live Translate' facilita la comunicació internacional convertint els dispositius en intèrprets instantanis molt resolutius."
     },
     {
-      "title": "Fer ràdio sent sorda signant: una eina feta amb IA ajuda la Berta, estudiant de Periodisme",
-      "link_id": "c_919aff",
-      "source": "324.cat",
-      "date": "2026-04-04",
-      "time": "21:30",
-      "summary": "La intel·ligència artificial permet a una jove sorda tenir una veu pròpia per fer ràdio, superant barreres comunicatives."
+      "title": "La intel·ligència artificial en català al teu ordinador personal",
+      "link_id": "c_f0a29d",
+      "source": "Softcatalà",
+      "date": "2026-04-06",
+      "time": "16:05",
+      "summary": "Softcatalà publica guies pràctiques per ajudar els usuaris a executar models oberts d'IA directament als seus equips."
     },
     {
-      "title": "El DNI digital entra en vigor a l’app MiDNI i serveix per a qualsevol tràmit",
-      "link_id": "c_06c42e",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-04-04",
-      "time": "09:18",
-      "summary": "Aquest nou format té la mateixa validesa que el carnet físic, tot i que la seva acceptació serà progressiva."
+      "title": "La IA ja està al darrere del 30% de cançons que es pugen diàriament a les plataformes musicals",
+      "link_id": "c_272cab",
+      "source": "IB3 Notícies",
+      "date": "2026-04-06",
+      "time": "13:13",
+      "summary": "L'ús de veus clonades d'artistes famosos genera milions de reproduccions i desperta preocupació dins del sector musical."
     },
     {
-      "title": "L'app catalana que evita a les parelles separades l'estrès d'organitzar la logística dels fills",
-      "link_id": "c_27dbb4",
-      "source": "RAC1",
-      "date": "2026-04-01",
-      "time": "14:10",
-      "summary": "Una nova aplicació facilita la coordinació diària entre progenitors separats per gestionar metges, extraescolars i material escolar."
+      "title": "Les línies 1 i 5 del metro milloren la freqüència amb un tren més en hora punta",
+      "link_id": "c_97ff87",
+      "source": "Betevé",
+      "date": "2026-04-06",
+      "time": "10:07",
+      "summary": "TMB incorpora nous combois als matins per absorbir l'increment de passatgers i agilitzar la mobilitat a Barcelona."
     },
     {
-      "title": "Un grup de científics espanyols creen una còrnia artificial amb escames de peix",
-      "link_id": "c_310f41",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-04-05",
-      "time": "09:02",
-      "summary": "Aquests innovadors implants biocompatibles podrien convertir-se en una gran alternativa a la donació tradicional d'òrgans visuals."
-    },
-    {
-      "title": "Com la catalana Parlem ha esquivat una fusió: una negociació plena d'estira-i-arronses",
-      "link_id": "c_222b99",
-      "source": "Ara.cat",
-      "date": "2026-04-03",
-      "time": "18:00",
-      "summary": "L'operadora de telecomunicacions canvia de conseller delegat i s'allunya finalment de la possible integració amb la madrilenya Avatel."
-    },
-    {
-      "title": "Les IAs es comporten com a persones: ChatGPT i altres chatbots menteixen per caure't bé",
-      "link_id": "c_2bf0ee",
-      "source": "El Nacional.cat",
-      "date": "2026-04-05",
-      "time": "16:00",
-      "summary": "Un estudi revela que els models d'intel·ligència artificial tendeixen a ser aduladors i donar la raó als usuaris."
+      "title": "Ús de pantalles en infants petits: riscos i impacte en la salut",
+      "link_id": "c_eee053",
+      "source": "Lleida Diari",
+      "date": "2026-04-06",
+      "time": "11:30",
+      "summary": "Molts nens superen les dues hores diàries recomanades, plantejant nous reptes per a la criança i el desenvolupament."
     }
   ]
 }
