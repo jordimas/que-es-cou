@@ -1,5 +1,5 @@
 {
-  "generated_at": "2024-05-21T16:00",
+  "generated_at": "2024-05-24T16:00",
   "id": "podcasts",
   "title": "Podcasts en català sobre tecnologia",
   "sources_checked": [],
@@ -10,7 +10,7 @@
       "source": "Mossega la poma",
       "date": "2026-03-30",
       "time": "10:32",
-      "summary": "Anàlisi de com les plataformes digitals prioritzen la monetització agressiva en detriment de l'experiència de l'usuari i dels creadors."
+      "summary": "Debat sobre com les plataformes digitals prioritzen el negoci i la monetització per sobre de l'experiència de l'usuari."
     },
     {
       "title": "L' Altra Ràdio - L'ONU i els drets de les dones a la societat i en el sector tecnològic",
@@ -18,7 +18,7 @@
       "source": "L'altra ràdio",
       "date": "2026-04-02",
       "time": "07:33",
-      "summary": "Karina Gibert detalla les accions de les Nacions Unides per protegir els drets femenins dins l'àmbit tecnològic."
+      "summary": "Karina Gibert explica les accions de les Nacions Unides per protegir els drets femenins en l'àmbit tecnològic."
     },
     {
       "title": "L' Altra Ràdio - Les persones que fan servir la llengua de signes catalana poden fer ràdio",
@@ -26,7 +26,7 @@
       "source": "L'altra ràdio",
       "date": "2026-03-26",
       "time": "08:33",
-      "summary": "Descobreix Signària, la innovadora eina de veu sintètica que permet a les persones sordes crear contingut radiofònic personalitzat."
+      "summary": "Presentació de Signària, una eina innovadora que permet a persones sordes fer ràdio mitjançant veus sintètiques personalitzades."
     },
     {
       "title": "El gòTIC - Tenim una missió! del 25/3/2026",
@@ -34,7 +34,7 @@
       "source": "El Gòtic",
       "date": "2026-03-24",
       "time": "17:29",
-      "summary": "Estratègies i recursos pràctics per empoderar la ciutadania digital davant els nous reptes tecnològics actuals."
+      "summary": "El gòTIC de Tàrrega comparteix recursos i estratègies per afrontar els reptes actuals de la ciutadania digital."
     },
     {
       "title": "El futur de la premsa, de l'educació i el problema de l'accès a les dades obertes",
@@ -42,7 +42,7 @@
       "source": "Internet amb Genís Roca",
       "date": "2026-03-29",
       "time": "02:37",
-      "summary": "Reflexió profunda sobre els reptes del periodisme, l'ensenyament i les barreres en l'accés a la informació pública."
+      "summary": "Anàlisi sobre els reptes del periodisme, l'ensenyament i les dificultats per accedir a la informació pública."
     },
     {
       "title": "El futur de la premsa, de l'educació i el problema de l'accès a les dades obertes",
@@ -50,7 +50,7 @@
       "source": "Internet amb Genís Roca",
       "date": "2026-03-28",
       "time": "19:14",
-      "summary": "Debat sobre la transformació dels mitjans, el sistema educatiu i els obstacles per accedir a dades obertes."
+      "summary": "Reflexió profunda sobre la transformació dels mitjans, el sistema educatiu i la transparència de les dades obertes."
     },
     {
       "title": "Tancat amb Claude",
@@ -58,7 +58,7 @@
       "source": "Foc a Terra",
       "date": "2026-04-06",
       "time": "04:00",
-      "summary": "Presentació de Factory Floor, una aplicació nativa per a macOS dissenyada per optimitzar el treball amb Claude Code."
+      "summary": "Descobreix Factory Floor, una aplicació nativa per a macOS dissenyada per optimitzar el treball amb Claude Code."
     },
     {
       "title": "La gamificació de la renda",
@@ -66,15 +66,15 @@
       "source": "Foc a Terra",
       "date": "2026-03-30",
       "time": "04:00",
-      "summary": "Exploració de com el vibecoding agilitza tràmits i propostes per fer més interactiva la declaració de la renda."
+      "summary": "Repàs sobre subvencions.cat, l'impacte del vibecoding i una proposta curiosa per gamificar la declaració de la renda."
     },
     {
-      "title": "De Catalunya a Silicon Valley, i torna cap a Catalunya, amb Anna Navarro i Descals",
-      "link_id": "c_0bd6f6",
-      "source": "Foc a Terra",
-      "date": "2026-03-23",
-      "time": "05:00",
-      "summary": "Repàs a la trajectòria d'Anna Navarro a les grans tecnològiques i el seu compromís polític a Catalunya."
+      "title": "No tenim pas res enllestit per a WordPress 7.0",
+      "link_id": "c_cb40c1",
+      "source": "WordPress Pòdcast",
+      "date": "2026-04-07",
+      "time": "00:00",
+      "summary": "Sorgeixen dubtes i replantejaments d'última hora després de la publicació de les versions candidates de WordPress 7.0."
     },
     {
       "title": "Tot a punt per a la versió WordPress 7.0",
@@ -82,7 +82,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-03-31",
       "time": "00:00",
-      "summary": "Últims retocs i detalls finals abans del llançament oficial de la nova i esperada versió del gestor."
+      "summary": "La nova versió del gestor de continguts entra a la recta final centrant-se a polir els últims detalls."
     },
     {
       "title": "WordPress 7.0 beta 6",
@@ -90,7 +90,15 @@
       "source": "WordPress Pòdcast",
       "date": "2026-03-24",
       "time": "00:00",
-      "summary": "Proves de rendiment i validació del sistema en temps real en la sisena beta d'aquesta actualització."
+      "summary": "La plataforma manté la fase beta per validar la mida d'instal·lació i el nou sistema de temps real."
+    },
+    {
+      "title": "Capítol 62: Mitiga, invertir pensant en el risc climàtic",
+      "link_id": "c_ab163e",
+      "source": "RAC&GO",
+      "date": "2026-04-07",
+      "time": "06:00",
+      "summary": "L'emprenedor Àlex Martí presenta Mitiga, una eina per ajudar les empreses a avaluar riscos climàtics abans d'invertir."
     },
     {
       "title": "Capítol 61: Niddo, la solució a la logística familiar de parelles separades",
@@ -98,7 +106,7 @@
       "source": "RAC&GO",
       "date": "2026-03-24",
       "time": "07:00",
-      "summary": "Una nova aplicació busca reduir l'estrès de la conciliació familiar facilitant la gestió diària a les parelles separades."
+      "summary": "Una nova aplicació busca reduir l'estrès de la conciliació familiar organitzant despeses i horaris per a pares separats."
     }
   ]
 }

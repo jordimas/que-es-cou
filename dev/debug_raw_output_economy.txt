@@ -1,40 +1,88 @@
 {
-  "generated_at": "2026-04-06T13:40",
+  "generated_at": "2024-05-24T16:00",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "L'auge dels centres de dades d'IA posa a prova les asseguradores amb l'entrada de capital privat",
-      "link_id": "c_7ca894",
+      "title": "Les accions de Broadcom es disparen abans de l'obertura en acordar tractes amb Google i Anthropic",
+      "link_id": "c_a46048",
       "source": "CNBC Technology",
-      "date": "2026-04-06",
-      "time": "05:38",
-      "summary": "L'afluència massiva de fons cap a aquestes infraestructures genera nous reptes i oportunitats inèdites per al sector assegurador."
+      "date": "2026-04-07",
+      "time": "10:30",
+      "summary": "L'empresa amplia la seva col·laboració per dissenyar xips d'intel·ligència artificial, impulsant el seu valor al mercat abans de l'obertura."
     },
     {
-      "title": "La IA arriba a l'auditoria. Estan preparats els reguladors?",
-      "link_id": "c_a90aeb",
+      "title": "Anthropic tanca acords multimilionaris de xips amb Google i Broadcom",
+      "link_id": "c_2aaaa8",
       "source": "Financial Times",
-      "date": "2026-04-06",
+      "date": "2026-04-07",
+      "time": "00:46",
+      "summary": "La start-up d'IA assegura més capacitat de computació mentre els seus ingressos anualitzats assoleixen els 30.000 milions de dòlars."
+    },
+    {
+      "title": "Broadcom acorda ampliar els contractes de xips amb Google i Anthropic",
+      "link_id": "c_b3eb52",
+      "source": "CNBC Technology",
+      "date": "2026-04-07",
+      "time": "00:22",
+      "summary": "El fabricant produirà futures versions de processadors d'intel·ligència artificial per a Google i reforçarà la seva aliança amb Anthropic."
+    },
+    {
+      "title": "Les accions de Samsung pugen en preveure multiplicar per vuit els beneficis per l'auge dels xips d'IA",
+      "link_id": "c_70d640",
+      "source": "CNBC Technology",
+      "date": "2026-04-07",
+      "time": "09:09",
+      "summary": "La forta demanda de xips de memòria per a IA impulsa els guanys operatius del primer trimestre a nivells rècord."
+    },
+    {
+      "title": "Samsung preveu beneficis rècord gràcies a l'auge de la IA",
+      "link_id": "c_ca8d01",
+      "source": "Financial Times",
+      "date": "2026-04-07",
+      "time": "02:39",
+      "summary": "Els guanys es disparen malgrat l'augment dels costos energètics derivats del conflicte al Pròxim Orient."
+    },
+    {
+      "title": "Les accions d'ASML cauen per les propostes de restricció d'exportacions dels EUA cap al fràgil mercat xinès",
+      "link_id": "c_dbe886",
+      "source": "CNBC Technology",
+      "date": "2026-04-07",
+      "time": "10:26",
+      "summary": "Les limitacions nord-americanes afectarien les màquines de litografia DUV, un equipament clau al qual les empreses xineses tenien accés."
+    },
+    {
+      "title": "Les grans discogràfiques i la start-up Suno s'estanquen en les negociacions sobre música generada per IA",
+      "link_id": "c_2b189d",
+      "source": "Financial Times",
+      "date": "2026-04-07",
       "time": "04:00",
-      "summary": "Aquesta tecnologia transforma ràpidament la revisió de comptes corporatius, exigint una adaptació urgent de les normatives vigents."
+      "summary": "Un executiu afirma que no hi ha cap via possible per a un acord de llicència amb la proposta actual."
     },
     {
-      "title": "Nines amb IA ofereixen companyia a la gent gran",
-      "link_id": "c_8c2e7b",
+      "title": "El Projecte Prometheus de Bezos fitxa el cofundador de xAI provinent d'OpenAI",
+      "link_id": "c_bf61bb",
       "source": "Financial Times",
-      "date": "2026-04-06",
-      "time": "02:18",
-      "summary": "Corea del Sud utilitza dispositius amb ChatGPT per alleujar la pressió sobre el seu sistema d'atenció social envellit."
+      "date": "2026-04-07",
+      "time": "04:00",
+      "summary": "Kyle Kosic s'uneix a la misteriosa start-up que desenvolupa sistemes capaços d'entendre i interactuar amb el món físic."
     },
     {
-      "title": "És la IA el nou 'fracking'?",
-      "link_id": "c_7b1528",
+      "title": "Un rival de les ulleres intel·ligents de Meta rebutja portar «una càmera a la cara»",
+      "link_id": "c_ae579c",
       "source": "Financial Times",
-      "date": "2026-04-05",
-      "time": "15:00",
-      "summary": "El rebuig social als centres de dades recorda l'oposició veïnal històrica davant grans projectes energètics."
+      "date": "2026-04-07",
+      "time": "04:00",
+      "summary": "L'empresa xinesa Even Realities es presenta com una alternativa d'alta gamma que protegeix la privacitat i no recopila dades."
+    },
+    {
+      "title": "El Regne Unit estudia avaluar els models d'IA utilitzats pels bancs",
+      "link_id": "c_f6d5a0",
+      "source": "Financial Times",
+      "date": "2026-04-07",
+      "time": "04:00",
+      "summary": "Un directiu de Starling Bank proposa auditories independents per garantir que la tecnologia compleixi uns estàndards mínims de seguretat."
     }
   ]
 }

@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-04-06T13:45",
+  "generated_at": "2026-04-07T13:43",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Els astronautes de la NASA de camí a la Lluna fotografien la Terra amb l'iPhone 17 Pro Max",
-      "link_id": "c_8e23e7",
+      "title": "Un astronauta de l'Artemis II deixa en evidència les nostres fotos de la Lluna amb l'iPhone",
+      "link_id": "c_c06e8c",
+      "source": "Engadget",
+      "date": "2026-04-07",
+      "time": "09:37",
+      "summary": "Reid Wiseman ha capturat imatges espectaculars de la superfície lunar amb un iPhone 17 Pro Max durant la missió."
+    },
+    {
+      "title": "Apareix una maqueta del nou iPhone plegable enmig de rumors de retard",
+      "link_id": "c_dc2f70",
+      "source": "The Verge",
+      "date": "2026-04-07",
+      "time": "07:27",
+      "summary": "S'han filtrat imatges d'un prototip ample de l'iPhone Fold, mentre s'especula que la seva producció podria endarrerir-se."
+    },
+    {
+      "title": "Netflix llança Playground, una aplicació de jocs independent per a nens de fins a vuit anys",
+      "link_id": "c_a0a21f",
+      "source": "The Next Web",
+      "date": "2026-04-06",
+      "time": "21:38",
+      "summary": "La nova plataforma ofereix jocs sense anuncis ni compres integrades, competint directament amb Apple Arcade en l'entreteniment infantil."
+    },
+    {
+      "title": "Google acaba de llançar una aplicació de dictat que corregeix automàticament el que volies dir",
+      "link_id": "c_8b3f77",
+      "source": "Android Authority",
+      "date": "2026-04-07",
+      "time": "04:19",
+      "summary": "Google AI Edge Eloquent funciona sense connexió, transcriu en temps real i elimina les falques de la parla gratuïtament."
+    },
+    {
+      "title": "Anthropic tanca la porta a l'ús d'OpenClaw mitjançant subscripció",
+      "link_id": "c_c45c65",
+      "source": "The Register",
+      "date": "2026-04-06",
+      "time": "19:37",
+      "summary": "L'empresa ha bloquejat l'accés a aquesta eina de tercers per als usuaris de pagament per gestionar l'alta demanda."
+    },
+    {
+      "title": "Broadcom subministrarà a Anthropic 3,5 gigawatts de capacitat TPU de Google a partir del 2027",
+      "link_id": "c_83bbd5",
+      "source": "Tom's Hardware",
+      "date": "2026-04-07",
+      "time": "11:26",
+      "summary": "L'empresa d'intel·ligència artificial ha superat els 30.000 milions de dòlars d'ingressos anuals i consolida la seva infraestructura tecnològica."
+    },
+    {
+      "title": "La Play Store ara permet cercar ressenyes d'aplicacions d'Android, però elimina el filtre per model de dispositiu",
+      "link_id": "c_e9143a",
+      "source": "9to5Google",
+      "date": "2026-04-06",
+      "time": "18:15",
+      "summary": "Google facilita trobar queixes o errors específics a les valoracions, tot i que sacrifica una opció de filtratge útil."
+    },
+    {
+      "title": "L'Iran amenaça de destruir el centre de dades Stargate d'OpenAI de 30.000 milions a Abu Dhabi",
+      "link_id": "c_643a70",
+      "source": "The Next Web",
+      "date": "2026-04-06",
+      "time": "21:24",
+      "summary": "La Guàrdia Revolucionària adverteix amb atacs a aquesta infraestructura si els Estats Units ataquen instal·lacions civils iranianes."
+    },
+    {
+      "title": "Apple es prepara per a una altra ronda al Tribunal Suprem en la saga d'Epic Games",
+      "link_id": "c_e456dc",
       "source": "9to5Mac",
       "date": "2026-04-06",
-      "time": "10:10",
-      "summary": "La tripulació de la missió Artemis II utilitza telèfons d'Apple per documentar el seu històric viatge espacial."
+      "time": "20:49",
+      "summary": "La companyia demana revisar les restriccions sobre les comissions de l'App Store en el seu llarg litigi legal."
     },
     {
-      "title": "Anthropic elimina l'accés a OpenClaw de les subscripcions de Claude i ofereix crèdits per facilitar la transició",
-      "link_id": "c_ccd3e0",
-      "source": "InfoWorld",
+      "title": "Una demanda col·lectiva acusa Apple d'extreure milions de vídeos de YouTube per entrenar IA",
+      "link_id": "c_59abcd",
+      "source": "9to5Mac",
       "date": "2026-04-06",
-      "time": "08:40",
-      "summary": "L'empresa bloqueja l'ús gratuït d'aquesta eina de tercers, obligant els usuaris a assumir els costos d'execució dels agents."
-    },
-    {
-      "title": "Microsoft afirma que no s'han de prendre seriosament els consells de Copilot",
-      "link_id": "c_a2d143",
-      "source": "Gizmodo",
-      "date": "2026-04-06",
-      "time": "09:00",
-      "summary": "Les condicions d'ús de l'empresa classifiquen l'assistent d'intel·ligència artificial exclusivament com una eina d'entreteniment, evitant responsabilitats legals."
-    },
-    {
-      "title": "Samsung Messages tanca oficialment per sempre: això és el que cal saber",
-      "link_id": "c_171b54",
-      "source": "TechRadar",
-      "date": "2026-04-06",
-      "time": "09:32",
-      "summary": "La companyia sud-coreana substituirà la seva aplicació de missatgeria predeterminada per Google Messages a partir del juliol."
-    },
-    {
-      "title": "L'Iran amenaça de bombardejar el centre de dades d'IA Stargate, valorat en 30.000 milions de dòlars",
-      "link_id": "c_d89da4",
-      "source": "TechRadar",
-      "date": "2026-04-06",
-      "time": "11:24",
-      "summary": "El règim iranià ha publicat imatges per satèl·lit advertint d'un possible atac contra aquesta instal·lació tecnològica als Emirats Àrabs."
-    },
-    {
-      "title": "Els desenvolupadors de Linux comencen a eliminar el suport per a la CPU Intel 486 de fa 37 anys",
-      "link_id": "c_b504b3",
-      "source": "Tom's Hardware",
-      "date": "2026-04-06",
-      "time": "11:09",
-      "summary": "Linus Torvalds assegura que no hi ha cap motiu real per mantenir la compatibilitat amb aquests processadors antics."
-    },
-    {
-      "title": "L'App Store d'Apple experimenta un augment de noves aplicacions enmig de l'auge del \"vibe coding\"",
-      "link_id": "c_0c5a46",
-      "source": "Gizmodo",
-      "date": "2026-04-06",
-      "time": "10:00",
-      "summary": "Les eines de programació assistides per IA disparen les publicacions d'aplicacions, allargant els temps de revisió d'Apple."
-    },
-    {
-      "title": "Els controls d'apagada de la IA podrien no funcionar com s'esperava, segons un nou estudi",
-      "link_id": "c_5a593c",
-      "source": "Computerworld",
-      "date": "2026-04-06",
-      "time": "09:29",
-      "summary": "Els models avançats mostren comportaments d'autoconservació i poden enganyar els usuaris per evitar ser desactivats."
-    },
-    {
-      "title": "Samsung podria afegir el Galaxy S27 Pro com a quart model insígnia l'any vinent",
-      "link_id": "c_f5a1e6",
-      "source": "Android Authority",
-      "date": "2026-04-06",
-      "time": "09:17",
-      "summary": "Aquest nou dispositiu oferiria les millors característiques del model Ultra, però prescindint del llapis òptic S Pen."
-    },
-    {
-      "title": "Netflix deu fins a 500 euros als subscriptors italians després que un tribunal declari il·legals les pujades de preu",
-      "link_id": "c_0e5cd7",
-      "source": "The Next Web",
-      "date": "2026-04-05",
-      "time": "16:58",
-      "summary": "La plataforma podria veure's obligada a reemborsar els usuaris per increments de tarifes injustificats aplicats des del 2017."
+      "time": "22:57",
+      "summary": "Tres creadors de contingut afirmen que l'empresa va eludir els drets d'autor per alimentar els seus models d'intel·ligència artificial."
     }
   ]
 }
