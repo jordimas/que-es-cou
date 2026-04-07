@@ -1,40 +1,80 @@
 {
-  "generated_at": "2026-04-06T19:41",
+  "generated_at": "2026-04-07T10:06",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Esperances d'un acord EUA-Iran, l'aniversari d'Apple i el pacte d'OpenAI",
+      "title": "Les accions de Samsung pugen en preveure's que els beneficis es multipliquin per vuit per la IA",
+      "link_id": "c_70d640",
+      "source": "CNBC Technology",
+      "date": "2026-04-07",
+      "time": "03:58",
+      "summary": "Els resultats del primer trimestre superen àmpliament les expectatives gràcies a la forta demanda de xips de memòria."
+    },
+    {
+      "title": "Samsung preveu beneficis rècord gràcies a l'auge de la intel·ligència artificial",
+      "link_id": "c_ca8d01",
+      "source": "Financial Times",
+      "date": "2026-04-07",
+      "time": "02:39",
+      "summary": "L'empresa supera l'augment dels costos energètics derivats del conflicte al Pròxim Orient amb uns ingressos trimestrals històrics."
+    },
+    {
+      "title": "Anthropic tanca acords multimilionaris de xips amb Google i Broadcom",
+      "link_id": "c_2aaaa8",
+      "source": "Financial Times",
+      "date": "2026-04-07",
+      "time": "00:46",
+      "summary": "La capacitat de computació de l'empresa emergent s'amplia mentre els seus ingressos anualitzats assoleixen els 30.000 milions de dòlars."
+    },
+    {
+      "title": "Broadcom acorda ampliar els contractes de xips amb Google i Anthropic",
+      "link_id": "c_b3eb52",
+      "source": "CNBC Technology",
+      "date": "2026-04-07",
+      "time": "00:22",
+      "summary": "El fabricant produirà les futures versions dels processadors d'intel·ligència artificial, consolidant la seva posició clau en el sector."
+    },
+    {
+      "title": "Les grans discogràfiques i l'empresa emergent Suno s'estanquen en les negociacions sobre música generada per IA",
+      "link_id": "c_2b189d",
+      "source": "Financial Times",
+      "date": "2026-04-07",
+      "time": "04:00",
+      "summary": "Les propostes actuals per arribar a un acord de llicència són inviables, segons afirmen directius del sector musical."
+    },
+    {
+      "title": "El nou laboratori de Jeff Bezos fitxa el cofundador de xAI provinent d'OpenAI",
+      "link_id": "c_bf61bb",
+      "source": "Financial Times",
+      "date": "2026-04-07",
+      "time": "04:00",
+      "summary": "Kyle Kosic s'incorpora al Projecte Prometheus per desenvolupar sistemes avançats capaços d'entendre el món físic."
+    },
+    {
+      "title": "Un rival de les ulleres intel·ligents de Meta rebutja posar 'una càmera a la cara'",
+      "link_id": "c_ae579c",
+      "source": "Financial Times",
+      "date": "2026-04-07",
+      "time": "04:00",
+      "summary": "L'empresa xinesa Even Realities es posiciona com una alternativa d'alta gamma que protegeix la privacitat dels usuaris."
+    },
+    {
+      "title": "El Regne Unit estudia avaluar els models d'IA utilitzats pels bancs",
+      "link_id": "c_f6d5a0",
+      "source": "Financial Times",
+      "date": "2026-04-07",
+      "time": "04:00",
+      "summary": "Una avaluació independent garantiria uns estàndards mínims de seguretat i fiabilitat en el sector financer britànic."
+    },
+    {
+      "title": "Esperances d'un acord EUA-Iran, l'aniversari d'Apple i el pacte de pòdcasts d'OpenAI al Morning Squawk",
       "link_id": "c_6fc4e2",
       "source": "CNBC Technology",
       "date": "2026-04-06",
       "time": "11:43",
-      "summary": "Resum de les cinc notícies clau que els inversors han de conèixer abans de l'obertura del mercat."
-    },
-    {
-      "title": "L'auge dels centres de dades d'IA posa a prova les asseguradores",
-      "link_id": "c_7ca894",
-      "source": "CNBC Technology",
-      "date": "2026-04-06",
-      "time": "05:38",
-      "summary": "L'entrada massiva de capital privat i els ràpids avenços tecnològics generen nous riscos i oportunitats per al sector assegurador."
-    },
-    {
-      "title": "La intel·ligència artificial arriba a l'auditoria: estan preparats els reguladors?",
-      "link_id": "c_a90aeb",
-      "source": "Financial Times",
-      "date": "2026-04-06",
-      "time": "04:00",
-      "summary": "Aquesta tecnologia ja està transformant ràpidament els mètodes tradicionals de revisió dels comptes corporatius."
-    },
-    {
-      "title": "Nines amb IA ofereixen companyia a la gent gran",
-      "link_id": "c_8c2e7b",
-      "source": "Financial Times",
-      "date": "2026-04-06",
-      "time": "02:18",
-      "summary": "Corea del Sud utilitza dispositius equipats amb ChatGPT per alleujar el seu sistema d'atenció social davant l'envelliment poblacional."
+      "summary": "Un resum de les cinc claus principals que els inversors han de conèixer abans de començar la jornada borsària."
     }
   ]
 }

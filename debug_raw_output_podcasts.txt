@@ -5,12 +5,20 @@
   "sources_checked": [],
   "articles": [
     {
+      "title": "Ivoox com exemple de merdificació – Programa 658",
+      "link_id": "c_4efec1",
+      "source": "Mossega la poma",
+      "date": "2026-03-30",
+      "time": "10:32",
+      "summary": "Debat sobre com les plataformes digitals prioritzen el negoci per sobre de l'usuari, analitzant casos com iVoox o Google."
+    },
+    {
       "title": "L' Altra Ràdio - L'ONU i els drets de les dones a la societat i en el sector tecnològic",
       "link_id": "c_445803",
       "source": "L'altra ràdio",
       "date": "2026-04-02",
       "time": "07:33",
-      "summary": "Karina Gibert detalla les accions internacionals per garantir la igualtat de gènere dins l'àmbit tecnològic."
+      "summary": "Karina Gibert explica les accions de les Nacions Unides per protegir els drets femenins en l'àmbit tecnològic."
     },
     {
       "title": "L' Altra Ràdio - Les persones que fan servir la llengua de signes catalana poden fer ràdio",
@@ -18,7 +26,7 @@
       "source": "L'altra ràdio",
       "date": "2026-03-26",
       "time": "08:33",
-      "summary": "L'eina Signària permet a persones sordes crear contingut radiofònic mitjançant una veu sintètica personalitzada."
+      "summary": "Presentació de Signària, una eina innovadora que permet a persones sordes fer ràdio mitjançant veus sintètiques personalitzades."
     },
     {
       "title": "El gòTIC - Tenim una missió! del 25/3/2026",
@@ -26,7 +34,7 @@
       "source": "El Gòtic",
       "date": "2026-03-24",
       "time": "17:29",
-      "summary": "Estratègies i recursos pràctics per afrontar els reptes actuals de la ciutadania en l'entorn digital."
+      "summary": "Recursos i estratègies per afrontar els reptes i inquietuds actuals de la ciutadania en l'entorn digital."
     },
     {
       "title": "El futur de la premsa, de l'educació i el problema de l'accès a les dades obertes",
@@ -34,7 +42,7 @@
       "source": "Internet amb Genís Roca",
       "date": "2026-03-29",
       "time": "02:37",
-      "summary": "Anàlisi sobre els reptes del periodisme, l'ensenyament i les barreres en l'ús de dades públiques."
+      "summary": "Reflexió profunda sobre els reptes del periodisme, l'ensenyament i les barreres en l'accés a la informació pública."
     },
     {
       "title": "El futur de la premsa, de l'educació i el problema de l'accès a les dades obertes",
@@ -42,7 +50,7 @@
       "source": "Internet amb Genís Roca",
       "date": "2026-03-28",
       "time": "19:14",
-      "summary": "Reflexió profunda sobre la transformació dels mitjans, el sistema educatiu i la transparència de la informació."
+      "summary": "Anàlisi sobre la transformació dels mitjans, el sistema educatiu i els obstacles per accedir a dades obertes."
     },
     {
       "title": "Tancat amb Claude",
@@ -50,7 +58,7 @@
       "source": "Foc a Terra",
       "date": "2026-04-06",
       "time": "04:00",
-      "summary": "Descobreix Factory Floor, una aplicació nativa per a macOS dissenyada per optimitzar l'ús de Claude Code."
+      "summary": "Descobreix Factory Floor, una aplicació nativa per a macOS dissenyada per facilitar el treball amb Claude Code."
     },
     {
       "title": "La gamificació de la renda",
@@ -58,15 +66,39 @@
       "source": "Foc a Terra",
       "date": "2026-03-30",
       "time": "04:00",
-      "summary": "Debat sobre l'èxit de subvencions.cat creat amb vibecoding i una proposta lúdica per fer la declaració."
+      "summary": "Repàs sobre subvencions.cat, l'impacte del vibecoding i una curiosa proposta per gamificar la declaració d'impostos."
     },
     {
-      "title": "De Catalunya a Silicon Valley, i torna cap a Catalunya, amb Anna Navarro i Descals",
-      "link_id": "c_0bd6f6",
-      "source": "Foc a Terra",
-      "date": "2026-03-23",
-      "time": "05:00",
-      "summary": "Repàs a la trajectòria d'Anna Navarro a les grans tecnològiques i el seu salt a la política."
+      "title": "No tenim pas res enllestit per a WordPress 7.0",
+      "link_id": "c_cb40c1",
+      "source": "WordPress Pòdcast",
+      "date": "2026-04-07",
+      "time": "00:00",
+      "summary": "Canvis d'última hora i replantejaments inesperats frenen el llançament definitiu de la nova versió del gestor."
+    },
+    {
+      "title": "Tot a punt per a la versió WordPress 7.0",
+      "link_id": "c_6e3566",
+      "source": "WordPress Pòdcast",
+      "date": "2026-03-31",
+      "time": "00:00",
+      "summary": "La plataforma entra a la recta final polint els últims detalls abans de la gran actualització."
+    },
+    {
+      "title": "WordPress 7.0 beta 6",
+      "link_id": "c_968f15",
+      "source": "WordPress Pòdcast",
+      "date": "2026-03-24",
+      "time": "00:00",
+      "summary": "La fase beta s'allarga per ajustar la mida de la instal·lació i el nou sistema de temps real."
+    },
+    {
+      "title": "Capítol 62: Mitiga, invertir pensant en el risc climàtic",
+      "link_id": "c_ab163e",
+      "source": "RAC&GO",
+      "date": "2026-04-07",
+      "time": "06:00",
+      "summary": "L'empresa Mitiga ajuda les companyies a prendre decisions estratègiques valorant l'impacte i els riscos del canvi climàtic."
     },
     {
       "title": "Capítol 61: Niddo, la solució a la logística familiar de parelles separades",
@@ -74,7 +106,7 @@
       "source": "RAC&GO",
       "date": "2026-03-24",
       "time": "07:00",
-      "summary": "L'aplicació Niddo busca reduir l'estrès de la conciliació familiar centralitzant despeses i tasques per a pares separats."
+      "summary": "Una nova aplicació busca reduir l'estrès de la conciliació organitzant despeses, horaris i comunicació escolar per a famílies."
     }
   ]
 }

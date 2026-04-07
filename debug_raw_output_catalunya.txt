@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-04-06T17:45",
+  "generated_at": "2026-04-07T08:06",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [],
   "articles": [
     {
-      "title": "L'Artemis II es prepara per fer història",
+      "title": "La missió Artemis II inicia el retorn cap a la Terra després d'una observació històrica de la Lluna",
       "link_id": "c_e728bc",
       "source": "Ara.cat",
       "date": "2026-04-06",
       "time": "16:13",
-      "summary": "La tripulació batrà el rècord de l'Apollo 13 allunyant-se a més de 406.000 quilòmetres de la Terra."
+      "summary": "La nau Orion ha assolit una distància rècord de 406.771 quilòmetres, superant qualsevol fita humana anterior a l'espai."
     },
     {
       "title": "La NASA publica les primeres imatges de la Terra fetes pels astronautes de la missió Artemis 2",
@@ -18,39 +18,31 @@
       "source": "RAC1",
       "date": "2026-04-03",
       "time": "18:35",
-      "summary": "La nau Orió ha captat el nostre planeta com una esfera il·luminada on s'aprecien aurores a l'horitzó."
+      "summary": "Les fotografies mostren el nostre planeta com una esfera il·luminada on s'aprecien aurores a l'horitzó des de l'espai."
     },
     {
-      "title": "L’Artemis II s’enlaira amb èxit: la humanitat torna a l’òrbita lunar",
-      "link_id": "c_791bba",
-      "source": "MetaData",
-      "date": "2026-04-02",
-      "time": "10:17",
-      "summary": "L'enlairament des de Florida marca el primer pas per tornar a trepitjar el satèl·lit mig segle després."
-    },
-    {
-      "title": "El Govern destina 20 milions al desplegament de 4.000 punts de recàrrega de vehicles elèctrics",
-      "link_id": "c_2986c8",
-      "source": "Via Empresa",
-      "date": "2026-04-06",
-      "time": "10:48",
-      "summary": "Els fons europeus permetran instal·lar carregadors en equipaments públics per pal·liar el dèficit d'infraestructura elèctrica actual."
-    },
-    {
-      "title": "Volkswagen i Cupra criden a revisió 94.000 cotxes elèctrics per risc d’incendi",
-      "link_id": "c_4ba0bb",
-      "source": "Ara.cat",
-      "date": "2026-04-02",
-      "time": "07:03",
-      "summary": "Una fallada en el mòdul de les bateries obliga a revisar milers de vehicles fabricats des del 2022."
+      "title": "L’Artemis II emprén el viatge de tornada després d’observar la cara oculta de la Lluna",
+      "link_id": "c_49d2f8",
+      "source": "Àpunt",
+      "date": "2026-04-07",
+      "time": "06:29",
+      "summary": "Els quatre astronautes inicien la tornada després d'establir una nova marca històrica d'allunyament del nostre planeta."
     },
     {
       "title": "Traducció al català en temps real amb auriculars: així funciona la nova eina de Google",
-      "link_id": "c_6cf7eb",
+      "link_id": "c_b9d019",
       "source": "El Periódico",
-      "date": "2026-04-03",
-      "time": "12:05",
-      "summary": "La funció 'Live Translate' facilita la comunicació internacional convertint els dispositius en intèrprets instantanis molt resolutius."
+      "date": "2026-04-07",
+      "time": "08:01",
+      "summary": "La funció 'Live Translate' facilita la comunicació internacional convertint els auriculars en un intèrpret instantani molt pràctic."
+    },
+    {
+      "title": "Drons autònoms en guerra: algoritmes que decideixen qui viu i qui mor",
+      "link_id": "c_3871b2",
+      "source": "324.cat",
+      "date": "2026-04-06",
+      "time": "14:05",
+      "summary": "Les grans potències mundials frenen a l'ONU qualsevol intent de regular l'ús d'armes letals controlades per intel·ligència artificial."
     },
     {
       "title": "La intel·ligència artificial en català al teu ordinador personal",
@@ -58,7 +50,7 @@
       "source": "Softcatalà",
       "date": "2026-04-06",
       "time": "16:05",
-      "summary": "Softcatalà publica guies pràctiques per ajudar els usuaris a executar models oberts d'IA directament als seus equips."
+      "summary": "L'entitat publica guies pràctiques per democratitzar l'ús de models d'intel·ligència artificial executables localment i en la nostra llengua."
     },
     {
       "title": "La IA ja està al darrere del 30% de cançons que es pugen diàriament a les plataformes musicals",
@@ -66,23 +58,31 @@
       "source": "IB3 Notícies",
       "date": "2026-04-06",
       "time": "13:13",
-      "summary": "L'ús de veus clonades d'artistes famosos genera milions de reproduccions i desperta preocupació dins del sector musical."
+      "summary": "L'ús de veus clonades d'artistes famosos genera milions de reproduccions i desperta una forta preocupació dins la indústria."
     },
     {
-      "title": "Les línies 1 i 5 del metro milloren la freqüència amb un tren més en hora punta",
-      "link_id": "c_97ff87",
-      "source": "Betevé",
-      "date": "2026-04-06",
-      "time": "10:07",
-      "summary": "TMB incorpora nous combois als matins per absorbir l'increment de passatgers i agilitzar la mobilitat a Barcelona."
+      "title": "10.000 M€ després es presenta el primer cotxe 100% elèctric fet a Martorell",
+      "link_id": "c_476345",
+      "source": "Ara.cat",
+      "date": "2026-04-05",
+      "time": "16:37",
+      "summary": "El nou model Cupra Raval materialitza l'aposta del grup Volkswagen per electrificar la mobilitat i la indústria local."
     },
     {
-      "title": "Ús de pantalles en infants petits: riscos i impacte en la salut",
-      "link_id": "c_eee053",
-      "source": "Lleida Diari",
+      "title": "El Govern destina 20 milions al desplegament de 4.000 punts de recàrrega de vehicles elèctrics",
+      "link_id": "c_2986c8",
+      "source": "Via Empresa",
       "date": "2026-04-06",
-      "time": "11:30",
-      "summary": "Molts nens superen les dues hores diàries recomanades, plantejant nous reptes per a la criança i el desenvolupament."
+      "time": "10:48",
+      "summary": "Aquesta inversió amb fons europeus busca pal·liar el dèficit d'infraestructura instal·lant carregadors en diversos equipaments públics catalans."
+    },
+    {
+      "title": "La insuportable fragilitat dels drets digitals",
+      "link_id": "c_411ea9",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-04-06",
+      "time": "00:35",
+      "summary": "Casos recents de censura institucional evidencien la necessitat urgent de protegir els drets fonamentals dels ciutadans a internet."
     }
   ]
 }
