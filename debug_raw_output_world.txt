@@ -1,88 +1,114 @@
 {
-  "generated_at": "2026-04-07T10:06",
+  "generated_at": "2026-04-07T19:56",
   "id": "world",
   "title": "Notícies tecnològiques del món",
-  "sources_checked": [],
+  "sources_checked": [
+    {
+      "name": "Ars Technica",
+      "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
+      "articles_found": 0
+    },
+    {
+      "name": "AnandTech",
+      "url": "https://www.anandtech.com/rss/",
+      "articles_found": 0
+    },
+    {
+      "name": "Axios",
+      "url": "https://www.axios.com/feeds/feed.rss",
+      "articles_found": 0
+    },
+    {
+      "name": "Wall Street Journal Tech",
+      "url": "https://feeds.a.dj.com/rss/RSSWSJD.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "Slashdot",
+      "url": "https://slashdot.org/rss/slashdot.rss",
+      "articles_found": 0
+    }
+  ],
   "articles": [
     {
-      "title": "Fotografia lunar amb l'iPhone: L'astronauta Reid Wiseman capta una imatge increïble de la superfície",
-      "link_id": "c_a6b4b9",
-      "source": "9to5Mac",
+      "title": "L'iPhone plegable d'Apple manté el llançament per al setembre, segons un informe",
+      "link_id": "c_1b130b",
+      "source": "TechCrunch",
       "date": "2026-04-07",
-      "time": "02:17",
-      "summary": "La tripulació de l'Artemis II ha superat el rècord de distància de l'Apollo 13 provant dispositius comercials a l'espai."
+      "time": "17:47",
+      "summary": "Malgrat els rumors de retards per problemes tècnics, la producció segueix el calendari previst per a la tardor."
     },
     {
-      "title": "Netflix llança una nova aplicació de jocs per a nens sense anuncis ni pagaments",
-      "link_id": "c_951025",
+      "title": "Artemis II captura un eclipsi i la posta de la Terra en el primer sobrevol lunar tripulat des de l'Apollo",
+      "link_id": "c_dd7411",
+      "source": "The Register",
+      "date": "2026-04-07",
+      "time": "15:53",
+      "summary": "La missió ha enviat imatges espectaculars de l'espai profund mentre la nau orbita la Lluna abans de tornar."
+    },
+    {
+      "title": "El Moto G Stylus (2026) finalment fa que el llapis sembli més poderós que el telèfon",
+      "link_id": "c_fe094b",
       "source": "Digital Trends",
-      "date": "2026-04-06",
-      "time": "22:47",
-      "summary": "Playground ofereix un entorn segur amb personatges populars, competint directament amb Apple Arcade pel públic familiar."
+      "date": "2026-04-07",
+      "time": "17:02",
+      "summary": "Aquest nou model de Motorola destaca per les millores intel·ligents integrades a l'estilet, superant les expectatives del dispositiu."
     },
     {
-      "title": "Informe: L'iPhone plegable d'Apple podria endarrerir-se per problemes d'enginyeria",
-      "link_id": "c_dc0762",
+      "title": "Spotify porta la generació de llistes de reproducció amb IA als pòdcasts",
+      "link_id": "c_7bc5cb",
+      "source": "CNET",
+      "date": "2026-04-07",
+      "time": "16:42",
+      "summary": "Els usuaris ara poden descobrir nous programes d'àudio utilitzant indicacions de text per crear seleccions totalment personalitzades."
+    },
+    {
+      "title": "Pots redissenyar la teva experiència a Google Chrome amb pestanyes verticals i lectura immersiva",
+      "link_id": "c_084d7f",
+      "source": "CNET",
+      "date": "2026-04-07",
+      "time": "17:00",
+      "summary": "Aquestes noves opcions de personalització permeten organitzar millor l'espai de navegació i reduir les distraccions visuals a la pantalla."
+    },
+    {
+      "title": "Anthropic amplia l'acord de computació amb Google i Broadcom davant l'augment de la demanda",
+      "link_id": "c_f720c0",
+      "source": "TechCrunch",
+      "date": "2026-04-07",
+      "time": "16:05",
+      "summary": "L'empresa d'intel·ligència artificial reforça la seva infraestructura tecnològica després d'assolir uns ingressos projectats de trenta mil milions de dòlars."
+    },
+    {
+      "title": "Google actualitza les mesures de protecció de salut mental de Gemini",
+      "link_id": "c_247783",
       "source": "Engadget",
       "date": "2026-04-07",
-      "time": "07:38",
-      "summary": "Foxconn n'ha iniciat la producció de prova, però els contratemps tècnics podrien posposar aquest llançament més enllà del 2026."
+      "time": "17:38",
+      "summary": "El xatbot incorpora un mòdul redissenyat que permet connectar ràpidament els usuaris en crisi amb línies d'ajuda reals."
     },
     {
-      "title": "Google acaba de llançar una nova aplicació de dictat que corregeix automàticament el que volies dir",
-      "link_id": "c_8b3f77",
-      "source": "Android Authority",
+      "title": "Adobe presenta un nou company d'estudi amb IA, just a temps per als exàmens finals",
+      "link_id": "c_4f43d4",
+      "source": "CNET",
       "date": "2026-04-07",
-      "time": "04:19",
-      "summary": "AI Edge Eloquent funciona sense connexió, elimina falques i desafia serveis de transcripció de pagament com Wispr Flow."
+      "time": "16:18",
+      "summary": "L'eina gratuïta Acrobat Student Spaces facilita la creació de guies, qüestionaris i resums multimèdia a partir dels teus apunts."
     },
     {
-      "title": "OpenAI impulsa polítiques per compensar l'impacte de la intel·ligència artificial",
-      "link_id": "c_8e6e5b",
-      "source": "Bloomberg Technology",
-      "date": "2026-04-06",
-      "time": "20:14",
-      "summary": "L'empresa proposa crear un fons de riquesa pública i impostos sobre el treball automatitzat per mitigar la disrupció econòmica."
-    },
-    {
-      "title": "Si Samsung llança un Galaxy S27 Pro, el nom per si sol no el salvarà",
-      "link_id": "c_393d9f",
-      "source": "Digital Trends",
-      "date": "2026-04-06",
-      "time": "18:21",
-      "summary": "Aquest quart model rumorejat inclouria especificacions de l'Ultra però ometria l'S Pen per captar un segment de mercat diferent."
-    },
-    {
-      "title": "Anthropic firma el seu major acord de computació amb Google i Broadcom mentre els ingressos assoleixen els 30.000 milions",
-      "link_id": "c_3d5e97",
-      "source": "The Next Web",
+      "title": "He provat la nova eina de millora amb IA de Google Photos: com retalla, il·lumina i arregla les fotos",
+      "link_id": "c_5380a9",
+      "source": "ZDNet",
       "date": "2026-04-07",
-      "time": "06:00",
-      "summary": "L'empresa d'IA utilitzarà 3,5 gigawatts de TPU de nova generació per escalar massivament les seves operacions i infraestructura."
+      "time": "15:16",
+      "summary": "Aquesta funció generativa global per a Android optimitza imatges a l'instant, tot i que encara presenta algunes limitacions tècniques."
     },
     {
-      "title": "L'Iran amenaça de destruir el centre de dades Stargate d'OpenAI de 30.000 milions a Abu Dhabi",
-      "link_id": "c_643a70",
-      "source": "The Next Web",
-      "date": "2026-04-06",
-      "time": "21:24",
-      "summary": "La Guàrdia Revolucionària Islàmica ha publicat un vídeo advertint d'atacs amb míssils contra instal·lacions tecnològiques vinculades als Estats Units."
-    },
-    {
-      "title": "Anthropic tanca la porta a l'ús d'OpenClaw mitjançant subscripció",
-      "link_id": "c_c45c65",
-      "source": "The Register",
-      "date": "2026-04-06",
-      "time": "19:37",
-      "summary": "L'alta demanda ha obligat l'empresa a bloquejar l'accés d'agents de tercers als usuaris de pagament per mantenir l'estabilitat."
-    },
-    {
-      "title": "La Play Store ara permet cercar ressenyes d'aplicacions d'Android, però elimina el filtre \"aquest model de dispositiu\"",
-      "link_id": "c_e9143a",
-      "source": "9to5Google",
-      "date": "2026-04-06",
-      "time": "18:15",
-      "summary": "Aquesta actualització ajuda els usuaris a trobar queixes o errors específics ràpidament, fent les valoracions molt més fiables."
+      "title": "Google llança una aplicació de dictat amb IA sense connexió per a iOS",
+      "link_id": "c_01c501",
+      "source": "CNET",
+      "date": "2026-04-07",
+      "time": "17:16",
+      "summary": "Aquesta eina transcriu la veu i n'elimina automàticament els dubtes i les falques per oferir un text més polit."
     }
   ]
 }

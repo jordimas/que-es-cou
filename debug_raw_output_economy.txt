@@ -1,24 +1,32 @@
 {
-  "generated_at": "2026-04-07T10:06",
+  "generated_at": "2024-05-24T18:30",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Les accions de Samsung pugen en preveure's que els beneficis es multipliquin per vuit per la IA",
+      "title": "Les accions de Broadcom pugen després de l'acord amb Google i Anthropic",
+      "link_id": "c_a46048",
+      "source": "CNBC Technology",
+      "date": "2026-04-07",
+      "time": "14:16",
+      "summary": "L'extensió de l'acord impulsa el valor del dissenyador de xips al mercat borsari."
+    },
+    {
+      "title": "Les accions de Samsung pugen en preveure's que els beneficis es multipliquin per vuit",
       "link_id": "c_70d640",
       "source": "CNBC Technology",
       "date": "2026-04-07",
-      "time": "03:58",
-      "summary": "Els resultats del primer trimestre superen àmpliament les expectatives gràcies a la forta demanda de xips de memòria."
+      "time": "09:09",
+      "summary": "La forta demanda de xips de memòria per a IA supera àmpliament les estimacions dels analistes."
     },
     {
-      "title": "Samsung preveu beneficis rècord gràcies a l'auge de la intel·ligència artificial",
+      "title": "Samsung preveu beneficis rècord gràcies a l'auge de la IA",
       "link_id": "c_ca8d01",
       "source": "Financial Times",
       "date": "2026-04-07",
       "time": "02:39",
-      "summary": "L'empresa supera l'augment dels costos energètics derivats del conflicte al Pròxim Orient amb uns ingressos trimestrals històrics."
+      "summary": "Els guanys es disparen malgrat l'augment dels costos energètics derivats del conflicte al Pròxim Orient."
     },
     {
       "title": "Anthropic tanca acords multimilionaris de xips amb Google i Broadcom",
@@ -26,7 +34,7 @@
       "source": "Financial Times",
       "date": "2026-04-07",
       "time": "00:46",
-      "summary": "La capacitat de computació de l'empresa emergent s'amplia mentre els seus ingressos anualitzats assoleixen els 30.000 milions de dòlars."
+      "summary": "L'empresa emergent d'IA assegura més capacitat informàtica mentre els seus ingressos anualitzats assoleixen els 30.000 milions."
     },
     {
       "title": "Broadcom acorda ampliar els contractes de xips amb Google i Anthropic",
@@ -34,7 +42,39 @@
       "source": "CNBC Technology",
       "date": "2026-04-07",
       "time": "00:22",
-      "summary": "El fabricant produirà les futures versions dels processadors d'intel·ligència artificial, consolidant la seva posició clau en el sector."
+      "summary": "El fabricant produirà les futures versions dels xips d'intel·ligència artificial per a aquests gegants tecnològics."
+    },
+    {
+      "title": "Les accions d'Apple cauen per informes de retards en l'iPhone plegable",
+      "link_id": "c_373f36",
+      "source": "CNBC Technology",
+      "date": "2026-04-07",
+      "time": "17:31",
+      "summary": "Els reptes d'enginyeria amenacen el llançament d'aquests nous telèfons previst per a finals d'aquest any."
+    },
+    {
+      "title": "Els equips d'AWS treballen sense descans per mantenir els serveis al Pròxim Orient després d'atacs amb drons",
+      "link_id": "c_74e8da",
+      "source": "CNBC Technology",
+      "date": "2026-04-07",
+      "time": "16:56",
+      "summary": "La guerra a l'Iran afecta els centres de dades d'Amazon, obligant a esforços continus per garantir-ne la disponibilitat."
+    },
+    {
+      "title": "Hackers militars russos desvien el trànsit dels usuaris d'internet britànics",
+      "link_id": "c_f452a7",
+      "source": "Financial Times",
+      "date": "2026-04-07",
+      "time": "16:54",
+      "summary": "El Centre Nacional de Ciberseguretat alerta que els encaminadors vulnerables permeten robar contrasenyes i dades d'accés."
+    },
+    {
+      "title": "Les accions d'ASML cauen per les propostes de restricció d'exportacions dels EUA cap a la Xina",
+      "link_id": "c_dbe886",
+      "source": "CNBC Technology",
+      "date": "2026-04-07",
+      "time": "10:26",
+      "summary": "Les noves limitacions nord-americanes afectarien les màquines de litografia DUV, fins ara accessibles per a les empreses xineses."
     },
     {
       "title": "Les grans discogràfiques i l'empresa emergent Suno s'estanquen en les negociacions sobre música generada per IA",
@@ -42,39 +82,7 @@
       "source": "Financial Times",
       "date": "2026-04-07",
       "time": "04:00",
-      "summary": "Les propostes actuals per arribar a un acord de llicència són inviables, segons afirmen directius del sector musical."
-    },
-    {
-      "title": "El nou laboratori de Jeff Bezos fitxa el cofundador de xAI provinent d'OpenAI",
-      "link_id": "c_bf61bb",
-      "source": "Financial Times",
-      "date": "2026-04-07",
-      "time": "04:00",
-      "summary": "Kyle Kosic s'incorpora al Projecte Prometheus per desenvolupar sistemes avançats capaços d'entendre el món físic."
-    },
-    {
-      "title": "Un rival de les ulleres intel·ligents de Meta rebutja posar 'una càmera a la cara'",
-      "link_id": "c_ae579c",
-      "source": "Financial Times",
-      "date": "2026-04-07",
-      "time": "04:00",
-      "summary": "L'empresa xinesa Even Realities es posiciona com una alternativa d'alta gamma que protegeix la privacitat dels usuaris."
-    },
-    {
-      "title": "El Regne Unit estudia avaluar els models d'IA utilitzats pels bancs",
-      "link_id": "c_f6d5a0",
-      "source": "Financial Times",
-      "date": "2026-04-07",
-      "time": "04:00",
-      "summary": "Una avaluació independent garantiria uns estàndards mínims de seguretat i fiabilitat en el sector financer britànic."
-    },
-    {
-      "title": "Esperances d'un acord EUA-Iran, l'aniversari d'Apple i el pacte de pòdcasts d'OpenAI al Morning Squawk",
-      "link_id": "c_6fc4e2",
-      "source": "CNBC Technology",
-      "date": "2026-04-06",
-      "time": "11:43",
-      "summary": "Un resum de les cinc claus principals que els inversors han de conèixer abans de començar la jornada borsària."
+      "summary": "Un executiu afirma que la proposta actual fa impossible arribar a un acord de llicència viable."
     }
   ]
 }
