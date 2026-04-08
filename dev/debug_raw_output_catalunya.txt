@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-04-07T11:45",
+  "generated_at": "2024-05-24T18:00",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
     {
       "name": "Ara.cat",
       "url": "https://www.ara.cat/rss/",
-      "articles_found": 0
+      "articles_found": 6
     },
     {
       "name": "El Periódico",
@@ -16,7 +16,7 @@
     {
       "name": "RAC1",
       "url": "https://www.rac1.cat/rss/home.xml",
-      "articles_found": 2
+      "articles_found": 3
     },
     {
       "name": "La Vanguardia (en català)",
@@ -36,7 +36,7 @@
     {
       "name": "324.cat",
       "url": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0",
-      "articles_found": 2
+      "articles_found": 4
     },
     {
       "name": "Softcatalà",
@@ -46,7 +46,7 @@
     {
       "name": "El Nacional.cat",
       "url": "https://www.elnacional.cat/uploads/feeds/feed_ca.xml",
-      "articles_found": 14
+      "articles_found": 8
     },
     {
       "name": "El Mon.cat",
@@ -66,7 +66,7 @@
     {
       "name": "Betevé",
       "url": "https://beteve.cat/feed/",
-      "articles_found": 1
+      "articles_found": 0
     },
     {
       "name": "El Punt Avui",
@@ -76,7 +76,7 @@
     {
       "name": "Segre",
       "url": "https://www.segre.com/ca/rss/home.xml",
-      "articles_found": 5
+      "articles_found": 3
     },
     {
       "name": "Regio7",
@@ -116,7 +116,7 @@
     {
       "name": "Cugat.cat",
       "url": "https://www.cugat.cat/feed/",
-      "articles_found": 0
+      "articles_found": 1
     },
     {
       "name": "CatalunyaPress",
@@ -126,7 +126,7 @@
     {
       "name": "Tot Barcelona",
       "url": "https://www.totbarcelona.cat/feed/",
-      "articles_found": 1
+      "articles_found": 0
     },
     {
       "name": "e-notícies",
@@ -156,7 +156,7 @@
     {
       "name": "MetaData",
       "url": "https://www.metadata.cat/sindica",
-      "articles_found": 2
+      "articles_found": 5
     },
     {
       "name": "El Temps",
@@ -166,12 +166,12 @@
     {
       "name": "Àpunt",
       "url": "https://www.apuntmedia.es/rss/",
-      "articles_found": 0
+      "articles_found": 1
     },
     {
       "name": "El Periòdic d'Ontinyent",
       "url": "https://www.elperiodicvalencia.com/?feed=rss2",
-      "articles_found": 2
+      "articles_found": 0
     },
     {
       "name": "Saó",
@@ -186,12 +186,12 @@
     {
       "name": "IB3 Notícies",
       "url": "https://ib3.org/feed/",
-      "articles_found": 1
+      "articles_found": 0
     },
     {
       "name": "Ara Balears",
       "url": "https://www.arabalears.cat/rss/",
-      "articles_found": 1
+      "articles_found": 0
     },
     {
       "name": "Manacor Comarcal",
@@ -201,7 +201,7 @@
     {
       "name": "Via Empresa",
       "url": "https://www.viaempresa.cat/uploads/feeds/feed_via-empresa-2024_ca.xml",
-      "articles_found": 3
+      "articles_found": 5
     },
     {
       "name": "Lúdica",
@@ -216,52 +216,36 @@
   ],
   "articles": [
     {
-      "title": "Artemis II completa la volta sencera a la Lluna i envia noves imatges de la seva enigmàtica cara oculta",
-      "link_id": "c_4ba8e8",
-      "source": "El Nacional.cat",
-      "date": "2026-04-07",
-      "time": "08:38",
-      "summary": "La nau Orion emprèn el viatge de tornada a la Terra després d'assolir una fita històrica d'exploració espacial."
+      "title": "El viatge de l’Artemis II a la Lluna ompli les xarxes de mems i imatges falses",
+      "link_id": "c_632d61",
+      "source": "Àpunt",
+      "date": "2026-04-08",
+      "time": "10:52",
+      "summary": "La intel·ligència artificial impulsa una onada de desinformació i humor gràfic arran de la històrica missió espacial."
     },
     {
-      "title": "El Govern destina 20 milions al desplegament de 4.000 punts de recàrrega de vehicles elèctrics",
-      "link_id": "c_2986c8",
+      "title": "FREC, intel·ligència artificial útil per a l'empresa catalana",
+      "link_id": "c_cccd5f",
       "source": "Via Empresa",
-      "date": "2026-04-06",
-      "time": "10:48",
-      "summary": "Aquesta inversió amb fons europeus busca pal·liar el dèficit d'infraestructures i impulsar la mobilitat sostenible a Catalunya."
+      "date": "2026-04-08",
+      "time": "13:38",
+      "summary": "Aquesta nova plataforma busca que els models tecnològics no només tradueixin, sinó que processin directament en llengua catalana."
     },
     {
-      "title": "Tall ferroviari entre Gràcia i Sarrià de FGC de l’11 al 23 d’agost per a renovar les vies",
-      "link_id": "c_6ecb05",
-      "source": "VilaWeb",
-      "date": "2026-04-07",
-      "time": "09:06",
-      "summary": "Les obres d'estiu obligaran els usuaris a utilitzar autobusos alternatius per garantir la mobilitat durant gairebé dues setmanes."
-    },
-    {
-      "title": "Neix Frec, la infraestructura oberta que vol portar el català al centre de la intel·ligència artificial",
-      "link_id": "c_09c785",
+      "title": "El mòbil es converteix en el teu DNI: el format digital ja és obligatori d’acceptar",
+      "link_id": "c_06bc9f",
       "source": "MetaData",
-      "date": "2026-04-07",
-      "time": "11:23",
-      "summary": "Aquesta nova plataforma tecnològica promou la sobirania digital permetent integrar serveis en la nostra llengua amb models avançats."
+      "date": "2026-04-08",
+      "time": "10:00",
+      "summary": "L'aplicació MiDNI facilita la identificació ciutadana en gestions diàries, complementant el document físic tradicional sense substituir-lo completament."
     },
     {
-      "title": "On em puc fer el DNI digital a Barcelona? Aquestes són les comissaries amb punts PAD",
-      "link_id": "c_2b9024",
-      "source": "Betevé",
-      "date": "2026-04-07",
-      "time": "11:10",
-      "summary": "El nou format mòbil té la mateixa validesa legal que el físic i requereix activació prèvia per utilitzar-lo."
-    },
-    {
-      "title": "La línia 1 i la línia 5 del metro de Barcelona incorporen un comboi extra en hora punta",
-      "link_id": "c_1faf42",
-      "source": "VilaWeb",
-      "date": "2026-04-07",
-      "time": "08:24",
-      "summary": "Tot i voler reduir el temps d'espera, molts passatgers encara no noten la millora en hores de màxima afluència."
+      "title": "DIGI ha caigut: per què no funciona?",
+      "link_id": "c_c30578",
+      "source": "El Nacional.cat",
+      "date": "2026-04-08",
+      "time": "13:21",
+      "summary": "Una incidència massiva deixa milers d'usuaris sense servei de telecomunicacions durant el matí, generant queixes generalitzades."
     },
     {
       "title": "Traducció al català en temps real amb auriculars: així funciona la nova eina de Google",
@@ -269,31 +253,47 @@
       "source": "El Periódico",
       "date": "2026-04-07",
       "time": "08:01",
-      "summary": "La funció 'Live Translate' facilita la comunicació internacional i els viatges, convertint els auriculars en intèrprets instantanis."
+      "summary": "La funció 'Live Translate' trenca barreres idiomàtiques, facilitant converses fluides tant en viatges d'oci com en entorns laborals internacionals."
     },
     {
-      "title": "Arbres MonumentCAT, la nova app per conèixer i visitar els arbres monumentals de Catalunya",
-      "link_id": "c_f67fde",
+      "title": "Aureli Soria-Frisch, neurocientífic: \"Podríem detectar l'alzheimer en fases primerenques amb un electroencefalograma de 15 minuts\"",
+      "link_id": "c_1dd20d",
+      "source": "RAC1",
+      "date": "2026-04-07",
+      "time": "17:21",
+      "summary": "Aquesta tecnologia no invasiva obre la porta a tractar depressions o rehabilitar ictus abans que els símptomes s'agreugin."
+    },
+    {
+      "title": "Drons autònoms en guerra: algoritmes que decideixen qui viu i qui mor",
+      "link_id": "c_3871b2",
+      "source": "324.cat",
+      "date": "2026-04-06",
+      "time": "14:05",
+      "summary": "El bloqueig de les potències mundials a l'ONU impedeix regular l'ús d'armes letals controlades per intel·ligència artificial."
+    },
+    {
+      "title": "Enxampen per primera vegada un aspirant al carnet de conduir copiant amb ulleres intel·ligents",
+      "link_id": "c_524176",
       "source": "324.cat",
       "date": "2026-04-07",
-      "time": "07:22",
-      "summary": "L'aplicació interactiva combina mapes i dades científiques per descobrir prop de tres-cents exemplars històrics arreu del territori."
+      "time": "21:16",
+      "summary": "L'infractor rebia les respostes de l'examen teòric a través d'un audiòfon connectat a un còmplice extern."
     },
     {
-      "title": "“Som els vostres cibersegurates contra tants ciberestafadors”",
-      "link_id": "c_c85bea",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-04-07",
-      "time": "06:15",
-      "summary": "La directora de l'Agència de Ciberseguretat de Catalunya alerta sobre la importància de protegir-se davant les creixents amenaces digitals."
+      "title": "Honda registra pèrdues per primer cop en 70 anys",
+      "link_id": "c_41a044",
+      "source": "Ara.cat",
+      "date": "2026-04-08",
+      "time": "07:00",
+      "summary": "La divisió automobilística pateix un daltabaix financer històric de 4.200 milions d'euros, forçant la direcció a prendre mesures dràstiques."
     },
     {
-      "title": "La IA reemplaçarà els radiòlegs a l'hospital més gran dels Estats Units",
-      "link_id": "c_eee2e3",
-      "source": "El Nacional.cat",
-      "date": "2026-04-07",
-      "time": "12:05",
-      "summary": "L'expansió de la intel·ligència artificial en l'àmbit sanitari obre el debat sobre l'automatització de diagnòstics mèdics complexos."
+      "title": "Catalunya frega els 12.000 punts de recàrrega de vehicles elèctrics el primer trimestre del 2026",
+      "link_id": "c_f9ba2d",
+      "source": "Via Empresa",
+      "date": "2026-04-08",
+      "time": "09:04",
+      "summary": "El territori lidera l'electromobilitat a l'Estat amb un creixement de l'11% respecte a l'any anterior, impulsant la transició verda."
     }
   ]
 }

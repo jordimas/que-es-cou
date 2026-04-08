@@ -1,88 +1,88 @@
 {
-  "generated_at": "2024-05-24T16:00",
+  "generated_at": "2024-05-24T18:00",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Les accions de Broadcom es disparen abans de l'obertura en acordar tractes amb Google i Anthropic",
+      "title": "Anthropic llança un model d'IA cibernètica dies després de la filtració del seu codi font",
+      "link_id": "c_091677",
+      "source": "Financial Times",
+      "date": "2026-04-08",
+      "time": "00:27",
+      "summary": "Claude Mythos s'ofereix a gegants tecnològics per detectar vulnerabilitats, malgrat els recents problemes de seguretat de l'empresa."
+    },
+    {
+      "title": "Anthropic limita el llançament de la IA Mythos per por que els pirates informàtics l'utilitzin per a ciberatacs",
+      "link_id": "c_d03726",
+      "source": "CNBC Technology",
+      "date": "2026-04-07",
+      "time": "19:52",
+      "summary": "El projecte Glasswing restringirà l'accés a aquesta potent eina només a socis de ciberseguretat de confiança."
+    },
+    {
+      "title": "Alibaba inaugura un centre de dades amb 10.000 xips propis mentre la Xina impulsa la IA",
+      "link_id": "c_8c9f58",
+      "source": "CNBC Technology",
+      "date": "2026-04-08",
+      "time": "11:23",
+      "summary": "La instal·lació, creada amb China Telecom, busca potenciar l'entrenament de models d'intel·ligència artificial al país asiàtic."
+    },
+    {
+      "title": "Les accions de Broadcom pugen un 6% després d'ampliar els acords amb Google i Anthropic",
       "link_id": "c_a46048",
       "source": "CNBC Technology",
-      "date": "2026-04-07",
-      "time": "10:30",
-      "summary": "L'empresa amplia la seva col·laboració per dissenyar xips d'intel·ligència artificial, impulsant el seu valor al mercat abans de l'obertura."
+      "date": "2026-04-08",
+      "time": "06:43",
+      "summary": "El fabricant de xips viu la seva segona millor jornada borsària de l'any gràcies a aquestes noves aliances estratègiques."
     },
     {
-      "title": "Anthropic tanca acords multimilionaris de xips amb Google i Broadcom",
-      "link_id": "c_2aaaa8",
+      "title": "Pirates informàtics militars russos desvien el trànsit dels usuaris d'internet britànics",
+      "link_id": "c_f452a7",
       "source": "Financial Times",
-      "date": "2026-04-07",
-      "time": "00:46",
-      "summary": "La start-up d'IA assegura més capacitat de computació mentre els seus ingressos anualitzats assoleixen els 30.000 milions de dòlars."
+      "date": "2026-04-08",
+      "time": "06:17",
+      "summary": "Les autoritats alerten que els encaminadors vulnerables permeten als atacants robar contrasenyes i dades d'accés fàcilment."
     },
     {
-      "title": "Broadcom acorda ampliar els contractes de xips amb Google i Anthropic",
-      "link_id": "c_b3eb52",
+      "title": "Els ingressos de Perplexity augmenten un 50% en pivotar de les cerques als agents d'IA",
+      "link_id": "c_cf97a0",
+      "source": "Financial Times",
+      "date": "2026-04-08",
+      "time": "04:00",
+      "summary": "L'empresa emergent de San Francisco aposta per serveis d'intel·ligència artificial més complexos i lucratius per créixer."
+    },
+    {
+      "title": "El conseller delegat de Google afirma que el canvi cap a la IA obre oportunitats d'inversió",
+      "link_id": "c_4dede9",
       "source": "CNBC Technology",
       "date": "2026-04-07",
-      "time": "00:22",
-      "summary": "El fabricant produirà futures versions de processadors d'intel·ligència artificial per a Google i reforçarà la seva aliança amb Anthropic."
+      "time": "23:37",
+      "summary": "Alphabet aprofita aquesta transició tecnològica per finançar empreses privades d'alt valor com Anthropic, SpaceX i Stripe."
     },
     {
-      "title": "Les accions de Samsung pugen en preveure multiplicar per vuit els beneficis per l'auge dels xips d'IA",
-      "link_id": "c_70d640",
+      "title": "Elon Musk demana la destitució del conseller delegat d'OpenAI, Sam Altman, en la seva demanda",
+      "link_id": "c_e74e3f",
       "source": "CNBC Technology",
       "date": "2026-04-07",
-      "time": "09:09",
-      "summary": "La forta demanda de xips de memòria per a IA impulsa els guanys operatius del primer trimestre a nivells rècord."
+      "time": "23:34",
+      "summary": "El magnat també exigeix apartar el president Greg Brockman dels seus càrrecs directius mitjançant aquesta acció legal."
     },
     {
-      "title": "Samsung preveu beneficis rècord gràcies a l'auge de la IA",
-      "link_id": "c_ca8d01",
-      "source": "Financial Times",
-      "date": "2026-04-07",
-      "time": "02:39",
-      "summary": "Els guanys es disparen malgrat l'augment dels costos energètics derivats del conflicte al Pròxim Orient."
-    },
-    {
-      "title": "Les accions d'ASML cauen per les propostes de restricció d'exportacions dels EUA cap al fràgil mercat xinès",
-      "link_id": "c_dbe886",
+      "title": "Les accions d'Apple s'enfonsen per informes sobre retards en l'iPhone plegable",
+      "link_id": "c_373f36",
       "source": "CNBC Technology",
       "date": "2026-04-07",
-      "time": "10:26",
-      "summary": "Les limitacions nord-americanes afectarien les màquines de litografia DUV, un equipament clau al qual les empreses xineses tenien accés."
+      "time": "21:28",
+      "summary": "Els reptes d'enginyeria amenacen el llançament d'aquests nous telèfons, previst inicialment per a finals d'aquest any."
     },
     {
-      "title": "Les grans discogràfiques i la start-up Suno s'estanquen en les negociacions sobre música generada per IA",
-      "link_id": "c_2b189d",
-      "source": "Financial Times",
+      "title": "Els equips d'AWS treballen sense descans per mantenir els serveis al Pròxim Orient després d'atacs amb drons",
+      "link_id": "c_74e8da",
+      "source": "CNBC Technology",
       "date": "2026-04-07",
-      "time": "04:00",
-      "summary": "Un executiu afirma que no hi ha cap via possible per a un acord de llicència amb la proposta actual."
-    },
-    {
-      "title": "El Projecte Prometheus de Bezos fitxa el cofundador de xAI provinent d'OpenAI",
-      "link_id": "c_bf61bb",
-      "source": "Financial Times",
-      "date": "2026-04-07",
-      "time": "04:00",
-      "summary": "Kyle Kosic s'uneix a la misteriosa start-up que desenvolupa sistemes capaços d'entendre i interactuar amb el món físic."
-    },
-    {
-      "title": "Un rival de les ulleres intel·ligents de Meta rebutja portar «una càmera a la cara»",
-      "link_id": "c_ae579c",
-      "source": "Financial Times",
-      "date": "2026-04-07",
-      "time": "04:00",
-      "summary": "L'empresa xinesa Even Realities es presenta com una alternativa d'alta gamma que protegeix la privacitat i no recopila dades."
-    },
-    {
-      "title": "El Regne Unit estudia avaluar els models d'IA utilitzats pels bancs",
-      "link_id": "c_f6d5a0",
-      "source": "Financial Times",
-      "date": "2026-04-07",
-      "time": "04:00",
-      "summary": "Un directiu de Starling Bank proposa auditories independents per garantir que la tecnologia compleixi uns estàndards mínims de seguretat."
+      "time": "20:16",
+      "summary": "La guerra a l'Iran ha afectat els centres de dades d'Amazon, obligant a esforços continus per garantir-ne la disponibilitat."
     }
   ]
 }

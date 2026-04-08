@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-04-07T13:43",
+  "generated_at": "2026-04-08T13:44",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Un astronauta de l'Artemis II deixa en evidència les nostres fotos de la Lluna amb l'iPhone",
-      "link_id": "c_c06e8c",
-      "source": "Engadget",
+      "title": "L'iPhone plegable d'Apple manté el llançament per al setembre, segons un informe",
+      "link_id": "c_1b130b",
+      "source": "TechCrunch",
       "date": "2026-04-07",
-      "time": "09:37",
-      "summary": "Reid Wiseman ha capturat imatges espectaculars de la superfície lunar amb un iPhone 17 Pro Max durant la missió."
+      "time": "17:47",
+      "summary": "Malgrat els rumors de retards per problemes tècnics, s'espera que el nou dispositiu arribi a la tardor."
     },
     {
-      "title": "Apareix una maqueta del nou iPhone plegable enmig de rumors de retard",
-      "link_id": "c_dc2f70",
+      "title": "Anthropic presenta el potent model d'IA Mythos en una nova iniciativa de ciberseguretat",
+      "link_id": "c_ddc7a1",
+      "source": "TechCrunch",
+      "date": "2026-04-07",
+      "time": "18:00",
+      "summary": "Aquest model avançat s'utilitzarà de manera restringida per ajudar grans empreses a detectar i defensar-se de vulnerabilitats."
+    },
+    {
+      "title": "Les impressionants vistes de la cara oculta de la Lluna de l'Artemis II",
+      "link_id": "c_ff091c",
+      "source": "Wired",
+      "date": "2026-04-07",
+      "time": "18:34",
+      "summary": "La tripulació ha capturat imatges històriques a només 7.000 km de la superfície lunar, batent rècords de distància."
+    },
+    {
+      "title": "Intel s'uneix al projecte de xips Terafab d'Elon Musk",
+      "link_id": "c_590cde",
+      "source": "TechCrunch",
+      "date": "2026-04-07",
+      "time": "18:10",
+      "summary": "El fabricant de semiconductors col·laborarà amb SpaceX i Tesla per construir una nova fàbrica massiva a Texas."
+    },
+    {
+      "title": "Chrome finalment afegeix una millor manera de gestionar massa pestanyes obertes",
+      "link_id": "c_d93b8b",
+      "source": "TechCrunch",
+      "date": "2026-04-07",
+      "time": "17:00",
+      "summary": "L'última actualització del navegador de Google incorpora pestanyes verticals i un mode de lectura més net."
+    },
+    {
+      "title": "Hackers del govern rus ataquen milers d'encaminadors domèstics per robar contrasenyes",
+      "link_id": "c_fcf4f5",
+      "source": "TechCrunch",
+      "date": "2026-04-07",
+      "time": "17:01",
+      "summary": "El grup APT28 ha pres el control de dispositius residencials en una àmplia operació d'espionatge i robatori d'identitat."
+    },
+    {
+      "title": "Hackers iranians ataquen infraestructures crítiques nord-americanes, adverteixen les agències",
+      "link_id": "c_e080da",
+      "source": "TechCrunch",
+      "date": "2026-04-07",
+      "time": "19:59",
+      "summary": "L'FBI i la CISA alerten d'una escalada de tàctiques cibernètiques en resposta al conflicte entre Israel i l'Iran."
+    },
+    {
+      "title": "Les llistes de reproducció intel·ligents de Spotify ara t'ajuden a descobrir pòdcasts",
+      "link_id": "c_524e0e",
       "source": "The Verge",
       "date": "2026-04-07",
-      "time": "07:27",
-      "summary": "S'han filtrat imatges d'un prototip ample de l'iPhone Fold, mentre s'especula que la seva producció podria endarrerir-se."
+      "time": "16:13",
+      "summary": "La funció basada en IA permet als usuaris generar recomanacions personalitzades de programes utilitzant llenguatge natural."
     },
     {
-      "title": "Netflix llança Playground, una aplicació de jocs independent per a nens de fins a vuit anys",
-      "link_id": "c_a0a21f",
-      "source": "The Next Web",
-      "date": "2026-04-06",
-      "time": "21:38",
-      "summary": "La nova plataforma ofereix jocs sense anuncis ni compres integrades, competint directament amb Apple Arcade en l'entreteniment infantil."
-    },
-    {
-      "title": "Google acaba de llançar una aplicació de dictat que corregeix automàticament el que volies dir",
-      "link_id": "c_8b3f77",
-      "source": "Android Authority",
-      "date": "2026-04-07",
-      "time": "04:19",
-      "summary": "Google AI Edge Eloquent funciona sense connexió, transcriu en temps real i elimina les falques de la parla gratuïtament."
-    },
-    {
-      "title": "Anthropic tanca la porta a l'ús d'OpenClaw mitjançant subscripció",
-      "link_id": "c_c45c65",
-      "source": "The Register",
-      "date": "2026-04-06",
-      "time": "19:37",
-      "summary": "L'empresa ha bloquejat l'accés a aquesta eina de tercers per als usuaris de pagament per gestionar l'alta demanda."
-    },
-    {
-      "title": "Broadcom subministrarà a Anthropic 3,5 gigawatts de capacitat TPU de Google a partir del 2027",
-      "link_id": "c_83bbd5",
-      "source": "Tom's Hardware",
-      "date": "2026-04-07",
+      "title": "Apple obté la pitjor puntuació en reparabilitat d'iPhones i MacBooks",
+      "link_id": "c_ac1ea8",
+      "source": "9to5Mac",
+      "date": "2026-04-08",
       "time": "11:26",
-      "summary": "L'empresa d'intel·ligència artificial ha superat els 30.000 milions de dòlars d'ingressos anuals i consolida la seva infraestructura tecnològica."
+      "summary": "Un nou informe europeu suspèn els dispositius de la companyia, tot i que el MacBook Neo n'és l'excepció."
     },
     {
-      "title": "La Play Store ara permet cercar ressenyes d'aplicacions d'Android, però elimina el filtre per model de dispositiu",
-      "link_id": "c_e9143a",
-      "source": "9to5Google",
-      "date": "2026-04-06",
-      "time": "18:15",
-      "summary": "Google facilita trobar queixes o errors específics a les valoracions, tot i que sacrifica una opció de filtratge útil."
-    },
-    {
-      "title": "L'Iran amenaça de destruir el centre de dades Stargate d'OpenAI de 30.000 milions a Abu Dhabi",
-      "link_id": "c_643a70",
-      "source": "The Next Web",
-      "date": "2026-04-06",
-      "time": "21:24",
-      "summary": "La Guàrdia Revolucionària adverteix amb atacs a aquesta infraestructura si els Estats Units ataquen instal·lacions civils iranianes."
-    },
-    {
-      "title": "Apple es prepara per a una altra ronda al Tribunal Suprem en la saga d'Epic Games",
-      "link_id": "c_e456dc",
-      "source": "9to5Mac",
-      "date": "2026-04-06",
-      "time": "20:49",
-      "summary": "La companyia demana revisar les restriccions sobre les comissions de l'App Store en el seu llarg litigi legal."
-    },
-    {
-      "title": "Una demanda col·lectiva acusa Apple d'extreure milions de vídeos de YouTube per entrenar IA",
-      "link_id": "c_59abcd",
-      "source": "9to5Mac",
-      "date": "2026-04-06",
-      "time": "22:57",
-      "summary": "Tres creadors de contingut afirmen que l'empresa va eludir els drets d'autor per alimentar els seus models d'intel·ligència artificial."
+      "title": "WhatsApp afegeix una interfície nativa i millorada per a CarPlay",
+      "link_id": "c_80ada5",
+      "source": "Engadget",
+      "date": "2026-04-08",
+      "time": "11:21",
+      "summary": "La nova versió de l'aplicació de missatgeria ofereix una integració completa, superant les limitacions anteriors basades en Siri."
     }
   ]
 }
