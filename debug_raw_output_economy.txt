@@ -1,24 +1,80 @@
 {
-  "generated_at": "2024-05-24T18:45",
+  "generated_at": "2026-04-08T18:05",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Anthropic llança un model d'IA cibernètica dies després de la filtració del seu codi font",
+      "title": "Anthropic dona el vistiplau de la IA a les nostres accions cibernètiques i grans tecnològiques",
+      "link_id": "c_8aed5f",
+      "source": "CNBC Technology",
+      "date": "2026-04-08",
+      "time": "16:02",
+      "summary": "Aquest anunci ha impulsat el mercat, aportant optimisme als inversors en lloc de les habituals vendes massives del sector."
+    },
+    {
+      "title": "Anthropic llança un model d'IA cibernètica dies després de la filtració del codi font",
       "link_id": "c_091677",
       "source": "Financial Times",
       "date": "2026-04-08",
       "time": "00:27",
-      "summary": "Claude Mythos s'ofereix a gegants tecnològics per detectar vulnerabilitats de programari ocultes i millorar la seguretat."
+      "summary": "Claude Mythos s'ofereix a gegants tecnològics per identificar vulnerabilitats de programari, reforçant la seguretat davant possibles atacs."
     },
     {
-      "title": "Anthropic limita el llançament de la IA Mythos per por que els pirates informàtics l'utilitzin",
+      "title": "Anthropic limita el llançament de la IA Mythos per por que els furoners l'utilitzin per a ciberatacs",
       "link_id": "c_d03726",
       "source": "CNBC Technology",
       "date": "2026-04-07",
       "time": "19:52",
-      "summary": "El model s'integrarà en la iniciativa Project Glasswing amb diverses empreses per evitar atacs cibernètics."
+      "summary": "El model es restringirà a socis de confiança dins del Projecte Glasswing per evitar un ús malintencionat."
+    },
+    {
+      "title": "Meta estrena un nou model d'IA per atrapar Google i OpenAI després d'invertir milers de milions",
+      "link_id": "c_4a1f0c",
+      "source": "CNBC Technology",
+      "date": "2026-04-08",
+      "time": "17:01",
+      "summary": "Muse Spark, liderat per Alexandr Wang, busca rendibilitzar les enormes inversions de la companyia en aplicacions de xarxes socials."
+    },
+    {
+      "title": "Meta llança el primer model d'IA des de la gran inversió de Zuckerberg",
+      "link_id": "c_f8d73a",
+      "source": "Financial Times",
+      "date": "2026-04-08",
+      "time": "16:55",
+      "summary": "Aquest llançament pretén calmar els inversors, demostrant l'aplicabilitat pràctica de la intel·ligència artificial en les seves plataformes socials."
+    },
+    {
+      "title": "La directiva d'eines per a desenvolupadors de Microsoft, Julia Liuson, es jubila després de 34 anys",
+      "link_id": "c_6762d2",
+      "source": "CNBC Technology",
+      "date": "2026-04-08",
+      "time": "17:14",
+      "summary": "La seva marxa tanca una etapa, deixant un buit important en el lideratge de l'equip de GitHub."
+    },
+    {
+      "title": "Per què els catastrofistes del \"SaaSpocalypse\" s'equivoquen",
+      "link_id": "c_95afbe",
+      "source": "Financial Times",
+      "date": "2026-04-08",
+      "time": "16:04",
+      "summary": "Les transicions tecnològiques sempre generen dificultats inicials, però històricament desemboquen en beneficis sòlids i creixement a llarg termini."
+    },
+    {
+      "title": "Alibaba obre un centre de dades amb 10.000 xips propis mentre la Xina impulsa la IA",
+      "link_id": "c_8c9f58",
+      "source": "CNBC Technology",
+      "date": "2026-04-08",
+      "time": "13:06",
+      "summary": "La instal·lació, creada amb China Telecom, reforça la independència tecnològica del país per a l'entrenament de models avançats."
+    },
+    {
+      "title": "El proper coll d'ampolla de la IA: per què els millors xips dels EUA viatgen a Taiwan",
+      "link_id": "c_d28f8b",
+      "source": "CNBC Technology",
+      "date": "2026-04-08",
+      "time": "12:41",
+      "summary": "L'empaquetatge avançat de TSMC, acaparat per Nvidia, podria frenar la producció global i limitar l'expansió de la intel·ligència artificial."
     },
     {
       "title": "Les accions tecnològiques asiàtiques es disparen per l'alto el foc entre els EUA i l'Iran",
@@ -26,63 +82,7 @@
       "source": "CNBC Technology",
       "date": "2026-04-08",
       "time": "06:47",
-      "summary": "L'acord temporal de dues setmanes alleuja els temors d'interrupcions a l'estret d'Ormuz, impulsant els fabricants de semiconductors."
-    },
-    {
-      "title": "Les accions de Broadcom pugen un 6% després d'ampliar els acords amb Google i Anthropic",
-      "link_id": "c_a46048",
-      "source": "CNBC Technology",
-      "date": "2026-04-08",
-      "time": "06:43",
-      "summary": "El fabricant de xips viu la seva segona millor jornada de l'any gràcies a aquestes noves aliances estratègiques."
-    },
-    {
-      "title": "Els pirates informàtics militars russos desvien el trànsit dels usuaris d'internet britànics",
-      "link_id": "c_f452a7",
-      "source": "Financial Times",
-      "date": "2026-04-08",
-      "time": "06:17",
-      "summary": "El Centre Nacional de Ciberseguretat adverteix que els encaminadors vulnerables permeten robar contrasenyes i dades d'accés."
-    },
-    {
-      "title": "Els ingressos de Perplexity augmenten un 50% en passar de les cerques als agents d'IA",
-      "link_id": "c_cf97a0",
-      "source": "Financial Times",
-      "date": "2026-04-08",
-      "time": "04:00",
-      "summary": "L'empresa emergent de San Francisco aposta per serveis d'intel·ligència artificial més complexos i potencialment més lucratius."
-    },
-    {
-      "title": "Sundar Pichai, CEO de Google, afirma que la IA obre oportunitats per invertir en startups",
-      "link_id": "c_4dede9",
-      "source": "CNBC Technology",
-      "date": "2026-04-07",
-      "time": "23:37",
-      "summary": "Alphabet ja inverteix en empreses privades d'alta valoració com SpaceX, Anthropic i Stripe per diversificar-se."
-    },
-    {
-      "title": "Elon Musk demana la destitució del CEO d'OpenAI, Sam Altman, en una demanda",
-      "link_id": "c_e74e3f",
-      "source": "CNBC Technology",
-      "date": "2026-04-07",
-      "time": "23:34",
-      "summary": "El magnat també exigeix apartar el president Greg Brockman dels seus càrrecs directius a l'empresa."
-    },
-    {
-      "title": "Les accions d'Apple cauen per informes de retards en l'iPhone plegable",
-      "link_id": "c_373f36",
-      "source": "CNBC Technology",
-      "date": "2026-04-07",
-      "time": "21:28",
-      "summary": "L'empresa s'enfronta a reptes d'enginyeria que podrien posposar el llançament d'aquests telèfons previst per a enguany."
-    },
-    {
-      "title": "Els equips d'AWS treballen sense descans per mantenir els serveis al Pròxim Orient després d'atacs",
-      "link_id": "c_74e8da",
-      "source": "CNBC Technology",
-      "date": "2026-04-07",
-      "time": "20:16",
-      "summary": "La guerra amb l'Iran ha afectat els centres de dades d'Amazon, obligant a esforços continus per garantir-ne la disponibilitat."
+      "summary": "L'acord temporal de dues setmanes alleuja els temors d'interrupcions comercials a l'estret d'Ormuz, impulsant fortament els fabricants de semiconductors."
     }
   ]
 }
