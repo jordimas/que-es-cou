@@ -1,88 +1,88 @@
 {
-  "generated_at": "2024-05-24T18:30",
+  "generated_at": "2024-05-24T18:45",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Les accions de Broadcom pugen després de l'acord amb Google i Anthropic",
+      "title": "Anthropic llança un model d'IA cibernètica dies després de la filtració del seu codi font",
+      "link_id": "c_091677",
+      "source": "Financial Times",
+      "date": "2026-04-08",
+      "time": "00:27",
+      "summary": "Claude Mythos s'ofereix a gegants tecnològics per detectar vulnerabilitats de programari ocultes i millorar la seguretat."
+    },
+    {
+      "title": "Anthropic limita el llançament de la IA Mythos per por que els pirates informàtics l'utilitzin",
+      "link_id": "c_d03726",
+      "source": "CNBC Technology",
+      "date": "2026-04-07",
+      "time": "19:52",
+      "summary": "El model s'integrarà en la iniciativa Project Glasswing amb diverses empreses per evitar atacs cibernètics."
+    },
+    {
+      "title": "Les accions tecnològiques asiàtiques es disparen per l'alto el foc entre els EUA i l'Iran",
+      "link_id": "c_614cfa",
+      "source": "CNBC Technology",
+      "date": "2026-04-08",
+      "time": "06:47",
+      "summary": "L'acord temporal de dues setmanes alleuja els temors d'interrupcions a l'estret d'Ormuz, impulsant els fabricants de semiconductors."
+    },
+    {
+      "title": "Les accions de Broadcom pugen un 6% després d'ampliar els acords amb Google i Anthropic",
       "link_id": "c_a46048",
       "source": "CNBC Technology",
-      "date": "2026-04-07",
-      "time": "14:16",
-      "summary": "L'extensió de l'acord impulsa el valor del dissenyador de xips al mercat borsari."
+      "date": "2026-04-08",
+      "time": "06:43",
+      "summary": "El fabricant de xips viu la seva segona millor jornada de l'any gràcies a aquestes noves aliances estratègiques."
     },
     {
-      "title": "Les accions de Samsung pugen en preveure's que els beneficis es multipliquin per vuit",
-      "link_id": "c_70d640",
+      "title": "Els pirates informàtics militars russos desvien el trànsit dels usuaris d'internet britànics",
+      "link_id": "c_f452a7",
+      "source": "Financial Times",
+      "date": "2026-04-08",
+      "time": "06:17",
+      "summary": "El Centre Nacional de Ciberseguretat adverteix que els encaminadors vulnerables permeten robar contrasenyes i dades d'accés."
+    },
+    {
+      "title": "Els ingressos de Perplexity augmenten un 50% en passar de les cerques als agents d'IA",
+      "link_id": "c_cf97a0",
+      "source": "Financial Times",
+      "date": "2026-04-08",
+      "time": "04:00",
+      "summary": "L'empresa emergent de San Francisco aposta per serveis d'intel·ligència artificial més complexos i potencialment més lucratius."
+    },
+    {
+      "title": "Sundar Pichai, CEO de Google, afirma que la IA obre oportunitats per invertir en startups",
+      "link_id": "c_4dede9",
       "source": "CNBC Technology",
       "date": "2026-04-07",
-      "time": "09:09",
-      "summary": "La forta demanda de xips de memòria per a IA supera àmpliament les estimacions dels analistes."
+      "time": "23:37",
+      "summary": "Alphabet ja inverteix en empreses privades d'alta valoració com SpaceX, Anthropic i Stripe per diversificar-se."
     },
     {
-      "title": "Samsung preveu beneficis rècord gràcies a l'auge de la IA",
-      "link_id": "c_ca8d01",
-      "source": "Financial Times",
-      "date": "2026-04-07",
-      "time": "02:39",
-      "summary": "Els guanys es disparen malgrat l'augment dels costos energètics derivats del conflicte al Pròxim Orient."
-    },
-    {
-      "title": "Anthropic tanca acords multimilionaris de xips amb Google i Broadcom",
-      "link_id": "c_2aaaa8",
-      "source": "Financial Times",
-      "date": "2026-04-07",
-      "time": "00:46",
-      "summary": "L'empresa emergent d'IA assegura més capacitat informàtica mentre els seus ingressos anualitzats assoleixen els 30.000 milions."
-    },
-    {
-      "title": "Broadcom acorda ampliar els contractes de xips amb Google i Anthropic",
-      "link_id": "c_b3eb52",
+      "title": "Elon Musk demana la destitució del CEO d'OpenAI, Sam Altman, en una demanda",
+      "link_id": "c_e74e3f",
       "source": "CNBC Technology",
       "date": "2026-04-07",
-      "time": "00:22",
-      "summary": "El fabricant produirà les futures versions dels xips d'intel·ligència artificial per a aquests gegants tecnològics."
+      "time": "23:34",
+      "summary": "El magnat també exigeix apartar el president Greg Brockman dels seus càrrecs directius a l'empresa."
     },
     {
       "title": "Les accions d'Apple cauen per informes de retards en l'iPhone plegable",
       "link_id": "c_373f36",
       "source": "CNBC Technology",
       "date": "2026-04-07",
-      "time": "17:31",
-      "summary": "Els reptes d'enginyeria amenacen el llançament d'aquests nous telèfons previst per a finals d'aquest any."
+      "time": "21:28",
+      "summary": "L'empresa s'enfronta a reptes d'enginyeria que podrien posposar el llançament d'aquests telèfons previst per a enguany."
     },
     {
-      "title": "Els equips d'AWS treballen sense descans per mantenir els serveis al Pròxim Orient després d'atacs amb drons",
+      "title": "Els equips d'AWS treballen sense descans per mantenir els serveis al Pròxim Orient després d'atacs",
       "link_id": "c_74e8da",
       "source": "CNBC Technology",
       "date": "2026-04-07",
-      "time": "16:56",
-      "summary": "La guerra a l'Iran afecta els centres de dades d'Amazon, obligant a esforços continus per garantir-ne la disponibilitat."
-    },
-    {
-      "title": "Hackers militars russos desvien el trànsit dels usuaris d'internet britànics",
-      "link_id": "c_f452a7",
-      "source": "Financial Times",
-      "date": "2026-04-07",
-      "time": "16:54",
-      "summary": "El Centre Nacional de Ciberseguretat alerta que els encaminadors vulnerables permeten robar contrasenyes i dades d'accés."
-    },
-    {
-      "title": "Les accions d'ASML cauen per les propostes de restricció d'exportacions dels EUA cap a la Xina",
-      "link_id": "c_dbe886",
-      "source": "CNBC Technology",
-      "date": "2026-04-07",
-      "time": "10:26",
-      "summary": "Les noves limitacions nord-americanes afectarien les màquines de litografia DUV, fins ara accessibles per a les empreses xineses."
-    },
-    {
-      "title": "Les grans discogràfiques i l'empresa emergent Suno s'estanquen en les negociacions sobre música generada per IA",
-      "link_id": "c_2b189d",
-      "source": "Financial Times",
-      "date": "2026-04-07",
-      "time": "04:00",
-      "summary": "Un executiu afirma que la proposta actual fa impossible arribar a un acord de llicència viable."
+      "time": "20:16",
+      "summary": "La guerra amb l'Iran ha afectat els centres de dades d'Amazon, obligant a esforços continus per garantir-ne la disponibilitat."
     }
   ]
 }

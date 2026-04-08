@@ -1,5 +1,5 @@
 {
-  "generated_at": "2024-05-24T15:00",
+  "generated_at": "2024-05-24T16:00",
   "id": "podcasts",
   "title": "Podcasts en català sobre tecnologia",
   "sources_checked": [],
@@ -10,7 +10,7 @@
       "source": "Mossega la poma",
       "date": "2026-03-30",
       "time": "10:32",
-      "summary": "Anàlisi de com plataformes digitals com iVoox prioritzen el negoci i la monetització per sobre de l'experiència de l'usuari."
+      "summary": "Anàlisi de com les plataformes digitals prioritzen el negoci per sobre de l'usuari, perdent el control dels creadors."
     },
     {
       "title": "L' Altra Ràdio - L'ONU i els drets de les dones a la societat i en el sector tecnològic",
@@ -26,7 +26,7 @@
       "source": "L'altra ràdio",
       "date": "2026-03-26",
       "time": "08:33",
-      "summary": "Presentació de Signària, una eina innovadora que permet a persones sordes fer ràdio mitjançant veus sintètiques personalitzades."
+      "summary": "Presentació de Signària, una eina innovadora amb veu sintètica que permet a persones sordes crear contingut radiofònic."
     },
     {
       "title": "El gòTIC - Tenim una missió! del 25/3/2026",
@@ -34,7 +34,7 @@
       "source": "El Gòtic",
       "date": "2026-03-24",
       "time": "17:29",
-      "summary": "El gòTIC de Tàrrega comparteix recursos i estratègies per afrontar els reptes actuals de la ciutadania digital."
+      "summary": "Estratègies i recursos compartits per afrontar els reptes i inquietuds actuals de la ciutadania en l'entorn digital."
     },
     {
       "title": "El futur de la premsa, de l'educació i el problema de l'accès a les dades obertes",
@@ -42,7 +42,7 @@
       "source": "Internet amb Genís Roca",
       "date": "2026-03-29",
       "time": "02:37",
-      "summary": "Reflexió sobre els reptes del periodisme, l'ensenyament i les dificultats per accedir a la informació pública."
+      "summary": "Reflexió sobre els reptes del periodisme, l'ensenyament i les barreres actuals per accedir a la informació pública."
     },
     {
       "title": "El futur de la premsa, de l'educació i el problema de l'accès a les dades obertes",
@@ -50,7 +50,7 @@
       "source": "Internet amb Genís Roca",
       "date": "2026-03-28",
       "time": "19:14",
-      "summary": "Debat profund sobre la transformació dels mitjans, el sistema educatiu i els obstacles de les dades obertes."
+      "summary": "Debat profund sobre la transformació dels mitjans, el sistema educatiu i la transparència de les dades obertes."
     },
     {
       "title": "Tancat amb Claude",
@@ -58,7 +58,7 @@
       "source": "Foc a Terra",
       "date": "2026-04-06",
       "time": "04:00",
-      "summary": "Descobreix Factory Floor, una aplicació nativa per a macOS dissenyada per optimitzar el treball amb Claude Code."
+      "summary": "Descobrim Factory Floor, una aplicació nativa per a macOS dissenyada per optimitzar el treball amb Claude Code."
     },
     {
       "title": "La gamificació de la renda",
@@ -66,7 +66,7 @@
       "source": "Foc a Terra",
       "date": "2026-03-30",
       "time": "04:00",
-      "summary": "Repàs sobre subvencions.cat, l'impacte del vibecoding i una curiosa proposta per gamificar la declaració de la renda."
+      "summary": "Repàs sobre subvencions.cat, l'impacte del vibecoding i una aproximació lúdica a la declaració d'impostos."
     },
     {
       "title": "No tenim pas res enllestit per a WordPress 7.0",
@@ -74,7 +74,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-04-07",
       "time": "00:00",
-      "summary": "Després de les versions candidates, sorgeixen dubtes i replantejaments que podrien endarrerir el llançament de WordPress 7.0."
+      "summary": "Retards inesperats en el llançament de la nova versió del gestor de continguts després de publicar les candidates."
     },
     {
       "title": "Tot a punt per a la versió WordPress 7.0",
@@ -82,15 +82,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-03-31",
       "time": "00:00",
-      "summary": "La nova versió del gestor de continguts entra a la recta final centrant-se a polir petits detalls."
-    },
-    {
-      "title": "WordPress 7.0 beta 6",
-      "link_id": "c_968f15",
-      "source": "WordPress Pòdcast",
-      "date": "2026-03-24",
-      "time": "00:00",
-      "summary": "El desenvolupament continua en fase beta per validar la mida d'instal·lació i el nou sistema de temps real."
+      "summary": "La plataforma entra en la fase final de desenvolupament, centrant-se a polir els últims detalls abans del llançament."
     },
     {
       "title": "Capítol 62: Mitiga, invertir pensant en el risc climàtic",
@@ -98,15 +90,7 @@
       "source": "RAC&GO",
       "date": "2026-04-07",
       "time": "06:00",
-      "summary": "L'emprenedor Àlex Martí presenta Mitiga, una eina per ajudar les empreses a avaluar riscos climàtics abans d'invertir."
-    },
-    {
-      "title": "Capítol 61: Niddo, la solució a la logística familiar de parelles separades",
-      "link_id": "c_5b3fca",
-      "source": "RAC&GO",
-      "date": "2026-03-24",
-      "time": "07:00",
-      "summary": "Una nova aplicació busca reduir l'estrès de la conciliació familiar organitzant despeses i tasques per a pares separats."
+      "summary": "L'emprenedor Àlex Martí presenta una solució per ajudar les empreses a avaluar l'impacte climàtic en les seves inversions."
     }
   ]
 }

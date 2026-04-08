@@ -1,50 +1,64 @@
 {
-  "generated_at": "2026-04-07T19:56",
+  "generated_at": "2026-04-08T10:07",
   "id": "world",
   "title": "Notícies tecnològiques del món",
-  "sources_checked": [
-    {
-      "name": "Ars Technica",
-      "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
-      "articles_found": 0
-    },
-    {
-      "name": "AnandTech",
-      "url": "https://www.anandtech.com/rss/",
-      "articles_found": 0
-    },
-    {
-      "name": "Axios",
-      "url": "https://www.axios.com/feeds/feed.rss",
-      "articles_found": 0
-    },
-    {
-      "name": "Wall Street Journal Tech",
-      "url": "https://feeds.a.dj.com/rss/RSSWSJD.xml",
-      "articles_found": 0
-    },
-    {
-      "name": "Slashdot",
-      "url": "https://slashdot.org/rss/slashdot.rss",
-      "articles_found": 0
-    }
-  ],
+  "sources_checked": [],
   "articles": [
     {
-      "title": "L'iPhone plegable d'Apple manté el llançament per al setembre, segons un informe",
-      "link_id": "c_1b130b",
-      "source": "TechCrunch",
+      "title": "L'iPhone plegable d'Apple podria patir retards segons els informes",
+      "link_id": "c_578005",
+      "source": "Engadget",
       "date": "2026-04-07",
-      "time": "17:47",
-      "summary": "Malgrat els rumors de retards per problemes tècnics, la producció segueix el calendari previst per a la tardor."
+      "time": "19:25",
+      "summary": "Els problemes d'enginyeria durant les proves podrien endarrerir el llançament del primer iPhone plegable d'Apple."
     },
     {
-      "title": "Artemis II captura un eclipsi i la posta de la Terra en el primer sobrevol lunar tripulat des de l'Apollo",
-      "link_id": "c_dd7411",
-      "source": "The Register",
+      "title": "Anthropic llança Project Glasswing, un esforç per prevenir ciberatacs amb IA",
+      "link_id": "c_24c82b",
+      "source": "Engadget",
       "date": "2026-04-07",
-      "time": "15:53",
-      "summary": "La missió ha enviat imatges espectaculars de l'espai profund mentre la nau orbita la Lluna abans de tornar."
+      "time": "21:49",
+      "summary": "Anthropic s'alia amb grans tecnològiques per utilitzar el seu nou model d'IA per detectar vulnerabilitats de programari."
+    },
+    {
+      "title": "NASA Artemis II Dia 7: De tornada a casa després de batre el rècord de l'Apollo 13",
+      "link_id": "c_029a1f",
+      "source": "CNET",
+      "date": "2026-04-07",
+      "time": "23:09",
+      "summary": "La tripulació d'Artemis II torna a la Terra després de batre el rècord de distància a l'espai profund."
+    },
+    {
+      "title": "Les noves pestanyes verticals de Google Chrome podrien facilitar la gestió del caos",
+      "link_id": "c_44f3f5",
+      "source": "Digital Trends",
+      "date": "2026-04-07",
+      "time": "23:17",
+      "summary": "La nova actualització de Chrome per a escriptori inclou pestanyes verticals i un mode de lectura més net."
+    },
+    {
+      "title": "El projecte Terafab de 25.000 milions de dòlars d'Elon Musk rep l'ajuda d'Intel",
+      "link_id": "c_5e7bb4",
+      "source": "CNET",
+      "date": "2026-04-07",
+      "time": "21:20",
+      "summary": "Intel s'uneix a Tesla i SpaceX per construir una enorme fàbrica de semiconductors als Estats Units."
+    },
+    {
+      "title": "Les llistes de reproducció generades de Spotify et poden ajudar a trobar nous pòdcasts",
+      "link_id": "c_524e0e",
+      "source": "The Verge",
+      "date": "2026-04-07",
+      "time": "16:13",
+      "summary": "Els usuaris prèmium ara poden utilitzar indicacions de text per generar llistes de reproducció de pòdcasts personalitzades amb IA."
+    },
+    {
+      "title": "Es diu que pirates informàtics iranians intensifiquen els atacs a la infraestructura crítica dels EUA",
+      "link_id": "c_2036f4",
+      "source": "CNET",
+      "date": "2026-04-07",
+      "time": "23:01",
+      "summary": "Agències nord-americanes adverteixen que els pirates informàtics iranians han intensificat les tàctiques contra instal·lacions d'aigua i energia."
     },
     {
       "title": "El Moto G Stylus (2026) finalment fa que el llapis sembli més poderós que el telèfon",
@@ -52,63 +66,23 @@
       "source": "Digital Trends",
       "date": "2026-04-07",
       "time": "17:02",
-      "summary": "Aquest nou model de Motorola destaca per les millores intel·ligents integrades a l'estilet, superant les expectatives del dispositiu."
+      "summary": "Motorola actualitza el seu telèfon assequible amb un llapis òptic millorat que s'assembla més a l'S Pen."
     },
     {
-      "title": "Spotify porta la generació de llistes de reproducció amb IA als pòdcasts",
-      "link_id": "c_7bc5cb",
-      "source": "CNET",
-      "date": "2026-04-07",
-      "time": "16:42",
-      "summary": "Els usuaris ara poden descobrir nous programes d'àudio utilitzant indicacions de text per crear seleccions totalment personalitzades."
-    },
-    {
-      "title": "Pots redissenyar la teva experiència a Google Chrome amb pestanyes verticals i lectura immersiva",
-      "link_id": "c_084d7f",
-      "source": "CNET",
-      "date": "2026-04-07",
-      "time": "17:00",
-      "summary": "Aquestes noves opcions de personalització permeten organitzar millor l'espai de navegació i reduir les distraccions visuals a la pantalla."
-    },
-    {
-      "title": "Anthropic amplia l'acord de computació amb Google i Broadcom davant l'augment de la demanda",
-      "link_id": "c_f720c0",
+      "title": "Google llança discretament una aplicació de dictat amb IA que funciona sense connexió",
+      "link_id": "c_9ff3d7",
       "source": "TechCrunch",
-      "date": "2026-04-07",
-      "time": "16:05",
-      "summary": "L'empresa d'intel·ligència artificial reforça la seva infraestructura tecnològica després d'assolir uns ingressos projectats de trenta mil milions de dòlars."
+      "date": "2026-04-08",
+      "time": "05:40",
+      "summary": "La nova aplicació de dictat de Google utilitza models d'IA Gemma per transcriure la veu sense connexió."
     },
     {
-      "title": "Google actualitza les mesures de protecció de salut mental de Gemini",
-      "link_id": "c_247783",
-      "source": "Engadget",
-      "date": "2026-04-07",
-      "time": "17:38",
-      "summary": "El xatbot incorpora un mòdul redissenyat que permet connectar ràpidament els usuaris en crisi amb línies d'ajuda reals."
-    },
-    {
-      "title": "Adobe presenta un nou company d'estudi amb IA, just a temps per als exàmens finals",
-      "link_id": "c_4f43d4",
+      "title": "Apple podria portar el xip A19 Pro al MacBook Neo l'any vinent, però aviat podria afrontar obstacles",
+      "link_id": "c_f36ae1",
       "source": "CNET",
       "date": "2026-04-07",
-      "time": "16:18",
-      "summary": "L'eina gratuïta Acrobat Student Spaces facilita la creació de guies, qüestionaris i resums multimèdia a partir dels teus apunts."
-    },
-    {
-      "title": "He provat la nova eina de millora amb IA de Google Photos: com retalla, il·lumina i arregla les fotos",
-      "link_id": "c_5380a9",
-      "source": "ZDNet",
-      "date": "2026-04-07",
-      "time": "15:16",
-      "summary": "Aquesta funció generativa global per a Android optimitza imatges a l'instant, tot i que encara presenta algunes limitacions tècniques."
-    },
-    {
-      "title": "Google llança una aplicació de dictat amb IA sense connexió per a iOS",
-      "link_id": "c_01c501",
-      "source": "CNET",
-      "date": "2026-04-07",
-      "time": "17:16",
-      "summary": "Aquesta eina transcriu la veu i n'elimina automàticament els dubtes i les falques per oferir un text més polit."
+      "time": "20:36",
+      "summary": "L'èxit del portàtil assequible d'Apple podria provocar escassetat de xips abans de la seva propera gran actualització."
     }
   ]
 }

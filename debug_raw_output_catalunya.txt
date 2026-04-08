@@ -1,32 +1,40 @@
 {
-  "generated_at": "2026-04-07T18:00",
+  "generated_at": "2024-05-24T16:00",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Així es veu la Terra des de la cara oculta de la Lluna",
-      "link_id": "c_e728bc",
-      "source": "Ara.cat",
-      "date": "2026-04-06",
-      "time": "16:13",
-      "summary": "La missió Artemis II bat rècords i envia imatges inèdites del nostre planeta des de l'espai profund."
-    },
-    {
-      "title": "Ús de pantalles en infants petits: riscos i impacte en la salut",
-      "link_id": "c_eee053",
-      "source": "Lleida Diari",
-      "date": "2026-04-06",
-      "time": "11:30",
-      "summary": "Els experts alerten que l'excés d'exposició digital en edats primerenques supera les recomanacions i pot afectar el desenvolupament."
-    },
-    {
-      "title": "Els repartidors de Glovo diuen prou i aniran a la vaga durant tres dies",
-      "link_id": "c_9c1b66",
-      "source": "Ara.cat",
+      "title": "Les dotze imatges més espectaculars de la cara oculta de la Lluna captades per l’Artemis II",
+      "link_id": "c_d43bbb",
+      "source": "VilaWeb",
       "date": "2026-04-07",
-      "time": "16:23",
-      "summary": "CCOO convoca aturades a finals d'abril per exigir millores laborals davant l'amenaça de futurs acomiadaments a l'empresa."
+      "time": "18:53",
+      "summary": "La tripulació de la nau Orion ha immortalitzat un eclipsi solar inèdit gràcies a una alineació perfecta a l'espai."
+    },
+    {
+      "title": "Així es pon la Terra des de la cara oculta de la Lluna: les últimes imatges enviades per Artemis 2, amb un eclipsi total únic",
+      "link_id": "c_5bf300",
+      "source": "RAC1",
+      "date": "2026-04-07",
+      "time": "17:12",
+      "summary": "La NASA comparteix fotografies històriques preses a més de 400.000 quilòmetres, mostrant el nostre planeta amagant-se rere l'horitzó lunar."
+    },
+    {
+      "title": "Increïble: la humanitat arriba al punt més llunyà de la Terra",
+      "link_id": "c_529f82",
+      "source": "Lleida Diari",
+      "date": "2026-04-07",
+      "time": "12:44",
+      "summary": "Els quatre astronautes de la missió Artemis II superen tots els rècords històrics de distància en l'exploració espacial tripulada."
+    },
+    {
+      "title": "El mòbil es converteix en el teu DNI: el format digital ja és obligatori d’acceptar",
+      "link_id": "c_06bc9f",
+      "source": "MetaData",
+      "date": "2026-04-08",
+      "time": "10:00",
+      "summary": "L'aplicació MiDNI facilita la identificació ciutadana en gestions diàries, complementant el document físic tradicional amb plena validesa legal."
     },
     {
       "title": "Traducció al català en temps real amb auriculars: així funciona la nova eina de Google",
@@ -34,7 +42,7 @@
       "source": "El Periódico",
       "date": "2026-04-07",
       "time": "08:01",
-      "summary": "La funció 'Live Translate' facilita la comunicació internacional i professional trencant les barreres idiomàtiques de manera instantània."
+      "summary": "La funció 'Live Translate' trenca les barreres idiomàtiques, facilitant la comunicació instantània tant en viatges com en entorns laborals internacionals."
     },
     {
       "title": "Drons autònoms en guerra: algoritmes que decideixen qui viu i qui mor",
@@ -42,7 +50,7 @@
       "source": "324.cat",
       "date": "2026-04-06",
       "time": "14:05",
-      "summary": "Les grans potències mundials frenen a l'ONU qualsevol intent de regular l'ús d'armes letals controlades per intel·ligència artificial."
+      "summary": "L'ús d'armes letals controlades per intel·ligència artificial genera debat a l'ONU, topant amb el bloqueig de les grans potències mundials."
     },
     {
       "title": "Aureli Soria-Frisch, neurocientífic: \"Podríem detectar l'alzheimer en fases primerenques amb un electroencefalograma de 15 minuts\"",
@@ -50,15 +58,7 @@
       "source": "RAC1",
       "date": "2026-04-07",
       "time": "17:21",
-      "summary": "Aquesta tecnologia no invasiva obre la porta a tractar depressions o rehabilitar ictus, demostrant el ràpid avanç neurocientífic."
-    },
-    {
-      "title": "La IA reemplaçarà els radiòlegs a l'hospital més gran dels Estats Units",
-      "link_id": "c_eee2e3",
-      "source": "El Nacional.cat",
-      "date": "2026-04-07",
-      "time": "12:05",
-      "summary": "La intel·ligència artificial fa un pas de gegant en el sector sanitari assumint tasques clau de diagnòstic per imatge."
+      "summary": "Els avenços en neurociència aplicada obren la porta a diagnòstics ràpids i nous tractaments per a malalties com la depressió."
     },
     {
       "title": "Neix Frec, la infraestructura oberta que vol portar el català al centre de la intel·ligència artificial",
@@ -66,23 +66,23 @@
       "source": "MetaData",
       "date": "2026-04-07",
       "time": "11:23",
-      "summary": "Aquesta nova plataforma busca garantir la sobirania digital connectant serveis en la nostra llengua amb models avançats d'IA."
+      "summary": "Aquesta nova plataforma tecnològica busca garantir la presència de la llengua catalana i fomentar la sobirania digital de l'ecosistema local."
     },
     {
-      "title": "La Fiscalia sosté que cal \"un intens vincle afectiu\" per poder aturar l'eutanàsia d'un familiar",
-      "link_id": "c_8c5631",
-      "source": "El Nacional.cat",
+      "title": "Els repartidors de Glovo diuen prou i aniran a la vaga durant tres dies",
+      "link_id": "c_9c1b66",
+      "source": "Ara.cat",
       "date": "2026-04-07",
-      "time": "16:56",
-      "summary": "El Ministeri Públic demana al Suprem limitar la intervenció de familiars directes si existeixen conflictes d'interessos evidents."
+      "time": "16:23",
+      "summary": "CCOO convoca aturades a finals d'abril per exigir millores laborals davant l'amenaça de futurs acomiadaments a la plataforma de repartiment."
     },
     {
-      "title": "Audax entra en el negoci de telecomunicacions amb un acord amb MasOrange",
-      "link_id": "c_497cc6",
+      "title": "Catalunya frega els 12.000 punts de recàrrega de vehicles elèctrics el primer trimestre del 2026",
+      "link_id": "c_f9ba2d",
       "source": "Via Empresa",
-      "date": "2026-04-07",
-      "time": "10:57",
-      "summary": "L'energètica catalana diversifica el seu mercat i oferirà serveis de fibra i mòbil aprofitant la xarxa de l'operadora."
+      "date": "2026-04-08",
+      "time": "09:04",
+      "summary": "L'electromobilitat avança amb força al territori, registrant un augment de l'onze per cent en infraestructures respecte a l'any anterior."
     }
   ]
 }
