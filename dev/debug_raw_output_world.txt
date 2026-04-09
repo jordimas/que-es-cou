@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-04-08T13:44",
+  "generated_at": "2026-04-09T13:43",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "L'iPhone plegable d'Apple manté el llançament per al setembre, segons un informe",
-      "link_id": "c_1b130b",
-      "source": "TechCrunch",
-      "date": "2026-04-07",
-      "time": "17:47",
-      "summary": "Malgrat els rumors de retards per problemes tècnics, s'espera que el nou dispositiu arribi a la tardor."
+      "title": "Meta presenta un nou model d'IA desenvolupat pels seus nous laboratoris de superintel·ligència",
+      "link_id": "c_fa32fb",
+      "source": "CNET",
+      "date": "2026-04-09",
+      "time": "02:00",
+      "summary": "Muse Spark supera els models anteriors de Meta, però encara va per darrere dels seus rivals en programació."
     },
     {
-      "title": "Anthropic presenta el potent model d'IA Mythos en una nova iniciativa de ciberseguretat",
-      "link_id": "c_ddc7a1",
-      "source": "TechCrunch",
-      "date": "2026-04-07",
-      "time": "18:00",
-      "summary": "Aquest model avançat s'utilitzarà de manera restringida per ajudar grans empreses a detectar i defensar-se de vulnerabilitats."
-    },
-    {
-      "title": "Les impressionants vistes de la cara oculta de la Lluna de l'Artemis II",
-      "link_id": "c_ff091c",
-      "source": "Wired",
-      "date": "2026-04-07",
-      "time": "18:34",
-      "summary": "La tripulació ha capturat imatges històriques a només 7.000 km de la superfície lunar, batent rècords de distància."
-    },
-    {
-      "title": "Intel s'uneix al projecte de xips Terafab d'Elon Musk",
-      "link_id": "c_590cde",
-      "source": "TechCrunch",
-      "date": "2026-04-07",
-      "time": "18:10",
-      "summary": "El fabricant de semiconductors col·laborarà amb SpaceX i Tesla per construir una nova fàbrica massiva a Texas."
-    },
-    {
-      "title": "Chrome finalment afegeix una millor manera de gestionar massa pestanyes obertes",
-      "link_id": "c_d93b8b",
-      "source": "TechCrunch",
-      "date": "2026-04-07",
-      "time": "17:00",
-      "summary": "L'última actualització del navegador de Google incorpora pestanyes verticals i un mode de lectura més net."
-    },
-    {
-      "title": "Hackers del govern rus ataquen milers d'encaminadors domèstics per robar contrasenyes",
-      "link_id": "c_fcf4f5",
-      "source": "TechCrunch",
-      "date": "2026-04-07",
-      "time": "17:01",
-      "summary": "El grup APT28 ha pres el control de dispositius residencials en una àmplia operació d'espionatge i robatori d'identitat."
-    },
-    {
-      "title": "Hackers iranians ataquen infraestructures crítiques nord-americanes, adverteixen les agències",
-      "link_id": "c_e080da",
-      "source": "TechCrunch",
-      "date": "2026-04-07",
-      "time": "19:59",
-      "summary": "L'FBI i la CISA alerten d'una escalada de tàctiques cibernètiques en resposta al conflicte entre Israel i l'Iran."
-    },
-    {
-      "title": "Les llistes de reproducció intel·ligents de Spotify ara t'ajuden a descobrir pòdcasts",
-      "link_id": "c_524e0e",
-      "source": "The Verge",
-      "date": "2026-04-07",
-      "time": "16:13",
-      "summary": "La funció basada en IA permet als usuaris generar recomanacions personalitzades de programes utilitzant llenguatge natural."
-    },
-    {
-      "title": "Apple obté la pitjor puntuació en reparabilitat d'iPhones i MacBooks",
-      "link_id": "c_ac1ea8",
-      "source": "9to5Mac",
+      "title": "Amazon retira el suport per als Kindle del 2012 o anteriors",
+      "link_id": "c_ff34c9",
+      "source": "CNET",
       "date": "2026-04-08",
-      "time": "11:26",
-      "summary": "Un nou informe europeu suspèn els dispositius de la companyia, tot i que el MacBook Neo n'és l'excepció."
+      "time": "20:47",
+      "summary": "A partir del maig, els usuaris d'aquests lectors electrònics antics ja no podran descarregar ni comprar llibres nous."
     },
     {
-      "title": "WhatsApp afegeix una interfície nativa i millorada per a CarPlay",
-      "link_id": "c_80ada5",
+      "title": "L'iPhone Ultra plegable podria costar més que un MacBook Pro M5",
+      "link_id": "c_2534cf",
+      "source": "TechRadar",
+      "date": "2026-04-09",
+      "time": "10:28",
+      "summary": "Les filtracions apunten que el primer telèfon plegable d'Apple, previst per al setembre, tindrà un preu molt exclusiu."
+    },
+    {
+      "title": "iOS 26.4.1 inclou aquests dos canvis per als usuaris d'iPhone",
+      "link_id": "c_15da0e",
+      "source": "MacRumors",
+      "date": "2026-04-08",
+      "time": "19:17",
+      "summary": "L'actualització soluciona un error de sincronització d'iCloud i activa per defecte la protecció de dispositius robats per a empreses."
+    },
+    {
+      "title": "Google integra NotebookLM, la seva eina de recerca, dins de Gemini",
+      "link_id": "c_eba0bf",
       "source": "Engadget",
+      "date": "2026-04-09",
+      "time": "10:18",
+      "summary": "Els usuaris ara poden organitzar xats, fitxers i projectes directament al xatbot d'IA mitjançant la nova funció de llibretes."
+    },
+    {
+      "title": "El primer ventilador de mà de Dyson arriba a temps per a l'estiu",
+      "link_id": "c_81a447",
+      "source": "CNET",
+      "date": "2026-04-09",
+      "time": "09:03",
+      "summary": "El HushJet Mini Cool és portàtil, silenciós i ofereix un flux d'aire potent per combatre la calor a qualsevol lloc."
+    },
+    {
+      "title": "Els astronautes de l'Artemis II presencien la col·lisió de 6 meteorits amb la Lluna",
+      "link_id": "c_4f4b58",
+      "source": "Wired",
+      "date": "2026-04-09",
+      "time": "09:00",
+      "summary": "La tripulació va captar imatges impressionants de la cara oculta de la Lluna durant el seu històric vol orbital."
+    },
+    {
+      "title": "Uber prova les furgonetes autònomes Volkswagen ID. Buzz a Los Angeles",
+      "link_id": "c_312e43",
+      "source": "Gizmodo",
       "date": "2026-04-08",
-      "time": "11:21",
-      "summary": "La nova versió de l'aplicació de missatgeria ofereix una integració completa, superant les limitacions anteriors basades en Siri."
+      "time": "21:26",
+      "summary": "L'empresa de mobilitat preveu oferir viatges comercials amb aquests vehicles sense conductor a finals de l'any 2026."
+    },
+    {
+      "title": "Hackers vinculats a l'Iran interrompen operacions en infraestructures crítiques dels EUA",
+      "link_id": "c_edda07",
+      "source": "Ars Technica",
+      "date": "2026-04-08",
+      "time": "20:49",
+      "summary": "Els atacs cibernètics contra instal·lacions d'aigua i energia nord-americanes s'han intensificat enmig de les tensions geopolítiques al Pròxim Orient."
+    },
+    {
+      "title": "Els telèfons econòmics de Motorola ara seran més cars",
+      "link_id": "c_c65e99",
+      "source": "Digital Trends",
+      "date": "2026-04-09",
+      "time": "11:36",
+      "summary": "La companyia ha augmentat sobtadament el preu de la sèrie Moto G 2026, qüestionant la seva reputació de marca assequible."
     }
   ]
 }

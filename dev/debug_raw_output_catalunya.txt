@@ -1,17 +1,17 @@
 {
-  "generated_at": "2024-05-24T18:00",
+  "generated_at": "2026-04-09T11:45",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
     {
       "name": "Ara.cat",
       "url": "https://www.ara.cat/rss/",
-      "articles_found": 6
+      "articles_found": 10
     },
     {
       "name": "El Periódico",
       "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
-      "articles_found": 1
+      "articles_found": 4
     },
     {
       "name": "RAC1",
@@ -21,12 +21,12 @@
     {
       "name": "La Vanguardia (en català)",
       "url": "https://www.lavanguardia.com/rss/encatala.xml",
-      "articles_found": 8
+      "articles_found": 4
     },
     {
       "name": "VilaWeb",
       "url": "https://www.vilaweb.cat/feed/",
-      "articles_found": 3
+      "articles_found": 1
     },
     {
       "name": "NacióDigital",
@@ -36,7 +36,7 @@
     {
       "name": "324.cat",
       "url": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0",
-      "articles_found": 4
+      "articles_found": 2
     },
     {
       "name": "Softcatalà",
@@ -46,12 +46,12 @@
     {
       "name": "El Nacional.cat",
       "url": "https://www.elnacional.cat/uploads/feeds/feed_ca.xml",
-      "articles_found": 8
+      "articles_found": 9
     },
     {
       "name": "El Mon.cat",
       "url": "https://www.elmon.cat/feed/",
-      "articles_found": 0
+      "articles_found": 1
     },
     {
       "name": "El Mon.cat Tecnologia",
@@ -61,22 +61,22 @@
     {
       "name": "El Mon.cat Societat",
       "url": "https://elmon.cat/societat/feed/",
-      "articles_found": 1
+      "articles_found": 2
     },
     {
       "name": "Betevé",
       "url": "https://beteve.cat/feed/",
-      "articles_found": 0
+      "articles_found": 1
     },
     {
       "name": "El Punt Avui",
       "url": "https://www.elpuntavui.cat/barcelona.feed?type=rss",
-      "articles_found": 0
+      "articles_found": 1
     },
     {
       "name": "Segre",
       "url": "https://www.segre.com/ca/rss/home.xml",
-      "articles_found": 3
+      "articles_found": 1
     },
     {
       "name": "Regio7",
@@ -156,17 +156,17 @@
     {
       "name": "MetaData",
       "url": "https://www.metadata.cat/sindica",
-      "articles_found": 5
+      "articles_found": 8
     },
     {
       "name": "El Temps",
       "url": "https://www.eltemps.cat/sindica",
-      "articles_found": 2
+      "articles_found": 1
     },
     {
       "name": "Àpunt",
       "url": "https://www.apuntmedia.es/rss/",
-      "articles_found": 1
+      "articles_found": 0
     },
     {
       "name": "El Periòdic d'Ontinyent",
@@ -191,7 +191,7 @@
     {
       "name": "Ara Balears",
       "url": "https://www.arabalears.cat/rss/",
-      "articles_found": 0
+      "articles_found": 1
     },
     {
       "name": "Manacor Comarcal",
@@ -201,7 +201,7 @@
     {
       "name": "Via Empresa",
       "url": "https://www.viaempresa.cat/uploads/feeds/feed_via-empresa-2024_ca.xml",
-      "articles_found": 5
+      "articles_found": 9
     },
     {
       "name": "Lúdica",
@@ -216,20 +216,60 @@
   ],
   "articles": [
     {
-      "title": "El viatge de l’Artemis II a la Lluna ompli les xarxes de mems i imatges falses",
-      "link_id": "c_632d61",
-      "source": "Àpunt",
-      "date": "2026-04-08",
-      "time": "10:52",
-      "summary": "La intel·ligència artificial impulsa una onada de desinformació i humor gràfic arran de la històrica missió espacial."
+      "title": "Seat desvela el nou Cupra Raval, el primer 100% elèctric fet a Martorell",
+      "link_id": "c_0bc9ce",
+      "source": "Via Empresa",
+      "date": "2026-04-09",
+      "time": "13:05",
+      "summary": "Aquest model estratègic busca democratitzar l'electromobilitat i assegurar el futur industrial de la planta catalana."
     },
     {
-      "title": "FREC, intel·ligència artificial útil per a l'empresa catalana",
-      "link_id": "c_cccd5f",
-      "source": "Via Empresa",
+      "title": "La UPC crea la primera infraestructura per provar la 6G en entorns reals",
+      "link_id": "c_c5c032",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-04-09",
+      "time": "05:58",
+      "summary": "El nou banc de proves permetrà validar avenços en robòtica i drons abans del seu desplegament comercial."
+    },
+    {
+      "title": "Telefónica ven el seu negoci a Mèxic per 390 milions d’euros",
+      "link_id": "c_fdf93f",
+      "source": "El Mon.cat",
       "date": "2026-04-08",
-      "time": "13:38",
-      "summary": "Aquesta nova plataforma busca que els models tecnològics no només tradueixin, sinó que processin directament en llengua catalana."
+      "time": "19:21",
+      "summary": "L'operadora es desprèn de la filial mexicana, deixant Veneçuela com el seu únic mercat actiu a l'Amèrica Llatina."
+    },
+    {
+      "title": "Aquest podria ser el preu de l'iPhone Ultra, el possible plegable d'Apple que arribarà a finals d'any",
+      "link_id": "c_760431",
+      "source": "El Nacional.cat",
+      "date": "2026-04-09",
+      "time": "13:00",
+      "summary": "Les filtracions apunten que el primer telèfon amb pantalla flexible de la marca serà el més car fins ara."
+    },
+    {
+      "title": "Kazuo Shinohara: un arquitecte contra el confort d'Ikea",
+      "link_id": "c_bf9e2a",
+      "source": "Ara.cat",
+      "date": "2026-04-08",
+      "time": "17:45",
+      "summary": "Una exposició a Barcelona reivindica la visió de la llar com a obra d'art del mestre japonès."
+    },
+    {
+      "title": "L'Agència Tributària avisa que fer servir la IA per fer la renda pot sortir molt car: \"Jo no m'arriscaria\"",
+      "link_id": "c_f5e2d6",
+      "source": "RAC1",
+      "date": "2026-04-09",
+      "time": "09:27",
+      "summary": "Hisenda adverteix dels errors de ChatGPT en les declaracions, recordant que el contribuent assumeix la responsabilitat legal."
+    },
+    {
+      "title": "La prohibició d’accés a xarxes per als menors de 16 anys s’aprovarà al maig",
+      "link_id": "c_face87",
+      "source": "El Mon.cat Societat",
+      "date": "2026-04-08",
+      "time": "16:26",
+      "summary": "El govern espanyol ultima una llei orgànica per protegir la intimitat i la imatge dels adolescents a internet."
     },
     {
       "title": "El mòbil es converteix en el teu DNI: el format digital ja és obligatori d’acceptar",
@@ -237,63 +277,23 @@
       "source": "MetaData",
       "date": "2026-04-08",
       "time": "10:00",
-      "summary": "L'aplicació MiDNI facilita la identificació ciutadana en gestions diàries, complementant el document físic tradicional sense substituir-lo completament."
+      "summary": "L'aplicació MiDNI facilita tràmits quotidians acreditant la identitat des del telèfon, complementant el document físic tradicional."
     },
     {
-      "title": "DIGI ha caigut: per què no funciona?",
-      "link_id": "c_c30578",
-      "source": "El Nacional.cat",
-      "date": "2026-04-08",
-      "time": "13:21",
-      "summary": "Una incidència massiva deixa milers d'usuaris sense servei de telecomunicacions durant el matí, generant queixes generalitzades."
-    },
-    {
-      "title": "Traducció al català en temps real amb auriculars: així funciona la nova eina de Google",
-      "link_id": "c_b9d019",
-      "source": "El Periódico",
-      "date": "2026-04-07",
-      "time": "08:01",
-      "summary": "La funció 'Live Translate' trenca barreres idiomàtiques, facilitant converses fluides tant en viatges d'oci com en entorns laborals internacionals."
-    },
-    {
-      "title": "Aureli Soria-Frisch, neurocientífic: \"Podríem detectar l'alzheimer en fases primerenques amb un electroencefalograma de 15 minuts\"",
-      "link_id": "c_1dd20d",
+      "title": "El nou senyal de la DGT que ja pots trobar a les carreteres: què vol dir i quina sanció suposa",
+      "link_id": "c_7db9e0",
       "source": "RAC1",
-      "date": "2026-04-07",
-      "time": "17:21",
-      "summary": "Aquesta tecnologia no invasiva obre la porta a tractar depressions o rehabilitar ictus abans que els símptomes s'agreugin."
-    },
-    {
-      "title": "Drons autònoms en guerra: algoritmes que decideixen qui viu i qui mor",
-      "link_id": "c_3871b2",
-      "source": "324.cat",
-      "date": "2026-04-06",
-      "time": "14:05",
-      "summary": "El bloqueig de les potències mundials a l'ONU impedeix regular l'ús d'armes letals controlades per intel·ligència artificial."
-    },
-    {
-      "title": "Enxampen per primera vegada un aspirant al carnet de conduir copiant amb ulleres intel·ligents",
-      "link_id": "c_524176",
-      "source": "324.cat",
-      "date": "2026-04-07",
-      "time": "21:16",
-      "summary": "L'infractor rebia les respostes de l'examen teòric a través d'un audiòfon connectat a un còmplice extern."
-    },
-    {
-      "title": "Honda registra pèrdues per primer cop en 70 anys",
-      "link_id": "c_41a044",
-      "source": "Ara.cat",
       "date": "2026-04-08",
-      "time": "07:00",
-      "summary": "La divisió automobilística pateix un daltabaix financer històric de 4.200 milions d'euros, forçant la direcció a prendre mesures dràstiques."
+      "time": "22:23",
+      "summary": "Trànsit introdueix un rombe blanc sobre fons blau per regular nous usos de la via i millorar la seguretat."
     },
     {
-      "title": "Catalunya frega els 12.000 punts de recàrrega de vehicles elèctrics el primer trimestre del 2026",
-      "link_id": "c_f9ba2d",
-      "source": "Via Empresa",
+      "title": "La nova cursa espacial: quins són els plans de la Xina a la Lluna?",
+      "link_id": "c_da121b",
+      "source": "VilaWeb",
       "date": "2026-04-08",
-      "time": "09:04",
-      "summary": "El territori lidera l'electromobilitat a l'Estat amb un creixement de l'11% respecte a l'any anterior, impulsant la transició verda."
+      "time": "19:40",
+      "summary": "Pequín accelera el seu programa per establir una base lunar permanent i enviar-hi astronautes abans del 2030."
     }
   ]
 }
