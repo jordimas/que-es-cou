@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-04-08T20:04",
+  "generated_at": "2026-04-09T10:13",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Anthropic dona accés anticipat a empreses tecnològiques al seu potent model d'IA",
-      "link_id": "c_6716e9",
-      "source": "Bloomberg Technology",
-      "date": "2026-04-08",
-      "time": "17:09",
-      "summary": "El nou model Mythos és tan avançat en ciberseguretat que només s'ha compartit amb un grup selecte d'empreses."
+      "title": "Meta presenta un nou model d'IA desenvolupat pel seu costós laboratori de superintel·ligència",
+      "link_id": "c_fa32fb",
+      "source": "CNET",
+      "date": "2026-04-09",
+      "time": "02:00",
+      "summary": "Meta llança Muse Spark, el seu primer model d'IA del laboratori de superintel·ligència, superant versions anteriors però amb mancances programant."
     },
     {
-      "title": "És temps d'especulacions sobre l'iPhone: models plegables i nous dissenys",
-      "link_id": "c_a89e3d",
-      "source": "Computerworld",
-      "date": "2026-04-08",
-      "time": "17:19",
-      "summary": "Els rumors sobre el primer telèfon plegable d'Apple s'intensifiquen, amb informes contradictoris sobre possibles retards o llançaments imminents."
-    },
-    {
-      "title": "Amazon avisa que 13 models de Kindle aviat no podran descarregar llibres nous",
-      "link_id": "c_fa4645",
-      "source": "9to5Mac",
-      "date": "2026-04-08",
-      "time": "17:55",
-      "summary": "A partir del maig, els lectors electrònics anteriors al 2012 perdran l'accés a la botiga per comprar o descarregar llibres."
-    },
-    {
-      "title": "5 preguntes clau sobre l'aliança de xips Terafab d'Elon Musk amb Intel",
-      "link_id": "c_79e116",
-      "source": "Wired",
-      "date": "2026-04-08",
-      "time": "17:13",
-      "summary": "Intel s'uneix a SpaceX i Tesla en un ambiciós projecte per fabricar semiconductors als Estats Units."
-    },
-    {
-      "title": "Dia 8 de la missió Artemis II de la NASA: què esperar en els últims dies",
-      "link_id": "c_029a1f",
+      "title": "Amazon retira el suport als Kindle del 2012 o anteriors. Què cal fer ara",
+      "link_id": "c_ff34c9",
       "source": "CNET",
       "date": "2026-04-08",
-      "time": "17:32",
-      "summary": "La tripulació ha capturat imatges impressionants de la cara oculta de la Lluna i es prepara per tornar."
+      "time": "20:47",
+      "summary": "Amazon deixarà de donar suport als Kindle anteriors al 2012, impedint descarregar-hi nous llibres a partir del maig."
     },
     {
-      "title": "Adéu, Llama: Meta presenta la IA Muse Spark amb mode de contemplació i enfocament en salut",
-      "link_id": "c_1aa241",
-      "source": "9to5Mac",
+      "title": "iOS 26.4.1 inclou aquests dos canvis per als iPhones",
+      "link_id": "c_15da0e",
+      "source": "MacRumors",
       "date": "2026-04-08",
-      "time": "17:12",
-      "summary": "Aquest nou model d'intel·ligència artificial substitueix Llama i millora les capacitats de raonament per als usuaris de Meta."
+      "time": "19:17",
+      "summary": "L'actualització soluciona problemes de sincronització d'iCloud i activa per defecte la protecció de dispositius robats en entorns empresarials."
     },
     {
-      "title": "Google Chrome finalment afegeix les pestanyes verticals",
-      "link_id": "c_673436",
-      "source": "PCWorld",
+      "title": "La IA d'Anthropic ajudarà Apple a trobar vulnerabilitats a iOS, macOS i Safari",
+      "link_id": "c_b4b37b",
+      "source": "MacRumors",
       "date": "2026-04-08",
-      "time": "12:15",
-      "summary": "El popular navegador d'escriptori s'actualitza per oferir una millor organització de les pestanyes i una lectura sense distraccions."
+      "time": "13:25",
+      "summary": "El nou model Mythos d'Anthropic s'utilitzarà en el Projecte Glasswing per detectar i corregir vulnerabilitats de programari abans que s'explotin."
     },
     {
-      "title": "Ofertes: El MacBook Air M5 de 24 GB assoleix el seu preu mínim històric amb 150 $ de descompte",
-      "link_id": "c_814a21",
-      "source": "9to5Mac",
+      "title": "Es revela el rang de preus de l'iPhone Ultra",
+      "link_id": "c_c85032",
+      "source": "MacRumors",
       "date": "2026-04-08",
-      "time": "15:36",
-      "summary": "Els nous portàtils d'Apple amb xip M5 registren rebaixes importants a Amazon poc després del seu llançament oficial."
+      "time": "13:35",
+      "summary": "El primer iPhone plegable d'Apple, previst per al setembre, podria superar els 2.000 dòlars, marcant un nou rècord de preu."
     },
     {
-      "title": "Google Photos ara et fa guanyar temps amb un truc de còpia similar al de l'iPhone",
-      "link_id": "c_ab3070",
-      "source": "Digital Trends",
+      "title": "Uber està provant furgonetes autònomes Volkswagen ID. Buzz a Los Angeles",
+      "link_id": "c_312e43",
+      "source": "Gizmodo",
       "date": "2026-04-08",
-      "time": "12:37",
-      "summary": "La nova funció permet copiar imatges directament al porta-retalls sense haver de descarregar-les prèviament al dispositiu."
+      "time": "21:26",
+      "summary": "Uber i Volkswagen proven microbusos autònoms a Los Angeles amb l'objectiu d'oferir viatges comercials al públic a finals de 2026."
     },
     {
-      "title": "Vols un MacBook Neo? Ara hauràs d'esperar setmanes per rebre'l",
-      "link_id": "c_8cd851",
-      "source": "TechRadar",
+      "title": "S'adverteix els britànics sobre pirates informàtics russos que ataquen encaminadors d'internet per fer espionatge",
+      "link_id": "c_96f214",
+      "source": "The Guardian Tech",
       "date": "2026-04-08",
-      "time": "14:54",
-      "summary": "L'èxit de vendes del nou portàtil d'Apple ha provocat problemes d'estoc i temps d'espera inusualment llargs per als compradors."
+      "time": "11:20",
+      "summary": "Pirates informàtics russos ataquen encaminadors domèstics per robar credencials, redirigir trànsit a llocs falsos i accedir a altres dispositius connectats."
+    },
+    {
+      "title": "Gemini s'integra amb NotebookLM en la darrera i potent novetat de Google",
+      "link_id": "c_7e8ead",
+      "source": "Android Authority",
+      "date": "2026-04-09",
+      "time": "02:10",
+      "summary": "Google integra la funció de llibretes a Gemini per ajudar els usuaris a organitzar xats, fitxers i projectes fàcilment."
+    },
+    {
+      "title": "Dyson acaba d'anunciar el seu primer ventilador de mà, amb un motor que gira fins a 65.000 RPM",
+      "link_id": "c_398adb",
+      "source": "Engadget",
+      "date": "2026-04-09",
+      "time": "00:01",
+      "summary": "El nou HushJet Mini Cool de Dyson és un ventilador portàtil extremadament silenciós que ofereix un flux d'aire molt potent."
+    },
+    {
+      "title": "El Google Pixel supera l'iPhone i Samsung en un informe que denuncia la reparabilitat",
+      "link_id": "c_6212a4",
+      "source": "9to5Google",
+      "date": "2026-04-08",
+      "time": "16:45",
+      "summary": "Un informe europeu suspèn Apple i Samsung en facilitat de reparació, mentre que els Google Pixel obtenen millors resultats."
     }
   ]
 }

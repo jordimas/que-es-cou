@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-04-08T18:05",
+  "generated_at": "2026-04-09T10:00",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [],
   "articles": [
+    {
+      "title": "La UPC crea la primera infraestructura per provar la 6G en entorns reals",
+      "link_id": "c_c5c032",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-04-09",
+      "time": "05:58",
+      "summary": "Aquest banc de proves pioner permetrà validar la nova tecnologia en àmbits avançats com la robòtica i els drons."
+    },
     {
       "title": "Una xarxa de la UPC permet provar la tecnologia 6G en condicions reals per primer cop a l'Estat",
       "link_id": "c_791ca9",
       "source": "324.cat",
       "date": "2026-04-08",
       "time": "15:33",
-      "summary": "La nova infraestructura connecta els campus de Barcelona i Castelldefels amb fibra òptica d'alta capacitat per validar futures telecomunicacions."
+      "summary": "La infraestructura connecta els campus de Barcelona i Castelldefels amb fibra òptica d'alta capacitat per experimentar amb telecomunicacions futures."
     },
     {
-      "title": "Més IA i robots: Barcelona inaugura una xarxa única a Espanya per experimentar amb les tecnologies 5G i 6G",
-      "link_id": "c_3ad901",
-      "source": "El Periódico",
-      "date": "2026-04-08",
-      "time": "11:47",
-      "summary": "Aquesta instal·lació científica pionera accelerarà el desenvolupament de la pròxima generació de connectivitat i aplicacions avançades."
+      "title": "L'Agència Tributària avisa que fer servir la IA per fer la renda pot sortir molt car: \"Jo no m'arriscaria\"",
+      "link_id": "c_f5e2d6",
+      "source": "RAC1",
+      "date": "2026-04-09",
+      "time": "09:27",
+      "summary": "Hisenda desaconsella l'ús d'eines com ChatGPT per a la declaració, ja que els errors generats poden comportar sancions econòmiques."
     },
     {
-      "title": "Ja hi ha data per a la prohibició als menors de 16 anys d'accedir a xarxes socials a Espanya",
-      "link_id": "c_6e508c",
-      "source": "Segre",
+      "title": "El mòbil es converteix en el teu DNI: el format digital ja és obligatori d’acceptar",
+      "link_id": "c_06bc9f",
+      "source": "MetaData",
       "date": "2026-04-08",
-      "time": "17:52",
-      "summary": "La nova normativa, que s'aprovarà al maig, també restringirà l'ús comercial de la intel·ligència artificial sense consentiment previ."
+      "time": "10:00",
+      "summary": "L'aplicació MiDNI ja permet acreditar la identitat oficialment des del telèfon per a tràmits quotidians, complementant el document físic."
     },
     {
       "title": "La prohibició d’accés a xarxes per als menors de 16 anys s’aprovarà al maig",
       "link_id": "c_face87",
-      "source": "El Mon.cat",
+      "source": "El Mon.cat Societat",
       "date": "2026-04-08",
       "time": "16:26",
-      "summary": "El govern espanyol inclourà aquesta mesura dins la nova llei orgànica de protecció del dret a la intimitat."
+      "summary": "El govern espanyol aprovarà aviat una llei orgànica per restringir l'ús de plataformes socials als més joves."
     },
     {
-      "title": "La Comissió Europea obre una convocatòria per a 40.000 abonaments de tren gratuïts per a joves de 18 anys",
-      "link_id": "c_21b914",
-      "source": "VilaWeb",
-      "date": "2026-04-08",
-      "time": "11:06",
-      "summary": "Els beneficiaris podran viatjar per tot el continent durant un mes entre l'estiu del 2026 i la tardor del 2027."
-    },
-    {
-      "title": "La tripulació de l’Artemis II fa la primera maniobra per a tornar a la Terra",
-      "link_id": "c_c3993a",
-      "source": "VilaWeb",
-      "date": "2026-04-08",
-      "time": "10:30",
-      "summary": "La nau Orion ha encès els propulsors per iniciar el viatge de retorn després de sobrevolar la Lluna."
-    },
-    {
-      "title": "Es torna a espatllar el vàter de l'Artemis 2: la vida a bord de l'Orion de tornada a la Terra",
-      "link_id": "c_da3780",
-      "source": "324.cat",
-      "date": "2026-04-08",
-      "time": "16:43",
-      "summary": "Els astronautes afronten imprevistos logístics mentre comparteixen impressions amb els companys de l'Estació Espacial Internacional durant el trajecte."
-    },
-    {
-      "title": "El viatge de l’Artemis II a la Lluna ompli les xarxes de mems i imatges falses",
-      "link_id": "c_35ad3f",
-      "source": "Àpunt",
-      "date": "2026-04-08",
-      "time": "10:52",
-      "summary": "La intel·ligència artificial ha disparat la creació de continguts humorístics i desinformació al voltant d'aquesta històrica missió espacial."
-    },
-    {
-      "title": "Aureli Soria-Frisch, neurocientífic: \"Podríem detectar l'alzheimer en fases primerenques amb un electroencefalograma de 15 minuts\"",
-      "link_id": "c_1dd20d",
-      "source": "RAC1",
+      "title": "Traducció al català en temps real amb auriculars: així funciona la nova eina de Google",
+      "link_id": "c_b9d019",
+      "source": "El Periódico",
       "date": "2026-04-07",
-      "time": "17:21",
-      "summary": "Aquesta tecnologia no invasiva obre la porta a diagnòstics precoços i nous tractaments per a malalties neurològiques i depressió."
+      "time": "08:01",
+      "summary": "La funció 'Live Translate' converteix els auriculars en intèrprets instantanis, facilitant la comunicació internacional i els viatges a l'estranger."
     },
     {
-      "title": "Addictes a ChatGPT",
-      "link_id": "c_24dfb3",
-      "source": "IB3 Notícies",
+      "title": "La catalana Sateliot llança una nova ronda d’inversió de 100 milions d’euros amb el suport del Govern d’Espanya",
+      "link_id": "c_cbc645",
+      "source": "El Periódico",
       "date": "2026-04-08",
-      "time": "13:17",
-      "summary": "Els experts alerten que delegar decisions quotidianes a la intel·ligència artificial pot minvar l'autonomia personal dels més joves."
+      "time": "13:27",
+      "summary": "L'empresa especialitzada en satèl·lits de baixa òrbita busca finançament per consolidar la seva expansió en el sector aeroespacial."
+    },
+    {
+      "title": "El vàter de l’Artemis II, protagonista inesperat del viatge a la Lluna",
+      "link_id": "c_342988",
+      "source": "Ara.cat",
+      "date": "2026-04-08",
+      "time": "08:43",
+      "summary": "Més enllà de la fita històrica, la missió tripulada s'enfronta a imprevistos anecdòtics relacionats amb les instal·lacions sanitàries."
+    },
+    {
+      "title": "Telefónica ven el seu negoci a Mèxic per 390 milions d’euros",
+      "link_id": "c_fdf93f",
+      "source": "El Mon.cat",
+      "date": "2026-04-08",
+      "time": "19:21",
+      "summary": "La companyia de telecomunicacions continua la seva retirada d'Hispanoamèrica traspassant la filial mexicana a un consorci inversor."
+    },
+    {
+      "title": "L'iPhone plegable i més car de la història està previst que surti el setembre",
+      "link_id": "c_5368a1",
+      "source": "RAC1",
+      "date": "2026-04-08",
+      "time": "16:26",
+      "summary": "Apple planeja presentar el seu primer dispositiu amb pantalla interior flexible a finals d'estiu, confirmant anys d'especulacions."
     }
   ]
 }
