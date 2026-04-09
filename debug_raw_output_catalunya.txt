@@ -1,24 +1,40 @@
 {
-  "generated_at": "2026-04-09T10:00",
+  "generated_at": "2026-04-09T18:00",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [],
   "articles": [
+    {
+      "title": "Així és el Raval, el primer cotxe elèctric fabricat a Martorell",
+      "link_id": "c_55d75a",
+      "source": "Ara.cat",
+      "date": "2026-04-09",
+      "time": "10:51",
+      "summary": "Seat presenta el seu primer vehicle totalment elèctric dissenyat i produït a Catalunya, amb 400 km d'autonomia."
+    },
+    {
+      "title": "Seat presenta el Cupra Raval, la gran aposta elèctrica per garantir el futur de Martorell",
+      "link_id": "c_11c976",
+      "source": "324.cat",
+      "date": "2026-04-09",
+      "time": "09:52",
+      "summary": "La fabricació d'aquest nou model assegura la viabilitat de la planta catalana en la transició cap a l'electromobilitat."
+    },
     {
       "title": "La UPC crea la primera infraestructura per provar la 6G en entorns reals",
       "link_id": "c_c5c032",
       "source": "La Vanguardia (en català)",
       "date": "2026-04-09",
       "time": "05:58",
-      "summary": "Aquest banc de proves pioner permetrà validar la nova tecnologia en àmbits avançats com la robòtica i els drons."
+      "summary": "Aquest banc de proves pioner permetrà validar tecnologies avançades aplicades a la robòtica i els drons."
     },
     {
-      "title": "Una xarxa de la UPC permet provar la tecnologia 6G en condicions reals per primer cop a l'Estat",
-      "link_id": "c_791ca9",
-      "source": "324.cat",
+      "title": "Més IA i robots: Barcelona inaugura una xarxa única a Espanya per experimentar amb les tecnologies 5G i 6G",
+      "link_id": "c_3ad901",
+      "source": "El Periódico",
       "date": "2026-04-08",
-      "time": "15:33",
-      "summary": "La infraestructura connecta els campus de Barcelona i Castelldefels amb fibra òptica d'alta capacitat per experimentar amb telecomunicacions futures."
+      "time": "11:47",
+      "summary": "La nova instal·lació de la UPC accelerarà el desenvolupament de la pròxima generació de telecomunicacions al país."
     },
     {
       "title": "L'Agència Tributària avisa que fer servir la IA per fer la renda pot sortir molt car: \"Jo no m'arriscaria\"",
@@ -26,15 +42,31 @@
       "source": "RAC1",
       "date": "2026-04-09",
       "time": "09:27",
-      "summary": "Hisenda desaconsella l'ús d'eines com ChatGPT per a la declaració, ja que els errors generats poden comportar sancions econòmiques."
+      "summary": "Hisenda alerta dels riscos d'utilitzar eines com ChatGPT per a la declaració, ja que els errors poden comportar sancions."
     },
     {
-      "title": "El mòbil es converteix en el teu DNI: el format digital ja és obligatori d’acceptar",
-      "link_id": "c_06bc9f",
-      "source": "MetaData",
-      "date": "2026-04-08",
-      "time": "10:00",
-      "summary": "L'aplicació MiDNI ja permet acreditar la identitat oficialment des del telèfon per a tràmits quotidians, complementant el document físic."
+      "title": "Declaració de la renda i IA: per què es desaconsella l'ús de ChatGPT",
+      "link_id": "c_4b5f9e",
+      "source": "324.cat",
+      "date": "2026-04-09",
+      "time": "06:49",
+      "summary": "Els experts recomanen evitar la intel·ligència artificial per a tràmits fiscals a causa de la seva manca de precisió."
+    },
+    {
+      "title": "Els astronautes d'Artemis 2 reparen el lavabo, però la NASA reviu un problema que encara és un repte pendent de resoldre",
+      "link_id": "c_13ecd7",
+      "source": "RAC1",
+      "date": "2026-04-09",
+      "time": "11:42",
+      "summary": "La tripulació es prepara per a l'aterratge al Pacífic després de superar diversos contratemps tècnics durant la missió lunar."
+    },
+    {
+      "title": "Els astronautes de l’Artemis preparen l’aterratge al Pacífic, previst per a divendres",
+      "link_id": "c_76112f",
+      "source": "Àpunt",
+      "date": "2026-04-09",
+      "time": "17:42",
+      "summary": "La càpsula s'enfrontarà a temperatures extremes en reentrar a l'atmosfera terrestre a més de deu mil metres per segon."
     },
     {
       "title": "La prohibició d’accés a xarxes per als menors de 16 anys s’aprovarà al maig",
@@ -42,47 +74,15 @@
       "source": "El Mon.cat Societat",
       "date": "2026-04-08",
       "time": "16:26",
-      "summary": "El govern espanyol aprovarà aviat una llei orgànica per restringir l'ús de plataformes socials als més joves."
+      "summary": "El govern espanyol tirarà endavant una nova llei per protegir la intimitat i la imatge dels adolescents a internet."
     },
     {
-      "title": "Traducció al català en temps real amb auriculars: així funciona la nova eina de Google",
-      "link_id": "c_b9d019",
-      "source": "El Periódico",
-      "date": "2026-04-07",
-      "time": "08:01",
-      "summary": "La funció 'Live Translate' converteix els auriculars en intèrprets instantanis, facilitant la comunicació internacional i els viatges a l'estranger."
-    },
-    {
-      "title": "La catalana Sateliot llança una nova ronda d’inversió de 100 milions d’euros amb el suport del Govern d’Espanya",
-      "link_id": "c_cbc645",
-      "source": "El Periódico",
+      "title": "El mòbil es converteix en el teu DNI: el format digital ja és obligatori d’acceptar",
+      "link_id": "c_06bc9f",
+      "source": "MetaData",
       "date": "2026-04-08",
-      "time": "13:27",
-      "summary": "L'empresa especialitzada en satèl·lits de baixa òrbita busca finançament per consolidar la seva expansió en el sector aeroespacial."
-    },
-    {
-      "title": "El vàter de l’Artemis II, protagonista inesperat del viatge a la Lluna",
-      "link_id": "c_342988",
-      "source": "Ara.cat",
-      "date": "2026-04-08",
-      "time": "08:43",
-      "summary": "Més enllà de la fita històrica, la missió tripulada s'enfronta a imprevistos anecdòtics relacionats amb les instal·lacions sanitàries."
-    },
-    {
-      "title": "Telefónica ven el seu negoci a Mèxic per 390 milions d’euros",
-      "link_id": "c_fdf93f",
-      "source": "El Mon.cat",
-      "date": "2026-04-08",
-      "time": "19:21",
-      "summary": "La companyia de telecomunicacions continua la seva retirada d'Hispanoamèrica traspassant la filial mexicana a un consorci inversor."
-    },
-    {
-      "title": "L'iPhone plegable i més car de la història està previst que surti el setembre",
-      "link_id": "c_5368a1",
-      "source": "RAC1",
-      "date": "2026-04-08",
-      "time": "16:26",
-      "summary": "Apple planeja presentar el seu primer dispositiu amb pantalla interior flexible a finals d'estiu, confirmant anys d'especulacions."
+      "time": "10:00",
+      "summary": "L'aplicació MiDNI permetrà identificar-se oficialment des del telèfon per a tràmits quotidians, complementant el document físic tradicional."
     }
   ]
 }

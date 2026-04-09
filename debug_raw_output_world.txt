@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-04-09T10:13",
+  "generated_at": "2026-04-09T19:56",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Meta presenta un nou model d'IA desenvolupat pel seu costós laboratori de superintel·ligència",
-      "link_id": "c_fa32fb",
-      "source": "CNET",
+      "title": "Apple llança les actualitzacions iOS i macOS 26.4.1",
+      "link_id": "c_fd89a3",
+      "source": "9to5Mac",
       "date": "2026-04-09",
-      "time": "02:00",
-      "summary": "Meta llança Muse Spark, el seu primer model d'IA del laboratori de superintel·ligència, superant versions anteriors però amb mancances programant."
+      "time": "17:17",
+      "summary": "Aquesta nova versió soluciona errors de sincronització d'iCloud i activa la protecció de dispositius robats per defecte."
     },
     {
-      "title": "Amazon retira el suport als Kindle del 2012 o anteriors. Què cal fer ara",
-      "link_id": "c_ff34c9",
-      "source": "CNET",
-      "date": "2026-04-08",
-      "time": "20:47",
-      "summary": "Amazon deixarà de donar suport als Kindle anteriors al 2012, impedint descarregar-hi nous llibres a partir del maig."
-    },
-    {
-      "title": "iOS 26.4.1 inclou aquests dos canvis per als iPhones",
-      "link_id": "c_15da0e",
-      "source": "MacRumors",
-      "date": "2026-04-08",
-      "time": "19:17",
-      "summary": "L'actualització soluciona problemes de sincronització d'iCloud i activa per defecte la protecció de dispositius robats en entorns empresarials."
-    },
-    {
-      "title": "La IA d'Anthropic ajudarà Apple a trobar vulnerabilitats a iOS, macOS i Safari",
-      "link_id": "c_b4b37b",
-      "source": "MacRumors",
-      "date": "2026-04-08",
-      "time": "13:25",
-      "summary": "El nou model Mythos d'Anthropic s'utilitzarà en el Projecte Glasswing per detectar i corregir vulnerabilitats de programari abans que s'explotin."
-    },
-    {
-      "title": "Es revela el rang de preus de l'iPhone Ultra",
-      "link_id": "c_c85032",
-      "source": "MacRumors",
-      "date": "2026-04-08",
-      "time": "13:35",
-      "summary": "El primer iPhone plegable d'Apple, previst per al setembre, podria superar els 2.000 dòlars, marcant un nou rècord de preu."
-    },
-    {
-      "title": "Uber està provant furgonetes autònomes Volkswagen ID. Buzz a Los Angeles",
-      "link_id": "c_312e43",
-      "source": "Gizmodo",
-      "date": "2026-04-08",
-      "time": "21:26",
-      "summary": "Uber i Volkswagen proven microbusos autònoms a Los Angeles amb l'objectiu d'oferir viatges comercials al públic a finals de 2026."
-    },
-    {
-      "title": "S'adverteix els britànics sobre pirates informàtics russos que ataquen encaminadors d'internet per fer espionatge",
-      "link_id": "c_96f214",
+      "title": "OpenAI paralitza el projecte del centre de dades Stargate al Regne Unit",
+      "link_id": "c_4b0426",
       "source": "The Guardian Tech",
-      "date": "2026-04-08",
-      "time": "11:20",
-      "summary": "Pirates informàtics russos ataquen encaminadors domèstics per robar credencials, redirigir trànsit a llocs falsos i accedir a altres dispositius connectats."
+      "date": "2026-04-09",
+      "time": "17:13",
+      "summary": "L'empresa ha aturat aquesta inversió clau per a la intel·ligència artificial citant els alts costos energètics i la regulació."
     },
     {
-      "title": "Gemini s'integra amb NotebookLM en la darrera i potent novetat de Google",
-      "link_id": "c_7e8ead",
+      "title": "Spotify permetrà desactivar tots els vídeos de la seva aplicació",
+      "link_id": "c_3c6f79",
+      "source": "Digital Trends",
+      "date": "2026-04-09",
+      "time": "15:46",
+      "summary": "Els usuaris podran triar una experiència exclusivament d'àudio, eliminant les distraccions visuals tant en cançons com en pòdcasts."
+    },
+    {
+      "title": "Un tribunal manté la designació d'Anthropic com a risc per al Pentàgon",
+      "link_id": "c_5282fa",
+      "source": "Computerworld",
+      "date": "2026-04-09",
+      "time": "12:45",
+      "summary": "La decisió judicial avala el bloqueig governamental, generant incertesa entre els contractistes de defensa sobre l'ús de Claude."
+    },
+    {
+      "title": "Meta presenta Muse Spark, el seu nou model d'intel·ligència artificial",
+      "link_id": "c_a5bc97",
       "source": "Android Authority",
       "date": "2026-04-09",
-      "time": "02:10",
-      "summary": "Google integra la funció de llibretes a Gemini per ajudar els usuaris a organitzar xats, fitxers i projectes fàcilment."
+      "time": "12:05",
+      "summary": "Aquest sistema tancat i multimodal substitueix Llama, oferint un mode de raonament avançat per competir amb OpenAI i Google."
     },
     {
-      "title": "Dyson acaba d'anunciar el seu primer ventilador de mà, amb un motor que gira fins a 65.000 RPM",
-      "link_id": "c_398adb",
+      "title": "Google integra la seva eina de recerca NotebookLM dins de Gemini",
+      "link_id": "c_eba0bf",
       "source": "Engadget",
       "date": "2026-04-09",
-      "time": "00:01",
-      "summary": "El nou HushJet Mini Cool de Dyson és un ventilador portàtil extremadament silenciós que ofereix un flux d'aire molt potent."
+      "time": "10:18",
+      "summary": "La nova funció permet als usuaris organitzar xats i documents en llibretes directament des de l'assistent d'intel·ligència artificial."
     },
     {
-      "title": "El Google Pixel supera l'iPhone i Samsung en un informe que denuncia la reparabilitat",
-      "link_id": "c_6212a4",
-      "source": "9to5Google",
-      "date": "2026-04-08",
-      "time": "16:45",
-      "summary": "Un informe europeu suspèn Apple i Samsung en facilitat de reparació, mentre que els Google Pixel obtenen millors resultats."
+      "title": "John Deere pagarà 99 milions de dòlars per monopolitzar les reparacions",
+      "link_id": "c_b99ee7",
+      "source": "Wired",
+      "date": "2026-04-09",
+      "time": "17:27",
+      "summary": "L'acord històric pel dret a reparar obligarà el fabricant a facilitar eines de programari a tercers durant deu anys."
+    },
+    {
+      "title": "Els creadors de 1000xResist anuncien el seu nou videojoc \"Prove You're Human\"",
+      "link_id": "c_b26aa1",
+      "source": "Gizmodo",
+      "date": "2026-04-09",
+      "time": "17:00",
+      "summary": "Aquesta aventura narrativa de ciència-ficció reptarà els jugadors a convèncer una intel·ligència artificial que no és un ésser humà."
+    },
+    {
+      "title": "Amazon deixarà de donar suport als lectors Kindle anteriors al 2013",
+      "link_id": "c_ff34c9",
+      "source": "CNET",
+      "date": "2026-04-09",
+      "time": "16:31",
+      "summary": "Els usuaris d'aquests dispositius antics perdran l'accés a la botiga i no podran descarregar nous llibres electrònics al maig."
+    },
+    {
+      "title": "Microsoft bloqueja els comptes de desenvolupadors d'eines de privacitat clau",
+      "link_id": "c_2de232",
+      "source": "TechRadar",
+      "date": "2026-04-09",
+      "time": "15:50",
+      "summary": "El bloqueig impedeix als creadors de WireGuard i VeraCrypt signar actualitzacions de seguretat, deixant milions d'usuaris en risc."
     }
   ]
 }

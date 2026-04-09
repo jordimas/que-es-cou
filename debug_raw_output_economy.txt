@@ -5,84 +5,84 @@
   "sources_checked": [],
   "articles": [
     {
-      "title": "Meta llança el seu primer model d'IA des de la inversió massiva de Zuckerberg",
-      "link_id": "c_f8d73a",
-      "source": "Financial Times",
-      "date": "2026-04-08",
-      "time": "16:55",
-      "summary": "Muse Spark s'enfoca a les xarxes socials, buscant rendibilitzar les recents i multimilionàries inversions en intel·ligència artificial."
-    },
-    {
-      "title": "Els obstacles del telèfon plegable d'Apple i l'arribada d'OpenClaw a les ulleres intel·ligents",
-      "link_id": "c_fac2bc",
-      "source": "Financial Times",
-      "date": "2026-04-09",
-      "time": "06:18",
-      "summary": "Els reptes d'enginyeria retarden els dispositius plegables d'Apple, mentre noves tendències tecnològiques asiàtiques transformen els wearables."
-    },
-    {
-      "title": "El cap d'Arm, Haas, perfilarà gran part del negoci internacional de SoftBank",
-      "link_id": "c_78acea",
-      "source": "Financial Times",
-      "date": "2026-04-09",
-      "time": "04:31",
-      "summary": "Haas assumirà l'estratègia d'IA del grup japonès, compaginant aquest nou rol amb la direcció de l'empresa britànica de xips."
-    },
-    {
-      "title": "Els sectors administratius aposten per una arma secreta contra la IA: la confiança",
-      "link_id": "c_530cd9",
-      "source": "Financial Times",
-      "date": "2026-04-09",
-      "time": "04:00",
-      "summary": "Directius de finances i ciberseguretat analitzen com les eines d'Anthropic transformaran la feina sense substituir el criteri humà."
-    },
-    {
-      "title": "OpenAI assignarà accions de la seva sortida a borsa a inversors minoristes",
-      "link_id": "c_b6e750",
+      "title": "OpenAI atura el projecte Stargate al Regne Unit per preocupacions reguladores i preus de l'energia",
+      "link_id": "c_1d06e2",
       "source": "CNBC Technology",
-      "date": "2026-04-08",
-      "time": "23:16",
-      "summary": "L'empresa busca democratitzar la seva estrena borsària mentre els ingressos corporatius s'igualen ràpidament als dels consumidors."
+      "date": "2026-04-09",
+      "time": "11:42",
+      "summary": "La decisió frena la gran infraestructura d'IA planificada amb Nvidia a causa dels alts costos i la incertesa legal."
     },
     {
-      "title": "Julia Liuson, executiva d'eines per a desenvolupadors de Microsoft, es jubila després de 34 anys",
-      "link_id": "c_6762d2",
+      "title": "OpenAI paralitza el projecte del centre de dades Stargate al Regne Unit",
+      "link_id": "c_4aa09c",
+      "source": "Financial Times",
+      "date": "2026-04-09",
+      "time": "11:38",
+      "summary": "Aquest contratemps suposa un cop dur per als esforços del govern britànic de construir una intel·ligència artificial sobirana."
+    },
+    {
+      "title": "Meta es compromet a invertir 21.000 milions de dòlars addicionals en CoreWeave per l'augment de costos d'IA",
+      "link_id": "c_e2a6ae",
       "source": "CNBC Technology",
-      "date": "2026-04-08",
-      "time": "21:45",
-      "summary": "La històrica directiva deixa la companyia després d'haver assumit recentment més responsabilitats directives sobre l'equip de GitHub."
+      "date": "2026-04-09",
+      "time": "16:46",
+      "summary": "Aquesta inversió a llarg termini, prevista fins al 2032, busca assegurar la infraestructura necessària per als futurs models d'IA."
     },
     {
-      "title": "Els models d'IA podrien oferir als matemàtics un llenguatge comú",
-      "link_id": "c_2b9501",
+      "title": "La cursa per la computació quàntica està totalment oberta",
+      "link_id": "c_d8a759",
+      "source": "Financial Times",
+      "date": "2026-04-09",
+      "time": "16:44",
+      "summary": "Els inversors diversifiquen el seu capital apostant per múltiples empreses emergents que desenvolupen tecnologies quàntiques alternatives i innovadores."
+    },
+    {
+      "title": "El conseller delegat d'Amazon defensa la inversió de 200.000 milions en IA: \"No serem conservadors\"",
+      "link_id": "c_8eaf24",
+      "source": "CNBC Technology",
+      "date": "2026-04-09",
+      "time": "16:15",
+      "summary": "Jassy manté una estratègia agressiva malgrat els dubtes dels inversors, que han penalitzat les accions de la companyia enguany."
+    },
+    {
+      "title": "El coll d'ampolla dels xips que podria posar fi a l'auge d'inversió en IA",
+      "link_id": "c_8d2028",
+      "source": "Financial Times",
+      "date": "2026-04-09",
+      "time": "15:58",
+      "summary": "La dependència mundial dels semiconductors avançats de Taiwan genera un risc geopolític que amenaça el creixement tecnològic global."
+    },
+    {
+      "title": "Atenció: el punt cec de comunicació de la intel·ligència artificial",
+      "link_id": "c_c32ffe",
+      "source": "Financial Times",
+      "date": "2026-04-09",
+      "time": "14:27",
+      "summary": "La capacitat de comprendre els matisos de la veu humana esdevé un repte fonamental per a les noves tecnologies."
+    },
+    {
+      "title": "Google amplia la seva aliança amb Intel per als xips d'intel·ligència artificial",
+      "link_id": "c_72b4d0",
+      "source": "CNBC Technology",
+      "date": "2026-04-09",
+      "time": "14:15",
+      "summary": "L'acord garanteix l'ús de diverses generacions de processadors Intel per potenciar els centres de dades d'IA de Google."
+    },
+    {
+      "title": "L'esperat model d'IA de Meta ja és aquí. Però pot generar diners?",
+      "link_id": "c_67bcf4",
+      "source": "CNBC Technology",
+      "date": "2026-04-09",
+      "time": "13:38",
+      "summary": "El gran repte de la companyia ara és monetitzar aquesta nova eina tecnològica després d'un any de desenvolupament."
+    },
+    {
+      "title": "Sir Demis Hassabis vol automatitzar el disseny de fàrmacs",
+      "link_id": "c_81cd7b",
       "source": "The Economist",
-      "date": "2026-04-08",
-      "time": "17:45",
-      "summary": "Aquestes eines prometen revolucionar la disciplina facilitant i unificant els complexos processos de verificació de demostracions matemàtiques."
-    },
-    {
-      "title": "Per què s'equivoquen els catastrofistes del 'SaaSpocalypse'",
-      "link_id": "c_95afbe",
-      "source": "Financial Times",
-      "date": "2026-04-08",
-      "time": "16:04",
-      "summary": "Les transicions tecnològiques actuals generen dificultats a curt termini, però prometen grans beneficis i creixement a llarg termini."
-    },
-    {
-      "title": "Anthropic dona el seu vistiplau d'IA a valors de ciberseguretat i grans tecnològiques",
-      "link_id": "c_8aed5f",
-      "source": "CNBC Technology",
-      "date": "2026-04-08",
-      "time": "16:02",
-      "summary": "Els recents anuncis de l'empresa han impulsat positivament el mercat, trencant la tendència de vendes d'ocasions anteriors."
-    },
-    {
-      "title": "Alibaba obre un centre de dades amb 10.000 xips propis impulsant la IA a la Xina",
-      "link_id": "c_8c9f58",
-      "source": "CNBC Technology",
-      "date": "2026-04-08",
-      "time": "13:06",
-      "summary": "En col·laboració amb China Telecom, la nova instal·lació busca potenciar l'entrenament i la inferència de models d'intel·ligència artificial."
+      "date": "2026-04-09",
+      "time": "13:08",
+      "summary": "El director de Google DeepMind explora com la intel·ligència artificial pot revolucionar i accelerar la creació de nous medicaments."
     }
   ]
 }
