@@ -1,5 +1,5 @@
 {
-  "generated_at": "2024-05-20T18:00",
+  "generated_at": "2024-05-24T18:30",
   "id": "podcasts",
   "title": "Podcasts en català sobre tecnologia",
   "sources_checked": [],
@@ -10,7 +10,15 @@
       "source": "Mossega la poma",
       "date": "2026-03-30",
       "time": "10:32",
-      "summary": "Debat sobre la degradació dels serveis digitals, prioritzant el negoci per sobre de l'usuari, amb exemples com iVoox."
+      "summary": "Anàlisi de com les plataformes digitals prioritzen el negoci per sobre de l'usuari, perdent l'essència original."
+    },
+    {
+      "title": "L' Altra Ràdio - Condemna judicial a Meta i Google per causar addicció a les xarxes socials",
+      "link_id": "c_a93f46",
+      "source": "L'altra ràdio",
+      "date": "2026-04-09",
+      "time": "07:33",
+      "summary": "Una experta del BSC valora la sentència històrica contra els gegants tecnològics per fomentar l'addicció juvenil."
     },
     {
       "title": "L' Altra Ràdio - L'ONU i els drets de les dones a la societat i en el sector tecnològic",
@@ -18,7 +26,7 @@
       "source": "L'altra ràdio",
       "date": "2026-04-02",
       "time": "07:33",
-      "summary": "Karina Gibert explica les accions de l'ONU per protegir els drets femenins en la societat i la tecnologia."
+      "summary": "Karina Gibert detalla les iniciatives de les Nacions Unides per garantir la igualtat de gènere tecnològica."
     },
     {
       "title": "L' Altra Ràdio - Les persones que fan servir la llengua de signes catalana poden fer ràdio",
@@ -26,7 +34,7 @@
       "source": "L'altra ràdio",
       "date": "2026-03-26",
       "time": "08:33",
-      "summary": "Presentació de Signària, una eina de veu sintètica perquè persones sordes puguin fer ràdio en llengua de signes."
+      "summary": "El projecte Signària revoluciona les ones permetent a persones sordes emetre mitjançant veus sintètiques personalitzades."
     },
     {
       "title": "El futur de la premsa, de l'educació i el problema de l'accès a les dades obertes",
@@ -34,7 +42,7 @@
       "source": "Internet amb Genís Roca",
       "date": "2026-03-29",
       "time": "02:37",
-      "summary": "Reflexió profunda sobre els reptes del periodisme, l'ensenyament i les dificultats per accedir a dades públiques."
+      "summary": "Reflexió profunda sobre els reptes del periodisme, l'ensenyament i la transparència de la informació pública."
     },
     {
       "title": "El futur de la premsa, de l'educació i el problema de l'accès a les dades obertes",
@@ -42,7 +50,7 @@
       "source": "Internet amb Genís Roca",
       "date": "2026-03-28",
       "time": "19:14",
-      "summary": "Anàlisi sobre l'evolució dels mitjans, el sistema educatiu i els obstacles en l'accés a la informació oberta."
+      "summary": "Debat obert sobre la transformació dels mitjans, el sistema educatiu i la gestió de dades."
     },
     {
       "title": "Tancat amb Claude",
@@ -50,7 +58,7 @@
       "source": "Foc a Terra",
       "date": "2026-04-06",
       "time": "04:00",
-      "summary": "Recomanació de Factory Floor, una aplicació nativa per a macOS dissenyada per facilitar el treball amb Claude Code."
+      "summary": "Descobreix Factory Floor, una nova aplicació nativa per a macOS que facilita treballar amb Claude Code."
     },
     {
       "title": "La gamificació de la renda",
@@ -58,7 +66,7 @@
       "source": "Foc a Terra",
       "date": "2026-03-30",
       "time": "04:00",
-      "summary": "Repàs de subvencions.cat, l'impacte del vibecoding i una proposta curiosa per gamificar la declaració de la renda."
+      "summary": "Repàs a l'èxit de subvencions.cat i com la programació assistida pot transformar tràmits com la declaració."
     },
     {
       "title": "No tenim pas res enllestit per a WordPress 7.0",
@@ -66,7 +74,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-04-07",
       "time": "00:00",
-      "summary": "Retards inesperats en el llançament de la nova versió del gestor de continguts després de revisar les candidates."
+      "summary": "Els desenvolupadors replantegen aspectes clau de la nova versió després de provar les edicions candidates."
     },
     {
       "title": "Tot a punt per a la versió WordPress 7.0",
@@ -74,7 +82,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-03-31",
       "time": "00:00",
-      "summary": "La nova actualització del CMS entra en la fase final, centrant-se exclusivament a polir els últims detalls."
+      "summary": "La comunitat ultima els detalls finals abans del llançament definitiu d'aquesta gran actualització del gestor."
     },
     {
       "title": "Capítol 62: Mitiga, invertir pensant en el risc climàtic",
@@ -82,7 +90,7 @@
       "source": "RAC&GO",
       "date": "2026-04-07",
       "time": "06:00",
-      "summary": "Entrevista a Àlex Martí sobre Mitiga, una eina per ajudar les empreses a avaluar riscos climàtics abans d'invertir."
+      "summary": "L'empresa Mitiga ajuda les companyies a avaluar l'impacte del canvi climàtic abans de prendre decisions estratègiques."
     }
   ]
 }

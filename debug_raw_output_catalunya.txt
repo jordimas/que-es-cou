@@ -1,24 +1,40 @@
 {
-  "generated_at": "2026-04-09T18:00",
+  "generated_at": "2024-05-24T16:30",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [],
   "articles": [
+    {
+      "title": "Compte enrere per a la tornada a la Terra: la missió Artemis II s’acabarà aquesta matinada",
+      "link_id": "c_5114ea",
+      "source": "VilaWeb",
+      "date": "2026-04-09",
+      "time": "19:40",
+      "summary": "La nau Orion finalitza el seu viatge històric al voltant de la Lluna amb un amaratge previst aquesta matinada."
+    },
+    {
+      "title": "Artemis 2: com serà la tornada a la Terra i el complex dispositiu per recuperar els astronautes",
+      "link_id": "c_d1cd05",
+      "source": "324.cat",
+      "date": "2026-04-10",
+      "time": "06:59",
+      "summary": "La càpsula reingressarà a l'atmosfera a gran velocitat, activant un ampli operatiu de rescat per a la tripulació."
+    },
     {
       "title": "Així és el Raval, el primer cotxe elèctric fabricat a Martorell",
       "link_id": "c_55d75a",
       "source": "Ara.cat",
       "date": "2026-04-09",
       "time": "10:51",
-      "summary": "Seat presenta el seu primer vehicle totalment elèctric dissenyat i produït a Catalunya, amb 400 km d'autonomia."
+      "summary": "El nou Cupra Raval ofereix fins a 450 quilòmetres d'autonomia i esdevé una fita per a la indústria local."
     },
     {
-      "title": "Seat presenta el Cupra Raval, la gran aposta elèctrica per garantir el futur de Martorell",
-      "link_id": "c_11c976",
-      "source": "324.cat",
+      "title": "Seat desvela el nou Cupra Raval, el primer 100% elèctric fet a Martorell",
+      "link_id": "c_0bc9ce",
+      "source": "Via Empresa",
       "date": "2026-04-09",
-      "time": "09:52",
-      "summary": "La fabricació d'aquest nou model assegura la viabilitat de la planta catalana en la transició cap a l'electromobilitat."
+      "time": "13:05",
+      "summary": "Aquest model clau busca democratitzar l'electromobilitat i assegurar el creixement futur de la marca automobilística."
     },
     {
       "title": "La UPC crea la primera infraestructura per provar la 6G en entorns reals",
@@ -26,63 +42,47 @@
       "source": "La Vanguardia (en català)",
       "date": "2026-04-09",
       "time": "05:58",
-      "summary": "Aquest banc de proves pioner permetrà validar tecnologies avançades aplicades a la robòtica i els drons."
+      "summary": "Aquest banc de proves pioner permetrà validar avenços tecnològics aplicats a la robòtica i els drons."
     },
     {
-      "title": "Més IA i robots: Barcelona inaugura una xarxa única a Espanya per experimentar amb les tecnologies 5G i 6G",
-      "link_id": "c_3ad901",
-      "source": "El Periódico",
-      "date": "2026-04-08",
-      "time": "11:47",
-      "summary": "La nova instal·lació de la UPC accelerarà el desenvolupament de la pròxima generació de telecomunicacions al país."
-    },
-    {
-      "title": "L'Agència Tributària avisa que fer servir la IA per fer la renda pot sortir molt car: \"Jo no m'arriscaria\"",
-      "link_id": "c_f5e2d6",
-      "source": "RAC1",
-      "date": "2026-04-09",
-      "time": "09:27",
-      "summary": "Hisenda alerta dels riscos d'utilitzar eines com ChatGPT per a la declaració, ja que els errors poden comportar sancions."
-    },
-    {
-      "title": "Declaració de la renda i IA: per què es desaconsella l'ús de ChatGPT",
-      "link_id": "c_4b5f9e",
-      "source": "324.cat",
-      "date": "2026-04-09",
-      "time": "06:49",
-      "summary": "Els experts recomanen evitar la intel·ligència artificial per a tràmits fiscals a causa de la seva manca de precisió."
-    },
-    {
-      "title": "Els astronautes d'Artemis 2 reparen el lavabo, però la NASA reviu un problema que encara és un repte pendent de resoldre",
-      "link_id": "c_13ecd7",
-      "source": "RAC1",
-      "date": "2026-04-09",
-      "time": "11:42",
-      "summary": "La tripulació es prepara per a l'aterratge al Pacífic després de superar diversos contratemps tècnics durant la missió lunar."
-    },
-    {
-      "title": "Els astronautes de l’Artemis preparen l’aterratge al Pacífic, previst per a divendres",
-      "link_id": "c_76112f",
-      "source": "Àpunt",
-      "date": "2026-04-09",
-      "time": "17:42",
-      "summary": "La càpsula s'enfrontarà a temperatures extremes en reentrar a l'atmosfera terrestre a més de deu mil metres per segon."
-    },
-    {
-      "title": "La prohibició d’accés a xarxes per als menors de 16 anys s’aprovarà al maig",
-      "link_id": "c_face87",
-      "source": "El Mon.cat Societat",
-      "date": "2026-04-08",
-      "time": "16:26",
-      "summary": "El govern espanyol tirarà endavant una nova llei per protegir la intimitat i la imatge dels adolescents a internet."
-    },
-    {
-      "title": "El mòbil es converteix en el teu DNI: el format digital ja és obligatori d’acceptar",
-      "link_id": "c_06bc9f",
+      "title": "La UPC desplega 6GLabNet, una infraestructura pionera per provar el 6G en entorns reals",
+      "link_id": "c_e89b74",
       "source": "MetaData",
-      "date": "2026-04-08",
-      "time": "10:00",
-      "summary": "L'aplicació MiDNI permetrà identificar-se oficialment des del telèfon per a tràmits quotidians, complementant el document físic tradicional."
+      "date": "2026-04-09",
+      "time": "16:31",
+      "summary": "La xarxa experimental combina intel·ligència artificial i fibra òptica per accelerar el desenvolupament de nous serveis digitals."
+    },
+    {
+      "title": "Primera pedra per potenciar el port de Barcelona com a porta d'entrada dels cotxes xinesos",
+      "link_id": "c_9070c5",
+      "source": "Ara.cat",
+      "date": "2026-04-09",
+      "time": "16:33",
+      "summary": "Una nova terminal logística ampliarà la capacitat del port per rebre vehicles asiàtics i reforçar el sector."
+    },
+    {
+      "title": "Comencen les obres de l’edifici del Parc de Recerca Biomèdica de Barcelona",
+      "link_id": "c_92c6e6",
+      "source": "Tot Barcelona",
+      "date": "2026-04-09",
+      "time": "16:17",
+      "summary": "El nou equipament científic s'ubicarà a l'antic Mercat del Peix per impulsar la investigació en salut."
+    },
+    {
+      "title": "Traducció al català en temps real amb auriculars: així funciona la nova eina de Google",
+      "link_id": "c_b9d019",
+      "source": "El Periódico",
+      "date": "2026-04-07",
+      "time": "08:01",
+      "summary": "La funció 'Live Translate' facilita la comunicació internacional convertint els auriculars en un traductor instantani molt pràctic."
+    },
+    {
+      "title": "La intel·ligència artificial en català al vostre ordinador personal",
+      "link_id": "c_f0a29d",
+      "source": "Softcatalà",
+      "date": "2026-04-06",
+      "time": "16:05",
+      "summary": "Una nova guia explica com executar models d'IA localment sense dependre de serveis externs ni connexió."
     }
   ]
 }

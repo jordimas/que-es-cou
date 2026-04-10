@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-04-09T19:56",
+  "generated_at": "2026-04-10T10:17",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Apple llança les actualitzacions iOS i macOS 26.4.1",
-      "link_id": "c_fd89a3",
-      "source": "9to5Mac",
-      "date": "2026-04-09",
-      "time": "17:17",
-      "summary": "Aquesta nova versió soluciona errors de sincronització d'iCloud i activa la protecció de dispositius robats per defecte."
-    },
-    {
-      "title": "OpenAI paralitza el projecte del centre de dades Stargate al Regne Unit",
-      "link_id": "c_4b0426",
-      "source": "The Guardian Tech",
-      "date": "2026-04-09",
-      "time": "17:13",
-      "summary": "L'empresa ha aturat aquesta inversió clau per a la intel·ligència artificial citant els alts costos energètics i la regulació."
-    },
-    {
-      "title": "Spotify permetrà desactivar tots els vídeos de la seva aplicació",
-      "link_id": "c_3c6f79",
-      "source": "Digital Trends",
-      "date": "2026-04-09",
-      "time": "15:46",
-      "summary": "Els usuaris podran triar una experiència exclusivament d'àudio, eliminant les distraccions visuals tant en cançons com en pòdcasts."
-    },
-    {
-      "title": "Un tribunal manté la designació d'Anthropic com a risc per al Pentàgon",
-      "link_id": "c_5282fa",
-      "source": "Computerworld",
-      "date": "2026-04-09",
-      "time": "12:45",
-      "summary": "La decisió judicial avala el bloqueig governamental, generant incertesa entre els contractistes de defensa sobre l'ús de Claude."
-    },
-    {
-      "title": "Meta presenta Muse Spark, el seu nou model d'intel·ligència artificial",
-      "link_id": "c_a5bc97",
+      "title": "ChatGPT acaba de rebre un pla Pro un 50% més barat per competir amb Claude d'Anthropic",
+      "link_id": "c_135238",
       "source": "Android Authority",
-      "date": "2026-04-09",
-      "time": "12:05",
-      "summary": "Aquest sistema tancat i multimodal substitueix Llama, oferint un mode de raonament avançat per competir amb OpenAI i Google."
+      "date": "2026-04-10",
+      "time": "06:53",
+      "summary": "OpenAI llança un pla Pro de 100 dòlars mensuals per a ChatGPT, buscant competir directament amb Claude d'Anthropic."
     },
     {
-      "title": "Google integra la seva eina de recerca NotebookLM dins de Gemini",
-      "link_id": "c_eba0bf",
-      "source": "Engadget",
-      "date": "2026-04-09",
-      "time": "10:18",
-      "summary": "La nova funció permet als usuaris organitzar xats i documents en llibretes directament des de l'assistent d'intel·ligència artificial."
-    },
-    {
-      "title": "John Deere pagarà 99 milions de dòlars per monopolitzar les reparacions",
-      "link_id": "c_b99ee7",
-      "source": "Wired",
-      "date": "2026-04-09",
-      "time": "17:27",
-      "summary": "L'acord històric pel dret a reparar obligarà el fabricant a facilitar eines de programari a tercers durant deu anys."
-    },
-    {
-      "title": "Els creadors de 1000xResist anuncien el seu nou videojoc \"Prove You're Human\"",
-      "link_id": "c_b26aa1",
-      "source": "Gizmodo",
-      "date": "2026-04-09",
-      "time": "17:00",
-      "summary": "Aquesta aventura narrativa de ciència-ficció reptarà els jugadors a convèncer una intel·ligència artificial que no és un ésser humà."
-    },
-    {
-      "title": "Amazon deixarà de donar suport als lectors Kindle anteriors al 2013",
-      "link_id": "c_ff34c9",
+      "title": "Ja són aquí els comentaris d'Instagram sense errors: com editar els teus",
+      "link_id": "c_3c6fc7",
       "source": "CNET",
       "date": "2026-04-09",
-      "time": "16:31",
-      "summary": "Els usuaris d'aquests dispositius antics perdran l'accés a la botiga i no podran descarregar nous llibres electrònics al maig."
+      "time": "20:45",
+      "summary": "Instagram ara permet als usuaris editar els seus comentaris durant els 15 minuts posteriors a la seva publicació."
     },
     {
-      "title": "Microsoft bloqueja els comptes de desenvolupadors d'eines de privacitat clau",
-      "link_id": "c_2de232",
+      "title": "Spotify ara ofereix la possibilitat de desactivar els vídeos no desitjats",
+      "link_id": "c_b31a04",
+      "source": "CNET",
+      "date": "2026-04-09",
+      "time": "19:09",
+      "summary": "La plataforma de música afegeix controls globals per desactivar els vídeos, oferint una experiència exclusivament d'àudio als usuaris."
+    },
+    {
+      "title": "'Noció orwelliana': els treballadors federals recuperen l'accés a Claude AI després que un jutge anul·li la prohibició d'Anthropic de Trump",
+      "link_id": "c_cffcff",
       "source": "TechRadar",
       "date": "2026-04-09",
-      "time": "15:50",
-      "summary": "El bloqueig impedeix als creadors de WireGuard i VeraCrypt signar actualitzacions de seguretat, deixant milions d'usuaris en risc."
+      "time": "21:35",
+      "summary": "Un jutge bloqueja la prohibició governamental sobre Anthropic, permetent als treballadors federals tornar a utilitzar la intel·ligència artificial Claude."
+    },
+    {
+      "title": "OpenAI atura l'acord del centre de dades al Regne Unit pels costos energètics i la regulació",
+      "link_id": "c_fc1b2b",
+      "source": "BBC Technology",
+      "date": "2026-04-09",
+      "time": "20:36",
+      "summary": "L'empresa atura el projecte Stargate al Regne Unit a causa dels alts costos energètics i l'entorn regulador desfavorable."
+    },
+    {
+      "title": "Volkswagen abandona els plans del vehicle elèctric ID.4 per als compradors dels Estats Units",
+      "link_id": "c_dd55b3",
+      "source": "Digital Trends",
+      "date": "2026-04-10",
+      "time": "07:09",
+      "summary": "El fabricant alemany atura la producció del vehicle elèctric ID.4 als Estats Units per centrar-se en models de gasolina."
+    },
+    {
+      "title": "Apple tancarà la seva primera botiga sindicalitzada als Estats Units",
+      "link_id": "c_04aa20",
+      "source": "Bloomberg Technology",
+      "date": "2026-04-09",
+      "time": "23:19",
+      "summary": "Apple tancarà tres botigues als Estats Units aquest juny, incloent-hi la primera que es va sindicalitzar a Maryland."
+    },
+    {
+      "title": "Florida inicia una investigació sobre OpenAI",
+      "link_id": "c_9ef628",
+      "source": "The Verge",
+      "date": "2026-04-09",
+      "time": "22:17",
+      "summary": "El fiscal general de Florida investiga OpenAI per possibles riscos de seguretat nacional i la seva vinculació amb tirotejos."
+    },
+    {
+      "title": "John Deere pagarà 99 milions de dòlars als agricultors per una demanda sobre el dret a reparar",
+      "link_id": "c_d4debf",
+      "source": "The Verge",
+      "date": "2026-04-09",
+      "time": "21:21",
+      "summary": "L'empresa agrícola pagarà 99 milions de dòlars per resoldre una demanda col·lectiva sobre el dret a reparar maquinària."
+    },
+    {
+      "title": "L'aplicació Meta AI puja al número 5 de l'App Store després del llançament de Muse Spark",
+      "link_id": "c_dfa685",
+      "source": "TechCrunch",
+      "date": "2026-04-09",
+      "time": "19:10",
+      "summary": "El llançament del nou model d'intel·ligència artificial de Meta impulsa la seva aplicació als primers llocs de descàrregues."
     }
   ]
 }
