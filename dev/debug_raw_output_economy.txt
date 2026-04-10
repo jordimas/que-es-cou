@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-04-09T13:43",
+  "generated_at": "2026-04-10T13:38",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "OpenAI atura el projecte Stargate al Regne Unit per la regulació i els preus de l'energia",
+      "title": "OpenAI atura el projecte Stargate al Regne Unit per preocupacions reguladores i de preus de l'energia",
       "link_id": "c_1d06e2",
       "source": "CNBC Technology",
       "date": "2026-04-09",
       "time": "11:42",
-      "summary": "La infraestructura d'IA, planificada amb Nvidia, s'enfronta a obstacles que frenen l'ambició tecnològica britànica."
+      "summary": "L'empresa frena aquesta gran infraestructura d'IA, desenvolupada amb Nvidia, a causa dels alts costos i la incertesa legal."
     },
     {
-      "title": "Meta estrena un nou model d'IA per atrapar Google i OpenAI després d'invertir milers de milions",
-      "link_id": "c_4a1f0c",
+      "title": "Alibaba revela que està darrere d'un model de vídeo d'IA viral que domina les classificacions",
+      "link_id": "c_0b60ee",
       "source": "CNBC Technology",
-      "date": "2026-04-08",
-      "time": "23:21",
-      "summary": "Muse Spark, liderat per Alexandr Wang, busca rendibilitzar les enormes inversions de la companyia en intel·ligència artificial."
+      "date": "2026-04-10",
+      "time": "08:56",
+      "summary": "El gegant xinès confirma l'autoria d'aquesta misteriosa i exitosa eina, consolidant la seva posició en la intel·ligència artificial global."
     },
     {
-      "title": "La pèrdua de llocs de treball per la IA se centra en l'agrupació de tasques",
-      "link_id": "c_4086f5",
-      "source": "Financial Times",
-      "date": "2026-04-09",
-      "time": "11:30",
-      "summary": "Les dades recents confirmen que la intel·ligència artificial ja està desplaçant els treballadors d'oficina, validant les teories econòmiques."
-    },
-    {
-      "title": "Meta es compromet a invertir 21.000 milions de dòlars addicionals en CoreWeave per l'encariment de la IA",
-      "link_id": "c_e2a6ae",
+      "title": "TSMC registra un augment del 35% en ingressos fins a un nou rècord per la forta demanda de xips d'IA",
+      "link_id": "c_60bf67",
       "source": "CNBC Technology",
-      "date": "2026-04-09",
-      "time": "10:50",
-      "summary": "Aquest acord a llarg termini, vigent fins al 2032, subratlla la necessitat creixent d'infraestructura al núvol."
+      "date": "2026-04-10",
+      "time": "08:13",
+      "summary": "El fabricant es beneficia de les comandes constants de semiconductors avançats per part de clients clau com Apple i Nvidia."
     },
     {
-      "title": "Els contratemps dels plegables d'Apple i l'arribada d'OpenClaw a les ulleres intel·ligents",
-      "link_id": "c_fac2bc",
+      "title": "Alibaba prioritza els ingressos per sobre de la IA de codi obert",
+      "link_id": "c_03cbaf",
       "source": "Financial Times",
-      "date": "2026-04-09",
-      "time": "06:18",
-      "summary": "Les dificultats tècniques a l'Àsia marquen el ritme de les noves tendències en dispositius portables i pantalles flexibles."
-    },
-    {
-      "title": "El cap d'Arm, Haas, es perfila per dirigir gran part del negoci internacional de SoftBank",
-      "link_id": "c_78acea",
-      "source": "Financial Times",
-      "date": "2026-04-09",
-      "time": "04:31",
-      "summary": "A més de dirigir l'empresa britànica de xips, assumirà l'estratègia global d'intel·ligència artificial del conglomerat japonès."
-    },
-    {
-      "title": "Els sectors professionals aposten per una arma secreta contra la IA: la confiança",
-      "link_id": "c_530cd9",
-      "source": "Financial Times",
-      "date": "2026-04-09",
+      "date": "2026-04-10",
       "time": "04:00",
-      "summary": "Directius de finances i ciberseguretat analitzen els límits dels connectors de Claude d'Anthropic en l'entorn laboral."
+      "summary": "Aquest canvi d'estratègia podria impactar la comunitat global de desenvolupadors que depèn dels models Qwen de l'empresa xinesa."
     },
     {
-      "title": "Anthropic perd el recurs per bloquejar temporalment el seu veto al Pentàgon",
-      "link_id": "c_7dfc28",
-      "source": "CNBC Technology",
-      "date": "2026-04-08",
-      "time": "23:52",
-      "summary": "Un tribunal federal rebutja la petició de l'empresa d'IA, mantenint la tensió legal amb el Departament de Defensa."
+      "title": "Bessent convoca els consellers delegats dels bancs dels EUA per debatre els riscos cibernètics del model d'Anthropic",
+      "link_id": "c_8f2c20",
+      "source": "Financial Times",
+      "date": "2026-04-10",
+      "time": "02:11",
+      "summary": "El secretari del Tresor nord-americà alerta el sector financer després que el sistema d'IA detectés vulnerabilitats històriques."
     },
     {
-      "title": "OpenAI destinarà accions de la seva sortida a borsa a inversors minoristes",
-      "link_id": "c_b6e750",
+      "title": "Alibaba lidera una inversió de 290 milions de dòlars per crear un nou model d'IA",
+      "link_id": "c_ed605f",
       "source": "CNBC Technology",
-      "date": "2026-04-08",
-      "time": "23:16",
-      "summary": "L'empresa busca democratitzar la seva estrena borsària mentre els ingressos corporatius s'acosten a igualar els dels consumidors."
+      "date": "2026-04-10",
+      "time": "02:00",
+      "summary": "La injecció de capital a la emergent Shengshu busca superar els límits actuals i desenvolupar aplicacions robòtiques més pràctiques."
     },
     {
-      "title": "La directiva d'eines per a desenvolupadors de Microsoft, Julia Liuson, es jubila després de 34 anys",
-      "link_id": "c_6762d2",
+      "title": "OpenAI critica Anthropic en un memoràndum als accionistes mentre el seu rival guanya impuls",
+      "link_id": "c_b69ebd",
       "source": "CNBC Technology",
-      "date": "2026-04-08",
-      "time": "21:45",
-      "summary": "La seva marxa marca la fi d'una era clau en la integració i lideratge de GitHub dins l'empresa."
+      "date": "2026-04-10",
+      "time": "00:00",
+      "summary": "L'empresa adverteix els inversors sobre les limitacions tècniques del seu principal competidor en plena cursa pel lideratge del sector."
+    },
+    {
+      "title": "Les empreses emergents asiàtiques evolucionen per transformar indústries amb IA",
+      "link_id": "c_22a3ab",
+      "source": "Financial Times",
+      "date": "2026-04-09",
+      "time": "23:01",
+      "summary": "Els emprenedors centren els seus esforços a optimitzar sectors tradicionals com la logística, la fabricació i la sanitat."
+    },
+    {
+      "title": "La Xina atreu el seu millor talent en IA des de Silicon Valley",
+      "link_id": "c_b61d18",
+      "source": "Financial Times",
+      "date": "2026-04-09",
+      "time": "23:01",
+      "summary": "Enginyers i científics tornen al seu país buscant millors salaris i qualitat de vida davant l'hostilitat creixent dels EUA."
+    },
+    {
+      "title": "xAI demanda Colorado per la primera llei estatal contra la discriminació en la IA",
+      "link_id": "c_079e8e",
+      "source": "Financial Times",
+      "date": "2026-04-09",
+      "time": "20:45",
+      "summary": "El laboratori d'Elon Musk argumenta que aquesta nova normativa pionera vulnera les proteccions a la llibertat d'expressió."
     }
   ]
 }

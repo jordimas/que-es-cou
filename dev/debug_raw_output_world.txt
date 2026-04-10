@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-04-09T13:43",
+  "generated_at": "2026-04-10T13:40",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Meta presenta un nou model d'IA desenvolupat pels seus nous laboratoris de superintel·ligència",
-      "link_id": "c_fa32fb",
-      "source": "CNET",
-      "date": "2026-04-09",
-      "time": "02:00",
-      "summary": "Muse Spark supera els models anteriors de Meta, però encara va per darrere dels seus rivals en programació."
+      "title": "ChatGPT llança un pla Pro un 50% més barat per competir amb Claude d'Anthropic",
+      "link_id": "c_135238",
+      "source": "Android Authority",
+      "date": "2026-04-10",
+      "time": "06:53",
+      "summary": "Aquesta nova subscripció de 100 dòlars mensuals ofereix límits d'ús més alts, ideal per a programadors intensius."
     },
     {
-      "title": "Amazon retira el suport per als Kindle del 2012 o anteriors",
-      "link_id": "c_ff34c9",
-      "source": "CNET",
-      "date": "2026-04-08",
-      "time": "20:47",
-      "summary": "A partir del maig, els usuaris d'aquests lectors electrònics antics ja no podran descarregar ni comprar llibres nous."
-    },
-    {
-      "title": "L'iPhone Ultra plegable podria costar més que un MacBook Pro M5",
-      "link_id": "c_2534cf",
+      "title": "OpenAI atura el projecte Stargate al Regne Unit pels costos energètics i el bloqueig normatiu",
+      "link_id": "c_0d989f",
       "source": "TechRadar",
-      "date": "2026-04-09",
-      "time": "10:28",
-      "summary": "Les filtracions apunten que el primer telèfon plegable d'Apple, previst per al setembre, tindrà un preu molt exclusiu."
+      "date": "2026-04-10",
+      "time": "10:25",
+      "summary": "Aquesta decisió suposa un cop dur per a les ambicions britàniques d'esdevenir una superpotència en intel·ligència artificial."
     },
     {
-      "title": "iOS 26.4.1 inclou aquests dos canvis per als usuaris d'iPhone",
-      "link_id": "c_15da0e",
-      "source": "MacRumors",
-      "date": "2026-04-08",
-      "time": "19:17",
-      "summary": "L'actualització soluciona un error de sincronització d'iCloud i activa per defecte la protecció de dispositius robats per a empreses."
+      "title": "Els EUA convoquen els directius bancaris pels riscos cibernètics del nou model d'IA d'Anthropic",
+      "link_id": "c_afa6a3",
+      "source": "The Guardian",
+      "date": "2026-04-10",
+      "time": "08:16",
+      "summary": "La reunió a Washington aborda els perills potencials de Claude Mythos per a la seguretat de les aplicacions financeres."
     },
     {
-      "title": "Google integra NotebookLM, la seva eina de recerca, dins de Gemini",
-      "link_id": "c_eba0bf",
-      "source": "Engadget",
-      "date": "2026-04-09",
-      "time": "10:18",
-      "summary": "Els usuaris ara poden organitzar xats, fitxers i projectes directament al xatbot d'IA mitjançant la nova funció de llibretes."
-    },
-    {
-      "title": "El primer ventilador de mà de Dyson arriba a temps per a l'estiu",
-      "link_id": "c_81a447",
+      "title": "Arriben els comentaris sense errors a Instagram: així és com pots editar els teus",
+      "link_id": "c_3c6fc7",
       "source": "CNET",
       "date": "2026-04-09",
-      "time": "09:03",
-      "summary": "El HushJet Mini Cool és portàtil, silenciós i ofereix un flux d'aire potent per combatre la calor a qualsevol lloc."
+      "time": "20:45",
+      "summary": "La plataforma ofereix ara un marge de 15 minuts per corregir errades sense haver d'esborrar i tornar a publicar."
     },
     {
-      "title": "Els astronautes de l'Artemis II presencien la col·lisió de 6 meteorits amb la Lluna",
-      "link_id": "c_4f4b58",
+      "title": "Spotify afegeix controls globals de vídeo perquè finalment puguis escoltar només àudio",
+      "link_id": "c_258492",
+      "source": "Android Authority",
+      "date": "2026-04-09",
+      "time": "18:24",
+      "summary": "Aquesta funció permetrà als usuaris desactivar els clips visuals i centrar-se exclusivament en la música o els pòdcasts."
+    },
+    {
+      "title": "El teu Galaxy és a la llista? Tots els telèfons Samsung que reben suport per a AirDrop",
+      "link_id": "c_8a05e9",
+      "source": "Android Authority",
+      "date": "2026-04-09",
+      "time": "17:21",
+      "summary": "La nova actualització beta de One UI 8.5 amplia la compatibilitat per compartir fitxers a més dispositius de la marca."
+    },
+    {
+      "title": "Microsoft suspèn els comptes de desenvolupadors de projectes de codi obert d'alt perfil",
+      "link_id": "c_959055",
+      "source": "Hacker News",
+      "date": "2026-04-10",
+      "time": "11:20",
+      "summary": "El bloqueig afecta eines de privacitat com VeraCrypt i WireGuard, impedint actualitzacions de seguretat per un problema de verificació."
+    },
+    {
+      "title": "La nova IA de Meta em va demanar dades de salut i em va donar mals consells",
+      "link_id": "c_18f64a",
       "source": "Wired",
-      "date": "2026-04-09",
+      "date": "2026-04-10",
+      "time": "09:30",
+      "summary": "El model Muse Spark analitza resultats mèdics, però presenta greus riscos de privacitat i no pot substituir un metge real."
+    },
+    {
+      "title": "Com i quan veure el retorn a la Terra de la missió Artemis II",
+      "link_id": "c_b13d13",
+      "source": "Wired",
+      "date": "2026-04-10",
       "time": "09:00",
-      "summary": "La tripulació va captar imatges impressionants de la cara oculta de la Lluna durant el seu històric vol orbital."
+      "summary": "La NASA retransmetrà en directe l'històric amaratge de la tripulació, previst per a aquest divendres al vespre."
     },
     {
-      "title": "Uber prova les furgonetes autònomes Volkswagen ID. Buzz a Los Angeles",
-      "link_id": "c_312e43",
-      "source": "Gizmodo",
-      "date": "2026-04-08",
-      "time": "21:26",
-      "summary": "L'empresa de mobilitat preveu oferir viatges comercials amb aquests vehicles sense conductor a finals de l'any 2026."
-    },
-    {
-      "title": "Hackers vinculats a l'Iran interrompen operacions en infraestructures crítiques dels EUA",
-      "link_id": "c_edda07",
-      "source": "Ars Technica",
-      "date": "2026-04-08",
-      "time": "20:49",
-      "summary": "Els atacs cibernètics contra instal·lacions d'aigua i energia nord-americanes s'han intensificat enmig de les tensions geopolítiques al Pròxim Orient."
-    },
-    {
-      "title": "Els telèfons econòmics de Motorola ara seran més cars",
-      "link_id": "c_c65e99",
+      "title": "Volkswagen abandona els plans del vehicle elèctric ID.4 per als compradors dels Estats Units",
+      "link_id": "c_dd55b3",
       "source": "Digital Trends",
-      "date": "2026-04-09",
-      "time": "11:36",
-      "summary": "La companyia ha augmentat sobtadament el preu de la sèrie Moto G 2026, qüestionant la seva reputació de marca assequible."
+      "date": "2026-04-10",
+      "time": "07:09",
+      "summary": "Després d'anys de vendes inestables, la marca alemanya apostarà pel model Atlas per mantenir el seu negoci nord-americà."
     }
   ]
 }
