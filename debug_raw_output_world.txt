@@ -1,32 +1,85 @@
 {
-  "generated_at": "2026-04-11T09:43",
+  "generated_at": "2026-04-11T19:28",
   "id": "world",
   "title": "Notícies tecnològiques del món",
-  "sources_checked": [],
+  "sources_checked": [
+    {
+      "name": "AnandTech",
+      "url": "https://www.anandtech.com/rss/",
+      "articles_found": 0
+    },
+    {
+      "name": "Axios",
+      "url": "https://www.axios.com/feeds/feed.rss",
+      "articles_found": 0
+    },
+    {
+      "name": "Wall Street Journal Tech",
+      "url": "https://feeds.a.dj.com/rss/RSSWSJD.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "Slashdot",
+      "url": "https://slashdot.org/rss/slashdot.rss",
+      "articles_found": 0
+    }
+  ],
   "articles": [
     {
-      "title": "Els astronautes de l'Artemis II tornen després d'un viatge de 10 dies al voltant de la Lluna",
-      "link_id": "c_5effcd",
-      "source": "Engadget",
-      "date": "2026-04-11",
-      "time": "03:38",
-      "summary": "La càpsula Orion ha aterrat amb èxit a l'oceà Pacífic, completant una missió històrica per a la NASA."
-    },
-    {
-      "title": "YouTube Premium és l'últim servei de streaming en apujar els preus",
-      "link_id": "c_4b6c17",
+      "title": "Els astronautes de l'Artemis II aterren amb seguretat després de la missió lunar",
+      "link_id": "c_8472f5",
       "source": "CNET",
-      "date": "2026-04-10",
-      "time": "19:22",
-      "summary": "Els subscriptors nord-americans patiran un increment de fins a quatre dòlars mensuals en les seves tarifes individuals i familiars."
+      "date": "2026-04-11",
+      "time": "15:51",
+      "summary": "La càpsula Orion ha aterrat a l'oceà Pacífic, completant amb èxit la històrica missió lunar de la NASA."
     },
     {
-      "title": "Llancen un còctel Molotov contra la casa de Sam Altman, CEO d'OpenAI",
-      "link_id": "c_9d149c",
-      "source": "NYT Technology",
+      "title": "Els bancs de Wall Street proven Mythos d'Anthropic a instàncies dels EUA",
+      "link_id": "c_8cdd08",
+      "source": "Bloomberg Technology",
       "date": "2026-04-10",
-      "time": "23:52",
-      "summary": "La policia de San Francisco ha detingut un jove de 20 anys per l'atac, que només va causar danys materials."
+      "time": "20:30",
+      "summary": "Els bancs de Wall Street proven el nou model d'IA d'Anthropic per detectar vulnerabilitats, impulsats pel govern dels EUA."
+    },
+    {
+      "title": "Sam Altman respon a un article polèmic del New Yorker després de l'atac a casa seva",
+      "link_id": "c_1aa755",
+      "source": "TechCrunch",
+      "date": "2026-04-11",
+      "time": "17:18",
+      "summary": "El director executiu d'OpenAI respon a un atac contra la seva llar i a un perfil crític del New Yorker."
+    },
+    {
+      "title": "X prepara una aplicació de missatgeria dedicada mentre XChat arriba a l'App Store",
+      "link_id": "c_d8a32b",
+      "source": "Digital Trends",
+      "date": "2026-04-11",
+      "time": "13:57",
+      "summary": "La nova aplicació de missatgeria xifrada d'Elon Musk estarà disponible per a usuaris d'iPhone a partir del 17 d'abril."
+    },
+    {
+      "title": "El govern de França abandona Windows per Linux, considerant la tecnologia dels EUA un risc estratègic",
+      "link_id": "c_daf2c8",
+      "source": "Hacker News",
+      "date": "2026-04-11",
+      "time": "08:25",
+      "summary": "El govern francès migrarà els seus sistemes a Linux per reduir la dependència tecnològica dels Estats Units i guanyar sobirania."
+    },
+    {
+      "title": "Apple deixa d'acceptar comandes per a alguns models de Mac mini i Mac Studio",
+      "link_id": "c_61f9e8",
+      "source": "MacRumors",
+      "date": "2026-04-11",
+      "time": "07:35",
+      "summary": "Apple ha deixat d'acceptar comandes per a certes configuracions de Mac mini i Mac Studio a la seva botiga."
+    },
+    {
+      "title": "Les teves notificacions push no estan a resguard de l'FBI",
+      "link_id": "c_107732",
+      "source": "Wired",
+      "date": "2026-04-11",
+      "time": "10:30",
+      "summary": "Un cas recent demostra que l'FBI pot extreure missatges de Signal suposadament esborrats a través de les notificacions de l'iPhone."
     },
     {
       "title": "Google afegeix xifratge d'extrem a extrem a Gmail per a dispositius Android i iOS d'empreses",
@@ -34,55 +87,23 @@
       "source": "Computerworld",
       "date": "2026-04-10",
       "time": "22:14",
-      "summary": "Aquesta millora de privacitat permet als usuaris corporatius protegir els seus correus directament des de l'aplicació mòbil."
+      "summary": "Els usuaris corporatius de Workspace ja poden enviar i llegir correus xifrats d'extrem a extrem directament des de l'aplicació mòbil."
     },
     {
-      "title": "França ordena als ministeris abandonar Windows per Linux per impulsar la sobirania digital",
-      "link_id": "c_ae08b3",
-      "source": "The Next Web",
-      "date": "2026-04-10",
-      "time": "21:21",
-      "summary": "El govern francès busca reduir la dependència tecnològica dels Estats Units migrant els seus equips cap a programari lliure."
-    },
-    {
-      "title": "Amazon Luna deixarà de donar suport a jocs i subscripcions de tercers al juny",
-      "link_id": "c_238d16",
-      "source": "CNET",
-      "date": "2026-04-10",
-      "time": "21:22",
-      "summary": "El servei de joc al núvol d'Amazon elimina integracions externes per centrar-se en un model de subscripció únic."
-    },
-    {
-      "title": "Els bancs de Wall Street proven el model Mythos d'Anthropic a instàncies dels EUA",
-      "link_id": "c_8cdd08",
-      "source": "Bloomberg Technology",
-      "date": "2026-04-10",
-      "time": "20:30",
-      "summary": "El govern nord-americà insta les entitats financeres a utilitzar aquesta nova intel·ligència artificial per detectar vulnerabilitats cibernètiques."
-    },
-    {
-      "title": "Microsoft elimina el nom de Copilot d'algunes aplicacions de Windows 11",
-      "link_id": "c_868600",
-      "source": "CNET",
-      "date": "2026-04-10",
-      "time": "16:45",
-      "summary": "La companyia redueix la presència de la seva marca d'IA en eines com el Bloc de notes."
-    },
-    {
-      "title": "La FAA anima els jugadors de videojocs a treballar com a controladors aeris",
-      "link_id": "c_cec699",
-      "source": "Engadget",
-      "date": "2026-04-10",
-      "time": "23:03",
-      "summary": "L'agència d'aviació nord-americana busca pal·liar l'escassetat de personal atraient joves amb habilitats desenvolupades en el món del \"gaming\"."
-    },
-    {
-      "title": "L'internet per satèl·lit Amazon Leo s'acosta al llançament amb grans clients per rivalitzar amb Starlink",
-      "link_id": "c_66e297",
-      "source": "Digital Trends",
+      "title": "Ho sentim, clients de Verizon: també pagareu més per YouTube Premium",
+      "link_id": "c_bda622",
+      "source": "Android Authority",
       "date": "2026-04-10",
       "time": "20:02",
-      "summary": "El servei, previst per a mitjans de 2026, ja compta amb acords governamentals i empresarials per competir amb SpaceX."
+      "summary": "Google ha augmentat els preus de les subscripcions a YouTube Premium als Estats Units, afectant també els usuaris amb descomptes."
+    },
+    {
+      "title": "El programa Windows Insider de Microsoft ja no és un embolic confús",
+      "link_id": "c_2e4569",
+      "source": "ZDNet",
+      "date": "2026-04-10",
+      "time": "18:00",
+      "summary": "Microsoft ha simplificat el seu programa de proves reduint els canals i facilitant el canvi sense haver d'esborrar el dispositiu."
     }
   ]
 }

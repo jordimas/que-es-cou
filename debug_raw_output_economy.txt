@@ -1,16 +1,32 @@
 {
-  "generated_at": "2024-05-24T18:30",
+  "generated_at": "2024-05-24T16:00",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Vance i Bessent qüestionen els gegants tecnològics sobre la seguretat de la IA abans del llançament de Mythos d'Anthropic",
+      "title": "L'entusiasme per Claude domina un dels principals esdeveniments de la indústria de la IA",
+      "link_id": "c_eaa264",
+      "source": "CNBC Technology",
+      "date": "2026-04-11",
+      "time": "12:00",
+      "summary": "A la conferència HumanX de San Francisco, el ràpid creixement d'Anthropic va ser el tema central entre els assistents."
+    },
+    {
+      "title": "Anthropic s'apropa a OpenAI gràcies a l'augment de l'ús empresarial als EUA",
+      "link_id": "c_b895d7",
+      "source": "Financial Times",
+      "date": "2026-04-11",
+      "time": "04:00",
+      "summary": "El fort interès pels productes Claude Code impulsa un creixement ràpid que redueix la distància amb el seu rival."
+    },
+    {
+      "title": "Vance i Bessent van qüestionar les tecnològiques sobre seguretat abans del llançament de Mythos d'Anthropic",
       "link_id": "c_2dcdf6",
       "source": "CNBC Technology",
       "date": "2026-04-10",
       "time": "21:39",
-      "summary": "Les reunions d'alt nivell amb líders bancaris subratllen la creixent preocupació governamental pels riscos cibernètics dels nous models."
+      "summary": "Les autoritats nord-americanes es van reunir amb líders bancaris per avaluar les possibles ciberamenaces d'aquest nou model."
     },
     {
       "title": "Les accions de ciberseguretat cauen per la preocupació sobre la nova eina d'IA d'Anthropic",
@@ -18,39 +34,23 @@
       "source": "Financial Times",
       "date": "2026-04-10",
       "time": "21:02",
-      "summary": "La capacitat del model Mythos per descobrir vulnerabilitats que els sistemes tradicionals ignoren genera incertesa al mercat borsari."
+      "summary": "El model Mythos ha demostrat capacitat per detectar vulnerabilitats de programari crítiques que els sistemes tradicionals ignoraven."
     },
     {
-      "title": "Powell i Bessent debaten l'amenaça cibernètica de la IA Mythos d'Anthropic amb els principals bancs dels EUA",
-      "link_id": "c_4189ac",
-      "source": "CNBC Technology",
-      "date": "2026-04-10",
-      "time": "16:28",
-      "summary": "El llançament restringit d'aquest model busca evitar que els pirates informàtics aprofitin les seves capacitats avançades de detecció."
-    },
-    {
-      "title": "Anthropic s'apropa a OpenAI mentre l'ús empresarial als Estats Units es dispara",
-      "link_id": "c_b895d7",
-      "source": "Financial Times",
-      "date": "2026-04-11",
-      "time": "04:00",
-      "summary": "L'èxit dels productes Claude Code impulsa un creixement ràpid que amenaça el lideratge històric del seu principal competidor."
-    },
-    {
-      "title": "L'allau de consultes generades per IA dels clients amenaça d'encarir les tarifes dels advocats",
+      "title": "L'allau de consultes generades per IA per part dels clients amenaça d'encarir les tarifes legals",
       "link_id": "c_30c917",
       "source": "Financial Times",
       "date": "2026-04-11",
       "time": "04:00",
-      "summary": "Els bufets es plantegen revisar els contractes de preu fix davant l'augment massiu de comunicacions automatitzades."
+      "summary": "Els bufets d'advocats podrien augmentar els preus dels contractes fixos davant l'increment massiu de correus automatitzats."
     },
     {
-      "title": "xAI d'Elon Musk s'enfronta a nova oposició després d'obtenir el permís per a una central elèctrica a Mississipí",
+      "title": "xAI d'Elon Musk s'enfronta a una nova oposició després d'obtenir el permís per a una central elèctrica",
       "link_id": "c_628753",
       "source": "CNBC Technology",
       "date": "2026-04-10",
       "time": "23:05",
-      "summary": "Grups ecologistes inicien accions legals contra la filial de SpaceX per frenar l'impacte ambiental d'aquesta macroinstal·lació energètica."
+      "summary": "Grups ecologistes han presentat un recurs legal contra la construcció d'aquesta gran instal·lació energètica a Mississipí."
     },
     {
       "title": "Les accions de CoreWeave pugen un 11% per l'acord per impulsar Claude d'Anthropic",
@@ -58,31 +58,7 @@
       "source": "CNBC Technology",
       "date": "2026-04-10",
       "time": "20:01",
-      "summary": "Aquest impuls borsari se suma a la recent inversió multimilionària de Meta, reflectint l'alta demanda d'infraestructura al núvol."
-    },
-    {
-      "title": "Apple presenta el seu portàtil més assequible. Què significa el MacBook Neo per als inversors",
-      "link_id": "c_b69ee8",
-      "source": "CNBC Technology",
-      "date": "2026-04-10",
-      "time": "16:12",
-      "summary": "L'estratègia busca captar nous usuaris amb maquinari econòmic per fidelitzar-los posteriorment a través dels seus serveis digitals rendibles."
-    },
-    {
-      "title": "TSMC registra un salt del 35% en ingressos fins a un nou rècord per la forta demanda de xips d'IA",
-      "link_id": "c_60bf67",
-      "source": "CNBC Technology",
-      "date": "2026-04-10",
-      "time": "13:53",
-      "summary": "El fabricant taiwanès consolida el seu domini gràcies a les comandes constants de gegants tecnològics com Apple i Nvidia."
-    },
-    {
-      "title": "Els models d'IA fracassen estrepitosament en les apostes de la Premier League",
-      "link_id": "c_88f8d4",
-      "source": "Financial Times",
-      "date": "2026-04-10",
-      "time": "11:50",
-      "summary": "Les principals intel·ligències artificials demostren limitacions importants a l'hora de pronosticar resultats esportius complexos durant tota la temporada."
+      "summary": "Aquest impuls arriba just després que Meta comprometés 21.000 milions de dòlars addicionals amb el proveïdor."
     }
   ]
 }

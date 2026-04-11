@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-04-11T07:43",
+  "generated_at": "2026-04-11T17:30",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Els astronautes de l'Artemis 2 ja han tornat: així ha estat el retorn de la càpsula Orion a la Terra",
-      "link_id": "c_d1cd05",
+      "title": "La càpsula Orió amara amb èxit al Pacífic i culmina la històrica missió Artemis 2",
+      "link_id": "c_ca913d",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-04-11",
+      "time": "07:30",
+      "summary": "La missió espacial finalitza amb èxit, obrint la porta a futures exploracions tripulades més enllà de l'òrbita terrestre baixa."
+    },
+    {
+      "title": "\"Només és el principi\": l'èxit de l'Artemis 2 acosta més el retorn a la Lluna i el salt a Mart",
+      "link_id": "c_03536d",
       "source": "324.cat",
       "date": "2026-04-11",
-      "time": "00:05",
-      "summary": "La missió finalitza amb èxit després d'amarar al Pacífic, aplanant el camí per a futures exploracions lunars."
+      "time": "09:17",
+      "summary": "Aquesta fita valida la tecnologia necessària per a les properes missions que preveuen aterrar a la superfície lunar."
     },
     {
-      "title": "L'Artemis II completa la missió a la Lluna i retorna a la Terra amb un amaratge \"perfecte\"",
-      "link_id": "c_1ebe13",
-      "source": "El Nacional.cat",
+      "title": "La tripulació de la missió Artemis II torna amb èxit a la Terra",
+      "link_id": "c_520cf2",
+      "source": "Àpunt",
       "date": "2026-04-11",
-      "time": "07:37",
-      "summary": "Els quatre tripulants han superat la fase més crítica del viatge espacial i ja es troben sans i estalvis."
+      "time": "01:37",
+      "summary": "La nau Orion ha amarat al Pacífic sostinguda per tres paracaigudes, completant el viatge dels quatre astronautes."
     },
     {
-      "title": "La UPC crea la primera infraestructura per provar la 6G en entorns reals",
-      "link_id": "c_c5c032",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-04-09",
-      "time": "05:58",
-      "summary": "Aquest banc de proves pioner permetrà validar aplicacions avançades en àmbits com la robòtica autònoma i els drons."
-    },
-    {
-      "title": "Més IA i robots: Barcelona inaugura una xarxa única a Espanya per experimentar amb les tecnologies 5G i 6G",
-      "link_id": "c_3ad901",
+      "title": "La catalana Sateliot llança una nova ronda d’inversió de 100 milions d’euros amb el suport del Govern d’Espanya",
+      "link_id": "c_cbc645",
       "source": "El Periódico",
       "date": "2026-04-08",
-      "time": "11:47",
-      "summary": "La nova instal·lació científica de la UPC accelerarà el desenvolupament de la pròxima generació de telecomunicacions a Catalunya."
+      "time": "13:27",
+      "summary": "L'empresa busca finançament per desenvolupar la seva xarxa de satèl·lits de baixa òrbita i millorar la connectivitat global."
     },
     {
       "title": "Sateliot busca 100 milions d’euros per desplegar una constel·lació de satèl·lits 5G",
@@ -42,47 +42,47 @@
       "source": "MetaData",
       "date": "2026-04-10",
       "time": "13:10",
-      "summary": "L'empresa catalana vol finançar setze nous satèl·lits per consolidar la seva expansió global i la sobirania tecnològica europea."
+      "summary": "Amb aquesta injecció de capital, la companyia pretén llançar setze nous satèl·lits i reforçar la sobirania tecnològica europea."
     },
     {
-      "title": "Veolia accelera la resiliència hídrica a Catalunya amb 4 projectes PERTE de digitalització del cicle de l’aigua",
-      "link_id": "c_0127a9",
-      "source": "Tot Barcelona",
-      "date": "2026-04-10",
-      "time": "01:28",
-      "summary": "Aquesta iniciativa busca combatre els efectes de la sequera i el canvi climàtic optimitzant la gestió dels recursos hídrics."
+      "title": "Més IA i robots: Barcelona inaugura una xarxa única a Espanya per experimentar amb les tecnologies 5G i 6G",
+      "link_id": "c_3ad901",
+      "source": "El Periódico",
+      "date": "2026-04-08",
+      "time": "11:47",
+      "summary": "La UPC posa en marxa una infraestructura científica pionera per provar la propera generació de telecomunicacions avançades."
     },
     {
-      "title": "Els avanços en neuroimatge i intel·ligència artificial obrin noves vies en el tractament del Parkinson",
-      "link_id": "c_a0b057",
-      "source": "Àpunt",
-      "date": "2026-04-10",
-      "time": "16:54",
-      "summary": "Les noves tecnologies presentades a València permeten diagnòstics més precisos i teràpies innovadores per millorar la qualitat de vida."
-    },
-    {
-      "title": "Comencen les obres de l’edifici del Parc de Recerca Biomèdica de Barcelona",
-      "link_id": "c_92c6e6",
-      "source": "Tot Barcelona",
+      "title": "La UPC desplega 6GLabNet, una infraestructura pionera per provar el 6G en entorns reals",
+      "link_id": "c_e89b74",
+      "source": "MetaData",
       "date": "2026-04-09",
-      "time": "16:17",
-      "summary": "El nou equipament, situat a l'antic Mercat del Peix, potenciarà la investigació mèdica i les tecnologies de la salut."
+      "time": "16:31",
+      "summary": "Aquesta xarxa experimental combina fibra òptica i intel·ligència artificial per accelerar el desenvolupament de nous serveis digitals."
     },
     {
-      "title": "La intel·ligència artificial en català al vostre ordinador personal",
-      "link_id": "c_f0a29d",
-      "source": "Softcatalà",
-      "date": "2026-04-06",
-      "time": "16:05",
-      "summary": "Una nova guia explica com executar models d'IA localment, garantint la privacitat sense dependre de serveis externs."
+      "title": "El Govern impulsa un pla per introduir 400 empreses al sector de la defensa",
+      "link_id": "c_d407aa",
+      "source": "Ara.cat",
+      "date": "2026-04-10",
+      "time": "15:58",
+      "summary": "El nou programa capacitarà pimes catalanes de diversos àmbits per fomentar l'autonomia estratègica europea en seguretat."
     },
     {
-      "title": "L'ATM aprova definitivament la segona fase de la connexió del tramvia per la Diagonal",
-      "link_id": "c_bf79ac",
+      "title": "El Govern posa en marxa un programa per introduir 400 pimes al sector de la seguretat i la defensa",
+      "link_id": "c_56e4f8",
       "source": "Via Empresa",
       "date": "2026-04-10",
-      "time": "14:43",
-      "summary": "El projecte connectarà Verdaguer i Francesc Macià amb tres noves parades, millorant significativament la mobilitat sostenible a Barcelona."
+      "time": "14:53",
+      "summary": "La iniciativa oferirà formació sobre certificacions i homologacions a empreses de l'automoció, l'espai i la metal·lúrgia."
+    },
+    {
+      "title": "Així és el Raval, el primer cotxe elèctric fabricat a Martorell",
+      "link_id": "c_55d75a",
+      "source": "Ara.cat",
+      "date": "2026-04-09",
+      "time": "10:51",
+      "summary": "El nou model de Cupra ofereix fins a 450 quilòmetres d'autonomia i es presenta oficialment a Barcelona."
     }
   ]
 }
