@@ -1,88 +1,88 @@
 {
-  "generated_at": "2024-05-24T18:45",
+  "generated_at": "2024-05-24T18:30",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "OpenAI paralitza el projecte del centre de dades Stargate al Regne Unit",
-      "link_id": "c_4aa09c",
-      "source": "Financial Times",
-      "date": "2026-04-09",
-      "time": "11:38",
-      "summary": "L'empresa cita els alts costos energètics i la incertesa reguladora, frenant l'ambició britànica d'una IA sobirana."
+      "title": "Vance i Bessent qüestionen els gegants tecnològics sobre la seguretat de la IA abans del llançament de Mythos d'Anthropic",
+      "link_id": "c_2dcdf6",
+      "source": "CNBC Technology",
+      "date": "2026-04-10",
+      "time": "21:39",
+      "summary": "Les reunions d'alt nivell amb líders bancaris subratllen la creixent preocupació governamental pels riscos cibernètics dels nous models."
     },
     {
-      "title": "Alibaba prioritza els ingressos per davant de la IA de codi obert",
-      "link_id": "c_03cbaf",
+      "title": "Les accions de ciberseguretat cauen per la preocupació sobre la nova eina d'IA d'Anthropic",
+      "link_id": "c_1dd193",
       "source": "Financial Times",
       "date": "2026-04-10",
+      "time": "21:02",
+      "summary": "La capacitat del model Mythos per descobrir vulnerabilitats que els sistemes tradicionals ignoren genera incertesa al mercat borsari."
+    },
+    {
+      "title": "Powell i Bessent debaten l'amenaça cibernètica de la IA Mythos d'Anthropic amb els principals bancs dels EUA",
+      "link_id": "c_4189ac",
+      "source": "CNBC Technology",
+      "date": "2026-04-10",
+      "time": "16:28",
+      "summary": "El llançament restringit d'aquest model busca evitar que els pirates informàtics aprofitin les seves capacitats avançades de detecció."
+    },
+    {
+      "title": "Anthropic s'apropa a OpenAI mentre l'ús empresarial als Estats Units es dispara",
+      "link_id": "c_b895d7",
+      "source": "Financial Times",
+      "date": "2026-04-11",
       "time": "04:00",
-      "summary": "Aquest canvi estratègic podria impactar els desenvolupadors globals que depenen dels models Qwen de la companyia xinesa."
+      "summary": "L'èxit dels productes Claude Code impulsa un creixement ràpid que amenaça el lideratge històric del seu principal competidor."
     },
     {
-      "title": "Bessent reuneix els directors de bancs dels EUA pels riscos cibernètics d'Anthropic",
-      "link_id": "c_8f2c20",
+      "title": "L'allau de consultes generades per IA dels clients amenaça d'encarir les tarifes dels advocats",
+      "link_id": "c_30c917",
       "source": "Financial Times",
-      "date": "2026-04-10",
-      "time": "02:11",
-      "summary": "El secretari del Tresor alerta sobre vulnerabilitats històriques detectades pel nou sistema d'intel·ligència artificial."
+      "date": "2026-04-11",
+      "time": "04:00",
+      "summary": "Els bufets es plantegen revisar els contractes de preu fix davant l'augment massiu de comunicacions automatitzades."
     },
     {
-      "title": "Alibaba lidera una inversió de 290 milions de dòlars per a un nou model d'IA",
-      "link_id": "c_ed605f",
+      "title": "xAI d'Elon Musk s'enfronta a nova oposició després d'obtenir el permís per a una central elèctrica a Mississipí",
+      "link_id": "c_628753",
       "source": "CNBC Technology",
       "date": "2026-04-10",
-      "time": "02:00",
-      "summary": "La startup Shengshu crearà un \"model de món general\" per millorar les aplicacions pràctiques en robòtica."
+      "time": "23:05",
+      "summary": "Grups ecologistes inicien accions legals contra la filial de SpaceX per frenar l'impacte ambiental d'aquesta macroinstal·lació energètica."
     },
     {
-      "title": "OpenAI critica Anthropic en un memoràndum als accionistes davant l'auge del seu rival",
-      "link_id": "c_b69ebd",
+      "title": "Les accions de CoreWeave pugen un 11% per l'acord per impulsar Claude d'Anthropic",
+      "link_id": "c_2f7762",
       "source": "CNBC Technology",
       "date": "2026-04-10",
-      "time": "00:00",
-      "summary": "L'empresa assegura als inversors que el seu principal competidor opera a una escala significativament inferior."
+      "time": "20:01",
+      "summary": "Aquest impuls borsari se suma a la recent inversió multimilionària de Meta, reflectint l'alta demanda d'infraestructura al núvol."
     },
     {
-      "title": "Les empreses emergents asiàtiques evolucionen per transformar indústries amb IA",
-      "link_id": "c_22a3ab",
-      "source": "Financial Times",
-      "date": "2026-04-09",
-      "time": "23:01",
-      "summary": "Els emprenedors se centren a optimitzar sectors tradicionals com la logística, la manufactura i la sanitat."
-    },
-    {
-      "title": "La Xina recupera el seu millor talent en IA de Silicon Valley",
-      "link_id": "c_b61d18",
-      "source": "Financial Times",
-      "date": "2026-04-09",
-      "time": "23:01",
-      "summary": "Enginyers i científics tornen atrets per millors salaris i qualitat de vida davant l'hostilitat estatunidenca."
-    },
-    {
-      "title": "xAI demanda Colorado per la primera llei estatal contra la discriminació en IA",
-      "link_id": "c_079e8e",
-      "source": "Financial Times",
-      "date": "2026-04-09",
-      "time": "20:45",
-      "summary": "El laboratori d'Elon Musk argumenta que aquesta nova normativa vulnera les proteccions a la llibertat d'expressió."
-    },
-    {
-      "title": "Meta invertirà 21.000 milions de dòlars addicionals en CoreWeave per l'augment de costos",
-      "link_id": "c_e2a6ae",
+      "title": "Apple presenta el seu portàtil més assequible. Què significa el MacBook Neo per als inversors",
+      "link_id": "c_b69ee8",
       "source": "CNBC Technology",
-      "date": "2026-04-09",
-      "time": "20:30",
-      "summary": "Aquest compromís financer es desplegarà entre 2027 i 2032 per fer front a les despeses d'IA."
+      "date": "2026-04-10",
+      "time": "16:12",
+      "summary": "L'estratègia busca captar nous usuaris amb maquinari econòmic per fidelitzar-los posteriorment a través dels seus serveis digitals rendibles."
     },
     {
-      "title": "El model d'IA de Meta ja és aquí, però serà rendible?",
-      "link_id": "c_67bcf4",
+      "title": "TSMC registra un salt del 35% en ingressos fins a un nou rècord per la forta demanda de xips d'IA",
+      "link_id": "c_60bf67",
       "source": "CNBC Technology",
-      "date": "2026-04-09",
-      "time": "20:29",
-      "summary": "Després de llançar Muse Spark, el repte de la companyia és monetitzar aquesta gran inversió tecnològica."
+      "date": "2026-04-10",
+      "time": "13:53",
+      "summary": "El fabricant taiwanès consolida el seu domini gràcies a les comandes constants de gegants tecnològics com Apple i Nvidia."
+    },
+    {
+      "title": "Els models d'IA fracassen estrepitosament en les apostes de la Premier League",
+      "link_id": "c_88f8d4",
+      "source": "Financial Times",
+      "date": "2026-04-10",
+      "time": "11:50",
+      "summary": "Les principals intel·ligències artificials demostren limitacions importants a l'hora de pronosticar resultats esportius complexos durant tota la temporada."
     }
   ]
 }
