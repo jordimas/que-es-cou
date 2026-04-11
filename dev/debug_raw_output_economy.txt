@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-04-10T13:38",
+  "generated_at": "2024-05-24T18:45",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "OpenAI atura el projecte Stargate al Regne Unit per preocupacions reguladores i de preus de l'energia",
-      "link_id": "c_1d06e2",
-      "source": "CNBC Technology",
-      "date": "2026-04-09",
-      "time": "11:42",
-      "summary": "L'empresa frena aquesta gran infraestructura d'IA, desenvolupada amb Nvidia, a causa dels alts costos i la incertesa legal."
-    },
-    {
-      "title": "Alibaba revela que està darrere d'un model de vídeo d'IA viral que domina les classificacions",
-      "link_id": "c_0b60ee",
+      "title": "Detingut un home després de llançar un còctel Molotov a la casa de Sam Altman",
+      "link_id": "c_4bae25",
       "source": "CNBC Technology",
       "date": "2026-04-10",
-      "time": "08:56",
-      "summary": "El gegant xinès confirma l'autoria d'aquesta misteriosa i exitosa eina, consolidant la seva posició en la intel·ligència artificial global."
+      "time": "23:17",
+      "summary": "El sospitós va ser capturat a les oficines de l'empresa a San Francisco després d'amenaçar d'incendiar-les."
     },
     {
-      "title": "TSMC registra un augment del 35% en ingressos fins a un nou rècord per la forta demanda de xips d'IA",
+      "title": "Llancen un còctel Molotov a la casa del cap d'OpenAI, Sam Altman",
+      "link_id": "c_875357",
+      "source": "Financial Times",
+      "date": "2026-04-10",
+      "time": "21:39",
+      "summary": "Les autoritats van intervenir ràpidament a la seu de la companyia per evitar danys majors després de l'atac."
+    },
+    {
+      "title": "Vance i Bessent qüestionen els gegants tecnològics sobre seguretat abans del llançament de Mythos",
+      "link_id": "c_2dcdf6",
+      "source": "CNBC Technology",
+      "date": "2026-04-10",
+      "time": "21:39",
+      "summary": "El president de la Fed i líders bancaris van avaluar els riscos cibernètics d'aquest nou model d'intel·ligència artificial."
+    },
+    {
+      "title": "Les accions de ciberseguretat cauen per la preocupació sobre la nova eina d'Anthropic",
+      "link_id": "c_1dd193",
+      "source": "Financial Times",
+      "date": "2026-04-10",
+      "time": "21:02",
+      "summary": "El model Mythos ha demostrat una capacitat inèdita per detectar vulnerabilitats de programari que els sistemes tradicionals ignoraven."
+    },
+    {
+      "title": "Powell i Bessent debaten l'amenaça cibernètica de Mythos amb els principals bancs dels EUA",
+      "link_id": "c_4189ac",
+      "source": "CNBC Technology",
+      "date": "2026-04-10",
+      "time": "16:28",
+      "summary": "L'empresa ha limitat l'accés inicial a certes companyies per por que els pirates informàtics n'explotin les capacitats."
+    },
+    {
+      "title": "Anthropic s'apropa a OpenAI gràcies a l'augment de l'ús empresarial als EUA",
+      "link_id": "c_b895d7",
+      "source": "Financial Times",
+      "date": "2026-04-11",
+      "time": "04:00",
+      "summary": "El gran interès pels productes Claude Code impulsa un creixement ràpid que redueix la distància entre ambdues empreses."
+    },
+    {
+      "title": "xAI d'Elon Musk s'enfronta a nova oposició per la planta elèctrica de Mississipí",
+      "link_id": "c_628753",
+      "source": "CNBC Technology",
+      "date": "2026-04-10",
+      "time": "23:05",
+      "summary": "Grups ecologistes han presentat un recurs legal contra la macroinstal·lació energètica de la filial, ara propietat de SpaceX."
+    },
+    {
+      "title": "Les accions de CoreWeave pugen un 11% per l'acord per impulsar Claude d'Anthropic",
+      "link_id": "c_2f7762",
+      "source": "CNBC Technology",
+      "date": "2026-04-10",
+      "time": "20:01",
+      "summary": "Aquest impuls arriba just després que Meta comprometés 21.000 milions de dòlars addicionals amb el proveïdor al núvol."
+    },
+    {
+      "title": "Apple presenta el seu portàtil més assequible. Què significa el MacBook Neo per als inversors",
+      "link_id": "c_b69ee8",
+      "source": "CNBC Technology",
+      "date": "2026-04-10",
+      "time": "16:12",
+      "summary": "La tecnològica busca atraure nous usuaris al seu ecosistema per incrementar els ingressos derivats dels seus serveis digitals."
+    },
+    {
+      "title": "Els ingressos de TSMC salten un 35% fins a un nou rècord per la demanda de xips",
       "link_id": "c_60bf67",
       "source": "CNBC Technology",
       "date": "2026-04-10",
-      "time": "08:13",
-      "summary": "El fabricant es beneficia de les comandes constants de semiconductors avançats per part de clients clau com Apple i Nvidia."
-    },
-    {
-      "title": "Alibaba prioritza els ingressos per sobre de la IA de codi obert",
-      "link_id": "c_03cbaf",
-      "source": "Financial Times",
-      "date": "2026-04-10",
-      "time": "04:00",
-      "summary": "Aquest canvi d'estratègia podria impactar la comunitat global de desenvolupadors que depèn dels models Qwen de l'empresa xinesa."
-    },
-    {
-      "title": "Bessent convoca els consellers delegats dels bancs dels EUA per debatre els riscos cibernètics del model d'Anthropic",
-      "link_id": "c_8f2c20",
-      "source": "Financial Times",
-      "date": "2026-04-10",
-      "time": "02:11",
-      "summary": "El secretari del Tresor nord-americà alerta el sector financer després que el sistema d'IA detectés vulnerabilitats històriques."
-    },
-    {
-      "title": "Alibaba lidera una inversió de 290 milions de dòlars per crear un nou model d'IA",
-      "link_id": "c_ed605f",
-      "source": "CNBC Technology",
-      "date": "2026-04-10",
-      "time": "02:00",
-      "summary": "La injecció de capital a la emergent Shengshu busca superar els límits actuals i desenvolupar aplicacions robòtiques més pràctiques."
-    },
-    {
-      "title": "OpenAI critica Anthropic en un memoràndum als accionistes mentre el seu rival guanya impuls",
-      "link_id": "c_b69ebd",
-      "source": "CNBC Technology",
-      "date": "2026-04-10",
-      "time": "00:00",
-      "summary": "L'empresa adverteix els inversors sobre les limitacions tècniques del seu principal competidor en plena cursa pel lideratge del sector."
-    },
-    {
-      "title": "Les empreses emergents asiàtiques evolucionen per transformar indústries amb IA",
-      "link_id": "c_22a3ab",
-      "source": "Financial Times",
-      "date": "2026-04-09",
-      "time": "23:01",
-      "summary": "Els emprenedors centren els seus esforços a optimitzar sectors tradicionals com la logística, la fabricació i la sanitat."
-    },
-    {
-      "title": "La Xina atreu el seu millor talent en IA des de Silicon Valley",
-      "link_id": "c_b61d18",
-      "source": "Financial Times",
-      "date": "2026-04-09",
-      "time": "23:01",
-      "summary": "Enginyers i científics tornen al seu país buscant millors salaris i qualitat de vida davant l'hostilitat creixent dels EUA."
-    },
-    {
-      "title": "xAI demanda Colorado per la primera llei estatal contra la discriminació en la IA",
-      "link_id": "c_079e8e",
-      "source": "Financial Times",
-      "date": "2026-04-09",
-      "time": "20:45",
-      "summary": "El laboratori d'Elon Musk argumenta que aquesta nova normativa pionera vulnera les proteccions a la llibertat d'expressió."
+      "time": "13:53",
+      "summary": "Clients clau com Apple i Nvidia mantenen una forta necessitat de semiconductors avançats, impulsant els beneficis del fabricant."
     }
   ]
 }

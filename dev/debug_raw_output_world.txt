@@ -1,88 +1,109 @@
 {
-  "generated_at": "2026-04-10T13:40",
+  "generated_at": "2026-04-11T13:20",
   "id": "world",
   "title": "Notícies tecnològiques del món",
-  "sources_checked": [],
+  "sources_checked": [
+    {
+      "name": "AnandTech",
+      "url": "https://www.anandtech.com/rss/",
+      "articles_found": 0
+    },
+    {
+      "name": "Axios",
+      "url": "https://www.axios.com/feeds/feed.rss",
+      "articles_found": 0
+    },
+    {
+      "name": "Wall Street Journal Tech",
+      "url": "https://feeds.a.dj.com/rss/RSSWSJD.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "Slashdot",
+      "url": "https://slashdot.org/rss/slashdot.rss",
+      "articles_found": 0
+    }
+  ],
   "articles": [
     {
-      "title": "ChatGPT llança un pla Pro un 50% més barat per competir amb Claude d'Anthropic",
-      "link_id": "c_135238",
-      "source": "Android Authority",
-      "date": "2026-04-10",
-      "time": "06:53",
-      "summary": "Aquesta nova subscripció de 100 dòlars mensuals ofereix límits d'ús més alts, ideal per a programadors intensius."
+      "title": "Els astronautes de l'Artemis II tornen després d'un viatge de 10 dies al voltant de la Lluna",
+      "link_id": "c_5effcd",
+      "source": "Engadget",
+      "date": "2026-04-11",
+      "time": "03:38",
+      "summary": "La càpsula Orion ha aterrat amb èxit a l'oceà Pacífic, concloent una missió històrica per al futur lunar."
     },
     {
-      "title": "OpenAI atura el projecte Stargate al Regne Unit pels costos energètics i el bloqueig normatiu",
-      "link_id": "c_0d989f",
+      "title": "YouTube Premium és l'últim servei de streaming en apujar els preus",
+      "link_id": "c_4b6c17",
+      "source": "CNET",
+      "date": "2026-04-10",
+      "time": "19:22",
+      "summary": "Els subscriptors nord-americans patiran un increment de fins a 4 dòlars mensuals en les seves tarifes actuals."
+    },
+    {
+      "title": "Els bancs de Wall Street proven el model Mythos d'Anthropic a instàncies dels EUA",
+      "link_id": "c_8cdd08",
+      "source": "Bloomberg Technology",
+      "date": "2026-04-10",
+      "time": "20:30",
+      "summary": "L'administració nord-americana insta les entitats financeres a utilitzar aquesta nova IA per detectar vulnerabilitats i riscos cibernètics."
+    },
+    {
+      "title": "Llancen un còctel Molotov contra la casa de Sam Altman, CEO d'OpenAI",
+      "link_id": "c_9d149c",
+      "source": "NYT Technology",
+      "date": "2026-04-10",
+      "time": "23:52",
+      "summary": "La policia de San Francisco ha detingut un jove de 20 anys per l'atac a la residència del directiu."
+    },
+    {
+      "title": "França ordena als ministeris abandonar Windows per Linux en un impuls de sobirania digital",
+      "link_id": "c_ae08b3",
+      "source": "The Next Web",
+      "date": "2026-04-10",
+      "time": "21:21",
+      "summary": "El govern francès vol eliminar la dependència tecnològica dels Estats Units migrant els seus equips a programari lliure."
+    },
+    {
+      "title": "Amazon Luna deixarà de donar suport a jocs i subscripcions de tercers al juny",
+      "link_id": "c_238d16",
+      "source": "CNET",
+      "date": "2026-04-10",
+      "time": "21:22",
+      "summary": "La plataforma de joc al núvol es reestructura eliminant les compres externes per centrar-se en el seu propi servei."
+    },
+    {
+      "title": "Google afegeix xifratge d'extrem a extrem a Gmail per a dispositius Android i iOS d'empreses",
+      "link_id": "c_3eb605",
+      "source": "Computerworld",
+      "date": "2026-04-10",
+      "time": "22:14",
+      "summary": "Aquesta millora de privacitat permetrà als usuaris corporatius protegir els seus correus directament des de l'aplicació mòbil."
+    },
+    {
+      "title": "La FAA busca jugadors de videojocs per ser controladors aeris",
+      "link_id": "c_67fcbd",
+      "source": "Tom's Hardware",
+      "date": "2026-04-11",
+      "time": "10:40",
+      "summary": "L'agència nord-americana vol pal·liar l'escassetat de personal atraient joves amb sous atractius i aprofitant les seves habilitats digitals."
+    },
+    {
+      "title": "El programa Windows Insider de Microsoft deixa de ser un embolic confús",
+      "link_id": "c_2e4569",
+      "source": "ZDNet",
+      "date": "2026-04-10",
+      "time": "18:00",
+      "summary": "La companyia simplifica els canals de prova de Windows 11, facilitant l'accés a funcions experimentals sense esborrar el dispositiu."
+    },
+    {
+      "title": "El model de suport ocult de ChatGPT es torna més intel·ligent amb una nova opció Pro",
+      "link_id": "c_9b835e",
       "source": "TechRadar",
       "date": "2026-04-10",
-      "time": "10:25",
-      "summary": "Aquesta decisió suposa un cop dur per a les ambicions britàniques d'esdevenir una superpotència en intel·ligència artificial."
-    },
-    {
-      "title": "Els EUA convoquen els directius bancaris pels riscos cibernètics del nou model d'IA d'Anthropic",
-      "link_id": "c_afa6a3",
-      "source": "The Guardian",
-      "date": "2026-04-10",
-      "time": "08:16",
-      "summary": "La reunió a Washington aborda els perills potencials de Claude Mythos per a la seguretat de les aplicacions financeres."
-    },
-    {
-      "title": "Arriben els comentaris sense errors a Instagram: així és com pots editar els teus",
-      "link_id": "c_3c6fc7",
-      "source": "CNET",
-      "date": "2026-04-09",
-      "time": "20:45",
-      "summary": "La plataforma ofereix ara un marge de 15 minuts per corregir errades sense haver d'esborrar i tornar a publicar."
-    },
-    {
-      "title": "Spotify afegeix controls globals de vídeo perquè finalment puguis escoltar només àudio",
-      "link_id": "c_258492",
-      "source": "Android Authority",
-      "date": "2026-04-09",
-      "time": "18:24",
-      "summary": "Aquesta funció permetrà als usuaris desactivar els clips visuals i centrar-se exclusivament en la música o els pòdcasts."
-    },
-    {
-      "title": "El teu Galaxy és a la llista? Tots els telèfons Samsung que reben suport per a AirDrop",
-      "link_id": "c_8a05e9",
-      "source": "Android Authority",
-      "date": "2026-04-09",
-      "time": "17:21",
-      "summary": "La nova actualització beta de One UI 8.5 amplia la compatibilitat per compartir fitxers a més dispositius de la marca."
-    },
-    {
-      "title": "Microsoft suspèn els comptes de desenvolupadors de projectes de codi obert d'alt perfil",
-      "link_id": "c_959055",
-      "source": "Hacker News",
-      "date": "2026-04-10",
-      "time": "11:20",
-      "summary": "El bloqueig afecta eines de privacitat com VeraCrypt i WireGuard, impedint actualitzacions de seguretat per un problema de verificació."
-    },
-    {
-      "title": "La nova IA de Meta em va demanar dades de salut i em va donar mals consells",
-      "link_id": "c_18f64a",
-      "source": "Wired",
-      "date": "2026-04-10",
-      "time": "09:30",
-      "summary": "El model Muse Spark analitza resultats mèdics, però presenta greus riscos de privacitat i no pot substituir un metge real."
-    },
-    {
-      "title": "Com i quan veure el retorn a la Terra de la missió Artemis II",
-      "link_id": "c_b13d13",
-      "source": "Wired",
-      "date": "2026-04-10",
-      "time": "09:00",
-      "summary": "La NASA retransmetrà en directe l'històric amaratge de la tripulació, previst per a aquest divendres al vespre."
-    },
-    {
-      "title": "Volkswagen abandona els plans del vehicle elèctric ID.4 per als compradors dels Estats Units",
-      "link_id": "c_dd55b3",
-      "source": "Digital Trends",
-      "date": "2026-04-10",
-      "time": "07:09",
-      "summary": "Després d'anys de vendes inestables, la marca alemanya apostarà pel model Atlas per mantenir el seu negoci nord-americà."
+      "time": "11:56",
+      "summary": "OpenAI llança una subscripció de 100 dòlars mensuals orientada a usuaris intensius de programació per competir amb Claude."
     }
   ]
 }

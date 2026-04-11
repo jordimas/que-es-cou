@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-04-10T13:45",
+  "generated_at": "2026-04-11T11:30",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
     {
       "name": "Ara.cat",
       "url": "https://www.ara.cat/rss/",
-      "articles_found": 10
+      "articles_found": 13
     },
     {
       "name": "El Periódico",
@@ -16,17 +16,17 @@
     {
       "name": "RAC1",
       "url": "https://www.rac1.cat/rss/home.xml",
-      "articles_found": 3
+      "articles_found": 5
     },
     {
       "name": "La Vanguardia (en català)",
       "url": "https://www.lavanguardia.com/rss/encatala.xml",
-      "articles_found": 5
+      "articles_found": 6
     },
     {
       "name": "VilaWeb",
       "url": "https://www.vilaweb.cat/feed/",
-      "articles_found": 1
+      "articles_found": 0
     },
     {
       "name": "NacióDigital",
@@ -46,7 +46,7 @@
     {
       "name": "El Nacional.cat",
       "url": "https://www.elnacional.cat/uploads/feeds/feed_ca.xml",
-      "articles_found": 8
+      "articles_found": 12
     },
     {
       "name": "El Mon.cat",
@@ -66,17 +66,17 @@
     {
       "name": "Betevé",
       "url": "https://beteve.cat/feed/",
-      "articles_found": 0
+      "articles_found": 1
     },
     {
       "name": "El Punt Avui",
       "url": "https://www.elpuntavui.cat/barcelona.feed?type=rss",
-      "articles_found": 8
+      "articles_found": 0
     },
     {
       "name": "Segre",
       "url": "https://www.segre.com/ca/rss/home.xml",
-      "articles_found": 1
+      "articles_found": 4
     },
     {
       "name": "Regio7",
@@ -126,7 +126,7 @@
     {
       "name": "Tot Barcelona",
       "url": "https://www.totbarcelona.cat/feed/",
-      "articles_found": 4
+      "articles_found": 2
     },
     {
       "name": "e-notícies",
@@ -161,12 +161,12 @@
     {
       "name": "El Temps",
       "url": "https://www.eltemps.cat/sindica",
-      "articles_found": 1
+      "articles_found": 0
     },
     {
       "name": "Àpunt",
       "url": "https://www.apuntmedia.es/rss/",
-      "articles_found": 0
+      "articles_found": 4
     },
     {
       "name": "El Periòdic d'Ontinyent",
@@ -191,7 +191,7 @@
     {
       "name": "Ara Balears",
       "url": "https://www.arabalears.cat/rss/",
-      "articles_found": 2
+      "articles_found": 7
     },
     {
       "name": "Manacor Comarcal",
@@ -201,7 +201,7 @@
     {
       "name": "Via Empresa",
       "url": "https://www.viaempresa.cat/uploads/feeds/feed_via-empresa-2024_ca.xml",
-      "articles_found": 3
+      "articles_found": 2
     },
     {
       "name": "Lúdica",
@@ -216,44 +216,12 @@
   ],
   "articles": [
     {
-      "title": "El perquè d'Artemis 2: la Xina es consolida com el rival dels EUA en la cursa espacial",
-      "link_id": "c_c8cf1d",
-      "source": "324.cat",
-      "date": "2026-04-10",
-      "time": "07:01",
-      "summary": "La missió lunar nord-americana busca contrarestar els avenços del programa espacial xinès, ja establert a la cara oculta."
-    },
-    {
-      "title": "Així és el Raval, el primer cotxe elèctric fabricat a Martorell",
-      "link_id": "c_55d75a",
-      "source": "Ara.cat",
-      "date": "2026-04-09",
-      "time": "10:51",
-      "summary": "Aquest model assequible, amb fins a 450 quilòmetres d'autonomia, assegura el futur industrial de la planta de Seat."
-    },
-    {
-      "title": "L’edifici del parc biomèdic de la Ciutadella serà operatiu el 2028",
-      "link_id": "c_5ea7af",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-04-10",
-      "time": "06:31",
-      "summary": "El nou complex acollirà mil investigadors i aspira a convertir Barcelona en el principal pol científic del sud d'Europa."
-    },
-    {
-      "title": "Primera pedra per potenciar el port de Barcelona com a porta d'entrada dels cotxes xinesos",
-      "link_id": "c_9070c5",
-      "source": "Ara.cat",
-      "date": "2026-04-09",
-      "time": "16:33",
-      "summary": "Una nova terminal impulsada per la japonesa NYK consolidarà la infraestructura catalana com a líder europeu en tràfic de vehicles."
-    },
-    {
-      "title": "Sateliot busca 100 milions d’euros per desplegar una constel·lació de satèl·lits 5G",
-      "link_id": "c_6716ff",
-      "source": "MetaData",
-      "date": "2026-04-10",
-      "time": "13:10",
-      "summary": "L'empresa catalana vol finançar setze nous satèl·lits per garantir la connectivitat global i reforçar la sobirania tecnològica europea."
+      "title": "El retorn a la Lluna, imatge a imatge: relat d’una odissea de l'espai històrica",
+      "link_id": "c_8e3bae",
+      "source": "Àpunt",
+      "date": "2026-04-11",
+      "time": "10:13",
+      "summary": "La missió històrica culmina amb l'amarament a l'oceà Pacífic, obrint la porta a futures exploracions cap a Mart."
     },
     {
       "title": "La UPC desplega 6GLabNet, una infraestructura pionera per provar el 6G en entorns reals",
@@ -261,31 +229,47 @@
       "source": "MetaData",
       "date": "2026-04-09",
       "time": "16:31",
-      "summary": "Aquest banc de proves únic a l'Estat permetrà validar tecnologies avançades aplicades a la robòtica i els drons."
+      "summary": "Aquesta infraestructura pionera permetrà assajar aplicacions avançades en robòtica i drons, consolidant Barcelona com a referent tecnològic europeu."
     },
     {
-      "title": "Meta llança Muse Spark: la \"superintel·ligència personal\" per guanyar els seus rivals amb IA",
-      "link_id": "c_101ab2",
+      "title": "Sateliot busca 100 milions d’euros per desplegar una constel·lació de satèl·lits 5G",
+      "link_id": "c_6716ff",
+      "source": "MetaData",
+      "date": "2026-04-10",
+      "time": "13:10",
+      "summary": "L'empresa catalana pretén enlairar setze nous satèl·lits per garantir la connectivitat global i reforçar la sobirania tecnològica europea."
+    },
+    {
+      "title": "L’edifici del parc biomèdic de la Ciutadella serà operatiu el 2028",
+      "link_id": "c_5ea7af",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-04-10",
+      "time": "06:31",
+      "summary": "El nou complex científic acollirà prop d'un miler d'investigadors, consolidant-se com el gran centre biomèdic del sud d'Europa."
+    },
+    {
+      "title": "El Govern impulsa un pla per introduir 400 empreses al sector de la defensa",
+      "link_id": "c_d407aa",
+      "source": "Ara.cat",
+      "date": "2026-04-10",
+      "time": "15:58",
+      "summary": "El programa capacitarà companyies d'automoció i metal·lúrgia per adaptar les seves tecnologies duals a les necessitats estratègiques europees."
+    },
+    {
+      "title": "Instagram activa els seus comptes per a menors a Espanya",
+      "link_id": "c_cfb356",
       "source": "El Nacional.cat",
       "date": "2026-04-10",
-      "time": "12:06",
-      "summary": "El nou model d'intel·ligència artificial s'integrarà a WhatsApp i Instagram, prioritzant el raonament humà i la interacció social."
+      "time": "17:16",
+      "summary": "La xarxa social implementa noves restriccions automàtiques per augmentar la privacitat i seguretat dels usuaris adolescents davant continguts sensibles."
     },
     {
-      "title": "Google Meet afegeix la traducció instantània amb IA perquè l'idioma no sigui un problema a les teves reunions",
-      "link_id": "c_f5efc2",
-      "source": "El Nacional.cat",
-      "date": "2026-04-10",
-      "time": "10:18",
-      "summary": "La nova funció de veu en temps real arriba als dispositius mòbils per facilitar la comunicació en entorns internacionals."
-    },
-    {
-      "title": "L'Agència Tributària avisa que fer servir la IA per fer la renda pot sortir car: \"Jo no m'arriscaria\"",
-      "link_id": "c_f5e2d6",
-      "source": "RAC1",
-      "date": "2026-04-09",
-      "time": "09:27",
-      "summary": "Hisenda desaconsella l'ús d'eines com ChatGPT per a la declaració, alertant que els errors automatitzats comportaran sancions econòmiques."
+      "title": "El mòbil es converteix en el teu DNI: el format digital ja és obligatori d’acceptar",
+      "link_id": "c_06bc9f",
+      "source": "MetaData",
+      "date": "2026-04-08",
+      "time": "10:00",
+      "summary": "L'aplicació oficial permetrà identificar-se legalment des del telèfon intel·ligent per agilitzar tràmits diaris, tot i mantenir el document físic."
     },
     {
       "title": "Estudiants: Catalunya ampliarà un 50% les places de Medicina fins al 2031",
@@ -293,7 +277,23 @@
       "source": "Lleida Diari",
       "date": "2026-04-10",
       "time": "10:22",
-      "summary": "El Govern preveu passar de 1.333 a 2.025 estudiants per fer front a la creixent demanda de professionals sanitaris."
+      "summary": "El pla del Govern preveu assolir més de dos mil estudiants per pal·liar la futura manca de professionals sanitaris."
+    },
+    {
+      "title": "Traducció al català en temps real amb auriculars: així funciona la nova eina de Google",
+      "link_id": "c_b9d019",
+      "source": "El Periódico",
+      "date": "2026-04-07",
+      "time": "08:01",
+      "summary": "La funció Live Translate facilita la comunicació internacional instantània, eliminant les barreres idiomàtiques tant en viatges com en negocis."
+    },
+    {
+      "title": "Els mòbils estan hackejant el nostre cervell?",
+      "link_id": "c_90e9a5",
+      "source": "Ara.cat",
+      "date": "2026-04-07",
+      "time": "05:00",
+      "summary": "Experts alerten sobre l'impacte negatiu de l'exposició constant a pantalles en el desenvolupament cognitiu d'infants i l'atenció dels adults."
     }
   ]
 }

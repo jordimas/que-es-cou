@@ -1,5 +1,5 @@
 {
-  "generated_at": "2024-05-24T18:30",
+  "generated_at": "2024-05-20T12:00",
   "id": "podcasts",
   "title": "Podcasts en català sobre tecnologia",
   "sources_checked": [],
@@ -10,7 +10,7 @@
       "source": "Mossega la poma",
       "date": "2026-04-10",
       "time": "08:18",
-      "summary": "Anàlisi de l'estat actual de la intel·ligència artificial i el seu impacte social, polític i moral."
+      "summary": "Anàlisi de l'impacte social i polític de la intel·ligència artificial i la influència de les grans corporacions tecnològiques."
     },
     {
       "title": "Ivoox com exemple de merdificació – Programa 658",
@@ -18,7 +18,7 @@
       "source": "Mossega la poma",
       "date": "2026-03-30",
       "time": "10:32",
-      "summary": "Debat sobre com les plataformes digitals prioritzen la monetització per sobre dels usuaris i creadors de contingut."
+      "summary": "Debat sobre com les plataformes digitals prioritzen la monetització agressiva per sobre dels usuaris i creadors de contingut."
     },
     {
       "title": "L' Altra Ràdio - Condemna judicial a Meta i Google per causar addicció a les xarxes socials",
@@ -26,7 +26,7 @@
       "source": "L'altra ràdio",
       "date": "2026-04-09",
       "time": "07:33",
-      "summary": "Valoració de la condemna a Meta i Google per generar addicció a les seves plataformes entre els joves."
+      "summary": "Valoració de la condemna a Meta i Google als Estats Units per fomentar l'addicció a les seves plataformes."
     },
     {
       "title": "L' Altra Ràdio - L'ONU i els drets de les dones a la societat i en el sector tecnològic",
@@ -34,15 +34,7 @@
       "source": "L'altra ràdio",
       "date": "2026-04-02",
       "time": "07:33",
-      "summary": "Karina Gibert explica les accions de l'ONU per protegir els drets femenins en l'àmbit tecnològic i social."
-    },
-    {
-      "title": "L' Altra Ràdio - Les persones que fan servir la llengua de signes catalana poden fer ràdio",
-      "link_id": "c_b337e6",
-      "source": "L'altra ràdio",
-      "date": "2026-03-26",
-      "time": "08:33",
-      "summary": "Presentació de Signària, una eina innovadora que permet fer ràdio mitjançant una veu sintètica personalitzada."
+      "summary": "Karina Gibert explica les accions de les Nacions Unides per protegir els drets femenins en l'àmbit tecnològic."
     },
     {
       "title": "El futur de la premsa, de l'educació i el problema de l'accès a les dades obertes",
@@ -50,7 +42,7 @@
       "source": "Internet amb Genís Roca",
       "date": "2026-03-29",
       "time": "02:37",
-      "summary": "Reflexió sobre els reptes del periodisme, l'ensenyament i la disponibilitat de la informació pública."
+      "summary": "Reflexió sobre els reptes del periodisme, l'ensenyament i les dificultats per accedir a la informació pública."
     },
     {
       "title": "El futur de la premsa, de l'educació i el problema de l'accès a les dades obertes",
@@ -58,7 +50,7 @@
       "source": "Internet amb Genís Roca",
       "date": "2026-03-28",
       "time": "19:14",
-      "summary": "Anàlisi profunda sobre l'evolució dels mitjans, el sistema educatiu i els obstacles de les dades obertes."
+      "summary": "Anàlisi profunda sobre l'evolució dels mitjans de comunicació, el sistema educatiu i la transparència de les dades."
     },
     {
       "title": "Tancat amb Claude",
@@ -66,7 +58,7 @@
       "source": "Foc a Terra",
       "date": "2026-04-06",
       "time": "04:00",
-      "summary": "Descobreix Factory Floor, una aplicació nativa per a macOS dissenyada per optimitzar el treball amb Claude Code."
+      "summary": "Presentació de Factory Floor, una aplicació nativa per a macOS dissenyada per optimitzar el treball amb Claude Code."
     },
     {
       "title": "La gamificació de la renda",
@@ -74,7 +66,7 @@
       "source": "Foc a Terra",
       "date": "2026-03-30",
       "time": "04:00",
-      "summary": "Repàs sobre subvencions, l'impacte del vibecoding i una curiosa proposta per gamificar la declaració d'impostos."
+      "summary": "Repàs sobre subvencions.cat, l'impacte del vibecoding i una curiosa proposta per gamificar la declaració de la renda."
     },
     {
       "title": "No tenim pas res enllestit per a WordPress 7.0",
@@ -82,7 +74,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-04-07",
       "time": "00:00",
-      "summary": "Sorgeixen dubtes i replantejaments d'última hora després de la publicació de les versions candidates del gestor."
+      "summary": "Sorgeixen dubtes i replantejaments d'última hora després de la publicació de les versions candidates de WordPress 7.0."
     },
     {
       "title": "Tot a punt per a la versió WordPress 7.0",
@@ -90,7 +82,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-03-31",
       "time": "00:00",
-      "summary": "El llançament entra en la seva fase final, centrant-se a polir els últims detalls abans de l'estrena."
+      "summary": "La nova gran actualització del gestor de continguts entra en la fase final polint els últims detalls."
     },
     {
       "title": "Capítol 62: Mitiga, invertir pensant en el risc climàtic",
@@ -98,7 +90,7 @@
       "source": "RAC&GO",
       "date": "2026-04-07",
       "time": "06:00",
-      "summary": "Àlex Martí presenta Mitiga, un projecte per ajudar les empreses a prendre decisions valorant l'impacte mediambiental."
+      "summary": "Àlex Martí presenta Mitiga, un projecte per ajudar les empreses a prendre decisions d'inversió considerant els riscos climàtics."
     }
   ]
 }
