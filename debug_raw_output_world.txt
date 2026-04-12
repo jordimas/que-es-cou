@@ -1,53 +1,32 @@
 {
-  "generated_at": "2026-04-11T19:28",
+  "generated_at": "2026-04-12T09:57",
   "id": "world",
   "title": "Notícies tecnològiques del món",
-  "sources_checked": [
-    {
-      "name": "AnandTech",
-      "url": "https://www.anandtech.com/rss/",
-      "articles_found": 0
-    },
-    {
-      "name": "Axios",
-      "url": "https://www.axios.com/feeds/feed.rss",
-      "articles_found": 0
-    },
-    {
-      "name": "Wall Street Journal Tech",
-      "url": "https://feeds.a.dj.com/rss/RSSWSJD.xml",
-      "articles_found": 0
-    },
-    {
-      "name": "Slashdot",
-      "url": "https://slashdot.org/rss/slashdot.rss",
-      "articles_found": 0
-    }
-  ],
+  "sources_checked": [],
   "articles": [
     {
-      "title": "Els astronautes de l'Artemis II aterren amb seguretat després de la missió lunar",
-      "link_id": "c_8472f5",
-      "source": "CNET",
+      "title": "Els Països Baixos són el primer país europeu a aprovar la conducció autònoma supervisada de Tesla",
+      "link_id": "c_811f93",
+      "source": "The Verge",
       "date": "2026-04-11",
-      "time": "15:51",
-      "summary": "La càpsula Orion ha aterrat a l'oceà Pacífic, completant amb èxit la històrica missió lunar de la NASA."
+      "time": "19:22",
+      "summary": "Després d'un any i mig de proves, els reguladors holandesos han autoritzat el sistema, obrint la porta a Europa."
     },
     {
-      "title": "Els bancs de Wall Street proven Mythos d'Anthropic a instàncies dels EUA",
-      "link_id": "c_8cdd08",
-      "source": "Bloomberg Technology",
-      "date": "2026-04-10",
-      "time": "20:30",
-      "summary": "Els bancs de Wall Street proven el nou model d'IA d'Anthropic per detectar vulnerabilitats, impulsats pel govern dels EUA."
+      "title": "Rockstar Games confirma que ha estat piratejada pel grup maliciós 'ShinyHunters'",
+      "link_id": "c_2faeaa",
+      "source": "Tom's Hardware",
+      "date": "2026-04-11",
+      "time": "18:05",
+      "summary": "Els pirates informàtics han accedit a la infraestructura al núvol de l'empresa i exigeixen un rescat per les dades."
     },
     {
-      "title": "Sam Altman respon a un article polèmic del New Yorker després de l'atac a casa seva",
-      "link_id": "c_1aa755",
-      "source": "TechCrunch",
+      "title": "Apple deixa d'acceptar comandes per a alguns models de Mac Mini i Mac Studio",
+      "link_id": "c_61f9e8",
+      "source": "MacRumors",
       "date": "2026-04-11",
-      "time": "17:18",
-      "summary": "El director executiu d'OpenAI respon a un atac contra la seva llar i a un perfil crític del New Yorker."
+      "time": "07:35",
+      "summary": "Les configuracions amb més memòria RAM d'aquests equips estan esgotades a la botiga en línia, sense opció de compra."
     },
     {
       "title": "X prepara una aplicació de missatgeria dedicada mentre XChat arriba a l'App Store",
@@ -55,55 +34,55 @@
       "source": "Digital Trends",
       "date": "2026-04-11",
       "time": "13:57",
-      "summary": "La nova aplicació de missatgeria xifrada d'Elon Musk estarà disponible per a usuaris d'iPhone a partir del 17 d'abril."
+      "summary": "La nova aplicació oferirà missatgeria xifrada d'extrem a extrem per als usuaris d'iPhone i suportarà més de 45 idiomes."
     },
     {
-      "title": "El govern de França abandona Windows per Linux, considerant la tecnologia dels EUA un risc estratègic",
-      "link_id": "c_daf2c8",
-      "source": "Hacker News",
-      "date": "2026-04-11",
-      "time": "08:25",
-      "summary": "El govern francès migrarà els seus sistemes a Linux per reduir la dependència tecnològica dels Estats Units i guanyar sobirania."
+      "title": "\"Simplement insostenible\": Per què la teva factura mensual d'internet podria pujar aviat",
+      "link_id": "c_1fbcfd",
+      "source": "TechRadar",
+      "date": "2026-04-12",
+      "time": "07:05",
+      "summary": "Les xarxes alternatives s'enfronten a costos creixents i un creixement lent, la qual cosa podria provocar augments de preus."
     },
     {
-      "title": "Apple deixa d'acceptar comandes per a alguns models de Mac mini i Mac Studio",
-      "link_id": "c_61f9e8",
-      "source": "MacRumors",
-      "date": "2026-04-11",
-      "time": "07:35",
-      "summary": "Apple ha deixat d'acceptar comandes per a certes configuracions de Mac mini i Mac Studio a la seva botiga."
+      "title": "Google Messages incorpora una paperera per a les teves converses menys importants",
+      "link_id": "c_2d6d8d",
+      "source": "Digital Trends",
+      "date": "2026-04-12",
+      "time": "06:10",
+      "summary": "La nova funció permet recuperar els missatges esborrats durant un període de 30 dies abans d'eliminar-los permanentment."
     },
     {
-      "title": "Les teves notificacions push no estan a resguard de l'FBI",
-      "link_id": "c_107732",
-      "source": "Wired",
-      "date": "2026-04-11",
-      "time": "10:30",
-      "summary": "Un cas recent demostra que l'FBI pot extreure missatges de Signal suposadament esborrats a través de les notificacions de l'iPhone."
+      "title": "\"Les teves fotos s'esborraran\": Alerta als usuaris d'Apple per una estafa d'emmagatzematge a iCloud",
+      "link_id": "c_7268ce",
+      "source": "The Guardian Tech",
+      "date": "2026-04-12",
+      "time": "06:00",
+      "summary": "Els estafadors envien correus falsos sobre l'espai ple per enganyar les víctimes i robar-los dades bancàries i personals."
     },
     {
-      "title": "Google afegeix xifratge d'extrem a extrem a Gmail per a dispositius Android i iOS d'empreses",
-      "link_id": "c_3eb605",
-      "source": "Computerworld",
-      "date": "2026-04-10",
-      "time": "22:14",
-      "summary": "Els usuaris corporatius de Workspace ja poden enviar i llegir correus xifrats d'extrem a extrem directament des de l'aplicació mòbil."
+      "title": "La Xina revela mesures de bona voluntat cap a Taiwan després de converses amb l'oposició",
+      "link_id": "c_25f1ca",
+      "source": "Bloomberg Technology",
+      "date": "2026-04-12",
+      "time": "03:29",
+      "summary": "Pequín ha anunciat noves polítiques per demostrar un apropament després d'una reunió històrica amb el líder de l'oposició taiwanesa."
     },
     {
-      "title": "Ho sentim, clients de Verizon: també pagareu més per YouTube Premium",
-      "link_id": "c_bda622",
-      "source": "Android Authority",
-      "date": "2026-04-10",
-      "time": "20:02",
-      "summary": "Google ha augmentat els preus de les subscripcions a YouTube Premium als Estats Units, afectant també els usuaris amb descomptes."
+      "title": "Flipkart i Amazon pressionen les empreses emergents de comerç ràpid a l'Índia",
+      "link_id": "c_88492f",
+      "source": "TechCrunch",
+      "date": "2026-04-12",
+      "time": "03:00",
+      "summary": "L'expansió contínua i els grans descomptes d'aquestes multinacionals augmenten els riscos per a les petites empreses locals del sector."
     },
     {
-      "title": "El programa Windows Insider de Microsoft ja no és un embolic confús",
-      "link_id": "c_2e4569",
-      "source": "ZDNet",
-      "date": "2026-04-10",
-      "time": "18:00",
-      "summary": "Microsoft ha simplificat el seu programa de proves reduint els canals i facilitant el canvi sense haver d'esborrar el dispositiu."
+      "title": "Les Filipines demanen a Facebook que freni les notícies falses i adverteixen de mesures legals",
+      "link_id": "c_09e2be",
+      "source": "Bloomberg Technology",
+      "date": "2026-04-12",
+      "time": "02:29",
+      "summary": "El govern exigeix a Meta que controli el contingut enganyós, amenaçant amb accions judicials si no actua ràpidament."
     }
   ]
 }
