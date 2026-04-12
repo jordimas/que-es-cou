@@ -1,109 +1,88 @@
 {
-  "generated_at": "2026-04-11T13:20",
+  "generated_at": "2024-05-24T18:30",
   "id": "world",
   "title": "Notícies tecnològiques del món",
-  "sources_checked": [
-    {
-      "name": "AnandTech",
-      "url": "https://www.anandtech.com/rss/",
-      "articles_found": 0
-    },
-    {
-      "name": "Axios",
-      "url": "https://www.axios.com/feeds/feed.rss",
-      "articles_found": 0
-    },
-    {
-      "name": "Wall Street Journal Tech",
-      "url": "https://feeds.a.dj.com/rss/RSSWSJD.xml",
-      "articles_found": 0
-    },
-    {
-      "name": "Slashdot",
-      "url": "https://slashdot.org/rss/slashdot.rss",
-      "articles_found": 0
-    }
-  ],
+  "sources_checked": [],
   "articles": [
     {
-      "title": "Els astronautes de l'Artemis II tornen després d'un viatge de 10 dies al voltant de la Lluna",
-      "link_id": "c_5effcd",
-      "source": "Engadget",
+      "title": "Linux 7.0 habilita tres noves tecles específiques per a IA als teclats",
+      "link_id": "c_37e921",
+      "source": "Tom's Hardware",
+      "date": "2026-04-12",
+      "time": "11:00",
+      "summary": "Aquesta actualització del nucli amplia les opcions més enllà de Copilot, amb Google liderant l'especificació i el pedaç."
+    },
+    {
+      "title": "Pistes i respostes per al NYT Strands del 12 d'abril",
+      "link_id": "c_099c60",
+      "source": "CNET",
+      "date": "2026-04-12",
+      "time": "09:01",
+      "summary": "Descobreix les solucions i consells per resoldre el trencaclosques diari número 770 del New York Times de forma ràpida."
+    },
+    {
+      "title": "Pistes i respostes per al NYT Connections del 12 d'abril",
+      "link_id": "c_64ca0e",
+      "source": "CNET",
+      "date": "2026-04-12",
+      "time": "09:01",
+      "summary": "Troba l'ajuda necessària per superar el repte número 1036 d'aquest popular joc de paraules del New York Times."
+    },
+    {
+      "title": "Google mostra apostes de Polymarket com a notícies per \"error\"",
+      "link_id": "c_941721",
+      "source": "Gizmodo",
+      "date": "2026-04-12",
+      "time": "09:00",
+      "summary": "La companyia assegura que l'aparició d'aquestes prediccions financeres als resultats de Google News va ser una fallada no intencionada."
+    },
+    {
+      "title": "\"Massa potent per al públic\": L'estratègia d'Anthropic per guanyar la guerra publicitària de la IA",
+      "link_id": "c_1896f8",
+      "source": "The Guardian Tech",
+      "date": "2026-04-12",
+      "time": "09:00",
+      "summary": "L'empresa reté el seu nou model al·legant riscos de ciberseguretat, un moviment que els crítics consideren pur màrqueting."
+    },
+    {
+      "title": "Els Països Baixos, primer estat europeu en aprovar la conducció autònoma supervisada de Tesla",
+      "link_id": "c_811f93",
+      "source": "The Verge",
       "date": "2026-04-11",
-      "time": "03:38",
-      "summary": "La càpsula Orion ha aterrat amb èxit a l'oceà Pacífic, concloent una missió històrica per al futur lunar."
-    },
-    {
-      "title": "YouTube Premium és l'últim servei de streaming en apujar els preus",
-      "link_id": "c_4b6c17",
-      "source": "CNET",
-      "date": "2026-04-10",
       "time": "19:22",
-      "summary": "Els subscriptors nord-americans patiran un increment de fins a 4 dòlars mensuals en les seves tarifes actuals."
+      "summary": "Després de mesos de proves, els reguladors holandesos obren la porta a l'expansió d'aquesta tecnologia per tota la Unió Europea."
     },
     {
-      "title": "Els bancs de Wall Street proven el model Mythos d'Anthropic a instàncies dels EUA",
-      "link_id": "c_8cdd08",
-      "source": "Bloomberg Technology",
-      "date": "2026-04-10",
-      "time": "20:30",
-      "summary": "L'administració nord-americana insta les entitats financeres a utilitzar aquesta nova IA per detectar vulnerabilitats i riscos cibernètics."
-    },
-    {
-      "title": "Llancen un còctel Molotov contra la casa de Sam Altman, CEO d'OpenAI",
-      "link_id": "c_9d149c",
-      "source": "NYT Technology",
-      "date": "2026-04-10",
-      "time": "23:52",
-      "summary": "La policia de San Francisco ha detingut un jove de 20 anys per l'atac a la residència del directiu."
-    },
-    {
-      "title": "França ordena als ministeris abandonar Windows per Linux en un impuls de sobirania digital",
-      "link_id": "c_ae08b3",
-      "source": "The Next Web",
-      "date": "2026-04-10",
-      "time": "21:21",
-      "summary": "El govern francès vol eliminar la dependència tecnològica dels Estats Units migrant els seus equips a programari lliure."
-    },
-    {
-      "title": "Amazon Luna deixarà de donar suport a jocs i subscripcions de tercers al juny",
-      "link_id": "c_238d16",
-      "source": "CNET",
-      "date": "2026-04-10",
-      "time": "21:22",
-      "summary": "La plataforma de joc al núvol es reestructura eliminant les compres externes per centrar-se en el seu propi servei."
-    },
-    {
-      "title": "Google afegeix xifratge d'extrem a extrem a Gmail per a dispositius Android i iOS d'empreses",
-      "link_id": "c_3eb605",
-      "source": "Computerworld",
-      "date": "2026-04-10",
-      "time": "22:14",
-      "summary": "Aquesta millora de privacitat permetrà als usuaris corporatius protegir els seus correus directament des de l'aplicació mòbil."
-    },
-    {
-      "title": "La FAA busca jugadors de videojocs per ser controladors aeris",
-      "link_id": "c_67fcbd",
+      "title": "Rockstar Games confirma un ciberatac per part del grup maliciós ShinyHunters",
+      "link_id": "c_2faeaa",
       "source": "Tom's Hardware",
       "date": "2026-04-11",
-      "time": "10:40",
-      "summary": "L'agència nord-americana vol pal·liar l'escassetat de personal atraient joves amb sous atractius i aprofitant les seves habilitats digitals."
+      "time": "18:05",
+      "summary": "Els pirates informàtics exigeixen un rescat abans del 14 d'abril per evitar la filtració de dades confidencials de l'empresa."
     },
     {
-      "title": "El programa Windows Insider de Microsoft deixa de ser un embolic confús",
-      "link_id": "c_2e4569",
+      "title": "Apple deixa d'acceptar comandes per a alguns models de Mac Mini i Mac Studio",
+      "link_id": "c_61f9e8",
+      "source": "MacRumors",
+      "date": "2026-04-11",
+      "time": "07:35",
+      "summary": "L'esgotament d'estoc d'aquestes configuracions de gamma alta suggereix una possible renovació imminent dels equips amb els nous xips M5."
+    },
+    {
+      "title": "X prepara una aplicació de missatgeria dedicada amb el llançament de XChat a l'App Store",
+      "link_id": "c_d8a32b",
+      "source": "Digital Trends",
+      "date": "2026-04-11",
+      "time": "13:57",
+      "summary": "La nova plataforma d'Elon Musk oferirà xats xifrats d'extrem a extrem i estarà disponible per a usuaris d'iPhone aviat."
+    },
+    {
+      "title": "30 anys després, torno a Enlightenment Linux per provar la beta d'Elive",
+      "link_id": "c_39c3a4",
       "source": "ZDNet",
-      "date": "2026-04-10",
-      "time": "18:00",
-      "summary": "La companyia simplifica els canals de prova de Windows 11, facilitant l'accés a funcions experimentals sense esborrar el dispositiu."
-    },
-    {
-      "title": "El model de suport ocult de ChatGPT es torna més intel·ligent amb una nova opció Pro",
-      "link_id": "c_9b835e",
-      "source": "TechRadar",
-      "date": "2026-04-10",
-      "time": "11:56",
-      "summary": "OpenAI llança una subscripció de 100 dòlars mensuals orientada a usuaris intensius de programació per competir amb Claude."
+      "date": "2026-04-12",
+      "time": "11:00",
+      "summary": "Aquesta distribució basada en Debian recupera l'entorn d'escriptori clàssic amb una interfície renovada, tot i que encara falten algunes funcions."
     }
   ]
 }

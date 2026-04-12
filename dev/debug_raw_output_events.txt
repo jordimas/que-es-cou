@@ -1,16 +1,32 @@
 {
-  "generated_at": "2024-05-22T14:00",
+  "generated_at": "2024-05-23T16:15",
   "id": "events",
   "title": "Trobades",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Networking for AI Professionals around the world - April 14",
-      "link_id": "c_c4cc43",
+      "title": "¿Apareces cuando la IA responde? Introducción al GEO",
+      "link_id": "c_d06691",
+      "source": "WordPress BCN",
+      "date": "2026-04-11",
+      "time": "16:31",
+      "summary": "Descobreix com optimitzar la teva web per als motors generatius i destacar en les respostes de la IA."
+    },
+    {
+      "title": "Taller de agentes IA con AI Studio y Gemma 4, Roadtrip #BuildwithAI",
+      "link_id": "c_a8fd5a",
+      "source": "GDG Barcelona",
+      "date": "2026-04-12",
+      "time": "10:05",
+      "summary": "Uneix-te a la primera parada d'aquest viatge tecnològic per explorar la intel·ligència artificial, la comunitat i la creativitat."
+    },
+    {
+      "title": "Networking for AI Professionals around the world - May 12",
+      "link_id": "c_16ce7a",
       "source": "AI Professionals Barcelona",
-      "date": "2026-03-27",
-      "time": "14:32",
-      "summary": "Sessió interactiva en línia i gratuïta per connectar, col·laborar i compartir coneixements amb professionals de la intel·ligència artificial."
+      "date": "2026-04-12",
+      "time": "03:16",
+      "summary": "Sessió interactiva en línia per connectar, col·laborar i compartir coneixements amb professionals de la IA d'arreu del món."
     }
   ]
 }
