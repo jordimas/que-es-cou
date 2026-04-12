@@ -1,5 +1,5 @@
 {
-  "generated_at": "2024-05-24T15:30",
+  "generated_at": "2024-05-24T16:00",
   "id": "events",
   "title": "Trobades",
   "sources_checked": [],
@@ -10,7 +10,23 @@
       "source": "WordPress BCN",
       "date": "2026-04-11",
       "time": "16:31",
-      "summary": "Descobreix com optimitzar la teva web per a motors generatius i destacar en les respostes de la intel·ligència artificial."
+      "summary": "Descobreix com optimitzar la teva web per aparèixer a les respostes de motors generatius com ChatGPT o Gemini."
+    },
+    {
+      "title": "Taller de agentes IA con AI Studio y Gemma 4, Roadtrip #BuildwithAI",
+      "link_id": "c_a8fd5a",
+      "source": "GDG Barcelona",
+      "date": "2026-04-12",
+      "time": "10:05",
+      "summary": "Participa en la primera parada d'aquest viatge tecnològic per explorar la intel·ligència artificial, la comunitat i la creativitat."
+    },
+    {
+      "title": "Flutter & GDG Barcelona Tech Talk – Creando tu primer plugin de Dart Analyzer",
+      "link_id": "c_661a3c",
+      "source": "GDG Barcelona",
+      "date": "2026-04-12",
+      "time": "16:41",
+      "summary": "Aprèn a crear regles de lint personalitzades per millorar la qualitat del codi en els teus projectes Flutter."
     },
     {
       "title": "Networking for AI Professionals around the world - May 12",
@@ -18,7 +34,7 @@
       "source": "AI Professionals Barcelona",
       "date": "2026-04-12",
       "time": "03:16",
-      "summary": "Sessió interactiva en línia per connectar, col·laborar i compartir coneixements amb professionals de la intel·ligència artificial d'arreu del món."
+      "summary": "Sessió interactiva en línia per connectar i col·laborar amb professionals de la intel·ligència artificial d'arreu del món."
     }
   ]
 }

@@ -1,64 +1,16 @@
 {
-  "generated_at": "2026-04-12T08:00",
+  "generated_at": "2026-04-12T17:35",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [],
   "articles": [
     {
-      "title": "La càpsula Orió amara amb èxit al Pacífic i culmina la històrica missió Artemis 2",
-      "link_id": "c_ca913d",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-04-11",
-      "time": "07:30",
-      "summary": "La fita espacial obre la porta a futures exploracions tripulades més enllà de l'òrbita terrestre baixa."
-    },
-    {
-      "title": "\"Només és el principi\": l'èxit de l'Artemis 2 acosta més el retorn a la Lluna i el salt a Mart",
-      "link_id": "c_03536d",
-      "source": "324.cat",
-      "date": "2026-04-11",
-      "time": "09:17",
-      "summary": "Aquesta missió valida la tecnologia necessària per als pròxims aterratges lunars previstos en el programa espacial."
-    },
-    {
-      "title": "La catalana Sateliot llança una nova ronda d’inversió de 100 milions d’euros amb el suport del Govern d’Espanya",
-      "link_id": "c_cbc645",
-      "source": "El Periódico",
-      "date": "2026-04-08",
-      "time": "13:27",
-      "summary": "L'empresa busca finançament per desenvolupar la seva xarxa de satèl·lits de baixa òrbita per a connexions globals."
-    },
-    {
-      "title": "Sateliot busca 100 milions d’euros per desplegar una constel·lació de satèl·lits 5G",
-      "link_id": "c_6716ff",
-      "source": "MetaData",
-      "date": "2026-04-10",
-      "time": "13:10",
-      "summary": "Amb setze nous satèl·lits, la companyia vol consolidar-se com un actor estratègic en la sobirania tecnològica europea."
-    },
-    {
-      "title": "Més IA i robots: Barcelona inaugura una xarxa única a Espanya per experimentar amb les tecnologies 5G i 6G",
-      "link_id": "c_3ad901",
-      "source": "El Periódico",
-      "date": "2026-04-08",
-      "time": "11:47",
-      "summary": "La UPC lidera aquesta infraestructura científica que permetrà provar la pròxima generació de telecomunicacions avançades."
-    },
-    {
-      "title": "La UPC desplega 6GLabNet, una infraestructura pionera per provar el 6G en entorns reals",
-      "link_id": "c_e89b74",
-      "source": "MetaData",
-      "date": "2026-04-09",
-      "time": "16:31",
-      "summary": "Aquest laboratori combina fibra òptica i intel·ligència artificial per accelerar la creació de nous serveis digitals."
-    },
-    {
-      "title": "Puig, un repte transatlàntic i l'exemple de 3 fusions que van esfondrar-se",
-      "link_id": "c_71ab67",
-      "source": "Via Empresa",
+      "title": "La nova balisa V-16, en evidència: augmenten els atropellaments i la mortalitat a les carreteres espanyoles",
+      "link_id": "c_c98a7e",
+      "source": "Ara.cat",
       "date": "2026-04-12",
-      "time": "04:55",
-      "summary": "Les negociacions amb Estée Lauder marquen un moment decisiu per al futur de la indústria cosmètica catalana."
+      "time": "07:05",
+      "summary": "Tot i ser obligatòria, la nova senyalització lluminosa no ha evitat un repunt de víctimes mortals durant la Setmana Santa."
     },
     {
       "title": "La balisa V16 arriba als jutjats: un conductor presenta una denúncia contra una multa per no portar el dispositiu",
@@ -66,7 +18,39 @@
       "source": "RAC1",
       "date": "2026-04-11",
       "time": "13:20",
-      "summary": "La sanció de vuitanta euros a un cotxe de lloguer obre el debat legal sobre aquesta nova obligació."
+      "summary": "Un jutjat de Madrid rep la primera impugnació d'una sanció de 80 euros per no dur aquest aparell d'emergència."
+    },
+    {
+      "title": "\"Només és el principi\": l'èxit de l'Artemis 2 acosta més el retorn a la Lluna i el salt a Mart",
+      "link_id": "c_03536d",
+      "source": "324.cat",
+      "date": "2026-04-11",
+      "time": "09:17",
+      "summary": "La missió valida tecnologies clau per als futurs aterratges lunars i obre la porta a l'exploració humana del planeta vermell."
+    },
+    {
+      "title": "La càpsula Orió amara amb èxit al Pacífic i culmina la històrica missió Artemis 2",
+      "link_id": "c_ca913d",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-04-11",
+      "time": "07:30",
+      "summary": "Els quatre astronautes tornen sans i estalvis després de completar la volta a la Lluna i fer història espacial."
+    },
+    {
+      "title": "La catalana Sateliot llança una nova ronda d’inversió de 100 milions d’euros amb el suport del Govern d’Espanya",
+      "link_id": "c_cbc645",
+      "source": "El Periódico",
+      "date": "2026-04-08",
+      "time": "13:27",
+      "summary": "L'empresa busca finançament per expandir la seva xarxa de satèl·lits de baixa òrbita i consolidar la connectivitat global."
+    },
+    {
+      "title": "La UPC desplega 6GLabNet, una infraestructura pionera per provar el 6G en entorns reals",
+      "link_id": "c_e89b74",
+      "source": "MetaData",
+      "date": "2026-04-09",
+      "time": "16:31",
+      "summary": "Aquesta xarxa experimental única a l'Estat combina intel·ligència artificial i fibra òptica per accelerar els futurs serveis digitals."
     },
     {
       "title": "El mòbil es converteix en el teu DNI: el format digital ja és obligatori d’acceptar",
@@ -74,15 +58,31 @@
       "source": "MetaData",
       "date": "2026-04-08",
       "time": "10:00",
-      "summary": "L'aplicació MiDNI facilita l'acreditació d'identitat en tràmits diaris, complementant el document físic tradicional."
+      "summary": "L'aplicació MiDNI permet identificar-se oficialment des del telèfon per a tràmits quotidians, complementant el document físic tradicional."
     },
     {
-      "title": "Veolia accelera la resiliència hídrica a Catalunya amb 4 projectes PERTE de digitalització del cicle de l’aigua",
-      "link_id": "c_0127a9",
-      "source": "Tot Barcelona",
-      "date": "2026-04-10",
-      "time": "01:28",
-      "summary": "Aquestes iniciatives busquen combatre els efectes de la sequera mitjançant la gestió tecnològica eficient dels recursos hídrics."
+      "title": "Un mar de maletes espera a ser recollit a l'aeroport del Prat per la vaga de Groundforce",
+      "link_id": "c_d7083f",
+      "source": "Ara.cat",
+      "date": "2026-04-11",
+      "time": "18:03",
+      "summary": "L'aturada indefinida del personal de facturació provoca l'acumulació descontrolada d'equipatges a les cintes de la terminal barcelonina."
+    },
+    {
+      "title": "La fi dels envasos de plàstic monodosi: hotels i restauració s’avancen a la normativa europea",
+      "link_id": "c_85d9c1",
+      "source": "Àpunt",
+      "date": "2026-04-12",
+      "time": "10:49",
+      "summary": "El sector turístic s'adapta abans del 2030 per reduir residus i promoure un model de consum molt més sostenible."
+    },
+    {
+      "title": "El govern espanyol crea una eina per preveure les pensions del futur",
+      "link_id": "c_30dc39",
+      "source": "Lleida Diari",
+      "date": "2026-04-12",
+      "time": "03:22",
+      "summary": "La plataforma INTegraSS oferirà projeccions globals i actualitzades per millorar la planificació econòmica del sistema de la Seguretat Social."
     }
   ]
 }

@@ -1,16 +1,32 @@
 {
-  "generated_at": "2024-05-24T16:00",
+  "generated_at": "2026-04-12T19:31",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Com canviarà la IA l'organigrama empresarial?",
+      "title": "Els reguladors financers del Regne Unit avaluen els riscos del nou model d'IA d'Anthropic",
+      "link_id": "c_b226e9",
+      "source": "Financial Times",
+      "date": "2026-04-12",
+      "time": "11:40",
+      "summary": "S'alertarà bancs i asseguradores sobre les vulnerabilitats cibernètiques descobertes per Claude Mythos en els seus sistemes."
+    },
+    {
+      "title": "Musk encadena derrotes legals abans de l'enfrontament amb Altman d'OpenAI",
+      "link_id": "c_ecb635",
+      "source": "Financial Times",
+      "date": "2026-04-12",
+      "time": "10:00",
+      "summary": "El magnat ha perdut recents demandes per frau d'accionistes i robatori de secrets d'intel·ligència artificial."
+    },
+    {
+      "title": "Com canviarà la intel·ligència artificial l'organigrama empresarial?",
       "link_id": "c_753f91",
       "source": "Financial Times",
       "date": "2026-04-12",
       "time": "04:00",
-      "summary": "Reduir els nivells jeràrquics pot ser rendible per a les empreses que adopten noves tecnologies intel·ligents."
+      "summary": "L'evidència suggereix que reduir les capes de comandament i aplanar les estructures resulta rendible actualment."
     },
     {
       "title": "L'algoritme TurboQuant de Google reduirà la demanda de xips de memòria?",
@@ -18,15 +34,7 @@
       "source": "Financial Times",
       "date": "2026-04-12",
       "time": "04:00",
-      "summary": "Els experts apunten que una intel·ligència artificial més eficient podria disparar encara més la necessitat de semiconductors."
-    },
-    {
-      "title": "L'ambient en un dels grans esdeveniments de la IA: la 'claude-mania'",
-      "link_id": "c_eaa264",
-      "source": "CNBC Technology",
-      "date": "2026-04-11",
-      "time": "12:00",
-      "summary": "L'impuls d'Anthropic va dominar les converses durant la conferència HumanX a San Francisco, eclipsant altres competidors."
+      "summary": "Els experts apunten que una IA més eficient podria disparar encara més la necessitat de semiconductors."
     }
   ]
 }

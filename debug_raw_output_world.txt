@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-04-12T09:57",
+  "generated_at": "2026-04-12T19:31",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Els Països Baixos són el primer país europeu a aprovar la conducció autònoma supervisada de Tesla",
-      "link_id": "c_811f93",
+      "title": "Rockstar Games afirma que el hackeig \"no tindrà impacte\"",
+      "link_id": "c_7d0632",
       "source": "The Verge",
-      "date": "2026-04-11",
-      "time": "19:22",
-      "summary": "Després d'un any i mig de proves, els reguladors holandesos han autoritzat el sistema, obrint la porta a Europa."
+      "date": "2026-04-12",
+      "time": "13:02",
+      "summary": "Rockstar confirma una bretxa de dades a través d'un proveïdor extern, però assegura que no afectarà els seus jocs."
     },
     {
-      "title": "Rockstar Games confirma que ha estat piratejada pel grup maliciós 'ShinyHunters'",
-      "link_id": "c_2faeaa",
-      "source": "Tom's Hardware",
-      "date": "2026-04-11",
-      "time": "18:05",
-      "summary": "Els pirates informàtics han accedit a la infraestructura al núvol de l'empresa i exigeixen un rescat per les dades."
-    },
-    {
-      "title": "Apple deixa d'acceptar comandes per a alguns models de Mac Mini i Mac Studio",
-      "link_id": "c_61f9e8",
-      "source": "MacRumors",
-      "date": "2026-04-11",
-      "time": "07:35",
-      "summary": "Les configuracions amb més memòria RAM d'aquests equips estan esgotades a la botiga en línia, sense opció de compra."
-    },
-    {
-      "title": "X prepara una aplicació de missatgeria dedicada mentre XChat arriba a l'App Store",
-      "link_id": "c_d8a32b",
-      "source": "Digital Trends",
-      "date": "2026-04-11",
-      "time": "13:57",
-      "summary": "La nova aplicació oferirà missatgeria xifrada d'extrem a extrem per als usuaris d'iPhone i suportarà més de 45 idiomes."
-    },
-    {
-      "title": "\"Simplement insostenible\": Per què la teva factura mensual d'internet podria pujar aviat",
-      "link_id": "c_1fbcfd",
+      "title": "Com veure 'The Audacity' en línia des de qualsevol lloc",
+      "link_id": "c_93f0ff",
       "source": "TechRadar",
       "date": "2026-04-12",
-      "time": "07:05",
-      "summary": "Les xarxes alternatives s'enfronten a costos creixents i un creixement lent, la qual cosa podria provocar augments de preus."
+      "time": "17:00",
+      "summary": "Descobreix com reproduir gratuïtament aquesta nova comèdia negra sobre un magnat tecnològic descontrolat des de qualsevol part del món."
     },
     {
-      "title": "Google Messages incorpora una paperera per a les teves converses menys importants",
-      "link_id": "c_2d6d8d",
-      "source": "Digital Trends",
+      "title": "S'esperen moltes millores fantàstiques per a Linux 7.1, especialment per a AMD i Intel",
+      "link_id": "c_042f5a",
+      "source": "Phoronix",
       "date": "2026-04-12",
-      "time": "06:10",
-      "summary": "La nova funció permet recuperar els missatges esborrats durant un període de 30 dies abans d'eliminar-los permanentment."
+      "time": "10:00",
+      "summary": "Amb el llançament de Linux 7.0, s'obre la finestra d'integració per a la versió 7.1 amb noves funcions destacades."
     },
     {
-      "title": "\"Les teves fotos s'esborraran\": Alerta als usuaris d'Apple per una estafa d'emmagatzematge a iCloud",
-      "link_id": "c_7268ce",
-      "source": "The Guardian Tech",
+      "title": "Samsung Galaxy S26 vs. Google Pixel 10: Comparativa dels telèfons insígnia",
+      "link_id": "c_4ab429",
+      "source": "CNET",
       "date": "2026-04-12",
-      "time": "06:00",
-      "summary": "Els estafadors envien correus falsos sobre l'espai ple per enganyar les víctimes i robar-los dades bancàries i personals."
+      "time": "13:46",
+      "summary": "Analitzem les diferències clau entre els models més assequibles de Samsung i Google per ajudar-te a triar el millor."
     },
     {
-      "title": "La Xina revela mesures de bona voluntat cap a Taiwan després de converses amb l'oposició",
-      "link_id": "c_25f1ca",
-      "source": "Bloomberg Technology",
+      "title": "OpenAI diu que Elon Musk orquestra una \"emboscada legal\" d'última hora abans del judici",
+      "link_id": "c_7438f3",
+      "source": "Engadget",
       "date": "2026-04-12",
-      "time": "03:29",
-      "summary": "Pequín ha anunciat noves polítiques per demostrar un apropament després d'una reunió històrica amb el líder de l'oposició taiwanesa."
+      "time": "16:32",
+      "summary": "La tensió augmenta mentre OpenAI acusa Musk de canviar sobtadament les seves demandes per injectar caos al procés judicial."
     },
     {
-      "title": "Flipkart i Amazon pressionen les empreses emergents de comerç ràpid a l'Índia",
-      "link_id": "c_88492f",
-      "source": "TechCrunch",
+      "title": "YouTube Premium és l'únic servei de streaming que pot sortir-se'n amb pujades de preu",
+      "link_id": "c_efaa9c",
+      "source": "9to5Google",
       "date": "2026-04-12",
-      "time": "03:00",
-      "summary": "L'expansió contínua i els grans descomptes d'aquestes multinacionals augmenten els riscos per a les petites empreses locals del sector."
+      "time": "16:00",
+      "summary": "YouTube confirma el primer augment de tarifes en tres anys, una mesura que els usuaris semblen disposats a acceptar."
     },
     {
-      "title": "Les Filipines demanen a Facebook que freni les notícies falses i adverteixen de mesures legals",
-      "link_id": "c_09e2be",
-      "source": "Bloomberg Technology",
+      "title": "Les ulleres d'Apple tindran dissenys de gamma alta amb materials prèmium i quatre estils en prova",
+      "link_id": "c_7e9f31",
+      "source": "9to5Mac",
       "date": "2026-04-12",
-      "time": "02:29",
-      "summary": "El govern exigeix a Meta que controli el contingut enganyós, amenaçant amb accions judicials si no actua ràpidament."
+      "time": "14:17",
+      "summary": "Apple avalua diversos dissenys i colors per a les seves futures ulleres intel·ligents, buscant competir directament amb Meta."
+    },
+    {
+      "title": "Premier League 2026: Mira el Chelsea contra el Manchester City en directe",
+      "link_id": "c_f6171d",
+      "source": "CNET",
+      "date": "2026-04-12",
+      "time": "13:30",
+      "summary": "Descobreix com seguir aquest emocionant partit on els \"Blues\" intentaran frenar les ambicions de títol de l'equip de Guardiola."
+    },
+    {
+      "title": "Pistes, respostes i ajuda per al NYT Strands d'avui, 12 d'abril #770",
+      "link_id": "c_099c60",
+      "source": "CNET",
+      "date": "2026-04-12",
+      "time": "09:01",
+      "summary": "Troba totes les pistes necessàries i la solució completa per resoldre el trencaclosques diari Strands del New York Times."
+    },
+    {
+      "title": "Pistes, respostes i ajuda per al NYT Connections d'avui, 12 d'abril #1036",
+      "link_id": "c_64ca0e",
+      "source": "CNET",
+      "date": "2026-04-12",
+      "time": "09:01",
+      "summary": "Supera el repte diari del joc Connections amb aquests consells útils i les respostes exactes per a cada categoria."
     }
   ]
 }
