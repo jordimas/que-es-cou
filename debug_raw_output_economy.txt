@@ -1,16 +1,32 @@
 {
-  "generated_at": "2026-04-12T19:31",
+  "generated_at": "2024-05-24T18:00",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Els reguladors financers del Regne Unit avaluen els riscos del nou model d'IA d'Anthropic",
+      "title": "Els reguladors financers britànics s'apressen a avaluar els riscos del nou model d'IA d'Anthropic",
       "link_id": "c_b226e9",
       "source": "Financial Times",
       "date": "2026-04-12",
       "time": "11:40",
-      "summary": "S'alertarà bancs i asseguradores sobre les vulnerabilitats cibernètiques descobertes per Claude Mythos en els seus sistemes."
+      "summary": "S'alertarà bancs i asseguradores sobre les vulnerabilitats cibernètiques que el sistema Claude Mythos podria explotar."
+    },
+    {
+      "title": "OpenAI anuncia la seva primera oficina permanent a Londres després d'aturar el projecte britànic Stargate",
+      "link_id": "c_27ccaa",
+      "source": "CNBC Technology",
+      "date": "2026-04-13",
+      "time": "08:04",
+      "summary": "La capital britànica esdevindrà el centre d'investigació més gran de l'empresa fora dels Estats Units."
+    },
+    {
+      "title": "Meta crea una versió d'IA de Mark Zuckerberg per interactuar amb els empleats",
+      "link_id": "c_8b1abf",
+      "source": "Financial Times",
+      "date": "2026-04-13",
+      "time": "04:00",
+      "summary": "El directiu entrena el seu propi avatar per impulsar el desenvolupament d'una superintel·ligència personal corporativa."
     },
     {
       "title": "Musk encadena derrotes legals abans de l'enfrontament amb Altman d'OpenAI",
@@ -18,23 +34,7 @@
       "source": "Financial Times",
       "date": "2026-04-12",
       "time": "10:00",
-      "summary": "El magnat ha perdut recents demandes per frau d'accionistes i robatori de secrets d'intel·ligència artificial."
-    },
-    {
-      "title": "Com canviarà la intel·ligència artificial l'organigrama empresarial?",
-      "link_id": "c_753f91",
-      "source": "Financial Times",
-      "date": "2026-04-12",
-      "time": "04:00",
-      "summary": "L'evidència suggereix que reduir les capes de comandament i aplanar les estructures resulta rendible actualment."
-    },
-    {
-      "title": "L'algoritme TurboQuant de Google reduirà la demanda de xips de memòria?",
-      "link_id": "c_c67e74",
-      "source": "Financial Times",
-      "date": "2026-04-12",
-      "time": "04:00",
-      "summary": "Els experts apunten que una IA més eficient podria disparar encara més la necessitat de semiconductors."
+      "summary": "El magnat ha perdut recents demandes per frau d'accionistes i presumpte robatori de secrets d'IA."
     }
   ]
 }

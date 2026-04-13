@@ -1,5 +1,5 @@
 {
-  "generated_at": "2024-05-24T16:00",
+  "generated_at": "2024-05-24T16:45",
   "id": "podcasts",
   "title": "Podcasts en català sobre tecnologia",
   "sources_checked": [],
@@ -10,7 +10,7 @@
       "source": "Mossega la poma",
       "date": "2026-04-10",
       "time": "08:18",
-      "summary": "Anàlisi de l'impacte social i polític de la intel·ligència artificial i la influència de les grans corporacions."
+      "summary": "Una anàlisi profunda sobre com la intel·ligència artificial transforma la societat, la moralitat i les estructures de poder actuals."
     },
     {
       "title": "Ivoox com exemple de merdificació – Programa 658",
@@ -18,7 +18,7 @@
       "source": "Mossega la poma",
       "date": "2026-03-30",
       "time": "10:32",
-      "summary": "Debat sobre la degradació dels serveis digitals que prioritzen la monetització per sobre de l'experiència de l'usuari."
+      "summary": "Debat sobre com les plataformes digitals prioritzen la monetització agressiva per sobre de l'experiència de l'usuari i els creadors."
     },
     {
       "title": "L' Altra Ràdio - Condemna judicial a Meta i Google per causar addicció a les xarxes socials",
@@ -26,7 +26,7 @@
       "source": "L'altra ràdio",
       "date": "2026-04-09",
       "time": "07:33",
-      "summary": "Valoració de la condemna a Meta i Google per fomentar l'addicció a les xarxes socials entre els joves."
+      "summary": "La doctora Àtia Cortés analitza la sentència històrica contra els gegants tecnològics pels danys psicològics causats a joves usuaris."
     },
     {
       "title": "L' Altra Ràdio - L'ONU i els drets de les dones a la societat i en el sector tecnològic",
@@ -34,7 +34,7 @@
       "source": "L'altra ràdio",
       "date": "2026-04-02",
       "time": "07:33",
-      "summary": "Karina Gibert explica les accions de l'ONU per protegir els drets de les dones al sector tecnològic."
+      "summary": "Karina Gibert explica les iniciatives internacionals per garantir la igualtat de gènere i protegir les dones en l'àmbit tecnològic."
     },
     {
       "title": "El futur de la premsa, de l'educació i el problema de l'accès a les dades obertes",
@@ -42,15 +42,15 @@
       "source": "Internet amb Genís Roca",
       "date": "2026-03-29",
       "time": "02:37",
-      "summary": "Reflexió sobre els reptes del periodisme, l'educació i les dificultats per accedir a les dades obertes."
+      "summary": "Reflexió sobre els reptes actuals del periodisme, el sistema educatiu i les barreres per accedir a la informació pública."
     },
     {
-      "title": "El futur de la premsa, de l'educació i el problema de l'accès a les dades obertes",
-      "link_id": "c_0fd001",
-      "source": "Internet amb Genís Roca",
-      "date": "2026-03-28",
-      "time": "19:14",
-      "summary": "Anàlisi sobre l'evolució dels mitjans de comunicació, el sistema educatiu i la gestió de dades obertes."
+      "title": "Avui parlem d'urbanisme i dels cables de les façanes, amb Judith Urbano",
+      "link_id": "c_d066c6",
+      "source": "Foc a Terra",
+      "date": "2026-04-13",
+      "time": "04:00",
+      "summary": "La doctora Judith Urbano descobreix els secrets de l'urbanisme barceloní i l'origen del cablejat visible als edificis de la ciutat."
     },
     {
       "title": "Tancat amb Claude",
@@ -58,7 +58,7 @@
       "source": "Foc a Terra",
       "date": "2026-04-06",
       "time": "04:00",
-      "summary": "Presentació de Factory Floor, una aplicació nativa per a macOS dissenyada per facilitar el treball amb Claude Code."
+      "summary": "Presentació de Factory Floor, una nova aplicació nativa per a macOS dissenyada per optimitzar el treball amb Claude Code."
     },
     {
       "title": "La gamificació de la renda",
@@ -66,23 +66,7 @@
       "source": "Foc a Terra",
       "date": "2026-03-30",
       "time": "04:00",
-      "summary": "Comentaris sobre l'èxit de subvencions.cat i una proposta informal per gamificar la declaració de la renda."
-    },
-    {
-      "title": "No tenim pas res enllestit per a WordPress 7.0",
-      "link_id": "c_cb40c1",
-      "source": "WordPress Pòdcast",
-      "date": "2026-04-07",
-      "time": "00:00",
-      "summary": "Sorgeixen dubtes i replantejaments d'última hora després de la publicació de les versions candidates de WordPress 7.0."
-    },
-    {
-      "title": "Tot a punt per a la versió WordPress 7.0",
-      "link_id": "c_6e3566",
-      "source": "WordPress Pòdcast",
-      "date": "2026-03-31",
-      "time": "00:00",
-      "summary": "La nova versió de WordPress entra a la recta final centrant-se a polir els últims detalls tècnics."
+      "summary": "Repàs sobre subvencions, l'impacte del vibecoding en l'administració i una proposta innovadora per fer la declaració d'impostos més interactiva."
     },
     {
       "title": "Capítol 62: Mitiga, invertir pensant en el risc climàtic",
@@ -90,7 +74,7 @@
       "source": "RAC&GO",
       "date": "2026-04-07",
       "time": "06:00",
-      "summary": "L'empresa Mitiga ajuda les companyies a prendre decisions d'inversió estratègiques tenint en compte els riscos climàtics."
+      "summary": "L'emprenedor Àlex Martí presenta solucions tecnològiques per ajudar les empreses a avaluar i gestionar els riscos derivats del canvi climàtic."
     }
   ]
 }

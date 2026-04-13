@@ -1,40 +1,32 @@
 {
-  "generated_at": "2026-04-12T17:35",
+  "generated_at": "2024-05-24T16:00",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [],
   "articles": [
-    {
-      "title": "La nova balisa V-16, en evidència: augmenten els atropellaments i la mortalitat a les carreteres espanyoles",
-      "link_id": "c_c98a7e",
-      "source": "Ara.cat",
-      "date": "2026-04-12",
-      "time": "07:05",
-      "summary": "Tot i ser obligatòria, la nova senyalització lluminosa no ha evitat un repunt de víctimes mortals durant la Setmana Santa."
-    },
-    {
-      "title": "La balisa V16 arriba als jutjats: un conductor presenta una denúncia contra una multa per no portar el dispositiu",
-      "link_id": "c_317c9d",
-      "source": "RAC1",
-      "date": "2026-04-11",
-      "time": "13:20",
-      "summary": "Un jutjat de Madrid rep la primera impugnació d'una sanció de 80 euros per no dur aquest aparell d'emergència."
-    },
-    {
-      "title": "\"Només és el principi\": l'èxit de l'Artemis 2 acosta més el retorn a la Lluna i el salt a Mart",
-      "link_id": "c_03536d",
-      "source": "324.cat",
-      "date": "2026-04-11",
-      "time": "09:17",
-      "summary": "La missió valida tecnologies clau per als futurs aterratges lunars i obre la porta a l'exploració humana del planeta vermell."
-    },
     {
       "title": "La càpsula Orió amara amb èxit al Pacífic i culmina la històrica missió Artemis 2",
       "link_id": "c_ca913d",
       "source": "La Vanguardia (en català)",
       "date": "2026-04-11",
       "time": "07:30",
-      "summary": "Els quatre astronautes tornen sans i estalvis després de completar la volta a la Lluna i fer història espacial."
+      "summary": "La missió de la NASA finalitza amb èxit, impulsant l'exploració espacial tripulada més enllà de l'òrbita baixa terrestre."
+    },
+    {
+      "title": "La nova balisa V-16, en evidència: augmenten els atropellaments i la mortalitat a les carreteres espanyoles",
+      "link_id": "c_c98a7e",
+      "source": "Ara.cat",
+      "date": "2026-04-12",
+      "time": "07:05",
+      "summary": "Tot i l'obligatorietat del nou sistema lluminós connectat a la DGT, les morts per atropellament assoleixen màxims històrics."
+    },
+    {
+      "title": "El funicular de Montjuïc reprèn el servei després de sis mesos d'obres al carrer Vila i Vilà",
+      "link_id": "c_49385f",
+      "source": "324.cat",
+      "date": "2026-04-13",
+      "time": "06:44",
+      "summary": "El transport per cable reobre amb els seus horaris habituals un cop finalitzats els treballs al col·lector d'aigües."
     },
     {
       "title": "La catalana Sateliot llança una nova ronda d’inversió de 100 milions d’euros amb el suport del Govern d’Espanya",
@@ -42,7 +34,7 @@
       "source": "El Periódico",
       "date": "2026-04-08",
       "time": "13:27",
-      "summary": "L'empresa busca finançament per expandir la seva xarxa de satèl·lits de baixa òrbita i consolidar la connectivitat global."
+      "summary": "L'empresa busca finançament per accelerar el desplegament de la seva constel·lació de satèl·lits de connexió 5G de baixa òrbita."
     },
     {
       "title": "La UPC desplega 6GLabNet, una infraestructura pionera per provar el 6G en entorns reals",
@@ -50,39 +42,47 @@
       "source": "MetaData",
       "date": "2026-04-09",
       "time": "16:31",
-      "summary": "Aquesta xarxa experimental única a l'Estat combina intel·ligència artificial i fibra òptica per accelerar els futurs serveis digitals."
+      "summary": "Aquesta xarxa experimental única a l'Estat combina 5G avançat i intel·ligència artificial per desenvolupar futurs serveis digitals."
     },
     {
-      "title": "El mòbil es converteix en el teu DNI: el format digital ja és obligatori d’acceptar",
-      "link_id": "c_06bc9f",
-      "source": "MetaData",
-      "date": "2026-04-08",
-      "time": "10:00",
-      "summary": "L'aplicació MiDNI permet identificar-se oficialment des del telèfon per a tràmits quotidians, complementant el document físic tradicional."
-    },
-    {
-      "title": "Un mar de maletes espera a ser recollit a l'aeroport del Prat per la vaga de Groundforce",
-      "link_id": "c_d7083f",
-      "source": "Ara.cat",
-      "date": "2026-04-11",
-      "time": "18:03",
-      "summary": "L'aturada indefinida del personal de facturació provoca l'acumulació descontrolada d'equipatges a les cintes de la terminal barcelonina."
-    },
-    {
-      "title": "La fi dels envasos de plàstic monodosi: hotels i restauració s’avancen a la normativa europea",
-      "link_id": "c_85d9c1",
-      "source": "Àpunt",
+      "title": "Lleida, a la cua de l’ocupació tecnològica tot i el creixement del sector a Catalunya",
+      "link_id": "c_876ad0",
+      "source": "Segre",
       "date": "2026-04-12",
-      "time": "10:49",
-      "summary": "El sector turístic s'adapta abans del 2030 per reduir residus i promoure un model de consum molt més sostenible."
+      "time": "18:57",
+      "summary": "Malgrat l'augment de més de 100.000 professionals tecnològics a Catalunya, la demarcació lleidatana es queda enrere en aquest àmbit."
     },
     {
-      "title": "El govern espanyol crea una eina per preveure les pensions del futur",
-      "link_id": "c_30dc39",
-      "source": "Lleida Diari",
+      "title": "Puig, un repte transatlàntic i l'exemple de 3 fusions que van esfondrar-se",
+      "link_id": "c_71ab67",
+      "source": "Via Empresa",
       "date": "2026-04-12",
-      "time": "03:22",
-      "summary": "La plataforma INTegraSS oferirà projeccions globals i actualitzades per millorar la planificació econòmica del sistema de la Seguretat Social."
+      "time": "04:55",
+      "summary": "Les negociacions entre les famílies Puig i Lauder avancen en un context on moltes fusions empresarials acaben fracassant."
+    },
+    {
+      "title": "Entra en vigor el nou llindar d'alertes per pluges de més de 60 litres en 3 hores",
+      "link_id": "c_fd1c62",
+      "source": "324.cat",
+      "date": "2026-04-12",
+      "time": "06:46",
+      "summary": "Aquesta nova mesura pretén anticipar-se als episodis de precipitacions intenses, cada cop més freqüents i amb greus danys associats."
+    },
+    {
+      "title": "Caos a Son Llàtzer per la caiguda del sistema informàtic: \"No podem visitar els pacients\"",
+      "link_id": "c_b33058",
+      "source": "Ara Balears",
+      "date": "2026-04-13",
+      "time": "08:48",
+      "summary": "Una avaria en el programari de gestió sanitària paralitza l'atenció mèdica a l'hospital mallorquí des de primera hora."
+    },
+    {
+      "title": "L'ATM aprova definitivament la segona fase de la connexió del tramvia per la Diagonal",
+      "link_id": "c_bf79ac",
+      "source": "Via Empresa",
+      "date": "2026-04-10",
+      "time": "14:43",
+      "summary": "El projecte constructiu entre Verdaguer i Francesc Macià comptarà amb un pressupost de 47,3 milions d'euros."
     }
   ]
 }

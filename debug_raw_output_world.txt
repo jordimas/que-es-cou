@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-04-12T19:31",
+  "generated_at": "2024-05-24T18:30",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Rockstar Games afirma que el hackeig \"no tindrà impacte\"",
-      "link_id": "c_7d0632",
-      "source": "The Verge",
-      "date": "2026-04-12",
-      "time": "13:02",
-      "summary": "Rockstar confirma una bretxa de dades a través d'un proveïdor extern, però assegura que no afectarà els seus jocs."
+      "title": "Apple podria superar Samsung i Google amb les seves ulleres intel·ligents",
+      "link_id": "c_61bcbc",
+      "source": "Android Authority",
+      "date": "2026-04-13",
+      "time": "08:16",
+      "summary": "L'ús de materials prèmium com l'acetat i la integració amb l'iPhone podrien donar-li un avantatge competitiu clau."
     },
     {
-      "title": "Com veure 'The Audacity' en línia des de qualsevol lloc",
-      "link_id": "c_93f0ff",
+      "title": "YouTube Premium apujarà els preus al juny, però pots estalviar 32 dòlars amb un canvi",
+      "link_id": "c_f7aec5",
+      "source": "ZDNet",
+      "date": "2026-04-13",
+      "time": "01:06",
+      "summary": "La plataforma de vídeo és l'únic servei de streaming capaç d'aplicar aquests increments sense perdre subscriptors massivament."
+    },
+    {
+      "title": "Linux 7.0 debuta mentre Linus Torvalds reflexiona sobre el poder de la IA per trobar errors",
+      "link_id": "c_a84db5",
+      "source": "The Register",
+      "date": "2026-04-13",
+      "time": "00:10",
+      "summary": "Aquesta nova versió inclou suport oficial per a Rust i optimitzacions per a maquinari antic i modern."
+    },
+    {
+      "title": "Descobreix Dausos, el protocol VPN de Surfshark que busca millorar la velocitat i la seguretat",
+      "link_id": "c_fc2999",
       "source": "TechRadar",
-      "date": "2026-04-12",
-      "time": "17:00",
-      "summary": "Descobreix com reproduir gratuïtament aquesta nova comèdia negra sobre un magnat tecnològic descontrolat des de qualsevol part del món."
+      "date": "2026-04-13",
+      "time": "08:47",
+      "summary": "Aquesta tecnologia auditada de manera independent promet connexions fins a un 30% més ràpides i innovacions exclusives."
     },
     {
-      "title": "S'esperen moltes millores fantàstiques per a Linux 7.1, especialment per a AMD i Intel",
-      "link_id": "c_042f5a",
-      "source": "Phoronix",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "summary": "Amb el llançament de Linux 7.0, s'obre la finestra d'integració per a la versió 7.1 amb noves funcions destacades."
+      "title": "Claude acaba d'arribar a Microsoft Word i sembla una millora autèntica per treballar amb documents",
+      "link_id": "c_d74e90",
+      "source": "Digital Trends",
+      "date": "2026-04-13",
+      "time": "08:46",
+      "summary": "L'extensió d'Anthropic permet revisar contractes legals i fer canvis amb un seguiment natiu dins de l'aplicació."
     },
     {
-      "title": "Samsung Galaxy S26 vs. Google Pixel 10: Comparativa dels telèfons insígnia",
-      "link_id": "c_4ab429",
-      "source": "CNET",
-      "date": "2026-04-12",
-      "time": "13:46",
-      "summary": "Analitzem les diferències clau entre els models més assequibles de Samsung i Google per ajudar-te a triar el millor."
+      "title": "Huawei supera Apple i Samsung amb un nou telèfon plegable ample",
+      "link_id": "c_e442b6",
+      "source": "The Verge",
+      "date": "2026-04-13",
+      "time": "04:13",
+      "summary": "El disseny del Pura X Max, amb format de passaport, s'avança als plans dels seus principals competidors."
     },
     {
-      "title": "OpenAI diu que Elon Musk orquestra una \"emboscada legal\" d'última hora abans del judici",
-      "link_id": "c_7438f3",
-      "source": "Engadget",
-      "date": "2026-04-12",
-      "time": "16:32",
-      "summary": "La tensió augmenta mentre OpenAI acusa Musk de canviar sobtadament les seves demandes per injectar caos al procés judicial."
+      "title": "La direcció digital de França abandona els escriptoris Windows i adopta Linux",
+      "link_id": "c_3fdf34",
+      "source": "The Register",
+      "date": "2026-04-13",
+      "time": "08:01",
+      "summary": "Aquesta decisió busca reduir la dependència tecnològica dels Estats Units i reforçar la sobirania digital del país."
     },
     {
-      "title": "YouTube Premium és l'únic servei de streaming que pot sortir-se'n amb pujades de preu",
-      "link_id": "c_efaa9c",
-      "source": "9to5Google",
+      "title": "La misteriosa IA Mythos d'Anthropic amenaça de capgirar el món de la ciberseguretat",
+      "link_id": "c_a87d00",
+      "source": "The Register",
       "date": "2026-04-12",
-      "time": "16:00",
-      "summary": "YouTube confirma el primer augment de tarifes en tres anys, una mesura que els usuaris semblen disposats a acceptar."
+      "time": "23:12",
+      "summary": "El model pot trobar i explotar vulnerabilitats de dia zero, generant debat sobre els seus riscos potencials."
     },
     {
-      "title": "Les ulleres d'Apple tindran dissenys de gamma alta amb materials prèmium i quatre estils en prova",
-      "link_id": "c_7e9f31",
-      "source": "9to5Mac",
+      "title": "Rockstar pateix un altre ciberatac, però assegura que no és greu",
+      "link_id": "c_6bbcb6",
+      "source": "Digital Trends",
       "date": "2026-04-12",
-      "time": "14:17",
-      "summary": "Apple avalua diversos dissenys i colors per a les seves futures ulleres intel·ligents, buscant competir directament amb Meta."
+      "time": "18:49",
+      "summary": "El grup ShinyHunters ha accedit a servidors al núvol, tot i que l'empresa nega l'impacte als jugadors."
     },
     {
-      "title": "Premier League 2026: Mira el Chelsea contra el Manchester City en directe",
-      "link_id": "c_f6171d",
-      "source": "CNET",
+      "title": "S'esgoten els Mac mini i Mac Studio: crisi de memòria RAM o actualització a M5?",
+      "link_id": "c_e8cb13",
+      "source": "The Next Web",
       "date": "2026-04-12",
-      "time": "13:30",
-      "summary": "Descobreix com seguir aquest emocionant partit on els \"Blues\" intentaran frenar les ambicions de títol de l'equip de Guardiola."
-    },
-    {
-      "title": "Pistes, respostes i ajuda per al NYT Strands d'avui, 12 d'abril #770",
-      "link_id": "c_099c60",
-      "source": "CNET",
-      "date": "2026-04-12",
-      "time": "09:01",
-      "summary": "Troba totes les pistes necessàries i la solució completa per resoldre el trencaclosques diari Strands del New York Times."
-    },
-    {
-      "title": "Pistes, respostes i ajuda per al NYT Connections d'avui, 12 d'abril #1036",
-      "link_id": "c_64ca0e",
-      "source": "CNET",
-      "date": "2026-04-12",
-      "time": "09:01",
-      "summary": "Supera el repte diari del joc Connections amb aquests consells útils i les respostes exactes per a cada categoria."
+      "time": "18:37",
+      "summary": "Les configuracions d'alta capacitat han desaparegut de la botiga d'Apple, generant especulacions sobre nous llançaments imminents."
     }
   ]
 }
