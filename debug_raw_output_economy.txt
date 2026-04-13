@@ -1,40 +1,72 @@
 {
-  "generated_at": "2024-05-24T18:00",
+  "generated_at": "2024-05-24T18:30",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Els reguladors financers britànics s'apressen a avaluar els riscos del nou model d'IA d'Anthropic",
-      "link_id": "c_b226e9",
-      "source": "Financial Times",
-      "date": "2026-04-12",
-      "time": "11:40",
-      "summary": "S'alertarà bancs i asseguradores sobre les vulnerabilitats cibernètiques que el sistema Claude Mythos podria explotar."
+      "title": "Powell i Bessent debaten l'amenaça cibernètica de la IA Mythos d'Anthropic amb els grans bancs",
+      "link_id": "c_4189ac",
+      "source": "CNBC Technology",
+      "date": "2026-04-13",
+      "time": "15:39",
+      "summary": "Anthropic ha limitat el llançament del seu model per por que els pirates informàtics n'explotin les capacitats avançades."
     },
     {
-      "title": "OpenAI anuncia la seva primera oficina permanent a Londres després d'aturar el projecte britànic Stargate",
+      "title": "Les accions d'Intel s'encaminen cap a una ratxa històrica de 9 dies, pujant un 56%",
+      "link_id": "c_b9ac92",
+      "source": "CNBC Technology",
+      "date": "2026-04-13",
+      "time": "16:15",
+      "summary": "El fabricant de xips nord-americà atreu noves inversions gràcies als recents acords estratègics amb Google i Elon Musk."
+    },
+    {
+      "title": "A prova de robots: pot la propera generació anar un pas per davant de les màquines?",
+      "link_id": "c_fe3c7e",
+      "source": "Financial Times",
+      "date": "2026-04-13",
+      "time": "16:00",
+      "summary": "Vivienne Ming proposa canviar la preparació dels joves davant d'un futur proper dominat i desprofessionalitzat per la intel·ligència artificial."
+    },
+    {
+      "title": "OpenAI destaca l'aliança amb Amazon i afirma que Microsoft ha limitat el seu abast",
+      "link_id": "c_10fa4c",
+      "source": "CNBC Technology",
+      "date": "2026-04-13",
+      "time": "15:40",
+      "summary": "Un memoràndum intern revela els esforços de l'empresa d'intel·ligència artificial per reduir la seva dependència històrica de Microsoft."
+    },
+    {
+      "title": "Els xatbots d'IA diagnostiquen erròniament més del 80% dels casos mèdics inicials, segons un estudi",
+      "link_id": "c_efe149",
+      "source": "Financial Times",
+      "date": "2026-04-13",
+      "time": "15:00",
+      "summary": "Models líders com OpenAI i DeepSeek es precipiten en les seves conclusions quan les dades del pacient són incompletes."
+    },
+    {
+      "title": "L'expansió de la IA està impulsant el comerç mundial de béns",
+      "link_id": "c_cf4db9",
+      "source": "Financial Times",
+      "date": "2026-04-13",
+      "time": "11:31",
+      "summary": "L'auge dels centres de dades ajuda a mitigar l'impacte dels aranzels de Trump en l'economia global i nord-americana."
+    },
+    {
+      "title": "OpenAI anuncia la seva primera oficina permanent a Londres després d'aturar el projecte Stargate",
       "link_id": "c_27ccaa",
       "source": "CNBC Technology",
       "date": "2026-04-13",
-      "time": "08:04",
-      "summary": "La capital britànica esdevindrà el centre d'investigació més gran de l'empresa fora dels Estats Units."
+      "time": "09:03",
+      "summary": "La companyia consolida la capital britànica com el seu centre d'investigació més gran fora dels Estats Units."
     },
     {
-      "title": "Meta crea una versió d'IA de Mark Zuckerberg per interactuar amb els empleats",
+      "title": "Meta crea una versió d'IA de Mark Zuckerberg per interactuar amb el personal",
       "link_id": "c_8b1abf",
       "source": "Financial Times",
       "date": "2026-04-13",
       "time": "04:00",
-      "summary": "El directiu entrena el seu propi avatar per impulsar el desenvolupament d'una superintel·ligència personal corporativa."
-    },
-    {
-      "title": "Musk encadena derrotes legals abans de l'enfrontament amb Altman d'OpenAI",
-      "link_id": "c_ecb635",
-      "source": "Financial Times",
-      "date": "2026-04-12",
-      "time": "10:00",
-      "summary": "El magnat ha perdut recents demandes per frau d'accionistes i presumpte robatori de secrets d'IA."
+      "summary": "El conseller delegat entrena el seu propi avatar per impulsar el desenvolupament d'una nova superintel·ligència personal."
     }
   ]
 }

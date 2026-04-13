@@ -1,8 +1,14 @@
 {
-  "generated_at": "2024-05-24T15:30",
+  "generated_at": "2024-05-24T16:00",
   "id": "videos",
   "title": "Vídeos en català sobre tecnologia",
-  "sources_checked": [],
+  "sources_checked": [
+    {
+      "name": "La Poma Mossegada",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCidFf_iUay6_Y59u2XzF4mw",
+      "articles_found": 0
+    }
+  ],
   "articles": [
     {
       "title": "A què hem estat jugant aquest març",
@@ -18,7 +24,7 @@
       "source": "3D Nassos",
       "date": "2026-04-12",
       "time": "19:30",
-      "summary": "Anàlisi de l'actualitat del sector, debatent les noves estratègies de les grans companyies i els rumors més recents."
+      "summary": "Anàlisi de l'actualitat del sector, debatent les noves estratègies de les grans companyies i les últimes filtracions de Nintendo."
     }
   ]
 }

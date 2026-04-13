@@ -1,64 +1,72 @@
 {
-  "generated_at": "2024-05-24T16:00",
+  "generated_at": "2024-05-24T18:45",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [],
   "articles": [
     {
-      "title": "La càpsula Orió amara amb èxit al Pacífic i culmina la històrica missió Artemis 2",
-      "link_id": "c_ca913d",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-04-11",
-      "time": "07:30",
-      "summary": "La missió de la NASA finalitza amb èxit, impulsant l'exploració espacial tripulada més enllà de l'òrbita baixa terrestre."
+      "title": "Tres afectats per una explosió en un laboratori del centre tecnològic Eurecat de Manresa",
+      "link_id": "c_605eeb",
+      "source": "El Periódico",
+      "date": "2026-04-13",
+      "time": "14:46",
+      "summary": "Una deflagració química a les instal·lacions d'Eurecat obliga a evacuar l'edifici i deixa tres persones ferides."
     },
     {
-      "title": "La nova balisa V-16, en evidència: augmenten els atropellaments i la mortalitat a les carreteres espanyoles",
-      "link_id": "c_c98a7e",
-      "source": "Ara.cat",
-      "date": "2026-04-12",
-      "time": "07:05",
-      "summary": "Tot i l'obligatorietat del nou sistema lluminós connectat a la DGT, les morts per atropellament assoleixen màxims històrics."
+      "title": "La missió Artemis II culmina amb èxit i obre la porta al retorn humà a la Lluna",
+      "link_id": "c_72bb4c",
+      "source": "MetaData",
+      "date": "2026-04-13",
+      "time": "08:34",
+      "summary": "La càpsula Orion torna a la Terra després de completar el primer vol tripulat lunar en cinquanta anys."
     },
     {
-      "title": "El funicular de Montjuïc reprèn el servei després de sis mesos d'obres al carrer Vila i Vilà",
-      "link_id": "c_49385f",
+      "title": "La cadena de gimnasos Basic-Fit denuncia un accés no autoritzat al registre dels socis",
+      "link_id": "c_c275ea",
+      "source": "VilaWeb",
+      "date": "2026-04-13",
+      "time": "16:00",
+      "summary": "L'empresa bloqueja una intrusió informàtica i demana als usuaris que vigilin possibles atacs de pesca de dades."
+    },
+    {
+      "title": "Una incidència informàtica 'desconnecta' l'hospital de Son Llàtzer",
+      "link_id": "c_b33058",
+      "source": "Ara Balears",
+      "date": "2026-04-13",
+      "time": "08:48",
+      "summary": "Una caiguda del router paralitza temporalment el sistema d'informació sanitària del centre, afectant la gestió mèdica."
+    },
+    {
+      "title": "Alerten de webs que venen entrades falses per als concerts de Rosalía a Barcelona",
+      "link_id": "c_29fcf6",
       "source": "324.cat",
       "date": "2026-04-13",
-      "time": "06:44",
-      "summary": "El transport per cable reobre amb els seus horaris habituals un cop finalitzats els treballs al col·lector d'aigües."
+      "time": "10:43",
+      "summary": "Els Mossos d'Esquadra adverteixen d'estafes i recomanen adquirir els bitllets exclusivament a través dels canals oficials."
     },
     {
-      "title": "La catalana Sateliot llança una nova ronda d’inversió de 100 milions d’euros amb el suport del Govern d’Espanya",
-      "link_id": "c_cbc645",
-      "source": "El Periódico",
-      "date": "2026-04-08",
-      "time": "13:27",
-      "summary": "L'empresa busca finançament per accelerar el desplegament de la seva constel·lació de satèl·lits de connexió 5G de baixa òrbita."
-    },
-    {
-      "title": "La UPC desplega 6GLabNet, una infraestructura pionera per provar el 6G en entorns reals",
-      "link_id": "c_e89b74",
+      "title": "Catalunya presenta a Brussel·les l’estratègia IA 2030 per liderar una intel·ligència artificial ètica a Europa",
+      "link_id": "c_d1996a",
       "source": "MetaData",
+      "date": "2026-04-13",
+      "time": "15:11",
+      "summary": "El Govern defensa un model tecnològic centrat en les persones i alineat amb els valors democràtics europeus."
+    },
+    {
+      "title": "El Govern crea IB Digital, un macroorganisme amb 400 professionals per impulsar la revolució tecnològica",
+      "link_id": "c_4ae901",
+      "source": "Ara Balears",
+      "date": "2026-04-13",
+      "time": "11:57",
+      "summary": "La nova Agència Balear de Digitalització liderarà la transformació de l'administració per fer-la més àgil i eficient."
+    },
+    {
+      "title": "Així és el Raval, el primer cotxe elèctric fabricat a Martorell",
+      "link_id": "c_55d75a",
+      "source": "Ara.cat",
       "date": "2026-04-09",
-      "time": "16:31",
-      "summary": "Aquesta xarxa experimental única a l'Estat combina 5G avançat i intel·ligència artificial per desenvolupar futurs serveis digitals."
-    },
-    {
-      "title": "Lleida, a la cua de l’ocupació tecnològica tot i el creixement del sector a Catalunya",
-      "link_id": "c_876ad0",
-      "source": "Segre",
-      "date": "2026-04-12",
-      "time": "18:57",
-      "summary": "Malgrat l'augment de més de 100.000 professionals tecnològics a Catalunya, la demarcació lleidatana es queda enrere en aquest àmbit."
-    },
-    {
-      "title": "Puig, un repte transatlàntic i l'exemple de 3 fusions que van esfondrar-se",
-      "link_id": "c_71ab67",
-      "source": "Via Empresa",
-      "date": "2026-04-12",
-      "time": "04:55",
-      "summary": "Les negociacions entre les famílies Puig i Lauder avancen en un context on moltes fusions empresarials acaben fracassant."
+      "time": "10:51",
+      "summary": "Cupra presenta el seu nou vehicle cent per cent elèctric, amb més de 400 quilòmetres d'autonomia."
     },
     {
       "title": "Entra en vigor el nou llindar d'alertes per pluges de més de 60 litres en 3 hores",
@@ -66,23 +74,15 @@
       "source": "324.cat",
       "date": "2026-04-12",
       "time": "06:46",
-      "summary": "Aquesta nova mesura pretén anticipar-se als episodis de precipitacions intenses, cada cop més freqüents i amb greus danys associats."
+      "summary": "Aquesta nova mesura busca prevenir danys davant d'episodis de precipitacions intenses cada cop més habituals."
     },
     {
-      "title": "Caos a Son Llàtzer per la caiguda del sistema informàtic: \"No podem visitar els pacients\"",
-      "link_id": "c_b33058",
-      "source": "Ara Balears",
+      "title": "L’ocupació tecnològica ja supera el 9% a Catalunya, però continua fortament masculinitzada",
+      "link_id": "c_4cf4c9",
+      "source": "MetaData",
       "date": "2026-04-13",
-      "time": "08:48",
-      "summary": "Una avaria en el programari de gestió sanitària paralitza l'atenció mèdica a l'hospital mallorquí des de primera hora."
-    },
-    {
-      "title": "L'ATM aprova definitivament la segona fase de la connexió del tramvia per la Diagonal",
-      "link_id": "c_bf79ac",
-      "source": "Via Empresa",
-      "date": "2026-04-10",
-      "time": "14:43",
-      "summary": "El projecte constructiu entre Verdaguer i Francesc Macià comptarà amb un pressupost de 47,3 milions d'euros."
+      "time": "10:10",
+      "summary": "Tot i el creixement del sector en l'última dècada, les dones només representen un 35% dels treballadors."
     }
   ]
 }

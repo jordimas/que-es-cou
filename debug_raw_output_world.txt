@@ -1,88 +1,109 @@
 {
-  "generated_at": "2024-05-24T18:30",
+  "generated_at": "2026-04-13T19:57",
   "id": "world",
   "title": "Notícies tecnològiques del món",
-  "sources_checked": [],
+  "sources_checked": [
+    {
+      "name": "Ars Technica",
+      "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
+      "articles_found": 0
+    },
+    {
+      "name": "AnandTech",
+      "url": "https://www.anandtech.com/rss/",
+      "articles_found": 0
+    },
+    {
+      "name": "Wall Street Journal Tech",
+      "url": "https://feeds.a.dj.com/rss/RSSWSJD.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "Slashdot",
+      "url": "https://slashdot.org/rss/slashdot.rss",
+      "articles_found": 0
+    }
+  ],
   "articles": [
     {
-      "title": "Apple podria superar Samsung i Google amb les seves ulleres intel·ligents",
-      "link_id": "c_61bcbc",
-      "source": "Android Authority",
-      "date": "2026-04-13",
-      "time": "08:16",
-      "summary": "L'ús de materials prèmium com l'acetat i la integració amb l'iPhone podrien donar-li un avantatge competitiu clau."
-    },
-    {
-      "title": "YouTube Premium apujarà els preus al juny, però pots estalviar 32 dòlars amb un canvi",
-      "link_id": "c_f7aec5",
-      "source": "ZDNet",
-      "date": "2026-04-13",
-      "time": "01:06",
-      "summary": "La plataforma de vídeo és l'únic servei de streaming capaç d'aplicar aquests increments sense perdre subscriptors massivament."
-    },
-    {
-      "title": "Linux 7.0 debuta mentre Linus Torvalds reflexiona sobre el poder de la IA per trobar errors",
-      "link_id": "c_a84db5",
-      "source": "The Register",
-      "date": "2026-04-13",
-      "time": "00:10",
-      "summary": "Aquesta nova versió inclou suport oficial per a Rust i optimitzacions per a maquinari antic i modern."
-    },
-    {
-      "title": "Descobreix Dausos, el protocol VPN de Surfshark que busca millorar la velocitat i la seguretat",
-      "link_id": "c_fc2999",
-      "source": "TechRadar",
-      "date": "2026-04-13",
-      "time": "08:47",
-      "summary": "Aquesta tecnologia auditada de manera independent promet connexions fins a un 30% més ràpides i innovacions exclusives."
-    },
-    {
-      "title": "Claude acaba d'arribar a Microsoft Word i sembla una millora autèntica per treballar amb documents",
-      "link_id": "c_d74e90",
-      "source": "Digital Trends",
-      "date": "2026-04-13",
-      "time": "08:46",
-      "summary": "L'extensió d'Anthropic permet revisar contractes legals i fer canvis amb un seguiment natiu dins de l'aplicació."
-    },
-    {
-      "title": "Huawei supera Apple i Samsung amb un nou telèfon plegable ample",
-      "link_id": "c_e442b6",
-      "source": "The Verge",
-      "date": "2026-04-13",
-      "time": "04:13",
-      "summary": "El disseny del Pura X Max, amb format de passaport, s'avança als plans dels seus principals competidors."
-    },
-    {
-      "title": "La direcció digital de França abandona els escriptoris Windows i adopta Linux",
-      "link_id": "c_3fdf34",
-      "source": "The Register",
-      "date": "2026-04-13",
-      "time": "08:01",
-      "summary": "Aquesta decisió busca reduir la dependència tecnològica dels Estats Units i reforçar la sobirania digital del país."
-    },
-    {
-      "title": "La misteriosa IA Mythos d'Anthropic amenaça de capgirar el món de la ciberseguretat",
-      "link_id": "c_a87d00",
-      "source": "The Register",
-      "date": "2026-04-12",
-      "time": "23:12",
-      "summary": "El model pot trobar i explotar vulnerabilitats de dia zero, generant debat sobre els seus riscos potencials."
-    },
-    {
-      "title": "Rockstar pateix un altre ciberatac, però assegura que no és greu",
-      "link_id": "c_6bbcb6",
-      "source": "Digital Trends",
-      "date": "2026-04-12",
-      "time": "18:49",
-      "summary": "El grup ShinyHunters ha accedit a servidors al núvol, tot i que l'empresa nega l'impacte als jugadors."
-    },
-    {
-      "title": "S'esgoten els Mac mini i Mac Studio: crisi de memòria RAM o actualització a M5?",
-      "link_id": "c_e8cb13",
+      "title": "Apple prova quatre dissenys de muntures per a les seves ulleres intel·ligents amb IA abans del llançament el 2027",
+      "link_id": "c_d6fa5a",
       "source": "The Next Web",
-      "date": "2026-04-12",
-      "time": "18:37",
-      "summary": "Les configuracions d'alta capacitat han desaparegut de la botiga d'Apple, generant especulacions sobre nous llançaments imminents."
+      "date": "2026-04-13",
+      "time": "13:05",
+      "summary": "Els models inclouen estils rectangulars i circulars fets amb materials de primera qualitat per competir amb Meta."
+    },
+    {
+      "title": "Ja està disponible la beta 2 d'iPadOS 26.5, a més de watchOS 26.5, tvOS 26.5 i més",
+      "link_id": "c_918ade",
+      "source": "9to5Mac",
+      "date": "2026-04-13",
+      "time": "17:12",
+      "summary": "Aquestes actualitzacions per a desenvolupadors preparen el terreny per a futures millores de programari en tot l'ecosistema d'Apple."
+    },
+    {
+      "title": "El creador de GTA, Rockstar Games, pateix un altre ciberatac però en minimitza l'impacte",
+      "link_id": "c_5dd32c",
+      "source": "BBC Technology",
+      "date": "2026-04-13",
+      "time": "15:10",
+      "summary": "Els pirates informàtics van accedir a dades a través d'un proveïdor extern, tot i que l'empresa nega afectacions greus."
+    },
+    {
+      "title": "Roblox introdueix nivells de compte obligatoris restringits per edat",
+      "link_id": "c_ccdcd6",
+      "source": "Engadget",
+      "date": "2026-04-13",
+      "time": "12:15",
+      "summary": "La plataforma classificarà els usuaris en tres grups per oferir contingut i xats adequats a cada franja d'edat."
+    },
+    {
+      "title": "L'elegant mòbil plegable ample de Huawei ja roba el protagonisme a l'iPhone Fold",
+      "link_id": "c_416a73",
+      "source": "Digital Trends",
+      "date": "2026-04-13",
+      "time": "16:48",
+      "summary": "El nou Pura X Max aposta per un disseny tipus tauleta que s'avança a les futures propostes d'Apple."
+    },
+    {
+      "title": "Claude ja pot executar tasques en nom teu amb la nova funció d'ús de l'ordinador",
+      "link_id": "c_f0b642",
+      "source": "CNET",
+      "date": "2026-04-13",
+      "time": "17:20",
+      "summary": "La intel·ligència artificial d'Anthropic permet navegar per internet i obrir fitxers autònomament per augmentar la productivitat."
+    },
+    {
+      "title": "Booking.com confirma que uns pirates informàtics han accedit a les dades dels clients",
+      "link_id": "c_863189",
+      "source": "TechCrunch",
+      "date": "2026-04-13",
+      "time": "17:02",
+      "summary": "L'incident de seguretat ha exposat noms, correus electrònics, adreces físiques i números de telèfon de nombrosos usuaris."
+    },
+    {
+      "title": "Podria ser molt difícil aconseguir un iPhone Fold durant el seu llançament",
+      "link_id": "c_e4e096",
+      "source": "9to5Mac",
+      "date": "2026-04-13",
+      "time": "16:54",
+      "summary": "Problemes en la cadena de subministrament han endarrerit la producció massiva, fet que limitarà l'estoc inicial del dispositiu."
+    },
+    {
+      "title": "Meta crea una versió d'IA de Mark Zuckerberg perquè el personal pugui parlar amb el cap",
+      "link_id": "c_adf308",
+      "source": "The Guardian Tech",
+      "date": "2026-04-13",
+      "time": "15:27",
+      "summary": "Aquest clon digital s'entrena amb els seus pensaments i maneres per respondre preguntes sobre l'estratègia de l'empresa."
+    },
+    {
+      "title": "L'Oppo Find X9 Ultra és un telèfon amb una càmera impressionant que es llançarà a escala mundial",
+      "link_id": "c_4ffa5d",
+      "source": "9to5Google",
+      "date": "2026-04-13",
+      "time": "15:15",
+      "summary": "El dispositiu destaca per un mòdul fotogràfic massiu de Hasselblad i un disseny prèmium amb acabats de cuir."
     }
   ]
 }
