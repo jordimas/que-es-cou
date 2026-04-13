@@ -1,88 +1,88 @@
 {
-  "generated_at": "2024-05-24T18:30",
+  "generated_at": "2024-05-24T16:30",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Linux 7.0 habilita tres noves tecles específiques per a IA als teclats",
-      "link_id": "c_37e921",
-      "source": "Tom's Hardware",
+      "title": "Apple estaria provant quatre dissenys per a les seves futures ulleres intel·ligents",
+      "link_id": "c_7fa6db",
+      "source": "TechCrunch",
       "date": "2026-04-12",
-      "time": "11:00",
-      "summary": "Aquesta actualització del nucli amplia les opcions més enllà de Copilot, amb Google liderant l'especificació i el pedaç."
+      "time": "19:58",
+      "summary": "Apple explora diversos dissenys per a les seves ulleres intel·ligents, allunyant-se dels plans inicials de realitat mixta."
     },
     {
-      "title": "Pistes i respostes per al NYT Strands del 12 d'abril",
-      "link_id": "c_099c60",
-      "source": "CNET",
-      "date": "2026-04-12",
-      "time": "09:01",
-      "summary": "Descobreix les solucions i consells per resoldre el trencaclosques diari número 770 del New York Times de forma ràpida."
+      "title": "Rockstar Games, creador de GTA, pateix un nou hackeig però en minimitza l'impacte",
+      "link_id": "c_5dd32c",
+      "source": "BBC Technology",
+      "date": "2026-04-13",
+      "time": "11:55",
+      "summary": "Els creadors de GTA pateixen una nova filtració de dades, però asseguren que no afectarà els jugadors."
     },
     {
-      "title": "Pistes i respostes per al NYT Connections del 12 d'abril",
-      "link_id": "c_64ca0e",
-      "source": "CNET",
-      "date": "2026-04-12",
-      "time": "09:01",
-      "summary": "Troba l'ajuda necessària per superar el repte número 1036 d'aquest popular joc de paraules del New York Times."
-    },
-    {
-      "title": "Google mostra apostes de Polymarket com a notícies per \"error\"",
-      "link_id": "c_941721",
-      "source": "Gizmodo",
-      "date": "2026-04-12",
-      "time": "09:00",
-      "summary": "La companyia assegura que l'aparició d'aquestes prediccions financeres als resultats de Google News va ser una fallada no intencionada."
-    },
-    {
-      "title": "\"Massa potent per al públic\": L'estratègia d'Anthropic per guanyar la guerra publicitària de la IA",
-      "link_id": "c_1896f8",
-      "source": "The Guardian Tech",
-      "date": "2026-04-12",
-      "time": "09:00",
-      "summary": "L'empresa reté el seu nou model al·legant riscos de ciberseguretat, un moviment que els crítics consideren pur màrqueting."
-    },
-    {
-      "title": "Els Països Baixos, primer estat europeu en aprovar la conducció autònoma supervisada de Tesla",
-      "link_id": "c_811f93",
-      "source": "The Verge",
-      "date": "2026-04-11",
-      "time": "19:22",
-      "summary": "Després de mesos de proves, els reguladors holandesos obren la porta a l'expansió d'aquesta tecnologia per tota la Unió Europea."
-    },
-    {
-      "title": "Rockstar Games confirma un ciberatac per part del grup maliciós ShinyHunters",
-      "link_id": "c_2faeaa",
-      "source": "Tom's Hardware",
-      "date": "2026-04-11",
-      "time": "18:05",
-      "summary": "Els pirates informàtics exigeixen un rescat abans del 14 d'abril per evitar la filtració de dades confidencials de l'empresa."
-    },
-    {
-      "title": "Apple deixa d'acceptar comandes per a alguns models de Mac Mini i Mac Studio",
-      "link_id": "c_61f9e8",
+      "title": "El nou plegable de Huawei s'assembla molt al rumorejat iPhone Fold d'Apple",
+      "link_id": "c_b2c653",
       "source": "MacRumors",
-      "date": "2026-04-11",
-      "time": "07:35",
-      "summary": "L'esgotament d'estoc d'aquestes configuracions de gamma alta suggereix una possible renovació imminent dels equips amb els nous xips M5."
+      "date": "2026-04-13",
+      "time": "04:40",
+      "summary": "El nou Pura X Max de Huawei s'avança a Apple i Samsung amb un disseny plegable més ample."
     },
     {
-      "title": "X prepara una aplicació de missatgeria dedicada amb el llançament de XChat a l'App Store",
-      "link_id": "c_d8a32b",
-      "source": "Digital Trends",
-      "date": "2026-04-11",
-      "time": "13:57",
-      "summary": "La nova plataforma d'Elon Musk oferirà xats xifrats d'extrem a extrem i estarà disponible per a usuaris d'iPhone aviat."
+      "title": "Anthropic porta el poder de la IA de Claude a Microsoft Word",
+      "link_id": "c_804fb3",
+      "source": "TechRadar",
+      "date": "2026-04-13",
+      "time": "11:15",
+      "summary": "La integració de Claude a Word permetrà revisar contractes i fer edicions amb control de canvis natiu."
     },
     {
-      "title": "30 anys després, torno a Enlightenment Linux per provar la beta d'Elive",
-      "link_id": "c_39c3a4",
-      "source": "ZDNet",
+      "title": "Un filtrador dona suport al rumor del color vermell de l'iPhone 18 d'una manera peculiar",
+      "link_id": "c_147b08",
+      "source": "9to5Mac",
+      "date": "2026-04-13",
+      "time": "11:08",
+      "summary": "Els rumors apunten que el pròxim iPhone 18 Pro destacarà per un nou i exclusiu color vermell intens."
+    },
+    {
+      "title": "'Recuperar el control del nostre destí digital': França abandonarà Windows per Linux per reduir la dependència dels EUA",
+      "link_id": "c_aadab1",
+      "source": "TechRadar",
+      "date": "2026-04-13",
+      "time": "10:35",
+      "summary": "França substituirà Windows per Linux als seus equips governamentals per guanyar sobirania tecnològica davant dels Estats Units."
+    },
+    {
+      "title": "La previsualització de Claude Mythos ha espantat oficialment els britànics",
+      "link_id": "c_a9a3d9",
+      "source": "Gizmodo",
+      "date": "2026-04-13",
+      "time": "10:00",
+      "summary": "El nou model d'intel·ligència artificial d'Anthropic genera inquietud entre els reguladors britànics per les seves capacitats avançades."
+    },
+    {
+      "title": "El Mac mini i el Mac Studio s'esgoten: és la crisi de la memòria RAM o una actualització a M5?",
+      "link_id": "c_e8cb13",
+      "source": "The Next Web",
       "date": "2026-04-12",
-      "time": "11:00",
-      "summary": "Aquesta distribució basada en Debian recupera l'entorn d'escriptori clàssic amb una interfície renovada, tot i que encara falten algunes funcions."
+      "time": "18:37",
+      "summary": "L'esgotament d'estoc d'aquests ordinadors d'Apple fa sospitar sobre una possible actualització imminent amb els nous xips M5."
+    },
+    {
+      "title": "YouTube Premium és l'únic servei de streaming que pot sortir-se amb la seva amb les pujades de preu",
+      "link_id": "c_efaa9c",
+      "source": "9to5Google",
+      "date": "2026-04-12",
+      "time": "16:00",
+      "summary": "La plataforma de vídeo apuja les tarifes de subscripció, sumant-se a l'encariment generalitzat dels serveis de streaming."
+    },
+    {
+      "title": "El gegant dels gimnasos Basic-Fit confirma el robatori de dades d'un milió de socis en un ciberatac",
+      "link_id": "c_20cded",
+      "source": "The Register",
+      "date": "2026-04-13",
+      "time": "11:22",
+      "summary": "Un ciberatac exposa les dades bancàries i personals de centenars de milers d'usuaris d'aquesta cadena de gimnasos."
     }
   ]
 }
