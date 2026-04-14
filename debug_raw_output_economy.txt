@@ -1,16 +1,48 @@
 {
-  "generated_at": "2026-04-14T10:21",
+  "generated_at": "2026-04-14T20:05",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
+    {
+      "title": "Amazon comprarà Globalstar per uns 11.600 milions de dòlars per reforçar el seu negoci de satèl·lits",
+      "link_id": "c_f210be",
+      "source": "CNBC Technology",
+      "date": "2026-04-14",
+      "time": "16:10",
+      "summary": "L'adquisició permetrà a l'empresa competir directament amb Starlink d'Elon Musk en el mercat d'internet espacial."
+    },
+    {
+      "title": "Amazon acorda la compra del grup de satèl·lits Globalstar per 11.600 milions de dòlars",
+      "link_id": "c_ddd8c3",
+      "source": "Financial Times",
+      "date": "2026-04-14",
+      "time": "12:56",
+      "summary": "Aquest moviment estratègic accelera el desenvolupament de la seva pròpia xarxa d'òrbita terrestre baixa contra SpaceX."
+    },
+    {
+      "title": "La fiscalia demana presó sense fiança per al sospitós de l'atac a Sam Altman",
+      "link_id": "c_36d8d6",
+      "source": "CNBC Technology",
+      "date": "2026-04-14",
+      "time": "17:30",
+      "summary": "L'acusat hauria llançat un còctel Molotov a la casa del conseller delegat i amenaçat la seu d'OpenAI."
+    },
+    {
+      "title": "Oracle puja per segon dia i Bloom Energy es dispara un 23% per un acord energètic",
+      "link_id": "c_41f0f8",
+      "source": "CNBC Technology",
+      "date": "2026-04-14",
+      "time": "16:32",
+      "summary": "L'ampliació del contracte per alimentar centres de dades d'intel·ligència artificial impulsa fortament les accions d'ambdues companyies."
+    },
     {
       "title": "Mythos i el risc de ciberseguretat al qual s'enfronten tots els estats",
       "link_id": "c_d786ee",
       "source": "Financial Times",
       "date": "2026-04-14",
       "time": "04:00",
-      "summary": "L'arribada d'aquesta IA transforma l'escenari global, creant amenaces digitals sense precedents per a la seguretat nacional."
+      "summary": "L'arribada d'aquesta intel·ligència artificial es compara amb la bomba atòmica, transformant completament l'amenaça tecnològica global."
     },
     {
       "title": "Els inversors d'OpenAI qüestionen la valoració de 852.000 milions de dòlars pel canvi d'estratègia",
@@ -18,71 +50,39 @@
       "source": "Financial Times",
       "date": "2026-04-14",
       "time": "04:00",
-      "summary": "El lideratge d'Altman s'enfronta a dubtes mentre la companyia reorienta el seu rumb davant l'avanç d'Anthropic."
+      "summary": "Sam Altman reorienta l'empresa mentre el ràpid avanç d'Anthropic amenaça el seu lideratge en el sector."
     },
     {
-      "title": "OpenAI destaca l'aliança amb Amazon i afirma que Microsoft ha \"limitat la seva capacitat\" d'arribar als clients",
-      "link_id": "c_10fa4c",
-      "source": "CNBC Technology",
-      "date": "2026-04-13",
-      "time": "15:40",
-      "summary": "L'empresa busca reduir la dependència tecnològica de Microsoft per expandir la seva pròpia xarxa de distribució comercial."
-    },
-    {
-      "title": "Powell i Bessent debaten l'amenaça cibernètica de la IA Mythos d'Anthropic amb els principals bancs dels EUA",
-      "link_id": "c_4189ac",
-      "source": "CNBC Technology",
-      "date": "2026-04-13",
-      "time": "15:39",
-      "summary": "Les autoritats alerten el sector financer sobre possibles vulnerabilitats crítiques derivades d'aquest nou model d'intel·ligència artificial."
-    },
-    {
-      "title": "El sospitós de l'atac a casa de Sam Altman pretenia matar el CEO d'OpenAI",
+      "title": "El sospitós de l'atac a la casa de Sam Altman pretenia matar el CEO d'OpenAI",
       "link_id": "c_717298",
       "source": "CNBC Technology",
       "date": "2026-04-13",
       "time": "23:27",
-      "summary": "L'atacant va justificar l'intent d'assassinat per la por que la intel·ligència artificial provoqui l'extinció de la humanitat."
+      "summary": "Un document confiscat per la policia revela que l'atacant volia evitar la suposada extinció de la humanitat."
     },
     {
-      "title": "Oracle es dispara gairebé un 13% i lidera la recuperació de les accions de programari",
+      "title": "Oracle es dispara gairebé un 13%, liderant la recuperació de les accions de programari",
       "link_id": "c_c482bf",
       "source": "CNBC Technology",
       "date": "2026-04-13",
       "time": "22:38",
-      "summary": "Aquest fort repunt alleuja els temors recents del mercat sobre l'impacte disruptiu de la IA en l'empresa."
+      "summary": "Aquest rebot alleuja les pèrdues acumulades durant l'any a causa dels temors sobre la disrupció tecnològica."
     },
     {
-      "title": "Oracle amplia l'acord amb Bloom Energy dies després de rebre 400 milions de dòlars en accions",
+      "title": "Oracle amplia l'acord amb Bloom Energy dies després de rebre 400 milions en opcions sobre accions",
       "link_id": "c_7b0663",
       "source": "CNBC Technology",
       "date": "2026-04-13",
       "time": "22:32",
-      "summary": "L'aliança estratègica reforça la posició d'ambdues companyies i impulsa significativament el valor borsari de Bloom Energy."
+      "summary": "Aquesta aliança estratègica reforça la infraestructura energètica necessària per suportar la creixent demanda dels centres de dades."
     },
     {
-      "title": "Les accions d'Intel encadenen una ratxa històrica de 9 dies a l'alça, guanyant un 58%",
+      "title": "Les accions d'Intel encadenen nou dies històrics de guanys, pujant un 58%",
       "link_id": "c_b9ac92",
       "source": "CNBC Technology",
       "date": "2026-04-13",
       "time": "20:09",
-      "summary": "Els nous acords amb gegants tecnològics consoliden la recuperació del fabricant de xips al mercat nord-americà."
-    },
-    {
-      "title": "Un furoner exposa una vulnerabilitat de Bain & Co un mes després del cas de McKinsey",
-      "link_id": "c_4e9dd9",
-      "source": "Financial Times",
-      "date": "2026-04-13",
-      "time": "19:02",
-      "summary": "La filtració de credencials públiques posa en evidència greus fallades de seguretat en les grans consultores globals."
-    },
-    {
-      "title": "A prova de robots: pot la propera generació mantenir-se un pas per davant de les màquines?",
-      "link_id": "c_fe3c7e",
-      "source": "Financial Times",
-      "date": "2026-04-13",
-      "time": "16:00",
-      "summary": "Cal repensar l'educació per dotar els joves d'habilitats úniques davant la creixent automatització del mercat laboral."
+      "summary": "Els recents acords amb Google i Elon Musk han disparat la confiança dels inversors en el fabricant."
     }
   ]
 }

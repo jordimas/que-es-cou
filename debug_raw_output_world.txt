@@ -1,88 +1,109 @@
 {
-  "generated_at": "2026-04-14T10:21",
+  "generated_at": "2026-04-14T20:01",
   "id": "world",
   "title": "Notícies tecnològiques del món",
-  "sources_checked": [],
+  "sources_checked": [
+    {
+      "name": "Ars Technica",
+      "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
+      "articles_found": 0
+    },
+    {
+      "name": "AnandTech",
+      "url": "https://www.anandtech.com/rss/",
+      "articles_found": 0
+    },
+    {
+      "name": "Wall Street Journal Tech",
+      "url": "https://feeds.a.dj.com/rss/RSSWSJD.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "Slashdot",
+      "url": "https://slashdot.org/rss/slashdot.rss",
+      "articles_found": 0
+    }
+  ],
   "articles": [
     {
-      "title": "Dos sospitosos detinguts per un presumpte tiroteig a la casa de Sam Altman",
+      "title": "Amazon comprarà Globalstar per 11.570 milions de dòlars per impulsar el seu negoci de satèl·lits",
+      "link_id": "c_c04aea",
+      "source": "TechCrunch",
+      "date": "2026-04-14",
+      "time": "13:55",
+      "summary": "L'adquisició permetrà a l'empresa competir amb Starlink i donarà suport a la funció d'emergència d'Apple."
+    },
+    {
+      "title": "Google afegeix \"Skills\" d'IA a Chrome per ajudar-te a desar els teus fluxos de treball preferits",
+      "link_id": "c_b60e3e",
+      "source": "TechCrunch",
+      "date": "2026-04-14",
+      "time": "17:00",
+      "summary": "Aquesta nova funció permetrà als usuaris reutilitzar indicacions de Gemini ràpidament a qualsevol pàgina web que visitin."
+    },
+    {
+      "title": "El nou monitor OLED per a videojocs de 1440p de Sony sembla molt millor que el primer",
+      "link_id": "c_bcf336",
+      "source": "The Verge",
+      "date": "2026-04-14",
+      "time": "12:00",
+      "summary": "Aquest model de 27 polzades assoleix una freqüència d'actualització de 720 Hz, ideal per als jugadors d'esports electrònics més exigents."
+    },
+    {
+      "title": "L'augment de preu dels Microsoft Surface és el darrer motiu per comprar un MacBook Neo",
+      "link_id": "c_3efd20",
+      "source": "9to5Mac",
+      "date": "2026-04-14",
+      "time": "11:36",
+      "summary": "La crisi global de memòria RAM ha provocat un encariment de fins a 500 dòlars en els models insígnia."
+    },
+    {
+      "title": "Dos sospitosos han estat detinguts per presumptament disparar contra la casa de Sam Altman",
       "link_id": "c_dfcf65",
       "source": "Engadget",
       "date": "2026-04-14",
       "time": "06:06",
-      "summary": "La policia de San Francisco investiga un segon atac a la residència del CEO d'OpenAI a Russian Hill."
+      "summary": "Un jove de Texas també s'enfronta a càrrecs d'intent d'assassinat per llançar un còctel Molotov a la residència."
     },
     {
-      "title": "Roblox millora la seguretat infantil amb nous tipus de comptes que limiten l'accés",
-      "link_id": "c_3862bc",
-      "source": "Digital Trends",
-      "date": "2026-04-13",
-      "time": "21:18",
-      "summary": "La plataforma reestructura el sistema per a menors de setze anys, afegint controls automàtics de xat i jocs adequats."
-    },
-    {
-      "title": "Apple planeja unes ulleres amb IA per competir amb les de Meta",
-      "link_id": "c_4c4a2a",
+      "title": "Les afirmacions sobre la IA Mythos d'Anthropic, qüestionades per experts en ciberseguretat",
+      "link_id": "c_d771a5",
       "source": "Bloomberg Technology",
-      "date": "2026-04-13",
-      "time": "20:45",
-      "summary": "La companyia prova diversos dissenys de muntures i càmeres per diferenciar-se en privacitat respecte a les Ray-Ban de Meta."
-    },
-    {
-      "title": "Hackers exigeixen un rescat a Rockstar Games després de robar dades",
-      "link_id": "c_bd701e",
-      "source": "CNET",
-      "date": "2026-04-13",
-      "time": "20:46",
-      "summary": "Els creadors de GTA 6 confirmen una bretxa de seguretat a través d'Anodot, un proveïdor de serveis extern."
-    },
-    {
-      "title": "Microsoft encareix significativament els portàtils i tauletes Surface",
-      "link_id": "c_16c949",
-      "source": "Digital Trends",
       "date": "2026-04-14",
-      "time": "05:43",
-      "summary": "L'augment dels costos de memòria i components ha provocat pujades de fins a 500 dòlars en els models insígnia."
+      "time": "17:31",
+      "summary": "Tot i l'alarma governamental, algunes proves indiquen que models de codi obert més barats poden trobar les mateixes vulnerabilitats."
     },
     {
-      "title": "Huawei insinua un telèfon plegable més ample, avançant-se a Apple",
-      "link_id": "c_014169",
-      "source": "CNET",
+      "title": "Les noves càmeres Mission 1 de GoPro tenen vídeo 8K i objectius intercanviables",
+      "link_id": "c_fc959f",
+      "source": "Wired",
       "date": "2026-04-14",
-      "time": "01:20",
-      "summary": "El nou model Pura X Max adopta un format similar a una tauleta, superant el llançament del futur iPhone Fold."
+      "time": "16:17",
+      "summary": "Aquesta línia professional millora el rendiment amb poca llum i busca competir directament amb els models de DJI."
     },
     {
-      "title": "Meta crea una versió amb IA de Mark Zuckerberg perquè els empleats hi parlin",
-      "link_id": "c_65bef2",
-      "source": "The Next Web",
+      "title": "DaVinci Resolve afegeix noves eines d'edició de fotos per competir amb Lightroom i Photoshop",
+      "link_id": "c_5e26db",
+      "source": "The Verge",
       "date": "2026-04-14",
-      "time": "06:56",
-      "summary": "Aquest avatar fotorrealista està entrenat amb els gestos, el to i la visió estratègica del director executiu de l'empresa."
+      "time": "11:28",
+      "summary": "La versió 21 del programari inclou una pàgina dedicada a la fotografia i noves funcions d'intel·ligència artificial avançades."
     },
     {
-      "title": "Els reguladors adverteixen d'una nova era de riscos cibernètics derivats de la IA",
-      "link_id": "c_38a349",
-      "source": "Bloomberg Technology",
+      "title": "Sony està desenvolupant una adaptació en pel·lícula d'animació de Bloodborne",
+      "link_id": "c_f52702",
+      "source": "Engadget",
+      "date": "2026-04-14",
+      "time": "11:04",
+      "summary": "La cinta tindrà una qualificació per a adults i promet mantenir l'esperit violent i gràfic del videojoc original."
+    },
+    {
+      "title": "Desenes d'organitzacions adverteixen Meta que el reconeixement facial a les seves ulleres intel·ligents empoderaria els depredadors",
+      "link_id": "c_2cd310",
+      "source": "Engadget",
       "date": "2026-04-13",
-      "time": "22:09",
-      "summary": "El nou model Mythos d'Anthropic genera preocupació a Wall Street per la seva capacitat d'explotar vulnerabilitats de seguretat."
-    },
-    {
-      "title": "OPPO revela els tres tons inspirats en la natura del Find X9 Ultra",
-      "link_id": "c_8f3cb9",
-      "source": "Android Authority",
-      "date": "2026-04-13",
-      "time": "18:35",
-      "summary": "El proper telèfon insígnia de la marca aposta per un disseny elegant i abandona el vidre mat del predecessor."
-    },
-    {
-      "title": "Una nova política de correu brossa contra el segrest del botó de retrocés",
-      "link_id": "c_226cfc",
-      "source": "Hacker News",
-      "date": "2026-04-14",
-      "time": "03:06",
-      "summary": "Google Search penalitzarà els llocs web que manipulin la navegació de l'usuari per evitar que tornin a la pàgina anterior."
+      "time": "18:50",
+      "summary": "Més de 70 grups de drets civils exigeixen aturar aquesta tecnologia per protegir víctimes d'abusos i minories vulnerables."
     }
   ]
 }

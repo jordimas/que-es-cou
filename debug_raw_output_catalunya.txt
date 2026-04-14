@@ -1,64 +1,40 @@
 {
-  "generated_at": "2024-05-24T18:45",
+  "generated_at": "2026-04-14T18:05",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Una explosió en un laboratori químic de Manresa deixa dos ferits i obliga a desallotjar l'edifici",
-      "link_id": "c_cc9a4a",
-      "source": "RAC1",
-      "date": "2026-04-13",
-      "time": "14:08",
-      "summary": "L'incident al centre tecnològic Eurecat ha mobilitzat els serveis d'emergència després d'una deflagració amb ferits."
+      "title": "ChatGPT és la IA més utilitzada pels metges de família a les consultes",
+      "link_id": "c_0303f9",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-04-14",
+      "time": "04:24",
+      "summary": "Un estudi revela que els professionals d'atenció primària reclamen més formació per aprofitar aquesta eina tecnològica amb seguretat."
     },
     {
-      "title": "Tres afectats per una explosió en un laboratori del centre tecnològic Eurecat de Manresa",
-      "link_id": "c_605eeb",
+      "title": "Nous centres de dades a Catalunya: la Generalitat identifica fins a 26 projectes de núvol i IA per a la pròxima dècada",
+      "link_id": "c_ce2c3d",
       "source": "El Periódico",
-      "date": "2026-04-13",
-      "time": "14:46",
-      "summary": "Un dels tres ferits ha estat traslladat a l'Hospital Sant Joan de Déu amb pronòstic menys greu."
+      "date": "2026-04-14",
+      "time": "12:42",
+      "summary": "El Govern busca consolidar el territori com a referent europeu en intel·ligència artificial mitjançant noves infraestructures privades."
     },
     {
-      "title": "Entra en vigor el nou llindar d'alertes per pluges de més de 60 litres en 3 hores",
-      "link_id": "c_fd1c62",
+      "title": "Artemis 2, objectiu complert",
+      "link_id": "c_315fab",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-04-13",
+      "time": "08:32",
+      "summary": "La càpsula Orion ha tornat a la Terra amb èxit, tancant una missió històrica d'observació lunar tripulada."
+    },
+    {
+      "title": "Booking alerta d'un ciberatac amb accés a dades personals de clients",
+      "link_id": "c_75e941",
       "source": "324.cat",
-      "date": "2026-04-12",
-      "time": "06:46",
-      "summary": "Aquesta nova mesura busca prevenir danys majors davant l'augment d'episodis de precipitacions intenses i sobtades."
-    },
-    {
-      "title": "Una incidència informàtica 'desconnecta' l'hospital de Son Llàtzer",
-      "link_id": "c_b33058",
-      "source": "Ara Balears",
-      "date": "2026-04-13",
-      "time": "08:48",
-      "summary": "La caiguda d'un router ha paralitzat temporalment el programari sanitari, afectant la gestió mèdica i d'infermeria."
-    },
-    {
-      "title": "Els centres educatius esclaten contra l'eina que substitueix el GestIB: \"Estam amb les mans damunt el cap\"",
-      "link_id": "c_8340dc",
-      "source": "Ara Balears",
-      "date": "2026-04-13",
-      "time": "19:36",
-      "summary": "El nou sistema Llull genera greus problemes de gestió a les escoles balears per la seva ineficiència."
-    },
-    {
-      "title": "Catalunya presenta a Brussel·les l’estratègia IA 2030 per liderar una intel·ligència artificial ètica a Europa",
-      "link_id": "c_d1996a",
-      "source": "MetaData",
-      "date": "2026-04-13",
-      "time": "15:11",
-      "summary": "El Govern aposta per un model tecnològic centrat en les persones i alineat amb els valors democràtics europeus."
-    },
-    {
-      "title": "L’ocupació tecnològica ja supera el 9% a Catalunya, però continua fortament masculinitzada",
-      "link_id": "c_4cf4c9",
-      "source": "MetaData",
-      "date": "2026-04-13",
-      "time": "10:10",
-      "summary": "Tot i el creixement del sector en l'última dècada, les dones només representen un 35% dels treballadors."
+      "date": "2026-04-14",
+      "time": "11:02",
+      "summary": "La plataforma turística pateix una bretxa de seguretat que exposa informació sensible, sumant-se a altres atacs recents a grans empreses."
     },
     {
       "title": "La traducció automàtica per defecte a X, entre l'entrebanc i l'oportunitat per al català",
@@ -66,23 +42,47 @@
       "source": "324.cat",
       "date": "2026-04-14",
       "time": "06:50",
-      "summary": "Experts analitzen com aquesta funció de la xarxa social pot impactar en la presència digital de la llengua."
+      "summary": "Els experts analitzen com aquesta funció de la xarxa social pot influir en la visibilitat i l'ús de la llengua."
     },
     {
-      "title": "L’Aeroport del Prat bat rècords al març: més de 4,5 milions de passatgers",
-      "link_id": "c_679df2",
-      "source": "Tot Barcelona",
-      "date": "2026-04-13",
-      "time": "12:31",
-      "summary": "Les dades d'Aena mostren un increment del 5,4% respecte a l'any anterior, marcant una fita històrica mensual."
-    },
-    {
-      "title": "Enagás busca la complicitat de Catalunya per a la seva xarxa d’hidrogen",
-      "link_id": "c_772a0a",
-      "source": "Ara.cat",
+      "title": "L'Hospital de Vic i la UVic desenvolupen un model d'IA per predir la durada de la lactància materna",
+      "link_id": "c_b806d8",
+      "source": "El Nacional.cat",
       "date": "2026-04-14",
-      "time": "05:15",
-      "summary": "El gestor gasista inicia jornades participatives per consensuar el transport d'hidrogen verd amb el territori i la ciutadania."
+      "time": "17:46",
+      "summary": "Aquest projecte innovador del servei de pediatria permetrà anticipar necessitats i oferir un suport més personalitzat a les mares."
+    },
+    {
+      "title": "Així són les ulleres intel·ligents que s’han utilitzat en diversos exàmens de conduir: la Guàrdia Civil avisa de les d’infraccions molt greus que es poden estar cometent",
+      "link_id": "c_bf07a9",
+      "source": "El Periódico",
+      "date": "2026-04-13",
+      "time": "14:45",
+      "summary": "Les autoritats adverteixen sobre l'ús de dispositius ocults per fer trampes a les proves, la qual cosa comporta fortes sancions."
+    },
+    {
+      "title": "Els centres educatius esclaten contra l'eina que substitueix el GestIB: \"Estam amb les mans damunt el cap\"",
+      "link_id": "c_8340dc",
+      "source": "Ara Balears",
+      "date": "2026-04-13",
+      "time": "19:36",
+      "summary": "El nou programari de gestió escolar a les Balears genera caos i queixes per la seva ineficàcia i dependència externa."
+    },
+    {
+      "title": "Una recerca de la UOC vol evitar errors mèdics en pacients sords amb IA i llenguatge planer",
+      "link_id": "c_eb043e",
+      "source": "MetaData",
+      "date": "2026-04-10",
+      "time": "08:42",
+      "summary": "La iniciativa crearà eines de transcripció adaptades per millorar la comunicació sanitària i reduir els riscos per a aquest col·lectiu."
+    },
+    {
+      "title": "Per què Accenture tria Barcelona (i no altres ciutats)",
+      "link_id": "c_20b6c4",
+      "source": "Via Empresa",
+      "date": "2026-04-14",
+      "time": "04:55",
+      "summary": "La capital catalana acollirà un nou centre global d'intel·ligència artificial gràcies al seu ecosistema tecnològic i capacitat d'atreure talent."
     }
   ]
 }
