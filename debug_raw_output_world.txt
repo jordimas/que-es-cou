@@ -1,109 +1,88 @@
 {
-  "generated_at": "2026-04-13T19:57",
+  "generated_at": "2026-04-14T10:21",
   "id": "world",
   "title": "Notícies tecnològiques del món",
-  "sources_checked": [
-    {
-      "name": "Ars Technica",
-      "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
-      "articles_found": 0
-    },
-    {
-      "name": "AnandTech",
-      "url": "https://www.anandtech.com/rss/",
-      "articles_found": 0
-    },
-    {
-      "name": "Wall Street Journal Tech",
-      "url": "https://feeds.a.dj.com/rss/RSSWSJD.xml",
-      "articles_found": 0
-    },
-    {
-      "name": "Slashdot",
-      "url": "https://slashdot.org/rss/slashdot.rss",
-      "articles_found": 0
-    }
-  ],
+  "sources_checked": [],
   "articles": [
     {
-      "title": "Apple prova quatre dissenys de muntures per a les seves ulleres intel·ligents amb IA abans del llançament el 2027",
-      "link_id": "c_d6fa5a",
-      "source": "The Next Web",
-      "date": "2026-04-13",
-      "time": "13:05",
-      "summary": "Els models inclouen estils rectangulars i circulars fets amb materials de primera qualitat per competir amb Meta."
-    },
-    {
-      "title": "Ja està disponible la beta 2 d'iPadOS 26.5, a més de watchOS 26.5, tvOS 26.5 i més",
-      "link_id": "c_918ade",
-      "source": "9to5Mac",
-      "date": "2026-04-13",
-      "time": "17:12",
-      "summary": "Aquestes actualitzacions per a desenvolupadors preparen el terreny per a futures millores de programari en tot l'ecosistema d'Apple."
-    },
-    {
-      "title": "El creador de GTA, Rockstar Games, pateix un altre ciberatac però en minimitza l'impacte",
-      "link_id": "c_5dd32c",
-      "source": "BBC Technology",
-      "date": "2026-04-13",
-      "time": "15:10",
-      "summary": "Els pirates informàtics van accedir a dades a través d'un proveïdor extern, tot i que l'empresa nega afectacions greus."
-    },
-    {
-      "title": "Roblox introdueix nivells de compte obligatoris restringits per edat",
-      "link_id": "c_ccdcd6",
+      "title": "Dos sospitosos detinguts per un presumpte tiroteig a la casa de Sam Altman",
+      "link_id": "c_dfcf65",
       "source": "Engadget",
-      "date": "2026-04-13",
-      "time": "12:15",
-      "summary": "La plataforma classificarà els usuaris en tres grups per oferir contingut i xats adequats a cada franja d'edat."
+      "date": "2026-04-14",
+      "time": "06:06",
+      "summary": "La policia de San Francisco investiga un segon atac a la residència del CEO d'OpenAI a Russian Hill."
     },
     {
-      "title": "L'elegant mòbil plegable ample de Huawei ja roba el protagonisme a l'iPhone Fold",
-      "link_id": "c_416a73",
+      "title": "Roblox millora la seguretat infantil amb nous tipus de comptes que limiten l'accés",
+      "link_id": "c_3862bc",
       "source": "Digital Trends",
       "date": "2026-04-13",
-      "time": "16:48",
-      "summary": "El nou Pura X Max aposta per un disseny tipus tauleta que s'avança a les futures propostes d'Apple."
+      "time": "21:18",
+      "summary": "La plataforma reestructura el sistema per a menors de setze anys, afegint controls automàtics de xat i jocs adequats."
     },
     {
-      "title": "Claude ja pot executar tasques en nom teu amb la nova funció d'ús de l'ordinador",
-      "link_id": "c_f0b642",
+      "title": "Apple planeja unes ulleres amb IA per competir amb les de Meta",
+      "link_id": "c_4c4a2a",
+      "source": "Bloomberg Technology",
+      "date": "2026-04-13",
+      "time": "20:45",
+      "summary": "La companyia prova diversos dissenys de muntures i càmeres per diferenciar-se en privacitat respecte a les Ray-Ban de Meta."
+    },
+    {
+      "title": "Hackers exigeixen un rescat a Rockstar Games després de robar dades",
+      "link_id": "c_bd701e",
       "source": "CNET",
       "date": "2026-04-13",
-      "time": "17:20",
-      "summary": "La intel·ligència artificial d'Anthropic permet navegar per internet i obrir fitxers autònomament per augmentar la productivitat."
+      "time": "20:46",
+      "summary": "Els creadors de GTA 6 confirmen una bretxa de seguretat a través d'Anodot, un proveïdor de serveis extern."
     },
     {
-      "title": "Booking.com confirma que uns pirates informàtics han accedit a les dades dels clients",
-      "link_id": "c_863189",
-      "source": "TechCrunch",
-      "date": "2026-04-13",
-      "time": "17:02",
-      "summary": "L'incident de seguretat ha exposat noms, correus electrònics, adreces físiques i números de telèfon de nombrosos usuaris."
+      "title": "Microsoft encareix significativament els portàtils i tauletes Surface",
+      "link_id": "c_16c949",
+      "source": "Digital Trends",
+      "date": "2026-04-14",
+      "time": "05:43",
+      "summary": "L'augment dels costos de memòria i components ha provocat pujades de fins a 500 dòlars en els models insígnia."
     },
     {
-      "title": "Podria ser molt difícil aconseguir un iPhone Fold durant el seu llançament",
-      "link_id": "c_e4e096",
-      "source": "9to5Mac",
-      "date": "2026-04-13",
-      "time": "16:54",
-      "summary": "Problemes en la cadena de subministrament han endarrerit la producció massiva, fet que limitarà l'estoc inicial del dispositiu."
+      "title": "Huawei insinua un telèfon plegable més ample, avançant-se a Apple",
+      "link_id": "c_014169",
+      "source": "CNET",
+      "date": "2026-04-14",
+      "time": "01:20",
+      "summary": "El nou model Pura X Max adopta un format similar a una tauleta, superant el llançament del futur iPhone Fold."
     },
     {
-      "title": "Meta crea una versió d'IA de Mark Zuckerberg perquè el personal pugui parlar amb el cap",
-      "link_id": "c_adf308",
-      "source": "The Guardian Tech",
-      "date": "2026-04-13",
-      "time": "15:27",
-      "summary": "Aquest clon digital s'entrena amb els seus pensaments i maneres per respondre preguntes sobre l'estratègia de l'empresa."
+      "title": "Meta crea una versió amb IA de Mark Zuckerberg perquè els empleats hi parlin",
+      "link_id": "c_65bef2",
+      "source": "The Next Web",
+      "date": "2026-04-14",
+      "time": "06:56",
+      "summary": "Aquest avatar fotorrealista està entrenat amb els gestos, el to i la visió estratègica del director executiu de l'empresa."
     },
     {
-      "title": "L'Oppo Find X9 Ultra és un telèfon amb una càmera impressionant que es llançarà a escala mundial",
-      "link_id": "c_4ffa5d",
-      "source": "9to5Google",
+      "title": "Els reguladors adverteixen d'una nova era de riscos cibernètics derivats de la IA",
+      "link_id": "c_38a349",
+      "source": "Bloomberg Technology",
       "date": "2026-04-13",
-      "time": "15:15",
-      "summary": "El dispositiu destaca per un mòdul fotogràfic massiu de Hasselblad i un disseny prèmium amb acabats de cuir."
+      "time": "22:09",
+      "summary": "El nou model Mythos d'Anthropic genera preocupació a Wall Street per la seva capacitat d'explotar vulnerabilitats de seguretat."
+    },
+    {
+      "title": "OPPO revela els tres tons inspirats en la natura del Find X9 Ultra",
+      "link_id": "c_8f3cb9",
+      "source": "Android Authority",
+      "date": "2026-04-13",
+      "time": "18:35",
+      "summary": "El proper telèfon insígnia de la marca aposta per un disseny elegant i abandona el vidre mat del predecessor."
+    },
+    {
+      "title": "Una nova política de correu brossa contra el segrest del botó de retrocés",
+      "link_id": "c_226cfc",
+      "source": "Hacker News",
+      "date": "2026-04-14",
+      "time": "03:06",
+      "summary": "Google Search penalitzarà els llocs web que manipulin la navegació de l'usuari per evitar que tornin a la pàgina anterior."
     }
   ]
 }

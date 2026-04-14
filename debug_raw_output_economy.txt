@@ -1,72 +1,88 @@
 {
-  "generated_at": "2024-05-24T18:30",
+  "generated_at": "2026-04-14T10:21",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Powell i Bessent debaten l'amenaça cibernètica de la IA Mythos d'Anthropic amb els grans bancs",
-      "link_id": "c_4189ac",
-      "source": "CNBC Technology",
-      "date": "2026-04-13",
-      "time": "15:39",
-      "summary": "Anthropic ha limitat el llançament del seu model per por que els pirates informàtics n'explotin les capacitats avançades."
-    },
-    {
-      "title": "Les accions d'Intel s'encaminen cap a una ratxa històrica de 9 dies, pujant un 56%",
-      "link_id": "c_b9ac92",
-      "source": "CNBC Technology",
-      "date": "2026-04-13",
-      "time": "16:15",
-      "summary": "El fabricant de xips nord-americà atreu noves inversions gràcies als recents acords estratègics amb Google i Elon Musk."
-    },
-    {
-      "title": "A prova de robots: pot la propera generació anar un pas per davant de les màquines?",
-      "link_id": "c_fe3c7e",
+      "title": "Mythos i el risc de ciberseguretat al qual s'enfronten tots els estats",
+      "link_id": "c_d786ee",
       "source": "Financial Times",
-      "date": "2026-04-13",
-      "time": "16:00",
-      "summary": "Vivienne Ming proposa canviar la preparació dels joves davant d'un futur proper dominat i desprofessionalitzat per la intel·ligència artificial."
+      "date": "2026-04-14",
+      "time": "04:00",
+      "summary": "L'arribada d'aquesta IA transforma l'escenari global, creant amenaces digitals sense precedents per a la seguretat nacional."
     },
     {
-      "title": "OpenAI destaca l'aliança amb Amazon i afirma que Microsoft ha limitat el seu abast",
+      "title": "Els inversors d'OpenAI qüestionen la valoració de 852.000 milions de dòlars pel canvi d'estratègia",
+      "link_id": "c_a5e5aa",
+      "source": "Financial Times",
+      "date": "2026-04-14",
+      "time": "04:00",
+      "summary": "El lideratge d'Altman s'enfronta a dubtes mentre la companyia reorienta el seu rumb davant l'avanç d'Anthropic."
+    },
+    {
+      "title": "OpenAI destaca l'aliança amb Amazon i afirma que Microsoft ha \"limitat la seva capacitat\" d'arribar als clients",
       "link_id": "c_10fa4c",
       "source": "CNBC Technology",
       "date": "2026-04-13",
       "time": "15:40",
-      "summary": "Un memoràndum intern revela els esforços de l'empresa d'intel·ligència artificial per reduir la seva dependència històrica de Microsoft."
+      "summary": "L'empresa busca reduir la dependència tecnològica de Microsoft per expandir la seva pròpia xarxa de distribució comercial."
     },
     {
-      "title": "Els xatbots d'IA diagnostiquen erròniament més del 80% dels casos mèdics inicials, segons un estudi",
-      "link_id": "c_efe149",
-      "source": "Financial Times",
-      "date": "2026-04-13",
-      "time": "15:00",
-      "summary": "Models líders com OpenAI i DeepSeek es precipiten en les seves conclusions quan les dades del pacient són incompletes."
-    },
-    {
-      "title": "L'expansió de la IA està impulsant el comerç mundial de béns",
-      "link_id": "c_cf4db9",
-      "source": "Financial Times",
-      "date": "2026-04-13",
-      "time": "11:31",
-      "summary": "L'auge dels centres de dades ajuda a mitigar l'impacte dels aranzels de Trump en l'economia global i nord-americana."
-    },
-    {
-      "title": "OpenAI anuncia la seva primera oficina permanent a Londres després d'aturar el projecte Stargate",
-      "link_id": "c_27ccaa",
+      "title": "Powell i Bessent debaten l'amenaça cibernètica de la IA Mythos d'Anthropic amb els principals bancs dels EUA",
+      "link_id": "c_4189ac",
       "source": "CNBC Technology",
       "date": "2026-04-13",
-      "time": "09:03",
-      "summary": "La companyia consolida la capital britànica com el seu centre d'investigació més gran fora dels Estats Units."
+      "time": "15:39",
+      "summary": "Les autoritats alerten el sector financer sobre possibles vulnerabilitats crítiques derivades d'aquest nou model d'intel·ligència artificial."
     },
     {
-      "title": "Meta crea una versió d'IA de Mark Zuckerberg per interactuar amb el personal",
-      "link_id": "c_8b1abf",
+      "title": "El sospitós de l'atac a casa de Sam Altman pretenia matar el CEO d'OpenAI",
+      "link_id": "c_717298",
+      "source": "CNBC Technology",
+      "date": "2026-04-13",
+      "time": "23:27",
+      "summary": "L'atacant va justificar l'intent d'assassinat per la por que la intel·ligència artificial provoqui l'extinció de la humanitat."
+    },
+    {
+      "title": "Oracle es dispara gairebé un 13% i lidera la recuperació de les accions de programari",
+      "link_id": "c_c482bf",
+      "source": "CNBC Technology",
+      "date": "2026-04-13",
+      "time": "22:38",
+      "summary": "Aquest fort repunt alleuja els temors recents del mercat sobre l'impacte disruptiu de la IA en l'empresa."
+    },
+    {
+      "title": "Oracle amplia l'acord amb Bloom Energy dies després de rebre 400 milions de dòlars en accions",
+      "link_id": "c_7b0663",
+      "source": "CNBC Technology",
+      "date": "2026-04-13",
+      "time": "22:32",
+      "summary": "L'aliança estratègica reforça la posició d'ambdues companyies i impulsa significativament el valor borsari de Bloom Energy."
+    },
+    {
+      "title": "Les accions d'Intel encadenen una ratxa històrica de 9 dies a l'alça, guanyant un 58%",
+      "link_id": "c_b9ac92",
+      "source": "CNBC Technology",
+      "date": "2026-04-13",
+      "time": "20:09",
+      "summary": "Els nous acords amb gegants tecnològics consoliden la recuperació del fabricant de xips al mercat nord-americà."
+    },
+    {
+      "title": "Un furoner exposa una vulnerabilitat de Bain & Co un mes després del cas de McKinsey",
+      "link_id": "c_4e9dd9",
       "source": "Financial Times",
       "date": "2026-04-13",
-      "time": "04:00",
-      "summary": "El conseller delegat entrena el seu propi avatar per impulsar el desenvolupament d'una nova superintel·ligència personal."
+      "time": "19:02",
+      "summary": "La filtració de credencials públiques posa en evidència greus fallades de seguretat en les grans consultores globals."
+    },
+    {
+      "title": "A prova de robots: pot la propera generació mantenir-se un pas per davant de les màquines?",
+      "link_id": "c_fe3c7e",
+      "source": "Financial Times",
+      "date": "2026-04-13",
+      "time": "16:00",
+      "summary": "Cal repensar l'educació per dotar els joves d'habilitats úniques davant la creixent automatització del mercat laboral."
     }
   ]
 }
