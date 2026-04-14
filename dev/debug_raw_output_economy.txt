@@ -1,40 +1,88 @@
 {
-  "generated_at": "2026-04-13T13:58",
+  "generated_at": "2024-05-24T18:50",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "L'expansió de la IA impulsa el comerç mundial de béns",
-      "link_id": "c_cf4db9",
+      "title": "Mythos i el risc de ciberseguretat al qual s'enfronten tots els estats",
+      "link_id": "c_d786ee",
       "source": "Financial Times",
-      "date": "2026-04-13",
-      "time": "11:31",
-      "summary": "L'auge dels centres de dades mitiga els efectes negatius dels aranzels sobre l'economia internacional i nord-americana."
+      "date": "2026-04-14",
+      "time": "04:00",
+      "summary": "L'arribada d'aquesta IA transforma l'escenari geopolític, obligant els governs a replantejar les seves estratègies de defensa digital immediatament."
     },
     {
-      "title": "OpenAI anuncia la seva primera oficina permanent a Londres",
-      "link_id": "c_27ccaa",
+      "title": "Powell i Bessent debaten l'amenaça cibernètica de la IA Mythos d'Anthropic amb els grans bancs dels EUA",
+      "link_id": "c_4189ac",
       "source": "CNBC Technology",
       "date": "2026-04-13",
-      "time": "09:03",
-      "summary": "Després d'aturar el projecte Stargate, l'empresa consolida la capital britànica com a centre clau de recerca internacional."
+      "time": "15:39",
+      "summary": "Les autoritats financeres alerten el sector bancari sobre possibles vulnerabilitats crítiques derivades d'aquest nou model d'intel·ligència artificial avançada."
     },
     {
-      "title": "Meta crea una versió d'IA de Mark Zuckerberg per interactuar amb els empleats",
-      "link_id": "c_8b1abf",
+      "title": "Els inversors d'OpenAI qüestionen la valoració de 852.000 milions de dòlars pel canvi d'estratègia",
+      "link_id": "c_a5e5aa",
+      "source": "Financial Times",
+      "date": "2026-04-14",
+      "time": "04:00",
+      "summary": "La pressió competitiva d'Anthropic genera dubtes sobre la viabilitat financera i el rumb futur de l'empresa liderada per Altman."
+    },
+    {
+      "title": "El sospitós de l'atac a la casa de Sam Altman pretenia matar el CEO d'OpenAI",
+      "link_id": "c_717298",
+      "source": "CNBC Technology",
+      "date": "2026-04-13",
+      "time": "23:27",
+      "summary": "L'atacant justificà l'intent d'assassinat com a mesura extrema per evitar l'extinció humana a mans de la IA."
+    },
+    {
+      "title": "Oracle es dispara gairebé un 13%, liderant la recuperació de les accions de programari",
+      "link_id": "c_c482bf",
+      "source": "CNBC Technology",
+      "date": "2026-04-13",
+      "time": "22:38",
+      "summary": "Aquest fort repunt borsari alleuja els temors recents dels inversors sobre l'impacte negatiu de la IA al sector."
+    },
+    {
+      "title": "Oracle amplia l'acord amb Bloom Energy dies després de rebre 400 milions en opcions sobre accions",
+      "link_id": "c_7b0663",
+      "source": "CNBC Technology",
+      "date": "2026-04-13",
+      "time": "22:32",
+      "summary": "L'aliança estratègica reforça la infraestructura energètica d'Oracle, impulsant el valor de mercat de Bloom Energy després de l'anunci."
+    },
+    {
+      "title": "Les accions d'Intel encadenen una ratxa històrica de 9 dies a l'alça, pujant un 58%",
+      "link_id": "c_b9ac92",
+      "source": "CNBC Technology",
+      "date": "2026-04-13",
+      "time": "20:09",
+      "summary": "Els nous contractes amb gegants tecnològics consoliden la recuperació del fabricant de xips i atreuen fort interès inversor."
+    },
+    {
+      "title": "Un furoner exposa una vulnerabilitat de Bain & Co un mes després del cas McKinsey",
+      "link_id": "c_4e9dd9",
       "source": "Financial Times",
       "date": "2026-04-13",
-      "time": "04:00",
-      "summary": "El conseller delegat prova un avatar propi per avançar cap a una superintel·ligència personal dins l'empresa."
+      "time": "19:02",
+      "summary": "La filtració de credencials en codi públic evidencia greus deficiències de seguretat en les grans consultores globals."
     },
     {
-      "title": "Lidl sacseja el mercat mòbil amb tarifes telefòniques de descompte",
-      "link_id": "c_9d2eb8",
+      "title": "A prova de robots: pot la propera generació mantenir-se un pas per davant de les màquines?",
+      "link_id": "c_fe3c7e",
       "source": "Financial Times",
-      "date": "2026-04-12",
+      "date": "2026-04-13",
       "time": "16:00",
-      "summary": "La cadena de supermercats planeja expandir els seus serveis de telecomunicacions assequibles a una trentena de països."
+      "summary": "Els experts reclamen una transformació educativa urgent per evitar que la IA deixi obsoletes les futures carreres."
+    },
+    {
+      "title": "OpenAI destaca l'aliança amb Amazon i afirma que Microsoft ha limitat el seu abast",
+      "link_id": "c_10fa4c",
+      "source": "CNBC Technology",
+      "date": "2026-04-13",
+      "time": "15:40",
+      "summary": "La companyia busca diversificar socis tecnològics per guanyar independència i millorar l'accés directe als clients corporatius."
     }
   ]
 }

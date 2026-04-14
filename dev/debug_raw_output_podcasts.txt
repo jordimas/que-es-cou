@@ -1,5 +1,5 @@
 {
-  "generated_at": "2024-05-24T16:00",
+  "generated_at": "2024-05-22T16:00",
   "id": "podcasts",
   "title": "Podcasts en català sobre tecnologia",
   "sources_checked": [],
@@ -10,15 +10,7 @@
       "source": "Mossega la poma",
       "date": "2026-04-10",
       "time": "08:18",
-      "summary": "Anàlisi profunda sobre com la intel·ligència artificial redefineix el poder, l'ètica i les estructures polítiques actuals."
-    },
-    {
-      "title": "Ivoox com exemple de merdificació – Programa 658",
-      "link_id": "c_4efec1",
-      "source": "Mossega la poma",
-      "date": "2026-03-30",
-      "time": "10:32",
-      "summary": "Debat sobre com les plataformes digitals prioritzen la monetització agressiva en detriment de l'experiència de l'usuari i dels creadors."
+      "summary": "Anàlisi de l'impacte social i polític de la intel·ligència artificial amb la Universitat Politècnica de Catalunya."
     },
     {
       "title": "L' Altra Ràdio - Condemna judicial a Meta i Google per causar addicció a les xarxes socials",
@@ -26,7 +18,7 @@
       "source": "L'altra ràdio",
       "date": "2026-04-09",
       "time": "07:33",
-      "summary": "Valoració d'una sentència històrica als Estats Units que responsabilitza les grans tecnològiques de fomentar l'addicció juvenil."
+      "summary": "Àtia Cortés valora la condemna a Meta i Google als Estats Units per generar addicció a les seves plataformes."
     },
     {
       "title": "L' Altra Ràdio - L'ONU i els drets de les dones a la societat i en el sector tecnològic",
@@ -34,7 +26,7 @@
       "source": "L'altra ràdio",
       "date": "2026-04-02",
       "time": "07:33",
-      "summary": "Reflexió sobre les iniciatives internacionals per garantir la igualtat de gènere i protegir els drets femenins a l'àmbit tecnològic."
+      "summary": "Karina Gibert explica les accions de les Nacions Unides per protegir els drets femenins en l'àmbit tecnològic."
     },
     {
       "title": "Avui parlem d'urbanisme i dels cables de les façanes, amb Judith Urbano",
@@ -42,7 +34,7 @@
       "source": "Foc a Terra",
       "date": "2026-04-13",
       "time": "04:00",
-      "summary": "Una mirada curiosa a la història de l'urbanisme barceloní i l'origen del cablejat visible a les façanes."
+      "summary": "La doctora Judith Urbano repassa la història de l'urbanisme barceloní i l'origen del cablejat a les façanes."
     },
     {
       "title": "Tancat amb Claude",
@@ -50,15 +42,15 @@
       "source": "Foc a Terra",
       "date": "2026-04-06",
       "time": "04:00",
-      "summary": "Descobreix Factory Floor, una nova aplicació nativa per a macOS dissenyada per optimitzar el treball amb Claude Code."
+      "summary": "Descobreix Factory Floor, una aplicació nativa per a macOS creada per David Poblador per treballar amb Claude Code."
     },
     {
-      "title": "La gamificació de la renda",
-      "link_id": "c_39a955",
-      "source": "Foc a Terra",
-      "date": "2026-03-30",
-      "time": "04:00",
-      "summary": "Repàs de l'actualitat tecnològica, l'èxit de subvencions.cat i una proposta innovadora per gamificar la declaració d'impostos."
+      "title": "Eines d’IA per crear formació",
+      "link_id": "c_152cc8",
+      "source": "WordPress Pòdcast",
+      "date": "2026-04-14",
+      "time": "00:00",
+      "summary": "L'equip de formació proposa nous prompts i recursos d'intel·ligència artificial per estandarditzar els materials educatius."
     },
     {
       "title": "No tenim pas res enllestit per a WordPress 7.0",
@@ -66,7 +58,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-04-07",
       "time": "00:00",
-      "summary": "Anàlisi dels contratemps i replantejaments d'última hora que han frenat el llançament esperat de la nova versió."
+      "summary": "El llançament de la nova versió s'endarrereix després de replantejar diverses qüestions tècniques de les versions candidates."
     },
     {
       "title": "Tot a punt per a la versió WordPress 7.0",
@@ -74,7 +66,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-03-31",
       "time": "00:00",
-      "summary": "Detalls sobre la recta final del desenvolupament d'aquesta actualització, centrada a polir els últims ajustos tècnics."
+      "summary": "La nova actualització entra a la fase final de desenvolupament centrant-se a polir els últims detalls tècnics."
     },
     {
       "title": "Capítol 62: Mitiga, invertir pensant en el risc climàtic",
@@ -82,7 +74,7 @@
       "source": "RAC&GO",
       "date": "2026-04-07",
       "time": "06:00",
-      "summary": "Com l'empresa Mitiga ajuda les corporacions a prendre decisions estratègiques basades en l'avaluació de riscos climàtics futurs."
+      "summary": "L'emprenedor Àlex Martí presenta Mitiga, un projecte per ajudar les empreses a invertir considerant els riscos climàtics."
     }
   ]
 }

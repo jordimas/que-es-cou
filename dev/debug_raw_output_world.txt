@@ -1,88 +1,109 @@
 {
-  "generated_at": "2024-05-24T16:30",
+  "generated_at": "2026-04-14T13:49",
   "id": "world",
   "title": "Notícies tecnològiques del món",
-  "sources_checked": [],
+  "sources_checked": [
+    {
+      "name": "Ars Technica",
+      "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
+      "articles_found": 0
+    },
+    {
+      "name": "AnandTech",
+      "url": "https://www.anandtech.com/rss/",
+      "articles_found": 0
+    },
+    {
+      "name": "Wall Street Journal Tech",
+      "url": "https://feeds.a.dj.com/rss/RSSWSJD.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "Slashdot",
+      "url": "https://slashdot.org/rss/slashdot.rss",
+      "articles_found": 0
+    }
+  ],
   "articles": [
     {
-      "title": "Apple estaria provant quatre dissenys per a les seves futures ulleres intel·ligents",
-      "link_id": "c_7fa6db",
-      "source": "TechCrunch",
-      "date": "2026-04-12",
-      "time": "19:58",
-      "summary": "Apple explora diversos dissenys per a les seves ulleres intel·ligents, allunyant-se dels plans inicials de realitat mixta."
-    },
-    {
-      "title": "Rockstar Games, creador de GTA, pateix un nou hackeig però en minimitza l'impacte",
-      "link_id": "c_5dd32c",
-      "source": "BBC Technology",
-      "date": "2026-04-13",
-      "time": "11:55",
-      "summary": "Els creadors de GTA pateixen una nova filtració de dades, però asseguren que no afectarà els jugadors."
-    },
-    {
-      "title": "El nou plegable de Huawei s'assembla molt al rumorejat iPhone Fold d'Apple",
-      "link_id": "c_b2c653",
-      "source": "MacRumors",
-      "date": "2026-04-13",
-      "time": "04:40",
-      "summary": "El nou Pura X Max de Huawei s'avança a Apple i Samsung amb un disseny plegable més ample."
-    },
-    {
-      "title": "Anthropic porta el poder de la IA de Claude a Microsoft Word",
-      "link_id": "c_804fb3",
-      "source": "TechRadar",
-      "date": "2026-04-13",
-      "time": "11:15",
-      "summary": "La integració de Claude a Word permetrà revisar contractes i fer edicions amb control de canvis natiu."
-    },
-    {
-      "title": "Un filtrador dona suport al rumor del color vermell de l'iPhone 18 d'una manera peculiar",
-      "link_id": "c_147b08",
-      "source": "9to5Mac",
-      "date": "2026-04-13",
-      "time": "11:08",
-      "summary": "Els rumors apunten que el pròxim iPhone 18 Pro destacarà per un nou i exclusiu color vermell intens."
-    },
-    {
-      "title": "'Recuperar el control del nostre destí digital': França abandonarà Windows per Linux per reduir la dependència dels EUA",
-      "link_id": "c_aadab1",
-      "source": "TechRadar",
-      "date": "2026-04-13",
-      "time": "10:35",
-      "summary": "França substituirà Windows per Linux als seus equips governamentals per guanyar sobirania tecnològica davant dels Estats Units."
-    },
-    {
-      "title": "La previsualització de Claude Mythos ha espantat oficialment els britànics",
-      "link_id": "c_a9a3d9",
-      "source": "Gizmodo",
-      "date": "2026-04-13",
-      "time": "10:00",
-      "summary": "El nou model d'intel·ligència artificial d'Anthropic genera inquietud entre els reguladors britànics per les seves capacitats avançades."
-    },
-    {
-      "title": "El Mac mini i el Mac Studio s'esgoten: és la crisi de la memòria RAM o una actualització a M5?",
-      "link_id": "c_e8cb13",
-      "source": "The Next Web",
-      "date": "2026-04-12",
-      "time": "18:37",
-      "summary": "L'esgotament d'estoc d'aquests ordinadors d'Apple fa sospitar sobre una possible actualització imminent amb els nous xips M5."
-    },
-    {
-      "title": "YouTube Premium és l'únic servei de streaming que pot sortir-se amb la seva amb les pujades de preu",
-      "link_id": "c_efaa9c",
-      "source": "9to5Google",
-      "date": "2026-04-12",
-      "time": "16:00",
-      "summary": "La plataforma de vídeo apuja les tarifes de subscripció, sumant-se a l'encariment generalitzat dels serveis de streaming."
-    },
-    {
-      "title": "El gegant dels gimnasos Basic-Fit confirma el robatori de dades d'un milió de socis en un ciberatac",
-      "link_id": "c_20cded",
+      "title": "L'home sospitós d'atacar la casa de Sam Altman amb un còctel Molotov, acusat d'intent d'assassinat",
+      "link_id": "c_b380ae",
       "source": "The Register",
+      "date": "2026-04-14",
+      "time": "09:50",
+      "summary": "El jove de 20 anys també planejava suposadament matar tots els treballadors de l'edifici d'oficines d'OpenAI."
+    },
+    {
+      "title": "L'augment de preus de les Microsoft Surface, el darrer motiu per comprar un MacBook Neo",
+      "link_id": "c_3efd20",
+      "source": "9to5Mac",
+      "date": "2026-04-14",
+      "time": "11:36",
+      "summary": "La crisi de la memòria RAM ha provocat un increment de fins al 50% en els models de 13 polzades."
+    },
+    {
+      "title": "Roblox millora la seguretat infantil amb nous tipus de comptes que limiten el xat i l'accés als jocs",
+      "link_id": "c_3862bc",
+      "source": "Digital Trends",
       "date": "2026-04-13",
-      "time": "11:22",
-      "summary": "Un ciberatac exposa les dades bancàries i personals de centenars de milers d'usuaris d'aquesta cadena de gimnasos."
+      "time": "21:18",
+      "summary": "La plataforma segrega els usuaris menors de 16 anys en tres nivells obligatoris per evitar l'exposició a contingut inadequat."
+    },
+    {
+      "title": "Els pirates informàtics de Rockstar publiquen 78,6 milions de registres robats, però molts quedaran decebuts",
+      "link_id": "c_6d6ebf",
+      "source": "TechRadar",
+      "date": "2026-04-14",
+      "time": "10:20",
+      "summary": "El grup ShinyHunters ha filtrat dades obtingudes a través d'Anodot, tot i que no revelen grans secrets de GTA VI."
+    },
+    {
+      "title": "Meta estaria treballant en un model d'intel·ligència artificial de Mark Zuckerberg",
+      "link_id": "c_af0b07",
+      "source": "Engadget",
+      "date": "2026-04-14",
+      "time": "11:15",
+      "summary": "Aquest clon digital permetrà als empleats interactuar amb el conseller delegat i conèixer la seva visió estratègica de l'empresa."
+    },
+    {
+      "title": "L'informe anual d'IA de Stanford revela una bretxa creixent entre els experts i la resta de la societat",
+      "link_id": "c_5e120e",
+      "source": "The Next Web",
+      "date": "2026-04-14",
+      "time": "11:21",
+      "summary": "L'estudi destaca l'augment de l'ansietat pública i la pèrdua de llocs de treball entre els joves a causa de l'automatització."
+    },
+    {
+      "title": "Microsoft tanca definitivament l'aplicació Outlook Lite a causa de l'augment dels costos de memòria",
+      "link_id": "c_902392",
+      "source": "The Register",
+      "date": "2026-04-14",
+      "time": "08:43",
+      "summary": "La versió lleugera per a Android deixarà de funcionar el 25 de maig, obligant els usuaris a buscar alternatives."
+    },
+    {
+      "title": "El nou plegable de Huawei s'assembla al rumorejat iPhone Ultra, però Apple podria tenir una arma secreta",
+      "link_id": "c_3b28ee",
+      "source": "TechRadar",
+      "date": "2026-04-14",
+      "time": "10:36",
+      "summary": "El model Pura X Max adopta un format panoràmic inèdit, avançant-se al disseny que s'espera del futur telèfon d'Apple."
+    },
+    {
+      "title": "Booking.com confirma una filtració de dades de reserves i adverteix els clients sobre possibles accessos",
+      "link_id": "c_e57aa2",
+      "source": "TechRadar",
+      "date": "2026-04-14",
+      "time": "11:25",
+      "summary": "El gegant dels viatges alerta que els ciberdelinqüents podrien haver obtingut noms, correus electrònics i números de telèfon dels usuaris."
+    },
+    {
+      "title": "Meta integra el reconeixement facial a les seves ulleres i els grups de drets civils protesten",
+      "link_id": "c_757b8f",
+      "source": "Digital Trends",
+      "date": "2026-04-14",
+      "time": "10:05",
+      "summary": "Més de 70 organitzacions alerten que aquesta tecnologia podria empoderar assetjadors i posar en perill col·lectius vulnerables."
     }
   ]
 }
