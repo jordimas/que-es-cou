@@ -1,109 +1,88 @@
 {
-  "generated_at": "2026-04-14T13:49",
+  "generated_at": "2024-05-24T18:00",
   "id": "world",
   "title": "Notícies tecnològiques del món",
-  "sources_checked": [
-    {
-      "name": "Ars Technica",
-      "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
-      "articles_found": 0
-    },
-    {
-      "name": "AnandTech",
-      "url": "https://www.anandtech.com/rss/",
-      "articles_found": 0
-    },
-    {
-      "name": "Wall Street Journal Tech",
-      "url": "https://feeds.a.dj.com/rss/RSSWSJD.xml",
-      "articles_found": 0
-    },
-    {
-      "name": "Slashdot",
-      "url": "https://slashdot.org/rss/slashdot.rss",
-      "articles_found": 0
-    }
-  ],
+  "sources_checked": [],
   "articles": [
     {
-      "title": "L'home sospitós d'atacar la casa de Sam Altman amb un còctel Molotov, acusat d'intent d'assassinat",
-      "link_id": "c_b380ae",
-      "source": "The Register",
+      "title": "Amazon comprarà Globalstar per 11.570 milions de dòlars per impulsar el seu negoci de satèl·lits",
+      "link_id": "c_c04aea",
+      "source": "TechCrunch",
       "date": "2026-04-14",
-      "time": "09:50",
-      "summary": "El jove de 20 anys també planejava suposadament matar tots els treballadors de l'edifici d'oficines d'OpenAI."
+      "time": "13:55",
+      "summary": "L'adquisició permetrà a l'empresa competir directament amb Starlink i oferir connectivitat d'emergència als usuaris d'iPhone."
     },
     {
-      "title": "L'augment de preus de les Microsoft Surface, el darrer motiu per comprar un MacBook Neo",
-      "link_id": "c_3efd20",
-      "source": "9to5Mac",
+      "title": "Google afegeix \"Skills\" d'IA a Chrome per ajudar-te a desar els teus fluxos de treball preferits",
+      "link_id": "c_b60e3e",
+      "source": "TechCrunch",
       "date": "2026-04-14",
-      "time": "11:36",
-      "summary": "La crisi de la memòria RAM ha provocat un increment de fins al 50% en els models de 13 polzades."
+      "time": "17:00",
+      "summary": "Aquesta nova funció permetrà als usuaris emmagatzemar i reutilitzar indicacions de Gemini ràpidament a qualsevol lloc web."
     },
     {
-      "title": "Roblox millora la seguretat infantil amb nous tipus de comptes que limiten el xat i l'accés als jocs",
-      "link_id": "c_3862bc",
-      "source": "Digital Trends",
-      "date": "2026-04-13",
-      "time": "21:18",
-      "summary": "La plataforma segrega els usuaris menors de 16 anys en tres nivells obligatoris per evitar l'exposició a contingut inadequat."
-    },
-    {
-      "title": "Els pirates informàtics de Rockstar publiquen 78,6 milions de registres robats, però molts quedaran decebuts",
-      "link_id": "c_6d6ebf",
-      "source": "TechRadar",
+      "title": "La FCC acaba de salvar Netgear de la prohibició de routers sense cap motiu evident",
+      "link_id": "c_5d0dbc",
+      "source": "The Verge",
       "date": "2026-04-14",
-      "time": "10:20",
-      "summary": "El grup ShinyHunters ha filtrat dades obtingudes a través d'Anodot, tot i que no revelen grans secrets de GTA VI."
+      "time": "16:57",
+      "summary": "L'aprovació condicional atorga a la marca un monopoli temporal als Estats Units per vendre nous dispositius de xarxa."
     },
     {
-      "title": "Meta estaria treballant en un model d'intel·ligència artificial de Mark Zuckerberg",
-      "link_id": "c_af0b07",
+      "title": "Després del llançament de Mythos d'Anthropic, OpenAI presenta un nou model i estratègia de ciberseguretat",
+      "link_id": "c_4b59ef",
+      "source": "Wired",
+      "date": "2026-04-14",
+      "time": "20:00",
+      "summary": "La versió GPT-5.4-Cyber està dissenyada exclusivament per a la defensa digital i només s'oferirà a empreses de confiança."
+    },
+    {
+      "title": "Prime Video ofereix un paquet amb Apple TV Plus i Peacock per temps limitat",
+      "link_id": "c_9262a4",
+      "source": "The Verge",
+      "date": "2026-04-14",
+      "time": "14:31",
+      "summary": "Els subscriptors podran accedir a ambdues plataformes per només 20 dòlars mensuals, suposant un estalvi del trenta per cent."
+    },
+    {
+      "title": "Microsoft apuja els preus dels ordinadors Surface a causa de l'augment dels costos de la memòria RAM",
+      "link_id": "c_4f7557",
       "source": "Engadget",
       "date": "2026-04-14",
-      "time": "11:15",
-      "summary": "Aquest clon digital permetrà als empleats interactuar amb el conseller delegat i conèixer la seva visió estratègica de l'empresa."
+      "time": "18:16",
+      "summary": "Els models insígnia ara costen cinc-cents dòlars més que en el seu llançament, superant el preu dels Mac equivalents."
     },
     {
-      "title": "L'informe anual d'IA de Stanford revela una bretxa creixent entre els experts i la resta de la societat",
-      "link_id": "c_5e120e",
-      "source": "The Next Web",
+      "title": "La nova aplicació de Google per a Windows és una altra manera d'accedir a Gemini",
+      "link_id": "c_15c1d6",
+      "source": "Engadget",
       "date": "2026-04-14",
-      "time": "11:21",
-      "summary": "L'estudi destaca l'augment de l'ansietat pública i la pèrdua de llocs de treball entre els joves a causa de l'automatització."
+      "time": "21:40",
+      "summary": "L'eina funciona com un cercador flotant a l'escriptori, permetent trobar fitxers i informació ràpidament amb una drecera de teclat."
     },
     {
-      "title": "Microsoft tanca definitivament l'aplicació Outlook Lite a causa de l'augment dels costos de memòria",
-      "link_id": "c_902392",
-      "source": "The Register",
+      "title": "L'augment de preus de Samsung als EUA incrementa la preocupació pels costos dels dispositius d'Apple",
+      "link_id": "c_6f6a7e",
+      "source": "MacRumors",
       "date": "2026-04-14",
-      "time": "08:43",
-      "summary": "La versió lleugera per a Android deixarà de funcionar el 25 de maig, obligant els usuaris a buscar alternatives."
+      "time": "14:47",
+      "summary": "L'escassetat global de memòria ha provocat increments de fins a 280 dòlars en diversos telèfons i tauletes Galaxy."
     },
     {
-      "title": "El nou plegable de Huawei s'assembla al rumorejat iPhone Ultra, però Apple podria tenir una arma secreta",
-      "link_id": "c_3b28ee",
-      "source": "TechRadar",
+      "title": "Google porta la seva funció d'Intel·ligència Personal de Gemini a l'Índia",
+      "link_id": "c_fe1651",
+      "source": "TechCrunch",
       "date": "2026-04-14",
-      "time": "10:36",
-      "summary": "El model Pura X Max adopta un format panoràmic inèdit, avançant-se al disseny que s'espera del futur telèfon d'Apple."
+      "time": "14:48",
+      "summary": "L'expansió global permetrà a l'assistent connectar-se amb Gmail i Fotos per oferir respostes molt més personalitzades als usuaris."
     },
     {
-      "title": "Booking.com confirma una filtració de dades de reserves i adverteix els clients sobre possibles accessos",
-      "link_id": "c_e57aa2",
-      "source": "TechRadar",
+      "title": "El cercador de Google penalitzarà els llocs web que impedeixen sortir-ne en prémer el botó de retrocés",
+      "link_id": "c_ac82a0",
+      "source": "Engadget",
       "date": "2026-04-14",
-      "time": "11:25",
-      "summary": "El gegant dels viatges alerta que els ciberdelinqüents podrien haver obtingut noms, correus electrònics i números de telèfon dels usuaris."
-    },
-    {
-      "title": "Meta integra el reconeixement facial a les seves ulleres i els grups de drets civils protesten",
-      "link_id": "c_757b8f",
-      "source": "Digital Trends",
-      "date": "2026-04-14",
-      "time": "10:05",
-      "summary": "Més de 70 organitzacions alerten que aquesta tecnologia podria empoderar assetjadors i posar en perill col·lectius vulnerables."
+      "time": "14:33",
+      "summary": "Aquesta pràctica molesta es classificarà com a correu brossa, reduint dràsticament la visibilitat d'aquestes pàgines als resultats de cerca."
     }
   ]
 }

@@ -1,88 +1,88 @@
 {
-  "generated_at": "2024-05-24T18:50",
+  "generated_at": "2024-05-24T18:45",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Mythos i el risc de ciberseguretat al qual s'enfronten tots els estats",
-      "link_id": "c_d786ee",
+      "title": "El gegant dels xips ASML millora les previsions per al 2026 per la forta demanda d'IA",
+      "link_id": "c_2ad795",
+      "source": "CNBC Technology",
+      "date": "2026-04-15",
+      "time": "07:30",
+      "summary": "Els resultats del primer trimestre superen les expectatives, impulsant l'empresa a revisar a l'alça les seves vendes futures."
+    },
+    {
+      "title": "ASML millora les perspectives per al 2026 gràcies a l'auge dels xips d'IA",
+      "link_id": "c_24ad01",
+      "source": "Financial Times",
+      "date": "2026-04-15",
+      "time": "07:26",
+      "summary": "L'empresa més valuosa d'Europa confirma que els seus clients estan accelerant ràpidament els plans d'expansió tecnològica."
+    },
+    {
+      "title": "Amazon comprarà Globalstar per uns 11.600 milions de dòlars per reforçar el seu negoci de satèl·lits",
+      "link_id": "c_f210be",
+      "source": "CNBC Technology",
+      "date": "2026-04-14",
+      "time": "16:10",
+      "summary": "Aquesta adquisició estratègica permetrà a la companyia intensificar la competència directa amb la xarxa Starlink d'Elon Musk."
+    },
+    {
+      "title": "Amazon acorda la compra del grup de satèl·lits Globalstar per 11.600 milions de dòlars",
+      "link_id": "c_ddd8c3",
       "source": "Financial Times",
       "date": "2026-04-14",
-      "time": "04:00",
-      "summary": "L'arribada d'aquesta IA transforma l'escenari geopolític, obligant els governs a replantejar les seves estratègies de defensa digital immediatament."
+      "time": "12:56",
+      "summary": "L'operació consolida l'aposta del gegant tecnològic per dominar el mercat emergent de les comunicacions en òrbita terrestre baixa."
     },
     {
-      "title": "Powell i Bessent debaten l'amenaça cibernètica de la IA Mythos d'Anthropic amb els grans bancs dels EUA",
-      "link_id": "c_4189ac",
+      "title": "Les accions de Snap es disparen un 11% en anunciar l'acomiadament del 16% de la plantilla",
+      "link_id": "c_0d5e0c",
       "source": "CNBC Technology",
-      "date": "2026-04-13",
-      "time": "15:39",
-      "summary": "Les autoritats financeres alerten el sector bancari sobre possibles vulnerabilitats crítiques derivades d'aquest nou model d'intel·ligència artificial avançada."
+      "date": "2026-04-15",
+      "time": "11:09",
+      "summary": "L'empresa justifica aquesta dràstica reducció de personal per les noves eficiències operatives aconseguides gràcies a la intel·ligència artificial."
     },
     {
-      "title": "Els inversors d'OpenAI qüestionen la valoració de 852.000 milions de dòlars pel canvi d'estratègia",
-      "link_id": "c_a5e5aa",
+      "title": "S'acosta l'era dels directors generals virtuals",
+      "link_id": "c_64ec5e",
       "source": "Financial Times",
+      "date": "2026-04-15",
+      "time": "04:00",
+      "summary": "Diversos directius observen amb atenció la iniciativa de Meta de crear una rèplica d'intel·ligència artificial de Mark Zuckerberg."
+    },
+    {
+      "title": "Uber inverteix 10.000 milions de dòlars en robotaxis en un canvi d'estratègia",
+      "link_id": "c_06c770",
+      "source": "Financial Times",
+      "date": "2026-04-15",
+      "time": "04:00",
+      "summary": "La plataforma de transport busca recuperar el terreny perdut mitjançant inversions de capital i comandes massives de vehicles autònoms."
+    },
+    {
+      "title": "Meta acorda 1 gigawatt de xips personalitzats amb Broadcom mentre Hock Tan deixa el consell",
+      "link_id": "c_554231",
+      "source": "CNBC Technology",
+      "date": "2026-04-15",
+      "time": "01:11",
+      "summary": "Aquest pacte plurianual suposa un gran desplegament de processadors MTIA de disseny propi per potenciar la seva infraestructura."
+    },
+    {
+      "title": "La NAACP demanda xAI d'Elon Musk per la contaminació del seu centre de dades a Memphis",
+      "link_id": "c_503ceb",
+      "source": "CNBC Technology",
       "date": "2026-04-14",
-      "time": "04:00",
-      "summary": "La pressió competitiva d'Anthropic genera dubtes sobre la viabilitat financera i el rumb futur de l'empresa liderada per Altman."
+      "time": "23:12",
+      "summary": "L'organització de drets civils alerta sobre l'impacte ambiental d'aquesta macroinstal·lació clau per al desenvolupament tecnològic de l'empresa."
     },
     {
-      "title": "El sospitós de l'atac a la casa de Sam Altman pretenia matar el CEO d'OpenAI",
-      "link_id": "c_717298",
+      "title": "La plataforma de criptomonedes Kraken confirma que ha sol·licitat sortir a borsa de manera confidencial",
+      "link_id": "c_6a25ba",
       "source": "CNBC Technology",
-      "date": "2026-04-13",
-      "time": "23:27",
-      "summary": "L'atacant justificà l'intent d'assassinat com a mesura extrema per evitar l'extinció humana a mans de la IA."
-    },
-    {
-      "title": "Oracle es dispara gairebé un 13%, liderant la recuperació de les accions de programari",
-      "link_id": "c_c482bf",
-      "source": "CNBC Technology",
-      "date": "2026-04-13",
-      "time": "22:38",
-      "summary": "Aquest fort repunt borsari alleuja els temors recents dels inversors sobre l'impacte negatiu de la IA al sector."
-    },
-    {
-      "title": "Oracle amplia l'acord amb Bloom Energy dies després de rebre 400 milions en opcions sobre accions",
-      "link_id": "c_7b0663",
-      "source": "CNBC Technology",
-      "date": "2026-04-13",
-      "time": "22:32",
-      "summary": "L'aliança estratègica reforça la infraestructura energètica d'Oracle, impulsant el valor de mercat de Bloom Energy després de l'anunci."
-    },
-    {
-      "title": "Les accions d'Intel encadenen una ratxa històrica de 9 dies a l'alça, pujant un 58%",
-      "link_id": "c_b9ac92",
-      "source": "CNBC Technology",
-      "date": "2026-04-13",
-      "time": "20:09",
-      "summary": "Els nous contractes amb gegants tecnològics consoliden la recuperació del fabricant de xips i atreuen fort interès inversor."
-    },
-    {
-      "title": "Un furoner exposa una vulnerabilitat de Bain & Co un mes després del cas McKinsey",
-      "link_id": "c_4e9dd9",
-      "source": "Financial Times",
-      "date": "2026-04-13",
-      "time": "19:02",
-      "summary": "La filtració de credencials en codi públic evidencia greus deficiències de seguretat en les grans consultores globals."
-    },
-    {
-      "title": "A prova de robots: pot la propera generació mantenir-se un pas per davant de les màquines?",
-      "link_id": "c_fe3c7e",
-      "source": "Financial Times",
-      "date": "2026-04-13",
-      "time": "16:00",
-      "summary": "Els experts reclamen una transformació educativa urgent per evitar que la IA deixi obsoletes les futures carreres."
-    },
-    {
-      "title": "OpenAI destaca l'aliança amb Amazon i afirma que Microsoft ha limitat el seu abast",
-      "link_id": "c_10fa4c",
-      "source": "CNBC Technology",
-      "date": "2026-04-13",
-      "time": "15:40",
-      "summary": "La companyia busca diversificar socis tecnològics per guanyar independència i millorar l'accés directe als clients corporatius."
+      "date": "2026-04-14",
+      "time": "23:07",
+      "summary": "El co-conseller delegat Arjun Sethi ratifica els rumors sobre el pròxim debut de l'empresa als mercats financers nord-americans."
     }
   ]
 }

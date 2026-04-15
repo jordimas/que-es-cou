@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-04-14T14:00",
+  "generated_at": "2026-04-15T11:45",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
     {
       "name": "Ara.cat",
       "url": "https://www.ara.cat/rss/",
-      "articles_found": 7
+      "articles_found": 9
     },
     {
       "name": "El Periódico",
       "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
-      "articles_found": 3
+      "articles_found": 4
     },
     {
       "name": "RAC1",
       "url": "https://www.rac1.cat/rss/home.xml",
-      "articles_found": 0
+      "articles_found": 1
     },
     {
       "name": "La Vanguardia (en català)",
       "url": "https://www.lavanguardia.com/rss/encatala.xml",
-      "articles_found": 8
+      "articles_found": 9
     },
     {
       "name": "VilaWeb",
@@ -36,7 +36,7 @@
     {
       "name": "324.cat",
       "url": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0",
-      "articles_found": 2
+      "articles_found": 1
     },
     {
       "name": "Softcatalà",
@@ -46,12 +46,12 @@
     {
       "name": "El Nacional.cat",
       "url": "https://www.elnacional.cat/uploads/feeds/feed_ca.xml",
-      "articles_found": 9
+      "articles_found": 11
     },
     {
       "name": "El Mon.cat",
       "url": "https://www.elmon.cat/feed/",
-      "articles_found": 0
+      "articles_found": 1
     },
     {
       "name": "El Mon.cat Tecnologia",
@@ -71,12 +71,12 @@
     {
       "name": "El Punt Avui",
       "url": "https://www.elpuntavui.cat/barcelona.feed?type=rss",
-      "articles_found": 0
+      "articles_found": 2
     },
     {
       "name": "Segre",
       "url": "https://www.segre.com/ca/rss/home.xml",
-      "articles_found": 4
+      "articles_found": 3
     },
     {
       "name": "Regio7",
@@ -116,7 +116,7 @@
     {
       "name": "Cugat.cat",
       "url": "https://www.cugat.cat/feed/",
-      "articles_found": 1
+      "articles_found": 0
     },
     {
       "name": "CatalunyaPress",
@@ -166,12 +166,12 @@
     {
       "name": "Àpunt",
       "url": "https://www.apuntmedia.es/rss/",
-      "articles_found": 3
+      "articles_found": 1
     },
     {
       "name": "El Periòdic d'Ontinyent",
       "url": "https://www.elperiodicvalencia.com/?feed=rss2",
-      "articles_found": 0
+      "articles_found": 1
     },
     {
       "name": "Saó",
@@ -186,12 +186,12 @@
     {
       "name": "IB3 Notícies",
       "url": "https://ib3.org/feed/",
-      "articles_found": 0
+      "articles_found": 1
     },
     {
       "name": "Ara Balears",
       "url": "https://www.arabalears.cat/rss/",
-      "articles_found": 1
+      "articles_found": 2
     },
     {
       "name": "Manacor Comarcal",
@@ -206,7 +206,7 @@
     {
       "name": "Lúdica",
       "url": "https://ludica.cat/feed/",
-      "articles_found": 1
+      "articles_found": 0
     },
     {
       "name": "Accent Obert",
@@ -216,44 +216,44 @@
   ],
   "articles": [
     {
-      "title": "ChatGPT és la IA més utilitzada en les consultes de medicina familiar",
-      "link_id": "c_615397",
+      "title": "Catalunya accelera l’aposta pels centres de dades amb 26 projectes potencials i set pols territorials",
+      "link_id": "c_53b82f",
+      "source": "MetaData",
+      "date": "2026-04-14",
+      "time": "15:52",
+      "summary": "El Govern impulsa noves infraestructures per convertir el territori en un referent digital i de sobirania tecnològica."
+    },
+    {
+      "title": "La capital catalana que se salva de l'ERO de Glovo",
+      "link_id": "c_06bb20",
+      "source": "Segre",
+      "date": "2026-04-15",
+      "time": "12:49",
+      "summary": "L'expedient de regulació d'ocupació de la plataforma de repartiment preveu acomiadar 143 treballadors a Catalunya."
+    },
+    {
+      "title": "La missió Artemis II culmina amb èxit i obre la porta al retorn humà a la Lluna",
+      "link_id": "c_72bb4c",
+      "source": "MetaData",
+      "date": "2026-04-13",
+      "time": "08:34",
+      "summary": "La NASA completa el primer vol tripulat al voltant del satèl·lit en més de cinquanta anys."
+    },
+    {
+      "title": "La Comissió Europea presenta l’aplicació de verificació d’edat per a limitar l’accés dels menors a internet",
+      "link_id": "c_2fc611",
       "source": "VilaWeb",
-      "date": "2026-04-14",
-      "time": "09:42",
-      "summary": "La societat mèdica exigeix formació específica i avaluacions independents per integrar aquesta eina amb seguretat a la pràctica clínica."
+      "date": "2026-04-15",
+      "time": "10:23",
+      "summary": "El nou certificat digital funcionarà amb el DNI als dispositius per protegir els joves a la xarxa."
     },
     {
-      "title": "L’astrofísic Fernando Ballesteros avança que Artemis II és el pas previ per a tindre una base permanent a la Lluna",
-      "link_id": "c_2123f5",
-      "source": "Àpunt",
+      "title": "ChatGPT és la IA més utilitzada pels metges de família a les consultes",
+      "link_id": "c_0303f9",
+      "source": "La Vanguardia (en català)",
       "date": "2026-04-14",
-      "time": "09:12",
-      "summary": "L'èxit de la missió tripulada al voltant del satèl·lit reviu l'esperit d'exploració espacial i prepara futures colònies lunars."
-    },
-    {
-      "title": "Què has de fer si ets usuari de Basic-Fit i les teves dades s'han pogut filtrar",
-      "link_id": "c_8263c1",
-      "source": "El Nacional.cat",
-      "date": "2026-04-14",
-      "time": "12:41",
-      "summary": "Després del ciberatac a la cadena de gimnasos, els experts recomanen canviar contrasenyes i vigilar possibles fraus bancaris."
-    },
-    {
-      "title": "Una xarxa troncal d'infraestructures d'hidrogen",
-      "link_id": "c_4d37ad",
-      "source": "El Nacional.cat",
-      "date": "2026-04-14",
-      "time": "09:32",
-      "summary": "Enagás obre un procés participatiu a Catalunya per dissenyar el futur transport d'hidrogen verd amb el consens del territori."
-    },
-    {
-      "title": "Nous centres de dades a Catalunya: la Generalitat identifica fins a 26 projectes de núvol i IA per a la pròxima dècada",
-      "link_id": "c_ce2c3d",
-      "source": "El Periódico",
-      "date": "2026-04-14",
-      "time": "12:42",
-      "summary": "El Govern busca consolidar el territori com a pol tecnològic del sud d'Europa impulsant infraestructures clau per al sector."
+      "time": "04:24",
+      "summary": "Un estudi revela l'ús creixent d'aquesta eina a Catalunya, evidenciant la necessitat de més formació sanitària."
     },
     {
       "title": "Tres afectats per una explosió en un laboratori del centre tecnològic Eurecat de Manresa",
@@ -264,36 +264,36 @@
       "summary": "Una deflagració química obliga a evacuar l'edifici i deixa un ferit traslladat a l'hospital amb pronòstic menys greu."
     },
     {
-      "title": "La traducció automàtica per defecte a X, entre l'entrebanc i l'oportunitat per al català",
-      "link_id": "c_d34ca4",
+      "title": "«No hi haurà alleujament»: la febre de la IA desencadena l’«apocalipsi de la memòria informàtica» i dispara el preu de mòbils i ordinadors",
+      "link_id": "c_577a57",
+      "source": "El Periódico",
+      "date": "2026-04-15",
+      "time": "11:05",
+      "summary": "L'alta demanda de xips per a intel·ligència artificial encareix els dispositius electrònics de consum diari."
+    },
+    {
+      "title": "La Universitat de Lleida advoca per promoure la formació sanitària a través de beques en àrees rurals",
+      "link_id": "c_96d753",
+      "source": "Segre",
+      "date": "2026-04-15",
+      "time": "09:02",
+      "summary": "La iniciativa busca reduir la bretxa de serveis mèdics fora de les grans ciutats i incentivar la tecnologia."
+    },
+    {
+      "title": "Apps del son: l'efecte rebot d'obsessionar-se per dormir millor",
+      "link_id": "c_dec93a",
       "source": "324.cat",
-      "date": "2026-04-14",
-      "time": "06:50",
-      "summary": "Especialistes analitzen com la nova funció de l'antiga Twitter podria invisibilitzar la llengua o bé ampliar-ne l'abast internacional."
+      "date": "2026-04-15",
+      "time": "06:36",
+      "summary": "Monitoritzar el descans pot generar estrès i empitjorar la qualitat del son, especialment entre els joves."
     },
     {
-      "title": "El Govern crea IB Digital, un macroorganisme amb 400 professionals per impulsar la revolució tecnològica",
-      "link_id": "c_4ae901",
-      "source": "Ara Balears",
-      "date": "2026-04-13",
-      "time": "11:57",
-      "summary": "La nova Agència Balear centralitzarà la ciberseguretat i les telecomunicacions per modernitzar l'administració i fer-la més eficient."
-    },
-    {
-      "title": "Catalunya presenta a Brussel·les l’estratègia IA 2030 per liderar una intel·ligència artificial ètica a Europa",
-      "link_id": "c_d1996a",
-      "source": "MetaData",
-      "date": "2026-04-13",
-      "time": "15:11",
-      "summary": "L'executiu català defensa davant les institucions europees un model tecnològic centrat en els drets humans i la governança democràtica."
-    },
-    {
-      "title": "L’ocupació tecnològica ja supera el 9% a Catalunya, però continua fortament masculinitzada",
-      "link_id": "c_4cf4c9",
-      "source": "MetaData",
-      "date": "2026-04-13",
-      "time": "10:10",
-      "summary": "Tot i sumar més de cent mil nous llocs de treball en deu anys, les dones només representen el 35%."
+      "title": "Les empreses catalanes van mobilitzar 2.500 milions a través d'Acció el 2025",
+      "link_id": "c_1af93f",
+      "source": "Via Empresa",
+      "date": "2026-04-15",
+      "time": "09:33",
+      "summary": "L'agència pública va donar suport a milers de negocis, generant ocupació i fomentant la innovació tecnològica."
     }
   ]
 }
