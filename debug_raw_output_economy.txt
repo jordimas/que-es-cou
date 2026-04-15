@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-04-14T20:05",
+  "generated_at": "2024-05-24T18:30",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Amazon comprarà Globalstar per uns 11.600 milions de dòlars per reforçar el seu negoci de satèl·lits",
-      "link_id": "c_f210be",
-      "source": "CNBC Technology",
-      "date": "2026-04-14",
-      "time": "16:10",
-      "summary": "L'adquisició permetrà a l'empresa competir directament amb Starlink d'Elon Musk en el mercat d'internet espacial."
+      "title": "ASML millora les previsions per al 2026 per l'auge dels xips d'IA",
+      "link_id": "c_24ad01",
+      "source": "Financial Times",
+      "date": "2026-04-15",
+      "time": "07:26",
+      "summary": "L'empresa tecnològica europea preveu un creixement accelerat gràcies a la forta demanda de semiconductors per a intel·ligència artificial."
     },
     {
       "title": "Amazon acorda la compra del grup de satèl·lits Globalstar per 11.600 milions de dòlars",
@@ -18,71 +18,63 @@
       "source": "Financial Times",
       "date": "2026-04-14",
       "time": "12:56",
-      "summary": "Aquest moviment estratègic accelera el desenvolupament de la seva pròpia xarxa d'òrbita terrestre baixa contra SpaceX."
+      "summary": "Aquesta adquisició estratègica permetrà a la companyia intensificar la competència directa contra Starlink en el mercat d'internet per satèl·lit."
     },
     {
-      "title": "La fiscalia demana presó sense fiança per al sospitós de l'atac a Sam Altman",
+      "title": "S'acosta l'era dels chatbots per a directors executius",
+      "link_id": "c_64ec5e",
+      "source": "Financial Times",
+      "date": "2026-04-15",
+      "time": "04:00",
+      "summary": "La iniciativa de Meta de crear un avatar virtual del seu líder podria revolucionar la comunicació corporativa interna."
+    },
+    {
+      "title": "Uber inverteix 10.000 milions de dòlars en robotaxis en un canvi d'estratègia",
+      "link_id": "c_06c770",
+      "source": "Financial Times",
+      "date": "2026-04-15",
+      "time": "04:00",
+      "summary": "La plataforma de transport busca recuperar el lideratge tecnològic apostant fortament pels vehicles autònoms i noves aliances estratègiques."
+    },
+    {
+      "title": "Meta acorda 1 gigawatt de xips personalitzats amb Broadcom mentre Hock Tan deixa el consell",
+      "link_id": "c_554231",
+      "source": "CNBC Technology",
+      "date": "2026-04-15",
+      "time": "01:11",
+      "summary": "Aquest pacte plurianual reforça la infraestructura d'IA de Meta, tot i la sortida d'un directiu clau de Broadcom."
+    },
+    {
+      "title": "L'acusat d'atacar la casa d'Altman va patir una 'crisi de salut mental aguda', segons l'advocat",
       "link_id": "c_36d8d6",
       "source": "CNBC Technology",
-      "date": "2026-04-14",
-      "time": "17:30",
-      "summary": "L'acusat hauria llançat un còctel Molotov a la casa del conseller delegat i amenaçat la seu d'OpenAI."
+      "date": "2026-04-15",
+      "time": "00:50",
+      "summary": "La defensa argumenta problemes psiquiàtrics greus per justificar el llançament d'un còctel Molotov a la residència del líder d'OpenAI."
     },
     {
-      "title": "Oracle puja per segon dia i Bloom Energy es dispara un 23% per un acord energètic",
+      "title": "La NAACP demanda xAI d'Elon Musk per la contaminació del centre de dades de Memphis",
+      "link_id": "c_503ceb",
+      "source": "CNBC Technology",
+      "date": "2026-04-14",
+      "time": "23:12",
+      "summary": "L'organització pels drets civils denuncia l'impacte ambiental negatiu de les noves instal·lacions d'intel·ligència artificial sobre la comunitat local."
+    },
+    {
+      "title": "OpenAI llança un nou model de ciberseguretat per a un grup limitat de clients",
+      "link_id": "c_b5be52",
+      "source": "Financial Times",
+      "date": "2026-04-14",
+      "time": "22:30",
+      "summary": "El llançament de GPT-5.4-Cyber busca contrarestar els avenços d'Anthropic en la detecció automatitzada de vulnerabilitats de programari."
+    },
+    {
+      "title": "Oracle puja per segon dia i Bloom Energy es dispara un 22% per un acord energètic",
       "link_id": "c_41f0f8",
       "source": "CNBC Technology",
       "date": "2026-04-14",
-      "time": "16:32",
-      "summary": "L'ampliació del contracte per alimentar centres de dades d'intel·ligència artificial impulsa fortament les accions d'ambdues companyies."
-    },
-    {
-      "title": "Mythos i el risc de ciberseguretat al qual s'enfronten tots els estats",
-      "link_id": "c_d786ee",
-      "source": "Financial Times",
-      "date": "2026-04-14",
-      "time": "04:00",
-      "summary": "L'arribada d'aquesta intel·ligència artificial es compara amb la bomba atòmica, transformant completament l'amenaça tecnològica global."
-    },
-    {
-      "title": "Els inversors d'OpenAI qüestionen la valoració de 852.000 milions de dòlars pel canvi d'estratègia",
-      "link_id": "c_a5e5aa",
-      "source": "Financial Times",
-      "date": "2026-04-14",
-      "time": "04:00",
-      "summary": "Sam Altman reorienta l'empresa mentre el ràpid avanç d'Anthropic amenaça el seu lideratge en el sector."
-    },
-    {
-      "title": "El sospitós de l'atac a la casa de Sam Altman pretenia matar el CEO d'OpenAI",
-      "link_id": "c_717298",
-      "source": "CNBC Technology",
-      "date": "2026-04-13",
-      "time": "23:27",
-      "summary": "Un document confiscat per la policia revela que l'atacant volia evitar la suposada extinció de la humanitat."
-    },
-    {
-      "title": "Oracle es dispara gairebé un 13%, liderant la recuperació de les accions de programari",
-      "link_id": "c_c482bf",
-      "source": "CNBC Technology",
-      "date": "2026-04-13",
-      "time": "22:38",
-      "summary": "Aquest rebot alleuja les pèrdues acumulades durant l'any a causa dels temors sobre la disrupció tecnològica."
-    },
-    {
-      "title": "Oracle amplia l'acord amb Bloom Energy dies després de rebre 400 milions en opcions sobre accions",
-      "link_id": "c_7b0663",
-      "source": "CNBC Technology",
-      "date": "2026-04-13",
-      "time": "22:32",
-      "summary": "Aquesta aliança estratègica reforça la infraestructura energètica necessària per suportar la creixent demanda dels centres de dades."
-    },
-    {
-      "title": "Les accions d'Intel encadenen nou dies històrics de guanys, pujant un 58%",
-      "link_id": "c_b9ac92",
-      "source": "CNBC Technology",
-      "date": "2026-04-13",
-      "time": "20:09",
-      "summary": "Els recents acords amb Google i Elon Musk han disparat la confiança dels inversors en el fabricant."
+      "time": "20:17",
+      "summary": "L'ampliació de l'aliança per alimentar centres de dades d'IA impulsa fortament les accions d'ambdues companyies tecnològiques a la borsa."
     }
   ]
 }

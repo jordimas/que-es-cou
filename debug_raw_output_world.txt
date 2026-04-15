@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-04-14T20:01",
+  "generated_at": "2026-04-15T10:23",
   "id": "world",
   "title": "Notícies tecnològiques del món",
-  "sources_checked": [
-    {
-      "name": "Ars Technica",
-      "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
-      "articles_found": 0
-    },
-    {
-      "name": "AnandTech",
-      "url": "https://www.anandtech.com/rss/",
-      "articles_found": 0
-    },
-    {
-      "name": "Wall Street Journal Tech",
-      "url": "https://feeds.a.dj.com/rss/RSSWSJD.xml",
-      "articles_found": 0
-    },
-    {
-      "name": "Slashdot",
-      "url": "https://slashdot.org/rss/slashdot.rss",
-      "articles_found": 0
-    }
-  ],
+  "sources_checked": [],
   "articles": [
     {
       "title": "Amazon comprarà Globalstar per 11.570 milions de dòlars per impulsar el seu negoci de satèl·lits",
@@ -31,7 +10,7 @@
       "source": "TechCrunch",
       "date": "2026-04-14",
       "time": "13:55",
-      "summary": "L'adquisició permetrà a l'empresa competir amb Starlink i donarà suport a la funció d'emergència d'Apple."
+      "summary": "L'adquisició permetrà a l'empresa competir directament amb Starlink d'Elon Musk i millorar la connectivitat global."
     },
     {
       "title": "Google afegeix \"Skills\" d'IA a Chrome per ajudar-te a desar els teus fluxos de treball preferits",
@@ -39,71 +18,71 @@
       "source": "TechCrunch",
       "date": "2026-04-14",
       "time": "17:00",
-      "summary": "Aquesta nova funció permetrà als usuaris reutilitzar indicacions de Gemini ràpidament a qualsevol pàgina web que visitin."
+      "summary": "Aquesta nova funció permetrà als usuaris automatitzar tasques repetitives i optimitzar la productivitat diària al navegador."
     },
     {
-      "title": "El nou monitor OLED per a videojocs de 1440p de Sony sembla molt millor que el primer",
-      "link_id": "c_bcf336",
-      "source": "The Verge",
-      "date": "2026-04-14",
-      "time": "12:00",
-      "summary": "Aquest model de 27 polzades assoleix una freqüència d'actualització de 720 Hz, ideal per als jugadors d'esports electrònics més exigents."
-    },
-    {
-      "title": "L'augment de preu dels Microsoft Surface és el darrer motiu per comprar un MacBook Neo",
-      "link_id": "c_3efd20",
-      "source": "9to5Mac",
-      "date": "2026-04-14",
-      "time": "11:36",
-      "summary": "La crisi global de memòria RAM ha provocat un encariment de fins a 500 dòlars en els models insígnia."
-    },
-    {
-      "title": "Dos sospitosos han estat detinguts per presumptament disparar contra la casa de Sam Altman",
-      "link_id": "c_dfcf65",
-      "source": "Engadget",
-      "date": "2026-04-14",
-      "time": "06:06",
-      "summary": "Un jove de Texas també s'enfronta a càrrecs d'intent d'assassinat per llançar un còctel Molotov a la residència."
-    },
-    {
-      "title": "Les afirmacions sobre la IA Mythos d'Anthropic, qüestionades per experts en ciberseguretat",
-      "link_id": "c_d771a5",
-      "source": "Bloomberg Technology",
-      "date": "2026-04-14",
-      "time": "17:31",
-      "summary": "Tot i l'alarma governamental, algunes proves indiquen que models de codi obert més barats poden trobar les mateixes vulnerabilitats."
-    },
-    {
-      "title": "Les noves càmeres Mission 1 de GoPro tenen vídeo 8K i objectius intercanviables",
-      "link_id": "c_fc959f",
+      "title": "Després de Mythos d'Anthropic, OpenAI presenta un nou model i estratègia de ciberseguretat",
+      "link_id": "c_4b59ef",
       "source": "Wired",
       "date": "2026-04-14",
-      "time": "16:17",
-      "summary": "Aquesta línia professional millora el rendiment amb poca llum i busca competir directament amb els models de DJI."
+      "time": "20:00",
+      "summary": "La companyia llança GPT-5.4-Cyber, una eina dissenyada per a la defensa digital i disponible només per a usuaris de confiança."
     },
     {
-      "title": "DaVinci Resolve afegeix noves eines d'edició de fotos per competir amb Lightroom i Photoshop",
-      "link_id": "c_5e26db",
+      "title": "Microsoft apuja els preus dels ordinadors Surface a causa de l'augment dels costos de la memòria RAM",
+      "link_id": "c_4f7557",
+      "source": "Engadget",
+      "date": "2026-04-14",
+      "time": "18:16",
+      "summary": "Els models insígnia ara costen fins a cinc-cents dòlars més que en el seu llançament inicial."
+    },
+    {
+      "title": "El cofundador d'Anthropic confirma que l'empresa va informar l'administració Trump sobre Mythos",
+      "link_id": "c_a390f7",
+      "source": "TechCrunch",
+      "date": "2026-04-14",
+      "time": "18:09",
+      "summary": "Jack Clark va justificar la col·laboració amb el govern nord-americà malgrat les disputes legals vigents entre ambdues parts."
+    },
+    {
+      "title": "Els atacs a Sam Altman són un advertiment per al món de la intel·ligència artificial",
+      "link_id": "c_2ec6b1",
       "source": "The Verge",
       "date": "2026-04-14",
-      "time": "11:28",
-      "summary": "La versió 21 del programari inclou una pàgina dedicada a la fotografia i noves funcions d'intel·ligència artificial avançades."
+      "time": "14:04",
+      "summary": "L'acusat de llançar un còctel molotov a casa del directiu temia que aquesta tecnologia provoqués l'extinció humana."
     },
     {
-      "title": "Sony està desenvolupant una adaptació en pel·lícula d'animació de Bloodborne",
-      "link_id": "c_f52702",
+      "title": "La FCC salva Netgear de la prohibició de rúters sense cap motiu evident",
+      "link_id": "c_5d0dbc",
+      "source": "The Verge",
+      "date": "2026-04-14",
+      "time": "16:57",
+      "summary": "Aquesta exempció atorga a la marca un monopoli temporal al mercat nord-americà, malgrat fabricar els dispositius a l'estranger."
+    },
+    {
+      "title": "Samsung apuja els preus d'alguns Galaxy a mesura que augmenta la pressió dels costos",
+      "link_id": "c_95a73e",
+      "source": "CNET",
+      "date": "2026-04-14",
+      "time": "18:22",
+      "summary": "La decisió afecta gairebé dues dotzenes de telèfons i tauletes, reflectint la crisi global de components electrònics."
+    },
+    {
+      "title": "La nova aplicació de Google per a Windows és una altra manera d'accedir a Gemini",
+      "link_id": "c_15c1d6",
       "source": "Engadget",
       "date": "2026-04-14",
-      "time": "11:04",
-      "summary": "La cinta tindrà una qualificació per a adults i promet mantenir l'esperit violent i gràfic del videojoc original."
+      "time": "21:40",
+      "summary": "L'eina permet fer cerques ràpides a l'escriptori amb una drecera de teclat, integrant la intel·ligència artificial directament."
     },
     {
-      "title": "Desenes d'organitzacions adverteixen Meta que el reconeixement facial a les seves ulleres intel·ligents empoderaria els depredadors",
-      "link_id": "c_2cd310",
+      "title": "L'últim monitor Inzone de Sony presumeix d'un panell de 720 Hz per a jugadors competitius",
+      "link_id": "c_fc1864",
       "source": "Engadget",
-      "date": "2026-04-13",
-      "time": "18:50",
-      "summary": "Més de 70 grups de drets civils exigeixen aturar aquesta tecnologia per protegir víctimes d'abusos i minories vulnerables."
+      "date": "2026-04-14",
+      "time": "16:50",
+      "summary": "Aquest dispositiu d'alta gamma utilitza tecnologia OLED d'LG i està dissenyat específicament per als professionals dels esports electrònics."
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-04-14T18:05",
+  "generated_at": "2026-04-15T10:30",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [],
   "articles": [
     {
-      "title": "ChatGPT és la IA més utilitzada pels metges de família a les consultes",
-      "link_id": "c_0303f9",
-      "source": "La Vanguardia (en català)",
+      "title": "El Govern estableix set pols per instal·lar centres de dades a Catalunya",
+      "link_id": "c_75a6b8",
+      "source": "Ara.cat",
       "date": "2026-04-14",
-      "time": "04:24",
-      "summary": "Un estudi revela que els professionals d'atenció primària reclamen més formació per aprofitar aquesta eina tecnològica amb seguretat."
+      "time": "14:56",
+      "summary": "La Generalitat identifica 26 projectes potencials per assolir fins a 2.000 MW de potència en la pròxima dècada."
     },
     {
       "title": "Nous centres de dades a Catalunya: la Generalitat identifica fins a 26 projectes de núvol i IA per a la pròxima dècada",
@@ -18,47 +18,63 @@
       "source": "El Periódico",
       "date": "2026-04-14",
       "time": "12:42",
-      "summary": "El Govern busca consolidar el territori com a referent europeu en intel·ligència artificial mitjançant noves infraestructures privades."
+      "summary": "L'objectiu és convertir el territori en el principal focus d'intel·ligència artificial i infraestructures digitals del sud d'Europa."
     },
     {
-      "title": "Artemis 2, objectiu complert",
-      "link_id": "c_315fab",
+      "title": "ChatGPT és la IA més utilitzada pels metges de família a les consultes",
+      "link_id": "c_0303f9",
       "source": "La Vanguardia (en català)",
+      "date": "2026-04-14",
+      "time": "04:24",
+      "summary": "Un estudi publicat a 'The Lancet' revela la necessitat de més formació per als professionals de l'atenció primària."
+    },
+    {
+      "title": "Confirmat: el 80% de metges de família ja utilitzen ChatGPT a consulta",
+      "link_id": "c_3e791c",
+      "source": "Lleida Diari",
+      "date": "2026-04-14",
+      "time": "09:31",
+      "summary": "Una enquesta de la CAMFiC mostra la ràpida adopció d'aquesta eina d'intel·ligència artificial a les consultes mèdiques catalanes."
+    },
+    {
+      "title": "La missió Artemis II culmina amb èxit i obre la porta al retorn humà a la Lluna",
+      "link_id": "c_72bb4c",
+      "source": "MetaData",
       "date": "2026-04-13",
-      "time": "08:32",
-      "summary": "La càpsula Orion ha tornat a la Terra amb èxit, tancant una missió històrica d'observació lunar tripulada."
+      "time": "08:34",
+      "summary": "La NASA completa el primer vol tripulat al voltant del satèl·lit en més de cinquanta anys validant tecnologies clau."
     },
     {
-      "title": "Booking alerta d'un ciberatac amb accés a dades personals de clients",
-      "link_id": "c_75e941",
-      "source": "324.cat",
-      "date": "2026-04-14",
-      "time": "11:02",
-      "summary": "La plataforma turística pateix una bretxa de seguretat que exposa informació sensible, sumant-se a altres atacs recents a grans empreses."
-    },
-    {
-      "title": "La traducció automàtica per defecte a X, entre l'entrebanc i l'oportunitat per al català",
-      "link_id": "c_d34ca4",
-      "source": "324.cat",
-      "date": "2026-04-14",
-      "time": "06:50",
-      "summary": "Els experts analitzen com aquesta funció de la xarxa social pot influir en la visibilitat i l'ús de la llengua."
-    },
-    {
-      "title": "L'Hospital de Vic i la UVic desenvolupen un model d'IA per predir la durada de la lactància materna",
-      "link_id": "c_b806d8",
-      "source": "El Nacional.cat",
-      "date": "2026-04-14",
-      "time": "17:46",
-      "summary": "Aquest projecte innovador del servei de pediatria permetrà anticipar necessitats i oferir un suport més personalitzat a les mares."
-    },
-    {
-      "title": "Així són les ulleres intel·ligents que s’han utilitzat en diversos exàmens de conduir: la Guàrdia Civil avisa de les d’infraccions molt greus que es poden estar cometent",
-      "link_id": "c_bf07a9",
+      "title": "Tres afectats per una explosió en un laboratori del centre tecnològic Eurecat de Manresa",
+      "link_id": "c_605eeb",
       "source": "El Periódico",
       "date": "2026-04-13",
-      "time": "14:45",
-      "summary": "Les autoritats adverteixen sobre l'ús de dispositius ocults per fer trampes a les proves, la qual cosa comporta fortes sancions."
+      "time": "14:46",
+      "summary": "Una deflagració química obliga a evacuar l'edifici i deixa un ferit traslladat a l'Hospital Sant Joan de Déu."
+    },
+    {
+      "title": "La traducció automàtica per defecte a X obre un debat sobre el futur del català a les xarxes",
+      "link_id": "c_ca126b",
+      "source": "MetaData",
+      "date": "2026-04-15",
+      "time": "08:44",
+      "summary": "La nova funció d'intel·ligència artificial genera preocupació per la pèrdua de visibilitat de les llengües minoritzades a internet."
+    },
+    {
+      "title": "La nova balisa V-16, en evidència: augmenten els atropellaments i la mortalitat a les carreteres espanyoles",
+      "link_id": "c_c98a7e",
+      "source": "Ara.cat",
+      "date": "2026-04-12",
+      "time": "07:05",
+      "summary": "Tot i l'obligatorietat d'aquest sistema lluminós connectat a la DGT, les morts per atropellament assoleixen xifres rècord."
+    },
+    {
+      "title": "Apps del son: l'efecte rebot d'obsessionar-se per dormir millor",
+      "link_id": "c_dec93a",
+      "source": "324.cat",
+      "date": "2026-04-15",
+      "time": "06:36",
+      "summary": "Monitorar el descans pot generar estrès i empitjorar la qualitat del son en persones sanes, especialment entre els joves."
     },
     {
       "title": "Els centres educatius esclaten contra l'eina que substitueix el GestIB: \"Estam amb les mans damunt el cap\"",
@@ -66,23 +82,7 @@
       "source": "Ara Balears",
       "date": "2026-04-13",
       "time": "19:36",
-      "summary": "El nou programari de gestió escolar a les Balears genera caos i queixes per la seva ineficàcia i dependència externa."
-    },
-    {
-      "title": "Una recerca de la UOC vol evitar errors mèdics en pacients sords amb IA i llenguatge planer",
-      "link_id": "c_eb043e",
-      "source": "MetaData",
-      "date": "2026-04-10",
-      "time": "08:42",
-      "summary": "La iniciativa crearà eines de transcripció adaptades per millorar la comunicació sanitària i reduir els riscos per a aquest col·lectiu."
-    },
-    {
-      "title": "Per què Accenture tria Barcelona (i no altres ciutats)",
-      "link_id": "c_20b6c4",
-      "source": "Via Empresa",
-      "date": "2026-04-14",
-      "time": "04:55",
-      "summary": "La capital catalana acollirà un nou centre global d'intel·ligència artificial gràcies al seu ecosistema tecnològic i capacitat d'atreure talent."
+      "summary": "El nou programari Llull, basat en un model andalús, provoca greus problemes de gestió a les escoles balears."
     }
   ]
 }
