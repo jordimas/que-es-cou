@@ -5,12 +5,20 @@
   "sources_checked": [],
   "articles": [
     {
+      "title": "La connexió entre IA, política i tecnologia",
+      "link_id": "c_ec2e7e",
+      "source": "Mossega la poma",
+      "date": "2026-04-10",
+      "time": "08:18",
+      "summary": "Anàlisi de l'impacte ètic i social de la intel·ligència artificial amb experts de la Universitat Politècnica de Catalunya."
+    },
+    {
       "title": "L' Altra Ràdio - Condemna judicial a Meta i Google per causar addicció a les xarxes socials",
       "link_id": "c_a93f46",
       "source": "L'altra ràdio",
       "date": "2026-04-09",
       "time": "07:33",
-      "summary": "Àtia Cortés analitza la sentència històrica als EUA contra els gegants tecnològics pels danys psicològics causats a una jove."
+      "summary": "El Barcelona Supercomputing Center valora la sentència històrica contra els gegants tecnològics per fomentar l'addicció juvenil."
     },
     {
       "title": "L' Altra Ràdio - L'ONU i els drets de les dones a la societat i en el sector tecnològic",
@@ -18,7 +26,15 @@
       "source": "L'altra ràdio",
       "date": "2026-04-02",
       "time": "07:33",
-      "summary": "Karina Gibert detalla les iniciatives de les Nacions Unides per garantir la igualtat de gènere en l'àmbit digital."
+      "summary": "Karina Gibert detalla les accions de les Nacions Unides per protegir els drets femenins en l'àmbit tecnològic."
+    },
+    {
+      "title": "El gòTIC - Tenim una missió! del 15/4/2026",
+      "link_id": "c_8a5c6b",
+      "source": "El Gòtic",
+      "date": "2026-04-14",
+      "time": "16:29",
+      "summary": "L'Ajuntament de Tàrrega ofereix nous recursos i estratègies per resoldre els reptes actuals de la ciutadania digital."
     },
     {
       "title": "Col·lapse de flotes de robotaxis",
@@ -26,7 +42,7 @@
       "source": "Societat de la Informació",
       "date": "2026-04-14",
       "time": "12:28",
-      "summary": "Una fallada tècnica a Wuhan paralitza desenes de vehicles autònoms d'Apollo Go, obligant la policia a intervenir-hi."
+      "summary": "Una fallada tècnica a Wuhan paralitza desenes de vehicles autònoms d'Apollo Go, provocant un gran caos circulatori."
     },
     {
       "title": "Avui parlem d'urbanisme i dels cables de les façanes, amb Judith Urbano",
@@ -34,7 +50,7 @@
       "source": "Foc a Terra",
       "date": "2026-04-13",
       "time": "04:00",
-      "summary": "La historiadora Judith Urbano repassa els orígens urbanístics de Barcelona i l'impacte estètic del cablejat a les façanes."
+      "summary": "La doctora Judith Urbano repassa la història urbanística de Barcelona i l'origen del cablejat a les façanes."
     },
     {
       "title": "Tancat amb Claude",
@@ -42,7 +58,7 @@
       "source": "Foc a Terra",
       "date": "2026-04-06",
       "time": "04:00",
-      "summary": "Descobreix Factory Floor, una aplicació nativa per a macOS dissenyada per optimitzar el flux de treball amb Claude Code."
+      "summary": "Descobreix Factory Floor, una nova aplicació nativa per a macOS dissenyada per optimitzar el treball amb Claude Code."
     },
     {
       "title": "Eines d’IA per crear formació",
@@ -50,7 +66,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-04-14",
       "time": "00:00",
-      "summary": "L'equip educatiu de WordPress impulsa l'ús de la intel·ligència artificial per unificar i millorar els seus materials didàctics."
+      "summary": "Noves propostes de l'equip de formació per estandarditzar materials educatius sobre WordPress utilitzant intel·ligència artificial."
     },
     {
       "title": "No tenim pas res enllestit per a WordPress 7.0",
@@ -58,7 +74,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-04-07",
       "time": "00:00",
-      "summary": "El llançament de la nova versió s'endarrereix després que els desenvolupadors hagin decidit replantejar aspectes clau del projecte."
+      "summary": "El llançament de la nova versió s'endarrereix després de replantejar aspectes clau de les versions candidates."
     },
     {
       "title": "Capítol 62: Mitiga, invertir pensant en el risc climàtic",
@@ -66,7 +82,7 @@
       "source": "RAC&GO",
       "date": "2026-04-07",
       "time": "06:00",
-      "summary": "Àlex Martí presenta Mitiga, una solució tecnològica que orienta les empreses per avaluar l'impacte climàtic en les seves inversions."
+      "summary": "L'emprenedor Àlex Martí presenta Mitiga, una eina per ajudar les empreses a avaluar inversions segons el risc climàtic."
     }
   ]
 }

@@ -1,24 +1,32 @@
 {
-  "generated_at": "2026-04-15T10:30",
+  "generated_at": "2026-04-15T18:02",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [],
   "articles": [
     {
-      "title": "El Govern estableix set pols per instal·lar centres de dades a Catalunya",
-      "link_id": "c_75a6b8",
+      "title": "Brussel·les vol que les empreses estableixin un dia de teletreball obligatori per la crisi energètica",
+      "link_id": "c_9e7a57",
       "source": "Ara.cat",
-      "date": "2026-04-14",
-      "time": "14:56",
-      "summary": "La Generalitat identifica 26 projectes potencials per assolir fins a 2.000 MW de potència en la pròxima dècada."
+      "date": "2026-04-15",
+      "time": "15:29",
+      "summary": "La mesura busca reduir el consum de combustible i inclouria rebaixes en el transport públic per a certs col·lectius."
     },
     {
-      "title": "Nous centres de dades a Catalunya: la Generalitat identifica fins a 26 projectes de núvol i IA per a la pròxima dècada",
-      "link_id": "c_ce2c3d",
-      "source": "El Periódico",
-      "date": "2026-04-14",
-      "time": "12:42",
-      "summary": "L'objectiu és convertir el territori en el principal focus d'intel·ligència artificial i infraestructures digitals del sud d'Europa."
+      "title": "Brussel·les impulsa una app de verificació d’edat per restringir l’accés dels menors a internet a la UE",
+      "link_id": "c_11b5d2",
+      "source": "MetaData",
+      "date": "2026-04-15",
+      "time": "16:37",
+      "summary": "Aquesta eina de codi obert es vincularà al DNI o passaport sense revelar dades personals dels usuaris."
+    },
+    {
+      "title": "L'ERO de Glovo afectarà 143 treballadors a Catalunya, un 19% del total de l'Estat",
+      "link_id": "c_ee7e08",
+      "source": "Via Empresa",
+      "date": "2026-04-15",
+      "time": "12:24",
+      "summary": "L'expedient de regulació d'ocupació impactarà principalment repartidors de les demarcacions de Barcelona, Tarragona i Girona."
     },
     {
       "title": "ChatGPT és la IA més utilitzada pels metges de família a les consultes",
@@ -26,15 +34,31 @@
       "source": "La Vanguardia (en català)",
       "date": "2026-04-14",
       "time": "04:24",
-      "summary": "Un estudi publicat a 'The Lancet' revela la necessitat de més formació per als professionals de l'atenció primària."
+      "summary": "Els professionals sanitaris reclamen més formació per aprofitar aquesta eina en la recerca i la redacció de textos clínics."
     },
     {
-      "title": "Confirmat: el 80% de metges de família ja utilitzen ChatGPT a consulta",
-      "link_id": "c_3e791c",
-      "source": "Lleida Diari",
+      "title": "Nous centres de dades a Catalunya: la Generalitat identifica fins a 26 projectes de núvol i IA per a la pròxima dècada",
+      "link_id": "c_ce2c3d",
+      "source": "El Periódico",
       "date": "2026-04-14",
-      "time": "09:31",
-      "summary": "Una enquesta de la CAMFiC mostra la ràpida adopció d'aquesta eina d'intel·ligència artificial a les consultes mèdiques catalanes."
+      "time": "12:42",
+      "summary": "El Govern pretén consolidar el territori com el principal pol d'intel·ligència artificial i infraestructures digitals del sud d'Europa."
+    },
+    {
+      "title": "Els programadors espiats amb Pegasus i Candiru entreguen els seus dispositius al jutjat per al peritatge",
+      "link_id": "c_8e33c0",
+      "source": "El Nacional.cat",
+      "date": "2026-04-15",
+      "time": "09:32",
+      "summary": "Cinc empresaris tecnològics aporten els seus telèfons i discos durs als Mossos d'Esquadra per avançar en la investigació."
+    },
+    {
+      "title": "Guerra sense soldats: Ucraïna recupera una posició només amb drons i robots",
+      "link_id": "c_c9be33",
+      "source": "Ara.cat",
+      "date": "2026-04-14",
+      "time": "12:27",
+      "summary": "L'exèrcit ucraïnès aconsegueix foragitar les tropes russes utilitzant exclusivament vehicles no tripulats, evitant així exposar vides humanes."
     },
     {
       "title": "La missió Artemis II culmina amb èxit i obre la porta al retorn humà a la Lluna",
@@ -42,7 +66,15 @@
       "source": "MetaData",
       "date": "2026-04-13",
       "time": "08:34",
-      "summary": "La NASA completa el primer vol tripulat al voltant del satèl·lit en més de cinquanta anys validant tecnologies clau."
+      "summary": "La NASA completa el primer vol tripulat al voltant del satèl·lit en mig segle, validant tecnologies clau."
+    },
+    {
+      "title": "El diari alemany 'Die Zeit' permet trobar avantpassats nazis en qüestió de segons",
+      "link_id": "c_ceff87",
+      "source": "Ara.cat",
+      "date": "2026-04-15",
+      "time": "08:54",
+      "summary": "Un nou cercador en línia creua dades d'arxius històrics per revelar afiliacions al règim d'Adolf Hitler."
     },
     {
       "title": "Tres afectats per una explosió en un laboratori del centre tecnològic Eurecat de Manresa",
@@ -50,39 +82,7 @@
       "source": "El Periódico",
       "date": "2026-04-13",
       "time": "14:46",
-      "summary": "Una deflagració química obliga a evacuar l'edifici i deixa un ferit traslladat a l'Hospital Sant Joan de Déu."
-    },
-    {
-      "title": "La traducció automàtica per defecte a X obre un debat sobre el futur del català a les xarxes",
-      "link_id": "c_ca126b",
-      "source": "MetaData",
-      "date": "2026-04-15",
-      "time": "08:44",
-      "summary": "La nova funció d'intel·ligència artificial genera preocupació per la pèrdua de visibilitat de les llengües minoritzades a internet."
-    },
-    {
-      "title": "La nova balisa V-16, en evidència: augmenten els atropellaments i la mortalitat a les carreteres espanyoles",
-      "link_id": "c_c98a7e",
-      "source": "Ara.cat",
-      "date": "2026-04-12",
-      "time": "07:05",
-      "summary": "Tot i l'obligatorietat d'aquest sistema lluminós connectat a la DGT, les morts per atropellament assoleixen xifres rècord."
-    },
-    {
-      "title": "Apps del son: l'efecte rebot d'obsessionar-se per dormir millor",
-      "link_id": "c_dec93a",
-      "source": "324.cat",
-      "date": "2026-04-15",
-      "time": "06:36",
-      "summary": "Monitorar el descans pot generar estrès i empitjorar la qualitat del son en persones sanes, especialment entre els joves."
-    },
-    {
-      "title": "Els centres educatius esclaten contra l'eina que substitueix el GestIB: \"Estam amb les mans damunt el cap\"",
-      "link_id": "c_8340dc",
-      "source": "Ara Balears",
-      "date": "2026-04-13",
-      "time": "19:36",
-      "summary": "El nou programari Llull, basat en un model andalús, provoca greus problemes de gestió a les escoles balears."
+      "summary": "Una deflagració química ha obligat a evacuar l'edifici i ha deixat un ferit traslladat a l'hospital."
     }
   ]
 }

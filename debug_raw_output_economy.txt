@@ -1,80 +1,88 @@
 {
-  "generated_at": "2024-05-24T18:30",
+  "generated_at": "2026-04-15T20:05",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "ASML millora les previsions per al 2026 per l'auge dels xips d'IA",
+      "title": "Les accions d'ASML cauen per les restriccions a la Xina malgrat els bons resultats",
+      "link_id": "c_2ad795",
+      "source": "CNBC Technology",
+      "date": "2026-04-15",
+      "time": "17:37",
+      "summary": "La caiguda d'un 5% reflecteix la preocupació del mercat per les limitacions d'exportació, ignorant les previsions optimistes."
+    },
+    {
+      "title": "Allbirds fa un gir sorprenent de les sabates a la IA i les accions es disparen un 700%",
+      "link_id": "c_87afe8",
+      "source": "CNBC Technology",
+      "date": "2026-04-15",
+      "time": "17:14",
+      "summary": "La marca ven els seus actius per 39 milions de dòlars per reinventar-se en el sector tecnològic."
+    },
+    {
+      "title": "Allbirds es converteix en un proveïdor de computació d'IA, com era d'esperar",
+      "link_id": "c_fe95a2",
+      "source": "Financial Times",
+      "date": "2026-04-15",
+      "time": "13:05",
+      "summary": "El canvi radical d'estratègia de l'empresa de calçat busca aprofitar l'auge de la intel·ligència artificial per sobreviure."
+    },
+    {
+      "title": "ASML millora les previsions per al 2026 gràcies a l'auge dels xips d'IA",
       "link_id": "c_24ad01",
       "source": "Financial Times",
       "date": "2026-04-15",
       "time": "07:26",
-      "summary": "L'empresa tecnològica europea preveu un creixement accelerat gràcies a la forta demanda de semiconductors per a intel·ligència artificial."
+      "summary": "L'empresa europea més valuosa accelera els seus plans d'expansió impulsada per la forta demanda tecnològica global."
     },
     {
-      "title": "Amazon acorda la compra del grup de satèl·lits Globalstar per 11.600 milions de dòlars",
-      "link_id": "c_ddd8c3",
-      "source": "Financial Times",
-      "date": "2026-04-14",
-      "time": "12:56",
-      "summary": "Aquesta adquisició estratègica permetrà a la companyia intensificar la competència directa contra Starlink en el mercat d'internet per satèl·lit."
-    },
-    {
-      "title": "S'acosta l'era dels chatbots per a directors executius",
-      "link_id": "c_64ec5e",
-      "source": "Financial Times",
-      "date": "2026-04-15",
-      "time": "04:00",
-      "summary": "La iniciativa de Meta de crear un avatar virtual del seu líder podria revolucionar la comunicació corporativa interna."
-    },
-    {
-      "title": "Uber inverteix 10.000 milions de dòlars en robotaxis en un canvi d'estratègia",
-      "link_id": "c_06c770",
-      "source": "Financial Times",
-      "date": "2026-04-15",
-      "time": "04:00",
-      "summary": "La plataforma de transport busca recuperar el lideratge tecnològic apostant fortament pels vehicles autònoms i noves aliances estratègiques."
-    },
-    {
-      "title": "Meta acorda 1 gigawatt de xips personalitzats amb Broadcom mentre Hock Tan deixa el consell",
-      "link_id": "c_554231",
+      "title": "Les accions de Tesla pugen mentre Elon Musk destaca els avenços en xips",
+      "link_id": "c_b9b6d6",
       "source": "CNBC Technology",
       "date": "2026-04-15",
-      "time": "01:11",
-      "summary": "Aquest pacte plurianual reforça la infraestructura d'IA de Meta, tot i la sortida d'un directiu clau de Broadcom."
+      "time": "18:01",
+      "summary": "Els analistes de UBS milloren la qualificació de l'empresa després de les prometedores declaracions sobre els nous semiconductors."
     },
     {
-      "title": "L'acusat d'atacar la casa d'Altman va patir una 'crisi de salut mental aguda', segons l'advocat",
-      "link_id": "c_36d8d6",
+      "title": "Els productes d'Anthropic tornen a estar operatius després d'una breu interrupció",
+      "link_id": "c_1cb2e5",
       "source": "CNBC Technology",
       "date": "2026-04-15",
-      "time": "00:50",
-      "summary": "La defensa argumenta problemes psiquiàtrics greus per justificar el llançament d'un còctel Molotov a la residència del líder d'OpenAI."
+      "time": "17:57",
+      "summary": "L'empresa ha resolt ràpidament els problemes tècnics que afectaven el xatbot Claude i la seva API."
     },
     {
-      "title": "La NAACP demanda xAI d'Elon Musk per la contaminació del centre de dades de Memphis",
-      "link_id": "c_503ceb",
+      "title": "Starbucks llança una aplicació beta a ChatGPT per descobrir noves begudes",
+      "link_id": "c_4049fa",
       "source": "CNBC Technology",
-      "date": "2026-04-14",
-      "time": "23:12",
-      "summary": "L'organització pels drets civils denuncia l'impacte ambiental negatiu de les noves instal·lacions d'intel·ligència artificial sobre la comunitat local."
+      "date": "2026-04-15",
+      "time": "17:17",
+      "summary": "La cadena de cafeteries busca atreure de nou els clients nord-americans mitjançant recomanacions personalitzades amb intel·ligència artificial."
     },
     {
-      "title": "OpenAI llança un nou model de ciberseguretat per a un grup limitat de clients",
-      "link_id": "c_b5be52",
-      "source": "Financial Times",
-      "date": "2026-04-14",
-      "time": "22:30",
-      "summary": "El llançament de GPT-5.4-Cyber busca contrarestar els avenços d'Anthropic en la detecció automatitzada de vulnerabilitats de programari."
-    },
-    {
-      "title": "Oracle puja per segon dia i Bloom Energy es dispara un 22% per un acord energètic",
-      "link_id": "c_41f0f8",
+      "title": "Les accions de Snap pugen en anunciar l'acomiadament del 16% de la plantilla per l'eficiència de la IA",
+      "link_id": "c_0d5e0c",
       "source": "CNBC Technology",
-      "date": "2026-04-14",
-      "time": "20:17",
-      "summary": "L'ampliació de l'aliança per alimentar centres de dades d'IA impulsa fortament les accions d'ambdues companyies tecnològiques a la borsa."
+      "date": "2026-04-15",
+      "time": "16:43",
+      "summary": "La xarxa social retalla personal a nivell global confiant en l'automatització per mantenir la seva rendibilitat."
+    },
+    {
+      "title": "AMD, Qualcomm i Arm inverteixen en la startup de cotxes autònoms Wayve",
+      "link_id": "c_4811ad",
+      "source": "CNBC Technology",
+      "date": "2026-04-15",
+      "time": "13:00",
+      "summary": "Aquests gegants dels semiconductors s'uneixen a Nvidia per impulsar la tecnologia de conducció autònoma independent del maquinari."
+    },
+    {
+      "title": "OpenAI es retira de l'acord del centre de dades Stargate a Noruega i Microsoft n'assumeix el control",
+      "link_id": "c_9d774e",
+      "source": "CNBC Technology",
+      "date": "2026-04-15",
+      "time": "12:29",
+      "summary": "La startup d'IA negocia ara amb Microsoft per llogar capacitat de computació en lloc de construir infraestructures pròpies."
     }
   ]
 }
