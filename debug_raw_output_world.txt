@@ -1,109 +1,88 @@
 {
-  "generated_at": "2026-04-16T10:23",
+  "generated_at": "2026-04-16T20:05",
   "id": "world",
   "title": "Notícies tecnològiques del món",
-  "sources_checked": [
-    {
-      "name": "Ars Technica",
-      "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
-      "articles_found": 0
-    },
-    {
-      "name": "AnandTech",
-      "url": "https://www.anandtech.com/rss/",
-      "articles_found": 0
-    },
-    {
-      "name": "Wall Street Journal Tech",
-      "url": "https://feeds.a.dj.com/rss/RSSWSJD.xml",
-      "articles_found": 0
-    },
-    {
-      "name": "Slashdot",
-      "url": "https://slashdot.org/rss/slashdot.rss",
-      "articles_found": 0
-    }
-  ],
+  "sources_checked": [],
   "articles": [
     {
-      "title": "Google llança una aplicació nativa de Gemini per a Mac",
-      "link_id": "c_e184b7",
-      "source": "TechCrunch",
-      "date": "2026-04-15",
-      "time": "18:22",
-      "summary": "L'assistent d'intel·ligència artificial s'integra a macOS amb dreceres de teclat per facilitar l'accés ràpid a les seves funcions."
-    },
-    {
-      "title": "Després de vendre el seu negoci de sabates, Allbirds fa un gir cap a la IA",
-      "link_id": "c_e5ad85",
-      "source": "TechCrunch",
-      "date": "2026-04-15",
-      "time": "14:24",
-      "summary": "La coneguda marca de calçat es reinventa sorprenentment com a proveïdor d'infraestructura d'intel·ligència artificial sota el nom NewBird AI."
-    },
-    {
-      "title": "Nothing elimina la seva aplicació Warp, similar a AirDrop, hores després de llançar-la",
-      "link_id": "c_450e65",
-      "source": "9to5Google",
+      "title": "Anthropic llança Claude Opus 4.7 i recupera per poc el lideratge dels models d'IA",
+      "link_id": "c_7ac65d",
+      "source": "VentureBeat",
       "date": "2026-04-16",
-      "time": "01:50",
-      "summary": "L'eina per transferir fitxers mitjançant Google Drive ha desaparegut misteriosament de les botigues d'aplicacions sense cap explicació oficial."
+      "time": "16:17",
+      "summary": "Destaca en tasques de programació, mentre que el seu successor més potent, Mythos, continua restringit per motius de seguretat."
     },
     {
-      "title": "YouTube ara permet desactivar els Shorts",
-      "link_id": "c_e80455",
-      "source": "The Verge",
-      "date": "2026-04-15",
-      "time": "18:18",
-      "summary": "Els usuaris poden establir un límit de zero minuts per eliminar completament aquests vídeos curts de la seva interfície."
-    },
-    {
-      "title": "Un descompte de Google One rebaixa un 50% YouTube Premium durant un any",
-      "link_id": "c_aabacb",
-      "source": "9to5Mac",
-      "date": "2026-04-15",
-      "time": "23:20",
-      "summary": "Aquesta promoció temporal busca incentivar les subscripcions als plans d'intel·ligència artificial de la companyia oferint entreteniment sense anuncis."
-    },
-    {
-      "title": "Microsoft contraataca el MacBook Neo amb regals per a estudiants",
-      "link_id": "c_1a98c1",
-      "source": "The Verge",
-      "date": "2026-04-15",
-      "time": "14:03",
-      "summary": "Per frenar l'èxit d'Apple, l'empresa ofereix subscripcions gratuïtes a Microsoft 365 i Xbox Game Pass en comprar ordinadors seleccionats."
-    },
-    {
-      "title": "Un moment, encara podrien dissoldre Live Nation?",
-      "link_id": "c_147ab3",
+      "title": "L'assistent d'IA de Canva ara pot utilitzar diverses eines per crear dissenys automàticament",
+      "link_id": "c_7b08eb",
       "source": "TechCrunch",
-      "date": "2026-04-15",
-      "time": "21:38",
-      "summary": "El veredicte d'un jurat federal que els declara monopoli il·legal obre la porta a possibles mesures antimonopoli més severes."
-    },
-    {
-      "title": "El nou Fire TV Stick HD d'Amazon és més prim que mai i no té adaptador de corrent",
-      "link_id": "c_73d697",
-      "source": "Engadget",
-      "date": "2026-04-15",
+      "date": "2026-04-16",
       "time": "13:00",
-      "summary": "Aquest dispositiu assequible s'alimenta directament del port USB del televisor, simplificant la instal·lació i reduint l'embolic de cables."
+      "summary": "La versió 2.0 permet generar projectes editables mitjançant converses, deixant enrere la dependència exclusiva de les plantilles tradicionals."
     },
     {
-      "title": "Per què Netgear acaba d'obtenir la primera exempció a la prohibició de rúters de la FCC als EUA",
-      "link_id": "c_e0091e",
+      "title": "L'aplicació d'escriptori Codex d'OpenAI ja pot controlar el teu ordinador i inclou navegador propi",
+      "link_id": "c_4acae0",
       "source": "ZDNet",
-      "date": "2026-04-15",
-      "time": "16:58",
-      "summary": "Aquesta aprovació condicional atorga a la marca un monopoli temporal en la venda de nous dispositius de xarxa."
+      "date": "2026-04-16",
+      "time": "17:01",
+      "summary": "L'eina evoluciona cap a una superaplicació capaç d'automatitzar fluxos de treball i recordar preferències en diferents programes."
     },
     {
-      "title": "L'assistent d'IA Firefly d'Adobe funciona a Photoshop, Premiere i altres aplicacions",
-      "link_id": "c_2f7cc8",
+      "title": "Google permet explorar la web en pantalla dividida amb el seu mode d'IA",
+      "link_id": "c_ead422",
+      "source": "TechCrunch",
+      "date": "2026-04-16",
+      "time": "17:00",
+      "summary": "Aquesta actualització de Chrome busca reduir el canvi constant de pestanyes mantenint el xat actiu al costat de les fonts."
+    },
+    {
+      "title": "Meta apuja el preu dels visors Quest a causa de l'escassetat de memòria RAM impulsada per la IA",
+      "link_id": "c_0769fb",
+      "source": "Tom's Hardware",
+      "date": "2026-04-16",
+      "time": "16:45",
+      "summary": "L'enorme demanda de xips per als centres de dades d'IA encareix directament el maquinari de realitat virtual per als consumidors."
+    },
+    {
+      "title": "Google dota Gemini d'una generació d'imatges que coneix la teva vida",
+      "link_id": "c_087c9c",
+      "source": "The Next Web",
+      "date": "2026-04-16",
+      "time": "16:33",
+      "summary": "Utilitza dades personals de Gmail i Fotos per crear il·lustracions altament personalitzades sense necessitat d'instruccions detallades."
+    },
+    {
+      "title": "Per fi! YouTube ja permet desactivar els Shorts amb un truc enginyós",
+      "link_id": "c_bdb39f",
+      "source": "Android Authority",
+      "date": "2026-04-16",
+      "time": "10:07",
+      "summary": "Els usuaris poden establir un límit de zero minuts per amagar completament els vídeos curts i evitar l'addicció."
+    },
+    {
+      "title": "Arriben els processadors Intel Core Series 3 prometent més rendiment per menys diners",
+      "link_id": "c_caa954",
+      "source": "Digital Trends",
+      "date": "2026-04-16",
+      "time": "17:38",
+      "summary": "Coneguts com a Wildcat Lake, aquests xips porten capacitats avançades d'IA i millor bateria als portàtils més assequibles."
+    },
+    {
+      "title": "Apple i Google estarien dirigint els usuaris cap a aplicacions per despullar amb IA",
+      "link_id": "c_90f08b",
       "source": "Engadget",
-      "date": "2026-04-15",
-      "time": "13:00",
-      "summary": "L'eina permet automatitzar fluxos de treball complexos entre diferents programes creatius utilitzant només instruccions de text senzilles."
+      "date": "2026-04-16",
+      "time": "07:45",
+      "summary": "Malgrat les polítiques estrictes, els algorismes i anuncis promocionen eines explícites, algunes fins i tot classificades per a menors."
+    },
+    {
+      "title": "L'extracció de 300 TB de dades de Spotify es converteix en una multa de 300 milions",
+      "link_id": "c_e4a60b",
+      "source": "Android Authority",
+      "date": "2026-04-16",
+      "time": "18:04",
+      "summary": "Anna's Archive rep una condemna històrica per descarregar il·legalment 86 milions de cançons, establint un precedent per a la IA."
     }
   ]
 }

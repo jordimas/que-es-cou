@@ -1,88 +1,88 @@
 {
-  "generated_at": "2024-05-21T16:00",
+  "generated_at": "2024-05-24T16:30",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "El benefici de TSMC creix un 58% al primer trimestre superant les previsions per la IA",
+      "title": "Els moviments borsaris de TSMC i ASML podrien anticipar el futur de les empreses de xips",
+      "link_id": "c_7302f8",
+      "source": "CNBC Technology",
+      "date": "2026-04-16",
+      "time": "18:03",
+      "summary": "Malgrat els bons resultats, la manca d'impuls borsari suggereix possibles reptes per a tota la indústria dels semiconductors."
+    },
+    {
+      "title": "Les empreses britàniques \"s'haurien de preocupar\" per l'últim model d'IA d'Anthropic, segons un ministre",
+      "link_id": "c_d8b24b",
+      "source": "Financial Times",
+      "date": "2026-04-16",
+      "time": "17:30",
+      "summary": "El govern llança una unitat de 500 milions de lliures per aprofitar les oportunitats tecnològiques davant aquests avenços."
+    },
+    {
+      "title": "L'ensurt cibernètic de Mythos assenyala l'economia de l'escassetat de la IA",
+      "link_id": "c_42369f",
+      "source": "Financial Times",
+      "date": "2026-04-16",
+      "time": "17:05",
+      "summary": "L'accés a models avançats esdevindrà crucial, generant un avantatge competitiu decisiu per a qui domini aquesta tecnologia capdavantera."
+    },
+    {
+      "title": "La intel·ligència artificial té un greu problema d'imatge",
+      "link_id": "c_7e432f",
+      "source": "Financial Times",
+      "date": "2026-04-16",
+      "time": "16:27",
+      "summary": "Els líders tecnològics fracassen a l'hora de demostrar els beneficis reals, alimentant el rebuig social cap a aquestes innovacions."
+    },
+    {
+      "title": "Anthropic llança Claude Opus 4.7, un model d'IA menys arriscat que Mythos",
+      "link_id": "c_49dc61",
+      "source": "CNBC Technology",
+      "date": "2026-04-16",
+      "time": "16:25",
+      "summary": "Aquesta nova versió busca equilibrar la potència amb la seguretat, evitant els perills associats a la detecció de vulnerabilitats."
+    },
+    {
+      "title": "Anthropic revela plans per a una gran expansió al Regne Unit després de l'anunci d'OpenAI",
+      "link_id": "c_24ce12",
+      "source": "CNBC Technology",
+      "date": "2026-04-16",
+      "time": "14:26",
+      "summary": "El govern britànic ha atret amb èxit l'empresa nord-americana aprofitant les seves recents desavinences amb el Pentàgon."
+    },
+    {
+      "title": "El benefici de TSMC creix un 58% al primer trimestre, superant les estimacions gràcies a la IA",
       "link_id": "c_01f2be",
       "source": "CNBC Technology",
       "date": "2026-04-16",
-      "time": "08:13",
-      "summary": "La forta demanda de xips avançats consolida el domini del fabricant taiwanès al mercat tecnològic global."
+      "time": "12:23",
+      "summary": "L'empresa preveu que aquesta tendència alcista es mantingui, consolidant el seu domini absolut en la fabricació de xips avançats."
     },
     {
-      "title": "Taiwan supera el Regne Unit en valor borsari gràcies a l'auge dels xips d'IA",
+      "title": "Taiwan supera el Regne Unit en valor borsari per l'auge dels xips d'IA",
       "link_id": "c_c1caa9",
       "source": "Financial Times",
       "date": "2026-04-16",
       "time": "07:03",
-      "summary": "L'èxit històric de TSMC impulsa l'economia taiwanesa, reconfigurant el rànquing financer mundial a favor del sector tecnològic."
+      "summary": "Aquest històric canvi de posicions reflecteix com la tecnologia està reconfigurant ràpidament l'equilibri de poder econòmic mundial."
     },
     {
-      "title": "La marca de calçat Allbirds fa un gir sorprenent cap a la IA i guanya 127 milions",
-      "link_id": "c_87afe8",
-      "source": "CNBC Technology",
-      "date": "2026-04-15",
-      "time": "22:41",
-      "summary": "Aquest canvi d'estratègia radical busca salvar l'empresa després de vendre els seus actius principals recentment."
-    },
-    {
-      "title": "Allbirds es converteix en un proveïdor de computació d'IA, com era d'esperar",
-      "link_id": "c_fe95a2",
-      "source": "Financial Times",
-      "date": "2026-04-15",
-      "time": "13:05",
-      "summary": "La transformació de la companyia de sabatilles reflecteix la febre actual per capitalitzar la intel·ligència artificial."
-    },
-    {
-      "title": "Augmenten les importacions xineses d'eines per a xips des del sud-est asiàtic",
-      "link_id": "c_95fb7d",
-      "source": "Financial Times",
-      "date": "2026-04-16",
-      "time": "06:39",
-      "summary": "Pequín busca rutes alternatives per abastir la seva indústria de semiconductors davant les restriccions comercials internacionals."
-    },
-    {
-      "title": "Vol ser lliure la intel·ligència artificial?",
-      "link_id": "c_83735e",
-      "source": "Financial Times",
-      "date": "2026-04-16",
-      "time": "05:30",
-      "summary": "Una anàlisi sobre els desequilibris globals i els reptes ètics que planteja l'autonomia tecnològica creixent."
-    },
-    {
-      "title": "L'NHS hauria de mantenir Palantir pel bé dels pacients",
-      "link_id": "c_faf4cf",
-      "source": "Financial Times",
-      "date": "2026-04-16",
-      "time": "04:00",
-      "summary": "Tot i les reticències internes, el programari nord-americà està demostrant ser eficaç per millorar l'atenció sanitària britànica."
-    },
-    {
-      "title": "Martin Casado d'a16z: No és tan difícil crear models d'IA",
-      "link_id": "c_1b9381",
-      "source": "Financial Times",
-      "date": "2026-04-16",
-      "time": "04:00",
-      "summary": "L'inversor adverteix que l'avantatge financer de les grans tecnològiques té data de caducitat en aquesta revolució industrial."
-    },
-    {
-      "title": "El rebuig públic a la IA i els centres de dades creix mentre Anthropic i OpenAI preparen sortides a borsa",
+      "title": "El públic recela de la IA i els centres de dades mentre Anthropic i OpenAI busquen sortir a borsa",
       "link_id": "c_eebf4e",
       "source": "CNBC Technology",
       "date": "2026-04-15",
       "time": "23:58",
-      "summary": "Aquesta percepció negativa podria frenar les aspiracions financeres de les empreses i influir en les properes eleccions."
+      "summary": "Aquest creixent escepticisme ciutadà podria complicar les ofertes públiques inicials i esdevenir un tema clau en les properes eleccions."
     },
     {
-      "title": "Els venedors d'Amazon boicotegen els anuncis per un canvi de polítiques: \"Ens quedem sense marge\"",
-      "link_id": "c_ba215b",
+      "title": "Les accions quàntiques s'encaminen a una gran setmana després que Nvidia presenti models d'IA per impulsar-les",
+      "link_id": "c_8735fe",
       "source": "CNBC Technology",
-      "date": "2026-04-15",
-      "time": "20:28",
-      "summary": "Centenars de comerciants protesten contra les noves tarifes que amenacen la rendibilitat dels seus negocis a la plataforma."
+      "date": "2026-04-16",
+      "time": "18:00",
+      "summary": "Els gegants tecnològics intensifiquen les inversions en maquinari especialitzat, accelerant la convergència entre la computació quàntica i l'aprenentatge automàtic."
     }
   ]
 }
