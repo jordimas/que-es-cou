@@ -1,88 +1,88 @@
 {
-  "generated_at": "2024-05-24T18:00",
+  "generated_at": "2024-05-24T12:00",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Amazon comprarà Globalstar per 11.570 milions de dòlars per impulsar el seu negoci de satèl·lits",
-      "link_id": "c_c04aea",
+      "title": "Gemini de Google irromp als Mac d'Apple i s'avança a Siri",
+      "link_id": "c_8cc266",
+      "source": "Digital Trends",
+      "date": "2026-04-15",
+      "time": "21:39",
+      "summary": "L'aplicació nativa i gratuïta de Gemini arriba als Mac amb dreceres de teclat, avançant-se a la renovació de Siri."
+    },
+    {
+      "title": "La marca de sabates Allbirds es reinventa com a centre de dades d'IA",
+      "link_id": "c_c21262",
+      "source": "Tom's Hardware",
+      "date": "2026-04-16",
+      "time": "10:40",
+      "summary": "L'empresa ven el seu negoci principal per oferir serveis al núvol i GPU, disparant les seves accions un 580%."
+    },
+    {
+      "title": "Per fi! YouTube ja permet desactivar els Shorts amb un truc enginyós",
+      "link_id": "c_bdb39f",
+      "source": "Android Authority",
+      "date": "2026-04-16",
+      "time": "10:07",
+      "summary": "Una nova configuració de la plataforma permet als usuaris amagar els vídeos curts per evitar distraccions innecessàries."
+    },
+    {
+      "title": "Microsoft regala programari a universitaris per competir amb el MacBook Neo",
+      "link_id": "c_26f327",
+      "source": "Digital Trends",
+      "date": "2026-04-16",
+      "time": "11:26",
+      "summary": "L'empresa ofereix subscripcions gratuïtes i descomptes en portàtils Windows 11 per atreure estudiants davant la forta competència d'Apple."
+    },
+    {
+      "title": "El Motorola Razr Fold podria arribar a les botigues el mes vinent",
+      "link_id": "c_10b5de",
+      "source": "Digital Trends",
+      "date": "2026-04-16",
+      "time": "10:55",
+      "summary": "El primer telèfon plegable tipus llibre de la marca ja té data de llançament i descomptes per a reserves."
+    },
+    {
+      "title": "L'aplicació Nothing Warp desapareix menys de 24 hores després del seu llançament",
+      "link_id": "c_d1c142",
+      "source": "TechRadar",
+      "date": "2026-04-16",
+      "time": "10:40",
+      "summary": "Aquesta prometedora alternativa a AirDrop per transferir fitxers entre dispositius ha estat retirada sobtadament sense cap explicació oficial."
+    },
+    {
+      "title": "YouTube Premium redueix el preu a la meitat per als subscriptors de Google One",
+      "link_id": "c_27d730",
+      "source": "Digital Trends",
+      "date": "2026-04-16",
+      "time": "07:37",
+      "summary": "Google ofereix un descompte del 50% per compensar les recents pujades de preu, vinculant-ho al seu ecosistema d'IA."
+    },
+    {
+      "title": "Podrien arribar a desmantellar Live Nation malgrat tot?",
+      "link_id": "c_147ab3",
       "source": "TechCrunch",
-      "date": "2026-04-14",
-      "time": "13:55",
-      "summary": "L'adquisició permetrà a l'empresa competir directament amb Starlink i oferir connectivitat d'emergència als usuaris d'iPhone."
+      "date": "2026-04-15",
+      "time": "21:38",
+      "summary": "Un jurat federal ha declarat que l'empresa actua com un monopoli il·legal, posant en dubte el seu futur."
     },
     {
-      "title": "Google afegeix \"Skills\" d'IA a Chrome per ajudar-te a desar els teus fluxos de treball preferits",
-      "link_id": "c_b60e3e",
-      "source": "TechCrunch",
-      "date": "2026-04-14",
-      "time": "17:00",
-      "summary": "Aquesta nova funció permetrà als usuaris emmagatzemar i reutilitzar indicacions de Gemini ràpidament a qualsevol lloc web."
+      "title": "El nou Fire TV Stick d'Amazon es pot alimentar pel port USB del televisor",
+      "link_id": "c_1f55e3",
+      "source": "9to5Google",
+      "date": "2026-04-15",
+      "time": "19:05",
+      "summary": "Aquest model més prim i assequible elimina la necessitat d'un adaptador de corrent, simplificant-ne molt la instal·lació."
     },
     {
-      "title": "La FCC acaba de salvar Netgear de la prohibició de routers sense cap motiu evident",
-      "link_id": "c_5d0dbc",
-      "source": "The Verge",
-      "date": "2026-04-14",
-      "time": "16:57",
-      "summary": "L'aprovació condicional atorga a la marca un monopoli temporal als Estats Units per vendre nous dispositius de xarxa."
-    },
-    {
-      "title": "Després del llançament de Mythos d'Anthropic, OpenAI presenta un nou model i estratègia de ciberseguretat",
-      "link_id": "c_4b59ef",
-      "source": "Wired",
-      "date": "2026-04-14",
-      "time": "20:00",
-      "summary": "La versió GPT-5.4-Cyber està dissenyada exclusivament per a la defensa digital i només s'oferirà a empreses de confiança."
-    },
-    {
-      "title": "Prime Video ofereix un paquet amb Apple TV Plus i Peacock per temps limitat",
-      "link_id": "c_9262a4",
-      "source": "The Verge",
-      "date": "2026-04-14",
-      "time": "14:31",
-      "summary": "Els subscriptors podran accedir a ambdues plataformes per només 20 dòlars mensuals, suposant un estalvi del trenta per cent."
-    },
-    {
-      "title": "Microsoft apuja els preus dels ordinadors Surface a causa de l'augment dels costos de la memòria RAM",
-      "link_id": "c_4f7557",
-      "source": "Engadget",
-      "date": "2026-04-14",
-      "time": "18:16",
-      "summary": "Els models insígnia ara costen cinc-cents dòlars més que en el seu llançament, superant el preu dels Mac equivalents."
-    },
-    {
-      "title": "La nova aplicació de Google per a Windows és una altra manera d'accedir a Gemini",
-      "link_id": "c_15c1d6",
-      "source": "Engadget",
-      "date": "2026-04-14",
-      "time": "21:40",
-      "summary": "L'eina funciona com un cercador flotant a l'escriptori, permetent trobar fitxers i informació ràpidament amb una drecera de teclat."
-    },
-    {
-      "title": "L'augment de preus de Samsung als EUA incrementa la preocupació pels costos dels dispositius d'Apple",
-      "link_id": "c_6f6a7e",
-      "source": "MacRumors",
-      "date": "2026-04-14",
-      "time": "14:47",
-      "summary": "L'escassetat global de memòria ha provocat increments de fins a 280 dòlars en diversos telèfons i tauletes Galaxy."
-    },
-    {
-      "title": "Google porta la seva funció d'Intel·ligència Personal de Gemini a l'Índia",
-      "link_id": "c_fe1651",
-      "source": "TechCrunch",
-      "date": "2026-04-14",
-      "time": "14:48",
-      "summary": "L'expansió global permetrà a l'assistent connectar-se amb Gmail i Fotos per oferir respostes molt més personalitzades als usuaris."
-    },
-    {
-      "title": "El cercador de Google penalitzarà els llocs web que impedeixen sortir-ne en prémer el botó de retrocés",
-      "link_id": "c_ac82a0",
-      "source": "Engadget",
-      "date": "2026-04-14",
-      "time": "14:33",
-      "summary": "Aquesta pràctica molesta es classificarà com a correu brossa, reduint dràsticament la visibilitat d'aquestes pàgines als resultats de cerca."
+      "title": "La IA d'Adobe Firefly et permetrà editar programari creatiu només parlant",
+      "link_id": "c_3d9879",
+      "source": "Digital Trends",
+      "date": "2026-04-15",
+      "time": "15:26",
+      "summary": "El nou assistent executarà fluxos de treball complexos a Photoshop i Premiere a partir de simples instruccions de veu."
     }
   ]
 }

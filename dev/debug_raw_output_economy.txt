@@ -1,88 +1,88 @@
 {
-  "generated_at": "2024-05-24T18:45",
+  "generated_at": "2024-05-24T19:00",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "El gegant dels xips ASML millora les previsions per al 2026 per la forta demanda d'IA",
+      "title": "El benefici de TSMC creix un 58% i supera les estimacions gràcies a la IA",
+      "link_id": "c_01f2be",
+      "source": "CNBC Technology",
+      "date": "2026-04-16",
+      "time": "08:13",
+      "summary": "Els resultats rècord del fabricant de xips reflecteixen l'auge imparable de la intel·ligència artificial al mercat global."
+    },
+    {
+      "title": "Taiwan supera el Regne Unit en valor borsari per l'auge dels xips d'IA",
+      "link_id": "c_c1caa9",
+      "source": "Financial Times",
+      "date": "2026-04-16",
+      "time": "07:03",
+      "summary": "L'èxit històric de TSMC impulsa la capitalització del país asiàtic per sobre del mercat britànic."
+    },
+    {
+      "title": "Quina (in)fiabilitat tenen els agents d'IA?",
+      "link_id": "c_73ff38",
+      "source": "Financial Times",
+      "date": "2026-04-16",
+      "time": "11:30",
+      "summary": "En sectors crítics per a la seguretat, la coherència dels sistemes és molt més vital que la precisió mitjana."
+    },
+    {
+      "title": "Anthropic revela plans per a una gran expansió al Regne Unit",
+      "link_id": "c_24ce12",
+      "source": "CNBC Technology",
+      "date": "2026-04-16",
+      "time": "09:34",
+      "summary": "L'empresa nord-americana aposta per Londres després de les tensions amb el Pentàgon i seguint els passos d'OpenAI."
+    },
+    {
+      "title": "Augmenten les importacions xineses d'eines per a xips des del sud-est asiàtic",
+      "link_id": "c_95fb7d",
+      "source": "Financial Times",
+      "date": "2026-04-16",
+      "time": "06:39",
+      "summary": "Pequín intensifica la compra de maquinària tecnològica a països veïns per esquivar les restriccions comercials internacionals."
+    },
+    {
+      "title": "Martin Casado (a16z): No és tan difícil crear models d'IA",
+      "link_id": "c_1b9381",
+      "source": "Financial Times",
+      "date": "2026-04-16",
+      "time": "04:00",
+      "summary": "L'inversor avisa que l'avantatge de les grans empreses per captar finançament barat té data de caducitat."
+    },
+    {
+      "title": "Les accions de Tesla pugen gairebé un 8% pels avenços en xips d'Elon Musk",
+      "link_id": "c_b9b6d6",
+      "source": "CNBC Technology",
+      "date": "2026-04-15",
+      "time": "20:20",
+      "summary": "L'optimisme sobre els nous semiconductors impulsa el valor de l'empresa i millora les valoracions dels analistes financers."
+    },
+    {
+      "title": "Com els pirates informàtics amb IA sacsejaran la ciberseguretat",
+      "link_id": "c_ede00e",
+      "source": "The Economist",
+      "date": "2026-04-15",
+      "time": "20:19",
+      "summary": "Tot i que la tecnologia podria afavorir la defensa a llarg termini, s'espera una transició molt turbulenta."
+    },
+    {
+      "title": "Els productes d'Anthropic tornen a funcionar després d'una breu interrupció",
+      "link_id": "c_1cb2e5",
+      "source": "CNBC Technology",
+      "date": "2026-04-15",
+      "time": "17:57",
+      "summary": "L'empresa ha restablert el servei del xatbot Claude i la seva API, tot i que continua monitorant-ne l'estabilitat."
+    },
+    {
+      "title": "Les accions d'ASML cauen per les restriccions a la Xina malgrat els bons resultats",
       "link_id": "c_2ad795",
       "source": "CNBC Technology",
       "date": "2026-04-15",
-      "time": "07:30",
-      "summary": "Els resultats del primer trimestre superen les expectatives, impulsant l'empresa a revisar a l'alça les seves vendes futures."
-    },
-    {
-      "title": "ASML millora les perspectives per al 2026 gràcies a l'auge dels xips d'IA",
-      "link_id": "c_24ad01",
-      "source": "Financial Times",
-      "date": "2026-04-15",
-      "time": "07:26",
-      "summary": "L'empresa més valuosa d'Europa confirma que els seus clients estan accelerant ràpidament els plans d'expansió tecnològica."
-    },
-    {
-      "title": "Amazon comprarà Globalstar per uns 11.600 milions de dòlars per reforçar el seu negoci de satèl·lits",
-      "link_id": "c_f210be",
-      "source": "CNBC Technology",
-      "date": "2026-04-14",
-      "time": "16:10",
-      "summary": "Aquesta adquisició estratègica permetrà a la companyia intensificar la competència directa amb la xarxa Starlink d'Elon Musk."
-    },
-    {
-      "title": "Amazon acorda la compra del grup de satèl·lits Globalstar per 11.600 milions de dòlars",
-      "link_id": "c_ddd8c3",
-      "source": "Financial Times",
-      "date": "2026-04-14",
-      "time": "12:56",
-      "summary": "L'operació consolida l'aposta del gegant tecnològic per dominar el mercat emergent de les comunicacions en òrbita terrestre baixa."
-    },
-    {
-      "title": "Les accions de Snap es disparen un 11% en anunciar l'acomiadament del 16% de la plantilla",
-      "link_id": "c_0d5e0c",
-      "source": "CNBC Technology",
-      "date": "2026-04-15",
-      "time": "11:09",
-      "summary": "L'empresa justifica aquesta dràstica reducció de personal per les noves eficiències operatives aconseguides gràcies a la intel·ligència artificial."
-    },
-    {
-      "title": "S'acosta l'era dels directors generals virtuals",
-      "link_id": "c_64ec5e",
-      "source": "Financial Times",
-      "date": "2026-04-15",
-      "time": "04:00",
-      "summary": "Diversos directius observen amb atenció la iniciativa de Meta de crear una rèplica d'intel·ligència artificial de Mark Zuckerberg."
-    },
-    {
-      "title": "Uber inverteix 10.000 milions de dòlars en robotaxis en un canvi d'estratègia",
-      "link_id": "c_06c770",
-      "source": "Financial Times",
-      "date": "2026-04-15",
-      "time": "04:00",
-      "summary": "La plataforma de transport busca recuperar el terreny perdut mitjançant inversions de capital i comandes massives de vehicles autònoms."
-    },
-    {
-      "title": "Meta acorda 1 gigawatt de xips personalitzats amb Broadcom mentre Hock Tan deixa el consell",
-      "link_id": "c_554231",
-      "source": "CNBC Technology",
-      "date": "2026-04-15",
-      "time": "01:11",
-      "summary": "Aquest pacte plurianual suposa un gran desplegament de processadors MTIA de disseny propi per potenciar la seva infraestructura."
-    },
-    {
-      "title": "La NAACP demanda xAI d'Elon Musk per la contaminació del seu centre de dades a Memphis",
-      "link_id": "c_503ceb",
-      "source": "CNBC Technology",
-      "date": "2026-04-14",
-      "time": "23:12",
-      "summary": "L'organització de drets civils alerta sobre l'impacte ambiental d'aquesta macroinstal·lació clau per al desenvolupament tecnològic de l'empresa."
-    },
-    {
-      "title": "La plataforma de criptomonedes Kraken confirma que ha sol·licitat sortir a borsa de manera confidencial",
-      "link_id": "c_6a25ba",
-      "source": "CNBC Technology",
-      "date": "2026-04-14",
-      "time": "23:07",
-      "summary": "El co-conseller delegat Arjun Sethi ratifica els rumors sobre el pròxim debut de l'empresa als mercats financers nord-americans."
+      "time": "17:37",
+      "summary": "Les limitacions d'exportació eclipsen unes xifres de negoci excel·lents i provoquen una caiguda del 5% a la borsa."
     }
   ]
 }
