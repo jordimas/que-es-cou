@@ -1,88 +1,109 @@
 {
-  "generated_at": "2024-05-24T18:00",
+  "generated_at": "2026-04-16T10:23",
   "id": "world",
   "title": "Notícies tecnològiques del món",
-  "sources_checked": [],
-  "articles": [
+  "sources_checked": [
     {
-      "title": "Amazon revela el Fire TV Stick HD més prim que ja no necessita adaptador de corrent",
-      "link_id": "c_b3520e",
-      "source": "Digital Trends",
-      "date": "2026-04-15",
-      "time": "15:14",
-      "summary": "El nou dispositiu de reproducció en continu costa 35 dòlars i s'alimenta directament mitjançant el port USB del televisor."
+      "name": "Ars Technica",
+      "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
+      "articles_found": 0
     },
     {
-      "title": "Per què Netgear acaba d'obtenir la primera exempció a la prohibició d'encaminadors de la FCC als EUA",
+      "name": "AnandTech",
+      "url": "https://www.anandtech.com/rss/",
+      "articles_found": 0
+    },
+    {
+      "name": "Wall Street Journal Tech",
+      "url": "https://feeds.a.dj.com/rss/RSSWSJD.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "Slashdot",
+      "url": "https://slashdot.org/rss/slashdot.rss",
+      "articles_found": 0
+    }
+  ],
+  "articles": [
+    {
+      "title": "Google llança una aplicació nativa de Gemini per a Mac",
+      "link_id": "c_e184b7",
+      "source": "TechCrunch",
+      "date": "2026-04-15",
+      "time": "18:22",
+      "summary": "L'assistent d'intel·ligència artificial s'integra a macOS amb dreceres de teclat per facilitar l'accés ràpid a les seves funcions."
+    },
+    {
+      "title": "Després de vendre el seu negoci de sabates, Allbirds fa un gir cap a la IA",
+      "link_id": "c_e5ad85",
+      "source": "TechCrunch",
+      "date": "2026-04-15",
+      "time": "14:24",
+      "summary": "La coneguda marca de calçat es reinventa sorprenentment com a proveïdor d'infraestructura d'intel·ligència artificial sota el nom NewBird AI."
+    },
+    {
+      "title": "Nothing elimina la seva aplicació Warp, similar a AirDrop, hores després de llançar-la",
+      "link_id": "c_450e65",
+      "source": "9to5Google",
+      "date": "2026-04-16",
+      "time": "01:50",
+      "summary": "L'eina per transferir fitxers mitjançant Google Drive ha desaparegut misteriosament de les botigues d'aplicacions sense cap explicació oficial."
+    },
+    {
+      "title": "YouTube ara permet desactivar els Shorts",
+      "link_id": "c_e80455",
+      "source": "The Verge",
+      "date": "2026-04-15",
+      "time": "18:18",
+      "summary": "Els usuaris poden establir un límit de zero minuts per eliminar completament aquests vídeos curts de la seva interfície."
+    },
+    {
+      "title": "Un descompte de Google One rebaixa un 50% YouTube Premium durant un any",
+      "link_id": "c_aabacb",
+      "source": "9to5Mac",
+      "date": "2026-04-15",
+      "time": "23:20",
+      "summary": "Aquesta promoció temporal busca incentivar les subscripcions als plans d'intel·ligència artificial de la companyia oferint entreteniment sense anuncis."
+    },
+    {
+      "title": "Microsoft contraataca el MacBook Neo amb regals per a estudiants",
+      "link_id": "c_1a98c1",
+      "source": "The Verge",
+      "date": "2026-04-15",
+      "time": "14:03",
+      "summary": "Per frenar l'èxit d'Apple, l'empresa ofereix subscripcions gratuïtes a Microsoft 365 i Xbox Game Pass en comprar ordinadors seleccionats."
+    },
+    {
+      "title": "Un moment, encara podrien dissoldre Live Nation?",
+      "link_id": "c_147ab3",
+      "source": "TechCrunch",
+      "date": "2026-04-15",
+      "time": "21:38",
+      "summary": "El veredicte d'un jurat federal que els declara monopoli il·legal obre la porta a possibles mesures antimonopoli més severes."
+    },
+    {
+      "title": "El nou Fire TV Stick HD d'Amazon és més prim que mai i no té adaptador de corrent",
+      "link_id": "c_73d697",
+      "source": "Engadget",
+      "date": "2026-04-15",
+      "time": "13:00",
+      "summary": "Aquest dispositiu assequible s'alimenta directament del port USB del televisor, simplificant la instal·lació i reduint l'embolic de cables."
+    },
+    {
+      "title": "Per què Netgear acaba d'obtenir la primera exempció a la prohibició de rúters de la FCC als EUA",
       "link_id": "c_e0091e",
       "source": "ZDNet",
       "date": "2026-04-15",
       "time": "16:58",
-      "summary": "L'aprovació condicional permet a l'empresa continuar important i venent els seus models de xarxa malgrat les recents restriccions governamentals."
+      "summary": "Aquesta aprovació condicional atorga a la marca un monopoli temporal en la venda de nous dispositius de xarxa."
     },
     {
-      "title": "Adobe Firefly ara pot executar tot el teu flux de treball creatiu des d'un sol xat",
-      "link_id": "c_3d9879",
-      "source": "Digital Trends",
-      "date": "2026-04-15",
-      "time": "15:26",
-      "summary": "Aquest assistent d'intel·ligència artificial automatitza tasques complexes a múltiples aplicacions de Creative Cloud només descrivint el resultat desitjat."
-    },
-    {
-      "title": "Google llança l'aplicació nativa d'intel·ligència artificial Gemini per a Mac",
-      "link_id": "c_7cdcd5",
-      "source": "MacRumors",
-      "date": "2026-04-15",
-      "time": "10:46",
-      "summary": "L'eina s'integra al sistema operatiu d'Apple amb dreceres de teclat per analitzar pantalles, revisar fitxers i generar imatges ràpidament."
-    },
-    {
-      "title": "Snap acomiada el 16 per cent de la seva plantilla i en culpa la IA",
-      "link_id": "c_e4d1d7",
+      "title": "L'assistent d'IA Firefly d'Adobe funciona a Photoshop, Premiere i altres aplicacions",
+      "link_id": "c_2f7cc8",
       "source": "Engadget",
       "date": "2026-04-15",
-      "time": "16:24",
-      "summary": "L'empresa darrere de Snapchat retalla mil llocs de treball per reduir costos i assolir la rendibilitat financera aquest any."
-    },
-    {
-      "title": "OpenAI obre el seu model de ciberseguretat a milers de defensors en la cursa contra Mythos d'Anthropic",
-      "link_id": "c_b00c28",
-      "source": "The Next Web",
-      "date": "2026-04-15",
-      "time": "16:22",
-      "summary": "La nova versió GPT-5.4-Cyber facilita l'enginyeria inversa i redueix les restriccions per ajudar els professionals a detectar vulnerabilitats."
-    },
-    {
-      "title": "L'empresa de sabates Allbirds fa un gir cap a la computació d'IA en senyal d'una economia totalment normal",
-      "link_id": "c_55bcf7",
-      "source": "Engadget",
-      "date": "2026-04-15",
-      "time": "16:14",
-      "summary": "La marca de calçat canviarà el seu nom a NewBird AI per oferir infraestructura de processament gràfic al núvol."
-    },
-    {
-      "title": "Ara pots comprar llibres físics a l'aplicació de Spotify",
-      "link_id": "c_c361bb",
-      "source": "Digital Trends",
-      "date": "2026-04-15",
-      "time": "17:39",
-      "summary": "Aquesta expansió als Estats Units i el Regne Unit es fa en col·laboració amb llibreries independents mitjançant Bookshop.org."
-    },
-    {
-      "title": "Per què Amazon compra Globalstar i què significa per al teu iPhone",
-      "link_id": "c_616791",
-      "source": "Wired",
-      "date": "2026-04-15",
-      "time": "16:19",
-      "summary": "L'adquisició per 11.500 milions de dòlars reforçarà la xarxa Leo d'Amazon per competir directament amb Starlink d'Elon Musk."
-    },
-    {
-      "title": "Els ordinadors Microsoft Surface pateixen grans augments de preu i els models més barats desapareixen",
-      "link_id": "c_b3e304",
-      "source": "Wired",
-      "date": "2026-04-15",
-      "time": "17:28",
-      "summary": "L'encariment global de la memòria RAM ha obligat la companyia a apujar les tarifes fins a cinc-cents dòlars."
+      "time": "13:00",
+      "summary": "L'eina permet automatitzar fluxos de treball complexos entre diferents programes creatius utilitzant només instruccions de text senzilles."
     }
   ]
 }

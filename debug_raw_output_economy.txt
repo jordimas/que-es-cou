@@ -1,24 +1,32 @@
 {
-  "generated_at": "2026-04-15T20:05",
+  "generated_at": "2024-05-21T16:00",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Les accions d'ASML cauen per les restriccions a la Xina malgrat els bons resultats",
-      "link_id": "c_2ad795",
+      "title": "El benefici de TSMC creix un 58% al primer trimestre superant les previsions per la IA",
+      "link_id": "c_01f2be",
       "source": "CNBC Technology",
-      "date": "2026-04-15",
-      "time": "17:37",
-      "summary": "La caiguda d'un 5% reflecteix la preocupació del mercat per les limitacions d'exportació, ignorant les previsions optimistes."
+      "date": "2026-04-16",
+      "time": "08:13",
+      "summary": "La forta demanda de xips avançats consolida el domini del fabricant taiwanès al mercat tecnològic global."
     },
     {
-      "title": "Allbirds fa un gir sorprenent de les sabates a la IA i les accions es disparen un 700%",
+      "title": "Taiwan supera el Regne Unit en valor borsari gràcies a l'auge dels xips d'IA",
+      "link_id": "c_c1caa9",
+      "source": "Financial Times",
+      "date": "2026-04-16",
+      "time": "07:03",
+      "summary": "L'èxit històric de TSMC impulsa l'economia taiwanesa, reconfigurant el rànquing financer mundial a favor del sector tecnològic."
+    },
+    {
+      "title": "La marca de calçat Allbirds fa un gir sorprenent cap a la IA i guanya 127 milions",
       "link_id": "c_87afe8",
       "source": "CNBC Technology",
       "date": "2026-04-15",
-      "time": "17:14",
-      "summary": "La marca ven els seus actius per 39 milions de dòlars per reinventar-se en el sector tecnològic."
+      "time": "22:41",
+      "summary": "Aquest canvi d'estratègia radical busca salvar l'empresa després de vendre els seus actius principals recentment."
     },
     {
       "title": "Allbirds es converteix en un proveïdor de computació d'IA, com era d'esperar",
@@ -26,63 +34,55 @@
       "source": "Financial Times",
       "date": "2026-04-15",
       "time": "13:05",
-      "summary": "El canvi radical d'estratègia de l'empresa de calçat busca aprofitar l'auge de la intel·ligència artificial per sobreviure."
+      "summary": "La transformació de la companyia de sabatilles reflecteix la febre actual per capitalitzar la intel·ligència artificial."
     },
     {
-      "title": "ASML millora les previsions per al 2026 gràcies a l'auge dels xips d'IA",
-      "link_id": "c_24ad01",
+      "title": "Augmenten les importacions xineses d'eines per a xips des del sud-est asiàtic",
+      "link_id": "c_95fb7d",
       "source": "Financial Times",
-      "date": "2026-04-15",
-      "time": "07:26",
-      "summary": "L'empresa europea més valuosa accelera els seus plans d'expansió impulsada per la forta demanda tecnològica global."
+      "date": "2026-04-16",
+      "time": "06:39",
+      "summary": "Pequín busca rutes alternatives per abastir la seva indústria de semiconductors davant les restriccions comercials internacionals."
     },
     {
-      "title": "Les accions de Tesla pugen mentre Elon Musk destaca els avenços en xips",
-      "link_id": "c_b9b6d6",
-      "source": "CNBC Technology",
-      "date": "2026-04-15",
-      "time": "18:01",
-      "summary": "Els analistes de UBS milloren la qualificació de l'empresa després de les prometedores declaracions sobre els nous semiconductors."
+      "title": "Vol ser lliure la intel·ligència artificial?",
+      "link_id": "c_83735e",
+      "source": "Financial Times",
+      "date": "2026-04-16",
+      "time": "05:30",
+      "summary": "Una anàlisi sobre els desequilibris globals i els reptes ètics que planteja l'autonomia tecnològica creixent."
     },
     {
-      "title": "Els productes d'Anthropic tornen a estar operatius després d'una breu interrupció",
-      "link_id": "c_1cb2e5",
-      "source": "CNBC Technology",
-      "date": "2026-04-15",
-      "time": "17:57",
-      "summary": "L'empresa ha resolt ràpidament els problemes tècnics que afectaven el xatbot Claude i la seva API."
+      "title": "L'NHS hauria de mantenir Palantir pel bé dels pacients",
+      "link_id": "c_faf4cf",
+      "source": "Financial Times",
+      "date": "2026-04-16",
+      "time": "04:00",
+      "summary": "Tot i les reticències internes, el programari nord-americà està demostrant ser eficaç per millorar l'atenció sanitària britànica."
     },
     {
-      "title": "Starbucks llança una aplicació beta a ChatGPT per descobrir noves begudes",
-      "link_id": "c_4049fa",
-      "source": "CNBC Technology",
-      "date": "2026-04-15",
-      "time": "17:17",
-      "summary": "La cadena de cafeteries busca atreure de nou els clients nord-americans mitjançant recomanacions personalitzades amb intel·ligència artificial."
+      "title": "Martin Casado d'a16z: No és tan difícil crear models d'IA",
+      "link_id": "c_1b9381",
+      "source": "Financial Times",
+      "date": "2026-04-16",
+      "time": "04:00",
+      "summary": "L'inversor adverteix que l'avantatge financer de les grans tecnològiques té data de caducitat en aquesta revolució industrial."
     },
     {
-      "title": "Les accions de Snap pugen en anunciar l'acomiadament del 16% de la plantilla per l'eficiència de la IA",
-      "link_id": "c_0d5e0c",
+      "title": "El rebuig públic a la IA i els centres de dades creix mentre Anthropic i OpenAI preparen sortides a borsa",
+      "link_id": "c_eebf4e",
       "source": "CNBC Technology",
       "date": "2026-04-15",
-      "time": "16:43",
-      "summary": "La xarxa social retalla personal a nivell global confiant en l'automatització per mantenir la seva rendibilitat."
+      "time": "23:58",
+      "summary": "Aquesta percepció negativa podria frenar les aspiracions financeres de les empreses i influir en les properes eleccions."
     },
     {
-      "title": "AMD, Qualcomm i Arm inverteixen en la startup de cotxes autònoms Wayve",
-      "link_id": "c_4811ad",
+      "title": "Els venedors d'Amazon boicotegen els anuncis per un canvi de polítiques: \"Ens quedem sense marge\"",
+      "link_id": "c_ba215b",
       "source": "CNBC Technology",
       "date": "2026-04-15",
-      "time": "13:00",
-      "summary": "Aquests gegants dels semiconductors s'uneixen a Nvidia per impulsar la tecnologia de conducció autònoma independent del maquinari."
-    },
-    {
-      "title": "OpenAI es retira de l'acord del centre de dades Stargate a Noruega i Microsoft n'assumeix el control",
-      "link_id": "c_9d774e",
-      "source": "CNBC Technology",
-      "date": "2026-04-15",
-      "time": "12:29",
-      "summary": "La startup d'IA negocia ara amb Microsoft per llogar capacitat de computació en lloc de construir infraestructures pròpies."
+      "time": "20:28",
+      "summary": "Centenars de comerciants protesten contra les noves tarifes que amenacen la rendibilitat dels seus negocis a la plataforma."
     }
   ]
 }
