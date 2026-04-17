@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-04-17T10:22",
+  "generated_at": "2026-04-17T19:46",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "L'últim model d'Anthropic és deliberadament menys potent que Mythos (i aquesta és la idea)",
-      "link_id": "c_683fb6",
-      "source": "InfoWorld",
+      "title": "Canva es converteix en la capa de disseny de Claude gràcies a una nova associació amb Anthropic",
+      "link_id": "c_bb13d4",
+      "source": "The Next Web",
       "date": "2026-04-17",
-      "time": "02:33",
-      "summary": "Anthropic llança Claude Opus 4.7, un model millorat en programació, però intencionadament menys potent que l'esperat Mythos."
+      "time": "17:11",
+      "summary": "La integració permet generar elements visuals editables directament des de descripcions de text, millorant el flux de treball creatiu."
     },
     {
-      "title": "El mode IA de Chrome rep una gran actualització per estalviar-te saltar entre pestanyes",
-      "link_id": "c_497445",
-      "source": "Digital Trends",
-      "date": "2026-04-17",
-      "time": "06:59",
-      "summary": "La nova actualització de Chrome permet navegar i cercar simultàniament amb IA, evitant obrir múltiples pestanyes innecessàries."
-    },
-    {
-      "title": "Adobe i Canva volen que els seus agents d'IA substitueixin el teu flux de treball creatiu",
-      "link_id": "c_9a7ab2",
-      "source": "PCWorld",
+      "title": "Android 17 porta un toc del Pixel Watch al teu panell de notificacions",
+      "link_id": "c_0d4203",
+      "source": "9to5Google",
       "date": "2026-04-16",
-      "time": "19:33",
-      "summary": "Canva presenta la versió 2.0 de la seva IA, dissenyada per automatitzar tasques i transformar el procés creatiu dels usuaris."
+      "time": "21:10",
+      "summary": "La quarta beta d'Android 17 introdueix nous detalls visuals i animacions inspirades en els rellotges intel·ligents de Google."
     },
     {
-      "title": "OpenAI apunta a Anthropic amb un Codex millorat que li dona més poder sobre el teu escriptori",
-      "link_id": "c_1cc724",
+      "title": "Què és Claude Mythos i quins riscos planteja?",
+      "link_id": "c_38b0ef",
+      "source": "BBC Technology",
+      "date": "2026-04-17",
+      "time": "13:41",
+      "summary": "El nou model d'IA d'Anthropic genera preocupació al sector financer per la seva capacitat de superar els humans en ciberseguretat."
+    },
+    {
+      "title": "El cofundador de Netflix, Reed Hastings, abandona la plataforma de streaming",
+      "link_id": "c_2c9ced",
+      "source": "The Guardian Tech",
+      "date": "2026-04-17",
+      "time": "08:29",
+      "summary": "Després de gairebé 30 anys, Hastings deixa el consell d'administració per centrar-se en la filantropia i altres projectes personals."
+    },
+    {
+      "title": "Zoom s'associa amb World per verificar els humans a les reunions",
+      "link_id": "c_940ec1",
       "source": "TechCrunch",
-      "date": "2026-04-16",
-      "time": "19:18",
-      "summary": "OpenAI actualitza Codex amb noves capacitats per controlar aplicacions d'escriptori, apropant-se a la creació d'una superaplicació."
-    },
-    {
-      "title": "Netflix s'assemblarà més a les xarxes socials amb un canal vertical que arribarà aviat",
-      "link_id": "c_06713a",
-      "source": "Digital Trends",
       "date": "2026-04-17",
-      "time": "07:20",
-      "summary": "L'aplicació mòbil de Netflix incorporarà un format de vídeo vertical similar a TikTok per descobrir nous continguts ràpidament."
+      "time": "17:15",
+      "summary": "La plataforma utilitzarà la tecnologia d'escaneig d'iris de l'empresa de Sam Altman per combatre els comptes falsos i les estafes."
     },
     {
-      "title": "Google està fabricant ulleres intel·ligents amb Gucci, i arribaran l'any vinent",
-      "link_id": "c_226e2f",
-      "source": "Digital Trends",
-      "date": "2026-04-17",
-      "time": "06:11",
-      "summary": "Google s'associa amb Gucci per llançar unes ulleres intel·ligents de luxe amb IA, previstes per a l'any 2027."
-    },
-    {
-      "title": "Reed Hastings abandona Netflix després de 29 anys",
-      "link_id": "c_ad9d62",
-      "source": "Engadget",
-      "date": "2026-04-16",
-      "time": "21:31",
-      "summary": "El cofundador de Netflix abandonarà la junta directiva al juny per centrar-se en la filantropia i altres projectes personals."
-    },
-    {
-      "title": "La nova Core Series 3 d'Intel és la seva resposta al MacBook Neo",
-      "link_id": "c_25c3af",
-      "source": "PCWorld",
-      "date": "2026-04-16",
-      "time": "18:07",
-      "summary": "Intel llança els processadors Core Series 3 per a portàtils econòmics, oferint alt rendiment i eficiència energètica."
-    },
-    {
-      "title": "Avís: Deixa d'utilitzar el teu carregador sense fil Casely Power Pods immediatament",
-      "link_id": "c_d7b817",
-      "source": "Engadget",
-      "date": "2026-04-17",
-      "time": "06:21",
-      "summary": "Casely retira novament les seves bateries externes MagSafe després de registrar-se explosions i un incident mortal."
-    },
-    {
-      "title": "Meta apuja els preus de les Quest 3 i Quest 3S a causa de l'escassetat de RAM",
-      "link_id": "c_4bb9e4",
+      "title": "Comença la cursa per les ulleres intel·ligents de moda",
+      "link_id": "c_e27a53",
       "source": "CNET",
-      "date": "2026-04-16",
-      "time": "19:42",
-      "summary": "Meta augmentarà el preu dels seus visors de realitat virtual a causa de l'escassetat global de memòria RAM."
+      "date": "2026-04-17",
+      "time": "16:14",
+      "summary": "Google i Gucci preparen unes ulleres de realitat mixta amb Android XR per al 2027, unint tecnologia i luxe."
+    },
+    {
+      "title": "Casely retira de nou les bateries Wireless Power Pods per risc d'incendi i cremades",
+      "link_id": "c_61f00f",
+      "source": "CNET",
+      "date": "2026-04-17",
+      "time": "16:30",
+      "summary": "S'ha emès una nova alerta de seguretat després d'incidents greus, incloent-hi una explosió en ple vol i una víctima mortal."
+    },
+    {
+      "title": "Bernie Sanders uneix els líders sindicals per exigir proteccions contra la IA i aturar els centres de dades",
+      "link_id": "c_4b9041",
+      "source": "TechRadar",
+      "date": "2026-04-17",
+      "time": "16:05",
+      "summary": "Creix l'oposició als Estats Units contra la construcció d'infraestructures d'IA a causa del seu alt consum energètic i impacte laboral."
+    },
+    {
+      "title": "Allbirds ven el seu negoci de sabates per 39 milions de dòlars i fa el salt a la IA",
+      "link_id": "c_35f0a4",
+      "source": "The Next Web",
+      "date": "2026-04-17",
+      "time": "17:01",
+      "summary": "La marca es reanomena NewBird AI i es dedicarà a llogar targetes gràfiques per a la computació al núvol."
+    },
+    {
+      "title": "Per què Microsoft apuja els preus dels portàtils mentre Apple abarateix la productivitat",
+      "link_id": "c_d2621f",
+      "source": "PCWorld",
+      "date": "2026-04-17",
+      "time": "15:11",
+      "summary": "L'èxit del MacBook Neo de 599 dòlars contrasta amb l'encariment dels PC amb Windows a causa de l'escassetat de components."
     }
   ]
 }
