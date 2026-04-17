@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-04-16T20:05",
+  "generated_at": "2026-04-17T10:22",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Anthropic llança Claude Opus 4.7 i recupera per poc el lideratge dels models d'IA",
-      "link_id": "c_7ac65d",
-      "source": "VentureBeat",
-      "date": "2026-04-16",
-      "time": "16:17",
-      "summary": "Destaca en tasques de programació, mentre que el seu successor més potent, Mythos, continua restringit per motius de seguretat."
+      "title": "L'últim model d'Anthropic és deliberadament menys potent que Mythos (i aquesta és la idea)",
+      "link_id": "c_683fb6",
+      "source": "InfoWorld",
+      "date": "2026-04-17",
+      "time": "02:33",
+      "summary": "Anthropic llança Claude Opus 4.7, un model millorat en programació, però intencionadament menys potent que l'esperat Mythos."
     },
     {
-      "title": "L'assistent d'IA de Canva ara pot utilitzar diverses eines per crear dissenys automàticament",
-      "link_id": "c_7b08eb",
-      "source": "TechCrunch",
-      "date": "2026-04-16",
-      "time": "13:00",
-      "summary": "La versió 2.0 permet generar projectes editables mitjançant converses, deixant enrere la dependència exclusiva de les plantilles tradicionals."
-    },
-    {
-      "title": "L'aplicació d'escriptori Codex d'OpenAI ja pot controlar el teu ordinador i inclou navegador propi",
-      "link_id": "c_4acae0",
-      "source": "ZDNet",
-      "date": "2026-04-16",
-      "time": "17:01",
-      "summary": "L'eina evoluciona cap a una superaplicació capaç d'automatitzar fluxos de treball i recordar preferències en diferents programes."
-    },
-    {
-      "title": "Google permet explorar la web en pantalla dividida amb el seu mode d'IA",
-      "link_id": "c_ead422",
-      "source": "TechCrunch",
-      "date": "2026-04-16",
-      "time": "17:00",
-      "summary": "Aquesta actualització de Chrome busca reduir el canvi constant de pestanyes mantenint el xat actiu al costat de les fonts."
-    },
-    {
-      "title": "Meta apuja el preu dels visors Quest a causa de l'escassetat de memòria RAM impulsada per la IA",
-      "link_id": "c_0769fb",
-      "source": "Tom's Hardware",
-      "date": "2026-04-16",
-      "time": "16:45",
-      "summary": "L'enorme demanda de xips per als centres de dades d'IA encareix directament el maquinari de realitat virtual per als consumidors."
-    },
-    {
-      "title": "Google dota Gemini d'una generació d'imatges que coneix la teva vida",
-      "link_id": "c_087c9c",
-      "source": "The Next Web",
-      "date": "2026-04-16",
-      "time": "16:33",
-      "summary": "Utilitza dades personals de Gmail i Fotos per crear il·lustracions altament personalitzades sense necessitat d'instruccions detallades."
-    },
-    {
-      "title": "Per fi! YouTube ja permet desactivar els Shorts amb un truc enginyós",
-      "link_id": "c_bdb39f",
-      "source": "Android Authority",
-      "date": "2026-04-16",
-      "time": "10:07",
-      "summary": "Els usuaris poden establir un límit de zero minuts per amagar completament els vídeos curts i evitar l'addicció."
-    },
-    {
-      "title": "Arriben els processadors Intel Core Series 3 prometent més rendiment per menys diners",
-      "link_id": "c_caa954",
+      "title": "El mode IA de Chrome rep una gran actualització per estalviar-te saltar entre pestanyes",
+      "link_id": "c_497445",
       "source": "Digital Trends",
-      "date": "2026-04-16",
-      "time": "17:38",
-      "summary": "Coneguts com a Wildcat Lake, aquests xips porten capacitats avançades d'IA i millor bateria als portàtils més assequibles."
+      "date": "2026-04-17",
+      "time": "06:59",
+      "summary": "La nova actualització de Chrome permet navegar i cercar simultàniament amb IA, evitant obrir múltiples pestanyes innecessàries."
     },
     {
-      "title": "Apple i Google estarien dirigint els usuaris cap a aplicacions per despullar amb IA",
-      "link_id": "c_90f08b",
+      "title": "Adobe i Canva volen que els seus agents d'IA substitueixin el teu flux de treball creatiu",
+      "link_id": "c_9a7ab2",
+      "source": "PCWorld",
+      "date": "2026-04-16",
+      "time": "19:33",
+      "summary": "Canva presenta la versió 2.0 de la seva IA, dissenyada per automatitzar tasques i transformar el procés creatiu dels usuaris."
+    },
+    {
+      "title": "OpenAI apunta a Anthropic amb un Codex millorat que li dona més poder sobre el teu escriptori",
+      "link_id": "c_1cc724",
+      "source": "TechCrunch",
+      "date": "2026-04-16",
+      "time": "19:18",
+      "summary": "OpenAI actualitza Codex amb noves capacitats per controlar aplicacions d'escriptori, apropant-se a la creació d'una superaplicació."
+    },
+    {
+      "title": "Netflix s'assemblarà més a les xarxes socials amb un canal vertical que arribarà aviat",
+      "link_id": "c_06713a",
+      "source": "Digital Trends",
+      "date": "2026-04-17",
+      "time": "07:20",
+      "summary": "L'aplicació mòbil de Netflix incorporarà un format de vídeo vertical similar a TikTok per descobrir nous continguts ràpidament."
+    },
+    {
+      "title": "Google està fabricant ulleres intel·ligents amb Gucci, i arribaran l'any vinent",
+      "link_id": "c_226e2f",
+      "source": "Digital Trends",
+      "date": "2026-04-17",
+      "time": "06:11",
+      "summary": "Google s'associa amb Gucci per llançar unes ulleres intel·ligents de luxe amb IA, previstes per a l'any 2027."
+    },
+    {
+      "title": "Reed Hastings abandona Netflix després de 29 anys",
+      "link_id": "c_ad9d62",
       "source": "Engadget",
       "date": "2026-04-16",
-      "time": "07:45",
-      "summary": "Malgrat les polítiques estrictes, els algorismes i anuncis promocionen eines explícites, algunes fins i tot classificades per a menors."
+      "time": "21:31",
+      "summary": "El cofundador de Netflix abandonarà la junta directiva al juny per centrar-se en la filantropia i altres projectes personals."
     },
     {
-      "title": "L'extracció de 300 TB de dades de Spotify es converteix en una multa de 300 milions",
-      "link_id": "c_e4a60b",
-      "source": "Android Authority",
+      "title": "La nova Core Series 3 d'Intel és la seva resposta al MacBook Neo",
+      "link_id": "c_25c3af",
+      "source": "PCWorld",
       "date": "2026-04-16",
-      "time": "18:04",
-      "summary": "Anna's Archive rep una condemna històrica per descarregar il·legalment 86 milions de cançons, establint un precedent per a la IA."
+      "time": "18:07",
+      "summary": "Intel llança els processadors Core Series 3 per a portàtils econòmics, oferint alt rendiment i eficiència energètica."
+    },
+    {
+      "title": "Avís: Deixa d'utilitzar el teu carregador sense fil Casely Power Pods immediatament",
+      "link_id": "c_d7b817",
+      "source": "Engadget",
+      "date": "2026-04-17",
+      "time": "06:21",
+      "summary": "Casely retira novament les seves bateries externes MagSafe després de registrar-se explosions i un incident mortal."
+    },
+    {
+      "title": "Meta apuja els preus de les Quest 3 i Quest 3S a causa de l'escassetat de RAM",
+      "link_id": "c_4bb9e4",
+      "source": "CNET",
+      "date": "2026-04-16",
+      "time": "19:42",
+      "summary": "Meta augmentarà el preu dels seus visors de realitat virtual a causa de l'escassetat global de memòria RAM."
     }
   ]
 }

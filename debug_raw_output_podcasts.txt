@@ -1,5 +1,5 @@
 {
-  "generated_at": "2024-05-24T18:00",
+  "generated_at": "2024-05-24T16:00",
   "id": "podcasts",
   "title": "Podcasts en català sobre tecnologia",
   "sources_checked": [],
@@ -10,7 +10,15 @@
       "source": "Mossega la poma",
       "date": "2026-04-10",
       "time": "08:18",
-      "summary": "Anàlisi de com les grans corporacions modelen la intel·ligència artificial i el seu profund impacte ètic i social."
+      "summary": "Anàlisi de l'impacte social i polític de la intel·ligència artificial i la influència de les grans corporacions."
+    },
+    {
+      "title": "L' Altra Ràdio - Especial 50 anys de Ràdio 4",
+      "link_id": "c_e1cd2b",
+      "source": "L'altra ràdio",
+      "date": "2026-04-16",
+      "time": "07:33",
+      "summary": "Edició especial enregistrada al Congrés Internacional de Recerca en Comunicació per celebrar el mig segle de Ràdio 4."
     },
     {
       "title": "L' Altra Ràdio - Condemna judicial a Meta i Google per causar addicció a les xarxes socials",
@@ -18,7 +26,7 @@
       "source": "L'altra ràdio",
       "date": "2026-04-09",
       "time": "07:33",
-      "summary": "Una experta del BSC analitza la sentència històrica als Estats Units sobre l'impacte nociu de les plataformes digitals."
+      "summary": "Valoració de la sentència històrica als Estats Units contra les grans tecnològiques pels danys addictius de les seves plataformes."
     },
     {
       "title": "L' Altra Ràdio - L'ONU i els drets de les dones a la societat i en el sector tecnològic",
@@ -26,7 +34,7 @@
       "source": "L'altra ràdio",
       "date": "2026-04-02",
       "time": "07:33",
-      "summary": "Karina Gibert detalla les iniciatives internacionals per garantir la igualtat de gènere dins l'àmbit de la informàtica."
+      "summary": "Karina Gibert explica les accions de les Nacions Unides per protegir els drets femenins en l'àmbit tecnològic."
     },
     {
       "title": "El gòTIC - Tenim una missió! del 15/4/2026",
@@ -34,7 +42,7 @@
       "source": "El Gòtic",
       "date": "2026-04-14",
       "time": "16:29",
-      "summary": "L'Ajuntament de Tàrrega ofereix noves estratègies i recursos pràctics per empoderar la ciutadania davant els reptes digitals actuals."
+      "summary": "Estratègies i recursos pràctics per ajudar la ciutadania a afrontar els grans reptes del món digital actual."
     },
     {
       "title": "Col·lapse de flotes de robotaxis",
@@ -42,7 +50,7 @@
       "source": "Societat de la Informació",
       "date": "2026-04-14",
       "time": "12:28",
-      "summary": "Una fallada tècnica a Wuhan paralitza desenes de vehicles autònoms de Baidu, generant un gran caos circulatori."
+      "summary": "Una fallada tècnica paralitza desenes de vehicles autònoms de Baidu a Wuhan, provocant un gran caos circulatori."
     },
     {
       "title": "Avui parlem d'urbanisme i dels cables de les façanes, amb Judith Urbano",
@@ -50,7 +58,7 @@
       "source": "Foc a Terra",
       "date": "2026-04-13",
       "time": "04:00",
-      "summary": "Una lliçó magistral sobre la història arquitectònica de Barcelona i els curiosos orígens del seu cablejat urbà."
+      "summary": "La doctora Judith Urbano repassa la història urbanística de Barcelona i l'origen del cablejat a les façanes."
     },
     {
       "title": "Tancat amb Claude",
@@ -58,7 +66,7 @@
       "source": "Foc a Terra",
       "date": "2026-04-06",
       "time": "04:00",
-      "summary": "Descobreix Factory Floor, una nova aplicació nativa per a macOS dissenyada per optimitzar l'ús de Claude Code."
+      "summary": "Descobreix Factory Floor, una nova aplicació nativa per a macOS dissenyada per optimitzar el treball amb Claude Code."
     },
     {
       "title": "Eines d’IA per crear formació",
@@ -66,7 +74,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-04-14",
       "time": "00:00",
-      "summary": "L'equip educatiu de WordPress impulsa nous mètodes amb intel·ligència artificial per unificar la creació de materials didàctics."
+      "summary": "L'equip formatiu proposa nous mètodes i instruccions d'intel·ligència artificial per estandarditzar els materials educatius de la plataforma."
     },
     {
       "title": "No tenim pas res enllestit per a WordPress 7.0",
@@ -74,7 +82,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-04-07",
       "time": "00:00",
-      "summary": "Un gir inesperat en el desenvolupament de la nova versió obliga a replantejar el calendari de llançament."
+      "summary": "El llançament de la nova versió s'enfronta a replantejaments d'última hora després de la publicació de les candidates."
     },
     {
       "title": "Capítol 62: Mitiga, invertir pensant en el risc climàtic",
@@ -82,7 +90,7 @@
       "source": "RAC&GO",
       "date": "2026-04-07",
       "time": "06:00",
-      "summary": "L'empresa Mitiga ajuda les grans corporacions a planificar les seves infraestructures avaluant els perills derivats del canvi climàtic."
+      "summary": "Àlex Martí presenta una solució per ajudar les empreses a prendre decisions estratègiques basades en els riscos climàtics."
     }
   ]
 }

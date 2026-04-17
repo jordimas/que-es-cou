@@ -1,16 +1,16 @@
 {
-  "generated_at": "2024-05-24T16:30",
+  "generated_at": "2024-05-20T16:00",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Els moviments borsaris de TSMC i ASML podrien anticipar el futur de les empreses de xips",
-      "link_id": "c_7302f8",
-      "source": "CNBC Technology",
-      "date": "2026-04-16",
-      "time": "18:03",
-      "summary": "Malgrat els bons resultats, la manca d'impuls borsari suggereix possibles reptes per a tota la indústria dels semiconductors."
+      "title": "Els últims models d'IA podrien amenaçar el sistema bancari mundial, adverteixen els funcionaris",
+      "link_id": "c_631cda",
+      "source": "Financial Times",
+      "date": "2026-04-17",
+      "time": "04:00",
+      "summary": "El model Claude Mythos d'Anthropic evidencia greus vulnerabilitats en la ciberseguretat de les entitats financeres globals."
     },
     {
       "title": "Les empreses britàniques \"s'haurien de preocupar\" per l'últim model d'IA d'Anthropic, segons un ministre",
@@ -18,7 +18,7 @@
       "source": "Financial Times",
       "date": "2026-04-16",
       "time": "17:30",
-      "summary": "El govern llança una unitat de 500 milions de lliures per aprofitar les oportunitats tecnològiques davant aquests avenços."
+      "summary": "El govern llança una unitat de 500 milions de lliures per maximitzar oportunitats davant els nous riscos tecnològics."
     },
     {
       "title": "L'ensurt cibernètic de Mythos assenyala l'economia de l'escassetat de la IA",
@@ -26,15 +26,7 @@
       "source": "Financial Times",
       "date": "2026-04-16",
       "time": "17:05",
-      "summary": "L'accés a models avançats esdevindrà crucial, generant un avantatge competitiu decisiu per a qui domini aquesta tecnologia capdavantera."
-    },
-    {
-      "title": "La intel·ligència artificial té un greu problema d'imatge",
-      "link_id": "c_7e432f",
-      "source": "Financial Times",
-      "date": "2026-04-16",
-      "time": "16:27",
-      "summary": "Els líders tecnològics fracassen a l'hora de demostrar els beneficis reals, alimentant el rebuig social cap a aquestes innovacions."
+      "summary": "L'accés a models avançats esdevindrà crucial a mesura que les capacitats tecnològiques de frontera continuïn progressant ràpidament."
     },
     {
       "title": "Anthropic llança Claude Opus 4.7, un model d'IA menys arriscat que Mythos",
@@ -42,47 +34,55 @@
       "source": "CNBC Technology",
       "date": "2026-04-16",
       "time": "16:25",
-      "summary": "Aquesta nova versió busca equilibrar la potència amb la seguretat, evitant els perills associats a la detecció de vulnerabilitats."
+      "summary": "Aquesta nova versió busca oferir seguretat, contrastant amb la potent capacitat de Mythos per detectar errors de programari."
     },
     {
-      "title": "Anthropic revela plans per a una gran expansió al Regne Unit després de l'anunci d'OpenAI",
-      "link_id": "c_24ce12",
-      "source": "CNBC Technology",
-      "date": "2026-04-16",
-      "time": "14:26",
-      "summary": "El govern britànic ha atret amb èxit l'empresa nord-americana aprofitant les seves recents desavinences amb el Pentàgon."
-    },
-    {
-      "title": "El benefici de TSMC creix un 58% al primer trimestre, superant les estimacions gràcies a la IA",
+      "title": "El benefici de TSMC creix un 58% al primer trimestre, superant les estimacions per la IA",
       "link_id": "c_01f2be",
       "source": "CNBC Technology",
-      "date": "2026-04-16",
-      "time": "12:23",
-      "summary": "L'empresa preveu que aquesta tendència alcista es mantingui, consolidant el seu domini absolut en la fabricació de xips avançats."
+      "date": "2026-04-17",
+      "time": "04:17",
+      "summary": "L'empresa preveu que la forta demanda de xips per a intel·ligència artificial mantingui aquesta tendència de creixement rècord."
     },
     {
-      "title": "Taiwan supera el Regne Unit en valor borsari per l'auge dels xips d'IA",
-      "link_id": "c_c1caa9",
+      "title": "Els moviments borsaris de TSMC i ASML podrien indicar el futur de les empreses de xips",
+      "link_id": "c_7302f8",
+      "source": "CNBC Technology",
+      "date": "2026-04-16",
+      "time": "18:03",
+      "summary": "Malgrat els bons resultats, la manca d'impuls a la borsa suggereix possibles reptes per a tota la indústria."
+    },
+    {
+      "title": "Un rival de Nvidia busca almenys 100 milions de dòlars en ple auge dels xips europeus",
+      "link_id": "c_dec7a2",
+      "source": "CNBC Technology",
+      "date": "2026-04-17",
+      "time": "07:23",
+      "summary": "L'interès dels inversors per les empreses emergents creix, tot i els grans reptes d'aquest sector incipient."
+    },
+    {
+      "title": "Un robot humanoide foragita senglars dels carrers de Varsòvia",
+      "link_id": "c_dfafde",
+      "source": "Financial Times",
+      "date": "2026-04-17",
+      "time": "04:00",
+      "summary": "El vídeo d'aquest autòmat amb un Rolex s'ha fet viral, convertint-lo en el primer influenciador robòtic de Polònia."
+    },
+    {
+      "title": "Els retards en els centres de dades amenacen de frenar l'expansió de la IA",
+      "link_id": "c_de3033",
+      "source": "Financial Times",
+      "date": "2026-04-17",
+      "time": "04:00",
+      "summary": "Prop del 40% de les construccions als Estats Units pateixen bloquejos, afectant projectes clau de Microsoft i OpenAI."
+    },
+    {
+      "title": "Anthropic negocia donar accés al seu model Mythos al govern dels Estats Units",
+      "link_id": "c_d58af8",
       "source": "Financial Times",
       "date": "2026-04-16",
-      "time": "07:03",
-      "summary": "Aquest històric canvi de posicions reflecteix com la tecnologia està reconfigurant ràpidament l'equilibri de poder econòmic mundial."
-    },
-    {
-      "title": "El públic recela de la IA i els centres de dades mentre Anthropic i OpenAI busquen sortir a borsa",
-      "link_id": "c_eebf4e",
-      "source": "CNBC Technology",
-      "date": "2026-04-15",
-      "time": "23:58",
-      "summary": "Aquest creixent escepticisme ciutadà podria complicar les ofertes públiques inicials i esdevenir un tema clau en les properes eleccions."
-    },
-    {
-      "title": "Les accions quàntiques s'encaminen a una gran setmana després que Nvidia presenti models d'IA per impulsar-les",
-      "link_id": "c_8735fe",
-      "source": "CNBC Technology",
-      "date": "2026-04-16",
-      "time": "18:00",
-      "summary": "Els gegants tecnològics intensifiquen les inversions en maquinari especialitzat, accelerant la convergència entre la computació quàntica i l'aprenentatge automàtic."
+      "time": "23:30",
+      "summary": "Les converses avancen malgrat les demandes federals sobre si l'empresa emergent suposa un risc per a la seguretat."
     }
   ]
 }
