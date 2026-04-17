@@ -1,88 +1,88 @@
 {
-  "generated_at": "2024-05-24T12:00",
+  "generated_at": "2024-05-24T16:00",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Gemini de Google irromp als Mac d'Apple i s'avança a Siri",
-      "link_id": "c_8cc266",
+      "title": "L'últim model d'Anthropic és deliberadament menys potent que Mythos (i aquesta és la idea)",
+      "link_id": "c_683fb6",
+      "source": "InfoWorld",
+      "date": "2026-04-17",
+      "time": "02:33",
+      "summary": "Opus 4.7 millora la programació i visió, però Anthropic limita la seva potència per motius de seguretat respecte a Mythos."
+    },
+    {
+      "title": "OpenAI actualitza dràsticament l'aplicació d'escriptori Codex per utilitzar altres aplicacions, generar imatges i previsualitzar webs",
+      "link_id": "c_65ead1",
+      "source": "VentureBeat",
+      "date": "2026-04-16",
+      "time": "18:36",
+      "summary": "La nova versió permet a l'assistent d'IA controlar el teu ordinador, automatitzant tasques complexes més enllà de la programació."
+    },
+    {
+      "title": "Com l'actualització del mode IA de Google reduirà el desordre de pestanyes en cercar",
+      "link_id": "c_4913dd",
+      "source": "ZDNet",
+      "date": "2026-04-16",
+      "time": "18:36",
+      "summary": "Chrome ara obre els resultats de cerca al costat del xat d'IA, evitant haver de canviar constantment de pestanya."
+    },
+    {
+      "title": "El cofundador de Netflix, Reed Hastings, abandona la plataforma de streaming",
+      "link_id": "c_2c9ced",
+      "source": "The Guardian Tech",
+      "date": "2026-04-17",
+      "time": "08:29",
+      "summary": "Després de gairebé 30 anys, el directiu deixa el consell d'administració per centrar-se en la filantropia i altres projectes."
+    },
+    {
+      "title": "Adobe i Canva volen que els seus agents d'IA substitueixin el teu flux de treball creatiu",
+      "link_id": "c_9a7ab2",
+      "source": "PCWorld",
+      "date": "2026-04-16",
+      "time": "19:33",
+      "summary": "Ambdues plataformes aposten per assistents intel·ligents que automatitzen tasques complexes de disseny, transformant els creadors en directors d'art."
+    },
+    {
+      "title": "Netflix s'assemblarà més a una xarxa social amb el seu pròxim canal de vídeos verticals",
+      "link_id": "c_06713a",
       "source": "Digital Trends",
-      "date": "2026-04-15",
-      "time": "21:39",
-      "summary": "L'aplicació nativa i gratuïta de Gemini arriba als Mac amb dreceres de teclat, avançant-se a la renovació de Siri."
+      "date": "2026-04-17",
+      "time": "07:20",
+      "summary": "L'aplicació mòbil introduirà un format similar a TikTok per descobrir noves sèries i pel·lícules lliscant la pantalla ràpidament."
     },
     {
-      "title": "La marca de sabates Allbirds es reinventa com a centre de dades d'IA",
-      "link_id": "c_c21262",
-      "source": "Tom's Hardware",
-      "date": "2026-04-16",
-      "time": "10:40",
-      "summary": "L'empresa ven el seu negoci principal per oferir serveis al núvol i GPU, disparant les seves accions un 580%."
+      "title": "Google fabrica unes ulleres intel·ligents amb Gucci que arribaran l'any vinent",
+      "link_id": "c_226e2f",
+      "source": "Digital Trends",
+      "date": "2026-04-17",
+      "time": "06:11",
+      "summary": "Aquesta aliança busca fusionar moda de luxe i tecnologia de realitat mixta per competir amb les ulleres de Meta."
     },
     {
-      "title": "Per fi! YouTube ja permet desactivar els Shorts amb un truc enginyós",
-      "link_id": "c_bdb39f",
-      "source": "Android Authority",
-      "date": "2026-04-16",
-      "time": "10:07",
-      "summary": "Una nova configuració de la plataforma permet als usuaris amagar els vídeos curts per evitar distraccions innecessàries."
+      "title": "Gemini ara crea imatges personalitzades entenent els teus gustos des de la biblioteca de Fotos",
+      "link_id": "c_7b218d",
+      "source": "Digital Trends",
+      "date": "2026-04-17",
+      "time": "07:14",
+      "summary": "La intel·ligència artificial de Google analitza les teves imatges personals per generar contingut visual adaptat a les teves preferències."
     },
     {
-      "title": "Microsoft regala programari a universitaris per competir amb el MacBook Neo",
-      "link_id": "c_26f327",
+      "title": "Els processadors Intel Core Series 3 ja són aquí i prometen més rendiment per menys diners",
+      "link_id": "c_caa954",
       "source": "Digital Trends",
       "date": "2026-04-16",
-      "time": "11:26",
-      "summary": "L'empresa ofereix subscripcions gratuïtes i descomptes en portàtils Windows 11 per atreure estudiants davant la forta competència d'Apple."
+      "time": "17:38",
+      "summary": "Aquests nous xips econòmics per a portàtils ofereixen arquitectura híbrida i capacitats d'IA per competir amb els MacBook Neo."
     },
     {
-      "title": "El Motorola Razr Fold podria arribar a les botigues el mes vinent",
-      "link_id": "c_10b5de",
-      "source": "Digital Trends",
-      "date": "2026-04-16",
-      "time": "10:55",
-      "summary": "El primer telèfon plegable tipus llibre de la marca ja té data de llançament i descomptes per a reserves."
-    },
-    {
-      "title": "L'aplicació Nothing Warp desapareix menys de 24 hores després del seu llançament",
-      "link_id": "c_d1c142",
-      "source": "TechRadar",
-      "date": "2026-04-16",
-      "time": "10:40",
-      "summary": "Aquesta prometedora alternativa a AirDrop per transferir fitxers entre dispositius ha estat retirada sobtadament sense cap explicació oficial."
-    },
-    {
-      "title": "YouTube Premium redueix el preu a la meitat per als subscriptors de Google One",
-      "link_id": "c_27d730",
-      "source": "Digital Trends",
-      "date": "2026-04-16",
-      "time": "07:37",
-      "summary": "Google ofereix un descompte del 50% per compensar les recents pujades de preu, vinculant-ho al seu ecosistema d'IA."
-    },
-    {
-      "title": "Podrien arribar a desmantellar Live Nation malgrat tot?",
-      "link_id": "c_147ab3",
-      "source": "TechCrunch",
-      "date": "2026-04-15",
-      "time": "21:38",
-      "summary": "Un jurat federal ha declarat que l'empresa actua com un monopoli il·legal, posant en dubte el seu futur."
-    },
-    {
-      "title": "El nou Fire TV Stick d'Amazon es pot alimentar pel port USB del televisor",
-      "link_id": "c_1f55e3",
-      "source": "9to5Google",
-      "date": "2026-04-15",
-      "time": "19:05",
-      "summary": "Aquest model més prim i assequible elimina la necessitat d'un adaptador de corrent, simplificant-ne molt la instal·lació."
-    },
-    {
-      "title": "La IA d'Adobe Firefly et permetrà editar programari creatiu només parlant",
-      "link_id": "c_3d9879",
-      "source": "Digital Trends",
-      "date": "2026-04-15",
-      "time": "15:26",
-      "summary": "El nou assistent executarà fluxos de treball complexos a Photoshop i Premiere a partir de simples instruccions de veu."
+      "title": "El nostre veredicte sobre la nova càmera DJI Osmo Pocket 4",
+      "link_id": "c_819a3d",
+      "source": "Engadget",
+      "date": "2026-04-17",
+      "time": "11:15",
+      "summary": "Aquesta càmera de butxaca destaca pel seu sensor d'una polzada i l'enregistrament 4K, ideal per a creadors de contingut."
     }
   ]
 }

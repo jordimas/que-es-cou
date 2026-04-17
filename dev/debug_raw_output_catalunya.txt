@@ -1,12 +1,12 @@
 {
-  "generated_at": "2024-05-24T16:00",
+  "generated_at": "2024-05-20T16:00",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
     {
       "name": "Ara.cat",
       "url": "https://www.ara.cat/rss/",
-      "articles_found": 10
+      "articles_found": 9
     },
     {
       "name": "El Periódico",
@@ -16,7 +16,7 @@
     {
       "name": "RAC1",
       "url": "https://www.rac1.cat/rss/home.xml",
-      "articles_found": 1
+      "articles_found": 4
     },
     {
       "name": "La Vanguardia (en català)",
@@ -36,7 +36,7 @@
     {
       "name": "324.cat",
       "url": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0",
-      "articles_found": 5
+      "articles_found": 6
     },
     {
       "name": "Softcatalà",
@@ -46,12 +46,12 @@
     {
       "name": "El Nacional.cat",
       "url": "https://www.elnacional.cat/uploads/feeds/feed_ca.xml",
-      "articles_found": 15
+      "articles_found": 9
     },
     {
       "name": "El Mon.cat",
       "url": "https://www.elmon.cat/feed/",
-      "articles_found": 0
+      "articles_found": 1
     },
     {
       "name": "El Mon.cat Tecnologia",
@@ -61,22 +61,22 @@
     {
       "name": "El Mon.cat Societat",
       "url": "https://elmon.cat/societat/feed/",
-      "articles_found": 0
+      "articles_found": 1
     },
     {
       "name": "Betevé",
       "url": "https://beteve.cat/feed/",
-      "articles_found": 0
+      "articles_found": 2
     },
     {
       "name": "El Punt Avui",
       "url": "https://www.elpuntavui.cat/barcelona.feed?type=rss",
-      "articles_found": 0
+      "articles_found": 1
     },
     {
       "name": "Segre",
       "url": "https://www.segre.com/ca/rss/home.xml",
-      "articles_found": 1
+      "articles_found": 2
     },
     {
       "name": "Regio7",
@@ -116,7 +116,7 @@
     {
       "name": "Cugat.cat",
       "url": "https://www.cugat.cat/feed/",
-      "articles_found": 2
+      "articles_found": 0
     },
     {
       "name": "CatalunyaPress",
@@ -156,7 +156,7 @@
     {
       "name": "MetaData",
       "url": "https://www.metadata.cat/sindica",
-      "articles_found": 11
+      "articles_found": 14
     },
     {
       "name": "El Temps",
@@ -171,7 +171,7 @@
     {
       "name": "El Periòdic d'Ontinyent",
       "url": "https://www.elperiodicvalencia.com/?feed=rss2",
-      "articles_found": 1
+      "articles_found": 0
     },
     {
       "name": "Saó",
@@ -186,12 +186,12 @@
     {
       "name": "IB3 Notícies",
       "url": "https://ib3.org/feed/",
-      "articles_found": 2
+      "articles_found": 0
     },
     {
       "name": "Ara Balears",
       "url": "https://www.arabalears.cat/rss/",
-      "articles_found": 4
+      "articles_found": 5
     },
     {
       "name": "Manacor Comarcal",
@@ -216,12 +216,12 @@
   ],
   "articles": [
     {
-      "title": "Brussel·les proposa un dia de teletreball a la setmana per fer front a la crisi energètica",
-      "link_id": "c_023eb2",
-      "source": "324.cat",
-      "date": "2026-04-15",
-      "time": "20:19",
-      "summary": "La mesura busca reduir el consum energètic, acompanyada d'iniciatives per abaratir el transport i tancar edificis públics."
+      "title": "Level retalla vols en quatre rutes que connecten amb Barcelona en un context d'\"escassetat\" en el subministrament",
+      "link_id": "c_24b6c4",
+      "source": "RAC1",
+      "date": "2026-04-16",
+      "time": "18:57",
+      "summary": "L'aerolínia ajusta la seva operativa d'estiu a causa de la manca de motors, afectant connexions clau des del Prat."
     },
     {
       "title": "Catalunya accelera l’aposta pels centres de dades amb 26 projectes potencials i set pols territorials",
@@ -229,71 +229,71 @@
       "source": "MetaData",
       "date": "2026-04-14",
       "time": "15:52",
-      "summary": "El Govern vol consolidar el territori com a referent digital al sud d'Europa impulsant infraestructures clau per a la IA."
+      "summary": "El Govern busca consolidar el territori com a eix digital mediterrani per garantir la sobirania tecnològica i impulsar la IA."
     },
     {
-      "title": "Com funcionarà l'app per verificar l'edat a les xarxes presentada per la Comissió Europea",
-      "link_id": "c_f63b79",
-      "source": "324.cat",
-      "date": "2026-04-15",
-      "time": "22:11",
-      "summary": "Aquesta eina gratuïta i de codi obert protegirà els menors sense comprometre les seves dades personals a internet."
-    },
-    {
-      "title": "Els usuaris de Rodalies es reuneixen amb el ministre Puente tres mesos després d'esclatar la crisi",
-      "link_id": "c_812f5e",
-      "source": "324.cat",
-      "date": "2026-04-15",
-      "time": "19:06",
-      "summary": "El govern espanyol es compromet a desencallar diversos estudis d'obres pendents per millorar el servei ferroviari a Catalunya."
-    },
-    {
-      "title": "A partir d'octubre, el govern obligaràa fer ús del prefix 400 en les telefonades comercials",
-      "link_id": "c_c23f36",
-      "source": "Àpunt",
-      "date": "2026-04-16",
-      "time": "10:23",
-      "summary": "La nova normativa facilitarà la identificació de trucades de màrqueting i bloquejarà missatges d'empreses no registrades oficialment."
-    },
-    {
-      "title": "Barcelona atrau un altre congrés sobre tecnologia: acollirà al maig la primera Trobada Internacional de Drets Digitals",
-      "link_id": "c_8b1f6f",
-      "source": "El Periódico",
-      "date": "2026-04-16",
-      "time": "12:02",
-      "summary": "La capital catalana reforça el seu lideratge tecnològic amb un esdeveniment centrat en l'ètica i la governança digital."
-    },
-    {
-      "title": "CerviSense, la tecnologia catalana que anticipa el part prematur i transforma la ginecologia",
-      "link_id": "c_1acdc9",
+      "title": "Brussel·les impulsa una app de verificació d’edat per restringir l’accés dels menors a internet a la UE",
+      "link_id": "c_11b5d2",
       "source": "MetaData",
-      "date": "2026-04-16",
-      "time": "09:49",
-      "summary": "Aquest innovador dispositiu utilitza intel·ligència artificial per predir riscos en l'embaràs amb una setmana d'antelació."
-    },
-    {
-      "title": "El tren Palma-Llucmajor arribarà a l'aeroport en poc més de deu minuts",
-      "link_id": "c_dd3fdf",
-      "source": "Ara Balears",
       "date": "2026-04-15",
-      "time": "11:40",
-      "summary": "La nova infraestructura ferroviària, prevista per al 2032, connectarà ràpidament diversos barris i donarà servei a milions de passatgers."
+      "time": "16:37",
+      "summary": "Aquesta eina de codi obert protegirà la privacitat dels usuaris mentre assegura un entorn digital més segur per als joves."
     },
     {
-      "title": "La Generalitat impulsa un nou servei llançadora per millorar la mobilitat al Parc Tecnològic de Paterna",
-      "link_id": "c_59fe9f",
-      "source": "El Periòdic d'Ontinyent",
-      "date": "2026-04-16",
-      "time": "10:33",
-      "summary": "Aquesta connexió directa amb Metrovalencia busca descongestionar els accessos i fomentar l'ús del transport públic sostenible."
+      "title": "«No hi haurà alleujament»: la febre de la IA desencadena l’«apocalipsi de la memòria informàtica» i dispara el preu de mòbils i ordinadors",
+      "link_id": "c_577a57",
+      "source": "El Periódico",
+      "date": "2026-04-15",
+      "time": "11:05",
+      "summary": "L'alta demanda de memòria RAM per processar intel·ligència artificial encareix dràsticament els dispositius electrònics de consum diari."
     },
     {
-      "title": "La fi de les falsificacions? La catalana Distinkt impulsa l'autenticitat amb tintes intel·ligents",
-      "link_id": "c_faf00d",
-      "source": "Via Empresa",
+      "title": "Competència obre expedients sancionadors arran de l'apagada elèctrica",
+      "link_id": "c_aff8d8",
+      "source": "Ara.cat",
+      "date": "2026-04-17",
+      "time": "07:48",
+      "summary": "La CNMC investiga possibles incompliments normatius que haurien provocat el greu tall de subministrament de l'abril passat."
+    },
+    {
+      "title": "Les franceses recorren a Catalunya per a la reproducció assistida pels límits legals al seu país",
+      "link_id": "c_9f6782",
+      "source": "324.cat",
       "date": "2026-04-16",
-      "time": "04:55",
-      "summary": "L'empresa emergent utilitza nanotecnologia aplicable a múltiples materials per combatre el frau en productes de consum."
+      "time": "16:04",
+      "summary": "Les restriccions i llargues llistes d'espera a França converteixen les clíniques catalanes en un refugi per a futures mares."
+    },
+    {
+      "title": "L'Agència de l'Energia alerta d'una possible falta de combustible per a avions a Europa en sis setmanes",
+      "link_id": "c_97fc63",
+      "source": "Ara.cat",
+      "date": "2026-04-16",
+      "time": "17:44",
+      "summary": "La dependència del querosè provinent del Pròxim Orient amenaça de paralitzar part del trànsit aeri al continent europeu."
+    },
+    {
+      "title": "La fàbrica de Seat a Martorell deixa de produir l’Audi A1",
+      "link_id": "c_78c72b",
+      "source": "Ara.cat",
+      "date": "2026-04-16",
+      "time": "07:01",
+      "summary": "Aquesta decisió posa fi a quinze anys de col·laboració directa entre la planta del Baix Llobregat i la marca alemanya."
+    },
+    {
+      "title": "Tres afectats per una explosió en un laboratori del centre tecnològic Eurecat de Manresa",
+      "link_id": "c_605eeb",
+      "source": "El Periódico",
+      "date": "2026-04-13",
+      "time": "14:46",
+      "summary": "Una deflagració química obliga a evacuar l'edifici i deixa un ferit traslladat a l'hospital amb pronòstic menys greu."
+    },
+    {
+      "title": "Així són les ulleres intel·ligents que s’han utilitzat en diversos exàmens de conduir: la Guàrdia Civil avisa de les d’infraccions molt greus que es poden estar cometent",
+      "link_id": "c_bf07a9",
+      "source": "El Periódico",
+      "date": "2026-04-13",
+      "time": "14:45",
+      "summary": "L'ús de dispositius espia per aprovar les proves teòriques de trànsit suposa un frau creixent perseguit per les autoritats."
     }
   ]
 }
