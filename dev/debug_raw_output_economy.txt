@@ -1,88 +1,72 @@
 {
-  "generated_at": "2024-05-24T16:00",
+  "generated_at": "2026-04-18T13:25",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Els últims models d'IA podrien amenaçar el sistema bancari mundial, adverteixen els funcionaris financers",
-      "link_id": "c_631cda",
+      "title": "Podem crear robots que es mengin altres robots?",
+      "link_id": "c_90c7bc",
       "source": "Financial Times",
-      "date": "2026-04-17",
+      "date": "2026-04-18",
       "time": "04:00",
-      "summary": "El model Claude Mythos d'Anthropic podria exposar greus vulnerabilitats en les defenses cibernètiques de les entitats de crèdit."
+      "summary": "Els investigadors busquen desenvolupar vida artificial capaç de reproduir-se, un repte tecnològic que genera gran entusiasme malgrat les dificultats."
     },
     {
-      "title": "Anthropic negocia donar accés al seu model Mythos al govern dels EUA",
+      "title": "OpenAI perd diversos executius en una nova reestructuració directiva",
+      "link_id": "c_09eb68",
+      "source": "CNBC Technology",
+      "date": "2026-04-17",
+      "time": "23:45",
+      "summary": "Aquestes sortides aprofundeixen la inestabilitat interna de l'empresa, sumant-se a la recent baixa mèdica de la cap de producte."
+    },
+    {
+      "title": "El fabricant de xips d'IA Cerebras sol·licita sortir a borsa",
+      "link_id": "c_7485b1",
+      "source": "CNBC Technology",
+      "date": "2026-04-17",
+      "time": "23:23",
+      "summary": "L'empresa reprèn els plans d'oferta pública inicial i preveu expandir la seva aliança estratègica amb OpenAI properament."
+    },
+    {
+      "title": "El CEO d'Anthropic es reuneix amb la Casa Blanca pel model Mythos",
       "link_id": "c_d58af8",
       "source": "Financial Times",
-      "date": "2026-04-16",
-      "time": "23:30",
-      "summary": "Aquestes converses es produeixen malgrat les demandes federals sobre si l'empresa representa un risc per a la seguretat nacional."
-    },
-    {
-      "title": "Les empreses britàniques \"haurien de preocupar-se\" per l'últim model d'IA d'Anthropic, segons un ministre",
-      "link_id": "c_d8b24b",
-      "source": "Financial Times",
-      "date": "2026-04-16",
-      "time": "17:30",
-      "summary": "El govern llança una unitat de 500 milions de lliures per aprofitar les oportunitats tecnològiques i mitigar riscos."
-    },
-    {
-      "title": "L'ensurt cibernètic de Mythos assenyala l'economia de l'escassetat de la IA",
-      "link_id": "c_42369f",
-      "source": "Financial Times",
-      "date": "2026-04-16",
-      "time": "17:05",
-      "summary": "A mesura que els models avancen, obtenir accés exclusiu a aquesta tecnologia esdevindrà un factor crític i competitiu."
-    },
-    {
-      "title": "Anthropic llança Claude Opus 4.7, un model d'IA menys arriscat que Mythos",
-      "link_id": "c_49dc61",
-      "source": "CNBC Technology",
-      "date": "2026-04-16",
-      "time": "16:25",
-      "summary": "Aquesta nova versió busca oferir seguretat mentre Mythos continua destacant en la identificació de vulnerabilitats de programari."
-    },
-    {
-      "title": "Els rivals de xips d'IA de Nvidia atreuen un finançament rècord a mesura que augmenta la competència",
-      "link_id": "c_261260",
-      "source": "CNBC Technology",
       "date": "2026-04-17",
-      "time": "11:22",
-      "summary": "Diverses empreses emergents capten inversions massives amb l'objectiu de desafiar la supremacia actual del gegant dels semiconductors."
+      "time": "22:10",
+      "summary": "La trobada amb Susie Wiles es produeix enmig de tensions legals sobre els possibles riscos de seguretat nacional de l'IA."
     },
     {
-      "title": "Un rival de Nvidia busca almenys 100 milions de dòlars de finançament pel boom europeu dels xips d'IA",
-      "link_id": "c_dec7a2",
-      "source": "CNBC Technology",
-      "date": "2026-04-17",
-      "time": "07:23",
-      "summary": "L'interès dels inversors creix ràpidament, tot i que aquest sector emergent encara s'enfronta a grans reptes estructurals."
-    },
-    {
-      "title": "El benefici del primer trimestre de TSMC augmenta un 58% i supera les estimacions gràcies a la IA",
-      "link_id": "c_01f2be",
-      "source": "CNBC Technology",
-      "date": "2026-04-17",
-      "time": "04:17",
-      "summary": "L'empresa preveu que la forta demanda d'intel·ligència artificial continuï impulsant el seu creixement durant els pròxims mesos."
-    },
-    {
-      "title": "Un robot humanoide foragita senglars dels carrers de Varsòvia",
-      "link_id": "c_dfafde",
+      "title": "La emergent Recursive capta 500 milions de dòlars per a IA autodidacta",
+      "link_id": "c_f8f6df",
       "source": "Financial Times",
       "date": "2026-04-17",
-      "time": "04:00",
-      "summary": "El vídeo d'aquest robot amb un Rolex s'ha fet viral, convertint-lo en el primer influenciador robòtic de Polònia."
+      "time": "21:10",
+      "summary": "Fundada per exenginyers de DeepMind, la companyia assoleix una valoració multimilionària gràcies al suport de Google i Nvidia."
     },
     {
-      "title": "Els retards en els centres de dades amenacen de frenar l'expansió de la IA",
-      "link_id": "c_de3033",
+      "title": "Perspectiva: La demanda d'IA està inflada i només Anthropic és realista",
+      "link_id": "c_cf9aa4",
+      "source": "CNBC Technology",
+      "date": "2026-04-17",
+      "time": "19:10",
+      "summary": "Les mètriques d'ús basades en tòquens podrien estar exagerant el creixement real del mercat de la intel·ligència artificial."
+    },
+    {
+      "title": "Els riscos de Mythos no són cap mite",
+      "link_id": "c_93a429",
       "source": "Financial Times",
       "date": "2026-04-17",
-      "time": "04:00",
-      "summary": "Prop del 40% de les construccions als EUA pateixen bloquejos, afectant projectes clau de Microsoft i OpenAI."
+      "time": "17:27",
+      "summary": "S'adverteix que els Estats Units confien excessivament en l'autoregulació de la indústria tecnològica davant els perills dels nous models."
+    },
+    {
+      "title": "Dario Amodei d'Anthropic: \"No vull que l'IA es giri contra la nostra gent\"",
+      "link_id": "c_3ae99c",
+      "source": "Financial Times",
+      "date": "2026-04-17",
+      "time": "11:30",
+      "summary": "L'empresari reflexiona sobre les conseqüències del conflicte amb el Pentàgon i llança un missatge d'alerta a les elits econòmiques."
     }
   ]
 }
