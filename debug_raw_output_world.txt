@@ -1,109 +1,88 @@
 {
-  "generated_at": "2026-04-18T09:54",
+  "generated_at": "2026-04-18T19:34",
   "id": "world",
   "title": "Notícies tecnològiques del món",
-  "sources_checked": [
-    {
-      "name": "AnandTech",
-      "url": "https://www.anandtech.com/rss/",
-      "articles_found": 0
-    },
-    {
-      "name": "Wall Street Journal Tech",
-      "url": "https://feeds.a.dj.com/rss/RSSWSJD.xml",
-      "articles_found": 0
-    },
-    {
-      "name": "Gizmodo",
-      "url": "https://www.gizmodo.com/feed/rss",
-      "articles_found": 0
-    },
-    {
-      "name": "Slashdot",
-      "url": "https://slashdot.org/rss/slashdot.rss",
-      "articles_found": 0
-    }
-  ],
+  "sources_checked": [],
   "articles": [
     {
-      "title": "Anthropic llança Claude Design, un nou producte per crear elements visuals ràpidament",
-      "link_id": "c_a267ae",
+      "title": "La relació d'Anthropic amb l'administració Trump sembla estar millorant",
+      "link_id": "c_0712c9",
       "source": "TechCrunch",
-      "date": "2026-04-17",
-      "time": "15:00",
-      "summary": "Aquesta eina permet a usuaris sense experiència en disseny generar prototips i presentacions mitjançant instruccions de text."
+      "date": "2026-04-18",
+      "time": "14:56",
+      "summary": "Malgrat ser considerada un risc pel Pentàgon, l'empresa d'IA manté converses amb alts càrrecs del govern nord-americà."
     },
     {
-      "title": "El projecte World de Sam Altman busca escalar el seu imperi de verificació humana començant per Tinder",
-      "link_id": "c_4bfa1f",
-      "source": "TechCrunch",
-      "date": "2026-04-17",
-      "time": "22:34",
-      "summary": "L'empresa s'associa amb plataformes com Zoom per combatre els fraus i els perfils falsos generats per intel·ligència artificial."
+      "title": "Tres alts executius més abandonen OpenAI mentre l'empresa elimina projectes secundaris",
+      "link_id": "c_604f3c",
+      "source": "The Next Web",
+      "date": "2026-04-18",
+      "time": "10:13",
+      "summary": "La sortida coincideix amb el tancament de Sora i la divisió científica per centrar-se en objectius empresarials clau."
     },
     {
-      "title": "La Casa Blanca i Anthropic mantenen una reunió \"productiva\" buscant un compromís",
-      "link_id": "c_9f19b7",
-      "source": "NYT Technology",
+      "title": "World ID amplia la seva visió de \"prova d'humanitat\" per a l'era de la IA",
+      "link_id": "c_685236",
+      "source": "Computerworld",
       "date": "2026-04-17",
-      "time": "23:45",
-      "summary": "El govern nord-americà vol garantir l'accés al model Mythos, considerat crucial per a la ciberseguretat i defensa nacional."
+      "time": "22:57",
+      "summary": "La iniciativa de Sam Altman llança noves eines i integracions per verificar identitats digitals davant l'auge dels bots."
     },
     {
-      "title": "Kevin Weil i Bill Peebles abandonen OpenAI mentre l'empresa continua eliminant projectes secundaris",
-      "link_id": "c_5c9517",
-      "source": "TechCrunch",
-      "date": "2026-04-17",
-      "time": "20:38",
-      "summary": "La sortida dels directius coincideix amb el tancament de Sora, marcant un clar gir cap a la IA empresarial."
+      "title": "El MacBook Neo demostra que Apple encara no sap fer un bon iPhone econòmic",
+      "link_id": "c_83c830",
+      "source": "Digital Trends",
+      "date": "2026-04-18",
+      "time": "07:45",
+      "summary": "L'èxit del nou portàtil assequible contrasta amb les limitacions i la frustració que genera el model iPhone 17e."
     },
     {
-      "title": "Casely torna a retirar les bateries sense fil Power Pods per risc d'incendi i cremades",
-      "link_id": "c_61f00f",
-      "source": "CNET",
-      "date": "2026-04-17",
-      "time": "16:30",
-      "summary": "La mesura arriba després de registrar-se nous incidents greus, incloent-hi una explosió en ple vol i una víctima mortal."
+      "title": "Cursor busca captar 2.000 milions de dòlars amb una valoració de 50.000 milions",
+      "link_id": "c_5af9e4",
+      "source": "The Next Web",
+      "date": "2026-04-18",
+      "time": "10:26",
+      "summary": "La startup de programació assistida per IA duplica el seu valor gràcies al ràpid creixement del sector del programari."
     },
     {
-      "title": "Netflix planeja afegir un canal de vídeos verticals i utilitzar IA per a recomanacions",
-      "link_id": "c_eb628c",
-      "source": "TechCrunch",
+      "title": "Aquesta bateria MagSafe va ser retirada fa un any, però continua causant ferits",
+      "link_id": "c_bfd51a",
+      "source": "Android Authority",
       "date": "2026-04-17",
-      "time": "13:17",
-      "summary": "La plataforma busca millorar el descobriment de continguts amb un format similar al de TikTok i l'ús d'algoritmes avançats."
+      "time": "19:55",
+      "summary": "El dispositiu defectuós de Casely, relacionat amb un accident mortal, segueix en circulació malgrat les alertes de seguretat."
     },
     {
-      "title": "Cerebras, fabricant de xips d'IA, sol·licita sortir a borsa en ple auge tecnològic",
+      "title": "Palantir, Thales i una startup competeixen per crear la IA de trànsit aeri de la FAA",
+      "link_id": "c_3ed26d",
+      "source": "The Next Web",
+      "date": "2026-04-18",
+      "time": "10:38",
+      "summary": "El nou sistema predirà conflictes a l'espai aeri amb dues hores d'antelació per millorar la seguretat dels vols."
+    },
+    {
+      "title": "T'has quedat sense el Galaxy Z TriFold? Un successor amb nova frontissa podria estar en camí",
+      "link_id": "c_b7e997",
+      "source": "Android Authority",
+      "date": "2026-04-18",
+      "time": "04:06",
+      "summary": "Després d'esgotar-se ràpidament, Samsung ja estaria desenvolupant una versió millorada del seu innovador telèfon plegable de tres pantalles."
+    },
+    {
+      "title": "L'Índia no exigirà a Apple preinstal·lar l'aplicació d'identificació del govern als iPhones",
+      "link_id": "c_d7b925",
+      "source": "MacRumors",
+      "date": "2026-04-17",
+      "time": "15:07",
+      "summary": "Les autoritats descarten obligar els fabricants a incloure programari biomètric estatal per defecte als seus dispositius mòbils."
+    },
+    {
+      "title": "Cerebras, fabricant de xips d'IA, sol·licita sortir a borsa en plena onada d'ofertes tecnològiques",
       "link_id": "c_7901b2",
       "source": "NYT Technology",
       "date": "2026-04-17",
       "time": "22:03",
-      "summary": "L'empresa de Silicon Valley s'uneix a la propera onada de grans ofertes públiques inicials del sector de la intel·ligència artificial."
-    },
-    {
-      "title": "Cursor negocia captar més de 2.000 milions de dòlars amb una valoració de 50.000 milions",
-      "link_id": "c_0256d4",
-      "source": "TechCrunch",
-      "date": "2026-04-17",
-      "time": "19:17",
-      "summary": "L'eina de programació assistida per IA atreu inversors com a16z gràcies al seu ràpid creixement en el mercat empresarial."
-    },
-    {
-      "title": "L'IPv6 podria haver representat breument més de la meitat del trànsit d'internet",
-      "link_id": "c_87d571",
-      "source": "NetworkWorld",
-      "date": "2026-04-17",
-      "time": "17:59",
-      "summary": "Segons dades de Google, el protocol de xarxa va superar el 50% d'ús, marcant una fita històrica d'adopció."
-    },
-    {
-      "title": "Els pirates informàtics abusen de fallades de seguretat de Windows sense apedaçar per atacar organitzacions",
-      "link_id": "c_2c669b",
-      "source": "TechCrunch",
-      "date": "2026-04-17",
-      "time": "17:48",
-      "summary": "Els ciberdelinqüents aprofiten vulnerabilitats recents de Windows Defender revelades per un investigador per infiltrar-se en xarxes corporatives."
+      "summary": "L'empresa de Silicon Valley s'uneix a la tendència de grans sortides a borsa al costat d'altres gegants tecnològics."
     }
   ]
 }

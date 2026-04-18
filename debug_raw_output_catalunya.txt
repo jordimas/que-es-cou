@@ -1,24 +1,16 @@
 {
-  "generated_at": "2026-04-18T08:00",
+  "generated_at": "2026-04-18T17:40",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [],
   "articles": [
-    {
-      "title": "La CNMC obre expedient a Red Eléctrica i als gegants energètics per la gran apagada del 2025",
-      "link_id": "c_8ff245",
-      "source": "324.cat",
-      "date": "2026-04-17",
-      "time": "18:02",
-      "summary": "S'investiguen possibles negligències greus de les principals companyies elèctriques que haurien provocat el tall massiu de subministrament."
-    },
     {
       "title": "Nous centres de dades a Catalunya: la Generalitat identifica fins a 26 projectes de núvol i IA per a la pròxima dècada",
       "link_id": "c_ce2c3d",
       "source": "El Periódico",
       "date": "2026-04-14",
       "time": "12:42",
-      "summary": "El Govern busca consolidar el territori com a motor tecnològic europeu impulsant infraestructures clau per al món digital."
+      "summary": "El Govern busca consolidar el territori com a referent tecnològic europeu impulsant infraestructures clau per al sector digital."
     },
     {
       "title": "Brussel·les impulsa una app de verificació d’edat per restringir l’accés dels menors a internet a la UE",
@@ -26,7 +18,7 @@
       "source": "MetaData",
       "date": "2026-04-15",
       "time": "16:37",
-      "summary": "Aquesta eina de codi obert protegirà la privacitat dels usuaris mentre garanteix un entorn digital més segur per als joves."
+      "summary": "Aquesta eina de codi obert protegirà la privacitat dels usuaris vinculant-se a carteres digitals sense exposar dades personals."
     },
     {
       "title": "La traducció automàtica per defecte a X obre un debat sobre el futur del català a les xarxes",
@@ -34,7 +26,15 @@
       "source": "MetaData",
       "date": "2026-04-15",
       "time": "08:44",
-      "summary": "L'ús de la intel·ligència artificial per traduir missatges amenaça la presència i l'impacte de les llengües minoritzades a internet."
+      "summary": "La nova funcionalitat d'intel·ligència artificial genera preocupació per la possible pèrdua de visibilitat de les llengües minoritzades."
+    },
+    {
+      "title": "La policia alerta d’estafes en la campanya de la renda amb ús d’intel·ligència artificial",
+      "link_id": "c_335d58",
+      "source": "Àpunt",
+      "date": "2026-04-18",
+      "time": "08:09",
+      "summary": "Els ciberdelinqüents utilitzen correus falsos i suplantació d'identitat per enganyar els contribuents amb suposades devolucions pendents."
     },
     {
       "title": "Així funcionarà el prefix 400 per frenar l’spam telefònic",
@@ -42,47 +42,47 @@
       "source": "Lleida Diari",
       "date": "2026-04-18",
       "time": "07:02",
-      "summary": "A partir de l'octubre, les trucades comercials seran fàcilment identificables, permetent als usuaris bloquejar l'assetjament publicitari de manera efectiva."
+      "summary": "A partir de l'octubre de 2026, les empreses hauran d'utilitzar aquesta numeració per facilitar el bloqueig de trucades comercials."
     },
     {
-      "title": "Arrenca l’assaig clínic de la teràpia CAR-T per a càncer de mama creada a Barcelona",
-      "link_id": "c_39e603",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-04-17",
-      "time": "09:38",
-      "summary": "Aquest tractament pioner començarà a aplicar-se al maig a pacients dels hospitals Vall d'Hebron i del Mar."
-    },
-    {
-      "title": "A l'estiu instal·laran ventiladors als centres educatius sense climatització",
-      "link_id": "c_97117c",
+      "title": "Experts expliquen la raó per la qual s’ha de desactivar el wi-fi del mòbil al sortir de casa",
+      "link_id": "c_844a2c",
       "source": "Segre",
-      "date": "2026-04-17",
-      "time": "18:55",
-      "summary": "Una inversió de vint milions d'euros intentarà mitigar les altes temperatures a les aules durant els mesos més calorosos."
+      "date": "2026-04-15",
+      "time": "13:08",
+      "summary": "Mantenir la connexió oberta en espais públics facilita atacs informàtics que poden robar informació sensible dels dispositius."
     },
     {
-      "title": "Tres afectats per una explosió en un laboratori del centre tecnològic Eurecat de Manresa",
-      "link_id": "c_605eeb",
+      "title": "«No hi haurà alleujament»: la febre de la IA desencadena l’«apocalipsi de la memòria informàtica» i dispara el preu de mòbils i ordinadors",
+      "link_id": "c_577a57",
       "source": "El Periódico",
-      "date": "2026-04-13",
-      "time": "14:46",
-      "summary": "L'incident químic ha obligat a evacuar l'edifici i ha requerit el trasllat d'una persona a l'hospital amb pronòstic reservat."
+      "date": "2026-04-15",
+      "time": "11:05",
+      "summary": "L'alta demanda de memòria RAM per processar dades massives encareix significativament la producció de dispositius electrònics quotidians."
     },
     {
-      "title": "Barcelona atrau un altre congrés sobre tecnologia: acollirà al maig la primera Trobada Internacional de Drets Digitals",
-      "link_id": "c_8b1f6f",
-      "source": "El Periódico",
-      "date": "2026-04-16",
-      "time": "12:02",
-      "summary": "Aquest nou esdeveniment reforça la capital catalana com a referent global en ètica, governança i regulació de l'entorn digital."
-    },
-    {
-      "title": "Les dessalinitzadores encara funcionen al 50%; el motiu, ocult sota terra",
-      "link_id": "c_2c77de",
-      "source": "324.cat",
+      "title": "Nou infants de les Balears comencen les sessions amb un exoesquelet pediàtric",
+      "link_id": "c_fa4e0f",
+      "source": "Ara Balears",
       "date": "2026-04-18",
-      "time": "08:02",
-      "summary": "Malgrat la recuperació dels embassaments, es manté aquesta producció d'aigua per garantir la protecció i recuperació dels aqüífers subterranis."
+      "time": "11:11",
+      "summary": "Aquesta tecnologia innovadora permetrà millorar la mobilitat i qualitat de vida dels pacients mitjançant teràpies de rehabilitació especialitzades."
+    },
+    {
+      "title": "Desarticulada a Palma una xarxa global que va blanquejar 10 milions amb criptomonedes",
+      "link_id": "c_e8acba",
+      "source": "Ara Balears",
+      "date": "2026-04-18",
+      "time": "08:38",
+      "summary": "Una operació policial internacional ha permès embargar béns milionaris i detenir els responsables d'aquesta macroestafa financera."
+    },
+    {
+      "title": "L’addicció a les xarxes socials no sap d’edats: els majors de 65 també s’hi enganxen",
+      "link_id": "c_d0c599",
+      "source": "Àpunt",
+      "date": "2026-04-18",
+      "time": "08:55",
+      "summary": "La soledat no desitjada i l'excés de temps lliure incrementen la dependència tecnològica entre la gent gran."
     }
   ]
 }
