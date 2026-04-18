@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-17T18:00",
+  "generated_at": "2026-04-18T08:00",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [],
@@ -10,7 +10,7 @@
       "source": "324.cat",
       "date": "2026-04-17",
       "time": "18:02",
-      "summary": "La CNMC investiga possibles incompliments greus de les grans energètiques durant l'incident que va deixar milers sense llum."
+      "summary": "S'investiguen possibles negligències greus de les principals companyies elèctriques que haurien provocat el tall massiu de subministrament."
     },
     {
       "title": "Nous centres de dades a Catalunya: la Generalitat identifica fins a 26 projectes de núvol i IA per a la pròxima dècada",
@@ -18,7 +18,7 @@
       "source": "El Periódico",
       "date": "2026-04-14",
       "time": "12:42",
-      "summary": "El Govern català impulsa infraestructures clau per liderar la intel·ligència artificial al sud d'Europa durant la pròxima dècada."
+      "summary": "El Govern busca consolidar el territori com a motor tecnològic europeu impulsant infraestructures clau per al món digital."
     },
     {
       "title": "Brussel·les impulsa una app de verificació d’edat per restringir l’accés dels menors a internet a la UE",
@@ -26,47 +26,7 @@
       "source": "MetaData",
       "date": "2026-04-15",
       "time": "16:37",
-      "summary": "El nou sistema europeu utilitzarà carteres digitals per protegir els menors sense comprometre les dades personals dels usuaris."
-    },
-    {
-      "title": "\"No veus fronteres, no veus línies religioses, no veus límits polítics. Tan sols veus la Terra\"",
-      "link_id": "c_56cef8",
-      "source": "Ara.cat",
-      "date": "2026-04-12",
-      "time": "18:00",
-      "summary": "L'èxit de la missió lunar reviu l'emoció de l'exploració espacial i la perspectiva d'un planeta sense divisions."
-    },
-    {
-      "title": "A l'estiu instal·laran ventiladors als centres educatius sense climatització",
-      "link_id": "c_97117c",
-      "source": "Segre",
-      "date": "2026-04-17",
-      "time": "18:55",
-      "summary": "El Govern destinarà 20 milions d'euros per mitigar la calor a les aules, tot i que falten dates concretes."
-    },
-    {
-      "title": "Impulsen la jubilació anticipada per a 25.000 taxistes i transportistes de Catalunya",
-      "link_id": "c_317794",
-      "source": "Betevé",
-      "date": "2026-04-17",
-      "time": "14:43",
-      "summary": "Sindicats inicien els tràmits per reconèixer l'alta exigència física i mental d'aquests professionals amb una retirada laboral avançada."
-    },
-    {
-      "title": "Tres afectats per una explosió en un laboratori del centre tecnològic Eurecat de Manresa",
-      "link_id": "c_605eeb",
-      "source": "El Periódico",
-      "date": "2026-04-13",
-      "time": "14:46",
-      "summary": "L'incident químic a les instal·lacions de la plaça de la Ciència ha requerit atenció mèdica per a tres persones."
-    },
-    {
-      "title": "L'Estat tomba la construcció d'una de les centrals fotovoltaiques més grans de Catalunya, entre l'Urgell i la Conca de Barberà",
-      "link_id": "c_220176",
-      "source": "Segre",
-      "date": "2026-04-16",
-      "time": "12:17",
-      "summary": "El Ministeri de Transició Ecològica paralitza el macroprojecte de Shell per la manca d'acreditació en diversos tràmits administratius."
+      "summary": "Aquesta eina de codi obert protegirà la privacitat dels usuaris mentre garanteix un entorn digital més segur per als joves."
     },
     {
       "title": "La traducció automàtica per defecte a X obre un debat sobre el futur del català a les xarxes",
@@ -74,15 +34,55 @@
       "source": "MetaData",
       "date": "2026-04-15",
       "time": "08:44",
-      "summary": "La nova eina d'intel·ligència artificial facilita l'accés global, però genera inquietud sobre la visibilitat de les llengües minoritzades."
+      "summary": "L'ús de la intel·ligència artificial per traduir missatges amenaça la presència i l'impacte de les llengües minoritzades a internet."
     },
     {
-      "title": "GOB, Arrels Marines i veïns afectats d'Alcúdia adverteixen de l'impacte i la pressió urbanística que pot provocar el cable elèctric entre Mallorca i Menorca",
-      "link_id": "c_d8b1d5",
-      "source": "Ara Balears",
+      "title": "Així funcionarà el prefix 400 per frenar l’spam telefònic",
+      "link_id": "c_0cf6ae",
+      "source": "Lleida Diari",
+      "date": "2026-04-18",
+      "time": "07:02",
+      "summary": "A partir de l'octubre, les trucades comercials seran fàcilment identificables, permetent als usuaris bloquejar l'assetjament publicitari de manera efectiva."
+    },
+    {
+      "title": "Arrenca l’assaig clínic de la teràpia CAR-T per a càncer de mama creada a Barcelona",
+      "link_id": "c_39e603",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-04-17",
+      "time": "09:38",
+      "summary": "Aquest tractament pioner començarà a aplicar-se al maig a pacients dels hospitals Vall d'Hebron i del Mar."
+    },
+    {
+      "title": "A l'estiu instal·laran ventiladors als centres educatius sense climatització",
+      "link_id": "c_97117c",
+      "source": "Segre",
+      "date": "2026-04-17",
+      "time": "18:55",
+      "summary": "Una inversió de vint milions d'euros intentarà mitigar les altes temperatures a les aules durant els mesos més calorosos."
+    },
+    {
+      "title": "Tres afectats per una explosió en un laboratori del centre tecnològic Eurecat de Manresa",
+      "link_id": "c_605eeb",
+      "source": "El Periódico",
+      "date": "2026-04-13",
+      "time": "14:46",
+      "summary": "L'incident químic ha obligat a evacuar l'edifici i ha requerit el trasllat d'una persona a l'hospital amb pronòstic reservat."
+    },
+    {
+      "title": "Barcelona atrau un altre congrés sobre tecnologia: acollirà al maig la primera Trobada Internacional de Drets Digitals",
+      "link_id": "c_8b1f6f",
+      "source": "El Periódico",
       "date": "2026-04-16",
-      "time": "19:23",
-      "summary": "Entitats ecologistes i veïns exigeixen revisar l'estudi d'impacte ambiental del projecte per evitar conseqüències negatives al territori."
+      "time": "12:02",
+      "summary": "Aquest nou esdeveniment reforça la capital catalana com a referent global en ètica, governança i regulació de l'entorn digital."
+    },
+    {
+      "title": "Les dessalinitzadores encara funcionen al 50%; el motiu, ocult sota terra",
+      "link_id": "c_2c77de",
+      "source": "324.cat",
+      "date": "2026-04-18",
+      "time": "08:02",
+      "summary": "Malgrat la recuperació dels embassaments, es manté aquesta producció d'aigua per garantir la protecció i recuperació dels aqüífers subterranis."
     }
   ]
 }

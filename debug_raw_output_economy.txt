@@ -1,88 +1,88 @@
 {
-  "generated_at": "2024-05-24T16:00",
+  "generated_at": "2024-05-24T18:30",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Dario Amodei d'Anthropic es reunirà amb la Casa Blanca sobre Mythos",
+      "title": "Trump afirma que \"no tenia ni idea\" de la reunió d'Amodei d'Anthropic amb la Casa Blanca sobre Mythos",
       "link_id": "c_daef57",
       "source": "CNBC Technology",
       "date": "2026-04-17",
-      "time": "17:14",
-      "summary": "La trobada busca rebaixar tensions després que l'empresa fos vetada recentment per l'administració nord-americana."
+      "time": "23:22",
+      "summary": "El president es desmarca de la trobada, que arriba poc després d'haver vetat el model Claude."
     },
     {
-      "title": "El CEO d'Anthropic es reunirà amb la cap de gabinet de la Casa Blanca mentre els EUA busquen accedir al model Mythos",
+      "title": "El conseller delegat d'Anthropic es reuneix amb la cap de gabinet de la Casa Blanca",
       "link_id": "c_d58af8",
       "source": "Financial Times",
       "date": "2026-04-17",
-      "time": "15:11",
-      "summary": "Amodei dialogarà amb Susie Wiles enmig de litigis sobre si el seu laboratori d'IA suposa una amenaça nacional."
+      "time": "22:10",
+      "summary": "Dario Amodei i Susie Wiles dialoguen enmig de litigis sobre si el laboratori d'IA amenaça la seguretat nacional."
     },
     {
-      "title": "El fabricant de xips d'IA Cerebras podria sol·licitar la seva sortida a borsa avui mateix",
+      "title": "Podem crear robots que es mengin altres robots?",
+      "link_id": "c_90c7bc",
+      "source": "Financial Times",
+      "date": "2026-04-18",
+      "time": "04:00",
+      "summary": "Un grup d'investigadors aposta per la vida artificial capaç de reproduir-se, un repte encara per resoldre."
+    },
+    {
+      "title": "OpenAI perd diversos executius en una nova reestructuració de la direcció",
+      "link_id": "c_09eb68",
+      "source": "CNBC Technology",
+      "date": "2026-04-17",
+      "time": "23:45",
+      "summary": "Aquestes sortides s'afegeixen a la recent baixa mèdica de Fidji Simo, cap de producte i negoci."
+    },
+    {
+      "title": "El fabricant de xips d'IA Cerebras sol·licita sortir a borsa després d'haver-ho descartat l'any passat",
       "link_id": "c_7485b1",
       "source": "CNBC Technology",
       "date": "2026-04-17",
-      "time": "17:36",
-      "summary": "L'oferta pública podria triplicar la valoració de l'empresa respecte a la seva ronda de finançament de l'any passat."
+      "time": "23:23",
+      "summary": "L'empresa preveu ampliar el seu negoci amb OpenAI, a qui ha atorgat opcions de compra d'accions."
     },
     {
       "title": "AMD, Oracle, Microsoft i l'IGV lideren una setmana històrica per a les accions tecnològiques",
       "link_id": "c_4d8094",
       "source": "CNBC Technology",
       "date": "2026-04-17",
-      "time": "16:22",
-      "summary": "El sector dels semiconductors i el programari experimenta un creixement massiu aquest abril, impulsant els mercats a l'alça."
+      "time": "23:15",
+      "summary": "El sector dels semiconductors i el programari experimenta un fort impuls al mercat durant el mes d'abril."
     },
     {
-      "title": "Dario Amodei d'Anthropic: «No vull que la IA es giri contra la nostra pròpia gent»",
+      "title": "La recent empresa emergent Recursive capta 500 milions de dòlars per a IA autodidacta",
+      "link_id": "c_f8f6df",
+      "source": "Financial Times",
+      "date": "2026-04-17",
+      "time": "21:10",
+      "summary": "Fundada per exenginyers de DeepMind, assoleix una valoració de 4.000 milions amb el suport de Google i Nvidia."
+    },
+    {
+      "title": "Els riscos de Mythos no són cap mite",
+      "link_id": "c_93a429",
+      "source": "Financial Times",
+      "date": "2026-04-17",
+      "time": "17:27",
+      "summary": "S'adverteix que els Estats Units confien massa en l'autoregulació de la pròpia indústria de la intel·ligència artificial."
+    },
+    {
+      "title": "Dario Amodei d'Anthropic: \"No vull que la IA es giri contra la nostra pròpia gent\"",
       "link_id": "c_3ae99c",
       "source": "Financial Times",
       "date": "2026-04-17",
       "time": "11:30",
-      "summary": "L'empresari reflexiona sobre els riscos ètics de la tecnologia i les conseqüències del seu recent conflicte amb el Pentàgon."
+      "summary": "L'empresari reflexiona sobre les conseqüències del conflicte amb el Pentàgon i llança un missatge als multimilionaris."
     },
     {
-      "title": "Els rivals de xips d'IA de Nvidia atreuen un finançament rècord mentre augmenta la competència",
+      "title": "Els rivals de xips d'IA de Nvidia atreuen un finançament rècord a mesura que augmenta la competència",
       "link_id": "c_261260",
       "source": "CNBC Technology",
       "date": "2026-04-17",
       "time": "11:22",
-      "summary": "Noves empreses emergents capten capitals històrics amb l'objectiu de trencar el monopoli actual en el mercat dels semiconductors."
-    },
-    {
-      "title": "Rivian proposa acords de programari als grans fabricants d'automòbils",
-      "link_id": "c_56b801",
-      "source": "Financial Times",
-      "date": "2026-04-17",
-      "time": "11:00",
-      "summary": "L'empresa de vehicles elèctrics busca diversificar ingressos venent la seva tecnologia a marques tradicionals per millorar-ne la competitivitat."
-    },
-    {
-      "title": "Un rival de Nvidia busca almenys 100 milions de dòlars mentre el mercat europeu de xips d'IA creix",
-      "link_id": "c_dec7a2",
-      "source": "CNBC Technology",
-      "date": "2026-04-17",
-      "time": "07:23",
-      "summary": "L'interès inversor a Europa es dispara, tot i que les noves empreses s'enfronten a grans reptes d'escalabilitat."
-    },
-    {
-      "title": "El benefici de TSMC creix un 58% al primer trimestre i supera les estimacions gràcies a la IA",
-      "link_id": "c_01f2be",
-      "source": "CNBC Technology",
-      "date": "2026-04-17",
-      "time": "04:17",
-      "summary": "L'alta demanda de semiconductors per a intel·ligència artificial consolida un nou trimestre de guanys històrics per a la companyia."
-    },
-    {
-      "title": "Els últims models d'IA podrien amenaçar el sistema bancari mundial, adverteixen els funcionaris financers",
-      "link_id": "c_631cda",
-      "source": "Financial Times",
-      "date": "2026-04-17",
-      "time": "04:00",
-      "summary": "Les autoritats alerten que eines avançades com Claude Mythos facilitarien atacs cibernètics contra les infraestructures de les entitats financeres."
+      "summary": "Diverses empreses emergents aconsegueixen capital amb l'objectiu de desafiar l'hegemonia de l'actual gegant dels semiconductors."
     }
   ]
 }

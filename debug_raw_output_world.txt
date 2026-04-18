@@ -1,88 +1,109 @@
 {
-  "generated_at": "2026-04-17T19:46",
+  "generated_at": "2026-04-18T09:54",
   "id": "world",
   "title": "Notícies tecnològiques del món",
-  "sources_checked": [],
+  "sources_checked": [
+    {
+      "name": "AnandTech",
+      "url": "https://www.anandtech.com/rss/",
+      "articles_found": 0
+    },
+    {
+      "name": "Wall Street Journal Tech",
+      "url": "https://feeds.a.dj.com/rss/RSSWSJD.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "Gizmodo",
+      "url": "https://www.gizmodo.com/feed/rss",
+      "articles_found": 0
+    },
+    {
+      "name": "Slashdot",
+      "url": "https://slashdot.org/rss/slashdot.rss",
+      "articles_found": 0
+    }
+  ],
   "articles": [
     {
-      "title": "Canva es converteix en la capa de disseny de Claude gràcies a una nova associació amb Anthropic",
-      "link_id": "c_bb13d4",
-      "source": "The Next Web",
-      "date": "2026-04-17",
-      "time": "17:11",
-      "summary": "La integració permet generar elements visuals editables directament des de descripcions de text, millorant el flux de treball creatiu."
-    },
-    {
-      "title": "Android 17 porta un toc del Pixel Watch al teu panell de notificacions",
-      "link_id": "c_0d4203",
-      "source": "9to5Google",
-      "date": "2026-04-16",
-      "time": "21:10",
-      "summary": "La quarta beta d'Android 17 introdueix nous detalls visuals i animacions inspirades en els rellotges intel·ligents de Google."
-    },
-    {
-      "title": "Què és Claude Mythos i quins riscos planteja?",
-      "link_id": "c_38b0ef",
-      "source": "BBC Technology",
-      "date": "2026-04-17",
-      "time": "13:41",
-      "summary": "El nou model d'IA d'Anthropic genera preocupació al sector financer per la seva capacitat de superar els humans en ciberseguretat."
-    },
-    {
-      "title": "El cofundador de Netflix, Reed Hastings, abandona la plataforma de streaming",
-      "link_id": "c_2c9ced",
-      "source": "The Guardian Tech",
-      "date": "2026-04-17",
-      "time": "08:29",
-      "summary": "Després de gairebé 30 anys, Hastings deixa el consell d'administració per centrar-se en la filantropia i altres projectes personals."
-    },
-    {
-      "title": "Zoom s'associa amb World per verificar els humans a les reunions",
-      "link_id": "c_940ec1",
+      "title": "Anthropic llança Claude Design, un nou producte per crear elements visuals ràpidament",
+      "link_id": "c_a267ae",
       "source": "TechCrunch",
       "date": "2026-04-17",
-      "time": "17:15",
-      "summary": "La plataforma utilitzarà la tecnologia d'escaneig d'iris de l'empresa de Sam Altman per combatre els comptes falsos i les estafes."
+      "time": "15:00",
+      "summary": "Aquesta eina permet a usuaris sense experiència en disseny generar prototips i presentacions mitjançant instruccions de text."
     },
     {
-      "title": "Comença la cursa per les ulleres intel·ligents de moda",
-      "link_id": "c_e27a53",
-      "source": "CNET",
+      "title": "El projecte World de Sam Altman busca escalar el seu imperi de verificació humana començant per Tinder",
+      "link_id": "c_4bfa1f",
+      "source": "TechCrunch",
       "date": "2026-04-17",
-      "time": "16:14",
-      "summary": "Google i Gucci preparen unes ulleres de realitat mixta amb Android XR per al 2027, unint tecnologia i luxe."
+      "time": "22:34",
+      "summary": "L'empresa s'associa amb plataformes com Zoom per combatre els fraus i els perfils falsos generats per intel·ligència artificial."
     },
     {
-      "title": "Casely retira de nou les bateries Wireless Power Pods per risc d'incendi i cremades",
+      "title": "La Casa Blanca i Anthropic mantenen una reunió \"productiva\" buscant un compromís",
+      "link_id": "c_9f19b7",
+      "source": "NYT Technology",
+      "date": "2026-04-17",
+      "time": "23:45",
+      "summary": "El govern nord-americà vol garantir l'accés al model Mythos, considerat crucial per a la ciberseguretat i defensa nacional."
+    },
+    {
+      "title": "Kevin Weil i Bill Peebles abandonen OpenAI mentre l'empresa continua eliminant projectes secundaris",
+      "link_id": "c_5c9517",
+      "source": "TechCrunch",
+      "date": "2026-04-17",
+      "time": "20:38",
+      "summary": "La sortida dels directius coincideix amb el tancament de Sora, marcant un clar gir cap a la IA empresarial."
+    },
+    {
+      "title": "Casely torna a retirar les bateries sense fil Power Pods per risc d'incendi i cremades",
       "link_id": "c_61f00f",
       "source": "CNET",
       "date": "2026-04-17",
       "time": "16:30",
-      "summary": "S'ha emès una nova alerta de seguretat després d'incidents greus, incloent-hi una explosió en ple vol i una víctima mortal."
+      "summary": "La mesura arriba després de registrar-se nous incidents greus, incloent-hi una explosió en ple vol i una víctima mortal."
     },
     {
-      "title": "Bernie Sanders uneix els líders sindicals per exigir proteccions contra la IA i aturar els centres de dades",
-      "link_id": "c_4b9041",
-      "source": "TechRadar",
+      "title": "Netflix planeja afegir un canal de vídeos verticals i utilitzar IA per a recomanacions",
+      "link_id": "c_eb628c",
+      "source": "TechCrunch",
       "date": "2026-04-17",
-      "time": "16:05",
-      "summary": "Creix l'oposició als Estats Units contra la construcció d'infraestructures d'IA a causa del seu alt consum energètic i impacte laboral."
+      "time": "13:17",
+      "summary": "La plataforma busca millorar el descobriment de continguts amb un format similar al de TikTok i l'ús d'algoritmes avançats."
     },
     {
-      "title": "Allbirds ven el seu negoci de sabates per 39 milions de dòlars i fa el salt a la IA",
-      "link_id": "c_35f0a4",
-      "source": "The Next Web",
+      "title": "Cerebras, fabricant de xips d'IA, sol·licita sortir a borsa en ple auge tecnològic",
+      "link_id": "c_7901b2",
+      "source": "NYT Technology",
       "date": "2026-04-17",
-      "time": "17:01",
-      "summary": "La marca es reanomena NewBird AI i es dedicarà a llogar targetes gràfiques per a la computació al núvol."
+      "time": "22:03",
+      "summary": "L'empresa de Silicon Valley s'uneix a la propera onada de grans ofertes públiques inicials del sector de la intel·ligència artificial."
     },
     {
-      "title": "Per què Microsoft apuja els preus dels portàtils mentre Apple abarateix la productivitat",
-      "link_id": "c_d2621f",
-      "source": "PCWorld",
+      "title": "Cursor negocia captar més de 2.000 milions de dòlars amb una valoració de 50.000 milions",
+      "link_id": "c_0256d4",
+      "source": "TechCrunch",
       "date": "2026-04-17",
-      "time": "15:11",
-      "summary": "L'èxit del MacBook Neo de 599 dòlars contrasta amb l'encariment dels PC amb Windows a causa de l'escassetat de components."
+      "time": "19:17",
+      "summary": "L'eina de programació assistida per IA atreu inversors com a16z gràcies al seu ràpid creixement en el mercat empresarial."
+    },
+    {
+      "title": "L'IPv6 podria haver representat breument més de la meitat del trànsit d'internet",
+      "link_id": "c_87d571",
+      "source": "NetworkWorld",
+      "date": "2026-04-17",
+      "time": "17:59",
+      "summary": "Segons dades de Google, el protocol de xarxa va superar el 50% d'ús, marcant una fita històrica d'adopció."
+    },
+    {
+      "title": "Els pirates informàtics abusen de fallades de seguretat de Windows sense apedaçar per atacar organitzacions",
+      "link_id": "c_2c669b",
+      "source": "TechCrunch",
+      "date": "2026-04-17",
+      "time": "17:48",
+      "summary": "Els ciberdelinqüents aprofiten vulnerabilitats recents de Windows Defender revelades per un investigador per infiltrar-se en xarxes corporatives."
     }
   ]
 }
