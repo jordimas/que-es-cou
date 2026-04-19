@@ -1,80 +1,32 @@
 {
-  "generated_at": "2024-05-24T19:00",
+  "generated_at": "2024-05-24T19:55",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Trump afirma que \"no tenia ni idea\" de la reunió d'Amodei d'Anthropic amb la Casa Blanca sobre Mythos",
-      "link_id": "c_daef57",
-      "source": "CNBC Technology",
-      "date": "2026-04-17",
-      "time": "23:22",
-      "summary": "La trobada es produeix poc després que el president vetés el model Claude, generant dubtes sobre la seguretat nacional."
-    },
-    {
-      "title": "El CEO d'Anthropic es reuneix amb la cap de gabinet de la Casa Blanca mentre els EUA busquen accés al model Mythos",
-      "link_id": "c_d58af8",
+      "title": "L'economia de la molèstia no desapareixerà",
+      "link_id": "c_735a37",
       "source": "Financial Times",
-      "date": "2026-04-17",
-      "time": "22:10",
-      "summary": "Dario Amodei va dialogar amb Susie Wiles malgrat les demandes vigents sobre els possibles riscos d'aquesta intel·ligència artificial."
+      "date": "2026-04-19",
+      "time": "04:00",
+      "summary": "Caldrà adaptar-se i buscar l'humor davant l'augment imparable de trucades automatitzades, correu brossa i assistents virtuals."
     },
     {
-      "title": "L'estret vincle de Nvidia amb els jugadors s'esquerda per la IA: \"em trenca el cor\"",
+      "title": "El vincle històric de Nvidia amb els jugadors s'esquerda per la IA",
       "link_id": "c_cce70b",
       "source": "CNBC Technology",
       "date": "2026-04-18",
       "time": "12:00",
-      "summary": "Els usuaris se senten abandonats mentre l'empresa prioritza els xips d'intel·ligència artificial i la tecnologia DLSS 5."
+      "summary": "La priorització dels xips d'intel·ligència artificial i les noves tecnologies allunyen la marca dels usuaris que la van salvar."
     },
     {
-      "title": "El model d'IA Mythos d'Anthropic posa a prova els límits de les ciberdefenses globals",
+      "title": "El model d'IA Mythos d'Anthropic posa a prova les ciberdefenses globals",
       "link_id": "c_dc4332",
       "source": "Financial Times",
       "date": "2026-04-18",
       "time": "11:00",
-      "summary": "Aquest nou sistema genera temors per la seva capacitat d'accelerar ciberatacs i exposar vulnerabilitats abans de poder solucionar-les."
-    },
-    {
-      "title": "Podem crear robots que es mengin altres robots?",
-      "link_id": "c_90c7bc",
-      "source": "Financial Times",
-      "date": "2026-04-18",
-      "time": "04:00",
-      "summary": "Un grup d'investigadors aposta per la vida artificial capaç de reproduir-se, un repte que augmenta l'entusiasme científic actual."
-    },
-    {
-      "title": "OpenAI perd diversos executius en la darrera reestructuració directiva",
-      "link_id": "c_09eb68",
-      "source": "CNBC Technology",
-      "date": "2026-04-17",
-      "time": "23:45",
-      "summary": "Aquestes sortides coincideixen amb la recent baixa mèdica de Fidji Simo, cap de producte i negoci de l'empresa."
-    },
-    {
-      "title": "El fabricant de xips d'IA Cerebras sol·licita sortir a borsa després de cancel·lar-ho l'any passat",
-      "link_id": "c_7485b1",
-      "source": "CNBC Technology",
-      "date": "2026-04-17",
-      "time": "23:23",
-      "summary": "La companyia preveu expandir el seu negoci amb OpenAI, a qui ha atorgat opcions de compra d'accions."
-    },
-    {
-      "title": "AMD, Oracle, Microsoft i l'IGV lideren una setmana històrica per a les accions tecnològiques",
-      "link_id": "c_4d8094",
-      "source": "CNBC Technology",
-      "date": "2026-04-17",
-      "time": "23:15",
-      "summary": "El sector dels semiconductors i el programari experimenta un fort impuls al mercat durant aquest mes d'abril."
-    },
-    {
-      "title": "La jove empresa Recursive capta 500 milions de dòlars per a una IA autodidacta",
-      "link_id": "c_f8f6df",
-      "source": "Financial Times",
-      "date": "2026-04-17",
-      "time": "21:10",
-      "summary": "Fundada per exenginyers de DeepMind i OpenAI, assoleix una valoració de 4.000 milions amb suport de Google i Nvidia."
+      "summary": "Aquest nou sistema genera alarma per la seva capacitat d'accelerar els ciberatacs i descobrir vulnerabilitats abans de poder-les resoldre."
     }
   ]
 }
