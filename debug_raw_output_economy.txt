@@ -1,32 +1,32 @@
 {
-  "generated_at": "2024-05-24T19:55",
+  "generated_at": "2024-05-24T19:30",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
+    {
+      "title": "Els problemes dels agents d'IA a Silicon Valley: fitxes malgastades i sistemes caòtics",
+      "link_id": "c_0972c5",
+      "source": "CNBC Technology",
+      "date": "2026-04-19",
+      "time": "12:00",
+      "summary": "Els nous assistents autònoms s'enfronten a reptes tècnics i ineficiències malgrat les grans expectatives del sector tecnològic."
+    },
+    {
+      "title": "L'estret vincle de Nvidia amb els jugadors s'esquerda per la IA",
+      "link_id": "c_cce70b",
+      "source": "CNBC Technology",
+      "date": "2026-04-19",
+      "time": "11:37",
+      "summary": "La priorització dels xips d'intel·ligència artificial allunya la marca dels usuaris de videojocs que la van salvar històricament."
+    },
     {
       "title": "L'economia de la molèstia no desapareixerà",
       "link_id": "c_735a37",
       "source": "Financial Times",
       "date": "2026-04-19",
       "time": "04:00",
-      "summary": "Caldrà adaptar-se i buscar l'humor davant l'augment imparable de trucades automatitzades, correu brossa i assistents virtuals."
-    },
-    {
-      "title": "El vincle històric de Nvidia amb els jugadors s'esquerda per la IA",
-      "link_id": "c_cce70b",
-      "source": "CNBC Technology",
-      "date": "2026-04-18",
-      "time": "12:00",
-      "summary": "La priorització dels xips d'intel·ligència artificial i les noves tecnologies allunyen la marca dels usuaris que la van salvar."
-    },
-    {
-      "title": "El model d'IA Mythos d'Anthropic posa a prova les ciberdefenses globals",
-      "link_id": "c_dc4332",
-      "source": "Financial Times",
-      "date": "2026-04-18",
-      "time": "11:00",
-      "summary": "Aquest nou sistema genera alarma per la seva capacitat d'accelerar els ciberatacs i descobrir vulnerabilitats abans de poder-les resoldre."
+      "summary": "Els usuaris hauran d'aprendre a conviure amb l'augment constant de correu brossa, trucades automatitzades i xatbots invasius."
     }
   ]
 }
