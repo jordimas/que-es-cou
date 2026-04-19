@@ -1,88 +1,88 @@
 {
-  "generated_at": "2024-05-24T16:00",
+  "generated_at": "2026-04-19T13:26",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Anthropic llança Claude Design, un nou producte per crear elements visuals ràpids",
-      "link_id": "c_a267ae",
+      "title": "La relació d'Anthropic amb l'administració Trump sembla que es normalitza",
+      "link_id": "c_0712c9",
       "source": "TechCrunch",
-      "date": "2026-04-17",
-      "time": "15:00",
-      "summary": "L'eina permet a usuaris sense experiència en disseny generar prototips i presentacions ràpidament mitjançant intel·ligència artificial."
-    },
-    {
-      "title": "World ID amplia la seva visió de 'prova d'humanitat' per a l'era de la IA",
-      "link_id": "c_685236",
-      "source": "Computerworld",
-      "date": "2026-04-17",
-      "time": "22:57",
-      "summary": "El projecte de Sam Altman s'associa amb empreses com Zoom i Tinder per verificar identitats mitjançant escàners d'iris."
-    },
-    {
-      "title": "La Casa Blanca i Anthropic mantenen una reunió 'productiva' enmig dels temors pel model Mythos",
-      "link_id": "c_c2ec86",
-      "source": "BBC Technology",
       "date": "2026-04-18",
-      "time": "00:37",
-      "summary": "El govern dels EUA negocia l'accés a aquest potent model d'IA, considerat crític per a la seguretat nacional."
+      "time": "14:56",
+      "summary": "Malgrat ser considerada un risc pel Pentàgon, l'empresa d'IA manté converses amb alts càrrecs del govern nord-americà."
     },
     {
-      "title": "Kevin Weil i Bill Peebles abandonen OpenAI mentre l'empresa continua eliminant 'projectes secundaris'",
-      "link_id": "c_5c9517",
-      "source": "TechCrunch",
-      "date": "2026-04-17",
-      "time": "20:38",
-      "summary": "La sortida dels directius coincideix amb el tancament de Sora, marcant un gir cap a la IA empresarial."
+      "title": "L'App Store s'omple de noves aplicacions el 2026 i la IA hi té molt a veure",
+      "link_id": "c_208e84",
+      "source": "Digital Trends",
+      "date": "2026-04-19",
+      "time": "07:52",
+      "summary": "Les eines d'intel·ligència artificial faciliten la creació de programari, impulsant un augment global en el llançament d'aplicacions mòbils."
     },
     {
-      "title": "Casely torna a retirar les bateries sense fil Power Pods per riscos d'incendi i cremades",
-      "link_id": "c_61f00f",
-      "source": "CNET",
-      "date": "2026-04-17",
-      "time": "16:30",
-      "summary": "L'empresa retira milers de bateries portàtils MagSafe després de registrar-se nous incidents greus per sobreescalfament i explosions."
-    },
-    {
-      "title": "Netflix planeja afegir un canal de vídeo vertical i utilitzar IA per a recomanacions",
-      "link_id": "c_eb628c",
-      "source": "TechCrunch",
-      "date": "2026-04-17",
-      "time": "13:17",
-      "summary": "La plataforma de streaming introduirà un format similar al de TikTok i aprofitarà la IA per crear contingut."
-    },
-    {
-      "title": "Intel redueix la dependència de TSMC amb els processadors Core Series 3 fabricats als EUA",
-      "link_id": "c_55dade",
-      "source": "The Register",
-      "date": "2026-04-17",
-      "time": "21:46",
-      "summary": "Els nous xips econòmics per a portàtils es fabriquen als Estats Units per competir directament amb els MacBook."
-    },
-    {
-      "title": "Cursor recapta 2.000 milions de dòlars amb una valoració de 50.000 milions",
-      "link_id": "c_5af9e4",
-      "source": "The Next Web",
+      "title": "Samsung ja replanteja el TriFold, i aquesta vegada comença per la frontissa",
+      "link_id": "c_94a49b",
+      "source": "Digital Trends",
       "date": "2026-04-18",
-      "time": "10:26",
-      "summary": "La popular eina de programació amb IA busca nou finançament mentre experimenta un creixement rècord en el sector."
+      "time": "21:24",
+      "summary": "Després de retirar el model original, la companyia prepara un dispositiu de triple plec més prim i lleuger."
     },
     {
-      "title": "Has perdut l'oportunitat de comprar un Galaxy Z TriFold? Un successor podria estar en marxa",
-      "link_id": "c_b7e997",
+      "title": "El nou Fire TV Stick HD d'Amazon marca la fi de la instal·lació d'aplicacions externes",
+      "link_id": "c_ebf214",
       "source": "Android Authority",
       "date": "2026-04-18",
-      "time": "04:06",
-      "summary": "Després d'esgotar-se ràpidament la primera edició limitada, Samsung ja treballa en un nou model amb una frontissa millorada."
+      "time": "19:36",
+      "summary": "El dispositiu bloqueja el \"sideloading\" per evitar la pirateria, tot i que Amazon amplia el suport de programari."
     },
     {
-      "title": "Palantir, Thales i una startup competeixen per crear la IA predictiva de trànsit aeri de la FAA",
-      "link_id": "c_3ed26d",
-      "source": "The Next Web",
+      "title": "Un jutge dona la raó als creadors de rastrejadors de l'ICE prohibits pel govern",
+      "link_id": "c_fe4aab",
+      "source": "Engadget",
       "date": "2026-04-18",
-      "time": "10:38",
-      "summary": "L'agència d'aviació nord-americana busca desenvolupar un sistema d'intel·ligència artificial per predir i gestionar millor les rutes aèries."
+      "time": "19:17",
+      "summary": "Una ordre preliminar impedeix a l'administració Trump coaccionar les plataformes perquè eliminin aplicacions que alerten sobre batudes d'immigració."
+    },
+    {
+      "title": "Tinder vol comprovar la teva humanitat mirant fixament un orbe",
+      "link_id": "c_9cf1ad",
+      "source": "Digital Trends",
+      "date": "2026-04-19",
+      "time": "00:11",
+      "summary": "L'aplicació de cites utilitzarà l'escàner d'iris de l'empresa World, de Sam Altman, per verificar que els usuaris són reals."
+    },
+    {
+      "title": "Debuta la nova memòria HUDIMM per reduir els preus de la DDR5 durant l'escassetat de RAM",
+      "link_id": "c_eea2d7",
+      "source": "Tom's Hardware",
+      "date": "2026-04-19",
+      "time": "11:20",
+      "summary": "Aquest estàndard més econòmic d'ASRock ofereix la meitat d'amplada de banda i capacitat, però és compatible amb configuracions mixtes."
+    },
+    {
+      "title": "Ho he fet expressament! Els proveïdors d'IA eludeixen la responsabilitat de les vulnerabilitats",
+      "link_id": "c_a856b8",
+      "source": "The Register",
+      "date": "2026-04-19",
+      "time": "11:07",
+      "summary": "Les empreses d'intel·ligència artificial justifiquen les fallades de seguretat com a comportaments previstos, demostrant una preocupant manca de maduresa."
+    },
+    {
+      "title": "El proper joc independent de 1000xResist planteja: pots convèncer una IA que no és humana?",
+      "link_id": "c_7fd389",
+      "source": "CNET",
+      "date": "2026-04-19",
+      "time": "11:00",
+      "summary": "Aquest nou títol explora els límits de la consciència artificial, convertint-se en una obra molt rellevant per l'era actual."
+    },
+    {
+      "title": "Aquest accessori de 10 dòlars ha transformat completament el meu Pixel 10",
+      "link_id": "c_0b4019",
+      "source": "Android Authority",
+      "date": "2026-04-19",
+      "time": "11:00",
+      "summary": "Un simple anell magnètic millora dràsticament l'experiència d'ús del telèfon de Google, afegint-hi funcionalitats molt pràctiques i còmodes."
     }
   ]
 }

@@ -1,72 +1,24 @@
 {
-  "generated_at": "2026-04-18T13:25",
+  "generated_at": "2024-05-24T19:20",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Podem crear robots que es mengin altres robots?",
-      "link_id": "c_90c7bc",
+      "title": "L'economia de la molèstia no desapareixerà",
+      "link_id": "c_735a37",
       "source": "Financial Times",
-      "date": "2026-04-18",
+      "date": "2026-04-19",
       "time": "04:00",
-      "summary": "Els investigadors busquen desenvolupar vida artificial capaç de reproduir-se, un repte tecnològic que genera gran entusiasme malgrat les dificultats."
+      "summary": "L'augment de correu brossa i trucades automatitzades ens obliga a buscar noves maneres de tolerar aquestes interrupcions diàries."
     },
     {
-      "title": "OpenAI perd diversos executius en una nova reestructuració directiva",
-      "link_id": "c_09eb68",
+      "title": "El vincle històric de Nvidia amb els jugadors s'esquerda per la IA: \"em trenca el cor\"",
+      "link_id": "c_cce70b",
       "source": "CNBC Technology",
-      "date": "2026-04-17",
-      "time": "23:45",
-      "summary": "Aquestes sortides aprofundeixen la inestabilitat interna de l'empresa, sumant-se a la recent baixa mèdica de la cap de producte."
-    },
-    {
-      "title": "El fabricant de xips d'IA Cerebras sol·licita sortir a borsa",
-      "link_id": "c_7485b1",
-      "source": "CNBC Technology",
-      "date": "2026-04-17",
-      "time": "23:23",
-      "summary": "L'empresa reprèn els plans d'oferta pública inicial i preveu expandir la seva aliança estratègica amb OpenAI properament."
-    },
-    {
-      "title": "El CEO d'Anthropic es reuneix amb la Casa Blanca pel model Mythos",
-      "link_id": "c_d58af8",
-      "source": "Financial Times",
-      "date": "2026-04-17",
-      "time": "22:10",
-      "summary": "La trobada amb Susie Wiles es produeix enmig de tensions legals sobre els possibles riscos de seguretat nacional de l'IA."
-    },
-    {
-      "title": "La emergent Recursive capta 500 milions de dòlars per a IA autodidacta",
-      "link_id": "c_f8f6df",
-      "source": "Financial Times",
-      "date": "2026-04-17",
-      "time": "21:10",
-      "summary": "Fundada per exenginyers de DeepMind, la companyia assoleix una valoració multimilionària gràcies al suport de Google i Nvidia."
-    },
-    {
-      "title": "Perspectiva: La demanda d'IA està inflada i només Anthropic és realista",
-      "link_id": "c_cf9aa4",
-      "source": "CNBC Technology",
-      "date": "2026-04-17",
-      "time": "19:10",
-      "summary": "Les mètriques d'ús basades en tòquens podrien estar exagerant el creixement real del mercat de la intel·ligència artificial."
-    },
-    {
-      "title": "Els riscos de Mythos no són cap mite",
-      "link_id": "c_93a429",
-      "source": "Financial Times",
-      "date": "2026-04-17",
-      "time": "17:27",
-      "summary": "S'adverteix que els Estats Units confien excessivament en l'autoregulació de la indústria tecnològica davant els perills dels nous models."
-    },
-    {
-      "title": "Dario Amodei d'Anthropic: \"No vull que l'IA es giri contra la nostra gent\"",
-      "link_id": "c_3ae99c",
-      "source": "Financial Times",
-      "date": "2026-04-17",
-      "time": "11:30",
-      "summary": "L'empresari reflexiona sobre les conseqüències del conflicte amb el Pentàgon i llança un missatge d'alerta a les elits econòmiques."
+      "date": "2026-04-18",
+      "time": "12:00",
+      "summary": "Els usuaris de videojocs se senten abandonats mentre l'empresa prioritza els xips d'intel·ligència artificial per davant del disseny tradicional."
     }
   ]
 }
