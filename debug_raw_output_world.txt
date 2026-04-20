@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-04-19T19:33",
+  "generated_at": "2024-05-24T16:00",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Tesla porta el seu servei de taxis autònoms a Dallas i Houston",
-      "link_id": "c_291d7d",
+      "title": "Blue Origin fa aterrar el seu coet reciclat New Glenn però no aconsegueix posar la càrrega en òrbita",
+      "link_id": "c_44da75",
+      "source": "Engadget",
+      "date": "2026-04-20",
+      "time": "05:58",
+      "summary": "Tot i recuperar el propulsor amb èxit, la primera missió comercial de l'empresa va fracassar en desplegar el satèl·lit."
+    },
+    {
+      "title": "Els propers llançaments del Mac Studio i MacBook Pro podrien ajornar-se diversos mesos",
+      "link_id": "c_c1915f",
       "source": "Engadget",
       "date": "2026-04-19",
-      "time": "16:07",
-      "summary": "Tesla expandeix el seu servei de taxis autònoms a Texas, arribant a noves àrees de Dallas i Houston."
+      "time": "17:31",
+      "summary": "L'escassetat global de memòria, impulsada per la demanda de maquinari d'IA, podria endarrerir l'arribada dels nous ordinadors d'Apple."
     },
     {
-      "title": "Què vols que facin els llums 'Pixel Glow' de Google?",
-      "link_id": "c_28f651",
-      "source": "9to5Google",
+      "title": "La nova interfície de Siri a iOS 27 s'amaga al tràiler de la WWDC d'Apple",
+      "link_id": "c_5f916e",
+      "source": "Bloomberg Technology",
       "date": "2026-04-19",
-      "time": "16:00",
-      "summary": "Google treballa en un nou portàtil i llums 'Pixel Glow' per a telèfons, generant expectació sobre les seves funcions."
+      "time": "14:00",
+      "summary": "La imatge promocional de l'esdeveniment revela un redisseny visual de l'assistent de veu, que s'integrarà a la Dynamic Island."
     },
     {
-      "title": "Apple ja ha insinuat el nou disseny de Siri que arribarà amb iOS 27",
-      "link_id": "c_e31e23",
-      "source": "9to5Mac",
-      "date": "2026-04-19",
-      "time": "14:42",
-      "summary": "El cartell de la WWDC26 d'Apple insinua un redisseny visual de Siri amb efectes brillants per a iOS 27."
-    },
-    {
-      "title": "'Un espectacle meravellós per a qualsevol entusiasta dels coets': Blue Origin demostra a SpaceX que també pot fer coets reutilitzables",
-      "link_id": "c_8ea5f6",
-      "source": "TechRadar",
-      "date": "2026-04-19",
-      "time": "13:30",
-      "summary": "Blue Origin assoleix una fita clau en aterrar amb èxit el seu coet reutilitzable New Glenn, desafiant SpaceX."
-    },
-    {
-      "title": "Tinder vol comprovar la teva humanitat mirant fixament un orbe. Sí, ho has llegit bé",
-      "link_id": "c_9cf1ad",
-      "source": "Digital Trends",
-      "date": "2026-04-19",
-      "time": "00:11",
-      "summary": "Tinder s'associa amb World per verificar la identitat humana dels usuaris mitjançant l'escaneig d'iris amb un dispositiu físic."
-    },
-    {
-      "title": "Els AirPods Pro 3 podrien permetre't parlar amb Siri sense dir ni una paraula",
-      "link_id": "c_c4aa22",
-      "source": "Digital Trends",
-      "date": "2026-04-18",
-      "time": "20:51",
-      "summary": "Els futurs auriculars d'Apple podrien incloure càmeres infraroges per controlar Siri mitjançant micromoviments facials, sense necessitat de parlar."
-    },
-    {
-      "title": "iOS 27 podria facilitar molt el canvi de disseny de la pantalla d'inici",
-      "link_id": "c_01098a",
-      "source": "9to5Mac",
-      "date": "2026-04-19",
-      "time": "17:04",
-      "summary": "La propera actualització d'Apple permetrà desfer i refer ràpidament els canvis fets a la pantalla d'inici de l'iPhone."
-    },
-    {
-      "title": "Palantir publica un minimanifest denunciant la inclusió i les cultures 'regressives'",
-      "link_id": "c_8feb2d",
+      "title": "Els robots superen els rècords humans a la mitja marató de Pequín",
+      "link_id": "c_07a729",
       "source": "TechCrunch",
       "date": "2026-04-19",
-      "time": "16:30",
-      "summary": "L'empresa tecnològica intensifica la seva postura ideològica criticant les polítiques d'inclusió mentre es posiciona com a defensora d'Occident."
+      "time": "18:44",
+      "summary": "Un robot humanoide va completar la cursa en només 50 minuts, superant àmpliament la millor marca mundial humana."
     },
     {
-      "title": "'No són humans': Per què la IA té 'biaixos predictibles i sistemàtics' a l'hora de jutjar les persones",
-      "link_id": "c_6dfb45",
-      "source": "TechRadar",
+      "title": "La plataforma de desenvolupament al núvol Vercel ha estat piratejada",
+      "link_id": "c_452d80",
+      "source": "The Verge",
       "date": "2026-04-19",
-      "time": "16:20",
-      "summary": "Els sistemes d'intel·ligència artificial mostren biaixos demogràfics més forts que la intuïció humana en prendre decisions estructurades sobre persones."
+      "time": "15:54",
+      "summary": "Uns pirates informàtics han compromès la popular plataforma i intenten vendre dades robades, incloent-hi informació dels empleats."
     },
     {
-      "title": "TechCrunch Mobility: Uber entra en la seva era de maximització d'actius",
-      "link_id": "c_b36854",
-      "source": "TechCrunch",
+      "title": "Apple prova dues noves opcions de personalització de la pantalla d'inici a iOS 27",
+      "link_id": "c_d00aef",
+      "source": "MacRumors",
       "date": "2026-04-19",
-      "time": "16:01",
-      "summary": "Uber transforma la seva estratègia de mobilitat integrant cada cop més la intel·ligència artificial en el futur del transport."
+      "time": "15:49",
+      "summary": "La propera actualització permetrà desfer i refer fàcilment els canvis fets en la disposició d'aplicacions i ginys."
+    },
+    {
+      "title": "L'australiana NEXTDC llança un pla de capital de 2.200 milions de dòlars australians",
+      "link_id": "c_8f46f2",
+      "source": "The Next Web",
+      "date": "2026-04-20",
+      "time": "07:43",
+      "summary": "L'operador de centres de dades busca finançament massiu per accelerar el seu desenvolupament davant l'augment de la demanda."
+    },
+    {
+      "title": "La sortida a borsa de Revolut serà d'aquí a dos anys als Estats Units",
+      "link_id": "c_7cb6ad",
+      "source": "The Next Web",
+      "date": "2026-04-20",
+      "time": "07:07",
+      "summary": "El conseller delegat del banc digital confirma que esperaran fins al 2028 per cotitzar al mercat nord-americà."
+    },
+    {
+      "title": "El misteriós rival de WHOOP creat per Google ja podria tenir nom",
+      "link_id": "c_19f014",
+      "source": "Android Authority",
+      "date": "2026-04-20",
+      "time": "04:54",
+      "summary": "El nou dispositiu sense pantalla per a la salut es comercialitzarà com a Fitbit Air amb una subscripció."
+    },
+    {
+      "title": "S'informa que la NSA utilitza el nou model Mythos d'Anthropic",
+      "link_id": "c_29bd33",
+      "source": "Engadget",
+      "date": "2026-04-19",
+      "time": "21:15",
+      "summary": "L'agència de seguretat empra aquesta intel·ligència artificial malgrat que el Pentàgon va prohibir els serveis de l'empresa recentment."
     }
   ]
 }

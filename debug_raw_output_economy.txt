@@ -1,32 +1,56 @@
 {
-  "generated_at": "2024-05-24T19:30",
+  "generated_at": "2024-05-24T19:00",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Els problemes dels agents d'IA a Silicon Valley: fitxes malgastades i sistemes caòtics",
+      "title": "Les noves tecnologies augmenten la velocitat i l'abast dels ciberatacs",
+      "link_id": "c_a57bd6",
+      "source": "Financial Times",
+      "date": "2026-04-20",
+      "time": "04:00",
+      "summary": "El sector financer es veu obligat a modernitzar ràpidament les seves defenses davant d'amenaces digitals cada cop més sofisticades."
+    },
+    {
+      "title": "Els bancs busquen utilitzar la IA com a eina de protecció i competència",
+      "link_id": "c_248d4f",
+      "source": "Financial Times",
+      "date": "2026-04-20",
+      "time": "04:00",
+      "summary": "Les entitats financeres adopten tecnologies predictives per anticipar-se als delinqüents i millorar la seva posició al mercat."
+    },
+    {
+      "title": "Qui és responsable quan la intel·ligència artificial s'equivoca?",
+      "link_id": "c_0b4823",
+      "source": "Financial Times",
+      "date": "2026-04-20",
+      "time": "04:00",
+      "summary": "Les asseguradores intenten excloure els danys causats per la IA de les pòlisses de responsabilitat civil corporativa."
+    },
+    {
+      "title": "La startup d'IA Cursor negocia una ronda de finançament de 2.000 milions de dòlars",
+      "link_id": "c_3b3641",
+      "source": "CNBC Technology",
+      "date": "2026-04-19",
+      "time": "21:19",
+      "summary": "Aquesta injecció de capital elevaria la valoració de l'empresa per sobre dels 50.000 milions, consolidant el seu creixement."
+    },
+    {
+      "title": "Els problemes dels agents d'IA a Silicon Valley: sistemes caòtics i malbaratament",
       "link_id": "c_0972c5",
       "source": "CNBC Technology",
       "date": "2026-04-19",
       "time": "12:00",
-      "summary": "Els nous assistents autònoms s'enfronten a reptes tècnics i ineficiències malgrat les grans expectatives del sector tecnològic."
+      "summary": "Malgrat les altes expectatives del sector, els nous assistents autònoms presenten ineficiències tècniques que en dificulten la implementació real."
     },
     {
-      "title": "L'estret vincle de Nvidia amb els jugadors s'esquerda per la IA",
+      "title": "La històrica aliança entre Nvidia i els jugadors s'esquerda per la IA",
       "link_id": "c_cce70b",
       "source": "CNBC Technology",
       "date": "2026-04-19",
       "time": "11:37",
-      "summary": "La priorització dels xips d'intel·ligència artificial allunya la marca dels usuaris de videojocs que la van salvar històricament."
-    },
-    {
-      "title": "L'economia de la molèstia no desapareixerà",
-      "link_id": "c_735a37",
-      "source": "Financial Times",
-      "date": "2026-04-19",
-      "time": "04:00",
-      "summary": "Els usuaris hauran d'aprendre a conviure amb l'augment constant de correu brossa, trucades automatitzades i xatbots invasius."
+      "summary": "La priorització dels xips d'intel·ligència artificial allunya la companyia del seu públic original, generant malestar entre la comunitat gamer."
     }
   ]
 }
