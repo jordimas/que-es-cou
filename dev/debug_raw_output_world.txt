@@ -1,88 +1,124 @@
 {
-  "generated_at": "2026-04-19T13:26",
+  "generated_at": "2026-04-20T13:58",
   "id": "world",
   "title": "Notícies tecnològiques del món",
-  "sources_checked": [],
+  "sources_checked": [
+    {
+      "name": "Ars Technica",
+      "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
+      "articles_found": 0
+    },
+    {
+      "name": "VentureBeat",
+      "url": "https://feeds.feedburner.com/venturebeat/SZYF",
+      "articles_found": 0
+    },
+    {
+      "name": "AnandTech",
+      "url": "https://www.anandtech.com/rss/",
+      "articles_found": 0
+    },
+    {
+      "name": "BBC Technology",
+      "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "Wall Street Journal Tech",
+      "url": "https://feeds.a.dj.com/rss/RSSWSJD.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "Gizmodo",
+      "url": "https://www.gizmodo.com/feed/rss",
+      "articles_found": 0
+    },
+    {
+      "name": "Slashdot",
+      "url": "https://slashdot.org/rss/slashdot.rss",
+      "articles_found": 0
+    }
+  ],
   "articles": [
     {
-      "title": "La relació d'Anthropic amb l'administració Trump sembla que es normalitza",
-      "link_id": "c_0712c9",
-      "source": "TechCrunch",
-      "date": "2026-04-18",
-      "time": "14:56",
-      "summary": "Malgrat ser considerada un risc pel Pentàgon, l'empresa d'IA manté converses amb alts càrrecs del govern nord-americà."
+      "title": "Blue Origin assoleix una fita important, però fracassa en el seu objectiu principal",
+      "link_id": "c_4f5a3e",
+      "source": "TechRadar",
+      "date": "2026-04-20",
+      "time": "11:54",
+      "summary": "El coet New Glenn va aterrar amb èxit, però no va aconseguir situar el satèl·lit a l'òrbita correcta."
     },
     {
-      "title": "L'App Store s'omple de noves aplicacions el 2026 i la IA hi té molt a veure",
-      "link_id": "c_208e84",
+      "title": "La NSA estaria provant el potent model d'intel·ligència artificial Mythos d'Anthropic",
+      "link_id": "c_d0b802",
+      "source": "Digital Trends",
+      "date": "2026-04-20",
+      "time": "11:27",
+      "summary": "Malgrat el bloqueig del Pentàgon, l'agència de seguretat utilitza aquesta IA per a tasques avançades de ciberseguretat."
+    },
+    {
+      "title": "Apple prova dues noves opcions de personalització per a la pantalla d'inici a iOS 27",
+      "link_id": "c_d00aef",
+      "source": "MacRumors",
+      "date": "2026-04-19",
+      "time": "15:49",
+      "summary": "La nova actualització permetrà desfer i refer canvis fàcilment, millorant l'experiència d'usuari en organitzar aplicacions i ginys."
+    },
+    {
+      "title": "El MacBook Pro amb pantalla tàctil i el nou Mac Studio podrien endarrerir-se",
+      "link_id": "c_d41f75",
+      "source": "MacRumors",
+      "date": "2026-04-19",
+      "time": "19:00",
+      "summary": "L'escassetat global de memòria, impulsada per la demanda d'IA, obligaria Apple a posposar el llançament d'aquests equips."
+    },
+    {
+      "title": "Vercel confirma una bretxa de seguretat després que uns pirates informàtics posessin dades a la venda",
+      "link_id": "c_25eab2",
+      "source": "TechRadar",
+      "date": "2026-04-20",
+      "time": "10:24",
+      "summary": "La plataforma de desenvolupament al núvol ha patit un robatori de credencials de clients i dades no sensibles."
+    },
+    {
+      "title": "Fitbit Air: el nou rival de Whoop sense pantalla que podria canviar la subscripció Premium",
+      "link_id": "c_649a83",
+      "source": "TechRadar",
+      "date": "2026-04-20",
+      "time": "11:52",
+      "summary": "Google planeja llançar una polsera intel·ligent sense pantalla i canviar el nom del seu servei a Google Health."
+    },
+    {
+      "title": "Uns robots corren la mitja marató de Pequín més ràpid que el rècord mundial humà",
+      "link_id": "c_3eb256",
       "source": "Digital Trends",
       "date": "2026-04-19",
-      "time": "07:52",
-      "summary": "Les eines d'intel·ligència artificial faciliten la creació de programari, impulsant un augment global en el llançament d'aplicacions mòbils."
-    },
-    {
-      "title": "Samsung ja replanteja el TriFold, i aquesta vegada comença per la frontissa",
-      "link_id": "c_94a49b",
-      "source": "Digital Trends",
-      "date": "2026-04-18",
       "time": "21:24",
-      "summary": "Després de retirar el model original, la companyia prepara un dispositiu de triple plec més prim i lleuger."
+      "summary": "Un robot humanoide d'Honor va completar la cursa en només 50 minuts, superant àmpliament la marca humana."
     },
     {
-      "title": "El nou Fire TV Stick HD d'Amazon marca la fi de la instal·lació d'aplicacions externes",
-      "link_id": "c_ebf214",
+      "title": "Una filtració mostra que Apple i Samsung busquen dissenys diferents per als seus futurs plegables",
+      "link_id": "c_4009e9",
       "source": "Android Authority",
-      "date": "2026-04-18",
-      "time": "19:36",
-      "summary": "El dispositiu bloqueja el \"sideloading\" per evitar la pirateria, tot i que Amazon amplia el suport de programari."
+      "date": "2026-04-20",
+      "time": "10:27",
+      "summary": "Mentre Samsung aposta per un format més ample, Apple dissenya un dispositiu prim semblant a un llibre."
     },
     {
-      "title": "Un jutge dona la raó als creadors de rastrejadors de l'ICE prohibits pel govern",
-      "link_id": "c_fe4aab",
-      "source": "Engadget",
-      "date": "2026-04-18",
-      "time": "19:17",
-      "summary": "Una ordre preliminar impedeix a l'administració Trump coaccionar les plataformes perquè eliminin aplicacions que alerten sobre batudes d'immigració."
+      "title": "Apple reté dades mentre el cas antimonopoli a l'Índia avança cap a l'audiència final",
+      "link_id": "c_e8bbef",
+      "source": "MacRumors",
+      "date": "2026-04-20",
+      "time": "04:55",
+      "summary": "La companyia s'enfronta a multes multimilionàries per negar-se a cooperar amb els reguladors sobre les pràctiques de l'App Store."
     },
     {
-      "title": "Tinder vol comprovar la teva humanitat mirant fixament un orbe",
-      "link_id": "c_9cf1ad",
+      "title": "Motorola obre la beta d'Android 17 a més telèfons Razr i Edge",
+      "link_id": "c_c44158",
       "source": "Digital Trends",
-      "date": "2026-04-19",
-      "time": "00:11",
-      "summary": "L'aplicació de cites utilitzarà l'escàner d'iris de l'empresa World, de Sam Altman, per verificar que els usuaris són reals."
-    },
-    {
-      "title": "Debuta la nova memòria HUDIMM per reduir els preus de la DDR5 durant l'escassetat de RAM",
-      "link_id": "c_eea2d7",
-      "source": "Tom's Hardware",
-      "date": "2026-04-19",
-      "time": "11:20",
-      "summary": "Aquest estàndard més econòmic d'ASRock ofereix la meitat d'amplada de banda i capacitat, però és compatible amb configuracions mixtes."
-    },
-    {
-      "title": "Ho he fet expressament! Els proveïdors d'IA eludeixen la responsabilitat de les vulnerabilitats",
-      "link_id": "c_a856b8",
-      "source": "The Register",
-      "date": "2026-04-19",
-      "time": "11:07",
-      "summary": "Les empreses d'intel·ligència artificial justifiquen les fallades de seguretat com a comportaments previstos, demostrant una preocupant manca de maduresa."
-    },
-    {
-      "title": "El proper joc independent de 1000xResist planteja: pots convèncer una IA que no és humana?",
-      "link_id": "c_7fd389",
-      "source": "CNET",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "summary": "Aquest nou títol explora els límits de la consciència artificial, convertint-se en una obra molt rellevant per l'era actual."
-    },
-    {
-      "title": "Aquest accessori de 10 dòlars ha transformat completament el meu Pixel 10",
-      "link_id": "c_0b4019",
-      "source": "Android Authority",
-      "date": "2026-04-19",
-      "time": "11:00",
-      "summary": "Un simple anell magnètic millora dràsticament l'experiència d'ús del telèfon de Google, afegint-hi funcionalitats molt pràctiques i còmodes."
+      "date": "2026-04-20",
+      "time": "11:52",
+      "summary": "La companyia amplia l'accés a la nova versió del sistema operatiu per a diversos dels seus models premium."
     }
   ]
 }

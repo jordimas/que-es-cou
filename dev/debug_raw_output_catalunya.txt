@@ -1,32 +1,32 @@
 {
-  "generated_at": "2024-05-24T16:00",
+  "generated_at": "2024-05-24T12:00",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
     {
       "name": "Ara.cat",
       "url": "https://www.ara.cat/rss/",
-      "articles_found": 9
+      "articles_found": 11
     },
     {
       "name": "El Periódico",
       "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
-      "articles_found": 2
+      "articles_found": 1
     },
     {
       "name": "RAC1",
       "url": "https://www.rac1.cat/rss/home.xml",
-      "articles_found": 5
+      "articles_found": 4
     },
     {
       "name": "La Vanguardia (en català)",
       "url": "https://www.lavanguardia.com/rss/encatala.xml",
-      "articles_found": 6
+      "articles_found": 8
     },
     {
       "name": "VilaWeb",
       "url": "https://www.vilaweb.cat/feed/",
-      "articles_found": 1
+      "articles_found": 0
     },
     {
       "name": "NacióDigital",
@@ -46,12 +46,12 @@
     {
       "name": "El Nacional.cat",
       "url": "https://www.elnacional.cat/uploads/feeds/feed_ca.xml",
-      "articles_found": 11
+      "articles_found": 7
     },
     {
       "name": "El Mon.cat",
       "url": "https://www.elmon.cat/feed/",
-      "articles_found": 1
+      "articles_found": 0
     },
     {
       "name": "El Mon.cat Tecnologia",
@@ -66,7 +66,7 @@
     {
       "name": "Betevé",
       "url": "https://beteve.cat/feed/",
-      "articles_found": 0
+      "articles_found": 1
     },
     {
       "name": "El Punt Avui",
@@ -101,7 +101,7 @@
     {
       "name": "Nuvol",
       "url": "https://www.nuvol.com/feed",
-      "articles_found": 1
+      "articles_found": 0
     },
     {
       "name": "Diari Mes",
@@ -126,7 +126,7 @@
     {
       "name": "Tot Barcelona",
       "url": "https://www.totbarcelona.cat/feed/",
-      "articles_found": 0
+      "articles_found": 1
     },
     {
       "name": "e-notícies",
@@ -136,7 +136,7 @@
     {
       "name": "Lleida Diari",
       "url": "https://www.lleidadiari.cat/feed/",
-      "articles_found": 2
+      "articles_found": 1
     },
     {
       "name": "Catorze",
@@ -156,7 +156,7 @@
     {
       "name": "MetaData",
       "url": "https://www.metadata.cat/sindica",
-      "articles_found": 9
+      "articles_found": 8
     },
     {
       "name": "El Temps",
@@ -166,12 +166,12 @@
     {
       "name": "Àpunt",
       "url": "https://www.apuntmedia.es/rss/",
-      "articles_found": 0
+      "articles_found": 1
     },
     {
       "name": "El Periòdic d'Ontinyent",
       "url": "https://www.elperiodicvalencia.com/?feed=rss2",
-      "articles_found": 1
+      "articles_found": 0
     },
     {
       "name": "Saó",
@@ -191,7 +191,7 @@
     {
       "name": "Ara Balears",
       "url": "https://www.arabalears.cat/rss/",
-      "articles_found": 4
+      "articles_found": 2
     },
     {
       "name": "Manacor Comarcal",
@@ -201,7 +201,7 @@
     {
       "name": "Via Empresa",
       "url": "https://www.viaempresa.cat/uploads/feeds/feed_via-empresa-2024_ca.xml",
-      "articles_found": 2
+      "articles_found": 4
     },
     {
       "name": "Lúdica",
@@ -216,68 +216,68 @@
   ],
   "articles": [
     {
-      "title": "L'astronauta d'Artemis 2, Christina Koch, torna a acostumar-se a la gravetat terrestre",
-      "link_id": "c_87df13",
-      "source": "RAC1",
-      "date": "2026-04-18",
-      "time": "20:23",
-      "summary": "El cos humà necessita un procés de readaptació física per recuperar l'equilibri després de llargues estades a l'espai."
+      "title": "Mentre els humanoides corren a la Xina, nosaltres fem consorcis",
+      "link_id": "c_778202",
+      "source": "Ara.cat",
+      "date": "2026-04-20",
+      "time": "09:02",
+      "summary": "L'èxit dels robots a la marató de Pequín demostra que les aplicacions futures ja són una realitat palpable."
+    },
+    {
+      "title": "Cursa espacial: la batalla per la Lluna",
+      "link_id": "c_939a70",
+      "source": "Ara.cat",
+      "date": "2026-04-20",
+      "time": "05:00",
+      "summary": "El programa Artemis accelera la competició històrica entre els Estats Units i la Xina per dominar l'espai."
+    },
+    {
+      "title": "La IA millorarà els nostres salaris?",
+      "link_id": "c_3bf812",
+      "source": "Ara.cat",
+      "date": "2026-04-20",
+      "time": "05:00",
+      "summary": "L'arribada de la intel·ligència artificial reobre el debat sobre el seu impacte real en l'ocupació i les retribucions."
+    },
+    {
+      "title": "Es veia venir: Netflix apuja el preu de tots els seus plans a Espanya",
+      "link_id": "c_f0d25c",
+      "source": "El Nacional.cat",
+      "date": "2026-04-20",
+      "time": "12:03",
+      "summary": "La plataforma de streaming encareix les tarifes al mercat espanyol seguint la tendència iniciada als Estats Units."
     },
     {
       "title": "La nova funció per garantir que ningú ignora els teus missatges al WhatsApp",
       "link_id": "c_e0a51a",
-      "source": "El Mon.cat",
+      "source": "El Mon.cat Societat",
       "date": "2026-04-18",
       "time": "17:41",
-      "summary": "L'aplicació incorpora una eina per interpel·lar directament els usuaris en grups actius i evitar que la informació passi desapercebuda."
+      "summary": "L'aplicació de missatgeria incorpora una eina per interpel·lar directament els usuaris i evitar que els textos passin desapercebuts."
     },
     {
-      "title": "La Unió Europea llança una app de verificació d'edat i la hackegen en hores",
-      "link_id": "c_50919d",
-      "source": "El Nacional.cat",
-      "date": "2026-04-18",
-      "time": "15:00",
-      "summary": "Un investigador descobreix vulnerabilitats de seguretat en la nova eina comunitària dissenyada per restringir l'accés dels menors a internet."
+      "title": "La solar fotovoltaica lidera per primera vegada el creixement de la demanda energètica mundial",
+      "link_id": "c_9a07c3",
+      "source": "Àpunt",
+      "date": "2026-04-20",
+      "time": "08:15",
+      "summary": "Aquesta energia renovable supera el gas natural i cobreix més del 27% de l'augment del consum global."
     },
     {
-      "title": "«No hi haurà alleujament»: la febre de la IA desencadena l’«apocalipsi de la memòria informàtica» i dispara el preu de mòbils i ordinadors",
-      "link_id": "c_577a57",
-      "source": "El Periódico",
-      "date": "2026-04-15",
-      "time": "11:05",
-      "summary": "L'alta demanda de memòria RAM per fer funcionar els xatbots encareix significativament els dispositius electrònics de consum diari."
+      "title": "Amazon acumula una inversió de 5.000 M € en una dècada a Catalunya i ocupa 8.000 treballadors",
+      "link_id": "c_9d7fae",
+      "source": "Betevé",
+      "date": "2026-04-20",
+      "time": "11:32",
+      "summary": "La multinacional consolida el seu impacte econòmic al territori català amb una forta injecció al PIB des del 2016."
     },
     {
-      "title": "Així funcionarà el prefix 400 per frenar l’spam telefònic",
-      "link_id": "c_0cf6ae",
+      "title": "Descobreixen un ‘interruptor’ que frena un tipus de càncer agressiu",
+      "link_id": "c_5e0dfc",
       "source": "Lleida Diari",
-      "date": "2026-04-18",
-      "time": "07:02",
-      "summary": "A partir de l'octubre de 2026, les empreses hauran d'utilitzar aquesta numeració per facilitar el bloqueig de trucades comercials."
-    },
-    {
-      "title": "Atenció: la pols de casa amaga contaminants tòxics invisibles",
-      "link_id": "c_a1bb29",
-      "source": "Lleida Diari",
-      "date": "2026-04-18",
-      "time": "18:06",
-      "summary": "Un estudi revela que la brutícia domèstica conté microplàstics, metalls pesants i pesticides que suposen un risc per la salut."
-    },
-    {
-      "title": "Experts expliquen la raó per la qual s’ha de desactivar el wi-fi del mòbil al sortir de casa",
-      "link_id": "c_844a2c",
-      "source": "Segre",
-      "date": "2026-04-15",
-      "time": "13:08",
-      "summary": "Mantenir la connexió oberta en espais públics facilita els ciberatacs i posa en perill les dades personals dels usuaris."
-    },
-    {
-      "title": "Un miler de persones protesten contra la presència de l'empresa israeliana ICL al Bages",
-      "link_id": "c_4b90b7",
-      "source": "Ara.cat",
-      "date": "2026-04-18",
-      "time": "18:53",
-      "summary": "Els veïns acampen a Callús per denunciar l'impacte social i mediambiental de l'explotació de les mines de sal comarcals."
+      "date": "2026-04-20",
+      "time": "11:32",
+      "summary": "L'Institut Josep Carreras identifica la proteïna HDAC7 com a clau per aturar el limfoma difús de cèl·lules B."
     },
     {
       "title": "Barcelona atrau un altre congrés sobre tecnologia: acollirà al maig la primera Trobada Internacional de Drets Digitals",
@@ -285,15 +285,15 @@
       "source": "El Periódico",
       "date": "2026-04-16",
       "time": "12:02",
-      "summary": "La capital catalana consolida el seu lideratge tecnològic amb un nou esdeveniment centrat en l'ètica i la governança digital."
+      "summary": "La capital catalana reforça el seu lideratge tecnològic amb un nou esdeveniment centrat en l'ètica i la governança."
     },
     {
-      "title": "'Speak catalan', la primera comunitat que ajuda expats i nouvinguts a fer vida en català: \"​Hi ha un munt de persones que volen integrar-se bé\"",
-      "link_id": "c_76a0ce",
-      "source": "RAC1",
-      "date": "2026-04-19",
-      "time": "09:10",
-      "summary": "Aquest projecte barceloní busca fomentar l'ús social de la llengua i trencar prejudicis sobre l'adaptació dels estrangers a Catalunya."
+      "title": "3Cat estrena avui a la seua plataforma ‘La gran cita’, que presenta Dulceida",
+      "link_id": "c_995882",
+      "source": "Segre",
+      "date": "2026-04-20",
+      "time": "05:31",
+      "summary": "El nou programa de cites utilitza la intel·ligència artificial per emparellar cent participants en un format televisiu inèdit."
     }
   ]
 }
