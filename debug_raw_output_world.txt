@@ -1,88 +1,119 @@
 {
-  "generated_at": "2024-05-24T16:00",
+  "generated_at": "2026-04-20T19:54",
   "id": "world",
   "title": "Notícies tecnològiques del món",
-  "sources_checked": [],
+  "sources_checked": [
+    {
+      "name": "Ars Technica",
+      "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
+      "articles_found": 0
+    },
+    {
+      "name": "VentureBeat",
+      "url": "https://feeds.feedburner.com/venturebeat/SZYF",
+      "articles_found": 0
+    },
+    {
+      "name": "AnandTech",
+      "url": "https://www.anandtech.com/rss/",
+      "articles_found": 0
+    },
+    {
+      "name": "Wall Street Journal Tech",
+      "url": "https://feeds.a.dj.com/rss/RSSWSJD.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "Gizmodo",
+      "url": "https://www.gizmodo.com/feed/rss",
+      "articles_found": 0
+    },
+    {
+      "name": "Slashdot",
+      "url": "https://slashdot.org/rss/slashdot.rss",
+      "articles_found": 0
+    }
+  ],
   "articles": [
     {
-      "title": "Blue Origin fa aterrar el seu coet reciclat New Glenn però no aconsegueix posar la càrrega en òrbita",
-      "link_id": "c_44da75",
-      "source": "Engadget",
-      "date": "2026-04-20",
-      "time": "05:58",
-      "summary": "Tot i recuperar el propulsor amb èxit, la primera missió comercial de l'empresa va fracassar en desplegar el satèl·lit."
-    },
-    {
-      "title": "Els propers llançaments del Mac Studio i MacBook Pro podrien ajornar-se diversos mesos",
-      "link_id": "c_c1915f",
-      "source": "Engadget",
-      "date": "2026-04-19",
-      "time": "17:31",
-      "summary": "L'escassetat global de memòria, impulsada per la demanda de maquinari d'IA, podria endarrerir l'arribada dels nous ordinadors d'Apple."
-    },
-    {
-      "title": "La nova interfície de Siri a iOS 27 s'amaga al tràiler de la WWDC d'Apple",
-      "link_id": "c_5f916e",
-      "source": "Bloomberg Technology",
-      "date": "2026-04-19",
-      "time": "14:00",
-      "summary": "La imatge promocional de l'esdeveniment revela un redisseny visual de l'assistent de veu, que s'integrarà a la Dynamic Island."
-    },
-    {
-      "title": "Els robots superen els rècords humans a la mitja marató de Pequín",
-      "link_id": "c_07a729",
+      "title": "La FAA ordena investigar l'incident del coet New Glenn de Blue Origin",
+      "link_id": "c_d09a7d",
       "source": "TechCrunch",
-      "date": "2026-04-19",
-      "time": "18:44",
-      "summary": "Un robot humanoide va completar la cursa en només 50 minuts, superant àmpliament la millor marca mundial humana."
+      "date": "2026-04-20",
+      "time": "16:11",
+      "summary": "El coet quedarà a terra mentre s'investiga la fallada de la seva etapa superior en no assolir l'òrbita correcta."
     },
     {
-      "title": "La plataforma de desenvolupament al núvol Vercel ha estat piratejada",
-      "link_id": "c_452d80",
+      "title": "Els espies de la NSA utilitzen el model Mythos d'Anthropic malgrat la disputa amb el Pentàgon",
+      "link_id": "c_6999d3",
+      "source": "TechCrunch",
+      "date": "2026-04-20",
+      "time": "16:06",
+      "summary": "L'agència de seguretat empra aquest model d'intel·ligència artificial restringit per a tasques de ciberseguretat, ignorant les prohibicions governamentals."
+    },
+    {
+      "title": "El robot humanoide 'Lightning' bat el rècord de la mitja marató",
+      "link_id": "c_8c5bd4",
       "source": "The Verge",
-      "date": "2026-04-19",
-      "time": "15:54",
-      "summary": "Uns pirates informàtics han compromès la popular plataforma i intenten vendre dades robades, incloent-hi informació dels empleats."
+      "date": "2026-04-20",
+      "time": "11:42",
+      "summary": "Aquest robot autònom va completar la cursa a Pequín en només 50 minuts, superant àmpliament les marques anteriors."
     },
     {
-      "title": "Apple prova dues noves opcions de personalització de la pantalla d'inici a iOS 27",
-      "link_id": "c_d00aef",
+      "title": "El proveïdor Vercel pateix un ciberatac i el robatori de dades de clients",
+      "link_id": "c_bdb58d",
+      "source": "TechCrunch",
+      "date": "2026-04-20",
+      "time": "14:45",
+      "summary": "La bretxa de seguretat es va originar per una vulnerabilitat prèvia a Context AI que va comprometre un compte intern."
+    },
+    {
+      "title": "Fitbit Air es llançaria el 16 de maig per uns 100 dòlars amb diverses corretges",
+      "link_id": "c_9d0005",
+      "source": "9to5Google",
+      "date": "2026-04-20",
+      "time": "15:20",
+      "summary": "Aquesta nova polsera intel·ligent sense pantalla de Google competirà amb Whoop i s'integrarà sota la marca Google Health."
+    },
+    {
+      "title": "Deezer afirma que el 44% de les cançons pujades diàriament són generades per IA",
+      "link_id": "c_af8109",
+      "source": "TechCrunch",
+      "date": "2026-04-20",
+      "time": "14:57",
+      "summary": "Tot i l'alt volum de contingut artificial, el seu consum real és baix i la majoria es desmonetitza per frau."
+    },
+    {
+      "title": "Motorola confirma la data de llançament del Razr (2026) i nous colors",
+      "link_id": "c_a527c5",
+      "source": "9to5Google",
+      "date": "2026-04-20",
+      "time": "17:20",
+      "summary": "La companyia ha anunciat l'arribada dels seus nous telèfons plegables a finals d'abril, acompanyada d'una beta d'Android 17."
+    },
+    {
+      "title": "Apple considera el control de càmera com una funció clau per a l'iPhone plegable",
+      "link_id": "c_8d944d",
       "source": "MacRumors",
-      "date": "2026-04-19",
-      "time": "15:49",
-      "summary": "La propera actualització permetrà desfer i refer fàcilment els canvis fets en la disposició d'aplicacions i ginys."
-    },
-    {
-      "title": "L'australiana NEXTDC llança un pla de capital de 2.200 milions de dòlars australians",
-      "link_id": "c_8f46f2",
-      "source": "The Next Web",
       "date": "2026-04-20",
-      "time": "07:43",
-      "summary": "L'operador de centres de dades busca finançament massiu per accelerar el seu desenvolupament davant l'augment de la demanda."
+      "time": "07:40",
+      "summary": "El primer iPhone plegable tindrà un disseny extremadament prim, botó de càmera dedicat i només admetrà targetes eSIM."
     },
     {
-      "title": "La sortida a borsa de Revolut serà d'aquí a dos anys als Estats Units",
-      "link_id": "c_7cb6ad",
-      "source": "The Next Web",
+      "title": "Huawei s'avança a Samsung i Apple amb el primer telèfon plegable ample",
+      "link_id": "c_94fced",
+      "source": "The Verge",
       "date": "2026-04-20",
-      "time": "07:07",
-      "summary": "El conseller delegat del banc digital confirma que esperaran fins al 2028 per cotitzar al mercat nord-americà."
+      "time": "08:19",
+      "summary": "El nou model Pura X Max ja està disponible a la Xina, oferint un format innovador tipus passaport."
     },
     {
-      "title": "El misteriós rival de WHOOP creat per Google ja podria tenir nom",
-      "link_id": "c_19f014",
+      "title": "Ha caigut ChatGPT? Una interrupció global afecta la plataforma d'OpenAI",
+      "link_id": "c_f32a62",
       "source": "Android Authority",
       "date": "2026-04-20",
-      "time": "04:54",
-      "summary": "El nou dispositiu sense pantalla per a la salut es comercialitzarà com a Fitbit Air amb una subscripció."
-    },
-    {
-      "title": "S'informa que la NSA utilitza el nou model Mythos d'Anthropic",
-      "link_id": "c_29bd33",
-      "source": "Engadget",
-      "date": "2026-04-19",
-      "time": "21:15",
-      "summary": "L'agència de seguretat empra aquesta intel·ligència artificial malgrat que el Pentàgon va prohibir els serveis de l'empresa recentment."
+      "time": "15:44",
+      "summary": "Milers d'usuaris han experimentat problemes per accedir als serveis d'intel·ligència artificial d'OpenAI, incloent-hi ChatGPT i Codex."
     }
   ]
 }

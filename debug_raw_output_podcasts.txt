@@ -1,16 +1,24 @@
 {
-  "generated_at": "2024-05-20T16:20",
+  "generated_at": "2024-05-24T15:00",
   "id": "podcasts",
   "title": "Podcasts en català sobre tecnologia",
   "sources_checked": [],
   "articles": [
     {
-      "title": "La connexió entre IA, política i tecnologia",
+      "title": "Especial Oients residents als Estats Units – Programa 660",
+      "link_id": "c_fe8827",
+      "source": "Mossega la poma",
+      "date": "2026-04-20",
+      "time": "16:03",
+      "summary": "Conversa amb oients residents als Estats Units sobre l'actualitat tecnològica, política i social del país."
+    },
+    {
+      "title": "La connexió entre IA, política i tecnologia – Programa 659",
       "link_id": "c_ec2e7e",
       "source": "Mossega la poma",
       "date": "2026-04-10",
       "time": "08:18",
-      "summary": "S'analitza l'impacte social i moral de la intel·ligència artificial i la influència de les grans corporacions tecnològiques."
+      "summary": "Anàlisi de l'impacte de la intel·ligència artificial en la societat, la moral i el poder polític actual."
     },
     {
       "title": "L' Altra Ràdio - Especial 50 anys de Ràdio 4",
@@ -18,7 +26,7 @@
       "source": "L'altra ràdio",
       "date": "2026-04-16",
       "time": "07:33",
-      "summary": "Edició especial des de la Universitat Ramon Llull per commemorar el mig segle d'història de Ràdio 4."
+      "summary": "Edició especial enregistrada a la universitat Blanquerna per commemorar el cinquantenari de l'emissora Ràdio 4."
     },
     {
       "title": "L' Altra Ràdio - Condemna judicial a Meta i Google per causar addicció a les xarxes socials",
@@ -26,7 +34,7 @@
       "source": "L'altra ràdio",
       "date": "2026-04-09",
       "time": "07:33",
-      "summary": "El Barcelona Supercomputing Center valora la sentència històrica als Estats Units contra les grans plataformes per generar addicció."
+      "summary": "Valoració de la condemna a Meta i Google als Estats Units per generar addicció a les xarxes."
     },
     {
       "title": "El gòTIC - Tenim una missió! del 15/4/2026",
@@ -34,7 +42,7 @@
       "source": "El Gòtic",
       "date": "2026-04-14",
       "time": "16:29",
-      "summary": "L'Ajuntament de Tàrrega comparteix recursos i estratègies per afrontar els reptes actuals de la ciutadania digital."
+      "summary": "Recursos i estratègies per afrontar els reptes i les inquietuds actuals de la ciutadania digital."
     },
     {
       "title": "Col·lapse de flotes de robotaxis",
@@ -42,7 +50,7 @@
       "source": "Societat de la Informació",
       "date": "2026-04-14",
       "time": "12:28",
-      "summary": "Una fallada tècnica a Wuhan paralitza desenes de vehicles autònoms de Baidu, bloquejant el trànsit de la ciutat."
+      "summary": "Una fallada tècnica paralitza desenes de taxis autònoms a Wuhan, provocant un gran bloqueig de trànsit."
     },
     {
       "title": "La pensió de les paneroles i altres patrons de decepció",
@@ -50,7 +58,7 @@
       "source": "Foc a Terra",
       "date": "2026-04-20",
       "time": "04:00",
-      "summary": "Descobreix els trucs de disseny fosc que utilitzen empreses com Amazon o Ticketmaster per manipular les teves decisions."
+      "summary": "Descobreix els trucs de disseny enganyosos que utilitzen les empreses per manipular les teves decisions digitals."
     },
     {
       "title": "Avui parlem d'urbanisme i dels cables de les façanes, amb Judith Urbano",
@@ -58,7 +66,7 @@
       "source": "Foc a Terra",
       "date": "2026-04-13",
       "time": "04:00",
-      "summary": "La doctora Judith Urbano repassa la història de l'urbanisme a Barcelona i l'origen del cablejat a les façanes."
+      "summary": "Lliçons d'urbanisme sobre Barcelona i l'origen dels cables a les façanes amb la doctora Judith Urbano."
     },
     {
       "title": "Tancat amb Claude",
@@ -66,7 +74,7 @@
       "source": "Foc a Terra",
       "date": "2026-04-06",
       "time": "04:00",
-      "summary": "Presentació de Factory Floor, una aplicació nativa per a macOS dissenyada per facilitar el treball amb Claude Code."
+      "summary": "Presentació de Factory Floor, una aplicació nativa per a macOS dissenyada per facilitar l'ús de Claude Code."
     },
     {
       "title": "Eines d’IA per crear formació",
@@ -74,7 +82,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-04-14",
       "time": "00:00",
-      "summary": "L'equip de formació proposa nous mètodes i instruccions per estandarditzar els materials educatius mitjançant intel·ligència artificial."
+      "summary": "Proposta d'eines i instruccions d'intel·ligència artificial per estandarditzar el material formatiu sobre WordPress."
     },
     {
       "title": "No tenim pas res enllestit per a WordPress 7.0",
@@ -82,7 +90,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-04-07",
       "time": "00:00",
-      "summary": "El llançament de la nova versió s'enfronta a replantejaments d'última hora després de la publicació de les candidates."
+      "summary": "El llançament de la nova versió s'endarrereix després de replantejar diverses qüestions de les versions candidates."
     },
     {
       "title": "Capítol 62: Mitiga, invertir pensant en el risc climàtic",
@@ -90,7 +98,7 @@
       "source": "RAC&GO",
       "date": "2026-04-07",
       "time": "06:00",
-      "summary": "L'emprenedor Àlex Martí explica com la seva empresa ajuda a prendre decisions d'inversió basades en el risc climàtic."
+      "summary": "L'empresa Mitiga ajuda les companyies a prendre decisions d'inversió tenint en compte els riscos climàtics futurs."
     }
   ]
 }

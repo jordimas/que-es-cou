@@ -1,16 +1,32 @@
 {
-  "generated_at": "2024-05-24T15:30",
+  "generated_at": "2026-04-20T18:00",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [],
   "articles": [
+    {
+      "title": "Amazon dispara la seva presència a Catalunya amb 5.000 milions invertits i milers de llocs de treball",
+      "link_id": "c_938a11",
+      "source": "MetaData",
+      "date": "2026-04-20",
+      "time": "15:15",
+      "summary": "La multinacional consolida el seu impacte econòmic al territori, tot reclamant estabilitat reguladora per continuar innovant."
+    },
+    {
+      "title": "Amazon - Catalunya: un matrimoni de conveniència de 4.000 milions d'euros",
+      "link_id": "c_3882b3",
+      "source": "Via Empresa",
+      "date": "2026-04-20",
+      "time": "12:37",
+      "summary": "Malgrat les grans xifres d'inversió, l'impacte real dels nous centres de dades genera certs dubtes sobre el territori."
+    },
     {
       "title": "Un robot supera el rècord del món humà de mitja marató en una cursa a Pequín",
       "link_id": "c_fa83e2",
       "source": "324.cat",
       "date": "2026-04-19",
       "time": "14:36",
-      "summary": "Els robots humanoides assoleixen una fita històrica a Pequín, rebaixant dràsticament els temps de cursa respecte a l'any passat."
+      "summary": "L'evolució accelerada de la robòtica humanoide demostra capacitats físiques inèdites, superant marques atlètiques històriques en poc temps."
     },
     {
       "title": "Robots humanoides rebaixen gairebé en dues hores la seva marca en una mitja marató",
@@ -18,71 +34,55 @@
       "source": "Ara.cat",
       "date": "2026-04-19",
       "time": "17:20",
-      "summary": "El model Qitian Dasheng guanya la prova xinesa, demostrant l'avenç accelerat de la robòtica en competicions físiques exigents."
+      "summary": "El model Qitian Dasheng guanya la prova, evidenciant un salt tecnològic espectacular en la coordinació i resistència de les màquines."
     },
     {
-      "title": "Cursa espacial: la batalla per la Lluna",
-      "link_id": "c_939a70",
-      "source": "Ara.cat",
+      "title": "Cau ChatGPT i Gemini i Claude tenen problemes de connexió",
+      "link_id": "c_b0e207",
+      "source": "RAC1",
       "date": "2026-04-20",
-      "time": "05:00",
-      "summary": "El programa Artemis de la NASA accelera els preparatius per trepitjar el satèl·lit abans que la Xina."
+      "time": "17:44",
+      "summary": "Una incidència global paralitza les principals eines d'intel·ligència artificial, afectant milions d'usuaris i evidenciant la nostra dependència tecnològica."
     },
     {
-      "title": "«No hi haurà alleujament»: la febre de la IA desencadena l’«apocalipsi de la memòria informàtica» i dispara el preu de mòbils i ordinadors",
-      "link_id": "c_577a57",
-      "source": "El Periódico",
-      "date": "2026-04-15",
-      "time": "11:05",
-      "summary": "L'alta demanda de memòria RAM per a sistemes d'intel·ligència artificial encareix significativament els dispositius electrònics de consum diari."
+      "title": "L’Ajuntament de València impulsa la intel·ligència artificial per a modernitzar la gestió del sector públic",
+      "link_id": "c_4bf774",
+      "source": "El Periòdic d'Ontinyent",
+      "date": "2026-04-20",
+      "time": "16:00",
+      "summary": "L'administració local aposta per eines avançades com a copilots per agilitzar tràmits i millorar l'atenció directa a la ciutadania."
     },
     {
-      "title": "Barcelona atrau un altre congrés sobre tecnologia: acollirà al maig la primera Trobada Internacional de Drets Digitals",
-      "link_id": "c_8b1f6f",
-      "source": "El Periódico",
-      "date": "2026-04-16",
-      "time": "12:02",
-      "summary": "La capital catalana consolida el seu lideratge tecnològic amb un nou esdeveniment centrat en l'ètica i la governança digital."
+      "title": "La IA entra al centre del debat econòmic i el repte ja no és adoptar-la, sinó saber organitzar-la",
+      "link_id": "c_94d7da",
+      "source": "El Mon.cat",
+      "date": "2026-04-20",
+      "time": "16:16",
+      "summary": "La competitivitat de les pimes dependrà d'una integració estratègica i ben estructurada d'aquestes noves tecnologies disruptives."
     },
     {
-      "title": "Brussel·les impulsa una app de verificació d’edat per restringir l’accés dels menors a internet a la UE",
-      "link_id": "c_11b5d2",
-      "source": "MetaData",
-      "date": "2026-04-15",
-      "time": "16:37",
-      "summary": "Aquesta eina de codi obert protegirà els menors sense comprometre les dades personals, integrant-se en les carteres digitals europees."
+      "title": "Drons per detectar possibles esllavissades: \"Podem fer models que ens diguin on cauran les pedres\"",
+      "link_id": "c_a093a4",
+      "source": "324.cat",
+      "date": "2026-04-20",
+      "time": "19:25",
+      "summary": "L'Institut Cartogràfic utilitza tecnologia aèria avançada per predir despreniments i minimitzar riscos geològics a les zones vulnerables."
     },
     {
-      "title": "Arrenca l’assaig clínic de la teràpia CAR-T per a càncer de mama creada a Barcelona",
-      "link_id": "c_39e603",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-04-17",
-      "time": "09:38",
-      "summary": "Els hospitals Vall d'Hebron i del Mar iniciaran al maig aquest tractament pioner amb quinze pacients oncològiques."
-    },
-    {
-      "title": "CerviSense, la tecnologia catalana que anticipa el part prematur i transforma la ginecologia",
-      "link_id": "c_1acdc9",
-      "source": "MetaData",
-      "date": "2026-04-16",
-      "time": "09:49",
-      "summary": "Aquest dispositiu innovador utilitza intel·ligència artificial per predir el risc de part en set dies amb gran precisió."
+      "title": "Apple està tenint greus problemes de subministrament que estan endarrerint dispositius actuals i futurs",
+      "link_id": "c_ce92ce",
+      "source": "El Nacional.cat",
+      "date": "2026-04-20",
+      "time": "19:02",
+      "summary": "La crisi global de components impacta directament en el calendari de llançaments de la companyia, frustrant les expectatives del mercat."
     },
     {
       "title": "Ucraïna imposa la guerra sense soldats: robots capturen russos sense disparar",
       "link_id": "c_94b5bb",
       "source": "El Nacional.cat",
       "date": "2026-04-20",
-      "time": "10:31",
-      "summary": "L'exèrcit ucraïnès desplega sistemes terrestres no tripulats per fer presoners, marcant un nou paradigma en la guerra tecnològica."
-    },
-    {
-      "title": "La solar fotovoltaica lidera per primera vegada el creixement de la demanda energètica mundial",
-      "link_id": "c_9a07c3",
-      "source": "Àpunt",
-      "date": "2026-04-20",
-      "time": "08:15",
-      "summary": "Aquesta energia renovable supera el gas natural i cobreix gran part de l'augment del consum elèctric global."
+      "time": "15:23",
+      "summary": "L'ús de drons i sistemes autònoms terrestres revoluciona l'estratègia militar, compensant la inferioritat numèrica amb innovació tecnològica."
     }
   ]
 }

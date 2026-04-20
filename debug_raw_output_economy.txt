@@ -1,16 +1,48 @@
 {
-  "generated_at": "2024-05-24T19:00",
+  "generated_at": "2024-05-24T18:30",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Les noves tecnologies augmenten la velocitat i l'abast dels ciberatacs",
+      "title": "Les accions de l'empresa de centres de dades Fermi s'enfonsen per la dimissió de directius",
+      "link_id": "c_413088",
+      "source": "Financial Times",
+      "date": "2026-04-20",
+      "time": "15:35",
+      "summary": "La pèrdua d'una inversió d'Amazon de 150 milions de dòlars agreuja la crisi d'aquesta companyia tecnològica."
+    },
+    {
+      "title": "Un rival d'Nvidia busca almenys 100 milions de dòlars de finançament en ple auge europeu",
+      "link_id": "c_dec7a2",
+      "source": "CNBC Technology",
+      "date": "2026-04-20",
+      "time": "10:02",
+      "summary": "L'interès inversor creix al mercat europeu de xips d'IA, tot i els grans reptes que afronta aquest sector emergent."
+    },
+    {
+      "title": "Els rivals de xips d'IA d'Nvidia atreuen un finançament rècord mentre s'intensifica la competència",
+      "link_id": "c_261260",
+      "source": "CNBC Technology",
+      "date": "2026-04-20",
+      "time": "10:01",
+      "summary": "Diverses empreses emergents capten fons històrics amb l'objectiu de desafiar el domini absolut del gegant dels semiconductors."
+    },
+    {
+      "title": "Cinc regals de casament tecnològics que van més enllà de la llista de bodes",
+      "link_id": "c_8bd308",
+      "source": "Financial Times",
+      "date": "2026-04-20",
+      "time": "10:01",
+      "summary": "Descobreix dispositius innovadors i divertits ideals per sorprendre les parelles modernes en el seu gran dia."
+    },
+    {
+      "title": "Les noves tecnologies augmenten la velocitat i la profunditat dels ciberatacs",
       "link_id": "c_a57bd6",
       "source": "Financial Times",
       "date": "2026-04-20",
       "time": "04:00",
-      "summary": "El sector financer es veu obligat a modernitzar ràpidament les seves defenses davant d'amenaces digitals cada cop més sofisticades."
+      "summary": "El sector financer es veu obligat a transformar-se ràpidament per fer front a un panorama d'amenaces digitals cada cop pitjor."
     },
     {
       "title": "Els bancs busquen utilitzar la IA com a eina de protecció i competència",
@@ -18,39 +50,23 @@
       "source": "Financial Times",
       "date": "2026-04-20",
       "time": "04:00",
-      "summary": "Les entitats financeres adopten tecnologies predictives per anticipar-se als delinqüents i millorar la seva posició al mercat."
+      "summary": "Les entitats financeres aposten per tecnologies predictives per anticipar-se als delinqüents i deixar enrere les estratègies purament reactives."
     },
     {
-      "title": "Qui és responsable quan la intel·ligència artificial s'equivoca?",
+      "title": "Qui és responsable quan la intel·ligència artificial comet errors?",
       "link_id": "c_0b4823",
       "source": "Financial Times",
       "date": "2026-04-20",
       "time": "04:00",
-      "summary": "Les asseguradores intenten excloure els danys causats per la IA de les pòlisses de responsabilitat civil corporativa."
+      "summary": "Les asseguradores intenten excloure els danys derivats de la IA de les seves pòlisses de responsabilitat civil corporativa."
     },
     {
-      "title": "La startup d'IA Cursor negocia una ronda de finançament de 2.000 milions de dòlars",
+      "title": "L'empresa d'IA Cursor negocia una ronda de finançament de 2.000 milions amb una valoració rècord",
       "link_id": "c_3b3641",
       "source": "CNBC Technology",
       "date": "2026-04-19",
       "time": "21:19",
-      "summary": "Aquesta injecció de capital elevaria la valoració de l'empresa per sobre dels 50.000 milions, consolidant el seu creixement."
-    },
-    {
-      "title": "Els problemes dels agents d'IA a Silicon Valley: sistemes caòtics i malbaratament",
-      "link_id": "c_0972c5",
-      "source": "CNBC Technology",
-      "date": "2026-04-19",
-      "time": "12:00",
-      "summary": "Malgrat les altes expectatives del sector, els nous assistents autònoms presenten ineficiències tècniques que en dificulten la implementació real."
-    },
-    {
-      "title": "La històrica aliança entre Nvidia i els jugadors s'esquerda per la IA",
-      "link_id": "c_cce70b",
-      "source": "CNBC Technology",
-      "date": "2026-04-19",
-      "time": "11:37",
-      "summary": "La priorització dels xips d'intel·ligència artificial allunya la companyia del seu públic original, generant malestar entre la comunitat gamer."
+      "summary": "Aquesta injecció de capital situaria la valoració de la companyia per sobre dels 50.000 milions de dòlars."
     }
   ]
 }
