@@ -1,88 +1,80 @@
 {
-  "generated_at": "2026-04-20T13:58",
+  "generated_at": "2024-05-24T18:30",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Un rival de Nvidia busca 100 milions de dòlars de finançament en ple auge europeu dels xips d'IA",
-      "link_id": "c_dec7a2",
+      "title": "Reaccions a Tim Cook: Sam Altman, Palmer Luckey i Warren Buffett valoren el canvi de CEO d'Apple",
+      "link_id": "c_c17d4a",
+      "source": "CNBC Technology",
+      "date": "2026-04-21",
+      "time": "10:32",
+      "summary": "Líders tecnològics i inversors destaquen el llegat de Cook mentre assumeix la presidència executiva de la companyia."
+    },
+    {
+      "title": "És Ternus el líder que Apple necessita per a l'era de la IA?",
+      "link_id": "c_c1efe1",
+      "source": "Financial Times",
+      "date": "2026-04-21",
+      "time": "08:45",
+      "summary": "El nou director general haurà de guiar el fabricant de l'iPhone en la transició cap a la intel·ligència artificial."
+    },
+    {
+      "title": "El futur CEO d'Apple, John Ternus, afronta un repte decisiu: arreglar l'estratègia d'IA de l'empresa",
+      "link_id": "c_871c06",
+      "source": "CNBC Technology",
+      "date": "2026-04-21",
+      "time": "06:40",
+      "summary": "Ternus haurà de tancar la bretxa tecnològica heretada i posicionar fermament la marca en el mercat de la intel·ligència artificial."
+    },
+    {
+      "title": "Anthropic i Amazon acorden un pacte d'infraestructura d'IA de 100.000 milions de dòlars",
+      "link_id": "c_4033ee",
+      "source": "Financial Times",
+      "date": "2026-04-21",
+      "time": "00:41",
+      "summary": "L'empresa creadora de Claude busca assegurar xips i potència de càlcul per evitar les recents interrupcions del servei."
+    },
+    {
+      "title": "Amazon invertirà fins a 25.000 milions de dòlars més en Anthropic com a part de l'acord d'infraestructura d'IA",
+      "link_id": "c_d2dabe",
       "source": "CNBC Technology",
       "date": "2026-04-20",
-      "time": "10:02",
-      "summary": "L'interès inversor creix, però el sector emergent dels xips d'intel·ligència artificial encara s'enfronta a grans reptes."
+      "time": "21:44",
+      "summary": "Aquesta injecció de capital consolida l'aliança estratègica, garantint a Anthropic l'accés als serveis al núvol durant la pròxima dècada."
     },
     {
-      "title": "Els rivals de xips d'IA de Nvidia atreuen un finançament rècord a mesura que augmenta la competència",
-      "link_id": "c_261260",
+      "title": "El desenllaç de la IA a Europa? Apostar per la fiabilitat",
+      "link_id": "c_b9fbee",
+      "source": "Financial Times",
+      "date": "2026-04-21",
+      "time": "11:00",
+      "summary": "El continent ha de prioritzar la seguretat tecnològica per no quedar aïllat en la cursa global de la intel·ligència artificial."
+    },
+    {
+      "title": "El laboratori d'IA Project Prometheus de Bezos s'apropa a una valoració de 38.000 milions de dòlars",
+      "link_id": "c_aba86d",
+      "source": "Financial Times",
+      "date": "2026-04-21",
+      "time": "01:06",
+      "summary": "Aquesta nova ronda de finançament impulsa el desenvolupament de models avançats dissenyats específicament per a aplicacions industrials."
+    },
+    {
+      "title": "Marvell es dispara per l'informe que ajudarà Google amb xips d'IA personalitzats. Les accions de Broadcom s'enfonsen",
+      "link_id": "c_296e98",
       "source": "CNBC Technology",
       "date": "2026-04-20",
-      "time": "10:01",
-      "summary": "Diverses empreses emergents capten fons històrics amb l'objectiu de desafiar la supremacia del gegant tecnològic al mercat."
+      "time": "20:43",
+      "summary": "La creixent demanda d'intel·ligència artificial reconfigura el mercat de semiconductors, beneficiant Marvell en detriment dels seus competidors directes."
     },
     {
-      "title": "Cinc regals de casament tecnològics que van més enllà de la llista de bodes",
-      "link_id": "c_8bd308",
+      "title": "Les accions de l'empresa de centres de dades Fermi s'enfonsen per la dimissió dels seus directius",
+      "link_id": "c_413088",
       "source": "Financial Times",
       "date": "2026-04-20",
-      "time": "10:01",
-      "summary": "Descobreix dispositius innovadors i divertits ideals per sorprendre les parelles modernes en el seu gran dia."
-    },
-    {
-      "title": "L'auge de la IA serà \"massivament desinflacionari\", segons Northern Trust",
-      "link_id": "c_d918ba",
-      "source": "Financial Times",
-      "date": "2026-04-20",
-      "time": "04:00",
-      "summary": "Els experts preveuen que les noves tecnologies generaran guanys de productivitat enormes, reduint la pressió sobre els preus."
-    },
-    {
-      "title": "Arriba un repunt retro des dels mercats emergents electrònics",
-      "link_id": "c_9cedb4",
-      "source": "Financial Times",
-      "date": "2026-04-20",
-      "time": "04:00",
-      "summary": "Corea del Sud i Taiwan s'erigeixen com els principals beneficiats de l'actual onada d'intel·ligència artificial."
-    },
-    {
-      "title": "Els pilots de drons d'Ucraïna ataquen objectius russos des de 500 km de distància",
-      "link_id": "c_79cef7",
-      "source": "Financial Times",
-      "date": "2026-04-20",
-      "time": "04:00",
-      "summary": "Un nou sistema de guiatge per internet permet operar vehicles no tripulats molt lluny del camp de batalla."
-    },
-    {
-      "title": "La nova tecnologia augmenta la velocitat i la profunditat dels ciberatacs",
-      "link_id": "c_a57bd6",
-      "source": "Financial Times",
-      "date": "2026-04-20",
-      "time": "04:00",
-      "summary": "El sector financer es veu obligat a adaptar-se ràpidament davant l'evolució constant de les amenaces digitals."
-    },
-    {
-      "title": "Els bancs busquen utilitzar la IA com a eina de protecció i competició",
-      "link_id": "c_248d4f",
-      "source": "Financial Times",
-      "date": "2026-04-20",
-      "time": "04:00",
-      "summary": "Les entitats financeres han de passar d'una defensa reactiva a tecnologies predictives per combatre eficaçment els criminals."
-    },
-    {
-      "title": "Qui és responsable quan la intel·ligència artificial comet errors?",
-      "link_id": "c_0b4823",
-      "source": "Financial Times",
-      "date": "2026-04-20",
-      "time": "04:00",
-      "summary": "Les asseguradores intenten excloure els danys relacionats amb la IA de les seves cobertures de responsabilitat corporativa."
-    },
-    {
-      "title": "L'empresa emergent d'IA Cursor negocia una ronda de finançament de 2.000 milions de dòlars",
-      "link_id": "c_3b3641",
-      "source": "CNBC Technology",
-      "date": "2026-04-19",
-      "time": "21:19",
-      "summary": "Aquesta injecció de capital situaria la valoració de la companyia per sobre dels 50.000 milions de dòlars."
+      "time": "15:35",
+      "summary": "La pèrdua d'una inversió clau d'Amazon i la fugida de talent agreugen la crisi d'aquesta prometedora companyia tecnològica."
     }
   ]
 }

@@ -1,16 +1,24 @@
 {
-  "generated_at": "2024-05-24T12:00",
+  "generated_at": "2024-05-24T16:00",
   "id": "podcasts",
   "title": "Podcasts en català sobre tecnologia",
   "sources_checked": [],
   "articles": [
     {
-      "title": "La connexió entre IA, política i tecnologia",
+      "title": "Especial Oients residents als Estats Units – Programa 660",
+      "link_id": "c_fe8827",
+      "source": "Mossega la poma",
+      "date": "2026-04-20",
+      "time": "16:03",
+      "summary": "Conversa amb oients als EUA sobre actualitat, intel·ligència artificial i eines de desenvolupament al núvol."
+    },
+    {
+      "title": "La connexió entre IA, política i tecnologia – Programa 659",
       "link_id": "c_ec2e7e",
       "source": "Mossega la poma",
       "date": "2026-04-10",
       "time": "08:18",
-      "summary": "Anàlisi de com la intel·ligència artificial transforma la societat, abordant els dilemes ètics i la influència de les grans corporacions."
+      "summary": "Anàlisi de l'impacte social, ètic i polític de la intel·ligència artificial i les grans corporacions."
     },
     {
       "title": "L' Altra Ràdio - Especial 50 anys de Ràdio 4",
@@ -18,7 +26,7 @@
       "source": "L'altra ràdio",
       "date": "2026-04-16",
       "time": "07:33",
-      "summary": "Edició especial des de la Facultat Blanquerna per celebrar el mig segle d'història de l'emissora amb diversos convidats destacats."
+      "summary": "Edició especial des de la Universitat Ramon Llull per celebrar el cinquantenari de Ràdio 4."
     },
     {
       "title": "L' Altra Ràdio - Condemna judicial a Meta i Google per causar addicció a les xarxes socials",
@@ -26,7 +34,7 @@
       "source": "L'altra ràdio",
       "date": "2026-04-09",
       "time": "07:33",
-      "summary": "La doctora Àtia Cortés valora la sentència històrica als Estats Units contra les grans tecnològiques pels danys als joves."
+      "summary": "Valoració de la sentència als Estats Units contra grans tecnològiques per fomentar l'addicció digital."
     },
     {
       "title": "El gòTIC - Tenim una missió! del 15/4/2026",
@@ -34,7 +42,7 @@
       "source": "El Gòtic",
       "date": "2026-04-14",
       "time": "16:29",
-      "summary": "L'Ajuntament de Tàrrega comparteix recursos i estratègies pràctiques per ajudar la ciutadania a afrontar els reptes del món digital."
+      "summary": "Recursos i estratègies per afrontar els reptes i inquietuds de la ciutadania en l'entorn digital."
     },
     {
       "title": "Col·lapse de flotes de robotaxis",
@@ -42,7 +50,7 @@
       "source": "Societat de la Informació",
       "date": "2026-04-14",
       "time": "12:28",
-      "summary": "Una fallada tècnica dels vehicles autònoms de Baidu paralitza el trànsit a Wuhan, evidenciant els riscos d'aquesta tecnologia emergent."
+      "summary": "Una fallada tècnica paralitza desenes de vehicles autònoms a la Xina, bloquejant el trànsit urbà."
     },
     {
       "title": "La pensió de les paneroles i altres patrons de decepció",
@@ -50,7 +58,7 @@
       "source": "Foc a Terra",
       "date": "2026-04-20",
       "time": "04:00",
-      "summary": "Descobreix com empreses com Amazon o Ticketmaster utilitzen trucs de disseny per manipular les teves decisions a internet."
+      "summary": "Descobreix els trucs de disseny fosc que utilitzen les empreses per manipular les teves decisions."
     },
     {
       "title": "Avui parlem d'urbanisme i dels cables de les façanes, amb Judith Urbano",
@@ -58,15 +66,15 @@
       "source": "Foc a Terra",
       "date": "2026-04-13",
       "time": "04:00",
-      "summary": "Una conversa fascinant sobre la història de l'urbanisme a Barcelona i l'origen del cablejat visible als edificis de la ciutat."
+      "summary": "Lliçons d'urbanisme i història sobre l'origen dels cables a les façanes de Barcelona."
     },
     {
-      "title": "Tancat amb Claude",
-      "link_id": "c_453c93",
-      "source": "Foc a Terra",
-      "date": "2026-04-06",
-      "time": "04:00",
-      "summary": "Presentació de Factory Floor, una nova aplicació nativa per a macOS dissenyada per facilitar el treball amb Claude Code."
+      "title": "Matt Mullenweg reflexiona i opina sobre el rumb de WordPress",
+      "link_id": "c_eea24d",
+      "source": "WordPress Pòdcast",
+      "date": "2026-04-21",
+      "time": "00:00",
+      "summary": "Crítica a la cultura de procés que paralitza les decisions dins del projecte de codi obert."
     },
     {
       "title": "Eines d’IA per crear formació",
@@ -74,7 +82,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-04-14",
       "time": "00:00",
-      "summary": "L'equip de formació proposa nous mètodes i instruccions per estandarditzar la creació de materials educatius utilitzant intel·ligència artificial."
+      "summary": "Proposta de nous recursos i indicacions per estandarditzar el material educatiu sobre aquesta plataforma web."
     },
     {
       "title": "No tenim pas res enllestit per a WordPress 7.0",
@@ -82,7 +90,15 @@
       "source": "WordPress Pòdcast",
       "date": "2026-04-07",
       "time": "00:00",
-      "summary": "El llançament de la nova versió s'enfronta a retards inesperats després de replantejar aspectes clau de les versions candidates."
+      "summary": "Replantegen el llançament de la nova versió després de publicar les candidates inicials."
+    },
+    {
+      "title": "Capítol 63: Nanobots Therapeutics, robots per curar el càncer de bufeta",
+      "link_id": "c_d49886",
+      "source": "RAC&GO",
+      "date": "2026-04-21",
+      "time": "06:00",
+      "summary": "Una empresa emergent catalana desenvolupa robots microscòpics per atacar directament els tumors cancerosos."
     },
     {
       "title": "Capítol 62: Mitiga, invertir pensant en el risc climàtic",
@@ -90,7 +106,7 @@
       "source": "RAC&GO",
       "date": "2026-04-07",
       "time": "06:00",
-      "summary": "L'emprenedor Àlex Martí explica com la seva empresa ajuda les companyies a prendre decisions estratègiques avaluant els riscos climàtics."
+      "summary": "Com una nova companyia ajuda les empreses a prendre decisions estratègiques valorant els riscos mediambientals."
     }
   ]
 }

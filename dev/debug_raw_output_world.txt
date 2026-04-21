@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T13:58",
+  "generated_at": "2026-04-21T13:52",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [
@@ -16,11 +16,6 @@
     {
       "name": "AnandTech",
       "url": "https://www.anandtech.com/rss/",
-      "articles_found": 0
-    },
-    {
-      "name": "BBC Technology",
-      "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
       "articles_found": 0
     },
     {
@@ -41,84 +36,84 @@
   ],
   "articles": [
     {
-      "title": "Blue Origin assoleix una fita important, però fracassa en el seu objectiu principal",
-      "link_id": "c_4f5a3e",
-      "source": "TechRadar",
+      "title": "Tim Cook deixa de ser el CEO d'Apple i John Ternus pren el relleu",
+      "link_id": "c_e6d76b",
+      "source": "TechCrunch",
       "date": "2026-04-20",
-      "time": "11:54",
-      "summary": "El coet New Glenn va aterrar amb èxit, però no va aconseguir situar el satèl·lit a l'òrbita correcta."
+      "time": "20:42",
+      "summary": "Després de 15 anys, Cook cedeix la direcció a Ternus, actual cap de maquinari, i passarà a ser president executiu."
     },
     {
-      "title": "La NSA estaria provant el potent model d'intel·ligència artificial Mythos d'Anthropic",
-      "link_id": "c_d0b802",
-      "source": "Digital Trends",
+      "title": "Amazon inverteix 5.000 milions de dòlars en Anthropic a canvi de despesa al núvol",
+      "link_id": "c_429764",
+      "source": "TechCrunch",
       "date": "2026-04-20",
-      "time": "11:27",
-      "summary": "Malgrat el bloqueig del Pentàgon, l'agència de seguretat utilitza aquesta IA per a tasques avançades de ciberseguretat."
+      "time": "23:10",
+      "summary": "L'acord reforça la seva aliança estratègica i garanteix a la startup d'IA capacitat de computació massiva als servidors d'AWS."
     },
     {
-      "title": "Apple prova dues noves opcions de personalització per a la pantalla d'inici a iOS 27",
-      "link_id": "c_d00aef",
-      "source": "MacRumors",
-      "date": "2026-04-19",
-      "time": "15:49",
-      "summary": "La nova actualització permetrà desfer i refer canvis fàcilment, millorant l'experiència d'usuari en organitzar aplicacions i ginys."
-    },
-    {
-      "title": "El MacBook Pro amb pantalla tàctil i el nou Mac Studio podrien endarrerir-se",
-      "link_id": "c_d41f75",
-      "source": "MacRumors",
-      "date": "2026-04-19",
-      "time": "19:00",
-      "summary": "L'escassetat global de memòria, impulsada per la demanda d'IA, obligaria Apple a posposar el llançament d'aquests equips."
-    },
-    {
-      "title": "Vercel confirma una bretxa de seguretat després que uns pirates informàtics posessin dades a la venda",
-      "link_id": "c_25eab2",
-      "source": "TechRadar",
-      "date": "2026-04-20",
-      "time": "10:24",
-      "summary": "La plataforma de desenvolupament al núvol ha patit un robatori de credencials de clients i dades no sensibles."
-    },
-    {
-      "title": "Fitbit Air: el nou rival de Whoop sense pantalla que podria canviar la subscripció Premium",
-      "link_id": "c_649a83",
-      "source": "TechRadar",
-      "date": "2026-04-20",
-      "time": "11:52",
-      "summary": "Google planeja llançar una polsera intel·ligent sense pantalla i canviar el nom del seu servei a Google Health."
-    },
-    {
-      "title": "Uns robots corren la mitja marató de Pequín més ràpid que el rècord mundial humà",
-      "link_id": "c_3eb256",
-      "source": "Digital Trends",
-      "date": "2026-04-19",
-      "time": "21:24",
-      "summary": "Un robot humanoide d'Honor va completar la cursa en només 50 minuts, superant àmpliament la marca humana."
-    },
-    {
-      "title": "Una filtració mostra que Apple i Samsung busquen dissenys diferents per als seus futurs plegables",
-      "link_id": "c_4009e9",
-      "source": "Android Authority",
-      "date": "2026-04-20",
-      "time": "10:27",
-      "summary": "Mentre Samsung aposta per un format més ample, Apple dissenya un dispositiu prim semblant a un llibre."
-    },
-    {
-      "title": "Apple reté dades mentre el cas antimonopoli a l'Índia avança cap a l'audiència final",
-      "link_id": "c_e8bbef",
+      "title": "Apple llança les terceres betas de macOS Tahoe, iOS i iPadOS 26.5 per a desenvolupadors",
+      "link_id": "c_029dcc",
       "source": "MacRumors",
       "date": "2026-04-20",
-      "time": "04:55",
-      "summary": "La companyia s'enfronta a multes multimilionàries per negar-se a cooperar amb els reguladors sobre les pràctiques de l'App Store."
+      "time": "10:11",
+      "summary": "Les noves versions de prova arriben sense grans canvis visibles, preparant el terreny per a futures actualitzacions d'estabilitat."
     },
     {
-      "title": "Motorola obre la beta d'Android 17 a més telèfons Razr i Edge",
-      "link_id": "c_c44158",
-      "source": "Digital Trends",
+      "title": "La FAA investiga l'incident del coet New Glenn de Blue Origin",
+      "link_id": "c_d09a7d",
+      "source": "TechCrunch",
       "date": "2026-04-20",
-      "time": "11:52",
-      "summary": "La companyia amplia l'accés a la nova versió del sistema operatiu per a diversos dels seus models premium."
+      "time": "16:11",
+      "summary": "Tot i aterrar amb èxit, el coet va fallar en posar el satèl·lit en òrbita, obligant a suspendre futurs vols."
+    },
+    {
+      "title": "Es filtren detalls del Fitbit Air, la nova polsera intel·ligent sense pantalla de Google",
+      "link_id": "c_9d0005",
+      "source": "9to5Google",
+      "date": "2026-04-20",
+      "time": "15:20",
+      "summary": "Aquest dispositiu assequible competirà amb Whoop, centrant-se en la salut bàsica i integrant-se amb la nova subscripció Google Health."
+    },
+    {
+      "title": "WhatsApp prova una subscripció de pagament centrada en millores estètiques",
+      "link_id": "c_8d2bc5",
+      "source": "TechCrunch",
+      "date": "2026-04-20",
+      "time": "15:59",
+      "summary": "Meta explora monetitzar l'aplicació amb \"WhatsApp Plus\", oferint temes personalitzats i adhesius exclusius sense alterar les funcions de missatgeria."
+    },
+    {
+      "title": "Deezer afirma que el 44% de les cançons pujades diàriament són generades per IA",
+      "link_id": "c_af8109",
+      "source": "TechCrunch",
+      "date": "2026-04-20",
+      "time": "14:57",
+      "summary": "La plataforma musical alerta sobre l'augment massiu de contingut artificial, tot i que el seu consum real continua sent baix."
+    },
+    {
+      "title": "Google Photos afegeix noves eines de retoc ràpid impulsades per IA",
+      "link_id": "c_7987bc",
+      "source": "TechCrunch",
+      "date": "2026-04-20",
+      "time": "20:20",
+      "summary": "Els usuaris podran suavitzar la pell, blanquejar les dents o il·luminar els ulls fàcilment en les seves selfies i retrats."
+    },
+    {
+      "title": "L'assistent d'IA de Yelp ara permet fer reserves i comandes en una sola conversa",
+      "link_id": "c_9b6f91",
+      "source": "TechCrunch",
+      "date": "2026-04-21",
+      "time": "11:00",
+      "summary": "L'aplicació millora el seu xatbot per actuar com un conserge digital, facilitant la interacció directa amb els negocis locals."
+    },
+    {
+      "title": "Ubisoft revelarà oficialment el remake d'Assassin's Creed Black Flag el 23 d'abril",
+      "link_id": "c_95d7d2",
+      "source": "Engadget",
+      "date": "2026-04-20",
+      "time": "18:47",
+      "summary": "L'esperat joc, anomenat \"Resynced\", es mostrarà en un esdeveniment mundial amb un tràiler cinematogràfic i possibles detalls de llançament."
     }
   ]
 }
