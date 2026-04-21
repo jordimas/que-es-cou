@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-04-21T08:30",
+  "generated_at": "2026-04-21T18:00",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [],
   "articles": [
-    {
-      "title": "Canvi d'era a Apple: Tim Cook deixarà de ser-ne director general",
-      "link_id": "c_9f8390",
-      "source": "Ara.cat",
-      "date": "2026-04-20",
-      "time": "21:10",
-      "summary": "Després de quinze anys liderant la companyia, l'executiu cedeix el comandament a John Ternus per assumir la presidència executiva."
-    },
     {
       "title": "Nova era a Apple: Tim Cook deixa el càrrec de CEO després de 15 anys i el substituirà John Ternus",
       "link_id": "c_559d01",
       "source": "RAC1",
       "date": "2026-04-21",
       "time": "07:08",
-      "summary": "El relleu es farà efectiu al setembre, marcant una transició històrica en la direcció del gegant tecnològic nord-americà."
+      "summary": "El relleu es farà efectiu al setembre, i Cook passarà a presidir el consell d'administració de la companyia tecnològica."
     },
     {
-      "title": "Amazon ha invertit 5.000 milions l'última dècada a Catalunya",
-      "link_id": "c_db9057",
+      "title": "Nestlé prepara un ERO a Espanya que afectarà la seu d'Esplugues i les plantes de Girona i Reus",
+      "link_id": "c_3024ac",
+      "source": "324.cat",
+      "date": "2026-04-21",
+      "time": "16:13",
+      "summary": "La multinacional preveu acomiadar fins a 301 treballadors i concretarà les afectacions per centre a principis de maig."
+    },
+    {
+      "title": "Amazon dispara la seva presència a Catalunya amb 5.000 milions invertits i milers de llocs de treball",
+      "link_id": "c_938a11",
+      "source": "MetaData",
+      "date": "2026-04-20",
+      "time": "15:15",
+      "summary": "L'empresa ha aportat més de 4.000 milions al PIB català des del 2016 i demana un marc regulador estable."
+    },
+    {
+      "title": "L’hospital del Mar inventa una IA que diagnosticarà amb un vídeo de la cara",
+      "link_id": "c_e189fb",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-04-21",
+      "time": "04:25",
+      "summary": "Aquest nou algoritme permetrà detectar alteracions neuronals i diverses malalties comunes només analitzant les expressions facials dels pacients."
+    },
+    {
+      "title": "Netflix torna a apujar preus: així queden les noves tarifes de la plataforma",
+      "link_id": "c_796caa",
+      "source": "RAC1",
+      "date": "2026-04-21",
+      "time": "10:08",
+      "summary": "A partir de l'1 de maig, tots els plans s'encariran entre un i dos euros, superant els 20 euros."
+    },
+    {
+      "title": "\"L'homeopatia no funciona\": el Ministeri de Sanitat no troba cap evidència científica que l'avali",
+      "link_id": "c_c0cfb6",
+      "source": "324.cat",
+      "date": "2026-04-21",
+      "time": "18:39",
+      "summary": "L'Agència Espanyola de Medicaments conclou, després d'un estudi exhaustiu, que aquests preparats no són eficaços per a cap patologia."
+    },
+    {
+      "title": "WhatsApp Plus ja té preu i funcions: la subscripció està a punt de llançar-se",
+      "link_id": "c_306d90",
+      "source": "El Nacional.cat",
+      "date": "2026-04-21",
+      "time": "14:00",
+      "summary": "La versió de pagament de la popular aplicació de missatgeria prepara la seva arribada imminent amb noves funcionalitats exclusives."
+    },
+    {
+      "title": "La normativa europea de bateries extraïbles en smartphones, explicada: el que exigeix la llei i el que no",
+      "link_id": "c_d1a3ee",
+      "source": "El Nacional.cat",
+      "date": "2026-04-21",
+      "time": "13:00",
+      "summary": "La Unió Europea obligarà els fabricants a facilitar el canvi de bateries als usuaris a partir de l'any 2027."
+    },
+    {
+      "title": "Els vídeos generats amb IA reforcen les falsedats, encara que sapiguem que ho són",
+      "link_id": "c_a04538",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-04-20",
+      "time": "10:27",
+      "summary": "Un estudi revela que aquests continguts enganyosos són els més consumits a xarxes com TikTok, especialment entre els joves."
+    },
+    {
+      "title": "Canvi d'era a Apple: Tim Cook deixarà de ser-ne director general",
+      "link_id": "c_9f8390",
       "source": "Ara.cat",
       "date": "2026-04-20",
-      "time": "18:07",
-      "summary": "La companyia destaca la seva contribució al PIB català des de l'obertura del centre de Castellbisbal l'any 2016."
-    },
-    {
-      "title": "Amazon - Catalunya: un matrimoni de conveniència de 4.000 milions d'euros",
-      "link_id": "c_3882b3",
-      "source": "Via Empresa",
-      "date": "2026-04-20",
-      "time": "12:37",
-      "summary": "Tot i les grans xifres d'inversió, l'impacte real dels nous centres de dades al territori encara genera incògnites."
-    },
-    {
-      "title": "L’Ajuntament de València impulsa la intel·ligència artificial per a modernitzar la gestió del sector públic",
-      "link_id": "c_4bf774",
-      "source": "El Periòdic d'Ontinyent",
-      "date": "2026-04-20",
-      "time": "16:00",
-      "summary": "La iniciativa busca agilitzar tràmits i millorar l'atenció ciutadana utilitzant eines avançades d'anàlisi de dades com a suport."
-    },
-    {
-      "title": "La IA ja s'usa per al mal: Claude i ChatGPT són usades per hackers per robar dades de governs",
-      "link_id": "c_f86270",
-      "source": "El Nacional.cat",
-      "date": "2026-04-20",
-      "time": "22:00",
-      "summary": "Els experts en ciberseguretat alerten que els ciberdelinqüents aprofiten aquests models lingüístics per accelerar els atacs institucionals."
-    },
-    {
-      "title": "Almenys una trentena d'aplicacions diferents per pagar la zona blava: \"Cada poble té la seva!\"",
-      "link_id": "c_62564f",
-      "source": "324.cat",
-      "date": "2026-04-21",
-      "time": "06:38",
-      "summary": "La fragmentació digital obliga els conductors a descarregar múltiples programes per estacionar, complicant la mobilitat entre municipis propers."
-    },
-    {
-      "title": "Drons per detectar possibles esllavissades: \"Podem fer models que ens diguin on cauran les pedres\"",
-      "link_id": "c_a093a4",
-      "source": "324.cat",
-      "date": "2026-04-20",
-      "time": "19:25",
-      "summary": "L'Institut Cartogràfic i Geològic utilitza aquesta tecnologia per crear models predictius i minimitzar els riscos de despreniments al territori."
-    },
-    {
-      "title": "'Speak catalan', la primera comunitat que ajuda expats i nouvinguts a fer vida en català: \"​Hi ha un munt de persones que volen integrar-se bé\"",
-      "link_id": "c_76a0ce",
-      "source": "RAC1",
-      "date": "2026-04-19",
-      "time": "09:10",
-      "summary": "Aquest projecte digital busca trencar estigmes i facilitar la integració lingüística dels estrangers residents a la capital catalana."
-    },
-    {
-      "title": "La marató de robots de Pequín tenia fins i tot aturades a boxes a l'estil F1",
-      "link_id": "c_34bd22",
-      "source": "El Nacional.cat",
-      "date": "2026-04-21",
-      "time": "00:39",
-      "summary": "Diversos fabricants xinesos van exhibir els seus avenços en coordinació i velocitat durant aquesta inèdita competició tecnològica."
+      "time": "21:10",
+      "summary": "Després de quinze anys liderant el fabricant de l'iPhone, l'executiu fa un pas al costat en complir 65 anys."
     }
   ]
 }

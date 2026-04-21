@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-04-21T10:27",
+  "generated_at": "2026-04-21T19:57",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Nova era a Apple: John Ternus substituirà Tim Cook com a conseller delegat",
-      "link_id": "c_373180",
-      "source": "BBC Technology",
+      "title": "Una mirada al llegat de 15 anys de Tim Cook com a CEO d'Apple",
+      "link_id": "c_e928cb",
+      "source": "TechCrunch",
       "date": "2026-04-21",
-      "time": "05:57",
-      "summary": "Després de 15 anys, Cook passarà a ser president executiu al setembre, cedint el lideratge al cap de maquinari."
+      "time": "17:40",
+      "summary": "Tim Cook deixa el càrrec de CEO d'Apple després de 15 anys, sent substituït per John Ternus al setembre."
     },
     {
-      "title": "Un truc de Roblox i una eina d'IA fan caure la plataforma de Vercel",
-      "link_id": "c_c5c057",
+      "title": "Microsoft anuncia rebaixes sorpresa a l'Xbox Game Pass i posa fi a la inclusió de Call of Duty des del primer dia",
+      "link_id": "c_1c5150",
+      "source": "Tom's Hardware",
+      "date": "2026-04-21",
+      "time": "17:00",
+      "summary": "Microsoft rebaixa el preu de l'Xbox Game Pass, però els nous jocs de Call of Duty ja no s'inclouran d'inici."
+    },
+    {
+      "title": "La FAA suspèn el New Glenn de Blue Origin mentre investiga l'incident de lliurament fallit d'un satèl·lit",
+      "link_id": "c_226a40",
+      "source": "The Register",
+      "date": "2026-04-21",
+      "time": "13:29",
+      "summary": "La FAA ha suspès els vols del coet New Glenn de Blue Origin per investigar la pèrdua d'un satèl·lit."
+    },
+    {
+      "title": "Anthropic rep 5.000 milions de dòlars d'Amazon i es compromet a gastar-ne 100.000 milions en el núvol a canvi",
+      "link_id": "c_429764",
       "source": "Hacker News",
       "date": "2026-04-21",
-      "time": "04:12",
-      "summary": "La plataforma al núvol ha patit una bretxa de seguretat que ha exposat dades de clients mitjançant aplicacions de tercers."
+      "time": "13:08",
+      "summary": "Amazon inverteix 5.000 milions de dòlars addicionals en Anthropic, que es compromet a gastar 100.000 milions en serveis d'AWS."
     },
     {
-      "title": "El coet de Blue Origin, suspès després d'un incident que destrueix un satèl·lit",
-      "link_id": "c_52154e",
+      "title": "La xarxa SmartThings de Samsung serà compatible amb els equips d'IKEA amb suport per a Matter",
+      "link_id": "c_84bc0a",
+      "source": "Digital Trends",
+      "date": "2026-04-21",
+      "time": "17:43",
+      "summary": "Samsung integra els dispositius intel·ligents d'IKEA compatibles amb Matter a la seva xarxa SmartThings, facilitant-ne el control directe."
+    },
+    {
+      "title": "Estava content amb la càmera del meu Pixel fins que vaig provar l'Oppo Find X9 Ultra [Galeria]",
+      "link_id": "c_12dda0",
+      "source": "9to5Google",
+      "date": "2026-04-21",
+      "time": "17:25",
+      "summary": "El nou Oppo Find X9 Ultra destaca per la seva impressionant càmera amb teleobjectiu de 50 MP i zoom òptic."
+    },
+    {
+      "title": "El nou assistent d'intel·ligència artificial de Yelp farà reserves per tu",
+      "link_id": "c_09d980",
       "source": "CNET",
       "date": "2026-04-21",
-      "time": "00:54",
-      "summary": "La FAA investiga la fallada del coet New Glenn, que no va aconseguir posar la càrrega en l'òrbita correcta."
+      "time": "16:53",
+      "summary": "L'assistent d'intel·ligència artificial de Yelp s'actualitza per permetre als usuaris fer reserves a restaurants i contractar serveis directament."
     },
     {
-      "title": "Amazon inverteix fins a 25.000 milions en Anthropic a canvi d'un acord al núvol",
-      "link_id": "c_336e42",
-      "source": "The Next Web",
+      "title": "WhatsApp prova el nivell de subscripció de pagament 'Plus': Això és el que inclou",
+      "link_id": "c_e424bb",
+      "source": "MacRumors",
       "date": "2026-04-21",
-      "time": "07:09",
-      "summary": "Aquesta inversió massiva consolida l'aliança en intel·ligència artificial i garanteix l'ús dels xips Trainium d'Amazon durant una dècada."
+      "time": "06:19",
+      "summary": "Meta prova una versió de pagament de WhatsApp amb funcions de personalització exclusives i adhesius premium per als usuaris."
     },
     {
-      "title": "Meta vol que paguis per WhatsApp i ja n'està fent proves",
-      "link_id": "c_135a97",
-      "source": "Digital Trends",
-      "date": "2026-04-21",
-      "time": "03:31",
-      "summary": "L'empresa prova una subscripció anomenada WhatsApp Plus, centrada principalment en millores estètiques i de personalització per als usuaris."
-    },
-    {
-      "title": "L'agència de seguretat dels EUA continua utilitzant Mythos malgrat la prohibició",
-      "link_id": "c_0f0238",
-      "source": "TechRadar",
-      "date": "2026-04-20",
-      "time": "18:05",
-      "summary": "La NSA utilitza el potent model d'IA d'Anthropic per a ciberseguretat, ignorant les restriccions imposades pel Pentàgon."
-    },
-    {
-      "title": "Una filtració del Google Fitbit Air suggereix que podria superar WHOOP en preu",
-      "link_id": "c_d1a900",
-      "source": "Android Authority",
-      "date": "2026-04-21",
-      "time": "06:14",
-      "summary": "El nou dispositiu sense pantalla de Google se centrarà en la salut bàsica amb un preu inferior a 100 dòlars."
-    },
-    {
-      "title": "Deezer afirma que les cançons generades per IA ja representen el 44% de les pujades diàries",
-      "link_id": "c_def7ed",
-      "source": "Digital Trends",
-      "date": "2026-04-20",
-      "time": "23:29",
-      "summary": "La plataforma de música alerta sobre l'augment massiu de contingut sintètic i demana mesures a la resta del sector."
-    },
-    {
-      "title": "Google Photos desplega les seves esperades eines de retoc facial",
+      "title": "Google Photos implementa les seves esperades eines de retoc facial",
       "link_id": "c_9ccb02",
       "source": "Android Authority",
       "date": "2026-04-20",
       "time": "21:37",
-      "summary": "La nova funció permetrà als usuaris fer ajustos ràpids i subtils a les seves selfies directament des de l'aplicació."
+      "summary": "Google Photos afegeix noves eines d'edició basades en IA per retocar subtilment els rostres i les selfies dels usuaris."
     },
     {
-      "title": "Musk no compareix davant la fiscalia de París que investiga Grok per imatges sexuals infantils",
-      "link_id": "c_be0d26",
-      "source": "The Next Web",
-      "date": "2026-04-20",
-      "time": "20:22",
-      "summary": "El magnat ignora la citació francesa sobre el contingut il·lícit generat per la seva IA, augmentant la tensió amb Europa."
+      "title": "La beta pública 2 de macOS 26.5 ja està disponible",
+      "link_id": "c_d20cf3",
+      "source": "9to5Mac",
+      "date": "2026-04-21",
+      "time": "17:19",
+      "summary": "Apple llança noves versions beta públiques per a macOS, iOS i iPadOS, centrades en millores de seguretat i rendiment."
     }
   ]
 }
