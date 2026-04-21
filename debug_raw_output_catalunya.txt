@@ -1,16 +1,32 @@
 {
-  "generated_at": "2026-04-20T18:00",
+  "generated_at": "2026-04-21T08:30",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Amazon dispara la seva presència a Catalunya amb 5.000 milions invertits i milers de llocs de treball",
-      "link_id": "c_938a11",
-      "source": "MetaData",
+      "title": "Canvi d'era a Apple: Tim Cook deixarà de ser-ne director general",
+      "link_id": "c_9f8390",
+      "source": "Ara.cat",
       "date": "2026-04-20",
-      "time": "15:15",
-      "summary": "La multinacional consolida el seu impacte econòmic al territori, tot reclamant estabilitat reguladora per continuar innovant."
+      "time": "21:10",
+      "summary": "Després de quinze anys liderant la companyia, l'executiu cedeix el comandament a John Ternus per assumir la presidència executiva."
+    },
+    {
+      "title": "Nova era a Apple: Tim Cook deixa el càrrec de CEO després de 15 anys i el substituirà John Ternus",
+      "link_id": "c_559d01",
+      "source": "RAC1",
+      "date": "2026-04-21",
+      "time": "07:08",
+      "summary": "El relleu es farà efectiu al setembre, marcant una transició històrica en la direcció del gegant tecnològic nord-americà."
+    },
+    {
+      "title": "Amazon ha invertit 5.000 milions l'última dècada a Catalunya",
+      "link_id": "c_db9057",
+      "source": "Ara.cat",
+      "date": "2026-04-20",
+      "time": "18:07",
+      "summary": "La companyia destaca la seva contribució al PIB català des de l'obertura del centre de Castellbisbal l'any 2016."
     },
     {
       "title": "Amazon - Catalunya: un matrimoni de conveniència de 4.000 milions d'euros",
@@ -18,31 +34,7 @@
       "source": "Via Empresa",
       "date": "2026-04-20",
       "time": "12:37",
-      "summary": "Malgrat les grans xifres d'inversió, l'impacte real dels nous centres de dades genera certs dubtes sobre el territori."
-    },
-    {
-      "title": "Un robot supera el rècord del món humà de mitja marató en una cursa a Pequín",
-      "link_id": "c_fa83e2",
-      "source": "324.cat",
-      "date": "2026-04-19",
-      "time": "14:36",
-      "summary": "L'evolució accelerada de la robòtica humanoide demostra capacitats físiques inèdites, superant marques atlètiques històriques en poc temps."
-    },
-    {
-      "title": "Robots humanoides rebaixen gairebé en dues hores la seva marca en una mitja marató",
-      "link_id": "c_ddbe74",
-      "source": "Ara.cat",
-      "date": "2026-04-19",
-      "time": "17:20",
-      "summary": "El model Qitian Dasheng guanya la prova, evidenciant un salt tecnològic espectacular en la coordinació i resistència de les màquines."
-    },
-    {
-      "title": "Cau ChatGPT i Gemini i Claude tenen problemes de connexió",
-      "link_id": "c_b0e207",
-      "source": "RAC1",
-      "date": "2026-04-20",
-      "time": "17:44",
-      "summary": "Una incidència global paralitza les principals eines d'intel·ligència artificial, afectant milions d'usuaris i evidenciant la nostra dependència tecnològica."
+      "summary": "Tot i les grans xifres d'inversió, l'impacte real dels nous centres de dades al territori encara genera incògnites."
     },
     {
       "title": "L’Ajuntament de València impulsa la intel·ligència artificial per a modernitzar la gestió del sector públic",
@@ -50,15 +42,23 @@
       "source": "El Periòdic d'Ontinyent",
       "date": "2026-04-20",
       "time": "16:00",
-      "summary": "L'administració local aposta per eines avançades com a copilots per agilitzar tràmits i millorar l'atenció directa a la ciutadania."
+      "summary": "La iniciativa busca agilitzar tràmits i millorar l'atenció ciutadana utilitzant eines avançades d'anàlisi de dades com a suport."
     },
     {
-      "title": "La IA entra al centre del debat econòmic i el repte ja no és adoptar-la, sinó saber organitzar-la",
-      "link_id": "c_94d7da",
-      "source": "El Mon.cat",
+      "title": "La IA ja s'usa per al mal: Claude i ChatGPT són usades per hackers per robar dades de governs",
+      "link_id": "c_f86270",
+      "source": "El Nacional.cat",
       "date": "2026-04-20",
-      "time": "16:16",
-      "summary": "La competitivitat de les pimes dependrà d'una integració estratègica i ben estructurada d'aquestes noves tecnologies disruptives."
+      "time": "22:00",
+      "summary": "Els experts en ciberseguretat alerten que els ciberdelinqüents aprofiten aquests models lingüístics per accelerar els atacs institucionals."
+    },
+    {
+      "title": "Almenys una trentena d'aplicacions diferents per pagar la zona blava: \"Cada poble té la seva!\"",
+      "link_id": "c_62564f",
+      "source": "324.cat",
+      "date": "2026-04-21",
+      "time": "06:38",
+      "summary": "La fragmentació digital obliga els conductors a descarregar múltiples programes per estacionar, complicant la mobilitat entre municipis propers."
     },
     {
       "title": "Drons per detectar possibles esllavissades: \"Podem fer models que ens diguin on cauran les pedres\"",
@@ -66,23 +66,23 @@
       "source": "324.cat",
       "date": "2026-04-20",
       "time": "19:25",
-      "summary": "L'Institut Cartogràfic utilitza tecnologia aèria avançada per predir despreniments i minimitzar riscos geològics a les zones vulnerables."
+      "summary": "L'Institut Cartogràfic i Geològic utilitza aquesta tecnologia per crear models predictius i minimitzar els riscos de despreniments al territori."
     },
     {
-      "title": "Apple està tenint greus problemes de subministrament que estan endarrerint dispositius actuals i futurs",
-      "link_id": "c_ce92ce",
-      "source": "El Nacional.cat",
-      "date": "2026-04-20",
-      "time": "19:02",
-      "summary": "La crisi global de components impacta directament en el calendari de llançaments de la companyia, frustrant les expectatives del mercat."
+      "title": "'Speak catalan', la primera comunitat que ajuda expats i nouvinguts a fer vida en català: \"​Hi ha un munt de persones que volen integrar-se bé\"",
+      "link_id": "c_76a0ce",
+      "source": "RAC1",
+      "date": "2026-04-19",
+      "time": "09:10",
+      "summary": "Aquest projecte digital busca trencar estigmes i facilitar la integració lingüística dels estrangers residents a la capital catalana."
     },
     {
-      "title": "Ucraïna imposa la guerra sense soldats: robots capturen russos sense disparar",
-      "link_id": "c_94b5bb",
+      "title": "La marató de robots de Pequín tenia fins i tot aturades a boxes a l'estil F1",
+      "link_id": "c_34bd22",
       "source": "El Nacional.cat",
-      "date": "2026-04-20",
-      "time": "15:23",
-      "summary": "L'ús de drons i sistemes autònoms terrestres revoluciona l'estratègia militar, compensant la inferioritat numèrica amb innovació tecnològica."
+      "date": "2026-04-21",
+      "time": "00:39",
+      "summary": "Diversos fabricants xinesos van exhibir els seus avenços en coordinació i velocitat durant aquesta inèdita competició tecnològica."
     }
   ]
 }

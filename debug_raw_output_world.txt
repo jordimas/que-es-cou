@@ -1,119 +1,88 @@
 {
-  "generated_at": "2026-04-20T19:54",
+  "generated_at": "2026-04-21T10:27",
   "id": "world",
   "title": "Notícies tecnològiques del món",
-  "sources_checked": [
-    {
-      "name": "Ars Technica",
-      "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
-      "articles_found": 0
-    },
-    {
-      "name": "VentureBeat",
-      "url": "https://feeds.feedburner.com/venturebeat/SZYF",
-      "articles_found": 0
-    },
-    {
-      "name": "AnandTech",
-      "url": "https://www.anandtech.com/rss/",
-      "articles_found": 0
-    },
-    {
-      "name": "Wall Street Journal Tech",
-      "url": "https://feeds.a.dj.com/rss/RSSWSJD.xml",
-      "articles_found": 0
-    },
-    {
-      "name": "Gizmodo",
-      "url": "https://www.gizmodo.com/feed/rss",
-      "articles_found": 0
-    },
-    {
-      "name": "Slashdot",
-      "url": "https://slashdot.org/rss/slashdot.rss",
-      "articles_found": 0
-    }
-  ],
+  "sources_checked": [],
   "articles": [
     {
-      "title": "La FAA ordena investigar l'incident del coet New Glenn de Blue Origin",
-      "link_id": "c_d09a7d",
-      "source": "TechCrunch",
-      "date": "2026-04-20",
-      "time": "16:11",
-      "summary": "El coet quedarà a terra mentre s'investiga la fallada de la seva etapa superior en no assolir l'òrbita correcta."
+      "title": "Nova era a Apple: John Ternus substituirà Tim Cook com a conseller delegat",
+      "link_id": "c_373180",
+      "source": "BBC Technology",
+      "date": "2026-04-21",
+      "time": "05:57",
+      "summary": "Després de 15 anys, Cook passarà a ser president executiu al setembre, cedint el lideratge al cap de maquinari."
     },
     {
-      "title": "Els espies de la NSA utilitzen el model Mythos d'Anthropic malgrat la disputa amb el Pentàgon",
-      "link_id": "c_6999d3",
-      "source": "TechCrunch",
-      "date": "2026-04-20",
-      "time": "16:06",
-      "summary": "L'agència de seguretat empra aquest model d'intel·ligència artificial restringit per a tasques de ciberseguretat, ignorant les prohibicions governamentals."
+      "title": "Un truc de Roblox i una eina d'IA fan caure la plataforma de Vercel",
+      "link_id": "c_c5c057",
+      "source": "Hacker News",
+      "date": "2026-04-21",
+      "time": "04:12",
+      "summary": "La plataforma al núvol ha patit una bretxa de seguretat que ha exposat dades de clients mitjançant aplicacions de tercers."
     },
     {
-      "title": "El robot humanoide 'Lightning' bat el rècord de la mitja marató",
-      "link_id": "c_8c5bd4",
-      "source": "The Verge",
-      "date": "2026-04-20",
-      "time": "11:42",
-      "summary": "Aquest robot autònom va completar la cursa a Pequín en només 50 minuts, superant àmpliament les marques anteriors."
+      "title": "El coet de Blue Origin, suspès després d'un incident que destrueix un satèl·lit",
+      "link_id": "c_52154e",
+      "source": "CNET",
+      "date": "2026-04-21",
+      "time": "00:54",
+      "summary": "La FAA investiga la fallada del coet New Glenn, que no va aconseguir posar la càrrega en l'òrbita correcta."
     },
     {
-      "title": "El proveïdor Vercel pateix un ciberatac i el robatori de dades de clients",
-      "link_id": "c_bdb58d",
-      "source": "TechCrunch",
-      "date": "2026-04-20",
-      "time": "14:45",
-      "summary": "La bretxa de seguretat es va originar per una vulnerabilitat prèvia a Context AI que va comprometre un compte intern."
+      "title": "Amazon inverteix fins a 25.000 milions en Anthropic a canvi d'un acord al núvol",
+      "link_id": "c_336e42",
+      "source": "The Next Web",
+      "date": "2026-04-21",
+      "time": "07:09",
+      "summary": "Aquesta inversió massiva consolida l'aliança en intel·ligència artificial i garanteix l'ús dels xips Trainium d'Amazon durant una dècada."
     },
     {
-      "title": "Fitbit Air es llançaria el 16 de maig per uns 100 dòlars amb diverses corretges",
-      "link_id": "c_9d0005",
-      "source": "9to5Google",
-      "date": "2026-04-20",
-      "time": "15:20",
-      "summary": "Aquesta nova polsera intel·ligent sense pantalla de Google competirà amb Whoop i s'integrarà sota la marca Google Health."
+      "title": "Meta vol que paguis per WhatsApp i ja n'està fent proves",
+      "link_id": "c_135a97",
+      "source": "Digital Trends",
+      "date": "2026-04-21",
+      "time": "03:31",
+      "summary": "L'empresa prova una subscripció anomenada WhatsApp Plus, centrada principalment en millores estètiques i de personalització per als usuaris."
     },
     {
-      "title": "Deezer afirma que el 44% de les cançons pujades diàriament són generades per IA",
-      "link_id": "c_af8109",
-      "source": "TechCrunch",
+      "title": "L'agència de seguretat dels EUA continua utilitzant Mythos malgrat la prohibició",
+      "link_id": "c_0f0238",
+      "source": "TechRadar",
       "date": "2026-04-20",
-      "time": "14:57",
-      "summary": "Tot i l'alt volum de contingut artificial, el seu consum real és baix i la majoria es desmonetitza per frau."
+      "time": "18:05",
+      "summary": "La NSA utilitza el potent model d'IA d'Anthropic per a ciberseguretat, ignorant les restriccions imposades pel Pentàgon."
     },
     {
-      "title": "Motorola confirma la data de llançament del Razr (2026) i nous colors",
-      "link_id": "c_a527c5",
-      "source": "9to5Google",
-      "date": "2026-04-20",
-      "time": "17:20",
-      "summary": "La companyia ha anunciat l'arribada dels seus nous telèfons plegables a finals d'abril, acompanyada d'una beta d'Android 17."
+      "title": "Una filtració del Google Fitbit Air suggereix que podria superar WHOOP en preu",
+      "link_id": "c_d1a900",
+      "source": "Android Authority",
+      "date": "2026-04-21",
+      "time": "06:14",
+      "summary": "El nou dispositiu sense pantalla de Google se centrarà en la salut bàsica amb un preu inferior a 100 dòlars."
     },
     {
-      "title": "Apple considera el control de càmera com una funció clau per a l'iPhone plegable",
-      "link_id": "c_8d944d",
-      "source": "MacRumors",
+      "title": "Deezer afirma que les cançons generades per IA ja representen el 44% de les pujades diàries",
+      "link_id": "c_def7ed",
+      "source": "Digital Trends",
       "date": "2026-04-20",
-      "time": "07:40",
-      "summary": "El primer iPhone plegable tindrà un disseny extremadament prim, botó de càmera dedicat i només admetrà targetes eSIM."
+      "time": "23:29",
+      "summary": "La plataforma de música alerta sobre l'augment massiu de contingut sintètic i demana mesures a la resta del sector."
     },
     {
-      "title": "Huawei s'avança a Samsung i Apple amb el primer telèfon plegable ample",
-      "link_id": "c_94fced",
-      "source": "The Verge",
-      "date": "2026-04-20",
-      "time": "08:19",
-      "summary": "El nou model Pura X Max ja està disponible a la Xina, oferint un format innovador tipus passaport."
-    },
-    {
-      "title": "Ha caigut ChatGPT? Una interrupció global afecta la plataforma d'OpenAI",
-      "link_id": "c_f32a62",
+      "title": "Google Photos desplega les seves esperades eines de retoc facial",
+      "link_id": "c_9ccb02",
       "source": "Android Authority",
       "date": "2026-04-20",
-      "time": "15:44",
-      "summary": "Milers d'usuaris han experimentat problemes per accedir als serveis d'intel·ligència artificial d'OpenAI, incloent-hi ChatGPT i Codex."
+      "time": "21:37",
+      "summary": "La nova funció permetrà als usuaris fer ajustos ràpids i subtils a les seves selfies directament des de l'aplicació."
+    },
+    {
+      "title": "Musk no compareix davant la fiscalia de París que investiga Grok per imatges sexuals infantils",
+      "link_id": "c_be0d26",
+      "source": "The Next Web",
+      "date": "2026-04-20",
+      "time": "20:22",
+      "summary": "El magnat ignora la citació francesa sobre el contingut il·lícit generat per la seva IA, augmentant la tensió amb Europa."
     }
   ]
 }

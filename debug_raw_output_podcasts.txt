@@ -1,5 +1,5 @@
 {
-  "generated_at": "2024-05-24T15:00",
+  "generated_at": "2024-05-24T16:00",
   "id": "podcasts",
   "title": "Podcasts en català sobre tecnologia",
   "sources_checked": [],
@@ -10,7 +10,7 @@
       "source": "Mossega la poma",
       "date": "2026-04-20",
       "time": "16:03",
-      "summary": "Conversa amb oients residents als Estats Units sobre l'actualitat tecnològica, política i social del país."
+      "summary": "Conversa amb oients als EUA sobre actualitat, Orient Mitjà, Replit i Claude Code."
     },
     {
       "title": "La connexió entre IA, política i tecnologia – Programa 659",
@@ -18,7 +18,7 @@
       "source": "Mossega la poma",
       "date": "2026-04-10",
       "time": "08:18",
-      "summary": "Anàlisi de l'impacte de la intel·ligència artificial en la societat, la moral i el poder polític actual."
+      "summary": "Anàlisi de les implicacions socials, ètiques i polítiques de la intel·ligència artificial actual."
     },
     {
       "title": "L' Altra Ràdio - Especial 50 anys de Ràdio 4",
@@ -26,7 +26,7 @@
       "source": "L'altra ràdio",
       "date": "2026-04-16",
       "time": "07:33",
-      "summary": "Edició especial enregistrada a la universitat Blanquerna per commemorar el cinquantenari de l'emissora Ràdio 4."
+      "summary": "Edició especial enregistrada al congrés SCC-IEC per celebrar el cinquantenari de Ràdio 4."
     },
     {
       "title": "L' Altra Ràdio - Condemna judicial a Meta i Google per causar addicció a les xarxes socials",
@@ -34,7 +34,7 @@
       "source": "L'altra ràdio",
       "date": "2026-04-09",
       "time": "07:33",
-      "summary": "Valoració de la condemna a Meta i Google als Estats Units per generar addicció a les xarxes."
+      "summary": "Valoració de la condemna a Meta i Google per generar addicció a les seves plataformes."
     },
     {
       "title": "El gòTIC - Tenim una missió! del 15/4/2026",
@@ -42,7 +42,7 @@
       "source": "El Gòtic",
       "date": "2026-04-14",
       "time": "16:29",
-      "summary": "Recursos i estratègies per afrontar els reptes i les inquietuds actuals de la ciutadania digital."
+      "summary": "Recursos i estratègies per afrontar els reptes i inquietuds de la ciutadania digital."
     },
     {
       "title": "Col·lapse de flotes de robotaxis",
@@ -50,7 +50,7 @@
       "source": "Societat de la Informació",
       "date": "2026-04-14",
       "time": "12:28",
-      "summary": "Una fallada tècnica paralitza desenes de taxis autònoms a Wuhan, provocant un gran bloqueig de trànsit."
+      "summary": "Una fallada tècnica paralitza desenes de robotaxis autònoms a Wuhan, bloquejant el trànsit."
     },
     {
       "title": "La pensió de les paneroles i altres patrons de decepció",
@@ -58,7 +58,7 @@
       "source": "Foc a Terra",
       "date": "2026-04-20",
       "time": "04:00",
-      "summary": "Descobreix els trucs de disseny enganyosos que utilitzen les empreses per manipular les teves decisions digitals."
+      "summary": "Descobreix els trucs de disseny que utilitzen les empreses per manipular les teves decisions digitals."
     },
     {
       "title": "Avui parlem d'urbanisme i dels cables de les façanes, amb Judith Urbano",
@@ -66,15 +66,15 @@
       "source": "Foc a Terra",
       "date": "2026-04-13",
       "time": "04:00",
-      "summary": "Lliçons d'urbanisme sobre Barcelona i l'origen dels cables a les façanes amb la doctora Judith Urbano."
+      "summary": "Lliçons d'urbanisme i història sobre l'origen de Barcelona i els cables de les façanes."
     },
     {
-      "title": "Tancat amb Claude",
-      "link_id": "c_453c93",
-      "source": "Foc a Terra",
-      "date": "2026-04-06",
-      "time": "04:00",
-      "summary": "Presentació de Factory Floor, una aplicació nativa per a macOS dissenyada per facilitar l'ús de Claude Code."
+      "title": "Matt Mullenweg reflexiona i opina sobre el rumb de WordPress",
+      "link_id": "c_eea24d",
+      "source": "WordPress Pòdcast",
+      "date": "2026-04-21",
+      "time": "00:00",
+      "summary": "Crítica i autocrítica sobre la cultura de procés que paralitza les decisions al projecte."
     },
     {
       "title": "Eines d’IA per crear formació",
@@ -82,7 +82,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-04-14",
       "time": "00:00",
-      "summary": "Proposta d'eines i instruccions d'intel·ligència artificial per estandarditzar el material formatiu sobre WordPress."
+      "summary": "Proposta d'eines i instruccions per estandarditzar el material formatiu sobre WordPress amb intel·ligència artificial."
     },
     {
       "title": "No tenim pas res enllestit per a WordPress 7.0",
@@ -90,7 +90,15 @@
       "source": "WordPress Pòdcast",
       "date": "2026-04-07",
       "time": "00:00",
-      "summary": "El llançament de la nova versió s'endarrereix després de replantejar diverses qüestions de les versions candidates."
+      "summary": "Replantejament del llançament de la nova versió després de publicar les candidates recents."
+    },
+    {
+      "title": "Capítol 63: Nanobots Therapeutics, robots per curar el càncer de bufeta",
+      "link_id": "c_d49886",
+      "source": "RAC&GO",
+      "date": "2026-04-21",
+      "time": "06:00",
+      "summary": "Una empresa emergent catalana desenvolupa robots microscòpics per atacar directament els tumors cancerosos."
     },
     {
       "title": "Capítol 62: Mitiga, invertir pensant en el risc climàtic",
@@ -98,7 +106,7 @@
       "source": "RAC&GO",
       "date": "2026-04-07",
       "time": "06:00",
-      "summary": "L'empresa Mitiga ajuda les companyies a prendre decisions d'inversió tenint en compte els riscos climàtics futurs."
+      "summary": "L'empresa Mitiga ajuda les companyies a prendre decisions d'inversió tenint en compte els riscos climàtics."
     }
   ]
 }
