@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-04-21T19:57",
+  "generated_at": "2026-04-22T10:25",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Una mirada al llegat de 15 anys de Tim Cook com a CEO d'Apple",
-      "link_id": "c_e928cb",
+      "title": "El CEO d'Apple, Tim Cook, plega i John Ternus el substitueix",
+      "link_id": "c_7235b5",
+      "source": "CNET",
+      "date": "2026-04-22",
+      "time": "00:30",
+      "summary": "Després de 15 anys, Cook deixa el càrrec per convertir-se en president executiu, cedint el lideratge al cap de maquinari."
+    },
+    {
+      "title": "El nou model Images 2.0 de ChatGPT sorprèn per la seva capacitat de generar text",
+      "link_id": "c_1b0ba4",
       "source": "TechCrunch",
       "date": "2026-04-21",
-      "time": "17:40",
-      "summary": "Tim Cook deixa el càrrec de CEO d'Apple després de 15 anys, sent substituït per John Ternus al setembre."
+      "time": "19:00",
+      "summary": "OpenAI llança una actualització que millora el raonament visual i permet integrar text de manera precisa dins les imatges."
     },
     {
-      "title": "Microsoft anuncia rebaixes sorpresa a l'Xbox Game Pass i posa fi a la inclusió de Call of Duty des del primer dia",
-      "link_id": "c_1c5150",
-      "source": "Tom's Hardware",
+      "title": "Framework anuncia el Laptop 13 Pro, \"el MacBook Pro per a usuaris de Linux\"",
+      "link_id": "c_f72116",
+      "source": "The Verge",
+      "date": "2026-04-21",
+      "time": "14:08",
+      "summary": "Aquest nou portàtil modular i reparable inclou xips Intel Panther Lake i un xassís d'alumini redissenyat amb més bateria."
+    },
+    {
+      "title": "Un grup no autoritzat accedeix a Mythos, l'eina cibernètica exclusiva d'Anthropic",
+      "link_id": "c_1421ad",
+      "source": "TechCrunch",
+      "date": "2026-04-21",
+      "time": "23:26",
+      "summary": "L'empresa investiga la filtració d'aquest potent model d'intel·ligència artificial, dissenyat per detectar vulnerabilitats i prevenir ciberatacs complexos."
+    },
+    {
+      "title": "SpaceX col·labora amb Cursor i té l'opció de comprar la startup per 60.000 milions de dòlars",
+      "link_id": "c_6603ef",
+      "source": "TechCrunch",
+      "date": "2026-04-21",
+      "time": "22:58",
+      "summary": "L'acord busca potenciar les eines de programació amb IA d'Elon Musk abans d'una possible sortida a borsa històrica."
+    },
+    {
+      "title": "Xbox rebaixa els preus de Game Pass, però els nous Call of Duty no hi seran des del primer dia",
+      "link_id": "c_9d4cdd",
+      "source": "Engadget",
+      "date": "2026-04-21",
+      "time": "16:36",
+      "summary": "Microsoft redueix les tarifes de la seva subscripció de videojocs, canviant l'estratègia de llançament per a les seves franquícies principals."
+    },
+    {
+      "title": "Oppo anuncia el Find X9 Ultra amb una càmera teleobjectiu de 50 MP i zoom òptic 10x",
+      "link_id": "c_df04df",
+      "source": "Engadget",
       "date": "2026-04-21",
       "time": "17:00",
-      "summary": "Microsoft rebaixa el preu de l'Xbox Game Pass, però els nous jocs de Call of Duty ja no s'inclouran d'inici."
+      "summary": "El nou telèfon insígnia destaca per un maquinari fotogràfic extremadament ambiciós, dissenyat per competir directament amb Apple i Samsung."
     },
     {
-      "title": "La FAA suspèn el New Glenn de Blue Origin mentre investiga l'incident de lliurament fallit d'un satèl·lit",
-      "link_id": "c_226a40",
-      "source": "The Register",
+      "title": "Meta enregistrarà les pulsacions de tecles dels empleats per entrenar els seus models d'IA",
+      "link_id": "c_a396d5",
+      "source": "TechCrunch",
       "date": "2026-04-21",
-      "time": "13:29",
-      "summary": "La FAA ha suspès els vols del coet New Glenn de Blue Origin per investigar la pèrdua d'un satèl·lit."
+      "time": "23:45",
+      "summary": "La companyia utilitzarà una eina interna per convertir els moviments del ratolí i els clics en dades d'entrenament."
     },
     {
-      "title": "Anthropic rep 5.000 milions de dòlars d'Amazon i es compromet a gastar-ne 100.000 milions en el núvol a canvi",
-      "link_id": "c_429764",
-      "source": "Hacker News",
+      "title": "Google ara permet mantenir converses completes amb Gemini per a la llar",
+      "link_id": "c_cafcd3",
+      "source": "Engadget",
       "date": "2026-04-21",
-      "time": "13:08",
-      "summary": "Amazon inverteix 5.000 milions de dòlars addicionals en Anthropic, que es compromet a gastar 100.000 milions en serveis d'AWS."
+      "time": "16:00",
+      "summary": "La nova funció de conversa contínua evita haver de repetir l'ordre d'activació per a cada pregunta addicional a l'assistent."
     },
     {
-      "title": "La xarxa SmartThings de Samsung serà compatible amb els equips d'IKEA amb suport per a Matter",
-      "link_id": "c_84bc0a",
-      "source": "Digital Trends",
+      "title": "YouTube amplia la seva tecnologia de detecció de semblances amb IA a les celebritats",
+      "link_id": "c_66b3c0",
+      "source": "TechCrunch",
       "date": "2026-04-21",
-      "time": "17:43",
-      "summary": "Samsung integra els dispositius intel·ligents d'IKEA compatibles amb Matter a la seva xarxa SmartThings, facilitant-ne el control directe."
-    },
-    {
-      "title": "Estava content amb la càmera del meu Pixel fins que vaig provar l'Oppo Find X9 Ultra [Galeria]",
-      "link_id": "c_12dda0",
-      "source": "9to5Google",
-      "date": "2026-04-21",
-      "time": "17:25",
-      "summary": "El nou Oppo Find X9 Ultra destaca per la seva impressionant càmera amb teleobjectiu de 50 MP i zoom òptic."
-    },
-    {
-      "title": "El nou assistent d'intel·ligència artificial de Yelp farà reserves per tu",
-      "link_id": "c_09d980",
-      "source": "CNET",
-      "date": "2026-04-21",
-      "time": "16:53",
-      "summary": "L'assistent d'intel·ligència artificial de Yelp s'actualitza per permetre als usuaris fer reserves a restaurants i contractar serveis directament."
-    },
-    {
-      "title": "WhatsApp prova el nivell de subscripció de pagament 'Plus': Això és el que inclou",
-      "link_id": "c_e424bb",
-      "source": "MacRumors",
-      "date": "2026-04-21",
-      "time": "06:19",
-      "summary": "Meta prova una versió de pagament de WhatsApp amb funcions de personalització exclusives i adhesius premium per als usuaris."
-    },
-    {
-      "title": "Google Photos implementa les seves esperades eines de retoc facial",
-      "link_id": "c_9ccb02",
-      "source": "Android Authority",
-      "date": "2026-04-20",
-      "time": "21:37",
-      "summary": "Google Photos afegeix noves eines d'edició basades en IA per retocar subtilment els rostres i les selfies dels usuaris."
-    },
-    {
-      "title": "La beta pública 2 de macOS 26.5 ja està disponible",
-      "link_id": "c_d20cf3",
-      "source": "9to5Mac",
-      "date": "2026-04-21",
-      "time": "17:19",
-      "summary": "Apple llança noves versions beta públiques per a macOS, iOS i iPadOS, centrades en millores de seguretat i rendiment."
+      "time": "15:02",
+      "summary": "La plataforma ofereix una nova eina perquè representants i famosos puguin identificar i eliminar vídeos falsificats fàcilment."
     }
   ]
 }
