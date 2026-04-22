@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-04-22T10:25",
+  "generated_at": "2026-04-22T19:58",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "El CEO d'Apple, Tim Cook, plega i John Ternus el substitueix",
-      "link_id": "c_7235b5",
-      "source": "CNET",
+      "title": "Google converteix Chrome en un company de feina amb IA",
+      "link_id": "c_e0d085",
+      "source": "TechCrunch",
       "date": "2026-04-22",
-      "time": "00:30",
-      "summary": "Després de 15 anys, Cook deixa el càrrec per convertir-se en president executiu, cedint el lideratge al cap de maquinari."
+      "time": "17:30",
+      "summary": "Google integra capacitats d'IA a Chrome per a empreses, permetent automatitzar tasques com la recerca i l'entrada de dades."
     },
     {
-      "title": "El nou model Images 2.0 de ChatGPT sorprèn per la seva capacitat de generar text",
-      "link_id": "c_1b0ba4",
-      "source": "TechCrunch",
-      "date": "2026-04-21",
-      "time": "19:00",
-      "summary": "OpenAI llança una actualització que millora el raonament visual i permet integrar text de manera precisa dins les imatges."
-    },
-    {
-      "title": "Framework anuncia el Laptop 13 Pro, \"el MacBook Pro per a usuaris de Linux\"",
-      "link_id": "c_f72116",
+      "title": "El llançament de Mythos d'Anthropic deixa de banda l'agència de ciberseguretat dels EUA",
+      "link_id": "c_001b9c",
       "source": "The Verge",
-      "date": "2026-04-21",
-      "time": "14:08",
-      "summary": "Aquest nou portàtil modular i reparable inclou xips Intel Panther Lake i un xassís d'alumini redissenyat amb més bateria."
+      "date": "2026-04-22",
+      "time": "12:57",
+      "summary": "S'investiga l'accés no autoritzat a Mythos, un potent model d'IA d'Anthropic capaç de detectar vulnerabilitats crítiques de ciberseguretat."
     },
     {
-      "title": "Un grup no autoritzat accedeix a Mythos, l'eina cibernètica exclusiva d'Anthropic",
-      "link_id": "c_1421ad",
-      "source": "TechCrunch",
-      "date": "2026-04-21",
-      "time": "23:26",
-      "summary": "L'empresa investiga la filtració d'aquest potent model d'intel·ligència artificial, dissenyat per detectar vulnerabilitats i prevenir ciberatacs complexos."
-    },
-    {
-      "title": "SpaceX col·labora amb Cursor i té l'opció de comprar la startup per 60.000 milions de dòlars",
-      "link_id": "c_6603ef",
-      "source": "TechCrunch",
-      "date": "2026-04-21",
-      "time": "22:58",
-      "summary": "L'acord busca potenciar les eines de programació amb IA d'Elon Musk abans d'una possible sortida a borsa històrica."
-    },
-    {
-      "title": "Xbox rebaixa els preus de Game Pass, però els nous Call of Duty no hi seran des del primer dia",
-      "link_id": "c_9d4cdd",
-      "source": "Engadget",
-      "date": "2026-04-21",
-      "time": "16:36",
-      "summary": "Microsoft redueix les tarifes de la seva subscripció de videojocs, canviant l'estratègia de llançament per a les seves franquícies principals."
-    },
-    {
-      "title": "Oppo anuncia el Find X9 Ultra amb una càmera teleobjectiu de 50 MP i zoom òptic 10x",
-      "link_id": "c_df04df",
-      "source": "Engadget",
-      "date": "2026-04-21",
+      "title": "Microsoft rebaixa el preu de Game Pass. Ara hauria de reinventar Xbox",
+      "link_id": "c_06644c",
+      "source": "PCWorld",
+      "date": "2026-04-22",
       "time": "17:00",
-      "summary": "El nou telèfon insígnia destaca per un maquinari fotogràfic extremadament ambiciós, dissenyat per competir directament amb Apple i Samsung."
+      "summary": "Microsoft redueix les tarifes de Game Pass, però elimina l'accés el primer dia als nous jocs de Call of Duty."
     },
     {
-      "title": "Meta enregistrarà les pulsacions de tecles dels empleats per entrenar els seus models d'IA",
-      "link_id": "c_a396d5",
-      "source": "TechCrunch",
-      "date": "2026-04-21",
-      "time": "23:45",
-      "summary": "La companyia utilitzarà una eina interna per convertir els moviments del ratolí i els clics en dades d'entrenament."
+      "title": "OpenAI llança ChatGPT Images 2.0 amb capacitats de raonament i millor renderització de text",
+      "link_id": "c_e1d52b",
+      "source": "MacRumors",
+      "date": "2026-04-22",
+      "time": "09:19",
+      "summary": "El nou model d'imatges d'OpenAI millora la precisió visual, la tipografia i incorpora funcions avançades de raonament integrat."
     },
     {
-      "title": "Google ara permet mantenir converses completes amb Gemini per a la llar",
-      "link_id": "c_cafcd3",
+      "title": "Framework revela el seu 'MacBook Pro per a usuaris de Linux' i els fans lloen el nou Laptop 13 Pro",
+      "link_id": "c_d284cc",
+      "source": "TechRadar",
+      "date": "2026-04-22",
+      "time": "14:06",
+      "summary": "El nou portàtil modular de Framework destaca pel seu xassís redissenyat i suport per a targetes gràfiques externes."
+    },
+    {
+      "title": "Els últims plans de vigilància de Meta són tan distòpics que em deixen sense paraules",
+      "link_id": "c_3d8dde",
+      "source": "Digital Trends",
+      "date": "2026-04-22",
+      "time": "16:25",
+      "summary": "Meta instal·larà programari per registrar els moviments del ratolí i les pulsacions dels empleats per entrenar els seus models d'IA."
+    },
+    {
+      "title": "Brindem pels estables: Elogi a Tim Cook",
+      "link_id": "c_7a7671",
       "source": "Engadget",
-      "date": "2026-04-21",
-      "time": "16:00",
-      "summary": "La nova funció de conversa contínua evita haver de repetir l'ordre d'activació per a cada pregunta addicional a l'assistent."
+      "date": "2026-04-22",
+      "time": "14:48",
+      "summary": "Tim Cook deixarà de ser el conseller delegat d'Apple al setembre, cedint el lideratge al cap de maquinari John Ternus."
     },
     {
-      "title": "YouTube amplia la seva tecnologia de detecció de semblances amb IA a les celebritats",
-      "link_id": "c_66b3c0",
-      "source": "TechCrunch",
-      "date": "2026-04-21",
-      "time": "15:02",
-      "summary": "La plataforma ofereix una nova eina perquè representants i famosos puguin identificar i eliminar vídeos falsificats fàcilment."
+      "title": "SpaceX tanca un acord per comprar Cursor, un competidor de Claude Code i OpenAI Codex",
+      "link_id": "c_52c503",
+      "source": "9to5Mac",
+      "date": "2026-04-22",
+      "time": "13:40",
+      "summary": "L'empresa d'Elon Musk s'assegura l'opció d'adquirir la startup de programació amb IA per seixanta mil milions de dòlars."
+    },
+    {
+      "title": "Anker crea el seu propi xip per portar la IA a tots els seus productes",
+      "link_id": "c_d6faa5",
+      "source": "Hacker News",
+      "date": "2026-04-22",
+      "time": "17:10",
+      "summary": "El nou xip THUS d'Anker permetrà executar models d'intel·ligència artificial directament en dispositius portàtils sense esgotar-ne la bateria."
+    },
+    {
+      "title": "El Regne Unit podria enfrontar-se a atacs d'hacktivistes a gran escala similars als pitjors incidents de ransomware",
+      "link_id": "c_662b1e",
+      "source": "TechRadar",
+      "date": "2026-04-22",
+      "time": "14:40",
+      "summary": "El cap de ciberseguretat britànic adverteix sobre atacs estatals sofisticats que podrien causar interrupcions massives sense opció de rescat."
     }
   ]
 }
