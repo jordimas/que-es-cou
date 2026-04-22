@@ -1,12 +1,12 @@
 {
-  "generated_at": "2024-05-24T16:00",
+  "generated_at": "2026-04-22T12:00",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
     {
       "name": "Ara.cat",
       "url": "https://www.ara.cat/rss/",
-      "articles_found": 15
+      "articles_found": 11
     },
     {
       "name": "El Periódico",
@@ -16,17 +16,17 @@
     {
       "name": "RAC1",
       "url": "https://www.rac1.cat/rss/home.xml",
-      "articles_found": 3
+      "articles_found": 8
     },
     {
       "name": "La Vanguardia (en català)",
       "url": "https://www.lavanguardia.com/rss/encatala.xml",
-      "articles_found": 6
+      "articles_found": 8
     },
     {
       "name": "VilaWeb",
       "url": "https://www.vilaweb.cat/feed/",
-      "articles_found": 1
+      "articles_found": 0
     },
     {
       "name": "NacióDigital",
@@ -36,7 +36,7 @@
     {
       "name": "324.cat",
       "url": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0",
-      "articles_found": 3
+      "articles_found": 4
     },
     {
       "name": "Softcatalà",
@@ -46,7 +46,7 @@
     {
       "name": "El Nacional.cat",
       "url": "https://www.elnacional.cat/uploads/feeds/feed_ca.xml",
-      "articles_found": 16
+      "articles_found": 7
     },
     {
       "name": "El Mon.cat",
@@ -61,7 +61,7 @@
     {
       "name": "El Mon.cat Societat",
       "url": "https://elmon.cat/societat/feed/",
-      "articles_found": 1
+      "articles_found": 0
     },
     {
       "name": "Betevé",
@@ -126,7 +126,7 @@
     {
       "name": "Tot Barcelona",
       "url": "https://www.totbarcelona.cat/feed/",
-      "articles_found": 0
+      "articles_found": 3
     },
     {
       "name": "e-notícies",
@@ -136,7 +136,7 @@
     {
       "name": "Lleida Diari",
       "url": "https://www.lleidadiari.cat/feed/",
-      "articles_found": 1
+      "articles_found": 0
     },
     {
       "name": "Catorze",
@@ -166,12 +166,12 @@
     {
       "name": "Àpunt",
       "url": "https://www.apuntmedia.es/rss/",
-      "articles_found": 3
+      "articles_found": 1
     },
     {
       "name": "El Periòdic d'Ontinyent",
       "url": "https://www.elperiodicvalencia.com/?feed=rss2",
-      "articles_found": 0
+      "articles_found": 1
     },
     {
       "name": "Saó",
@@ -191,7 +191,7 @@
     {
       "name": "Ara Balears",
       "url": "https://www.arabalears.cat/rss/",
-      "articles_found": 6
+      "articles_found": 7
     },
     {
       "name": "Manacor Comarcal",
@@ -201,7 +201,7 @@
     {
       "name": "Via Empresa",
       "url": "https://www.viaempresa.cat/uploads/feeds/feed_via-empresa-2024_ca.xml",
-      "articles_found": 3
+      "articles_found": 2
     },
     {
       "name": "Lúdica",
@@ -216,76 +216,52 @@
   ],
   "articles": [
     {
-      "title": "Tim Cook deixa de ser el CEO d'Apple: John Ternus es converteix en el nou director executiu",
-      "link_id": "c_dcb801",
-      "source": "El Nacional.cat",
+      "title": "Canvi d’era a Apple: Tim Cook deixarà el càrrec i John Ternus assumirà la direcció",
+      "link_id": "c_2d602f",
+      "source": "MetaData",
       "date": "2026-04-21",
-      "time": "12:19",
-      "summary": "Després de quinze anys, Cook cedeix el lideratge a Ternus, marcant un canvi històric en la direcció tecnològica."
+      "time": "09:21",
+      "summary": "John Ternus assumirà el lideratge al setembre, aportant un perfil més tècnic per afrontar els nous reptes d'intel·ligència artificial."
     },
     {
-      "title": "Amazon ha invertit 5.000 milions l'última dècada a Catalunya",
-      "link_id": "c_db9057",
+      "title": "El Japó s'encamina cap a un teló d’acer tecnològic per protegir sectors estratègics",
+      "link_id": "c_9edee7",
       "source": "Ara.cat",
-      "date": "2026-04-20",
-      "time": "18:07",
-      "summary": "La multinacional consolida la seva presència al territori català, generant milers de llocs de treball i impacte econòmic."
-    },
-    {
-      "title": "La marató de robots de Pequín tenia fins i tot aturades a boxes a l'estil F1",
-      "link_id": "c_34bd22",
-      "source": "El Nacional.cat",
-      "date": "2026-04-21",
-      "time": "12:17",
-      "summary": "La competició xinesa mostra avenços sorprenents en robòtica humanoide, incloent-hi assistència tècnica ràpida durant la cursa."
-    },
-    {
-      "title": "\"Trump actua amb una lògica de videojoc, dopada amb intel·ligència artificial\"",
-      "link_id": "c_526eeb",
-      "source": "Ara.cat",
-      "date": "2026-04-21",
-      "time": "05:01",
-      "summary": "L'expert Jean-Pierre Filiu analitza com l'expresident nord-americà utilitza noves tecnologies per manipular i polaritzar l'opinió pública."
-    },
-    {
-      "title": "Cursa espacial: la batalla per la Lluna",
-      "link_id": "c_939a70",
-      "source": "Ara.cat",
-      "date": "2026-04-20",
+      "date": "2026-04-22",
       "time": "05:00",
-      "summary": "El programa Artemis de la NASA accelera els seus plans per avançar-se a la Xina en l'exploració lunar."
+      "summary": "Tòquio blinda els seus semiconductors i dades crítiques davant la creixent rivalitat geopolítica amb la Xina."
     },
     {
-      "title": "Netflix torna a apujar preus: així queden les noves tarifes de la plataforma",
-      "link_id": "c_796caa",
+      "title": "La bretxa salarial en el sector tecnològic: una xacra persistent des del minut u",
+      "link_id": "c_dfb2fa",
+      "source": "Via Empresa",
+      "date": "2026-04-22",
+      "time": "04:55",
+      "summary": "Tot i l'augment de professionals, les dones continuen estancades en llocs directius i pateixen desigualtats salarials estructurals."
+    },
+    {
+      "title": "L'Hospital de Sant Pau implanta elèctrodes al cervell d'un jove amb síndrome de Tourette en una situació límit: \"Li ha canviat completament la vida\"",
+      "link_id": "c_a9d856",
       "source": "RAC1",
-      "date": "2026-04-21",
-      "time": "10:08",
-      "summary": "A partir del maig, els usuaris hauran d'assumir un increment en tots els plans de subscripció disponibles."
+      "date": "2026-04-22",
+      "time": "08:48",
+      "summary": "La intervenció pionera redueix dràsticament els símptomes severs del pacient, obrint noves vies terapèutiques per a trastorns neurològics complexos."
     },
     {
-      "title": "L’hospital del Mar inventa una IA que diagnosticarà amb un vídeo de la cara",
-      "link_id": "c_e189fb",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-04-21",
-      "time": "04:25",
-      "summary": "Aquest innovador algoritme permetrà detectar malalties comunes i alteracions neuronals només analitzant les faccions del pacient."
+      "title": "L'Incliva avança en la prevenció del càncer de còlon amb IA per a predir recaigudes",
+      "link_id": "c_4a1427",
+      "source": "Àpunt",
+      "date": "2026-04-22",
+      "time": "11:41",
+      "summary": "L'algoritme analitza el microambient tumoral per anticipar la resistència a la quimioteràpia i personalitzar els tractaments oncològics."
     },
     {
-      "title": "La normativa europea de bateries extraïbles en smartphones, explicada: el que exigeix la llei i el que no",
-      "link_id": "c_d1a3ee",
-      "source": "El Nacional.cat",
+      "title": "Nestlé prepara un ERO a Espanya que afectarà la seu d'Esplugues i les plantes de Girona i Reus",
+      "link_id": "c_3024ac",
+      "source": "324.cat",
       "date": "2026-04-21",
-      "time": "13:00",
-      "summary": "La nova regulació de la UE obligarà els fabricants a facilitar el canvi de bateries a partir del 2027."
-    },
-    {
-      "title": "La nova funció per garantir que ningú ignora els teus missatges al WhatsApp",
-      "link_id": "c_e0a51a",
-      "source": "El Mon.cat Societat",
-      "date": "2026-04-18",
-      "time": "17:41",
-      "summary": "L'aplicació de missatgeria incorpora eines per cridar l'atenció en grups i evitar que la informació important es perdi."
+      "time": "16:13",
+      "summary": "La reestructuració de la plantilla generarà incertesa laboral a Esplugues, Girona i Reus fins a principis de maig."
     },
     {
       "title": "Almenys una trentena d'aplicacions diferents per pagar la zona blava: \"Cada poble té la seva!\"",
@@ -294,6 +270,30 @@
       "date": "2026-04-21",
       "time": "06:38",
       "summary": "La fragmentació digital complica l'aparcament als conductors, que es veuen obligats a descarregar múltiples programes segons el municipi."
+    },
+    {
+      "title": "LanguageTool, el corrector que ajuda a escriure millor en català a qualsevol web",
+      "link_id": "c_e5f4df",
+      "source": "MetaData",
+      "date": "2026-04-22",
+      "time": "11:10",
+      "summary": "Aquesta extensió gratuïta respecta la privacitat de l'usuari i facilita la redacció correcta en català a qualsevol plataforma."
+    },
+    {
+      "title": "ChatGPT presenta Images 2.0: la nova IA generativa és impressionant",
+      "link_id": "c_ca2655",
+      "source": "El Nacional.cat",
+      "date": "2026-04-22",
+      "time": "13:08",
+      "summary": "La darrera actualització d'OpenAI promet revolucionar la creació visual amb un salt qualitatiu en la generació d'imatges."
+    },
+    {
+      "title": "Cursa espacial: la batalla per la Lluna",
+      "link_id": "c_939a70",
+      "source": "Ara.cat",
+      "date": "2026-04-20",
+      "time": "05:00",
+      "summary": "La missió de la NASA intensifica la competència geopolítica amb la Xina pel domini estratègic de l'espai exterior."
     }
   ]
 }

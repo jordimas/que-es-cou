@@ -1,80 +1,88 @@
 {
-  "generated_at": "2024-05-24T18:30",
+  "generated_at": "2024-05-24T20:30",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Reaccions a Tim Cook: Sam Altman, Palmer Luckey i Warren Buffett valoren el canvi de CEO d'Apple",
-      "link_id": "c_c17d4a",
-      "source": "CNBC Technology",
-      "date": "2026-04-21",
-      "time": "10:32",
-      "summary": "Líders tecnològics i inversors destaquen el llegat de Cook mentre assumeix la presidència executiva de la companyia."
+      "title": "SpaceX obté el dret de comprar la start-up d'IA Cursor per 60.000 milions de dòlars",
+      "link_id": "c_6bb431",
+      "source": "Financial Times",
+      "date": "2026-04-22",
+      "time": "00:39",
+      "summary": "L'empresa d'Elon Musk busca accelerar el seu desenvolupament tecnològic per competir directament amb gegants com OpenAI i Anthropic."
     },
     {
-      "title": "És Ternus el líder que Apple necessita per a l'era de la IA?",
-      "link_id": "c_c1efe1",
+      "title": "SpaceX afirma que pot comprar Cursor aquest any per 60.000 milions o pagar-ne 10.000 per col·laborar",
+      "link_id": "c_3f8660",
+      "source": "CNBC Technology",
+      "date": "2026-04-22",
+      "time": "00:31",
+      "summary": "L'acord ofereix flexibilitat a la companyia aeroespacial, permetent-li adquirir l'empresa de programació o compensar-la per la feina conjunta."
+    },
+    {
+      "title": "La directora del banc més gran del sud-est asiàtic assenyala la \"nova guerra\" que la preocupa",
+      "link_id": "c_7983d8",
+      "source": "CNBC Technology",
+      "date": "2026-04-22",
+      "time": "11:07",
+      "summary": "Tan Su Shan, de DBS, adverteix que els ciberatacs representen una amenaça més greu que la inestabilitat geopolítica actual."
+    },
+    {
+      "title": "Palantir firma un acord de 300 milions amb el Departament d'Agricultura per protegir el subministrament alimentari",
+      "link_id": "c_df0893",
+      "source": "CNBC Technology",
+      "date": "2026-04-22",
+      "time": "11:00",
+      "summary": "Aquest contracte estratègic permet a l'empresa tecnològica diversificar els seus ingressos més enllà del sector militar i de defensa."
+    },
+    {
+      "title": "OpenAI negocia invertir fins a 1.500 milions en una empresa conjunta de capital d'inversió",
+      "link_id": "c_385fbf",
+      "source": "Financial Times",
+      "date": "2026-04-22",
+      "time": "04:00",
+      "summary": "La iniciativa busca facilitar la integració de la intel·ligència artificial en empreses controlades per fons de capital privat."
+    },
+    {
+      "title": "El Silicon Valley oblidat dels Estats Units",
+      "link_id": "c_7deb6b",
+      "source": "Financial Times",
+      "date": "2026-04-22",
+      "time": "04:00",
+      "summary": "La històrica indústria de xips de Pennsilvània continua estancada per la manca dels fons federals promesos per revitalitzar-la."
+    },
+    {
+      "title": "Anthropic investiga l'accés no autoritzat al seu potent model d'IA Mythos",
+      "link_id": "c_8aa9b7",
       "source": "Financial Times",
       "date": "2026-04-21",
-      "time": "08:45",
-      "summary": "El nou director general haurà de guiar el fabricant de l'iPhone en la transició cap a la intel·ligència artificial."
+      "time": "23:56",
+      "summary": "L'empresa ha restringit el llançament d'aquesta nova eina tecnològica per por a les seves avançades capacitats de pirateria."
     },
     {
-      "title": "El futur CEO d'Apple, John Ternus, afronta un repte decisiu: arreglar l'estratègia d'IA de l'empresa",
+      "title": "El futur conseller delegat d'Apple, John Ternus, afronta un repte clau: arreglar l'estratègia d'IA",
       "link_id": "c_871c06",
       "source": "CNBC Technology",
       "date": "2026-04-21",
-      "time": "06:40",
-      "summary": "Ternus haurà de tancar la bretxa tecnològica heretada i posicionar fermament la marca en el mercat de la intel·ligència artificial."
+      "time": "22:34",
+      "summary": "El successor de Tim Cook haurà de resoldre el desavantatge competitiu de la marca en intel·ligència artificial."
     },
     {
-      "title": "Anthropic i Amazon acorden un pacte d'infraestructura d'IA de 100.000 milions de dòlars",
-      "link_id": "c_4033ee",
-      "source": "Financial Times",
-      "date": "2026-04-21",
-      "time": "00:41",
-      "summary": "L'empresa creadora de Claude busca assegurar xips i potència de càlcul per evitar les recents interrupcions del servei."
-    },
-    {
-      "title": "Amazon invertirà fins a 25.000 milions de dòlars més en Anthropic com a part de l'acord d'infraestructura d'IA",
-      "link_id": "c_d2dabe",
+      "title": "L'ascens de Johny Srouji a Apple indica una cursa per fabricar xips propis per a tots els dispositius",
+      "link_id": "c_2f4053",
       "source": "CNBC Technology",
-      "date": "2026-04-20",
-      "time": "21:44",
-      "summary": "Aquesta injecció de capital consolida l'aliança estratègica, garantint a Anthropic l'accés als serveis al núvol durant la pròxima dècada."
-    },
-    {
-      "title": "El desenllaç de la IA a Europa? Apostar per la fiabilitat",
-      "link_id": "c_b9fbee",
-      "source": "Financial Times",
       "date": "2026-04-21",
-      "time": "11:00",
-      "summary": "El continent ha de prioritzar la seguretat tecnològica per no quedar aïllat en la cursa global de la intel·ligència artificial."
+      "time": "22:28",
+      "summary": "El nou cap de maquinari accelerarà la independència tecnològica de l'empresa dissenyant processadors exclusius per a iPhones i Macs."
     },
     {
-      "title": "El laboratori d'IA Project Prometheus de Bezos s'apropa a una valoració de 38.000 milions de dòlars",
-      "link_id": "c_aba86d",
-      "source": "Financial Times",
-      "date": "2026-04-21",
-      "time": "01:06",
-      "summary": "Aquesta nova ronda de finançament impulsa el desenvolupament de models avançats dissenyats específicament per a aplicacions industrials."
-    },
-    {
-      "title": "Marvell es dispara per l'informe que ajudarà Google amb xips d'IA personalitzats. Les accions de Broadcom s'enfonsen",
-      "link_id": "c_296e98",
+      "title": "Reaccions a Tim Cook: Trump, Altman i Buffett opinen sobre el canvi a la direcció d'Apple",
+      "link_id": "c_c17d4a",
       "source": "CNBC Technology",
-      "date": "2026-04-20",
-      "time": "20:43",
-      "summary": "La creixent demanda d'intel·ligència artificial reconfigura el mercat de semiconductors, beneficiant Marvell en detriment dels seus competidors directes."
-    },
-    {
-      "title": "Les accions de l'empresa de centres de dades Fermi s'enfonsen per la dimissió dels seus directius",
-      "link_id": "c_413088",
-      "source": "Financial Times",
-      "date": "2026-04-20",
-      "time": "15:35",
-      "summary": "La pèrdua d'una inversió clau d'Amazon i la fugida de talent agreugen la crisi d'aquesta prometedora companyia tecnològica."
+      "date": "2026-04-21",
+      "time": "20:20",
+      "summary": "La transició de Cook a president executiu genera un fort impacte i debat entre els grans líders del sector."
     }
   ]
 }

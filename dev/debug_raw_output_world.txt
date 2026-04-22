@@ -1,119 +1,88 @@
 {
-  "generated_at": "2026-04-21T13:52",
+  "generated_at": "2026-04-22T13:50",
   "id": "world",
   "title": "Notícies tecnològiques del món",
-  "sources_checked": [
-    {
-      "name": "Ars Technica",
-      "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
-      "articles_found": 0
-    },
-    {
-      "name": "VentureBeat",
-      "url": "https://feeds.feedburner.com/venturebeat/SZYF",
-      "articles_found": 0
-    },
-    {
-      "name": "AnandTech",
-      "url": "https://www.anandtech.com/rss/",
-      "articles_found": 0
-    },
-    {
-      "name": "Wall Street Journal Tech",
-      "url": "https://feeds.a.dj.com/rss/RSSWSJD.xml",
-      "articles_found": 0
-    },
-    {
-      "name": "Gizmodo",
-      "url": "https://www.gizmodo.com/feed/rss",
-      "articles_found": 0
-    },
-    {
-      "name": "Slashdot",
-      "url": "https://slashdot.org/rss/slashdot.rss",
-      "articles_found": 0
-    }
-  ],
+  "sources_checked": [],
   "articles": [
     {
-      "title": "Tim Cook deixa de ser el CEO d'Apple i John Ternus pren el relleu",
-      "link_id": "c_e6d76b",
-      "source": "TechCrunch",
-      "date": "2026-04-20",
-      "time": "20:42",
-      "summary": "Després de 15 anys, Cook cedeix la direcció a Ternus, actual cap de maquinari, i passarà a ser president executiu."
+      "title": "El CEO d'Apple, Tim Cook, plega i John Ternus el substitueix",
+      "link_id": "c_7235b5",
+      "source": "CNET",
+      "date": "2026-04-22",
+      "time": "00:30",
+      "summary": "El cap d'enginyeria de maquinari assumirà el lideratge d'Apple aquest any, mentre Cook passarà a ser president executiu."
     },
     {
-      "title": "Amazon inverteix 5.000 milions de dòlars en Anthropic a canvi de despesa al núvol",
-      "link_id": "c_429764",
-      "source": "TechCrunch",
-      "date": "2026-04-20",
-      "time": "23:10",
-      "summary": "L'acord reforça la seva aliança estratègica i garanteix a la startup d'IA capacitat de computació massiva als servidors d'AWS."
+      "title": "Anthropic investiga l'accés no autoritzat a la seva eina d'IA Mythos",
+      "link_id": "c_768c8b",
+      "source": "BBC Technology",
+      "date": "2026-04-22",
+      "time": "10:13",
+      "summary": "Un grup hauria accedit a aquest model de ciberseguretat restringit, considerat massa perillós per fer-se públic per les seves capacitats."
     },
     {
-      "title": "Apple llança les terceres betas de macOS Tahoe, iOS i iPadOS 26.5 per a desenvolupadors",
-      "link_id": "c_029dcc",
-      "source": "MacRumors",
-      "date": "2026-04-20",
-      "time": "10:11",
-      "summary": "Les noves versions de prova arriben sense grans canvis visibles, preparant el terreny per a futures actualitzacions d'estabilitat."
-    },
-    {
-      "title": "La FAA investiga l'incident del coet New Glenn de Blue Origin",
-      "link_id": "c_d09a7d",
-      "source": "TechCrunch",
-      "date": "2026-04-20",
-      "time": "16:11",
-      "summary": "Tot i aterrar amb èxit, el coet va fallar en posar el satèl·lit en òrbita, obligant a suspendre futurs vols."
-    },
-    {
-      "title": "Es filtren detalls del Fitbit Air, la nova polsera intel·ligent sense pantalla de Google",
-      "link_id": "c_9d0005",
-      "source": "9to5Google",
-      "date": "2026-04-20",
-      "time": "15:20",
-      "summary": "Aquest dispositiu assequible competirà amb Whoop, centrant-se en la salut bàsica i integrant-se amb la nova subscripció Google Health."
-    },
-    {
-      "title": "WhatsApp prova una subscripció de pagament centrada en millores estètiques",
-      "link_id": "c_8d2bc5",
-      "source": "TechCrunch",
-      "date": "2026-04-20",
-      "time": "15:59",
-      "summary": "Meta explora monetitzar l'aplicació amb \"WhatsApp Plus\", oferint temes personalitzats i adhesius exclusius sense alterar les funcions de missatgeria."
-    },
-    {
-      "title": "Deezer afirma que el 44% de les cançons pujades diàriament són generades per IA",
-      "link_id": "c_af8109",
-      "source": "TechCrunch",
-      "date": "2026-04-20",
-      "time": "14:57",
-      "summary": "La plataforma musical alerta sobre l'augment massiu de contingut artificial, tot i que el seu consum real continua sent baix."
-    },
-    {
-      "title": "Google Photos afegeix noves eines de retoc ràpid impulsades per IA",
-      "link_id": "c_7987bc",
-      "source": "TechCrunch",
-      "date": "2026-04-20",
-      "time": "20:20",
-      "summary": "Els usuaris podran suavitzar la pell, blanquejar les dents o il·luminar els ulls fàcilment en les seves selfies i retrats."
-    },
-    {
-      "title": "L'assistent d'IA de Yelp ara permet fer reserves i comandes en una sola conversa",
-      "link_id": "c_9b6f91",
-      "source": "TechCrunch",
-      "date": "2026-04-21",
+      "title": "Aquest és el portàtil de Framework que deixa de demanar-te excuses",
+      "link_id": "c_dc2afd",
+      "source": "PCWorld",
+      "date": "2026-04-22",
       "time": "11:00",
-      "summary": "L'aplicació millora el seu xatbot per actuar com un conserge digital, facilitant la interacció directa amb els negocis locals."
+      "summary": "El nou Framework Laptop 13 Pro ofereix un disseny d'alumini, pantalla tàctil i components totalment reparables i actualitzables."
     },
     {
-      "title": "Ubisoft revelarà oficialment el remake d'Assassin's Creed Black Flag el 23 d'abril",
-      "link_id": "c_95d7d2",
-      "source": "Engadget",
-      "date": "2026-04-20",
-      "time": "18:47",
-      "summary": "L'esperat joc, anomenat \"Resynced\", es mostrarà en un esdeveniment mundial amb un tràiler cinematogràfic i possibles detalls de llançament."
+      "title": "Primeres impressions del potent nou motor d'imatges de ChatGPT",
+      "link_id": "c_c9b931",
+      "source": "Axios",
+      "date": "2026-04-22",
+      "time": "09:00",
+      "summary": "La versió Images 2.0 millora la generació de text, permet l'accés web i incorpora capacitats de raonament avançades."
+    },
+    {
+      "title": "Meta rastrejarà les pulsacions i l'activitat de pantalla dels empleats per entrenar IA",
+      "link_id": "c_b14cc3",
+      "source": "Computerworld",
+      "date": "2026-04-22",
+      "time": "10:01",
+      "summary": "L'empresa instal·larà programari de vigilància als ordinadors dels treballadors per ensenyar als agents d'IA com interactuen els humans."
+    },
+    {
+      "title": "He provat un nou telèfon Android amb càmera que hauria d'aterrir Samsung i Apple",
+      "link_id": "c_9a92f1",
+      "source": "Android Authority",
+      "date": "2026-04-22",
+      "time": "10:30",
+      "summary": "L'Oppo Find X9 Ultra estableix un nou estàndard fotogràfic amb el seu sensor de 200 MP i zoom òptic 10x."
+    },
+    {
+      "title": "Microsoft rebaixa el preu de l'Xbox Game Pass però retira els jocs de Call of Duty d'estrena",
+      "link_id": "c_b470a3",
+      "source": "TechRadar",
+      "date": "2026-04-22",
+      "time": "10:11",
+      "summary": "Les subscripcions Ultimate i PC s'abarateixen, però els nous títols de la franquícia ja no s'inclouran el primer dia."
+    },
+    {
+      "title": "SpaceX tanca un acord amb Cursor per 60.000 milions de dòlars",
+      "link_id": "c_bcae17",
+      "source": "NYT Technology",
+      "date": "2026-04-22",
+      "time": "00:22",
+      "summary": "L'empresa d'Elon Musk podria adquirir aquesta startup de programació amb IA per reforçar-se abans de sortir a borsa."
+    },
+    {
+      "title": "Google soluciona un dels grans problemes de Gemini for Home recuperant una funció molt enyorada",
+      "link_id": "c_ac46f5",
+      "source": "TechRadar",
+      "date": "2026-04-22",
+      "time": "11:21",
+      "summary": "L'assistent ara permet mantenir converses contínues sense haver de repetir l'ordre d'activació a cada nova pregunta."
+    },
+    {
+      "title": "El detector de deepfakes d'IA de YouTube ara permet a qualsevol celebritat eliminar vídeos infractors",
+      "link_id": "c_0f9ffd",
+      "source": "CNET",
+      "date": "2026-04-21",
+      "time": "20:30",
+      "summary": "La plataforma amplia la seva eina de detecció facial per ajudar representants i famosos a combatre les suplantacions d'identitat."
     }
   ]
 }
