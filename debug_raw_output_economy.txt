@@ -1,88 +1,88 @@
 {
-  "generated_at": "2024-05-24T18:45",
+  "generated_at": "2024-05-24T18:00",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "SK Hynix registra un benefici rècord al primer trimestre gràcies a l'augment dels preus de la memòria",
+      "title": "La Casa Blanca alerta d'esforços a \"escala industrial\" de la Xina per robar tecnologia d'IA dels EUA",
+      "link_id": "c_603e86",
+      "source": "CNBC Technology",
+      "date": "2026-04-23",
+      "time": "17:29",
+      "summary": "L'administració nord-americana intensifica les acusacions contra entitats xineses per l'apropiació sistemàtica d'innovacions en laboratoris d'intel·ligència artificial."
+    },
+    {
+      "title": "Microsoft oferirà baixes voluntàries al 7% de la plantilla per primera vegada",
+      "link_id": "c_86d1ff",
+      "source": "Financial Times",
+      "date": "2026-04-23",
+      "time": "16:56",
+      "summary": "La mesura busca alliberar capital per finançar una inversió massiva de 140.000 milions de dòlars en intel·ligència artificial."
+    },
+    {
+      "title": "SK Hynix registra beneficis rècord al primer trimestre gràcies a l'augment de preus de les memòries",
       "link_id": "c_5c66df",
       "source": "CNBC Technology",
       "date": "2026-04-23",
       "time": "02:45",
-      "summary": "La forta demanda d'intel·ligència artificial impulsa els ingressos del fabricant de xips, superant les expectatives del mercat."
+      "summary": "L'alta demanda de xips per a intel·ligència artificial consolida un canvi estructural que prioritza l'abastiment per sobre del preu."
+    },
+    {
+      "title": "Les accions de programari s'enfonsen pels resultats de ServiceNow i IBM davant els temors sobre la IA",
+      "link_id": "c_0d0f8d",
+      "source": "CNBC Technology",
+      "date": "2026-04-23",
+      "time": "17:04",
+      "summary": "La caiguda del 16% de ServiceNow arrossega grans empreses del sector, evidenciant la incertesa sobre els models de negoci."
+    },
+    {
+      "title": "La start-up Stark, amb el suport de Thiel, s'expandeix cap als drons defensius",
+      "link_id": "c_46e00b",
+      "source": "Financial Times",
+      "date": "2026-04-23",
+      "time": "14:36",
+      "summary": "El conflicte a l'Iran dispara l'interès del mercat per sistemes de protecció avançats contra vehicles aeris no tripulats."
     },
     {
       "title": "Microsoft amplia la seva presència en IA a Austràlia amb una inversió de 18.000 milions de dòlars",
       "link_id": "c_65c508",
       "source": "CNBC Technology",
       "date": "2026-04-23",
-      "time": "06:20",
-      "summary": "Els fons es destinaran a millorar la infraestructura digital del país, posant èmfasi en la ciberseguretat i el desenvolupament tecnològic."
+      "time": "14:11",
+      "summary": "Aquesta injecció de capital reforçarà significativament la infraestructura digital del país, centrant-se especialment en el desenvolupament i la ciberseguretat."
     },
     {
-      "title": "El capital privat tempteja OpenAI i Anthropic",
-      "link_id": "c_641524",
+      "title": "El servei meteorològic francès alerta la policia per manipulació després d'apostes sospitoses a Polymarket",
+      "link_id": "c_ac8d0f",
       "source": "Financial Times",
       "date": "2026-04-23",
-      "time": "04:00",
-      "summary": "Les empreses emergents negocien aliances estratègiques per accelerar la implementació d'eines d'intel·ligència artificial al sector corporatiu."
+      "time": "14:11",
+      "summary": "S'investiga si les dades de temperatura de París van ser alterades per afavorir apostadors en plataformes de predicció."
     },
     {
-      "title": "El pioner quantitatiu Martin Lueck adverteix sobre delegar el trading a la IA",
-      "link_id": "c_857e11",
+      "title": "Ampliarà la IA la desigualtat entre els treballadors?",
+      "link_id": "c_622548",
       "source": "Financial Times",
       "date": "2026-04-23",
-      "time": "04:00",
-      "summary": "El cofundador d'Aspect demana prudència davant la tendència creixent de fons d'inversió que confien cegament en algoritmes automatitzats."
+      "time": "11:30",
+      "summary": "Una enquesta recent revela que els professionals amb ingressos més alts adopten aquesta tecnologia molt més ràpidament."
     },
     {
-      "title": "Els treballadors amb ingressos alts s'avancen en l'ús de la IA i amplien la bretxa laboral",
-      "link_id": "c_8ae62f",
+      "title": "Anthropic i Freshfields acorden crear eines legals d'intel·ligència artificial",
+      "link_id": "c_26e31b",
       "source": "Financial Times",
       "date": "2026-04-23",
-      "time": "04:00",
-      "summary": "Una enquesta revela que l'adopció tecnològica està accentuant les desigualtats salarials i de gènere en l'entorn professional."
+      "time": "11:00",
+      "summary": "L'empresa tecnològica aprofitarà l'experiència d'aquest prestigiós bufet d'advocats per desenvolupar productes comercialitzables a la competència."
     },
     {
-      "title": "La directora general del banc més gran del sud-est asiàtic revela les seves principals preocupacions",
-      "link_id": "c_7983d8",
-      "source": "CNBC Technology",
-      "date": "2026-04-23",
-      "time": "01:22",
-      "summary": "Tan Su Shan assenyala els ciberatacs com l'amenaça més greu, per sobre de la volatilitat del mercat o la geopolítica."
-    },
-    {
-      "title": "Microsoft va estudiar comprar Cursor abans de l'acord amb SpaceX",
-      "link_id": "c_14ba88",
-      "source": "CNBC Technology",
-      "date": "2026-04-23",
-      "time": "01:12",
-      "summary": "El gegant tecnològic va mostrar interès per l'empresa emergent de programació amb IA abans de l'oferta d'Elon Musk."
-    },
-    {
-      "title": "Meta rastreja les pulsacions de tecles dels empleats a Google i LinkedIn per entrenar la seva IA",
-      "link_id": "c_146a6a",
-      "source": "CNBC Technology",
-      "date": "2026-04-23",
-      "time": "00:18",
-      "summary": "La companyia monitoritza l'activitat web de la seva plantilla per recopilar dades i millorar els seus models d'aprenentatge automàtic."
-    },
-    {
-      "title": "Intel s'impulsa després que Musk anunciï que la seva Terafab utilitzarà la seva tecnologia de xips",
-      "link_id": "c_cd48a0",
+      "title": "DeepSeek busca una valoració de 20.000 milions de dòlars per evitar la fuga de talent",
+      "link_id": "c_9c06c9",
       "source": "Financial Times",
-      "date": "2026-04-22",
-      "time": "23:49",
-      "summary": "El fabricant nord-americà aconsegueix un client clau per al seu nou sistema de producció 14A, reforçant la seva posició."
-    },
-    {
-      "title": "Tesla augmenta la inversió a 25.000 milions de dòlars mentre Musk redobla l'aposta per la IA",
-      "link_id": "c_071f24",
-      "source": "Financial Times",
-      "date": "2026-04-22",
-      "time": "23:30",
-      "summary": "Els fons es destinaran massivament a desenvolupar taxis autònoms, robots i noves fàbriques de xips per liderar el sector."
+      "date": "2026-04-23",
+      "time": "10:04",
+      "summary": "La start-up xinesa capta fons inèdits per retenir els seus investigadors clau davant l'agressiva competència del sector."
     }
   ]
 }

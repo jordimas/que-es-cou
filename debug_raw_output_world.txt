@@ -1,88 +1,88 @@
 {
-  "generated_at": "2024-05-20T16:00",
+  "generated_at": "2026-04-23T18:03",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Anthropic investiga l'accés no autoritzat a la seva eina de ciberseguretat Mythos",
-      "link_id": "c_05ae8d",
-      "source": "Engadget",
+      "title": "El nou model d'IA Mythos d'Anthropic fa saltar les alarmes mundials",
+      "link_id": "c_3175a9",
+      "source": "NYT Technology",
       "date": "2026-04-22",
-      "time": "09:10",
-      "summary": "L'empresa investiga si usuaris no autoritzats han accedit al seu model d'IA dissenyat per detectar vulnerabilitats de ciberseguretat."
+      "time": "19:48",
+      "summary": "Aquest model ha provocat respostes d'emergència d'agències d'intel·ligència i bancs centrals per la seva capacitat de trobar vulnerabilitats."
     },
     {
-      "title": "Google actualitza Workspace per convertir la IA en el teu nou becari d'oficina",
+      "title": "Google actualitza Workspace per convertir la IA en el teu nou becari",
       "link_id": "c_bd474b",
       "source": "TechCrunch",
       "date": "2026-04-22",
       "time": "22:44",
-      "summary": "La companyia ha introduït noves funcions automatitzades impulsades per Workspace Intelligence, el seu nou sistema d'intel·ligència artificial."
+      "summary": "La companyia integra noves funcions automatitzades impulsades per Workspace Intelligence per facilitar la gestió de tasques ofimàtiques diàries."
     },
     {
-      "title": "OpenAI ara permet als equips crear bots personalitzats que poden treballar de manera autònoma",
-      "link_id": "c_f37044",
-      "source": "The Verge",
-      "date": "2026-04-22",
-      "time": "16:09",
-      "summary": "Els usuaris de plans professionals i educatius ja poden accedir a agents al núvol per automatitzar tasques empresarials."
+      "title": "Apple soluciona una vulnerabilitat d'iOS explotada per l'FBI",
+      "link_id": "c_d8966a",
+      "source": "ZDNet",
+      "date": "2026-04-23",
+      "time": "16:29",
+      "summary": "L'actualització iOS 26.4.2 corregeix un error que permetia a les autoritats recuperar missatges esborrats de l'aplicació Signal."
     },
     {
-      "title": "Apple soluciona un error que la policia utilitzava per extreure missatges esborrats dels iPhone",
-      "link_id": "c_8a48ac",
-      "source": "TechCrunch",
-      "date": "2026-04-22",
-      "time": "19:13",
-      "summary": "L'actualització corregeix una vulnerabilitat que permetia a les autoritats llegir missatges de Signal que ja havien estat eliminats."
+      "title": "SpaceX començarà a fabricar les seves pròpies GPU",
+      "link_id": "c_3ebd3d",
+      "source": "Tom's Hardware",
+      "date": "2026-04-23",
+      "time": "15:00",
+      "summary": "L'empresa d'Elon Musk produirà xips propis per evitar l'escassetat de silici i complir els seus objectius d'intel·ligència artificial."
     },
     {
-      "title": "Tesla acaba d'augmentar el seu pla de despesa a 25.000 milions de dòlars",
-      "link_id": "c_39ed22",
-      "source": "TechCrunch",
-      "date": "2026-04-22",
-      "time": "23:56",
-      "summary": "La inversió prevista per al 2026 es triplica, fet que provocarà un flux de caixa negatiu durant l'any."
+      "title": "El nou model d'imatges d'OpenAI raona abans de dibuixar",
+      "link_id": "c_ee000f",
+      "source": "The Next Web",
+      "date": "2026-04-23",
+      "time": "13:24",
+      "summary": "ChatGPT Images 2.0 millora la composició, cerca context a la xarxa i renderitza text amb una precisió gairebé perfecta."
     },
     {
-      "title": "Treballadors de Meta, us paguen per aquestes pulsacions de tecles?",
-      "link_id": "c_1b8ffd",
-      "source": "Engadget",
-      "date": "2026-04-22",
-      "time": "13:19",
-      "summary": "L'empresa de Mark Zuckerberg començarà a registrar l'activitat dels seus empleats per entrenar els seus models d'intel·ligència artificial."
+      "title": "L'historial mèdic de mig milió de britànics, a la venda en un web xinès",
+      "link_id": "c_75335f",
+      "source": "The Guardian Tech",
+      "date": "2026-04-23",
+      "time": "17:33",
+      "summary": "Les dades confidencials dels voluntaris del projecte UK Biobank s'han filtrat i posat a la venda a Alibaba."
     },
     {
-      "title": "Primer cop d'ull als nous canals personalitzats d'X impulsats per IA",
-      "link_id": "c_930854",
-      "source": "TechCrunch",
-      "date": "2026-04-22",
-      "time": "22:25",
-      "summary": "Les línies de temps personalitzades per la intel·ligència artificial Grok substitueixen les Comunitats i introdueixen nous espais publicitaris."
+      "title": "Xbox prepara un pla personalitzable per a Game Pass",
+      "link_id": "c_e0a36b",
+      "source": "TechRadar",
+      "date": "2026-04-23",
+      "time": "12:40",
+      "summary": "Després de rebaixar els preus, Microsoft planeja permetre als usuaris triar quin contingut volen incloure a la seva subscripció."
     },
     {
-      "title": "Com SpaceX es va avançar a una ronda de finançament amb una oferta de compra de 60.000 milions",
-      "link_id": "c_f201bd",
-      "source": "TechCrunch",
-      "date": "2026-04-22",
-      "time": "19:51",
-      "summary": "La startup d'IA Cursor atura la seva ronda de finançament davant la multimilionària proposta d'adquisició d'Elon Musk."
+      "title": "Meta rastreja l'activitat del seu personal per ensenyar a la IA com substituir-los",
+      "link_id": "c_236ddd",
+      "source": "TechRadar",
+      "date": "2026-04-23",
+      "time": "03:00",
+      "summary": "L'empresa monitora els moviments del ratolí i les pulsacions de tecles dels empleats per automatitzar tasques rutinàries."
     },
     {
-      "title": "França confirma una filtració de dades a l'agència governamental que gestiona els documents d'identitat",
-      "link_id": "c_ad9081",
-      "source": "TechCrunch",
-      "date": "2026-04-22",
-      "time": "19:34",
-      "summary": "Uns pirates informàtics han robat informació personal d'un nombre indeterminat de ciutadans dels registres de passaports i identitat."
+      "title": "Els empleats de Palantir es comencen a preguntar si són els dolents",
+      "link_id": "c_573140",
+      "source": "Wired",
+      "date": "2026-04-23",
+      "time": "16:01",
+      "summary": "Missatges interns i entrevistes revelen una creixent inquietud entre la plantilla sobre l'ètica i l'impacte de la seva tecnologia."
     },
     {
-      "title": "Threads afegeix xats en directe per fomentar la interacció en temps real",
-      "link_id": "c_3b5d6a",
-      "source": "TechCrunch",
-      "date": "2026-04-22",
-      "time": "17:00",
-      "summary": "Els usuaris podran enviar missatges, fotos, vídeos, enllaços i reaccions amb emojis en converses grupals en directe."
+      "title": "OpenAI presenta GPT-5.5 per gestionar tasques amb instruccions limitades",
+      "link_id": "c_904065",
+      "source": "Bloomberg Technology",
+      "date": "2026-04-23",
+      "time": "18:00",
+      "summary": "Aquest nou model d'intel·ligència artificial requereix menys indicacions per completar la feina, buscant atreure més clients empresarials."
     }
   ]
 }
