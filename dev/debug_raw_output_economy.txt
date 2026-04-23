@@ -1,88 +1,88 @@
 {
-  "generated_at": "2024-05-24T20:30",
+  "generated_at": "2026-04-23T13:52",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "SpaceX obté el dret de comprar la start-up d'IA Cursor per 60.000 milions de dòlars",
-      "link_id": "c_6bb431",
+      "title": "SK Hynix registra un benefici rècord al primer trimestre per l'augment dels preus de la memòria",
+      "link_id": "c_5c66df",
+      "source": "CNBC Technology",
+      "date": "2026-04-23",
+      "time": "02:45",
+      "summary": "L'alta demanda d'intel·ligència artificial dispara els ingressos del fabricant sud-coreà, consolidant el seu domini en el sector tecnològic."
+    },
+    {
+      "title": "SK Hynix, proveïdor de Nvidia, celebra un \"canvi estructural\" després d'un altre trimestre rècord",
+      "link_id": "c_3dc9a7",
       "source": "Financial Times",
-      "date": "2026-04-22",
-      "time": "00:39",
-      "summary": "L'empresa d'Elon Musk busca accelerar el seu desenvolupament tecnològic per competir directament amb gegants com OpenAI i Anthropic."
+      "date": "2026-04-23",
+      "time": "02:33",
+      "summary": "L'escassetat de subministrament fa que els clients prioritzin l'adquisició de xips per davant del preu, assegurant vendes futures."
     },
     {
-      "title": "SpaceX afirma que pot comprar Cursor aquest any per 60.000 milions o pagar-ne 10.000 per col·laborar",
-      "link_id": "c_3f8660",
-      "source": "CNBC Technology",
-      "date": "2026-04-22",
-      "time": "00:31",
-      "summary": "L'acord ofereix flexibilitat a la companyia aeroespacial, permetent-li adquirir l'empresa de programació o compensar-la per la feina conjunta."
+      "title": "La IA ampliarà la desigualtat entre els treballadors?",
+      "link_id": "c_622548",
+      "source": "Financial Times",
+      "date": "2026-04-23",
+      "time": "11:30",
+      "summary": "Una enquesta recent revela com l'adopció tecnològica podria polaritzar el mercat laboral als Estats Units i el Regne Unit."
     },
     {
-      "title": "La directora del banc més gran del sud-est asiàtic assenyala la \"nova guerra\" que la preocupa",
-      "link_id": "c_7983d8",
-      "source": "CNBC Technology",
-      "date": "2026-04-22",
-      "time": "11:07",
-      "summary": "Tan Su Shan, de DBS, adverteix que els ciberatacs representen una amenaça més greu que la inestabilitat geopolítica actual."
-    },
-    {
-      "title": "Palantir firma un acord de 300 milions amb el Departament d'Agricultura per protegir el subministrament alimentari",
-      "link_id": "c_df0893",
-      "source": "CNBC Technology",
-      "date": "2026-04-22",
+      "title": "Anthropic i Freshfields acorden crear eines legals d'IA",
+      "link_id": "c_26e31b",
+      "source": "Financial Times",
+      "date": "2026-04-23",
       "time": "11:00",
-      "summary": "Aquest contracte estratègic permet a l'empresa tecnològica diversificar els seus ingressos més enllà del sector militar i de defensa."
+      "summary": "L'empresa tecnològica aprofitarà l'experiència del prestigiós bufet d'advocats per desenvolupar solucions comercialitzables per a altres firmes del sector."
     },
     {
-      "title": "OpenAI negocia invertir fins a 1.500 milions en una empresa conjunta de capital d'inversió",
-      "link_id": "c_385fbf",
+      "title": "DeepSeek busca una valoració de 20.000 milions de dòlars per evitar la fuga de talent",
+      "link_id": "c_9c06c9",
       "source": "Financial Times",
-      "date": "2026-04-22",
+      "date": "2026-04-23",
+      "time": "10:04",
+      "summary": "La start-up xinesa capta capital inèditament per retenir els seus investigadors clau davant l'agressiva competència d'altres empreses d'IA."
+    },
+    {
+      "title": "Anthropic busca un executiu per negociar centres de dades i impulsar la seva expansió d'IA a Europa",
+      "link_id": "c_cb4263",
+      "source": "CNBC Technology",
+      "date": "2026-04-23",
+      "time": "09:23",
+      "summary": "La companyia inverteix fortament en infraestructura europea per escalar els seus models, seguint la tendència dels grans gegants tecnològics."
+    },
+    {
+      "title": "Microsoft amplia la seva presència d'IA a Austràlia amb una inversió de 18.000 milions de dòlars",
+      "link_id": "c_65c508",
+      "source": "CNBC Technology",
+      "date": "2026-04-23",
+      "time": "06:20",
+      "summary": "Aquesta injecció de capital reforçarà la ciberseguretat i la infraestructura digital del país, consolidant l'estratègia global de l'empresa."
+    },
+    {
+      "title": "El capital privat tempteja OpenAI i Anthropic",
+      "link_id": "c_641524",
+      "source": "Financial Times",
+      "date": "2026-04-23",
       "time": "04:00",
-      "summary": "La iniciativa busca facilitar la integració de la intel·ligència artificial en empreses controlades per fons de capital privat."
+      "summary": "Les firmes d'inversió busquen aliances estratègiques per accelerar la integració de la intel·ligència artificial en el teixit empresarial."
     },
     {
-      "title": "El Silicon Valley oblidat dels Estats Units",
-      "link_id": "c_7deb6b",
+      "title": "El pioner quantitatiu Martin Lueck adverteix sobre cedir el trading a la IA",
+      "link_id": "c_857e11",
       "source": "Financial Times",
-      "date": "2026-04-22",
+      "date": "2026-04-23",
       "time": "04:00",
-      "summary": "La històrica indústria de xips de Pennsilvània continua estancada per la manca dels fons federals promesos per revitalitzar-la."
+      "summary": "El cofundador d'Aspect demana prudència davant l'automatització financera, contrastant amb altres inversors que ja confien plenament en les màquines."
     },
     {
-      "title": "Anthropic investiga l'accés no autoritzat al seu potent model d'IA Mythos",
-      "link_id": "c_8aa9b7",
+      "title": "Els treballadors amb ingressos alts s'avancen en IA mentre s'amplia la bretxa laboral",
+      "link_id": "c_8ae62f",
       "source": "Financial Times",
-      "date": "2026-04-21",
-      "time": "23:56",
-      "summary": "L'empresa ha restringit el llançament d'aquesta nova eina tecnològica per por a les seves avançades capacitats de pirateria."
-    },
-    {
-      "title": "El futur conseller delegat d'Apple, John Ternus, afronta un repte clau: arreglar l'estratègia d'IA",
-      "link_id": "c_871c06",
-      "source": "CNBC Technology",
-      "date": "2026-04-21",
-      "time": "22:34",
-      "summary": "El successor de Tim Cook haurà de resoldre el desavantatge competitiu de la marca en intel·ligència artificial."
-    },
-    {
-      "title": "L'ascens de Johny Srouji a Apple indica una cursa per fabricar xips propis per a tots els dispositius",
-      "link_id": "c_2f4053",
-      "source": "CNBC Technology",
-      "date": "2026-04-21",
-      "time": "22:28",
-      "summary": "El nou cap de maquinari accelerarà la independència tecnològica de l'empresa dissenyant processadors exclusius per a iPhones i Macs."
-    },
-    {
-      "title": "Reaccions a Tim Cook: Trump, Altman i Buffett opinen sobre el canvi a la direcció d'Apple",
-      "link_id": "c_c17d4a",
-      "source": "CNBC Technology",
-      "date": "2026-04-21",
-      "time": "20:20",
-      "summary": "La transició de Cook a president executiu genera un fort impacte i debat entre els grans líders del sector."
+      "date": "2026-04-23",
+      "time": "04:00",
+      "summary": "L'ús desigual d'aquestes noves eines tecnològiques amenaça d'agreujar les diferències salarials i de gènere en els entorns professionals."
     }
   ]
 }

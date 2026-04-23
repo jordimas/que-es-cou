@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-04-22T12:00",
+  "generated_at": "2026-04-23T13:52",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
     {
       "name": "Ara.cat",
       "url": "https://www.ara.cat/rss/",
-      "articles_found": 11
+      "articles_found": 7
     },
     {
       "name": "El Periódico",
@@ -16,12 +16,12 @@
     {
       "name": "RAC1",
       "url": "https://www.rac1.cat/rss/home.xml",
-      "articles_found": 8
+      "articles_found": 6
     },
     {
       "name": "La Vanguardia (en català)",
       "url": "https://www.lavanguardia.com/rss/encatala.xml",
-      "articles_found": 8
+      "articles_found": 9
     },
     {
       "name": "VilaWeb",
@@ -36,7 +36,7 @@
     {
       "name": "324.cat",
       "url": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0",
-      "articles_found": 4
+      "articles_found": 3
     },
     {
       "name": "Softcatalà",
@@ -46,7 +46,7 @@
     {
       "name": "El Nacional.cat",
       "url": "https://www.elnacional.cat/uploads/feeds/feed_ca.xml",
-      "articles_found": 7
+      "articles_found": 9
     },
     {
       "name": "El Mon.cat",
@@ -66,7 +66,7 @@
     {
       "name": "Betevé",
       "url": "https://beteve.cat/feed/",
-      "articles_found": 0
+      "articles_found": 2
     },
     {
       "name": "El Punt Avui",
@@ -76,7 +76,7 @@
     {
       "name": "Segre",
       "url": "https://www.segre.com/ca/rss/home.xml",
-      "articles_found": 0
+      "articles_found": 3
     },
     {
       "name": "Regio7",
@@ -116,7 +116,7 @@
     {
       "name": "Cugat.cat",
       "url": "https://www.cugat.cat/feed/",
-      "articles_found": 0
+      "articles_found": 1
     },
     {
       "name": "CatalunyaPress",
@@ -156,7 +156,7 @@
     {
       "name": "MetaData",
       "url": "https://www.metadata.cat/sindica",
-      "articles_found": 8
+      "articles_found": 11
     },
     {
       "name": "El Temps",
@@ -171,7 +171,7 @@
     {
       "name": "El Periòdic d'Ontinyent",
       "url": "https://www.elperiodicvalencia.com/?feed=rss2",
-      "articles_found": 1
+      "articles_found": 0
     },
     {
       "name": "Saó",
@@ -186,12 +186,12 @@
     {
       "name": "IB3 Notícies",
       "url": "https://ib3.org/feed/",
-      "articles_found": 0
+      "articles_found": 2
     },
     {
       "name": "Ara Balears",
       "url": "https://www.arabalears.cat/rss/",
-      "articles_found": 7
+      "articles_found": 6
     },
     {
       "name": "Manacor Comarcal",
@@ -201,12 +201,12 @@
     {
       "name": "Via Empresa",
       "url": "https://www.viaempresa.cat/uploads/feeds/feed_via-empresa-2024_ca.xml",
-      "articles_found": 2
+      "articles_found": 4
     },
     {
       "name": "Lúdica",
       "url": "https://ludica.cat/feed/",
-      "articles_found": 0
+      "articles_found": 1
     },
     {
       "name": "Accent Obert",
@@ -216,44 +216,28 @@
   ],
   "articles": [
     {
+      "title": "Seat inaugura la seva planta d’economia circular a la Zona Franca per reciclar peces de cotxes",
+      "link_id": "c_18c3b7",
+      "source": "Betevé",
+      "date": "2026-04-23",
+      "time": "11:44",
+      "summary": "La nova instal·lació desmuntarà vehicles per reaprofitar-ne les peces, impulsant la sostenibilitat en el sector de l'automoció."
+    },
+    {
+      "title": "Leitat impulsa a Terrassa un laboratori pioner per reciclar bateries i recuperar materials crítics",
+      "link_id": "c_0ee3cc",
+      "source": "MetaData",
+      "date": "2026-04-23",
+      "time": "11:50",
+      "summary": "Aquest centre pioner a Terrassa permetrà recuperar materials crítics de les bateries, clau per a la transició energètica."
+    },
+    {
       "title": "Canvi d’era a Apple: Tim Cook deixarà el càrrec i John Ternus assumirà la direcció",
       "link_id": "c_2d602f",
       "source": "MetaData",
       "date": "2026-04-21",
       "time": "09:21",
-      "summary": "John Ternus assumirà el lideratge al setembre, aportant un perfil més tècnic per afrontar els nous reptes d'intel·ligència artificial."
-    },
-    {
-      "title": "El Japó s'encamina cap a un teló d’acer tecnològic per protegir sectors estratègics",
-      "link_id": "c_9edee7",
-      "source": "Ara.cat",
-      "date": "2026-04-22",
-      "time": "05:00",
-      "summary": "Tòquio blinda els seus semiconductors i dades crítiques davant la creixent rivalitat geopolítica amb la Xina."
-    },
-    {
-      "title": "La bretxa salarial en el sector tecnològic: una xacra persistent des del minut u",
-      "link_id": "c_dfb2fa",
-      "source": "Via Empresa",
-      "date": "2026-04-22",
-      "time": "04:55",
-      "summary": "Tot i l'augment de professionals, les dones continuen estancades en llocs directius i pateixen desigualtats salarials estructurals."
-    },
-    {
-      "title": "L'Hospital de Sant Pau implanta elèctrodes al cervell d'un jove amb síndrome de Tourette en una situació límit: \"Li ha canviat completament la vida\"",
-      "link_id": "c_a9d856",
-      "source": "RAC1",
-      "date": "2026-04-22",
-      "time": "08:48",
-      "summary": "La intervenció pionera redueix dràsticament els símptomes severs del pacient, obrint noves vies terapèutiques per a trastorns neurològics complexos."
-    },
-    {
-      "title": "L'Incliva avança en la prevenció del càncer de còlon amb IA per a predir recaigudes",
-      "link_id": "c_4a1427",
-      "source": "Àpunt",
-      "date": "2026-04-22",
-      "time": "11:41",
-      "summary": "L'algoritme analitza el microambient tumoral per anticipar la resistència a la quimioteràpia i personalitzar els tractaments oncològics."
+      "summary": "John Ternus assumirà el lideratge al setembre, marcant una nova etapa amb un enfocament més tècnic per a l'empresa."
     },
     {
       "title": "Nestlé prepara un ERO a Espanya que afectarà la seu d'Esplugues i les plantes de Girona i Reus",
@@ -261,39 +245,55 @@
       "source": "324.cat",
       "date": "2026-04-21",
       "time": "16:13",
-      "summary": "La reestructuració de la plantilla generarà incertesa laboral a Esplugues, Girona i Reus fins a principis de maig."
+      "summary": "La mesura afectarà fins a 301 treballadors a Catalunya, generant incertesa sobre el futur de les plantes locals."
     },
     {
-      "title": "Almenys una trentena d'aplicacions diferents per pagar la zona blava: \"Cada poble té la seva!\"",
-      "link_id": "c_62564f",
+      "title": "L’Executiu aprova el Pla d’Habitatge que blinda de per vida el parc públic",
+      "link_id": "c_c28c57",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-04-22",
+      "time": "08:59",
+      "summary": "La mesura busca garantir la disponibilitat d'habitatge assequible a llarg termini, evitant l'especulació amb els pisos protegits."
+    },
+    {
+      "title": "Salut valora sancionar Sant Pau i Sant Joan de Déu per “errors” en la detecció del nadó maltractat",
+      "link_id": "c_c41804",
+      "source": "Betevé",
+      "date": "2026-04-23",
+      "time": "09:54",
+      "summary": "S'investiguen possibles negligències en els protocols de detecció de maltractament infantil als hospitals abans de l'ingrés a Vall d'Hebron."
+    },
+    {
+      "title": "El túnel de Rubí reobrirà dimarts parcialment després de set setmanes d'obres d'emergència",
+      "link_id": "c_a5c112",
       "source": "324.cat",
+      "date": "2026-04-22",
+      "time": "21:38",
+      "summary": "La reobertura parcial alleujarà les restriccions de trànsit ferroviari, tot i que inicialment només per a trens de mercaderies."
+    },
+    {
+      "title": "Domini .cat: 20 anys al servei de l'economia catalana",
+      "link_id": "c_a0efd8",
+      "source": "Via Empresa",
+      "date": "2026-04-23",
+      "time": "04:55",
+      "summary": "Dues dècades després de la seva creació, el domini s'ha consolidat com un referent digital per a la llengua catalana."
+    },
+    {
+      "title": "L’hospital del Mar inventa una IA que diagnosticarà amb un vídeo de la cara",
+      "link_id": "c_e189fb",
+      "source": "La Vanguardia (en català)",
       "date": "2026-04-21",
-      "time": "06:38",
-      "summary": "La fragmentació digital complica l'aparcament als conductors, que es veuen obligats a descarregar múltiples programes segons el municipi."
+      "time": "04:25",
+      "summary": "Aquesta innovació tecnològica promet revolucionar l'atenció primària, permetent detectar malalties ràpidament a través de l'anàlisi d'expressions facials."
     },
     {
-      "title": "LanguageTool, el corrector que ajuda a escriure millor en català a qualsevol web",
-      "link_id": "c_e5f4df",
-      "source": "MetaData",
-      "date": "2026-04-22",
-      "time": "11:10",
-      "summary": "Aquesta extensió gratuïta respecta la privacitat de l'usuari i facilita la redacció correcta en català a qualsevol plataforma."
-    },
-    {
-      "title": "ChatGPT presenta Images 2.0: la nova IA generativa és impressionant",
-      "link_id": "c_ca2655",
-      "source": "El Nacional.cat",
-      "date": "2026-04-22",
-      "time": "13:08",
-      "summary": "La darrera actualització d'OpenAI promet revolucionar la creació visual amb un salt qualitatiu en la generació d'imatges."
-    },
-    {
-      "title": "Cursa espacial: la batalla per la Lluna",
-      "link_id": "c_939a70",
+      "title": "El Japó s'encamina cap a un teló d’acer tecnològic per protegir sectors estratègics",
+      "link_id": "c_9edee7",
       "source": "Ara.cat",
-      "date": "2026-04-20",
+      "date": "2026-04-22",
       "time": "05:00",
-      "summary": "La missió de la NASA intensifica la competència geopolítica amb la Xina pel domini estratègic de l'espai exterior."
+      "summary": "Tòquio endureix les normatives per blindar infraestructures crítiques davant la creixent tensió geopolítica i tecnològica amb la Xina."
     }
   ]
 }

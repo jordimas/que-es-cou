@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-04-22T13:50",
+  "generated_at": "2026-04-23T13:52",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "El CEO d'Apple, Tim Cook, plega i John Ternus el substitueix",
-      "link_id": "c_7235b5",
+      "title": "Google actualitza Workspace per convertir la IA en el teu nou becari d'oficina",
+      "link_id": "c_bd474b",
+      "source": "TechCrunch",
+      "date": "2026-04-22",
+      "time": "22:44",
+      "summary": "La nova plataforma Gemini Enterprise Agent automatitza tasques i integra assistents intel·ligents per millorar la productivitat empresarial."
+    },
+    {
+      "title": "Musk es compromet a arreglar els Tesla de 2019-2023 que no poden conduir de manera totalment autònoma",
+      "link_id": "c_f4e464",
+      "source": "Engadget",
+      "date": "2026-04-23",
+      "time": "09:50",
+      "summary": "Després d'augmentar la inversió a 25.000 milions, Tesla actualitzarà el maquinari dels vehicles antics per permetre la conducció autònoma."
+    },
+    {
+      "title": "iOS 26.4.2 soluciona una vulnerabilitat de seguretat de l'iPhone explotada per l'FBI",
+      "link_id": "c_cd028d",
+      "source": "TechRadar",
+      "date": "2026-04-23",
+      "time": "10:18",
+      "summary": "Apple ha corregit un error en les notificacions que permetia a les autoritats extreure missatges esborrats de l'aplicació Signal."
+    },
+    {
+      "title": "Mozilla afirma que la IA Mythos d'Anthropic és tan capaç com els millors investigadors de seguretat",
+      "link_id": "c_f95431",
+      "source": "TechRadar",
+      "date": "2026-04-23",
+      "time": "10:03",
+      "summary": "Aquest nou model d'intel·ligència artificial ha aconseguit descobrir 271 vulnerabilitats a Firefox, marcant una fita en la ciberseguretat automatitzada."
+    },
+    {
+      "title": "Google Cloud llança dos nous xips d'IA per competir amb Nvidia",
+      "link_id": "c_f980db",
+      "source": "TechCrunch",
+      "date": "2026-04-22",
+      "time": "18:39",
+      "summary": "Els nous processadors TPU 8t i 8i estan dissenyats específicament per optimitzar l'entrenament i la inferència de models d'IA."
+    },
+    {
+      "title": "La IA supera el repte del ping-pong mentre continua l'ascens de les màquines",
+      "link_id": "c_3e41de",
+      "source": "The Register",
+      "date": "2026-04-23",
+      "time": "11:15",
+      "summary": "Un robot desenvolupat per Sony ha aconseguit guanyar jugadors d'elit de tennis taula, demostrant grans avenços en robòtica esportiva."
+    },
+    {
+      "title": "Meta rastreja l'activitat del seu personal per ensenyar a la IA com substituir-los",
+      "link_id": "c_236ddd",
+      "source": "TechRadar",
+      "date": "2026-04-23",
+      "time": "03:00",
+      "summary": "L'empresa recopila dades de tecleig i clics dels empleats per entrenar agents intel·ligents capaços d'automatitzar tasques laborals rutinàries."
+    },
+    {
+      "title": "OpenAI presenta Workspace Agents, el successor dels GPT personalitzats per a empreses",
+      "link_id": "c_624d23",
+      "source": "VentureBeat",
+      "date": "2026-04-22",
+      "time": "23:53",
+      "summary": "Aquests nous assistents s'integren amb aplicacions de tercers per automatitzar fluxos de treball i tasques complexes en segon pla."
+    },
+    {
+      "title": "Meta afegeix una nova funció de xat en directe a Threads per a grans esdeveniments",
+      "link_id": "c_feb969",
       "source": "CNET",
       "date": "2026-04-22",
-      "time": "00:30",
-      "summary": "El cap d'enginyeria de maquinari assumirà el lideratge d'Apple aquest any, mentre Cook passarà a ser president executiu."
+      "time": "23:13",
+      "summary": "La plataforma permetrà als usuaris participar en converses grupals en temps real durant esdeveniments culturals i esportius destacats."
     },
     {
-      "title": "Anthropic investiga l'accés no autoritzat a la seva eina d'IA Mythos",
-      "link_id": "c_768c8b",
-      "source": "BBC Technology",
-      "date": "2026-04-22",
-      "time": "10:13",
-      "summary": "Un grup hauria accedit a aquest model de ciberseguretat restringit, considerat massa perillós per fer-se públic per les seves capacitats."
-    },
-    {
-      "title": "Aquest és el portàtil de Framework que deixa de demanar-te excuses",
-      "link_id": "c_dc2afd",
-      "source": "PCWorld",
-      "date": "2026-04-22",
-      "time": "11:00",
-      "summary": "El nou Framework Laptop 13 Pro ofereix un disseny d'alumini, pantalla tàctil i components totalment reparables i actualitzables."
-    },
-    {
-      "title": "Primeres impressions del potent nou motor d'imatges de ChatGPT",
-      "link_id": "c_c9b931",
-      "source": "Axios",
-      "date": "2026-04-22",
-      "time": "09:00",
-      "summary": "La versió Images 2.0 millora la generació de text, permet l'accés web i incorpora capacitats de raonament avançades."
-    },
-    {
-      "title": "Meta rastrejarà les pulsacions i l'activitat de pantalla dels empleats per entrenar IA",
-      "link_id": "c_b14cc3",
-      "source": "Computerworld",
-      "date": "2026-04-22",
-      "time": "10:01",
-      "summary": "L'empresa instal·larà programari de vigilància als ordinadors dels treballadors per ensenyar als agents d'IA com interactuen els humans."
-    },
-    {
-      "title": "He provat un nou telèfon Android amb càmera que hauria d'aterrir Samsung i Apple",
-      "link_id": "c_9a92f1",
-      "source": "Android Authority",
-      "date": "2026-04-22",
-      "time": "10:30",
-      "summary": "L'Oppo Find X9 Ultra estableix un nou estàndard fotogràfic amb el seu sensor de 200 MP i zoom òptic 10x."
-    },
-    {
-      "title": "Microsoft rebaixa el preu de l'Xbox Game Pass però retira els jocs de Call of Duty d'estrena",
-      "link_id": "c_b470a3",
+      "title": "La rebaixa de preu de l'Xbox Game Pass no sorprèn els analistes després de l'arribada de Call of Duty",
+      "link_id": "c_4d3b57",
       "source": "TechRadar",
-      "date": "2026-04-22",
-      "time": "10:11",
-      "summary": "Les subscripcions Ultimate i PC s'abarateixen, però els nous títols de la franquícia ja no s'inclouran el primer dia."
-    },
-    {
-      "title": "SpaceX tanca un acord amb Cursor per 60.000 milions de dòlars",
-      "link_id": "c_bcae17",
-      "source": "NYT Technology",
-      "date": "2026-04-22",
-      "time": "00:22",
-      "summary": "L'empresa d'Elon Musk podria adquirir aquesta startup de programació amb IA per reforçar-se abans de sortir a borsa."
-    },
-    {
-      "title": "Google soluciona un dels grans problemes de Gemini for Home recuperant una funció molt enyorada",
-      "link_id": "c_ac46f5",
-      "source": "TechRadar",
-      "date": "2026-04-22",
-      "time": "11:21",
-      "summary": "L'assistent ara permet mantenir converses contínues sense haver de repetir l'ordre d'activació a cada nova pregunta."
-    },
-    {
-      "title": "El detector de deepfakes d'IA de YouTube ara permet a qualsevol celebritat eliminar vídeos infractors",
-      "link_id": "c_0f9ffd",
-      "source": "CNET",
-      "date": "2026-04-21",
-      "time": "20:30",
-      "summary": "La plataforma amplia la seva eina de detecció facial per ajudar representants i famosos a combatre les suplantacions d'identitat."
+      "date": "2026-04-23",
+      "time": "11:41",
+      "summary": "Microsoft redueix les tarifes de la seva subscripció i elimina l'accés el primer dia als futurs jocs de la franquícia."
     }
   ]
 }
