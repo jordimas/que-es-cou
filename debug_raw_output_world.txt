@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-04-22T19:58",
+  "generated_at": "2024-05-20T16:00",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Google converteix Chrome en un company de feina amb IA",
-      "link_id": "c_e0d085",
-      "source": "TechCrunch",
-      "date": "2026-04-22",
-      "time": "17:30",
-      "summary": "Google integra capacitats d'IA a Chrome per a empreses, permetent automatitzar tasques com la recerca i l'entrada de dades."
-    },
-    {
-      "title": "El llançament de Mythos d'Anthropic deixa de banda l'agència de ciberseguretat dels EUA",
-      "link_id": "c_001b9c",
-      "source": "The Verge",
-      "date": "2026-04-22",
-      "time": "12:57",
-      "summary": "S'investiga l'accés no autoritzat a Mythos, un potent model d'IA d'Anthropic capaç de detectar vulnerabilitats crítiques de ciberseguretat."
-    },
-    {
-      "title": "Microsoft rebaixa el preu de Game Pass. Ara hauria de reinventar Xbox",
-      "link_id": "c_06644c",
-      "source": "PCWorld",
-      "date": "2026-04-22",
-      "time": "17:00",
-      "summary": "Microsoft redueix les tarifes de Game Pass, però elimina l'accés el primer dia als nous jocs de Call of Duty."
-    },
-    {
-      "title": "OpenAI llança ChatGPT Images 2.0 amb capacitats de raonament i millor renderització de text",
-      "link_id": "c_e1d52b",
-      "source": "MacRumors",
-      "date": "2026-04-22",
-      "time": "09:19",
-      "summary": "El nou model d'imatges d'OpenAI millora la precisió visual, la tipografia i incorpora funcions avançades de raonament integrat."
-    },
-    {
-      "title": "Framework revela el seu 'MacBook Pro per a usuaris de Linux' i els fans lloen el nou Laptop 13 Pro",
-      "link_id": "c_d284cc",
-      "source": "TechRadar",
-      "date": "2026-04-22",
-      "time": "14:06",
-      "summary": "El nou portàtil modular de Framework destaca pel seu xassís redissenyat i suport per a targetes gràfiques externes."
-    },
-    {
-      "title": "Els últims plans de vigilància de Meta són tan distòpics que em deixen sense paraules",
-      "link_id": "c_3d8dde",
-      "source": "Digital Trends",
-      "date": "2026-04-22",
-      "time": "16:25",
-      "summary": "Meta instal·larà programari per registrar els moviments del ratolí i les pulsacions dels empleats per entrenar els seus models d'IA."
-    },
-    {
-      "title": "Brindem pels estables: Elogi a Tim Cook",
-      "link_id": "c_7a7671",
+      "title": "Anthropic investiga l'accés no autoritzat a la seva eina de ciberseguretat Mythos",
+      "link_id": "c_05ae8d",
       "source": "Engadget",
       "date": "2026-04-22",
-      "time": "14:48",
-      "summary": "Tim Cook deixarà de ser el conseller delegat d'Apple al setembre, cedint el lideratge al cap de maquinari John Ternus."
+      "time": "09:10",
+      "summary": "L'empresa investiga si usuaris no autoritzats han accedit al seu model d'IA dissenyat per detectar vulnerabilitats de ciberseguretat."
     },
     {
-      "title": "SpaceX tanca un acord per comprar Cursor, un competidor de Claude Code i OpenAI Codex",
-      "link_id": "c_52c503",
-      "source": "9to5Mac",
+      "title": "Google actualitza Workspace per convertir la IA en el teu nou becari d'oficina",
+      "link_id": "c_bd474b",
+      "source": "TechCrunch",
       "date": "2026-04-22",
-      "time": "13:40",
-      "summary": "L'empresa d'Elon Musk s'assegura l'opció d'adquirir la startup de programació amb IA per seixanta mil milions de dòlars."
+      "time": "22:44",
+      "summary": "La companyia ha introduït noves funcions automatitzades impulsades per Workspace Intelligence, el seu nou sistema d'intel·ligència artificial."
     },
     {
-      "title": "Anker crea el seu propi xip per portar la IA a tots els seus productes",
-      "link_id": "c_d6faa5",
-      "source": "Hacker News",
+      "title": "OpenAI ara permet als equips crear bots personalitzats que poden treballar de manera autònoma",
+      "link_id": "c_f37044",
+      "source": "The Verge",
       "date": "2026-04-22",
-      "time": "17:10",
-      "summary": "El nou xip THUS d'Anker permetrà executar models d'intel·ligència artificial directament en dispositius portàtils sense esgotar-ne la bateria."
+      "time": "16:09",
+      "summary": "Els usuaris de plans professionals i educatius ja poden accedir a agents al núvol per automatitzar tasques empresarials."
     },
     {
-      "title": "El Regne Unit podria enfrontar-se a atacs d'hacktivistes a gran escala similars als pitjors incidents de ransomware",
-      "link_id": "c_662b1e",
-      "source": "TechRadar",
+      "title": "Apple soluciona un error que la policia utilitzava per extreure missatges esborrats dels iPhone",
+      "link_id": "c_8a48ac",
+      "source": "TechCrunch",
       "date": "2026-04-22",
-      "time": "14:40",
-      "summary": "El cap de ciberseguretat britànic adverteix sobre atacs estatals sofisticats que podrien causar interrupcions massives sense opció de rescat."
+      "time": "19:13",
+      "summary": "L'actualització corregeix una vulnerabilitat que permetia a les autoritats llegir missatges de Signal que ja havien estat eliminats."
+    },
+    {
+      "title": "Tesla acaba d'augmentar el seu pla de despesa a 25.000 milions de dòlars",
+      "link_id": "c_39ed22",
+      "source": "TechCrunch",
+      "date": "2026-04-22",
+      "time": "23:56",
+      "summary": "La inversió prevista per al 2026 es triplica, fet que provocarà un flux de caixa negatiu durant l'any."
+    },
+    {
+      "title": "Treballadors de Meta, us paguen per aquestes pulsacions de tecles?",
+      "link_id": "c_1b8ffd",
+      "source": "Engadget",
+      "date": "2026-04-22",
+      "time": "13:19",
+      "summary": "L'empresa de Mark Zuckerberg començarà a registrar l'activitat dels seus empleats per entrenar els seus models d'intel·ligència artificial."
+    },
+    {
+      "title": "Primer cop d'ull als nous canals personalitzats d'X impulsats per IA",
+      "link_id": "c_930854",
+      "source": "TechCrunch",
+      "date": "2026-04-22",
+      "time": "22:25",
+      "summary": "Les línies de temps personalitzades per la intel·ligència artificial Grok substitueixen les Comunitats i introdueixen nous espais publicitaris."
+    },
+    {
+      "title": "Com SpaceX es va avançar a una ronda de finançament amb una oferta de compra de 60.000 milions",
+      "link_id": "c_f201bd",
+      "source": "TechCrunch",
+      "date": "2026-04-22",
+      "time": "19:51",
+      "summary": "La startup d'IA Cursor atura la seva ronda de finançament davant la multimilionària proposta d'adquisició d'Elon Musk."
+    },
+    {
+      "title": "França confirma una filtració de dades a l'agència governamental que gestiona els documents d'identitat",
+      "link_id": "c_ad9081",
+      "source": "TechCrunch",
+      "date": "2026-04-22",
+      "time": "19:34",
+      "summary": "Uns pirates informàtics han robat informació personal d'un nombre indeterminat de ciutadans dels registres de passaports i identitat."
+    },
+    {
+      "title": "Threads afegeix xats en directe per fomentar la interacció en temps real",
+      "link_id": "c_3b5d6a",
+      "source": "TechCrunch",
+      "date": "2026-04-22",
+      "time": "17:00",
+      "summary": "Els usuaris podran enviar missatges, fotos, vídeos, enllaços i reaccions amb emojis en converses grupals en directe."
     }
   ]
 }

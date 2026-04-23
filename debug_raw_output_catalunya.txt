@@ -1,48 +1,16 @@
 {
-  "generated_at": "2024-05-24T16:00",
+  "generated_at": "2026-04-23T08:30",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [],
   "articles": [
     {
-      "title": "La central nuclear Vandellòs II activa la prealerta d'emergència per un incendi",
-      "link_id": "c_2b8007",
+      "title": "Tallada la circulació de la R13 i la R14 de Rodalies per un robatori de coure",
+      "link_id": "c_fb0a5a",
       "source": "Ara.cat",
-      "date": "2026-04-22",
-      "time": "11:15",
-      "summary": "El foc, originat en un sistema de ventilació, ha estat extingit ràpidament per la brigada interna sense causar danys majors."
-    },
-    {
-      "title": "Ensurt a la central nuclear de Vandellòs 2: un petit incendi obliga a activar la prealerta d'emergència",
-      "link_id": "c_1b7748",
-      "source": "RAC1",
-      "date": "2026-04-22",
-      "time": "16:04",
-      "summary": "La incidència ha durat només 24 minuts i no ha requerit aturar l'activitat de la instal·lació tarragonina."
-    },
-    {
-      "title": "TV3 no emet el ‘Telenotícies comarques’ per problemes tècnics",
-      "link_id": "c_1d1197",
-      "source": "VilaWeb",
-      "date": "2026-04-22",
-      "time": "13:20",
-      "summary": "Una incidència greu als servidors estructurals ha impedit l'emissió habitual i ha afectat també l'aplicació i el portal 3CatInfo."
-    },
-    {
-      "title": "Alteracions en la programació de TV3 i els seus serveis en el web per problemes als servidors",
-      "link_id": "c_b47586",
-      "source": "El Punt Avui",
-      "date": "2026-04-22",
-      "time": "16:42",
-      "summary": "La corporació ha hagut d'informar per xarxes socials d'aquesta caiguda informàtica que ha alterat tota la graella televisiva."
-    },
-    {
-      "title": "L'Hospital de Sant Pau implanta elèctrodes al cervell d'un jove amb síndrome de Tourette en una situació límit: \"Li ha canviat completament la vida\"",
-      "link_id": "c_a9d856",
-      "source": "RAC1",
-      "date": "2026-04-22",
-      "time": "08:48",
-      "summary": "La intervenció pionera ha permès al pacient de 21 anys recuperar la normalitat després de patir símptomes molt severs."
+      "date": "2026-04-23",
+      "time": "05:34",
+      "summary": "El robatori ha provocat un incendi de vegetació, ja extingit, interrompent el servei entre Montblanc i Vilaverd."
     },
     {
       "title": "Un noi amb síndrome de Tourette greu millora amb elèctrodes al cervell: \"El canvi és extraordinari\"",
@@ -50,7 +18,31 @@
       "source": "324.cat",
       "date": "2026-04-22",
       "time": "11:15",
-      "summary": "L'estimulació cerebral profunda aplicada pels especialistes ha aconseguit frenar els tics incapacitants que impedien el desenvolupament diari del jove."
+      "summary": "L'estimulació cerebral profunda a l'Hospital de Sant Pau aconsegueix aturar els símptomes incapacitants d'un pacient de 21 anys."
+    },
+    {
+      "title": "Nova era a Apple: Tim Cook deixa el càrrec de CEO després de 15 anys i el substituirà John Ternus",
+      "link_id": "c_559d01",
+      "source": "RAC1",
+      "date": "2026-04-21",
+      "time": "07:08",
+      "summary": "John Ternus assumirà la direcció al setembre, mentre que Cook passarà a presidir el consell d'administració de la companyia."
+    },
+    {
+      "title": "Domini .cat: 20 anys al servei de l'economia catalana",
+      "link_id": "c_a0efd8",
+      "source": "Via Empresa",
+      "date": "2026-04-23",
+      "time": "04:55",
+      "summary": "Creat el 2006, el primer domini lingüístic d'internet supera els 117.000 registres consolidant-se com a referent digital català."
+    },
+    {
+      "title": "Condemnat l’empresari mallorquí Salvador Llinàs per l’estafa d’Autoclick: Quasi cinc anys de presó",
+      "link_id": "c_038043",
+      "source": "Ara Balears",
+      "date": "2026-04-22",
+      "time": "08:39",
+      "summary": "L'acusat, detingut a Taiwan, ha acceptat la pena per vendre milers de vehicles que no havia pagat prèviament."
     },
     {
       "title": "Nestlé prepara un ERO a Espanya que afectarà la seu d'Esplugues i les plantes de Girona i Reus",
@@ -58,23 +50,15 @@
       "source": "324.cat",
       "date": "2026-04-21",
       "time": "16:13",
-      "summary": "La multinacional preveu acomiadar fins a 301 treballadors i detallarà l'afectació exacta per a cada centre a principis de maig."
+      "summary": "La mesura afectarà fins a 301 treballadors; la multinacional detallarà al maig l'impacte exacte a cada centre català."
     },
     {
-      "title": "Ficosa anuncia un ERO de 172 persones a la planta de Viladecavalls",
-      "link_id": "c_3784fd",
-      "source": "324.cat",
-      "date": "2026-04-21",
-      "time": "22:56",
-      "summary": "L'empresa de components d'automoció atribueix aquesta dràstica retallada de plantilla a la davallada general de producció del sector automobilístic."
-    },
-    {
-      "title": "El Port de Barcelona inicia un cicle de forta inversió",
-      "link_id": "c_b33b06",
-      "source": "Ara.cat",
-      "date": "2026-04-22",
-      "time": "15:13",
-      "summary": "El nou pla estratègic 2026-2030 preveu actuacions històriques en accessos i terminals que s'estendran fins a l'any 2040."
+      "title": "L'FBI podia accedir a missatges esborrats de l'iPhone: Apple ha reaccionat llançant iOS 26.4.2",
+      "link_id": "c_ae5128",
+      "source": "El Nacional.cat",
+      "date": "2026-04-23",
+      "time": "09:55",
+      "summary": "Aquesta actualització d'urgència soluciona una greu vulnerabilitat que permetia recuperar dades teòricament eliminades dels dispositius."
     },
     {
       "title": "Compte enrere per a la inauguració del CaixaResearch Institute a Barcelona",
@@ -82,7 +66,23 @@
       "source": "La Vanguardia (en català)",
       "date": "2026-04-19",
       "time": "07:53",
-      "summary": "El nou centre científic dedicat a la immunologia obrirà les portes aquest divendres amb la presència del Rei."
+      "summary": "El nou centre especialitzat en immunologia obrirà les portes aquest divendres amb un acte presidit pel Rei."
+    },
+    {
+      "title": "Cursa espacial: la batalla per la Lluna",
+      "link_id": "c_939a70",
+      "source": "Ara.cat",
+      "date": "2026-04-20",
+      "time": "05:00",
+      "summary": "El programa Artemis de la NASA accelera els seus plans per avançar-se a la Xina en l'exploració lunar."
+    },
+    {
+      "title": "El Japó s'encamina cap a un teló d’acer tecnològic per protegir sectors estratègics",
+      "link_id": "c_9edee7",
+      "source": "Ara.cat",
+      "date": "2026-04-22",
+      "time": "05:00",
+      "summary": "Tòquio endureix el control sobre semiconductors i intel·ligència artificial per protegir les seves infraestructures davant la rivalitat amb Pequín."
     }
   ]
 }
