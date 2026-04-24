@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-04-23T13:52",
+  "generated_at": "2024-05-24T16:00",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "SK Hynix registra un benefici rècord al primer trimestre per l'augment dels preus de la memòria",
-      "link_id": "c_5c66df",
+      "title": "La Casa Blanca acusa la Xina de robatori de tecnologia d'IA a \"escala industrial\"",
+      "link_id": "c_121d3a",
+      "source": "Financial Times",
+      "date": "2026-04-24",
+      "time": "10:38",
+      "summary": "Funcionaris nord-americans denuncien que entitats xineses sostreuen sistemàticament innovacions dels laboratoris dels Estats Units."
+    },
+    {
+      "title": "Les accions d'Intel assoleixen màxims històrics per l'auge de vendes d'IA",
+      "link_id": "c_6878d4",
+      "source": "Financial Times",
+      "date": "2026-04-24",
+      "time": "10:31",
+      "summary": "El fabricant de xips nord-americà es dispara a la borsa gràcies a la reestructuració i la forta demanda."
+    },
+    {
+      "title": "Cohere i Aleph Alpha acorden una aliança d'IA transatlàntica de 20.000 milions de dòlars",
+      "link_id": "c_3fa0ff",
+      "source": "Financial Times",
+      "date": "2026-04-24",
+      "time": "09:20",
+      "summary": "Les empreses emergents desenvoluparan sistemes d'intel·ligència artificial sobirans per reduir la dependència dels Estats Units i la Xina."
+    },
+    {
+      "title": "Meta retallarà un 10% de la plantilla per intensificar la seva aposta per la IA",
+      "link_id": "c_02049f",
       "source": "CNBC Technology",
       "date": "2026-04-23",
-      "time": "02:45",
-      "summary": "L'alta demanda d'intel·ligència artificial dispara els ingressos del fabricant sud-coreà, consolidant el seu domini en el sector tecnològic."
+      "time": "20:23",
+      "summary": "L'empresa acomiadarà uns 8.000 treballadors per compensar les enormes inversions en nous centres de dades i tecnologia."
     },
     {
-      "title": "SK Hynix, proveïdor de Nvidia, celebra un \"canvi estructural\" després d'un altre trimestre rècord",
-      "link_id": "c_3dc9a7",
-      "source": "Financial Times",
-      "date": "2026-04-23",
-      "time": "02:33",
-      "summary": "L'escassetat de subministrament fa que els clients prioritzin l'adquisició de xips per davant del preu, assegurant vendes futures."
-    },
-    {
-      "title": "La IA ampliarà la desigualtat entre els treballadors?",
-      "link_id": "c_622548",
-      "source": "Financial Times",
-      "date": "2026-04-23",
-      "time": "11:30",
-      "summary": "Una enquesta recent revela com l'adopció tecnològica podria polaritzar el mercat laboral als Estats Units i el Regne Unit."
-    },
-    {
-      "title": "Anthropic i Freshfields acorden crear eines legals d'IA",
-      "link_id": "c_26e31b",
-      "source": "Financial Times",
-      "date": "2026-04-23",
-      "time": "11:00",
-      "summary": "L'empresa tecnològica aprofitarà l'experiència del prestigiós bufet d'advocats per desenvolupar solucions comercialitzables per a altres firmes del sector."
-    },
-    {
-      "title": "DeepSeek busca una valoració de 20.000 milions de dòlars per evitar la fuga de talent",
-      "link_id": "c_9c06c9",
-      "source": "Financial Times",
-      "date": "2026-04-23",
-      "time": "10:04",
-      "summary": "La start-up xinesa capta capital inèditament per retenir els seus investigadors clau davant l'agressiva competència d'altres empreses d'IA."
-    },
-    {
-      "title": "Anthropic busca un executiu per negociar centres de dades i impulsar la seva expansió d'IA a Europa",
-      "link_id": "c_cb4263",
+      "title": "OpenAI anuncia GPT-5.5, el seu darrer model d'intel·ligència artificial",
+      "link_id": "c_0089af",
       "source": "CNBC Technology",
-      "date": "2026-04-23",
-      "time": "09:23",
-      "summary": "La companyia inverteix fortament en infraestructura europea per escalar els seus models, seguint la tendència dels grans gegants tecnològics."
+      "date": "2026-04-24",
+      "time": "10:14",
+      "summary": "Aquesta nova versió millora significativament la programació, l'ús d'ordinadors i les capacitats de recerca avançada."
     },
     {
-      "title": "Microsoft amplia la seva presència d'IA a Austràlia amb una inversió de 18.000 milions de dòlars",
-      "link_id": "c_65c508",
-      "source": "CNBC Technology",
-      "date": "2026-04-23",
-      "time": "06:20",
-      "summary": "Aquesta injecció de capital reforçarà la ciberseguretat i la infraestructura digital del país, consolidant l'estratègia global de l'empresa."
-    },
-    {
-      "title": "El capital privat tempteja OpenAI i Anthropic",
-      "link_id": "c_641524",
+      "title": "Les empreses de creixement més ràpid d'Amèrica",
+      "link_id": "c_49f0d2",
       "source": "Financial Times",
-      "date": "2026-04-23",
-      "time": "04:00",
-      "summary": "Les firmes d'inversió busquen aliances estratègiques per accelerar la integració de la intel·ligència artificial en el teixit empresarial."
+      "date": "2026-04-24",
+      "time": "10:03",
+      "summary": "El rànquing anual destaca l'auge de les empreses emergents d'IA i defensa, i la innovació tecnològica al continent."
     },
     {
-      "title": "El pioner quantitatiu Martin Lueck adverteix sobre cedir el trading a la IA",
-      "link_id": "c_857e11",
+      "title": "Una empresa de teràpia combina intel·ligència emocional i artificial per liderar el rànquing",
+      "link_id": "c_b5f3a6",
       "source": "Financial Times",
-      "date": "2026-04-23",
-      "time": "04:00",
-      "summary": "El cofundador d'Aspect demana prudència davant l'automatització financera, contrastant amb altres inversors que ja confien plenament en les màquines."
+      "date": "2026-04-24",
+      "time": "10:00",
+      "summary": "Grow Therapy encapçala la llista de creixement empresarial a Amèrica explorant el potencial de les noves tecnologies."
     },
     {
-      "title": "Els treballadors amb ingressos alts s'avancen en IA mentre s'amplia la bretxa laboral",
-      "link_id": "c_8ae62f",
+      "title": "Les empreses que prosperen en temps turbulents per a la informàtica i el programari",
+      "link_id": "c_f46eee",
       "source": "Financial Times",
-      "date": "2026-04-23",
-      "time": "04:00",
-      "summary": "L'ús desigual d'aquestes noves eines tecnològiques amenaça d'agreujar les diferències salarials i de gènere en els entorns professionals."
+      "date": "2026-04-24",
+      "time": "10:00",
+      "summary": "Diversos negocis innovadors americans aconsegueixen l'èxit i mantenen el creixement malgrat la inestabilitat recent del sector tecnològic."
+    },
+    {
+      "title": "Les empreses d'IA i defensa dominen la inversió de creixement als EUA",
+      "link_id": "c_0ef220",
+      "source": "Financial Times",
+      "date": "2026-04-24",
+      "time": "10:00",
+      "summary": "Els inversors mostren un interès insaciable per aquests sectors, mentre altres indústries tenen dificultats per obtenir finançament."
+    },
+    {
+      "title": "La tecnologia innovadora revoluciona la gestió de patrimonis al Canadà",
+      "link_id": "c_8893e0",
+      "source": "Financial Times",
+      "date": "2026-04-24",
+      "time": "10:00",
+      "summary": "Les noves eines digitals democratitzen serveis financers exclusius, posant-los a l'abast d'un públic molt més ampli."
     }
   ]
 }

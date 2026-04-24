@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-04-23T13:52",
+  "generated_at": "2024-05-21T16:00",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Google actualitza Workspace per convertir la IA en el teu nou becari d'oficina",
-      "link_id": "c_bd474b",
-      "source": "TechCrunch",
-      "date": "2026-04-22",
-      "time": "22:44",
-      "summary": "La nova plataforma Gemini Enterprise Agent automatitza tasques i integra assistents intel·ligents per millorar la productivitat empresarial."
+      "title": "'Us estimem i volem que guanyeu': OpenAI llança GPT-5.5 per a ChatGPT",
+      "link_id": "c_7b5f40",
+      "source": "TechRadar",
+      "date": "2026-04-23",
+      "time": "22:13",
+      "summary": "La nova versió millora la comprensió contextual i l'eficiència, apropant l'empresa a la creació d'una superaplicació d'intel·ligència artificial."
     },
     {
-      "title": "Musk es compromet a arreglar els Tesla de 2019-2023 que no poden conduir de manera totalment autònoma",
-      "link_id": "c_f4e464",
+      "title": "Meta retallarà un de cada deu llocs de treball després d'invertir milers de milions en IA",
+      "link_id": "c_eab683",
+      "source": "BBC Technology",
+      "date": "2026-04-24",
+      "time": "07:31",
+      "summary": "Aquesta reestructuració afectarà uns vuit mil treballadors i busca compensar les enormes despeses recents en infraestructura tecnològica."
+    },
+    {
+      "title": "Cansat de Gemini i ChatGPT? Claude ara s'integra amb Spotify, Uber i altres aplicacions",
+      "link_id": "c_8b9f39",
+      "source": "Digital Trends",
+      "date": "2026-04-24",
+      "time": "06:21",
+      "summary": "L'assistent d'Anthropic permet gestionar reserves, compres i llistes de reproducció directament des del xat, sense canviar de pestanya."
+    },
+    {
+      "title": "Instagram llança un altre clon de Snapchat",
+      "link_id": "c_9a9117",
+      "source": "The Verge",
+      "date": "2026-04-24",
+      "time": "07:37",
+      "summary": "L'aplicació 'Instants', provada a Espanya i Itàlia, permet enviar fotografies efímeres que desapareixen després de ser vistes una vegada."
+    },
+    {
+      "title": "Un soldat dels EUA, detingut per guanyar més de 400.000 dòlars a Polymarket amb informació classificada sobre Maduro",
+      "link_id": "c_86197c",
       "source": "Engadget",
-      "date": "2026-04-23",
-      "time": "09:50",
-      "summary": "Després d'augmentar la inversió a 25.000 milions, Tesla actualitzarà el maquinari dels vehicles antics per permetre la conducció autònoma."
+      "date": "2026-04-24",
+      "time": "01:45",
+      "summary": "L'acusat hauria aprofitat dades governamentals secretes sobre l'operació de captura del president veneçolà per lucrar-se al mercat de prediccions."
     },
     {
-      "title": "iOS 26.4.2 soluciona una vulnerabilitat de seguretat de l'iPhone explotada per l'FBI",
-      "link_id": "c_cd028d",
-      "source": "TechRadar",
-      "date": "2026-04-23",
-      "time": "10:18",
-      "summary": "Apple ha corregit un error en les notificacions que permetia a les autoritats extreure missatges esborrats de l'aplicació Signal."
+      "title": "L'incident de dades del Biobank va ser causat per 'unes quantes pomes podrides', segons el seu director",
+      "link_id": "c_c3b867",
+      "source": "BBC Technology",
+      "date": "2026-04-24",
+      "time": "10:00",
+      "summary": "La informació mèdica de mig milió de voluntaris britànics va aparèixer a la venda a la plataforma xinesa Alibaba."
     },
     {
-      "title": "Mozilla afirma que la IA Mythos d'Anthropic és tan capaç com els millors investigadors de seguretat",
-      "link_id": "c_f95431",
-      "source": "TechRadar",
-      "date": "2026-04-23",
-      "time": "10:03",
-      "summary": "Aquest nou model d'intel·ligència artificial ha aconseguit descobrir 271 vulnerabilitats a Firefox, marcant una fita en la ciberseguretat automatitzada."
+      "title": "Noruega planeja prohibir les xarxes socials als menors de 16 anys i responsabilitzar les plataformes de verificar-ne l'edat",
+      "link_id": "c_17fb17",
+      "source": "The Next Web",
+      "date": "2026-04-24",
+      "time": "06:50",
+      "summary": "Aquesta mesura segueix els passos d'Austràlia per protegir els joves dels riscos digitals, com l'addicció i el ciberassetjament."
     },
     {
-      "title": "Google Cloud llança dos nous xips d'IA per competir amb Nvidia",
-      "link_id": "c_f980db",
-      "source": "TechCrunch",
-      "date": "2026-04-22",
-      "time": "18:39",
-      "summary": "Els nous processadors TPU 8t i 8i estan dissenyats específicament per optimitzar l'entrenament i la inferència de models d'IA."
+      "title": "Les accions d'Intel es disparen un 28% i baten rècords després d'un primer trimestre sòlid amb previsions a l'alça",
+      "link_id": "c_1cbbba",
+      "source": "Tom's Hardware",
+      "date": "2026-04-24",
+      "time": "11:30",
+      "summary": "L'auge de la intel·ligència artificial ha impulsat els ingressos del fabricant de xips molt per sobre de les expectatives."
     },
     {
-      "title": "La IA supera el repte del ping-pong mentre continua l'ascens de les màquines",
-      "link_id": "c_3e41de",
-      "source": "The Register",
-      "date": "2026-04-23",
-      "time": "11:15",
-      "summary": "Un robot desenvolupat per Sony ha aconseguit guanyar jugadors d'elit de tennis taula, demostrant grans avenços en robòtica esportiva."
+      "title": "Porsche revela un Cayenne Coupé totalment elèctric amb un gran augment de potència",
+      "link_id": "c_54a834",
+      "source": "Digital Trends",
+      "date": "2026-04-24",
+      "time": "11:29",
+      "summary": "El nou vehicle esportiu arribarà al mercat a finals d'estiu, oferint un disseny més aerodinàmic i un rendiment excepcional."
     },
     {
-      "title": "Meta rastreja l'activitat del seu personal per ensenyar a la IA com substituir-los",
-      "link_id": "c_236ddd",
-      "source": "TechRadar",
-      "date": "2026-04-23",
-      "time": "03:00",
-      "summary": "L'empresa recopila dades de tecleig i clics dels empleats per entrenar agents intel·ligents capaços d'automatitzar tasques laborals rutinàries."
-    },
-    {
-      "title": "OpenAI presenta Workspace Agents, el successor dels GPT personalitzats per a empreses",
-      "link_id": "c_624d23",
-      "source": "VentureBeat",
-      "date": "2026-04-22",
-      "time": "23:53",
-      "summary": "Aquests nous assistents s'integren amb aplicacions de tercers per automatitzar fluxos de treball i tasques complexes en segon pla."
-    },
-    {
-      "title": "Meta afegeix una nova funció de xat en directe a Threads per a grans esdeveniments",
-      "link_id": "c_feb969",
-      "source": "CNET",
-      "date": "2026-04-22",
-      "time": "23:13",
-      "summary": "La plataforma permetrà als usuaris participar en converses grupals en temps real durant esdeveniments culturals i esportius destacats."
-    },
-    {
-      "title": "La rebaixa de preu de l'Xbox Game Pass no sorprèn els analistes després de l'arribada de Call of Duty",
-      "link_id": "c_4d3b57",
-      "source": "TechRadar",
-      "date": "2026-04-23",
-      "time": "11:41",
-      "summary": "Microsoft redueix les tarifes de la seva subscripció i elimina l'accés el primer dia als futurs jocs de la franquícia."
+      "title": "Dues empreses emergents d'IA del Canadà i Alemanya es fusionen per competir amb Silicon Valley",
+      "link_id": "c_4cf4fc",
+      "source": "NYT Technology",
+      "date": "2026-04-24",
+      "time": "10:29",
+      "summary": "L'acord, valorat en milions, busca oferir una alternativa sòlida a les grans tecnològiques nord-americanes en el sector empresarial."
     }
   ]
 }

@@ -1,27 +1,27 @@
 {
-  "generated_at": "2024-05-24T16:20",
+  "generated_at": "2024-05-20T15:00",
   "id": "events",
   "title": "Trobades",
   "sources_checked": [],
   "articles": [
     {
-      "title": "¿Apareces cuando la IA responde? Introducción al GEO",
+      "title": "Apareixes quan la IA respon? Introducció al GEO",
       "link_id": "c_d06691",
       "source": "WordPress BCN",
       "date": "2026-04-11",
       "time": "16:31",
-      "summary": "Descobreix com optimitzar la teva web per aparèixer a les respostes de motors generatius com ChatGPT o Gemini."
+      "summary": "Descobreix com optimitzar la teva web per a motors generatius (GEO) i aparèixer a les respostes d'IA."
     },
     {
-      "title": "Flutter & GDG Barcelona Tech Talk – Creando tu primer plugin de Dart Analyzer",
+      "title": "Flutter & GDG Barcelona Tech Talk – Creant el teu primer plugin de Dart Analyzer",
       "link_id": "c_661a3c",
       "source": "GDG Barcelona",
       "date": "2026-04-12",
       "time": "16:41",
-      "summary": "Sessió presencial a 42 Barcelona per aprendre a crear regles de lint personalitzades amb el nou sistema de connectors."
+      "summary": "Aprèn a crear regles de lint personalitzades amb el nou sistema de plugins de Dart i Flutter."
     },
     {
-      "title": "Networking for AI Professionals around the world - May 12",
+      "title": "Networking per a professionals de la IA d'arreu del món - 12 de maig",
       "link_id": "c_16ce7a",
       "source": "AI Professionals Barcelona",
       "date": "2026-04-12",
@@ -34,7 +34,7 @@
       "source": "Free Software Barcelona",
       "date": "2026-04-20",
       "time": "09:51",
-      "summary": "Alberto Larraz explica l'evolució d'aquesta alternativa de programari lliure des dels escriptoris virtuals fins a l'execució d'IA."
+      "summary": "Alberto Larraz explica l'evolució d'IsardVDI des d'escriptoris virtuals educatius fins a l'execució d'intel·ligència artificial local."
     }
   ]
 }

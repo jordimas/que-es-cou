@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T13:52",
+  "generated_at": "2026-04-24T12:00",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
@@ -11,22 +11,22 @@
     {
       "name": "El Periódico",
       "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
-      "articles_found": 0
+      "articles_found": 1
     },
     {
       "name": "RAC1",
       "url": "https://www.rac1.cat/rss/home.xml",
-      "articles_found": 6
+      "articles_found": 4
     },
     {
       "name": "La Vanguardia (en català)",
       "url": "https://www.lavanguardia.com/rss/encatala.xml",
-      "articles_found": 9
+      "articles_found": 8
     },
     {
       "name": "VilaWeb",
       "url": "https://www.vilaweb.cat/feed/",
-      "articles_found": 0
+      "articles_found": 2
     },
     {
       "name": "NacióDigital",
@@ -36,7 +36,7 @@
     {
       "name": "324.cat",
       "url": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0",
-      "articles_found": 3
+      "articles_found": 2
     },
     {
       "name": "Softcatalà",
@@ -46,7 +46,7 @@
     {
       "name": "El Nacional.cat",
       "url": "https://www.elnacional.cat/uploads/feeds/feed_ca.xml",
-      "articles_found": 9
+      "articles_found": 7
     },
     {
       "name": "El Mon.cat",
@@ -66,7 +66,7 @@
     {
       "name": "Betevé",
       "url": "https://beteve.cat/feed/",
-      "articles_found": 2
+      "articles_found": 0
     },
     {
       "name": "El Punt Avui",
@@ -76,7 +76,7 @@
     {
       "name": "Segre",
       "url": "https://www.segre.com/ca/rss/home.xml",
-      "articles_found": 3
+      "articles_found": 0
     },
     {
       "name": "Regio7",
@@ -101,7 +101,7 @@
     {
       "name": "Nuvol",
       "url": "https://www.nuvol.com/feed",
-      "articles_found": 0
+      "articles_found": 2
     },
     {
       "name": "Diari Mes",
@@ -116,7 +116,7 @@
     {
       "name": "Cugat.cat",
       "url": "https://www.cugat.cat/feed/",
-      "articles_found": 1
+      "articles_found": 0
     },
     {
       "name": "CatalunyaPress",
@@ -126,7 +126,7 @@
     {
       "name": "Tot Barcelona",
       "url": "https://www.totbarcelona.cat/feed/",
-      "articles_found": 3
+      "articles_found": 1
     },
     {
       "name": "e-notícies",
@@ -156,7 +156,7 @@
     {
       "name": "MetaData",
       "url": "https://www.metadata.cat/sindica",
-      "articles_found": 11
+      "articles_found": 13
     },
     {
       "name": "El Temps",
@@ -166,12 +166,12 @@
     {
       "name": "Àpunt",
       "url": "https://www.apuntmedia.es/rss/",
-      "articles_found": 1
+      "articles_found": 5
     },
     {
       "name": "El Periòdic d'Ontinyent",
       "url": "https://www.elperiodicvalencia.com/?feed=rss2",
-      "articles_found": 0
+      "articles_found": 4
     },
     {
       "name": "Saó",
@@ -186,12 +186,12 @@
     {
       "name": "IB3 Notícies",
       "url": "https://ib3.org/feed/",
-      "articles_found": 2
+      "articles_found": 0
     },
     {
       "name": "Ara Balears",
       "url": "https://www.arabalears.cat/rss/",
-      "articles_found": 6
+      "articles_found": 4
     },
     {
       "name": "Manacor Comarcal",
@@ -201,7 +201,7 @@
     {
       "name": "Via Empresa",
       "url": "https://www.viaempresa.cat/uploads/feeds/feed_via-empresa-2024_ca.xml",
-      "articles_found": 4
+      "articles_found": 3
     },
     {
       "name": "Lúdica",
@@ -216,84 +216,84 @@
   ],
   "articles": [
     {
-      "title": "Seat inaugura la seva planta d’economia circular a la Zona Franca per reciclar peces de cotxes",
-      "link_id": "c_18c3b7",
-      "source": "Betevé",
-      "date": "2026-04-23",
-      "time": "11:44",
-      "summary": "La nova instal·lació desmuntarà vehicles per reaprofitar-ne les peces, impulsant la sostenibilitat en el sector de l'automoció."
+      "title": "Meta acomiadarà 8.000 treballadors, un 10% de la plantilla, per a guanyar eficiència i finançar la IA",
+      "link_id": "c_6f84e4",
+      "source": "Àpunt",
+      "date": "2026-04-24",
+      "time": "07:54",
+      "summary": "La matriu de Facebook i Instagram paralitza 6.000 contractacions i aposta fortament per finançar la intel·ligència artificial."
     },
     {
-      "title": "Leitat impulsa a Terrassa un laboratori pioner per reciclar bateries i recuperar materials crítics",
-      "link_id": "c_0ee3cc",
-      "source": "MetaData",
-      "date": "2026-04-23",
-      "time": "11:50",
-      "summary": "Aquest centre pioner a Terrassa permetrà recuperar materials crítics de les bateries, clau per a la transició energètica."
+      "title": "Europa s’acosta a llançar el seu propi Bizum públic’ per competir amb Visa, Apple Pay i les criptomonedes",
+      "link_id": "c_b1b2ce",
+      "source": "El Periódico",
+      "date": "2026-04-24",
+      "time": "12:19",
+      "summary": "El Banc Central Europeu acorda els estàndards tècnics per implementar aquesta nova moneda digital a tota l'eurozona."
     },
     {
-      "title": "Canvi d’era a Apple: Tim Cook deixarà el càrrec i John Ternus assumirà la direcció",
-      "link_id": "c_2d602f",
-      "source": "MetaData",
-      "date": "2026-04-21",
-      "time": "09:21",
-      "summary": "John Ternus assumirà el lideratge al setembre, marcant una nova etapa amb un enfocament més tècnic per a l'empresa."
-    },
-    {
-      "title": "Nestlé prepara un ERO a Espanya que afectarà la seu d'Esplugues i les plantes de Girona i Reus",
-      "link_id": "c_3024ac",
-      "source": "324.cat",
-      "date": "2026-04-21",
-      "time": "16:13",
-      "summary": "La mesura afectarà fins a 301 treballadors a Catalunya, generant incertesa sobre el futur de les plantes locals."
-    },
-    {
-      "title": "L’Executiu aprova el Pla d’Habitatge que blinda de per vida el parc públic",
-      "link_id": "c_c28c57",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-04-22",
-      "time": "08:59",
-      "summary": "La mesura busca garantir la disponibilitat d'habitatge assequible a llarg termini, evitant l'especulació amb els pisos protegits."
-    },
-    {
-      "title": "Salut valora sancionar Sant Pau i Sant Joan de Déu per “errors” en la detecció del nadó maltractat",
-      "link_id": "c_c41804",
-      "source": "Betevé",
-      "date": "2026-04-23",
-      "time": "09:54",
-      "summary": "S'investiguen possibles negligències en els protocols de detecció de maltractament infantil als hospitals abans de l'ingrés a Vall d'Hebron."
-    },
-    {
-      "title": "El túnel de Rubí reobrirà dimarts parcialment després de set setmanes d'obres d'emergència",
-      "link_id": "c_a5c112",
-      "source": "324.cat",
-      "date": "2026-04-22",
-      "time": "21:38",
-      "summary": "La reobertura parcial alleujarà les restriccions de trànsit ferroviari, tot i que inicialment només per a trens de mercaderies."
-    },
-    {
-      "title": "Domini .cat: 20 anys al servei de l'economia catalana",
-      "link_id": "c_a0efd8",
+      "title": "El 72,6% de les persones ocupades en el sector TIC són homes i el 27,4% dones, segons l'ICD",
+      "link_id": "c_4df9e0",
       "source": "Via Empresa",
-      "date": "2026-04-23",
-      "time": "04:55",
-      "summary": "Dues dècades després de la seva creació, el domini s'ha consolidat com un referent digital per a la llengua catalana."
+      "date": "2026-04-24",
+      "time": "11:31",
+      "summary": "L'informe de l'ICD alerta que la bretxa salarial al sector tecnològic català se situa en un 10%."
     },
     {
-      "title": "L’hospital del Mar inventa una IA que diagnosticarà amb un vídeo de la cara",
-      "link_id": "c_e189fb",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-04-21",
-      "time": "04:25",
-      "summary": "Aquesta innovació tecnològica promet revolucionar l'atenció primària, permetent detectar malalties ràpidament a través de l'anàlisi d'expressions facials."
-    },
-    {
-      "title": "El Japó s'encamina cap a un teló d’acer tecnològic per protegir sectors estratègics",
-      "link_id": "c_9edee7",
+      "title": "Cursa espacial: la batalla per la Lluna",
+      "link_id": "c_939a70",
       "source": "Ara.cat",
-      "date": "2026-04-22",
+      "date": "2026-04-20",
       "time": "05:00",
-      "summary": "Tòquio endureix les normatives per blindar infraestructures crítiques davant la creixent tensió geopolítica i tecnològica amb la Xina."
+      "summary": "El programa Artemis de la NASA busca avançar-se a la Xina en la nova exploració lunar tripulada."
+    },
+    {
+      "title": "Els repartidors de Glovo comencen una vaga que s’allargarà tot el cap de setmana",
+      "link_id": "c_389bc8",
+      "source": "VilaWeb",
+      "date": "2026-04-24",
+      "time": "11:13",
+      "summary": "La protesta respon a l'anunci de la plataforma d'acomiadar 750 treballadors arreu de l'estat espanyol."
+    },
+    {
+      "title": "Cop als autònoms societaris i col·laboradors: fins a 135 euros més de quota amb la nova base",
+      "link_id": "c_d6880c",
+      "source": "324.cat",
+      "date": "2026-04-24",
+      "time": "06:38",
+      "summary": "L'increment del 42% de la base mínima afectarà directament uns 112.000 treballadors per compte propi a Catalunya."
+    },
+    {
+      "title": "Pagar amb Bizum a les botigues físiques serà una realitat a partir del 18 de maig: com funciona i qui ho podrà fer?",
+      "link_id": "c_fc09b3",
+      "source": "RAC1",
+      "date": "2026-04-24",
+      "time": "13:03",
+      "summary": "Inicialment, només els clients de CaixaBank, Banc Sabadell i Bankinter podran utilitzar aquest mètode de pagament presencial."
+    },
+    {
+      "title": "Les AFA del Pla de Mallorca s’uneixen per endarrerir el primer mòbil fins a 14 anys",
+      "link_id": "c_5baa74",
+      "source": "Ara Balears",
+      "date": "2026-04-24",
+      "time": "06:38",
+      "summary": "Les famílies acorden voluntàriament no comprar telèfons intel·ligents als fills fins a segon d'ESO per frenar-ne l'ús precoç."
+    },
+    {
+      "title": "Mossos de paisà en instituts per \"garantir la convivència\", un pla pilot amb rebuig dels docents",
+      "link_id": "c_caf20c",
+      "source": "324.cat",
+      "date": "2026-04-23",
+      "time": "13:46",
+      "summary": "Tretze centres educatius posen a prova aquesta iniciativa durant l'abril, malgrat l'oposició frontal dels sindicats de professors."
+    },
+    {
+      "title": "Sanitat actualitzarà els sistemes informàtics per millorar el rendiment de les aplicacions",
+      "link_id": "c_7a4d99",
+      "source": "El Periòdic d'Ontinyent",
+      "date": "2026-04-24",
+      "time": "11:49",
+      "summary": "La intervenció nocturna afectarà temporalment l'accés al SIP i GVA+Salut, però l'activitat assistencial es mantindrà amb normalitat."
     }
   ]
 }
