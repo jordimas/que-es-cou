@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-04-23T18:03",
+  "generated_at": "2026-04-24T10:56",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "El nou model d'IA Mythos d'Anthropic fa saltar les alarmes mundials",
-      "link_id": "c_3175a9",
-      "source": "NYT Technology",
-      "date": "2026-04-22",
-      "time": "19:48",
-      "summary": "Aquest model ha provocat respostes d'emergència d'agències d'intel·ligència i bancs centrals per la seva capacitat de trobar vulnerabilitats."
-    },
-    {
-      "title": "Google actualitza Workspace per convertir la IA en el teu nou becari",
-      "link_id": "c_bd474b",
-      "source": "TechCrunch",
-      "date": "2026-04-22",
-      "time": "22:44",
-      "summary": "La companyia integra noves funcions automatitzades impulsades per Workspace Intelligence per facilitar la gestió de tasques ofimàtiques diàries."
-    },
-    {
-      "title": "Apple soluciona una vulnerabilitat d'iOS explotada per l'FBI",
-      "link_id": "c_d8966a",
-      "source": "ZDNet",
+      "title": "«Us estimem i volem que guanyeu»: OpenAI llança GPT-5.5 per a ChatGPT",
+      "link_id": "c_7b5f40",
+      "source": "TechRadar",
       "date": "2026-04-23",
-      "time": "16:29",
-      "summary": "L'actualització iOS 26.4.2 corregeix un error que permetia a les autoritats recuperar missatges esborrats de l'aplicació Signal."
+      "time": "22:13",
+      "summary": "La nova versió millora la fiabilitat i utilitat del model, apropant l'empresa a la creació d'una superaplicació d'intel·ligència artificial."
     },
     {
-      "title": "SpaceX començarà a fabricar les seves pròpies GPU",
-      "link_id": "c_3ebd3d",
-      "source": "Tom's Hardware",
-      "date": "2026-04-23",
-      "time": "15:00",
-      "summary": "L'empresa d'Elon Musk produirà xips propis per evitar l'escassetat de silici i complir els seus objectius d'intel·ligència artificial."
+      "title": "Meta retallarà un de cada deu llocs de treball després d'invertir milers de milions en IA",
+      "link_id": "c_eab683",
+      "source": "BBC Technology",
+      "date": "2026-04-24",
+      "time": "07:31",
+      "summary": "Aquests acomiadaments, previstos per al maig, afectaran uns 8.000 empleats en la reestructuració més gran de l'empresa des del 2023."
     },
     {
-      "title": "El nou model d'imatges d'OpenAI raona abans de dibuixar",
-      "link_id": "c_ee000f",
+      "title": "Cansat de Gemini i ChatGPT? Claude ara s'integra amb Spotify, Uber i altres aplicacions",
+      "link_id": "c_8b9f39",
+      "source": "Digital Trends",
+      "date": "2026-04-24",
+      "time": "06:21",
+      "summary": "El xatbot d'Anthropic permet connectar serveis personals per planificar, comprar i reservar directament des d'una única conversa."
+    },
+    {
+      "title": "Noruega planeja prohibir les xarxes socials als menors de 16 anys i responsabilitzar-ne les plataformes",
+      "link_id": "c_17fb17",
       "source": "The Next Web",
-      "date": "2026-04-23",
-      "time": "13:24",
-      "summary": "ChatGPT Images 2.0 millora la composició, cerca context a la xarxa i renderitza text amb una precisió gairebé perfecta."
+      "date": "2026-04-24",
+      "time": "06:50",
+      "summary": "El govern noruec segueix els passos d'Austràlia amb una nova legislació per protegir els joves dels riscos digitals."
     },
     {
-      "title": "L'historial mèdic de mig milió de britànics, a la venda en un web xinès",
-      "link_id": "c_75335f",
+      "title": "Austràlia s'uneix als països que proven Claude Mythos per detectar noves vulnerabilitats",
+      "link_id": "c_ab5324",
+      "source": "TechRadar",
+      "date": "2026-04-23",
+      "time": "21:30",
+      "summary": "El govern australià col·labora amb Anthropic per avaluar aquest potent model de ciberseguretat, que ha generat alarma a escala global."
+    },
+    {
+      "title": "Un soldat nord-americà, detingut per guanyar més de 400.000 dòlars a Polymarket amb informació classificada sobre Maduro",
+      "link_id": "c_86197c",
+      "source": "Engadget",
+      "date": "2026-04-24",
+      "time": "01:45",
+      "summary": "L'acusat hauria utilitzat dades governamentals secretes per apostar amb èxit sobre la captura del president veneçolà al mercat de prediccions."
+    },
+    {
+      "title": "Els ingressos d'Intel es disparen impulsats per l'auge de la intel·ligència artificial",
+      "link_id": "c_05beda",
+      "source": "NYT Technology",
+      "date": "2026-04-23",
+      "time": "22:35",
+      "summary": "El fabricant de xips ha superat les expectatives de Wall Street amb un augment del 7% en les seves vendes."
+    },
+    {
+      "title": "El gegant de les xarxes socials llança una nova aplicació de fotos efímeres",
+      "link_id": "c_1d0f39",
+      "source": "Android Authority",
+      "date": "2026-04-23",
+      "time": "21:31",
+      "summary": "Instagram prova «Instants», una plataforma independent centrada en missatges que desapareixen en 24 hores, imitant clarament el format de Snapchat."
+    },
+    {
+      "title": "Un memoràndum de la Casa Blanca denuncia un robatori massiu d'IA per part d'empreses xineses",
+      "link_id": "c_5e3d6b",
+      "source": "BBC Technology",
+      "date": "2026-04-24",
+      "time": "00:58",
+      "summary": "L'administració nord-americana acusa actors recolzats per Pequín de copiar models d'intel·ligència artificial a escala industrial per afavorir els seus interessos."
+    },
+    {
+      "title": "Microsoft i Meta anuncien grans reduccions de plantilla mentre inverteixen fortament en IA",
+      "link_id": "c_583893",
       "source": "The Guardian Tech",
       "date": "2026-04-23",
-      "time": "17:33",
-      "summary": "Les dades confidencials dels voluntaris del projecte UK Biobank s'han filtrat i posat a la venda a Alibaba."
-    },
-    {
-      "title": "Xbox prepara un pla personalitzable per a Game Pass",
-      "link_id": "c_e0a36b",
-      "source": "TechRadar",
-      "date": "2026-04-23",
-      "time": "12:40",
-      "summary": "Després de rebaixar els preus, Microsoft planeja permetre als usuaris triar quin contingut volen incloure a la seva subscripció."
-    },
-    {
-      "title": "Meta rastreja l'activitat del seu personal per ensenyar a la IA com substituir-los",
-      "link_id": "c_236ddd",
-      "source": "TechRadar",
-      "date": "2026-04-23",
-      "time": "03:00",
-      "summary": "L'empresa monitora els moviments del ratolí i les pulsacions de tecles dels empleats per automatitzar tasques rutinàries."
-    },
-    {
-      "title": "Els empleats de Palantir es comencen a preguntar si són els dolents",
-      "link_id": "c_573140",
-      "source": "Wired",
-      "date": "2026-04-23",
-      "time": "16:01",
-      "summary": "Missatges interns i entrevistes revelen una creixent inquietud entre la plantilla sobre l'ètica i l'impacte de la seva tecnologia."
-    },
-    {
-      "title": "OpenAI presenta GPT-5.5 per gestionar tasques amb instruccions limitades",
-      "link_id": "c_904065",
-      "source": "Bloomberg Technology",
-      "date": "2026-04-23",
-      "time": "18:00",
-      "summary": "Aquest nou model d'intel·ligència artificial requereix menys indicacions per completar la feina, buscant atreure més clients empresarials."
+      "time": "22:51",
+      "summary": "Microsoft oferirà baixes voluntàries a un 7% dels seus empleats als Estats Units per compensar les enormes despeses en tecnologia."
     }
   ]
 }

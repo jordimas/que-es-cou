@@ -1,48 +1,24 @@
 {
-  "generated_at": "2024-05-24T18:00",
+  "generated_at": "2026-04-24T10:00",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Nova era a Apple: Tim Cook deixa el càrrec de CEO després de 15 anys i el substituirà John Ternus",
-      "link_id": "c_559d01",
-      "source": "RAC1",
-      "date": "2026-04-21",
-      "time": "07:08",
-      "summary": "John Ternus assumirà la direcció al setembre, mentre Cook passarà a presidir el consell d'administració de la tecnològica."
-    },
-    {
-      "title": "Canvi d’era a Apple: Tim Cook deixarà el càrrec i John Ternus assumirà la direcció",
-      "link_id": "c_2d602f",
-      "source": "MetaData",
-      "date": "2026-04-21",
-      "time": "09:21",
-      "summary": "El relleu marca una nova etapa per a l'empresa, apostant per un perfil més tècnic al capdavant."
-    },
-    {
-      "title": "Mossos de paisà en instituts per \"garantir la convivència\", un pla pilot amb rebuig dels docents",
-      "link_id": "c_caf20c",
-      "source": "324.cat",
+      "title": "Meta acomiadarà el 10% de la plantilla, 8.000 persones",
+      "link_id": "c_832eb2",
+      "source": "Ara.cat",
       "date": "2026-04-23",
-      "time": "13:46",
-      "summary": "Tretze centres educatius posen a prova aquesta mesura durant l'abril, malgrat l'oposició frontal dels sindicats de professors."
+      "time": "21:23",
+      "summary": "La mesura, prevista per al maig, inclou també el tancament de sis mil vacants no cobertes a l'empresa."
     },
     {
-      "title": "Diversos instituts de Lleida incorporaran un agent dels Mossos d'Esquadra en un pla pilot",
-      "link_id": "c_a9ac7b",
-      "source": "Segre",
-      "date": "2026-04-23",
-      "time": "13:02",
-      "summary": "Els agents donaran suport en la gestió d'incidències, mediació i control de l'absentisme escolar a la comunitat educativa."
-    },
-    {
-      "title": "Controlat un cas extrem de síndrome de Tourette amb elèctrodes al cervell",
-      "link_id": "c_c2a3b8",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-04-22",
-      "time": "09:05",
-      "summary": "Aquesta intervenció pionera ha permès reduir els tics i els greus problemes de conducta d'un pacient jove."
+      "title": "Meta acomiadarà 8.000 treballadors, un 10% de la plantilla, per a guanyar eficiència i finançar la IA",
+      "link_id": "c_6f84e4",
+      "source": "Àpunt",
+      "date": "2026-04-24",
+      "time": "07:54",
+      "summary": "Aquesta reestructuració busca alliberar recursos per potenciar el desenvolupament de noves eines d'intel·ligència artificial a les seves plataformes."
     },
     {
       "title": "Un noi amb síndrome de Tourette greu millora amb elèctrodes al cervell: \"El canvi és extraordinari\"",
@@ -50,39 +26,63 @@
       "source": "324.cat",
       "date": "2026-04-22",
       "time": "11:15",
-      "summary": "L'Hospital de Sant Pau aconsegueix frenar els símptomes incapacitants mitjançant una innovadora tècnica d'estimulació cerebral profunda."
+      "summary": "L'Hospital de Sant Pau ha aconseguit reduir dràsticament els tics incapacitants del pacient mitjançant l'estimulació cerebral profunda."
     },
     {
-      "title": "Domini .cat: 20 anys al servei de l'economia catalana",
-      "link_id": "c_a0efd8",
-      "source": "Via Empresa",
+      "title": "Controlat un cas extrem de síndrome de Tourette amb elèctrodes al cervell",
+      "link_id": "c_c2a3b8",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-04-22",
+      "time": "09:05",
+      "summary": "La intervenció pionera ha permès estabilitzar els greus problemes de conducta que acompanyaven els símptomes físics del jove."
+    },
+    {
+      "title": "Mossos de paisà en instituts per \"garantir la convivència\", un pla pilot amb rebuig dels docents",
+      "link_id": "c_caf20c",
+      "source": "324.cat",
       "date": "2026-04-23",
-      "time": "04:55",
-      "summary": "Amb més de 117.000 registres, el primer domini lingüístic d'internet es consolida com un referent per als negocis."
+      "time": "13:46",
+      "summary": "Tretze centres educatius posen a prova aquesta iniciativa durant l'abril, malgrat l'oposició frontal dels sindicats de professors."
     },
     {
-      "title": "Els pròxims vint anys del .cat",
-      "link_id": "c_9c2aff",
-      "source": "Accent Obert",
-      "date": "2026-04-23",
-      "time": "06:52",
-      "summary": "L'aniversari obre el debat sobre els futurs reptes digitals, especialment l'impacte de la intel·ligència artificial en la llengua."
+      "title": "La Generalitat introduirà agents dels Mossos d'Esquadra en centres de Secundària de l’Urgell i d’Aran",
+      "link_id": "c_12603b",
+      "source": "Segre",
+      "date": "2026-04-24",
+      "time": "05:42",
+      "summary": "Els policies s'integraran en la rutina escolar per gestionar conflictes, generant debat entre les famílies i la comunitat educativa."
     },
     {
-      "title": "Detinguts dos homes a les Borges Blanques per fabricar armes de foc artesanals",
-      "link_id": "c_7abe6a",
+      "title": "Desxifrant el sistema immunitari: el gran centre de medicina del futur s'instal·la a Barcelona",
+      "link_id": "c_0278e5",
       "source": "Ara.cat",
       "date": "2026-04-23",
-      "time": "09:30",
-      "summary": "Els Mossos d'Esquadra van arrestar els implicats per tinença, fabricació i venda d'armament il·legal a la comarca."
+      "time": "18:31",
+      "summary": "El nou CaixaResearch Institute investigarà tractaments innovadors per combatre malalties globals com el càncer, l'Alzheimer i la tuberculosi."
     },
     {
-      "title": "Nestlé prepara un ERO a Espanya que afectarà la seu d'Esplugues i les plantes de Girona i Reus",
-      "link_id": "c_3024ac",
-      "source": "324.cat",
-      "date": "2026-04-21",
-      "time": "16:13",
-      "summary": "La multinacional preveu acomiadar fins a 301 treballadors, concretant l'afectació per a cada centre a principis de maig."
+      "title": "Una nova querella contra TikTok revela la seva tolerància amb sexe i violència",
+      "link_id": "c_050fc8",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-04-22",
+      "time": "04:19",
+      "summary": "Una extreballadora ha denunciat les polítiques internes de la xarxa social, dissenyades per captar usuaris ignorant continguts nocius."
+    },
+    {
+      "title": "La DGT llança el 018, el telèfon gratuït d'atenció a víctimes d'accidents de trànsit greus",
+      "link_id": "c_8ca7bc",
+      "source": "Àpunt",
+      "date": "2026-04-23",
+      "time": "20:08",
+      "summary": "Aquest nou servei d'assistència especialitzada complementarà el 112, oferint suport directe als afectats per sinistres viaris importants."
+    },
+    {
+      "title": "La UPC presenta LEIA, el programa que articula la seva estratègia en intel·ligència artificial",
+      "link_id": "c_7aa390",
+      "source": "MetaData",
+      "date": "2026-04-24",
+      "time": "08:38",
+      "summary": "El Campus Diagonal Nord acollirà un nou centre tecnològic destinat a impulsar la recerca i formació en aquest àmbit."
     }
   ]
 }
