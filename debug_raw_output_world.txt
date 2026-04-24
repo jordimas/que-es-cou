@@ -1,88 +1,109 @@
 {
-  "generated_at": "2026-04-24T10:56",
+  "generated_at": "2026-04-24T19:47",
   "id": "world",
   "title": "Notícies tecnològiques del món",
-  "sources_checked": [],
+  "sources_checked": [
+    {
+      "name": "AnandTech",
+      "url": "https://www.anandtech.com/rss/",
+      "articles_found": 0
+    },
+    {
+      "name": "Wall Street Journal Tech",
+      "url": "https://feeds.a.dj.com/rss/RSSWSJD.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "Gizmodo",
+      "url": "https://www.gizmodo.com/feed/rss",
+      "articles_found": 0
+    },
+    {
+      "name": "Slashdot",
+      "url": "https://slashdot.org/rss/slashdot.rss",
+      "articles_found": 0
+    }
+  ],
   "articles": [
     {
-      "title": "«Us estimem i volem que guanyeu»: OpenAI llança GPT-5.5 per a ChatGPT",
-      "link_id": "c_7b5f40",
-      "source": "TechRadar",
+      "title": "OpenAI llança GPT-5.5, apropant la companyia a una 'superaplicació' d'IA",
+      "link_id": "c_aadffc",
+      "source": "TechCrunch",
       "date": "2026-04-23",
-      "time": "22:13",
-      "summary": "La nova versió millora la fiabilitat i utilitat del model, apropant l'empresa a la creació d'una superaplicació d'intel·ligència artificial."
+      "time": "18:29",
+      "summary": "El nou model millora les capacitats de raonament i apropa l'empresa a la creació d'un assistent universal avançat."
     },
     {
-      "title": "Meta retallarà un de cada deu llocs de treball després d'invertir milers de milions en IA",
-      "link_id": "c_eab683",
-      "source": "BBC Technology",
+      "title": "Tim Cook deixarà de ser el conseller delegat d'Apple",
+      "link_id": "c_9623b6",
+      "source": "MacRumors",
       "date": "2026-04-24",
-      "time": "07:31",
-      "summary": "Aquests acomiadaments, previstos per al maig, afectaran uns 8.000 empleats en la reestructuració més gran de l'empresa des del 2023."
+      "time": "16:06",
+      "summary": "John Ternus, cap d'enginyeria de maquinari, succeirà Cook al setembre, marcant una nova era centrada en el desenvolupament de productes."
     },
     {
-      "title": "Cansat de Gemini i ChatGPT? Claude ara s'integra amb Spotify, Uber i altres aplicacions",
-      "link_id": "c_8b9f39",
-      "source": "Digital Trends",
-      "date": "2026-04-24",
-      "time": "06:21",
-      "summary": "El xatbot d'Anthropic permet connectar serveis personals per planificar, comprar i reservar directament des d'una única conversa."
-    },
-    {
-      "title": "Noruega planeja prohibir les xarxes socials als menors de 16 anys i responsabilitzar-ne les plataformes",
-      "link_id": "c_17fb17",
-      "source": "The Next Web",
-      "date": "2026-04-24",
-      "time": "06:50",
-      "summary": "El govern noruec segueix els passos d'Austràlia amb una nova legislació per protegir els joves dels riscos digitals."
-    },
-    {
-      "title": "Austràlia s'uneix als països que proven Claude Mythos per detectar noves vulnerabilitats",
-      "link_id": "c_ab5324",
-      "source": "TechRadar",
+      "title": "Meta retallarà el 10% de la plantilla, uns 8.000 empleats",
+      "link_id": "c_ae9781",
+      "source": "TechCrunch",
       "date": "2026-04-23",
-      "time": "21:30",
-      "summary": "El govern australià col·labora amb Anthropic per avaluar aquest potent model de ciberseguretat, que ha generat alarma a escala global."
+      "time": "18:08",
+      "summary": "La companyia busca reduir costos per compensar les enormes inversions en intel·ligència artificial, iniciant els acomiadaments al maig."
     },
     {
-      "title": "Un soldat nord-americà, detingut per guanyar més de 400.000 dòlars a Polymarket amb informació classificada sobre Maduro",
-      "link_id": "c_86197c",
+      "title": "DeepSeek presenta un nou model d'IA que s'equipara als líders del sector",
+      "link_id": "c_3d6f28",
+      "source": "TechCrunch",
+      "date": "2026-04-24",
+      "time": "13:30",
+      "summary": "Les versions V4-Pro i Flash de l'empresa xinesa ofereixen un raonament avançat i eficient, desafiant el domini d'OpenAI."
+    },
+    {
+      "title": "Detingut un soldat per guanyar 400.000 dòlars a Polymarket apostant sobre l'operació contra Maduro",
+      "link_id": "c_49e35a",
+      "source": "TechCrunch",
+      "date": "2026-04-23",
+      "time": "23:32",
+      "summary": "L'acusat hauria utilitzat informació governamental classificada per lucrar-se il·legalment en aquest mercat de prediccions sobre la captura del president veneçolà."
+    },
+    {
+      "title": "Les accions d'Intel es disparen un 28% després d'uns resultats trimestrals excel·lents",
+      "link_id": "c_1cbbba",
+      "source": "Tom's Hardware",
+      "date": "2026-04-24",
+      "time": "11:30",
+      "summary": "L'alta demanda de xips per a intel·ligència artificial impulsa les previsions de l'empresa, superant àmpliament les expectatives de Wall Street."
+    },
+    {
+      "title": "Instagram prova 'Instants', una nova aplicació per compartir fotos efímeres",
+      "link_id": "c_236416",
+      "source": "TechCrunch",
+      "date": "2026-04-23",
+      "time": "20:03",
+      "summary": "Aquesta nova plataforma imita l'essència de Snapchat, centrant-se en interaccions privades i contingut que desapareix ràpidament."
+    },
+    {
+      "title": "Aquests són els països que volen prohibir les xarxes socials als menors",
+      "link_id": "c_1ee13e",
+      "source": "TechCrunch",
+      "date": "2026-04-23",
+      "time": "21:33",
+      "summary": "Nacions com Noruega i Turquia s'uneixen a Austràlia impulsant lleis estrictes per protegir els joves dels riscos digitals."
+    },
+    {
+      "title": "Claude ja es pot connectar a aplicacions com Spotify, Instacart i AllTrails",
+      "link_id": "c_baa0aa",
       "source": "Engadget",
+      "date": "2026-04-23",
+      "time": "22:55",
+      "summary": "La integració permet a l'assistent d'Anthropic interactuar directament amb serveis de tercers per planificar, comprar i reservar sense canviar d'aplicació."
+    },
+    {
+      "title": "Microsoft oferirà baixes incentivades al 7% de la seva plantilla als Estats Units",
+      "link_id": "c_4f0a8f",
+      "source": "Computerworld",
       "date": "2026-04-24",
-      "time": "01:45",
-      "summary": "L'acusat hauria utilitzat dades governamentals secretes per apostar amb èxit sobre la captura del president veneçolà al mercat de prediccions."
-    },
-    {
-      "title": "Els ingressos d'Intel es disparen impulsats per l'auge de la intel·ligència artificial",
-      "link_id": "c_05beda",
-      "source": "NYT Technology",
-      "date": "2026-04-23",
-      "time": "22:35",
-      "summary": "El fabricant de xips ha superat les expectatives de Wall Street amb un augment del 7% en les seves vendes."
-    },
-    {
-      "title": "El gegant de les xarxes socials llança una nova aplicació de fotos efímeres",
-      "link_id": "c_1d0f39",
-      "source": "Android Authority",
-      "date": "2026-04-23",
-      "time": "21:31",
-      "summary": "Instagram prova «Instants», una plataforma independent centrada en missatges que desapareixen en 24 hores, imitant clarament el format de Snapchat."
-    },
-    {
-      "title": "Un memoràndum de la Casa Blanca denuncia un robatori massiu d'IA per part d'empreses xineses",
-      "link_id": "c_5e3d6b",
-      "source": "BBC Technology",
-      "date": "2026-04-24",
-      "time": "00:58",
-      "summary": "L'administració nord-americana acusa actors recolzats per Pequín de copiar models d'intel·ligència artificial a escala industrial per afavorir els seus interessos."
-    },
-    {
-      "title": "Microsoft i Meta anuncien grans reduccions de plantilla mentre inverteixen fortament en IA",
-      "link_id": "c_583893",
-      "source": "The Guardian Tech",
-      "date": "2026-04-23",
-      "time": "22:51",
-      "summary": "Microsoft oferirà baixes voluntàries a un 7% dels seus empleats als Estats Units per compensar les enormes despeses en tecnologia."
+      "time": "12:13",
+      "summary": "La mesura busca reestructurar l'empresa i reduir costos per fer front a les massives inversions en infraestructures d'IA."
     }
   ]
 }
