@@ -1,32 +1,48 @@
 {
-  "generated_at": "2026-04-25T10:00",
+  "generated_at": "2024-05-24T12:00",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Les accions d'Intel viuen el seu millor dia des de 1987 i es disparen un 24%",
-      "link_id": "c_27ba89",
-      "source": "CNBC Technology",
-      "date": "2026-04-24",
-      "time": "23:04",
-      "summary": "El suport governamental i l'aposta per la intel·ligència artificial impulsen la recuperació històrica del fabricant de xips al mercat."
-    },
-    {
-      "title": "Google invertirà fins a 40.000 milions de dòlars en Anthropic per diversificar en IA",
-      "link_id": "c_6b12b0",
-      "source": "CNBC Technology",
-      "date": "2026-04-24",
-      "time": "18:32",
-      "summary": "Aquest acord multimilionari consolida l'aliança estratègica entre ambdues empreses per competir pel lideratge en el sector tecnològic."
-    },
-    {
-      "title": "Què passa per alt la narrativa de l'«apocalipsi laboral» de la IA",
+      "title": "El que obvia la narrativa de l'\"apocalipsi laboral\" de la IA",
       "link_id": "c_fd3757",
       "source": "Financial Times",
       "date": "2026-04-25",
       "time": "04:00",
-      "summary": "La capacitat tecnològica per automatitzar tasques no determina per si sola l'impacte real en el futur del mercat de treball."
+      "summary": "L'automatització de tasques no implica necessàriament la destrucció d'ocupació, sinó una transformació profunda de les habilitats requerides."
+    },
+    {
+      "title": "Google invertirà fins a 40.000 milions de dòlars en Anthropic per diversificar les seves apostes en IA",
+      "link_id": "c_6b12b0",
+      "source": "CNBC Technology",
+      "date": "2026-04-24",
+      "time": "18:32",
+      "summary": "L'acord amplia l'aliança existent, permetent a Anthropic accedir a més potència de càlcul per als seus models avançats."
+    },
+    {
+      "title": "Guerra de talent en IA: La indústria del programari, nou objectiu mentre els directius fugen a OpenAI",
+      "link_id": "c_f20db2",
+      "source": "CNBC Technology",
+      "date": "2026-04-25",
+      "time": "12:43",
+      "summary": "Les grans tecnològiques s'enfronten a una fugida de cervells que amenaça la seva capacitat d'innovació davant l'auge d'OpenAI."
+    },
+    {
+      "title": "Provem el xatbot Grok de xAI conduint un Tesla per Nova York. Això és el que va passar.",
+      "link_id": "c_8ad213",
+      "source": "CNBC Technology",
+      "date": "2026-04-25",
+      "time": "12:00",
+      "summary": "La integració de l'assistent virtual amb la conducció autònoma mostra el potencial de la intel·ligència artificial als vehicles."
+    },
+    {
+      "title": "Les empreses amb accés a Mythos demanen una defensa conjunta de la infraestructura",
+      "link_id": "c_39096f",
+      "source": "Financial Times",
+      "date": "2026-04-25",
+      "time": "11:00",
+      "summary": "Els experts en ciberseguretat alerten que la nova eina requerirà una coordinació estreta entre governs i sector privat."
     },
     {
       "title": "La increïble doble vida d'un venedor de programari espia convertit en espia",
@@ -34,55 +50,39 @@
       "source": "Financial Times",
       "date": "2026-04-25",
       "time": "04:00",
-      "summary": "Un empresari d'èxit en la venda d'aparells de vigilància utilitzava els seus propis invents per controlar el seu entorn."
+      "summary": "Després de fer fortuna venent dispositius de vigilància, va acabar utilitzant la seva pròpia tecnologia per infiltrar-se en secret."
     },
     {
-      "title": "Cinc compres fàcils de reparar que et podrien durar per sempre",
+      "title": "Cinc compres fàcils de reparar que podrien durar-te tota la vida",
       "link_id": "c_dd6865",
       "source": "Financial Times",
       "date": "2026-04-25",
       "time": "04:00",
-      "summary": "Invertir en maletes, rellotges i portàtils dissenyats per ser arreglats fàcilment fomenta un consum més sostenible i durador."
+      "summary": "Maletes, rellotges i portàtils dissenyats per combatre l'obsolescència programada i fomentar un consum molt més sostenible i responsable."
     },
     {
-      "title": "Les accions de Nvidia assoleixen un rècord i superen els 5 bilions de capitalització",
+      "title": "Les accions d'Intel viuen el seu millor dia des de 1987, disparant-se un 24%",
+      "link_id": "c_27ba89",
+      "source": "CNBC Technology",
+      "date": "2026-04-24",
+      "time": "23:04",
+      "summary": "L'optimisme pel suport governamental i la reestructuració de l'empresa impulsen la confiança dels inversors en el sector dels xips."
+    },
+    {
+      "title": "Les accions de Nvidia tanquen en màxims històrics, superant els 5 bilions de dòlars de capitalització",
       "link_id": "c_717fb5",
       "source": "CNBC Technology",
       "date": "2026-04-24",
       "time": "22:40",
-      "summary": "L'efecte arrossegament de la pujada d'Intel consolida el domini financer de l'empresa en la indústria dels semiconductors."
+      "summary": "L'efecte arrossegament d'Intel consolida el domini de l'empresa en el mercat de maquinari per a intel·ligència artificial."
     },
     {
-      "title": "Microsoft planeja les primeres baixes voluntàries per a un 7% de la plantilla als EUA",
+      "title": "Microsoft planeja les primeres baixes voluntàries per a fins al 7% de la seva plantilla als EUA",
       "link_id": "c_f2b4b6",
       "source": "CNBC Technology",
       "date": "2026-04-24",
       "time": "21:21",
-      "summary": "La mesura s'adreça a treballadors veterans, buscant reestructurar l'equip sense recórrer a acomiadaments forçosos en un context d'incertesa."
-    },
-    {
-      "title": "X-energy, desenvolupador nuclear recolzat per Amazon, es dispara un 27% en el seu debut",
-      "link_id": "c_e259a7",
-      "source": "Financial Times",
-      "date": "2026-04-24",
-      "time": "20:50",
-      "summary": "L'auge de la intel·ligència artificial dispara la necessitat energètica dels centres de dades, beneficiant les noves alternatives nuclears."
-    },
-    {
-      "title": "Els xips personalitzats d'Amazon reben l'impuls de Meta per triomfar en IA",
-      "link_id": "c_53f3de",
-      "source": "CNBC Technology",
-      "date": "2026-04-24",
-      "time": "19:11",
-      "summary": "L'acord demostra que AWS no només lidera en capacitat al núvol, sinó també en maquinari específic per a intel·ligència artificial."
-    },
-    {
-      "title": "Com una nova productora de Hollywood recolzada per Amazon utilitza la IA per reduir costos",
-      "link_id": "c_e47e42",
-      "source": "CNBC Technology",
-      "date": "2026-04-24",
-      "time": "19:06",
-      "summary": "Aquesta empresa emergent busca revolucionar els rodatges a Los Angeles integrant tecnologia avançada per guanyar eficiència i rapidesa."
+      "summary": "La mesura inèdita busca reduir costos laborals oferint sortides incentivades a treballadors veterans enmig de la reestructuració tecnològica."
     }
   ]
 }

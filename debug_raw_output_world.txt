@@ -1,61 +1,80 @@
 {
-  "generated_at": "2026-04-25T10:00",
+  "generated_at": "2026-04-25T19:34",
   "id": "world",
   "title": "Notícies tecnològiques del món",
-  "sources_checked": [
-    {
-      "name": "AnandTech",
-      "url": "https://www.anandtech.com/rss/",
-      "articles_found": 0
-    },
-    {
-      "name": "Wall Street Journal Tech",
-      "url": "https://feeds.a.dj.com/rss/RSSWSJD.xml",
-      "articles_found": 0
-    },
-    {
-      "name": "Gizmodo",
-      "url": "https://www.gizmodo.com/feed/rss",
-      "articles_found": 0
-    },
-    {
-      "name": "Slashdot",
-      "url": "https://slashdot.org/rss/slashdot.rss",
-      "articles_found": 0
-    }
-  ],
+  "sources_checked": [],
   "articles": [
+    {
+      "title": "Meta firma un acord multimilionari pels xips Amazon Graviton5",
+      "link_id": "c_b93420",
+      "source": "The Next Web",
+      "date": "2026-04-25",
+      "time": "11:22",
+      "summary": "Meta desplegarà milions de nuclis Graviton5 d'AWS per satisfer la creixent demanda de càlcul d'intel·ligència artificial."
+    },
+    {
+      "title": "5 grans reptes per a John Ternus, el proper conseller delegat d'Apple",
+      "link_id": "c_0cc982",
+      "source": "NYT Technology",
+      "date": "2026-04-25",
+      "time": "16:33",
+      "summary": "El nou líder d'Apple s'enfrontarà a problemes similars als de Tim Cook, amb el repte d'innovar en intel·ligència artificial."
+    },
+    {
+      "title": "La governadora de Maine veta la llei que prohibeix els nous grans centres de dades",
+      "link_id": "c_72b85f",
+      "source": "Tom's Hardware",
+      "date": "2026-04-25",
+      "time": "13:40",
+      "summary": "Janet Mills ha bloquejat la moratòria argumentant que perjudicaria un projecte tecnològic clau per a l'economia local."
+    },
     {
       "title": "Tres raons per les quals el nou model de DeepSeek és important",
       "link_id": "c_2ef437",
       "source": "MIT Technology Review",
       "date": "2026-04-24",
       "time": "21:40",
-      "summary": "El model V4 de codi obert processa textos més llargs amb gran eficiència, desafiant els líders del sector."
+      "summary": "La versió V4 de codi obert processa textos més llargs de manera eficient, desafiant els gegants nord-americans del sector."
     },
     {
-      "title": "Per què Apple ha triat el seu expert en productes com a proper CEO",
-      "link_id": "c_e48bdd",
-      "source": "Bloomberg Technology",
-      "date": "2026-04-24",
-      "time": "20:31",
-      "summary": "John Ternus succeirà Tim Cook al capdavant d'Apple, marcant l'inici d'una nova era centrada en l'enginyeria de maquinari."
-    },
-    {
-      "title": "L'expansió computacional de Meta continua amb un acord per desplegar desenes de milions de nuclis AWS Graviton",
-      "link_id": "c_70b6be",
-      "source": "Computerworld",
-      "date": "2026-04-24",
-      "time": "22:52",
-      "summary": "Aquest acord massiu amb Amazon reforça la infraestructura d'intel·ligència artificial de Meta per potenciar els seus futurs models."
-    },
-    {
-      "title": "Google es compromet a invertir fins a 40.000 milions de dòlars a Anthropic",
+      "title": "Google es compromet a invertir fins a 40.000 milions de dòlars en Anthropic",
       "link_id": "c_fdc599",
       "source": "NYT Technology",
       "date": "2026-04-24",
       "time": "19:47",
-      "summary": "Aquesta injecció de capital busca assegurar capacitat de càlcul massiva davant la creixent demanda d'eines d'intel·ligència artificial."
+      "summary": "Aquesta injecció de capital busca assegurar capacitat de càlcul massiva davant la creixent demanda de productes d'intel·ligència artificial."
+    },
+    {
+      "title": "La finestra de sortida a borsa per a la tecnologia climàtica podria obrir-se finalment",
+      "link_id": "c_10c52f",
+      "source": "TechCrunch",
+      "date": "2026-04-25",
+      "time": "16:33",
+      "summary": "L'èxit de l'empresa nuclear X-energy a la borsa assenyala un moment clau per als inversors en tecnologia climàtica."
+    },
+    {
+      "title": "Per què Cohere es fusiona amb Aleph Alpha",
+      "link_id": "c_86bae1",
+      "source": "TechCrunch",
+      "date": "2026-04-25",
+      "time": "16:00",
+      "summary": "Les dues empreses s'uneixen per oferir una alternativa europea i canadenca sobirana en un mercat dominat pels Estats Units."
+    },
+    {
+      "title": "Investigadors de Discord obtenen accés no autoritzat a Mythos d'Anthropic",
+      "link_id": "c_aa74a4",
+      "source": "Wired",
+      "date": "2026-04-25",
+      "time": "10:30",
+      "summary": "El model d'intel·ligència artificial centrat en ciberseguretat ha patit una filtració, qüestionant les mesures de protecció de l'empresa."
+    },
+    {
+      "title": "L'última actualització de Fitbit converteix l'aplicació en un entrenador personal conversacional",
+      "link_id": "c_758974",
+      "source": "Digital Trends",
+      "date": "2026-04-24",
+      "time": "22:22",
+      "summary": "La versió 4.68 introdueix controls de son i orientació pas a pas mitjançant un assistent virtual interactiu."
     },
     {
       "title": "XChat, l'aplicació independent de missatgeria d'X, ja està disponible a iOS",
@@ -63,47 +82,7 @@
       "source": "Engadget",
       "date": "2026-04-24",
       "time": "21:48",
-      "summary": "La nova plataforma ofereix xats privats, trucades i missatges efímers, separant les comunicacions directes de la xarxa social principal."
-    },
-    {
-      "title": "Cohere adquireix i es fusiona amb una empresa alemanya per crear una potència transatlàntica d'IA",
-      "link_id": "c_6a1701",
-      "source": "TechCrunch",
-      "date": "2026-04-24",
-      "time": "21:35",
-      "summary": "La unió d'ambdues companyies busca oferir solucions d'intel·ligència artificial robustes per a governs i empreses en sectors regulats."
-    },
-    {
-      "title": "Les accions d'X-energy es disparen un 27% en el seu primer dia de cotització després d'una sortida a borsa ampliada",
-      "link_id": "c_43bc0a",
-      "source": "TechCrunch",
-      "date": "2026-04-24",
-      "time": "20:10",
-      "summary": "L'empresa d'energia nuclear, recolzada per Amazon, aprofita l'alta demanda energètica dels centres de dades per triomfar al Nasdaq."
-    },
-    {
-      "title": "El Cybercab entra en producció, però Elon Musk avisa que l'inici serà \"molt lent\"",
-      "link_id": "c_3da69f",
-      "source": "CNET",
-      "date": "2026-04-25",
-      "time": "00:26",
-      "summary": "El robotaxi autònom de Tesla ja es fabrica a Texas, tot i que el ritme inicial serà inferior a l'esperat."
-    },
-    {
-      "title": "La governadora de Maine veta la prohibició temporal de nous grans centres de dades a l'estat",
-      "link_id": "c_c88982",
-      "source": "CNET",
-      "date": "2026-04-24",
-      "time": "21:55",
-      "summary": "Janet Mills ha rebutjat la moratòria argumentant que perjudicaria el desenvolupament econòmic de certes zones necessitades de l'estat."
-    },
-    {
-      "title": "\"M'ha deixat al·lucinat\": el robot Project Ace de Sony juga a ping-pong millor que els professionals",
-      "link_id": "c_abb3eb",
-      "source": "TechRadar",
-      "date": "2026-04-24",
-      "time": "20:30",
-      "summary": "Aquest avanç demostra com la intel·ligència artificial pot dominar tasques físiques complexes que requereixen velocitat i precisió extremes."
+      "summary": "La nova plataforma ofereix xats privats, missatges efímers i trucades d'àudio i vídeo sense anuncis ni rastreig."
     }
   ]
 }

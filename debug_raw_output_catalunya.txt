@@ -1,80 +1,24 @@
 {
-  "generated_at": "2026-04-25T10:00",
+  "generated_at": "2026-04-25T17:35",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [],
   "articles": [
-    {
-      "title": "Barcelona estrena el CaixaResearch Institute, un gran centre per revolucionar el tractament de les malalties més freqüents",
-      "link_id": "c_0278e5",
-      "source": "Ara.cat",
-      "date": "2026-04-23",
-      "time": "18:31",
-      "summary": "Aquest nou espai pioner a l'Estat se centrarà en la immunoteràpia per combatre patologies com el càncer o l'Alzheimer."
-    },
     {
       "title": "Ciberatacs informàtics: es doblen el nombre de ciberincidents a sistemes públics",
       "link_id": "c_41d6c0",
       "source": "324.cat",
       "date": "2026-04-25",
       "time": "07:09",
-      "summary": "L'Agència de Ciberseguretat alerta d'un augment dràstic d'amenaces, afectant especialment els sectors sanitari i universitari durant l'últim any."
+      "summary": "L'any passat es van registrar més de 6.500 incidents a la Generalitat, la majoria bloquejats per les barreres de seguretat."
     },
     {
-      "title": "Europa s’acosta a llançar el seu propi Bizum públic’ per competir amb Visa, Apple Pay i les criptomonedes",
-      "link_id": "c_b1b2ce",
-      "source": "El Periódico",
-      "date": "2026-04-24",
-      "time": "12:19",
-      "summary": "El Banc Central Europeu prepara l'euro digital establint acords tècnics per unificar els pagaments a tota l'eurozona."
-    },
-    {
-      "title": "Pagar amb Bizum a les botigues físiques serà una realitat a partir del 18 de maig: com funciona i qui ho podrà fer?",
-      "link_id": "c_fc09b3",
-      "source": "RAC1",
-      "date": "2026-04-24",
-      "time": "13:03",
-      "summary": "Inicialment, només els clients de CaixaBank, Banc Sabadell i Bankinter podran utilitzar aquest mètode als comerços presencials."
-    },
-    {
-      "title": "Les consultores tecnològiques Capgemini i Inetum anuncien acomiadaments a l'Estat",
-      "link_id": "c_c1f924",
-      "source": "Via Empresa",
-      "date": "2026-04-24",
-      "time": "13:20",
-      "summary": "L'impacte de la intel·ligència artificial i els canvis tecnològics motiven aquestes retallades, que afectaran desenes de treballadors a Catalunya."
-    },
-    {
-      "title": "Chery i Ebro esperen començar a fabricar cotxes elèctrics a Barcelona a finals del 2026",
-      "link_id": "c_78c207",
-      "source": "324.cat",
-      "date": "2026-04-24",
-      "time": "21:42",
-      "summary": "L'aliança busca reindustrialitzar l'antiga planta de Nissan a la Zona Franca, impulsant la mobilitat sostenible al territori."
-    },
-    {
-      "title": "El sector TIC català suma 7.000 dones en un any i supera les 58.000 professionals",
-      "link_id": "c_26b8ac",
-      "source": "MetaData",
-      "date": "2026-04-21",
-      "time": "17:55",
-      "summary": "Tot i l'augment de la presència femenina, l'accés a càrrecs de lideratge i la bretxa salarial continuen sent reptes."
-    },
-    {
-      "title": "L’Agència de Ciberseguretat registra més de 6.500 atacs de hackers el 2025, el doble que fa un any",
-      "link_id": "c_8c8073",
-      "source": "Betevé",
+      "title": "La Generalitat detecta 25 milions d'intents de ciberatacs al dia contra els seus sistemes",
+      "link_id": "c_ced65a",
+      "source": "Ara.cat",
       "date": "2026-04-25",
-      "time": "07:33",
-      "summary": "Les dades confirmen una escalada sense precedents en les vulneracions als sistemes d'informació de la Generalitat i altres institucions."
-    },
-    {
-      "title": "Canvi d’era a Apple: Tim Cook deixarà el càrrec i John Ternus assumirà la direcció",
-      "link_id": "c_2d602f",
-      "source": "MetaData",
-      "date": "2026-04-21",
-      "time": "09:21",
-      "summary": "El relleu, previst per al setembre, marcarà l'inici d'una nova etapa amb un lideratge de perfil més tècnic."
+      "time": "11:38",
+      "summary": "L'Agència de Ciberseguretat alerta d'un augment del 32% de les amenaces, tot i que el 80% s'aturen automàticament."
     },
     {
       "title": "Un dels primers centres d'Europa especialitzat en recerca del sistema immunitari comença a investigar a Barcelona",
@@ -82,7 +26,63 @@
       "source": "RAC1",
       "date": "2026-04-24",
       "time": "19:50",
-      "summary": "La instal·lació consolida la capital catalana com un referent internacional en la investigació biomèdica i el desenvolupament de noves teràpies."
+      "summary": "El nou CaixaResearch Institute se centrarà a buscar teràpies innovadores per a malalties greus com el càncer o l'Alzheimer."
+    },
+    {
+      "title": "El CaixaResearch aposta per la immunologia",
+      "link_id": "c_78ba1d",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-04-25",
+      "time": "00:15",
+      "summary": "Aquest centre pioner a l'Estat espanyol vol consolidar Barcelona com a capital de referència mundial en l'àmbit de la biomedicina."
+    },
+    {
+      "title": "Pagar amb Bizum a les botigues físiques serà una realitat a partir del 18 de maig: com funciona i qui ho podrà fer?",
+      "link_id": "c_fc09b3",
+      "source": "RAC1",
+      "date": "2026-04-24",
+      "time": "13:03",
+      "summary": "Inicialment, només els clients de CaixaBank, Banc Sabadell i Bankinter podran utilitzar aquest mètode de pagament als comerços."
+    },
+    {
+      "title": "Europa s’acosta a llançar el seu propi Bizum públic’ per competir amb Visa, Apple Pay i les criptomonedes",
+      "link_id": "c_b1b2ce",
+      "source": "El Periódico",
+      "date": "2026-04-24",
+      "time": "12:19",
+      "summary": "El Banc Central Europeu avança en la creació de l'euro digital acordant estàndards tècnics per facilitar-ne l'ús a l'eurozona."
+    },
+    {
+      "title": "RENFE i ADIF treballen en un centre integrat de control ferroviari sense concretar data ni ubicació",
+      "link_id": "c_0133fe",
+      "source": "VilaWeb",
+      "date": "2026-04-25",
+      "time": "09:14",
+      "summary": "L'objectiu és unificar la regulació de circulació i les operacions de Rodalies per optimitzar el servei a llarg termini."
+    },
+    {
+      "title": "Les consultores tecnològiques Capgemini i Inetum anuncien acomiadaments a l'Estat",
+      "link_id": "c_c1f924",
+      "source": "Via Empresa",
+      "date": "2026-04-24",
+      "time": "13:20",
+      "summary": "Els expedients de regulació d'ocupació afectaran centenars de treballadors, incloent-hi uns 130 empleats a les oficines de Barcelona."
+    },
+    {
+      "title": "El sector TIC català suma 7.000 dones en un single any i supera les 58.000 professionals",
+      "link_id": "c_26b8ac",
+      "source": "MetaData",
+      "date": "2026-04-21",
+      "time": "17:55",
+      "summary": "Tot i l'augment de la presència femenina, encara persisteixen reptes importants com la bretxa salarial i l'accés al lideratge."
+    },
+    {
+      "title": "Canvi d’era a Apple: Tim Cook deixarà el càrrec i John Ternus assumirà la direcció",
+      "link_id": "c_2d602f",
+      "source": "MetaData",
+      "date": "2026-04-21",
+      "time": "09:21",
+      "summary": "El relleu, previst per al setembre, marcarà l'inici d'una nova etapa amb un perfil més tècnic liderant la companyia."
     }
   ]
 }

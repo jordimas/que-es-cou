@@ -1,5 +1,5 @@
 {
-  "generated_at": "2024-05-24T14:30",
+  "generated_at": "2024-05-24T16:00",
   "id": "podcasts",
   "title": "Podcasts en català sobre tecnologia",
   "sources_checked": [],
@@ -10,7 +10,7 @@
       "source": "Mossega la poma",
       "date": "2026-04-24",
       "time": "09:33",
-      "summary": "Anàlisi del futur d'Apple sense Tim Cook i l'ús d'IA per monitorar empleats a Meta."
+      "summary": "S'analitza el futur d'Apple sense Tim Cook i la polèmica decisió de Meta de monitorar els empleats amb IA."
     },
     {
       "title": "Especial Oients residents als Estats Units – Programa 660",
@@ -18,15 +18,7 @@
       "source": "Mossega la poma",
       "date": "2026-04-20",
       "time": "16:03",
-      "summary": "Conversa amb seguidors nord-americans sobre l'actualitat tecnològica, política i social del seu país."
-    },
-    {
-      "title": "La connexió entre IA, política i tecnologia – Programa 659",
-      "link_id": "c_ec2e7e",
-      "source": "Mossega la poma",
-      "date": "2026-04-10",
-      "time": "08:18",
-      "summary": "Reflexió sobre l'impacte social, ètic i polític de la intel·ligència artificial a les nostres societats."
+      "summary": "Conversa amb oients nord-americans sobre l'actualitat tecnològica, eines de programació al núvol i intel·ligència artificial com Claude Code."
     },
     {
       "title": "L' Altra Ràdio - Els robotaxis: taxis sense conductor humà",
@@ -34,7 +26,7 @@
       "source": "L'altra ràdio",
       "date": "2026-04-23",
       "time": "07:33",
-      "summary": "Jordi Barreda analitza el funcionament i l'impacte dels vehicles autònoms destinats al transport compartit de passatgers."
+      "summary": "Jordi Barreda explora el funcionament i l'impacte dels vehicles autònoms destinats al transport compartit de passatgers."
     },
     {
       "title": "L' Altra Ràdio - Especial 50 anys de Ràdio 4",
@@ -42,7 +34,7 @@
       "source": "L'altra ràdio",
       "date": "2026-04-16",
       "time": "07:33",
-      "summary": "Edició especial enregistrada al congrés SCC-IEC per commemorar el mig segle d'història de l'emissora."
+      "summary": "Edició especial enregistrada a la Universitat Ramon Llull per commemorar el mig segle d'història de l'emissora."
     },
     {
       "title": "El gòTIC - Tenim una missió! del 15/4/2026",
@@ -50,7 +42,7 @@
       "source": "El Gòtic",
       "date": "2026-04-14",
       "time": "16:29",
-      "summary": "Estratègies i recursos pràctics per resoldre els grans reptes i inquietuds de la ciutadania digital actual."
+      "summary": "Estratègies i recursos pràctics per afrontar els grans reptes i inquietuds de la ciutadania en l'entorn digital."
     },
     {
       "title": "Col·lapse de flotes de robotaxis",
@@ -58,7 +50,7 @@
       "source": "Societat de la Informació",
       "date": "2026-04-14",
       "time": "12:28",
-      "summary": "Una fallada tècnica paralitza desenes de vehicles autònoms de Baidu a Wuhan, bloquejant el trànsit urbà."
+      "summary": "Una fallada tècnica paralitza desenes de vehicles autònoms de Baidu a Wuhan, provocant un gran caos circulatori."
     },
     {
       "title": "La pensió de les paneroles i altres patrons de decepció",
@@ -66,7 +58,7 @@
       "source": "Foc a Terra",
       "date": "2026-04-20",
       "time": "04:00",
-      "summary": "Descobreix els trucs de disseny fosc que utilitzen les empreses per manipular les teves decisions digitals."
+      "summary": "Anàlisi dels trucs de disseny enganyosos que utilitzen grans empreses per manipular les decisions dels usuaris a internet."
     },
     {
       "title": "Avui parlem d'urbanisme i dels cables de les façanes, amb Judith Urbano",
@@ -74,7 +66,7 @@
       "source": "Foc a Terra",
       "date": "2026-04-13",
       "time": "04:00",
-      "summary": "Lliçons d'urbanisme barceloní i l'origen del cablejat a les façanes amb la doctora en Història de l'Art."
+      "summary": "La doctora Judith Urbano repassa la història urbanística de Barcelona i l'origen del cablejat a les façanes."
     },
     {
       "title": "Matt Mullenweg reflexiona i opina sobre el rumb de WordPress",
@@ -82,7 +74,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-04-21",
       "time": "00:00",
-      "summary": "El creador de WordPress critica la cultura de procés actual que paralitza les decisions del projecte."
+      "summary": "El creador de WordPress critica la burocràcia interna del projecte, alertant que paralitza la presa de decisions."
     },
     {
       "title": "Eines d’IA per crear formació",
@@ -90,7 +82,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-04-14",
       "time": "00:00",
-      "summary": "Proposta de noves eines i instruccions per estandarditzar la creació de materials educatius sobre la plataforma."
+      "summary": "L'equip formatiu proposa nous indicadors i eines d'intel·ligència artificial per estandarditzar la creació de materials educatius."
     },
     {
       "title": "Capítol 63: Nanobots Therapeutics, robots per curar el càncer de bufeta",
@@ -98,7 +90,7 @@
       "source": "RAC&GO",
       "date": "2026-04-21",
       "time": "06:00",
-      "summary": "Una empresa emergent catalana desenvolupa robots microscòpics capaços de navegar pel cos per atacar tumors cancerosos."
+      "summary": "Una empresa emergent catalana desenvolupa robots microscòpics capaços de navegar pel cos humà per atacar tumors cancerígens."
     }
   ]
 }

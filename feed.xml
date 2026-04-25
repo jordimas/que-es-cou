@@ -5,109 +5,125 @@
     <link>https://jordimas.github.io/que-es-cou/</link>
     <description>Notícies de tecnologia en català, actualitzades cada 4 hores.</description>
     <language>ca</language>
-    <lastBuildDate>2026-04-25T10:00</lastBuildDate>
+    <lastBuildDate>2026-04-25T19:34</lastBuildDate>
     <atom:link href="https://jordimas.github.io/que-es-cou/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Meta firma un acord multimilionari pels xips Amazon Graviton5</title>
+      <link>https://thenextweb.com/news/meta-amazon-graviton-chips-agentic-ai</link>
+      <guid isPermaLink="true">https://thenextweb.com/news/meta-amazon-graviton-chips-agentic-ai</guid>
+      <description>Meta desplegarà milions de nuclis Graviton5 d'AWS per satisfer la creixent demanda de càlcul d'intel·ligència artificial.</description>
+      <author>The Next Web</author>
+      <pubDate>2026-04-25</pubDate>
+    </item>
+    <item>
+      <title>5 grans reptes per a John Ternus, el proper conseller delegat d'Apple</title>
+      <link>https://www.nytimes.com/2026/04/24/technology/john-ternus-apple-challenges.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/04/24/technology/john-ternus-apple-challenges.html</guid>
+      <description>El nou líder d'Apple s'enfrontarà a problemes similars als de Tim Cook, amb el repte d'innovar en intel·ligència artificial.</description>
+      <author>NYT Technology</author>
+      <pubDate>2026-04-25</pubDate>
+    </item>
+    <item>
+      <title>La governadora de Maine veta la llei que prohibeix els nous grans centres de dades</title>
+      <link>https://www.tomshardware.com/desktops/servers/maine-governor-vetoes-bill-that-bans-large-new-data-centers-says-legislature-shouldve-exempted-one-particular-well-supported-data-center</link>
+      <guid isPermaLink="true">https://www.tomshardware.com/desktops/servers/maine-governor-vetoes-bill-that-bans-large-new-data-centers-says-legislature-shouldve-exempted-one-particular-well-supported-data-center</guid>
+      <description>Janet Mills ha bloquejat la moratòria argumentant que perjudicaria un projecte tecnològic clau per a l'economia local.</description>
+      <author>Tom's Hardware</author>
+      <pubDate>2026-04-25</pubDate>
+    </item>
     <item>
       <title>Tres raons per les quals el nou model de DeepSeek és important</title>
       <link>https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/</link>
       <guid isPermaLink="true">https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/</guid>
-      <description>El model V4 de codi obert processa textos més llargs amb gran eficiència, desafiant els líders del sector.</description>
+      <description>La versió V4 de codi obert processa textos més llargs de manera eficient, desafiant els gegants nord-americans del sector.</description>
       <author>MIT Technology Review</author>
       <pubDate>2026-04-24</pubDate>
     </item>
     <item>
-      <title>Per què Apple ha triat el seu expert en productes com a proper CEO</title>
-      <link>https://www.bloomberg.com/news/articles/2026-04-24/from-tim-cook-to-john-ternus-apple-has-a-new-ai-focused-ceo</link>
-      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-04-24/from-tim-cook-to-john-ternus-apple-has-a-new-ai-focused-ceo</guid>
-      <description>John Ternus succeirà Tim Cook al capdavant d'Apple, marcant l'inici d'una nova era centrada en l'enginyeria de maquinari.</description>
-      <author>Bloomberg Technology</author>
-      <pubDate>2026-04-24</pubDate>
-    </item>
-    <item>
-      <title>L'expansió computacional de Meta continua amb un acord per desplegar desenes de milions de nuclis AWS Graviton</title>
-      <link>https://www.computerworld.com/article/4163389/metas-compute-grab-continues-with-agreement-to-deploy-tens-of-millions-of-aws-graviton-cores-3.html</link>
-      <guid isPermaLink="true">https://www.computerworld.com/article/4163389/metas-compute-grab-continues-with-agreement-to-deploy-tens-of-millions-of-aws-graviton-cores-3.html</guid>
-      <description>Aquest acord massiu amb Amazon reforça la infraestructura d'intel·ligència artificial de Meta per potenciar els seus futurs models.</description>
-      <author>Computerworld</author>
-      <pubDate>2026-04-24</pubDate>
-    </item>
-    <item>
-      <title>Google es compromet a invertir fins a 40.000 milions de dòlars a Anthropic</title>
+      <title>Google es compromet a invertir fins a 40.000 milions de dòlars en Anthropic</title>
       <link>https://www.nytimes.com/2026/04/24/technology/google-anthropic-investment-artificial-intelligence.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/04/24/technology/google-anthropic-investment-artificial-intelligence.html</guid>
-      <description>Aquesta injecció de capital busca assegurar capacitat de càlcul massiva davant la creixent demanda d'eines d'intel·ligència artificial.</description>
+      <description>Aquesta injecció de capital busca assegurar capacitat de càlcul massiva davant la creixent demanda de productes d'intel·ligència artificial.</description>
       <author>NYT Technology</author>
+      <pubDate>2026-04-24</pubDate>
+    </item>
+    <item>
+      <title>La finestra de sortida a borsa per a la tecnologia climàtica podria obrir-se finalment</title>
+      <link>https://techcrunch.com/2026/04/25/the-climate-tech-ipo-window-could-finally-be-cracking-open/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/04/25/the-climate-tech-ipo-window-could-finally-be-cracking-open/</guid>
+      <description>L'èxit de l'empresa nuclear X-energy a la borsa assenyala un moment clau per als inversors en tecnologia climàtica.</description>
+      <author>TechCrunch</author>
+      <pubDate>2026-04-25</pubDate>
+    </item>
+    <item>
+      <title>Per què Cohere es fusiona amb Aleph Alpha</title>
+      <link>https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/</guid>
+      <description>Les dues empreses s'uneixen per oferir una alternativa europea i canadenca sobirana en un mercat dominat pels Estats Units.</description>
+      <author>TechCrunch</author>
+      <pubDate>2026-04-25</pubDate>
+    </item>
+    <item>
+      <title>Investigadors de Discord obtenen accés no autoritzat a Mythos d'Anthropic</title>
+      <link>https://www.wired.com/story/security-news-this-week-discord-sleuths-gained-unauthorized-access-to-anthropics-mythos/</link>
+      <guid isPermaLink="true">https://www.wired.com/story/security-news-this-week-discord-sleuths-gained-unauthorized-access-to-anthropics-mythos/</guid>
+      <description>El model d'intel·ligència artificial centrat en ciberseguretat ha patit una filtració, qüestionant les mesures de protecció de l'empresa.</description>
+      <author>Wired</author>
+      <pubDate>2026-04-25</pubDate>
+    </item>
+    <item>
+      <title>L'última actualització de Fitbit converteix l'aplicació en un entrenador personal conversacional</title>
+      <link>https://www.digitaltrends.com/wearables/fitbits-latest-app-update-wants-to-be-a-conversational-personal-trainer/</link>
+      <guid isPermaLink="true">https://www.digitaltrends.com/wearables/fitbits-latest-app-update-wants-to-be-a-conversational-personal-trainer/</guid>
+      <description>La versió 4.68 introdueix controls de son i orientació pas a pas mitjançant un assistent virtual interactiu.</description>
+      <author>Digital Trends</author>
       <pubDate>2026-04-24</pubDate>
     </item>
     <item>
       <title>XChat, l'aplicació independent de missatgeria d'X, ja està disponible a iOS</title>
       <link>https://www.engadget.com/apps/xchat-the-standalone-app-for-messaging-on-x-is-available-on-ios-now-214826886.html?src=rss</link>
       <guid isPermaLink="true">https://www.engadget.com/apps/xchat-the-standalone-app-for-messaging-on-x-is-available-on-ios-now-214826886.html?src=rss</guid>
-      <description>La nova plataforma ofereix xats privats, trucades i missatges efímers, separant les comunicacions directes de la xarxa social principal.</description>
+      <description>La nova plataforma ofereix xats privats, missatges efímers i trucades d'àudio i vídeo sense anuncis ni rastreig.</description>
       <author>Engadget</author>
       <pubDate>2026-04-24</pubDate>
     </item>
     <item>
-      <title>Cohere adquireix i es fusiona amb una empresa alemanya per crear una potència transatlàntica d'IA</title>
-      <link>https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/</guid>
-      <description>La unió d'ambdues companyies busca oferir solucions d'intel·ligència artificial robustes per a governs i empreses en sectors regulats.</description>
-      <author>TechCrunch</author>
-      <pubDate>2026-04-24</pubDate>
-    </item>
-    <item>
-      <title>Les accions d'X-energy es disparen un 27% en el seu primer dia de cotització després d'una sortida a borsa ampliada</title>
-      <link>https://techcrunch.com/2026/04/24/x-energy-stock-pops-27-on-first-day-of-trading-following-upsized-ipo/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/04/24/x-energy-stock-pops-27-on-first-day-of-trading-following-upsized-ipo/</guid>
-      <description>L'empresa d'energia nuclear, recolzada per Amazon, aprofita l'alta demanda energètica dels centres de dades per triomfar al Nasdaq.</description>
-      <author>TechCrunch</author>
-      <pubDate>2026-04-24</pubDate>
-    </item>
-    <item>
-      <title>El Cybercab entra en producció, però Elon Musk avisa que l'inici serà "molt lent"</title>
-      <link>https://www.cnet.com/roadshow/news/tesla-cybercab-begins-production/</link>
-      <guid isPermaLink="true">https://www.cnet.com/roadshow/news/tesla-cybercab-begins-production/</guid>
-      <description>El robotaxi autònom de Tesla ja es fabrica a Texas, tot i que el ritme inicial serà inferior a l'esperat.</description>
-      <author>CNET</author>
+      <title>El que obvia la narrativa de l'"apocalipsi laboral" de la IA</title>
+      <link>https://www.ft.com/content/f55c4eba-6e10-4283-8eae-e9f475048b37</link>
+      <guid isPermaLink="true">https://www.ft.com/content/f55c4eba-6e10-4283-8eae-e9f475048b37</guid>
+      <description>L'automatització de tasques no implica necessàriament la destrucció d'ocupació, sinó una transformació profunda de les habilitats requerides.</description>
+      <author>Financial Times</author>
       <pubDate>2026-04-25</pubDate>
     </item>
     <item>
-      <title>La governadora de Maine veta la prohibició temporal de nous grans centres de dades a l'estat</title>
-      <link>https://www.cnet.com/tech/services-and-software/maine-could-become-first-state-to-pass-year-long-ban-on-new-large-data-centers/</link>
-      <guid isPermaLink="true">https://www.cnet.com/tech/services-and-software/maine-could-become-first-state-to-pass-year-long-ban-on-new-large-data-centers/</guid>
-      <description>Janet Mills ha rebutjat la moratòria argumentant que perjudicaria el desenvolupament econòmic de certes zones necessitades de l'estat.</description>
-      <author>CNET</author>
-      <pubDate>2026-04-24</pubDate>
-    </item>
-    <item>
-      <title>"M'ha deixat al·lucinat": el robot Project Ace de Sony juga a ping-pong millor que els professionals</title>
-      <link>https://www.techradar.com/ai-platforms-assistants/it-totally-blew-my-mind-sonys-project-ace-robot-plays-ping-pong-better-than-the-pros-and-could-mark-a-major-robotics-turning-point</link>
-      <guid isPermaLink="true">https://www.techradar.com/ai-platforms-assistants/it-totally-blew-my-mind-sonys-project-ace-robot-plays-ping-pong-better-than-the-pros-and-could-mark-a-major-robotics-turning-point</guid>
-      <description>Aquest avanç demostra com la intel·ligència artificial pot dominar tasques físiques complexes que requereixen velocitat i precisió extremes.</description>
-      <author>TechRadar</author>
-      <pubDate>2026-04-24</pubDate>
-    </item>
-    <item>
-      <title>Les accions d'Intel viuen el seu millor dia des de 1987 i es disparen un 24%</title>
-      <link>https://www.cnbc.com/2026/04/24/intel-stock-soars-more-than-20percent-as-chipmaker-shows-signs-of-turnaround.html</link>
-      <guid isPermaLink="true">https://www.cnbc.com/2026/04/24/intel-stock-soars-more-than-20percent-as-chipmaker-shows-signs-of-turnaround.html</guid>
-      <description>El suport governamental i l'aposta per la intel·ligència artificial impulsen la recuperació històrica del fabricant de xips al mercat.</description>
-      <author>CNBC Technology</author>
-      <pubDate>2026-04-24</pubDate>
-    </item>
-    <item>
-      <title>Google invertirà fins a 40.000 milions de dòlars en Anthropic per diversificar en IA</title>
+      <title>Google invertirà fins a 40.000 milions de dòlars en Anthropic per diversificar les seves apostes en IA</title>
       <link>https://www.cnbc.com/2026/04/24/google-to-invest-up-to-40-billion-in-anthropic-as-search-giant-spreads-its-ai-bets.html</link>
       <guid isPermaLink="true">https://www.cnbc.com/2026/04/24/google-to-invest-up-to-40-billion-in-anthropic-as-search-giant-spreads-its-ai-bets.html</guid>
-      <description>Aquest acord multimilionari consolida l'aliança estratègica entre ambdues empreses per competir pel lideratge en el sector tecnològic.</description>
+      <description>L'acord amplia l'aliança existent, permetent a Anthropic accedir a més potència de càlcul per als seus models avançats.</description>
       <author>CNBC Technology</author>
       <pubDate>2026-04-24</pubDate>
     </item>
     <item>
-      <title>Què passa per alt la narrativa de l'«apocalipsi laboral» de la IA</title>
-      <link>https://www.ft.com/content/f55c4eba-6e10-4283-8eae-e9f475048b37</link>
-      <guid isPermaLink="true">https://www.ft.com/content/f55c4eba-6e10-4283-8eae-e9f475048b37</guid>
-      <description>La capacitat tecnològica per automatitzar tasques no determina per si sola l'impacte real en el futur del mercat de treball.</description>
+      <title>Guerra de talent en IA: La indústria del programari, nou objectiu mentre els directius fugen a OpenAI</title>
+      <link>https://www.cnbc.com/2026/04/25/ai-talent-wars-enterprise-software-executives-openai.html</link>
+      <guid isPermaLink="true">https://www.cnbc.com/2026/04/25/ai-talent-wars-enterprise-software-executives-openai.html</guid>
+      <description>Les grans tecnològiques s'enfronten a una fugida de cervells que amenaça la seva capacitat d'innovació davant l'auge d'OpenAI.</description>
+      <author>CNBC Technology</author>
+      <pubDate>2026-04-25</pubDate>
+    </item>
+    <item>
+      <title>Provem el xatbot Grok de xAI conduint un Tesla per Nova York. Això és el que va passar.</title>
+      <link>https://www.cnbc.com/2026/04/25/tesla-and-xais-grok-shows-promises-and-risks-of-ai-chatbots-in-cars.html</link>
+      <guid isPermaLink="true">https://www.cnbc.com/2026/04/25/tesla-and-xais-grok-shows-promises-and-risks-of-ai-chatbots-in-cars.html</guid>
+      <description>La integració de l'assistent virtual amb la conducció autònoma mostra el potencial de la intel·ligència artificial als vehicles.</description>
+      <author>CNBC Technology</author>
+      <pubDate>2026-04-25</pubDate>
+    </item>
+    <item>
+      <title>Les empreses amb accés a Mythos demanen una defensa conjunta de la infraestructura</title>
+      <link>https://www.ft.com/content/e96bc361-d222-4190-80fe-e357fa86ef4d</link>
+      <guid isPermaLink="true">https://www.ft.com/content/e96bc361-d222-4190-80fe-e357fa86ef4d</guid>
+      <description>Els experts en ciberseguretat alerten que la nova eina requerirà una coordinació estreta entre governs i sector privat.</description>
       <author>Financial Times</author>
       <pubDate>2026-04-25</pubDate>
     </item>
@@ -115,143 +131,127 @@
       <title>La increïble doble vida d'un venedor de programari espia convertit en espia</title>
       <link>https://www.ft.com/content/fef3bc59-358a-4e43-aef1-e61194d8b908</link>
       <guid isPermaLink="true">https://www.ft.com/content/fef3bc59-358a-4e43-aef1-e61194d8b908</guid>
-      <description>Un empresari d'èxit en la venda d'aparells de vigilància utilitzava els seus propis invents per controlar el seu entorn.</description>
+      <description>Després de fer fortuna venent dispositius de vigilància, va acabar utilitzant la seva pròpia tecnologia per infiltrar-se en secret.</description>
       <author>Financial Times</author>
       <pubDate>2026-04-25</pubDate>
     </item>
     <item>
-      <title>Cinc compres fàcils de reparar que et podrien durar per sempre</title>
+      <title>Cinc compres fàcils de reparar que podrien durar-te tota la vida</title>
       <link>https://www.ft.com/content/5edad923-163e-462f-83bf-dce6f28683a8</link>
       <guid isPermaLink="true">https://www.ft.com/content/5edad923-163e-462f-83bf-dce6f28683a8</guid>
-      <description>Invertir en maletes, rellotges i portàtils dissenyats per ser arreglats fàcilment fomenta un consum més sostenible i durador.</description>
+      <description>Maletes, rellotges i portàtils dissenyats per combatre l'obsolescència programada i fomentar un consum molt més sostenible i responsable.</description>
       <author>Financial Times</author>
       <pubDate>2026-04-25</pubDate>
     </item>
     <item>
-      <title>Les accions de Nvidia assoleixen un rècord i superen els 5 bilions de capitalització</title>
+      <title>Les accions d'Intel viuen el seu millor dia des de 1987, disparant-se un 24%</title>
+      <link>https://www.cnbc.com/2026/04/24/intel-stock-soars-more-than-20percent-as-chipmaker-shows-signs-of-turnaround.html</link>
+      <guid isPermaLink="true">https://www.cnbc.com/2026/04/24/intel-stock-soars-more-than-20percent-as-chipmaker-shows-signs-of-turnaround.html</guid>
+      <description>L'optimisme pel suport governamental i la reestructuració de l'empresa impulsen la confiança dels inversors en el sector dels xips.</description>
+      <author>CNBC Technology</author>
+      <pubDate>2026-04-24</pubDate>
+    </item>
+    <item>
+      <title>Les accions de Nvidia tanquen en màxims històrics, superant els 5 bilions de dòlars de capitalització</title>
       <link>https://www.cnbc.com/2026/04/24/nvidia-stock-closes-at-record-pushing-market-cap-past-5-trillion.html</link>
       <guid isPermaLink="true">https://www.cnbc.com/2026/04/24/nvidia-stock-closes-at-record-pushing-market-cap-past-5-trillion.html</guid>
-      <description>L'efecte arrossegament de la pujada d'Intel consolida el domini financer de l'empresa en la indústria dels semiconductors.</description>
+      <description>L'efecte arrossegament d'Intel consolida el domini de l'empresa en el mercat de maquinari per a intel·ligència artificial.</description>
       <author>CNBC Technology</author>
       <pubDate>2026-04-24</pubDate>
     </item>
     <item>
-      <title>Microsoft planeja les primeres baixes voluntàries per a un 7% de la plantilla als EUA</title>
+      <title>Microsoft planeja les primeres baixes voluntàries per a fins al 7% de la seva plantilla als EUA</title>
       <link>https://www.cnbc.com/2026/04/23/microsoft-plans-first-voluntary-retirement-program-for-us-employees.html</link>
       <guid isPermaLink="true">https://www.cnbc.com/2026/04/23/microsoft-plans-first-voluntary-retirement-program-for-us-employees.html</guid>
-      <description>La mesura s'adreça a treballadors veterans, buscant reestructurar l'equip sense recórrer a acomiadaments forçosos en un context d'incertesa.</description>
+      <description>La mesura inèdita busca reduir costos laborals oferint sortides incentivades a treballadors veterans enmig de la reestructuració tecnològica.</description>
       <author>CNBC Technology</author>
       <pubDate>2026-04-24</pubDate>
-    </item>
-    <item>
-      <title>X-energy, desenvolupador nuclear recolzat per Amazon, es dispara un 27% en el seu debut</title>
-      <link>https://www.ft.com/content/905d06cf-9b28-494a-be26-4a64f8269b73</link>
-      <guid isPermaLink="true">https://www.ft.com/content/905d06cf-9b28-494a-be26-4a64f8269b73</guid>
-      <description>L'auge de la intel·ligència artificial dispara la necessitat energètica dels centres de dades, beneficiant les noves alternatives nuclears.</description>
-      <author>Financial Times</author>
-      <pubDate>2026-04-24</pubDate>
-    </item>
-    <item>
-      <title>Els xips personalitzats d'Amazon reben l'impuls de Meta per triomfar en IA</title>
-      <link>https://www.cnbc.com/2026/04/24/amazon-custom-chips-get-a-boost-from-meta-giving-the-cloud-giant-another-path-to-win-in-ai.html</link>
-      <guid isPermaLink="true">https://www.cnbc.com/2026/04/24/amazon-custom-chips-get-a-boost-from-meta-giving-the-cloud-giant-another-path-to-win-in-ai.html</guid>
-      <description>L'acord demostra que AWS no només lidera en capacitat al núvol, sinó també en maquinari específic per a intel·ligència artificial.</description>
-      <author>CNBC Technology</author>
-      <pubDate>2026-04-24</pubDate>
-    </item>
-    <item>
-      <title>Com una nova productora de Hollywood recolzada per Amazon utilitza la IA per reduir costos</title>
-      <link>https://www.cnbc.com/2026/04/24/an-aws-backed-hollywood-startup-deploys-ai-for-speed-and-cost-cutting.html</link>
-      <guid isPermaLink="true">https://www.cnbc.com/2026/04/24/an-aws-backed-hollywood-startup-deploys-ai-for-speed-and-cost-cutting.html</guid>
-      <description>Aquesta empresa emergent busca revolucionar els rodatges a Los Angeles integrant tecnologia avançada per guanyar eficiència i rapidesa.</description>
-      <author>CNBC Technology</author>
-      <pubDate>2026-04-24</pubDate>
-    </item>
-    <item>
-      <title>Barcelona estrena el CaixaResearch Institute, un gran centre per revolucionar el tractament de les malalties més freqüents</title>
-      <link>https://www.ara.cat/societat/salut/desxifrant-sistema-immunitari-gran-centre-medicina-futur-s-instal-barcelona_1_5715450.html</link>
-      <guid isPermaLink="true">https://www.ara.cat/societat/salut/desxifrant-sistema-immunitari-gran-centre-medicina-futur-s-instal-barcelona_1_5715450.html</guid>
-      <description>Aquest nou espai pioner a l'Estat se centrarà en la immunoteràpia per combatre patologies com el càncer o l'Alzheimer.</description>
-      <author>Ara.cat</author>
-      <pubDate>2026-04-23</pubDate>
     </item>
     <item>
       <title>Ciberatacs informàtics: es doblen el nombre de ciberincidents a sistemes públics</title>
       <link>https://www.3cat.cat/3catinfo/ciberatacs-informatics-es-doblen-el-nombre-de-ciberincidents-a-sistemes-publics/noticia/3406320/</link>
       <guid isPermaLink="true">https://www.3cat.cat/3catinfo/ciberatacs-informatics-es-doblen-el-nombre-de-ciberincidents-a-sistemes-publics/noticia/3406320/</guid>
-      <description>L'Agència de Ciberseguretat alerta d'un augment dràstic d'amenaces, afectant especialment els sectors sanitari i universitari durant l'últim any.</description>
+      <description>L'any passat es van registrar més de 6.500 incidents a la Generalitat, la majoria bloquejats per les barreres de seguretat.</description>
       <author>324.cat</author>
       <pubDate>2026-04-25</pubDate>
     </item>
     <item>
-      <title>Europa s’acosta a llançar el seu propi Bizum públic’ per competir amb Visa, Apple Pay i les criptomonedes</title>
-      <link>https://www.elperiodico.cat/ca/economia/20260424/europa-llancar-bizum-public-competir-visa-apple-pay-criptomonedes-129474349?utm_source=rss-noticias&amp;amp;utm_medium=feed&amp;amp;utm_campaign=tecnologia</link>
-      <guid isPermaLink="true">https://www.elperiodico.cat/ca/economia/20260424/europa-llancar-bizum-public-competir-visa-apple-pay-criptomonedes-129474349?utm_source=rss-noticias&amp;amp;utm_medium=feed&amp;amp;utm_campaign=tecnologia</guid>
-      <description>El Banc Central Europeu prepara l'euro digital establint acords tècnics per unificar els pagaments a tota l'eurozona.</description>
-      <author>El Periódico</author>
-      <pubDate>2026-04-24</pubDate>
-    </item>
-    <item>
-      <title>Pagar amb Bizum a les botigues físiques serà una realitat a partir del 18 de maig: com funciona i qui ho podrà fer?</title>
-      <link>https://www.rac1.cat/economia/20260424/340607/pagar-amb-bizum-botigues-fisiques-sera-realitat-partir-18-maig-funciona-ho-podra.html</link>
-      <guid isPermaLink="true">https://www.rac1.cat/economia/20260424/340607/pagar-amb-bizum-botigues-fisiques-sera-realitat-partir-18-maig-funciona-ho-podra.html</guid>
-      <description>Inicialment, només els clients de CaixaBank, Banc Sabadell i Bankinter podran utilitzar aquest mètode als comerços presencials.</description>
-      <author>RAC1</author>
-      <pubDate>2026-04-24</pubDate>
-    </item>
-    <item>
-      <title>Les consultores tecnològiques Capgemini i Inetum anuncien acomiadaments a l'Estat</title>
-      <link>https://www.viaempresa.cat/empresa/consultores-tecnologiques-capgemini-inetum-anuncien-acomiadaments-estat_2233797_102.html</link>
-      <guid isPermaLink="true">https://www.viaempresa.cat/empresa/consultores-tecnologiques-capgemini-inetum-anuncien-acomiadaments-estat_2233797_102.html</guid>
-      <description>L'impacte de la intel·ligència artificial i els canvis tecnològics motiven aquestes retallades, que afectaran desenes de treballadors a Catalunya.</description>
-      <author>Via Empresa</author>
-      <pubDate>2026-04-24</pubDate>
-    </item>
-    <item>
-      <title>Chery i Ebro esperen començar a fabricar cotxes elèctrics a Barcelona a finals del 2026</title>
-      <link>https://www.3cat.cat/3catinfo/chery-i-ebro-esperen-comencar-a-fabricar-cotxes-electrics-a-barcelona-a-finals-del-2026/noticia/3406335/</link>
-      <guid isPermaLink="true">https://www.3cat.cat/3catinfo/chery-i-ebro-esperen-comencar-a-fabricar-cotxes-electrics-a-barcelona-a-finals-del-2026/noticia/3406335/</guid>
-      <description>L'aliança busca reindustrialitzar l'antiga planta de Nissan a la Zona Franca, impulsant la mobilitat sostenible al territori.</description>
-      <author>324.cat</author>
-      <pubDate>2026-04-24</pubDate>
-    </item>
-    <item>
-      <title>El sector TIC català suma 7.000 dones en un any i supera les 58.000 professionals</title>
-      <link>https://www.metadata.cat/noticia/6276/sector-tic-catala-suma-7.000-dones-supera-58.000-professionals</link>
-      <guid isPermaLink="true">https://www.metadata.cat/noticia/6276/sector-tic-catala-suma-7.000-dones-supera-58.000-professionals</guid>
-      <description>Tot i l'augment de la presència femenina, l'accés a càrrecs de lideratge i la bretxa salarial continuen sent reptes.</description>
-      <author>MetaData</author>
-      <pubDate>2026-04-21</pubDate>
-    </item>
-    <item>
-      <title>L’Agència de Ciberseguretat registra més de 6.500 atacs de hackers el 2025, el doble que fa un any</title>
-      <link>https://beteve.cat/societat/agencia-ciberseguretat-detecta-doble-ciberatacs-durant-2025/</link>
-      <guid isPermaLink="true">https://beteve.cat/societat/agencia-ciberseguretat-detecta-doble-ciberatacs-durant-2025/</guid>
-      <description>Les dades confirmen una escalada sense precedents en les vulneracions als sistemes d'informació de la Generalitat i altres institucions.</description>
-      <author>Betevé</author>
+      <title>La Generalitat detecta 25 milions d'intents de ciberatacs al dia contra els seus sistemes</title>
+      <link>https://www.ara.cat/societat/successos/generalitat-detecta-25-milions-d-intents-ciberatacs-dia-sistemes_1_5718573.html</link>
+      <guid isPermaLink="true">https://www.ara.cat/societat/successos/generalitat-detecta-25-milions-d-intents-ciberatacs-dia-sistemes_1_5718573.html</guid>
+      <description>L'Agència de Ciberseguretat alerta d'un augment del 32% de les amenaces, tot i que el 80% s'aturen automàticament.</description>
+      <author>Ara.cat</author>
       <pubDate>2026-04-25</pubDate>
-    </item>
-    <item>
-      <title>Canvi d’era a Apple: Tim Cook deixarà el càrrec i John Ternus assumirà la direcció</title>
-      <link>https://www.metadata.cat/noticia/6274/apple-tim-cook-deixara-el-carrec-john-ternus-assumira-direccio</link>
-      <guid isPermaLink="true">https://www.metadata.cat/noticia/6274/apple-tim-cook-deixara-el-carrec-john-ternus-assumira-direccio</guid>
-      <description>El relleu, previst per al setembre, marcarà l'inici d'una nova etapa amb un lideratge de perfil més tècnic.</description>
-      <author>MetaData</author>
-      <pubDate>2026-04-21</pubDate>
     </item>
     <item>
       <title>Un dels primers centres d'Europa especialitzat en recerca del sistema immunitari comença a investigar a Barcelona</title>
       <link>https://www.rac1.cat/salut/20260424/340698/un-primers-centres-europa-especialitzat-recerca-sistema-immunitari-investigar-barcelona.html</link>
       <guid isPermaLink="true">https://www.rac1.cat/salut/20260424/340698/un-primers-centres-europa-especialitzat-recerca-sistema-immunitari-investigar-barcelona.html</guid>
-      <description>La instal·lació consolida la capital catalana com un referent internacional en la investigació biomèdica i el desenvolupament de noves teràpies.</description>
+      <description>El nou CaixaResearch Institute se centrarà a buscar teràpies innovadores per a malalties greus com el càncer o l'Alzheimer.</description>
       <author>RAC1</author>
       <pubDate>2026-04-24</pubDate>
+    </item>
+    <item>
+      <title>El CaixaResearch aposta per la immunologia</title>
+      <link>https://www.lavanguardia.com/encatala/20260425/11522249/caixaresearch-aposta-per-immunologia.html</link>
+      <guid isPermaLink="true">https://www.lavanguardia.com/encatala/20260425/11522249/caixaresearch-aposta-per-immunologia.html</guid>
+      <description>Aquest centre pioner a l'Estat espanyol vol consolidar Barcelona com a capital de referència mundial en l'àmbit de la biomedicina.</description>
+      <author>La Vanguardia (en català)</author>
+      <pubDate>2026-04-25</pubDate>
+    </item>
+    <item>
+      <title>Pagar amb Bizum a les botigues físiques serà una realitat a partir del 18 de maig: com funciona i qui ho podrà fer?</title>
+      <link>https://www.rac1.cat/economia/20260424/340607/pagar-amb-bizum-botigues-fisiques-sera-realitat-partir-18-maig-funciona-ho-podra.html</link>
+      <guid isPermaLink="true">https://www.rac1.cat/economia/20260424/340607/pagar-amb-bizum-botigues-fisiques-sera-realitat-partir-18-maig-funciona-ho-podra.html</guid>
+      <description>Inicialment, només els clients de CaixaBank, Banc Sabadell i Bankinter podran utilitzar aquest mètode de pagament als comerços.</description>
+      <author>RAC1</author>
+      <pubDate>2026-04-24</pubDate>
+    </item>
+    <item>
+      <title>Europa s’acosta a llançar el seu propi Bizum públic’ per competir amb Visa, Apple Pay i les criptomonedes</title>
+      <link>https://www.elperiodico.cat/ca/economia/20260424/europa-llancar-bizum-public-competir-visa-apple-pay-criptomonedes-129474349?utm_source=rss-noticias&amp;amp;utm_medium=feed&amp;amp;utm_campaign=tecnologia</link>
+      <guid isPermaLink="true">https://www.elperiodico.cat/ca/economia/20260424/europa-llancar-bizum-public-competir-visa-apple-pay-criptomonedes-129474349?utm_source=rss-noticias&amp;amp;utm_medium=feed&amp;amp;utm_campaign=tecnologia</guid>
+      <description>El Banc Central Europeu avança en la creació de l'euro digital acordant estàndards tècnics per facilitar-ne l'ús a l'eurozona.</description>
+      <author>El Periódico</author>
+      <pubDate>2026-04-24</pubDate>
+    </item>
+    <item>
+      <title>RENFE i ADIF treballen en un centre integrat de control ferroviari sense concretar data ni ubicació</title>
+      <link>https://www.vilaweb.cat/noticies/renfe-adif-treballen-centre-integrat-control-ferroviari-sense-data/</link>
+      <guid isPermaLink="true">https://www.vilaweb.cat/noticies/renfe-adif-treballen-centre-integrat-control-ferroviari-sense-data/</guid>
+      <description>L'objectiu és unificar la regulació de circulació i les operacions de Rodalies per optimitzar el servei a llarg termini.</description>
+      <author>VilaWeb</author>
+      <pubDate>2026-04-25</pubDate>
+    </item>
+    <item>
+      <title>Les consultores tecnològiques Capgemini i Inetum anuncien acomiadaments a l'Estat</title>
+      <link>https://www.viaempresa.cat/empresa/consultores-tecnologiques-capgemini-inetum-anuncien-acomiadaments-estat_2233797_102.html</link>
+      <guid isPermaLink="true">https://www.viaempresa.cat/empresa/consultores-tecnologiques-capgemini-inetum-anuncien-acomiadaments-estat_2233797_102.html</guid>
+      <description>Els expedients de regulació d'ocupació afectaran centenars de treballadors, incloent-hi uns 130 empleats a les oficines de Barcelona.</description>
+      <author>Via Empresa</author>
+      <pubDate>2026-04-24</pubDate>
+    </item>
+    <item>
+      <title>El sector TIC català suma 7.000 dones en un single any i supera les 58.000 professionals</title>
+      <link>https://www.metadata.cat/noticia/6276/sector-tic-catala-suma-7.000-dones-supera-58.000-professionals</link>
+      <guid isPermaLink="true">https://www.metadata.cat/noticia/6276/sector-tic-catala-suma-7.000-dones-supera-58.000-professionals</guid>
+      <description>Tot i l'augment de la presència femenina, encara persisteixen reptes importants com la bretxa salarial i l'accés al lideratge.</description>
+      <author>MetaData</author>
+      <pubDate>2026-04-21</pubDate>
+    </item>
+    <item>
+      <title>Canvi d’era a Apple: Tim Cook deixarà el càrrec i John Ternus assumirà la direcció</title>
+      <link>https://www.metadata.cat/noticia/6274/apple-tim-cook-deixara-el-carrec-john-ternus-assumira-direccio</link>
+      <guid isPermaLink="true">https://www.metadata.cat/noticia/6274/apple-tim-cook-deixara-el-carrec-john-ternus-assumira-direccio</guid>
+      <description>El relleu, previst per al setembre, marcarà l'inici d'una nova etapa amb un perfil més tècnic liderant la companyia.</description>
+      <author>MetaData</author>
+      <pubDate>2026-04-21</pubDate>
     </item>
     <item>
       <title>Apple i el relleu del CEO – Programa 661</title>
       <link>https://mossegalapoma.cat/apple-i-el-relleu-del-ceo-programa-661/</link>
       <guid isPermaLink="true">https://mossegalapoma.cat/apple-i-el-relleu-del-ceo-programa-661/</guid>
-      <description>Anàlisi del futur d'Apple sense Tim Cook i l'ús d'IA per monitorar empleats a Meta.</description>
+      <description>S'analitza el futur d'Apple sense Tim Cook i la polèmica decisió de Meta de monitorar els empleats amb IA.</description>
       <author>Mossega la poma</author>
       <pubDate>2026-04-24</pubDate>
     </item>
@@ -259,23 +259,15 @@
       <title>Especial Oients residents als Estats Units – Programa 660</title>
       <link>https://mossegalapoma.cat/especial-oients-residents-als-estats-units-programa-660/</link>
       <guid isPermaLink="true">https://mossegalapoma.cat/especial-oients-residents-als-estats-units-programa-660/</guid>
-      <description>Conversa amb seguidors nord-americans sobre l'actualitat tecnològica, política i social del seu país.</description>
+      <description>Conversa amb oients nord-americans sobre l'actualitat tecnològica, eines de programació al núvol i intel·ligència artificial com Claude Code.</description>
       <author>Mossega la poma</author>
       <pubDate>2026-04-20</pubDate>
-    </item>
-    <item>
-      <title>La connexió entre IA, política i tecnologia – Programa 659</title>
-      <link>https://mossegalapoma.cat/la-connexio-entre-ia-politica-i-tecnologia/</link>
-      <guid isPermaLink="true">https://mossegalapoma.cat/la-connexio-entre-ia-politica-i-tecnologia/</guid>
-      <description>Reflexió sobre l'impacte social, ètic i polític de la intel·ligència artificial a les nostres societats.</description>
-      <author>Mossega la poma</author>
-      <pubDate>2026-04-10</pubDate>
     </item>
     <item>
       <title>L' Altra Ràdio - Els robotaxis: taxis sense conductor humà</title>
       <link>https://podcasts.cat/36/34009124/</link>
       <guid isPermaLink="true">https://podcasts.cat/36/34009124/</guid>
-      <description>Jordi Barreda analitza el funcionament i l'impacte dels vehicles autònoms destinats al transport compartit de passatgers.</description>
+      <description>Jordi Barreda explora el funcionament i l'impacte dels vehicles autònoms destinats al transport compartit de passatgers.</description>
       <author>L'altra ràdio</author>
       <pubDate>2026-04-23</pubDate>
     </item>
@@ -283,7 +275,7 @@
       <title>L' Altra Ràdio - Especial 50 anys de Ràdio 4</title>
       <link>https://podcasts.cat/36/33985689/</link>
       <guid isPermaLink="true">https://podcasts.cat/36/33985689/</guid>
-      <description>Edició especial enregistrada al congrés SCC-IEC per commemorar el mig segle d'història de l'emissora.</description>
+      <description>Edició especial enregistrada a la Universitat Ramon Llull per commemorar el mig segle d'història de l'emissora.</description>
       <author>L'altra ràdio</author>
       <pubDate>2026-04-16</pubDate>
     </item>
@@ -291,7 +283,7 @@
       <title>El gòTIC - Tenim una missió! del 15/4/2026</title>
       <link>https://podcasts.cat/191/33980992/</link>
       <guid isPermaLink="true">https://podcasts.cat/191/33980992/</guid>
-      <description>Estratègies i recursos pràctics per resoldre els grans reptes i inquietuds de la ciutadania digital actual.</description>
+      <description>Estratègies i recursos pràctics per afrontar els grans reptes i inquietuds de la ciutadania en l'entorn digital.</description>
       <author>El Gòtic</author>
       <pubDate>2026-04-14</pubDate>
     </item>
@@ -299,7 +291,7 @@
       <title>Col·lapse de flotes de robotaxis</title>
       <link>https://www.societatdelainformacio.com/podcast/collapse-de-flotes-de-robotaxis/</link>
       <guid isPermaLink="true">https://www.societatdelainformacio.com/podcast/collapse-de-flotes-de-robotaxis/</guid>
-      <description>Una fallada tècnica paralitza desenes de vehicles autònoms de Baidu a Wuhan, bloquejant el trànsit urbà.</description>
+      <description>Una fallada tècnica paralitza desenes de vehicles autònoms de Baidu a Wuhan, provocant un gran caos circulatori.</description>
       <author>Societat de la Informació</author>
       <pubDate>2026-04-14</pubDate>
     </item>
@@ -307,7 +299,7 @@
       <title>La pensió de les paneroles i altres patrons de decepció</title>
       <link>https://rss.com/podcasts/focaterra/2747347</link>
       <guid isPermaLink="true">https://rss.com/podcasts/focaterra/2747347</guid>
-      <description>Descobreix els trucs de disseny fosc que utilitzen les empreses per manipular les teves decisions digitals.</description>
+      <description>Anàlisi dels trucs de disseny enganyosos que utilitzen grans empreses per manipular les decisions dels usuaris a internet.</description>
       <author>Foc a Terra</author>
       <pubDate>2026-04-20</pubDate>
     </item>
@@ -315,7 +307,7 @@
       <title>Avui parlem d'urbanisme i dels cables de les façanes, amb Judith Urbano</title>
       <link>https://rss.com/podcasts/focaterra/2720885</link>
       <guid isPermaLink="true">https://rss.com/podcasts/focaterra/2720885</guid>
-      <description>Lliçons d'urbanisme barceloní i l'origen del cablejat a les façanes amb la doctora en Història de l'Art.</description>
+      <description>La doctora Judith Urbano repassa la història urbanística de Barcelona i l'origen del cablejat a les façanes.</description>
       <author>Foc a Terra</author>
       <pubDate>2026-04-13</pubDate>
     </item>
@@ -323,7 +315,7 @@
       <title>Matt Mullenweg reflexiona i opina sobre el rumb de WordPress</title>
       <link>https://www.wppodcast.cat/podcast/matt-mullenweg-reflexiona-i-opina-sobre-el-rumb-de-wordpress/</link>
       <guid isPermaLink="true">https://www.wppodcast.cat/podcast/matt-mullenweg-reflexiona-i-opina-sobre-el-rumb-de-wordpress/</guid>
-      <description>El creador de WordPress critica la cultura de procés actual que paralitza les decisions del projecte.</description>
+      <description>El creador de WordPress critica la burocràcia interna del projecte, alertant que paralitza la presa de decisions.</description>
       <author>WordPress Pòdcast</author>
       <pubDate>2026-04-21</pubDate>
     </item>
@@ -331,7 +323,7 @@
       <title>Eines d’IA per crear formació</title>
       <link>https://www.wppodcast.cat/podcast/eines-dia-per-crear-formacio/</link>
       <guid isPermaLink="true">https://www.wppodcast.cat/podcast/eines-dia-per-crear-formacio/</guid>
-      <description>Proposta de noves eines i instruccions per estandarditzar la creació de materials educatius sobre la plataforma.</description>
+      <description>L'equip formatiu proposa nous indicadors i eines d'intel·ligència artificial per estandarditzar la creació de materials educatius.</description>
       <author>WordPress Pòdcast</author>
       <pubDate>2026-04-14</pubDate>
     </item>
@@ -339,7 +331,7 @@
       <title>Capítol 63: Nanobots Therapeutics, robots per curar el càncer de bufeta</title>
       <link>https://traffic.omny.fm/d/clips/47dc05c7-7279-4c6f-9b31-ae74013297d9/d3709a08-7df4-4359-85b0-af0f00b8b4b3/3aef65a3-54f5-4aeb-ae97-b42f009d2bf3/audio.mp3?dist=RSS</link>
       <guid isPermaLink="true">https://traffic.omny.fm/d/clips/47dc05c7-7279-4c6f-9b31-ae74013297d9/d3709a08-7df4-4359-85b0-af0f00b8b4b3/3aef65a3-54f5-4aeb-ae97-b42f009d2bf3/audio.mp3?dist=RSS</guid>
-      <description>Una empresa emergent catalana desenvolupa robots microscòpics capaços de navegar pel cos per atacar tumors cancerosos.</description>
+      <description>Una empresa emergent catalana desenvolupa robots microscòpics capaços de navegar pel cos humà per atacar tumors cancerígens.</description>
       <author>RAC&amp;GO</author>
       <pubDate>2026-04-21</pubDate>
     </item>
@@ -347,7 +339,7 @@
       <title>Flutter &amp; GDG Barcelona Tech Talk – Creando tu primer plugin de Dart Analyzer</title>
       <link>https://www.meetup.com/gdg-barcelona/events/314247803/</link>
       <guid isPermaLink="true">https://www.meetup.com/gdg-barcelona/events/314247803/</guid>
-      <description>Sessió presencial a 42 Barcelona per aprendre a definir regles de lint personalitzades i millorar la qualitat del codi.</description>
+      <description>Sessió presencial al campus 42 Barcelona per aprendre a definir regles de lint personalitzades i millorar el codi.</description>
       <author>GDG Barcelona</author>
       <pubDate>2026-04-12</pubDate>
     </item>
@@ -363,7 +355,7 @@
       <title>IsardVDI: de desplegar escriptoris virtuals a executar IA locals</title>
       <link>https://www.meetup.com/barcelona-free-software/events/314377848/</link>
       <guid isPermaLink="true">https://www.meetup.com/barcelona-free-software/events/314377848/</guid>
-      <description>Alberto Larraz explicarà l'evolució d'aquesta alternativa lliure a Citrix o VMware, nascuda per a entorns educatius fa catorze anys.</description>
+      <description>Alberto Larraz explicarà l'evolució d'aquesta alternativa lliure a Citrix, des dels entorns educatius fins a les noves necessitats.</description>
       <author>Free Software Barcelona</author>
       <pubDate>2026-04-20</pubDate>
     </item>
@@ -371,7 +363,7 @@
       <title>Pixelats vs. KEYWE!! 🥝🥝</title>
       <link>https://www.youtube.com/watch?v=oXqW97Qvmac</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=oXqW97Qvmac</guid>
-      <description>Descobreix aquesta nova partida plena de caos i diversió cooperativa gestionant una oficina de correus amb dos kiwis.</description>
+      <description>Descobreix aquesta divertida partida cooperativa on els jugadors controlen dos kiwis treballant en una caòtica oficina de correus.</description>
       <author>Pixelats</author>
       <pubDate>2026-04-23</pubDate>
     </item>
@@ -379,7 +371,7 @@
       <title>Els Putxinel·lis - Capítol 7 - L'Escletxa</title>
       <link>https://www.youtube.com/watch?v=rJja24QeKtk</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=rJja24QeKtk</guid>
-      <description>Setè episodi d'aquesta sèrie on els protagonistes s'enfronten a nous reptes i misteris inesperats a través de l'escletxa.</description>
+      <description>Setè episodi d'aquesta sèrie on s'exploren noves trames i conflictes inesperats entre els personatges principals.</description>
       <author>Pixelats</author>
       <pubDate>2026-04-23</pubDate>
     </item>
