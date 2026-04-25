@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-04-24T12:00",
+  "generated_at": "2026-04-25T13:30",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
     {
       "name": "Ara.cat",
       "url": "https://www.ara.cat/rss/",
-      "articles_found": 7
+      "articles_found": 9
     },
     {
       "name": "El Periódico",
@@ -16,7 +16,7 @@
     {
       "name": "RAC1",
       "url": "https://www.rac1.cat/rss/home.xml",
-      "articles_found": 4
+      "articles_found": 5
     },
     {
       "name": "La Vanguardia (en català)",
@@ -26,7 +26,7 @@
     {
       "name": "VilaWeb",
       "url": "https://www.vilaweb.cat/feed/",
-      "articles_found": 2
+      "articles_found": 1
     },
     {
       "name": "NacióDigital",
@@ -36,7 +36,7 @@
     {
       "name": "324.cat",
       "url": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0",
-      "articles_found": 2
+      "articles_found": 3
     },
     {
       "name": "Softcatalà",
@@ -46,7 +46,7 @@
     {
       "name": "El Nacional.cat",
       "url": "https://www.elnacional.cat/uploads/feeds/feed_ca.xml",
-      "articles_found": 7
+      "articles_found": 9
     },
     {
       "name": "El Mon.cat",
@@ -66,7 +66,7 @@
     {
       "name": "Betevé",
       "url": "https://beteve.cat/feed/",
-      "articles_found": 0
+      "articles_found": 1
     },
     {
       "name": "El Punt Avui",
@@ -76,7 +76,7 @@
     {
       "name": "Segre",
       "url": "https://www.segre.com/ca/rss/home.xml",
-      "articles_found": 0
+      "articles_found": 5
     },
     {
       "name": "Regio7",
@@ -156,7 +156,7 @@
     {
       "name": "MetaData",
       "url": "https://www.metadata.cat/sindica",
-      "articles_found": 13
+      "articles_found": 11
     },
     {
       "name": "El Temps",
@@ -166,12 +166,12 @@
     {
       "name": "Àpunt",
       "url": "https://www.apuntmedia.es/rss/",
-      "articles_found": 5
+      "articles_found": 3
     },
     {
       "name": "El Periòdic d'Ontinyent",
       "url": "https://www.elperiodicvalencia.com/?feed=rss2",
-      "articles_found": 4
+      "articles_found": 0
     },
     {
       "name": "Saó",
@@ -191,7 +191,7 @@
     {
       "name": "Ara Balears",
       "url": "https://www.arabalears.cat/rss/",
-      "articles_found": 4
+      "articles_found": 1
     },
     {
       "name": "Manacor Comarcal",
@@ -201,7 +201,7 @@
     {
       "name": "Via Empresa",
       "url": "https://www.viaempresa.cat/uploads/feeds/feed_via-empresa-2024_ca.xml",
-      "articles_found": 3
+      "articles_found": 5
     },
     {
       "name": "Lúdica",
@@ -216,52 +216,20 @@
   ],
   "articles": [
     {
-      "title": "Meta acomiadarà 8.000 treballadors, un 10% de la plantilla, per a guanyar eficiència i finançar la IA",
-      "link_id": "c_6f84e4",
-      "source": "Àpunt",
-      "date": "2026-04-24",
-      "time": "07:54",
-      "summary": "La matriu de Facebook i Instagram paralitza 6.000 contractacions i aposta fortament per finançar la intel·ligència artificial."
+      "title": "L’Agència de Ciberseguretat registra més de 6.500 atacs de hackers el 2025, el doble que fa un any",
+      "link_id": "c_8c8073",
+      "source": "Betevé",
+      "date": "2026-04-25",
+      "time": "07:33",
+      "summary": "L’Agència de Ciberseguretat de Catalunya alerta d'un augment dràstic d'incidents, posant en risc infraestructures crítiques i dades sensibles."
     },
     {
-      "title": "Europa s’acosta a llançar el seu propi Bizum públic’ per competir amb Visa, Apple Pay i les criptomonedes",
-      "link_id": "c_b1b2ce",
-      "source": "El Periódico",
+      "title": "Un dels primers centres d'Europa especialitzat en recerca del sistema immunitari comença a investigar a Barcelona",
+      "link_id": "c_0482c1",
+      "source": "RAC1",
       "date": "2026-04-24",
-      "time": "12:19",
-      "summary": "El Banc Central Europeu acorda els estàndards tècnics per implementar aquesta nova moneda digital a tota l'eurozona."
-    },
-    {
-      "title": "El 72,6% de les persones ocupades en el sector TIC són homes i el 27,4% dones, segons l'ICD",
-      "link_id": "c_4df9e0",
-      "source": "Via Empresa",
-      "date": "2026-04-24",
-      "time": "11:31",
-      "summary": "L'informe de l'ICD alerta que la bretxa salarial al sector tecnològic català se situa en un 10%."
-    },
-    {
-      "title": "Cursa espacial: la batalla per la Lluna",
-      "link_id": "c_939a70",
-      "source": "Ara.cat",
-      "date": "2026-04-20",
-      "time": "05:00",
-      "summary": "El programa Artemis de la NASA busca avançar-se a la Xina en la nova exploració lunar tripulada."
-    },
-    {
-      "title": "Els repartidors de Glovo comencen una vaga que s’allargarà tot el cap de setmana",
-      "link_id": "c_389bc8",
-      "source": "VilaWeb",
-      "date": "2026-04-24",
-      "time": "11:13",
-      "summary": "La protesta respon a l'anunci de la plataforma d'acomiadar 750 treballadors arreu de l'estat espanyol."
-    },
-    {
-      "title": "Cop als autònoms societaris i col·laboradors: fins a 135 euros més de quota amb la nova base",
-      "link_id": "c_d6880c",
-      "source": "324.cat",
-      "date": "2026-04-24",
-      "time": "06:38",
-      "summary": "L'increment del 42% de la base mínima afectarà directament uns 112.000 treballadors per compte propi a Catalunya."
+      "time": "19:50",
+      "summary": "Aquest nou espai pioner al sud d'Europa se centrarà a desenvolupar teràpies innovadores per combatre malalties greus."
     },
     {
       "title": "Pagar amb Bizum a les botigues físiques serà una realitat a partir del 18 de maig: com funciona i qui ho podrà fer?",
@@ -269,31 +237,63 @@
       "source": "RAC1",
       "date": "2026-04-24",
       "time": "13:03",
-      "summary": "Inicialment, només els clients de CaixaBank, Banc Sabadell i Bankinter podran utilitzar aquest mètode de pagament presencial."
+      "summary": "CaixaBank, Sabadell i Bankinter seran els primers a permetre aquesta modalitat de pagament presencial, facilitant les compres diàries."
     },
     {
-      "title": "Les AFA del Pla de Mallorca s’uneixen per endarrerir el primer mòbil fins a 14 anys",
-      "link_id": "c_5baa74",
-      "source": "Ara Balears",
+      "title": "Capgemini planteja que l'ERO afecti uns 130 empleats a Barcelona",
+      "link_id": "c_81e38b",
+      "source": "Ara.cat",
+      "date": "2026-04-24",
+      "time": "14:19",
+      "summary": "La reestructuració de la consultora tecnològica respon als canvis del sector i impactarà significativament la plantilla de la capital catalana."
+    },
+    {
+      "title": "El 72,6% de les persones ocupades en el sector TIC són homes i el 27,4% dones, segons l'ICD",
+      "link_id": "c_4df9e0",
+      "source": "Via Empresa",
+      "date": "2026-04-24",
+      "time": "11:31",
+      "summary": "Malgrat l'accés igualitari a la tecnologia, la bretxa salarial i la manca de paritat laboral persisteixen al sector digital."
+    },
+    {
+      "title": "Chery i Ebro esperen començar a fabricar cotxes elèctrics a Barcelona a finals del 2026",
+      "link_id": "c_78c207",
+      "source": "324.cat",
+      "date": "2026-04-24",
+      "time": "21:42",
+      "summary": "L'aliança estratègica revitalitzarà l'antiga planta de Nissan a la Zona Franca, impulsant la mobilitat sostenible i l'ocupació local."
+    },
+    {
+      "title": "\"L'autobús està cobrint amb molt bona nota tots els problemes de Rodalies\"",
+      "link_id": "c_81ed36",
+      "source": "Ara.cat",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "summary": "Experts destaquen l'eficàcia del transport per carretera com a alternativa essencial davant les constants incidències de la xarxa ferroviària."
+    },
+    {
+      "title": "Una avaria en un tren de Metrovalència provoca retards en quatre línies",
+      "link_id": "c_167264",
+      "source": "Àpunt",
+      "date": "2026-04-25",
+      "time": "10:48",
+      "summary": "La interrupció del servei entre Xàtiva i Bailén ha generat molèsties importants als usuaris durant el matí."
+    },
+    {
+      "title": "Cop als autònoms societaris i col·laboradors: fins a 135 euros més de quota amb la nova base",
+      "link_id": "c_d6880c",
+      "source": "324.cat",
       "date": "2026-04-24",
       "time": "06:38",
-      "summary": "Les famílies acorden voluntàriament no comprar telèfons intel·ligents als fills fins a segon d'ESO per frenar-ne l'ús precoç."
+      "summary": "L'increment de la base mínima de cotització suposarà un esforç econòmic afegit per a milers de treballadors per compte propi."
     },
     {
-      "title": "Mossos de paisà en instituts per \"garantir la convivència\", un pla pilot amb rebuig dels docents",
-      "link_id": "c_caf20c",
-      "source": "324.cat",
-      "date": "2026-04-23",
-      "time": "13:46",
-      "summary": "Tretze centres educatius posen a prova aquesta iniciativa durant l'abril, malgrat l'oposició frontal dels sindicats de professors."
-    },
-    {
-      "title": "Sanitat actualitzarà els sistemes informàtics per millorar el rendiment de les aplicacions",
-      "link_id": "c_7a4d99",
-      "source": "El Periòdic d'Ontinyent",
-      "date": "2026-04-24",
-      "time": "11:49",
-      "summary": "La intervenció nocturna afectarà temporalment l'accés al SIP i GVA+Salut, però l'activitat assistencial es mantindrà amb normalitat."
+      "title": "Europa, del diagnòstic a l'acció: què és la Llei d'Acceleració Industrial?",
+      "link_id": "c_55e327",
+      "source": "Via Empresa",
+      "date": "2026-04-25",
+      "time": "04:55",
+      "summary": "La nova normativa europea busca enfortir la competitivitat econòmica i reduir la dependència tecnològica davant d'altres potències mundials."
     }
   ]
 }

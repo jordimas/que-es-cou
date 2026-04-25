@@ -1,88 +1,88 @@
 {
-  "generated_at": "2024-05-21T16:00",
+  "generated_at": "2026-04-25T13:30",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "'Us estimem i volem que guanyeu': OpenAI llança GPT-5.5 per a ChatGPT",
-      "link_id": "c_7b5f40",
-      "source": "TechRadar",
-      "date": "2026-04-23",
-      "time": "22:13",
-      "summary": "La nova versió millora la comprensió contextual i l'eficiència, apropant l'empresa a la creació d'una superaplicació d'intel·ligència artificial."
-    },
-    {
-      "title": "Meta retallarà un de cada deu llocs de treball després d'invertir milers de milions en IA",
-      "link_id": "c_eab683",
-      "source": "BBC Technology",
+      "title": "La captura de computació de Meta continua amb l'acord per desplegar desenes de milions de nuclis AWS Graviton",
+      "link_id": "c_70b6be",
+      "source": "Computerworld",
       "date": "2026-04-24",
-      "time": "07:31",
-      "summary": "Aquesta reestructuració afectarà uns vuit mil treballadors i busca compensar les enormes despeses recents en infraestructura tecnològica."
+      "time": "22:52",
+      "summary": "Meta s'associa amb AWS per integrar milions de nuclis Graviton5, impulsant la seva capacitat d'intel·ligència artificial."
     },
     {
-      "title": "Cansat de Gemini i ChatGPT? Claude ara s'integra amb Spotify, Uber i altres aplicacions",
-      "link_id": "c_8b9f39",
-      "source": "Digital Trends",
+      "title": "Tres raons per les quals el nou model de DeepSeek és important",
+      "link_id": "c_2ef437",
+      "source": "MIT Technology Review",
       "date": "2026-04-24",
-      "time": "06:21",
-      "summary": "L'assistent d'Anthropic permet gestionar reserves, compres i llistes de reproducció directament des del xat, sense canviar de pestanya."
+      "time": "21:40",
+      "summary": "El nou model V4 de DeepSeek destaca per processar textos més llargs amb gran eficiència i mantenir-se de codi obert."
     },
     {
-      "title": "Instagram llança un altre clon de Snapchat",
-      "link_id": "c_9a9117",
-      "source": "The Verge",
+      "title": "Per què Apple ha triat el seu cap de producte com a pròxim conseller delegat",
+      "link_id": "c_e48bdd",
+      "source": "Bloomberg Technology",
       "date": "2026-04-24",
-      "time": "07:37",
-      "summary": "L'aplicació 'Instants', provada a Espanya i Itàlia, permet enviar fotografies efímeres que desapareixen després de ser vistes una vegada."
+      "time": "20:31",
+      "summary": "Després de quinze anys amb Tim Cook, Apple aposta per John Ternus per liderar la pròxima era de la companyia."
     },
     {
-      "title": "Un soldat dels EUA, detingut per guanyar més de 400.000 dòlars a Polymarket amb informació classificada sobre Maduro",
-      "link_id": "c_86197c",
-      "source": "Engadget",
-      "date": "2026-04-24",
-      "time": "01:45",
-      "summary": "L'acusat hauria aprofitat dades governamentals secretes sobre l'operació de captura del president veneçolà per lucrar-se al mercat de prediccions."
-    },
-    {
-      "title": "L'incident de dades del Biobank va ser causat per 'unes quantes pomes podrides', segons el seu director",
-      "link_id": "c_c3b867",
-      "source": "BBC Technology",
-      "date": "2026-04-24",
-      "time": "10:00",
-      "summary": "La informació mèdica de mig milió de voluntaris britànics va aparèixer a la venda a la plataforma xinesa Alibaba."
-    },
-    {
-      "title": "Noruega planeja prohibir les xarxes socials als menors de 16 anys i responsabilitzar les plataformes de verificar-ne l'edat",
-      "link_id": "c_17fb17",
-      "source": "The Next Web",
-      "date": "2026-04-24",
-      "time": "06:50",
-      "summary": "Aquesta mesura segueix els passos d'Austràlia per protegir els joves dels riscos digitals, com l'addicció i el ciberassetjament."
-    },
-    {
-      "title": "Les accions d'Intel es disparen un 28% i baten rècords després d'un primer trimestre sòlid amb previsions a l'alça",
-      "link_id": "c_1cbbba",
-      "source": "Tom's Hardware",
-      "date": "2026-04-24",
-      "time": "11:30",
-      "summary": "L'auge de la intel·ligència artificial ha impulsat els ingressos del fabricant de xips molt per sobre de les expectatives."
-    },
-    {
-      "title": "Porsche revela un Cayenne Coupé totalment elèctric amb un gran augment de potència",
-      "link_id": "c_54a834",
-      "source": "Digital Trends",
-      "date": "2026-04-24",
-      "time": "11:29",
-      "summary": "El nou vehicle esportiu arribarà al mercat a finals d'estiu, oferint un disseny més aerodinàmic i un rendiment excepcional."
-    },
-    {
-      "title": "Dues empreses emergents d'IA del Canadà i Alemanya es fusionen per competir amb Silicon Valley",
-      "link_id": "c_4cf4fc",
+      "title": "Google es compromet a invertir fins a 40.000 milions de dòlars en Anthropic",
+      "link_id": "c_fdc599",
       "source": "NYT Technology",
       "date": "2026-04-24",
-      "time": "10:29",
-      "summary": "L'acord, valorat en milions, busca oferir una alternativa sòlida a les grans tecnològiques nord-americanes en el sector empresarial."
+      "time": "19:47",
+      "summary": "Aquesta inversió massiva busca satisfer la creixent demanda de productes empresarials i de programació basats en intel·ligència artificial."
+    },
+    {
+      "title": "Les retallades de Meta i Microsoft podrien afectar 23.000 llocs de treball",
+      "link_id": "c_06d175",
+      "source": "Bloomberg Technology",
+      "date": "2026-04-24",
+      "time": "18:25",
+      "summary": "Les dues grans tecnològiques planegen acomiadaments massius per redirigir les seves inversions cap al desenvolupament d'intel·ligència artificial."
+    },
+    {
+      "title": "XChat, l'aplicació independent de missatgeria d'X, ja està disponible a iOS",
+      "link_id": "c_95b176",
+      "source": "Engadget",
+      "date": "2026-04-24",
+      "time": "21:48",
+      "summary": "La nova aplicació ofereix xats privats, trucades i missatges efímers, separant la missatgeria de la plataforma principal d'X."
+    },
+    {
+      "title": "L'esperança sobirana d'intel·ligència artificial d'Alemanya canvia de mans",
+      "link_id": "c_6727be",
+      "source": "Computerworld",
+      "date": "2026-04-24",
+      "time": "18:36",
+      "summary": "La canadenca Cohere es fusiona amb l'alemanya Aleph Alpha per crear una potència transatlàntica d'intel·ligència artificial."
+    },
+    {
+      "title": "Els nous connectors de Claude utilitzen IA per demanar menjar, controlar la música i fer la declaració de la renda",
+      "link_id": "c_6304d9",
+      "source": "9to5Google",
+      "date": "2026-04-24",
+      "time": "18:05",
+      "summary": "Anthropic integra Claude amb serveis com Spotify i Uber, permetent gestionar tasques quotidianes des d'una única conversa."
+    },
+    {
+      "title": "Investigadors de Discord obtenen accés no autoritzat a Mythos d'Anthropic",
+      "link_id": "c_aa74a4",
+      "source": "Wired",
+      "date": "2026-04-25",
+      "time": "10:30",
+      "summary": "Usuaris no autoritzats han accedit al model de ciberseguretat d'Anthropic, dissenyat per detectar vulnerabilitats i oferir solucions."
+    },
+    {
+      "title": "YouTube TV acaba de rebre una funció de visualització múltiple molt esperada: com utilitzar-la",
+      "link_id": "c_6e4bb8",
+      "source": "Android Authority",
+      "date": "2026-04-25",
+      "time": "09:30",
+      "summary": "La plataforma permet ara personalitzar la visualització múltiple, oferint als usuaris veure fins a quatre canals simultàniament."
     }
   ]
 }
