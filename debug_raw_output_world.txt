@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T19:47",
+  "generated_at": "2026-04-25T10:00",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [
@@ -26,84 +26,84 @@
   ],
   "articles": [
     {
-      "title": "OpenAI llança GPT-5.5, apropant la companyia a una 'superaplicació' d'IA",
-      "link_id": "c_aadffc",
-      "source": "TechCrunch",
-      "date": "2026-04-23",
-      "time": "18:29",
-      "summary": "El nou model millora les capacitats de raonament i apropa l'empresa a la creació d'un assistent universal avançat."
-    },
-    {
-      "title": "Tim Cook deixarà de ser el conseller delegat d'Apple",
-      "link_id": "c_9623b6",
-      "source": "MacRumors",
+      "title": "Tres raons per les quals el nou model de DeepSeek és important",
+      "link_id": "c_2ef437",
+      "source": "MIT Technology Review",
       "date": "2026-04-24",
-      "time": "16:06",
-      "summary": "John Ternus, cap d'enginyeria de maquinari, succeirà Cook al setembre, marcant una nova era centrada en el desenvolupament de productes."
+      "time": "21:40",
+      "summary": "El model V4 de codi obert processa textos més llargs amb gran eficiència, desafiant els líders del sector."
     },
     {
-      "title": "Meta retallarà el 10% de la plantilla, uns 8.000 empleats",
-      "link_id": "c_ae9781",
-      "source": "TechCrunch",
-      "date": "2026-04-23",
-      "time": "18:08",
-      "summary": "La companyia busca reduir costos per compensar les enormes inversions en intel·ligència artificial, iniciant els acomiadaments al maig."
-    },
-    {
-      "title": "DeepSeek presenta un nou model d'IA que s'equipara als líders del sector",
-      "link_id": "c_3d6f28",
-      "source": "TechCrunch",
+      "title": "Per què Apple ha triat el seu expert en productes com a proper CEO",
+      "link_id": "c_e48bdd",
+      "source": "Bloomberg Technology",
       "date": "2026-04-24",
-      "time": "13:30",
-      "summary": "Les versions V4-Pro i Flash de l'empresa xinesa ofereixen un raonament avançat i eficient, desafiant el domini d'OpenAI."
+      "time": "20:31",
+      "summary": "John Ternus succeirà Tim Cook al capdavant d'Apple, marcant l'inici d'una nova era centrada en l'enginyeria de maquinari."
     },
     {
-      "title": "Detingut un soldat per guanyar 400.000 dòlars a Polymarket apostant sobre l'operació contra Maduro",
-      "link_id": "c_49e35a",
-      "source": "TechCrunch",
-      "date": "2026-04-23",
-      "time": "23:32",
-      "summary": "L'acusat hauria utilitzat informació governamental classificada per lucrar-se il·legalment en aquest mercat de prediccions sobre la captura del president veneçolà."
-    },
-    {
-      "title": "Les accions d'Intel es disparen un 28% després d'uns resultats trimestrals excel·lents",
-      "link_id": "c_1cbbba",
-      "source": "Tom's Hardware",
-      "date": "2026-04-24",
-      "time": "11:30",
-      "summary": "L'alta demanda de xips per a intel·ligència artificial impulsa les previsions de l'empresa, superant àmpliament les expectatives de Wall Street."
-    },
-    {
-      "title": "Instagram prova 'Instants', una nova aplicació per compartir fotos efímeres",
-      "link_id": "c_236416",
-      "source": "TechCrunch",
-      "date": "2026-04-23",
-      "time": "20:03",
-      "summary": "Aquesta nova plataforma imita l'essència de Snapchat, centrant-se en interaccions privades i contingut que desapareix ràpidament."
-    },
-    {
-      "title": "Aquests són els països que volen prohibir les xarxes socials als menors",
-      "link_id": "c_1ee13e",
-      "source": "TechCrunch",
-      "date": "2026-04-23",
-      "time": "21:33",
-      "summary": "Nacions com Noruega i Turquia s'uneixen a Austràlia impulsant lleis estrictes per protegir els joves dels riscos digitals."
-    },
-    {
-      "title": "Claude ja es pot connectar a aplicacions com Spotify, Instacart i AllTrails",
-      "link_id": "c_baa0aa",
-      "source": "Engadget",
-      "date": "2026-04-23",
-      "time": "22:55",
-      "summary": "La integració permet a l'assistent d'Anthropic interactuar directament amb serveis de tercers per planificar, comprar i reservar sense canviar d'aplicació."
-    },
-    {
-      "title": "Microsoft oferirà baixes incentivades al 7% de la seva plantilla als Estats Units",
-      "link_id": "c_4f0a8f",
+      "title": "L'expansió computacional de Meta continua amb un acord per desplegar desenes de milions de nuclis AWS Graviton",
+      "link_id": "c_70b6be",
       "source": "Computerworld",
       "date": "2026-04-24",
-      "time": "12:13",
-      "summary": "La mesura busca reestructurar l'empresa i reduir costos per fer front a les massives inversions en infraestructures d'IA."
+      "time": "22:52",
+      "summary": "Aquest acord massiu amb Amazon reforça la infraestructura d'intel·ligència artificial de Meta per potenciar els seus futurs models."
+    },
+    {
+      "title": "Google es compromet a invertir fins a 40.000 milions de dòlars a Anthropic",
+      "link_id": "c_fdc599",
+      "source": "NYT Technology",
+      "date": "2026-04-24",
+      "time": "19:47",
+      "summary": "Aquesta injecció de capital busca assegurar capacitat de càlcul massiva davant la creixent demanda d'eines d'intel·ligència artificial."
+    },
+    {
+      "title": "XChat, l'aplicació independent de missatgeria d'X, ja està disponible a iOS",
+      "link_id": "c_95b176",
+      "source": "Engadget",
+      "date": "2026-04-24",
+      "time": "21:48",
+      "summary": "La nova plataforma ofereix xats privats, trucades i missatges efímers, separant les comunicacions directes de la xarxa social principal."
+    },
+    {
+      "title": "Cohere adquireix i es fusiona amb una empresa alemanya per crear una potència transatlàntica d'IA",
+      "link_id": "c_6a1701",
+      "source": "TechCrunch",
+      "date": "2026-04-24",
+      "time": "21:35",
+      "summary": "La unió d'ambdues companyies busca oferir solucions d'intel·ligència artificial robustes per a governs i empreses en sectors regulats."
+    },
+    {
+      "title": "Les accions d'X-energy es disparen un 27% en el seu primer dia de cotització després d'una sortida a borsa ampliada",
+      "link_id": "c_43bc0a",
+      "source": "TechCrunch",
+      "date": "2026-04-24",
+      "time": "20:10",
+      "summary": "L'empresa d'energia nuclear, recolzada per Amazon, aprofita l'alta demanda energètica dels centres de dades per triomfar al Nasdaq."
+    },
+    {
+      "title": "El Cybercab entra en producció, però Elon Musk avisa que l'inici serà \"molt lent\"",
+      "link_id": "c_3da69f",
+      "source": "CNET",
+      "date": "2026-04-25",
+      "time": "00:26",
+      "summary": "El robotaxi autònom de Tesla ja es fabrica a Texas, tot i que el ritme inicial serà inferior a l'esperat."
+    },
+    {
+      "title": "La governadora de Maine veta la prohibició temporal de nous grans centres de dades a l'estat",
+      "link_id": "c_c88982",
+      "source": "CNET",
+      "date": "2026-04-24",
+      "time": "21:55",
+      "summary": "Janet Mills ha rebutjat la moratòria argumentant que perjudicaria el desenvolupament econòmic de certes zones necessitades de l'estat."
+    },
+    {
+      "title": "\"M'ha deixat al·lucinat\": el robot Project Ace de Sony juga a ping-pong millor que els professionals",
+      "link_id": "c_abb3eb",
+      "source": "TechRadar",
+      "date": "2026-04-24",
+      "time": "20:30",
+      "summary": "Aquest avanç demostra com la intel·ligència artificial pot dominar tasques físiques complexes que requereixen velocitat i precisió extremes."
     }
   ]
 }
