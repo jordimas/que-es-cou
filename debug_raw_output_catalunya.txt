@@ -1,24 +1,24 @@
 {
-  "generated_at": "2024-05-20T16:00",
+  "generated_at": "2026-04-26T17:40",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [],
   "articles": [
-    {
-      "title": "Ciberatacs informàtics: es doblen els ciberincidents a sistemes públics",
-      "link_id": "c_41d6c0",
-      "source": "324.cat",
-      "date": "2026-04-25",
-      "time": "07:09",
-      "summary": "L'any passat es van registrar més de sis mil atacs a la Generalitat, evidenciant la vulnerabilitat de les administracions."
-    },
     {
       "title": "La Generalitat detecta 25 milions d'intents de ciberatacs al dia contra els seus sistemes",
       "link_id": "c_ced65a",
       "source": "Ara.cat",
       "date": "2026-04-25",
       "time": "11:38",
-      "summary": "Malgrat l'augment exponencial de les amenaces digitals, els sistemes de seguretat aconsegueixen bloquejar automàticament la gran majoria dels atacs."
+      "summary": "L'Agència de Ciberseguretat bloqueja automàticament el vuitanta per cent de les amenaces diàries als sistemes públics catalans."
+    },
+    {
+      "title": "Ciberatacs informàtics: es doblen els ciberincidents a sistemes públics",
+      "link_id": "c_41d6c0",
+      "source": "324.cat",
+      "date": "2026-04-25",
+      "time": "07:09",
+      "summary": "L'any passat es van registrar més de sis mil incidents a la Generalitat, tot i que pocs foren greus."
     },
     {
       "title": "Un any de la gran apagada: què va fallar? Pot tornar a passar?",
@@ -26,7 +26,7 @@
       "source": "324.cat",
       "date": "2026-04-26",
       "time": "07:13",
-      "summary": "Experts del sector elèctric continuen analitzant les causes de l'incident per millorar la resiliència de la xarxa davant futures crisis."
+      "summary": "Experts del sistema elèctric analitzen les causes de l'apagada i avaluen la preparació actual davant possibles nous talls."
     },
     {
       "title": "Els projectes per emmagatzemar energia proliferen a Lleida després de l’apagada",
@@ -34,31 +34,7 @@
       "source": "Segre",
       "date": "2026-04-26",
       "time": "05:39",
-      "summary": "La incertesa sobre el subministrament elèctric impulsa la creació de noves infraestructures d'emmagatzematge per garantir l'autonomia energètica al territori."
-    },
-    {
-      "title": "Neix el CaixaResearch Institute, nou centre d’immunologia a Barcelona",
-      "link_id": "c_0e104d",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-04-25",
-      "time": "07:54",
-      "summary": "Aquestes instal·lacions pioneres a l'Estat buscaran transformar la investigació del sistema immunitari en tractaments innovadors per a malalties greus."
-    },
-    {
-      "title": "Renfe i Adif impulsen un centre de control únic a Barcelona per optimitzar el servei de Rodalies",
-      "link_id": "c_198fb3",
-      "source": "El Nacional.cat",
-      "date": "2026-04-25",
-      "time": "11:38",
-      "summary": "Aquesta integració a llarg termini busca resoldre els problemes de comunicació i millorar l'eficiència de la xarxa ferroviària catalana."
-    },
-    {
-      "title": "Rodalies integrarà els centres de control de Renfe i d’Adif sota un mateix sostre",
-      "link_id": "c_8bd3f6",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-04-25",
-      "time": "07:48",
-      "summary": "La unificació de les instal·lacions pretén agilitzar la resposta davant d'incidències i oferir un millor servei als usuaris diaris."
+      "summary": "La incertesa sobre el subministrament elèctric impulsa noves iniciatives d'emmagatzematge energètic a les comarques de Ponent."
     },
     {
       "title": "Pagar amb Bizum a les botigues físiques serà una realitat a partir del 18 de maig: com funciona i qui ho podrà fer?",
@@ -66,7 +42,7 @@
       "source": "RAC1",
       "date": "2026-04-24",
       "time": "13:03",
-      "summary": "Inicialment, només els clients d'algunes entitats bancàries podran utilitzar aquest mètode de pagament presencial, ampliant-se progressivament a la resta."
+      "summary": "Clients de CaixaBank, Sabadell i Bankinter seran els primers a poder utilitzar aquest mètode de pagament presencial."
     },
     {
       "title": "Europa s’acosta a llançar el seu propi Bizum públic’ per competir amb Visa, Apple Pay i les criptomonedes",
@@ -74,7 +50,31 @@
       "source": "El Periódico",
       "date": "2026-04-24",
       "time": "12:19",
-      "summary": "El Banc Central Europeu prepara el terreny tècnic per implementar l'euro digital i estandarditzar els pagaments a tota l'eurozona."
+      "summary": "El Banc Central Europeu avança en la creació d'un euro digital per estandarditzar els pagaments a l'eurozona."
+    },
+    {
+      "title": "Barcelona estrena el CaixaResearch Institute, un gran centre per revolucionar el tractament de les malalties més freqüents",
+      "link_id": "c_0278e5",
+      "source": "Ara.cat",
+      "date": "2026-04-23",
+      "time": "18:31",
+      "summary": "Aquest nou espai pioner a Europa es dedicarà a la immunoteràpia per combatre càncer, Alzheimer i tuberculosi."
+    },
+    {
+      "title": "Neix el CaixaResearch Institute, nou centre d’immunologia a Barcelona",
+      "link_id": "c_0e104d",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-04-25",
+      "time": "07:54",
+      "summary": "La instal·lació científica busca transformar els descobriments biomèdics en teràpies i diagnòstics innovadors per als pacients."
+    },
+    {
+      "title": "Palantir, la superpotència d'IA que pot decidir guerres i encén les alarmes globals",
+      "link_id": "c_38c2be",
+      "source": "El Nacional.cat",
+      "date": "2026-04-26",
+      "time": "11:08",
+      "summary": "El programari d'aquesta empresa transforma dades massives en decisions clau per a governs i cossos de seguretat."
     },
     {
       "title": "La UPC presenta LEIA, el programa que articula la seva estratègia en intel·ligència artificial",
@@ -82,7 +82,7 @@
       "source": "MetaData",
       "date": "2026-04-24",
       "time": "08:38",
-      "summary": "El nou hub universitari al Campus Diagonal Nord potenciarà la recerca i la formació tecnològica per liderar la innovació."
+      "summary": "Un nou hub al Campus Diagonal Nord reforçarà la recerca i la formació tecnològica a Catalunya."
     }
   ]
 }
