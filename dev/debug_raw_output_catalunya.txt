@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-04-25T13:30",
+  "generated_at": "2024-05-24T12:00",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
     {
       "name": "Ara.cat",
       "url": "https://www.ara.cat/rss/",
-      "articles_found": 9
+      "articles_found": 13
     },
     {
       "name": "El Periódico",
@@ -16,17 +16,17 @@
     {
       "name": "RAC1",
       "url": "https://www.rac1.cat/rss/home.xml",
-      "articles_found": 5
+      "articles_found": 7
     },
     {
       "name": "La Vanguardia (en català)",
       "url": "https://www.lavanguardia.com/rss/encatala.xml",
-      "articles_found": 8
+      "articles_found": 3
     },
     {
       "name": "VilaWeb",
       "url": "https://www.vilaweb.cat/feed/",
-      "articles_found": 1
+      "articles_found": 2
     },
     {
       "name": "NacióDigital",
@@ -36,7 +36,7 @@
     {
       "name": "324.cat",
       "url": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0",
-      "articles_found": 3
+      "articles_found": 2
     },
     {
       "name": "Softcatalà",
@@ -46,7 +46,7 @@
     {
       "name": "El Nacional.cat",
       "url": "https://www.elnacional.cat/uploads/feeds/feed_ca.xml",
-      "articles_found": 9
+      "articles_found": 14
     },
     {
       "name": "El Mon.cat",
@@ -66,7 +66,7 @@
     {
       "name": "Betevé",
       "url": "https://beteve.cat/feed/",
-      "articles_found": 1
+      "articles_found": 0
     },
     {
       "name": "El Punt Avui",
@@ -76,7 +76,7 @@
     {
       "name": "Segre",
       "url": "https://www.segre.com/ca/rss/home.xml",
-      "articles_found": 5
+      "articles_found": 6
     },
     {
       "name": "Regio7",
@@ -116,7 +116,7 @@
     {
       "name": "Cugat.cat",
       "url": "https://www.cugat.cat/feed/",
-      "articles_found": 0
+      "articles_found": 1
     },
     {
       "name": "CatalunyaPress",
@@ -126,7 +126,7 @@
     {
       "name": "Tot Barcelona",
       "url": "https://www.totbarcelona.cat/feed/",
-      "articles_found": 1
+      "articles_found": 0
     },
     {
       "name": "e-notícies",
@@ -156,7 +156,7 @@
     {
       "name": "MetaData",
       "url": "https://www.metadata.cat/sindica",
-      "articles_found": 11
+      "articles_found": 8
     },
     {
       "name": "El Temps",
@@ -166,7 +166,7 @@
     {
       "name": "Àpunt",
       "url": "https://www.apuntmedia.es/rss/",
-      "articles_found": 3
+      "articles_found": 2
     },
     {
       "name": "El Periòdic d'Ontinyent",
@@ -201,7 +201,7 @@
     {
       "name": "Via Empresa",
       "url": "https://www.viaempresa.cat/uploads/feeds/feed_via-empresa-2024_ca.xml",
-      "articles_found": 5
+      "articles_found": 4
     },
     {
       "name": "Lúdica",
@@ -216,20 +216,36 @@
   ],
   "articles": [
     {
-      "title": "L’Agència de Ciberseguretat registra més de 6.500 atacs de hackers el 2025, el doble que fa un any",
-      "link_id": "c_8c8073",
-      "source": "Betevé",
-      "date": "2026-04-25",
-      "time": "07:33",
-      "summary": "L’Agència de Ciberseguretat de Catalunya alerta d'un augment dràstic d'incidents, posant en risc infraestructures crítiques i dades sensibles."
+      "title": "Palantir, la superpotència d'IA que pot decidir guerres i encén les alarmes globals",
+      "link_id": "c_38c2be",
+      "source": "El Nacional.cat",
+      "date": "2026-04-26",
+      "time": "11:08",
+      "summary": "El seu programari de vigilància massiva planteja seriosos dubtes ètics sobre la privacitat i el futur de les democràcies."
     },
     {
-      "title": "Un dels primers centres d'Europa especialitzat en recerca del sistema immunitari comença a investigar a Barcelona",
-      "link_id": "c_0482c1",
-      "source": "RAC1",
-      "date": "2026-04-24",
-      "time": "19:50",
-      "summary": "Aquest nou espai pioner al sud d'Europa se centrarà a desenvolupar teràpies innovadores per combatre malalties greus."
+      "title": "Qui és Cole Allen, el detingut pel tiroteig contra Trump?",
+      "link_id": "c_08fc31",
+      "source": "VilaWeb",
+      "date": "2026-04-26",
+      "time": "08:55",
+      "summary": "El sospitós és un professor i desenvolupador de videojocs californià, capturat després de l'evacuació de l'expresident nord-americà."
+    },
+    {
+      "title": "La Generalitat detecta 25 milions d'intents de ciberatacs al dia contra els seus sistemes",
+      "link_id": "c_ced65a",
+      "source": "Ara.cat",
+      "date": "2026-04-25",
+      "time": "11:38",
+      "summary": "L'Agència de Ciberseguretat bloqueja automàticament la gran majoria d'aquestes amenaces, que han crescut un 32% respecte a l'any passat."
+    },
+    {
+      "title": "Neix el CaixaResearch Institute, nou centre d’immunologia a Barcelona",
+      "link_id": "c_0e104d",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-04-25",
+      "time": "07:54",
+      "summary": "Aquestes instal·lacions pioneres a Europa buscaran nous tractaments per a malalties greus com el càncer o l'Alzheimer mitjançant immunoteràpia."
     },
     {
       "title": "Pagar amb Bizum a les botigues físiques serà una realitat a partir del 18 de maig: com funciona i qui ho podrà fer?",
@@ -237,63 +253,47 @@
       "source": "RAC1",
       "date": "2026-04-24",
       "time": "13:03",
-      "summary": "CaixaBank, Sabadell i Bankinter seran els primers a permetre aquesta modalitat de pagament presencial, facilitant les compres diàries."
+      "summary": "CaixaBank, Banc Sabadell i Bankinter seran les primeres entitats a permetre aquest mètode de pagament directe als comerços."
     },
     {
-      "title": "Capgemini planteja que l'ERO afecti uns 130 empleats a Barcelona",
-      "link_id": "c_81e38b",
-      "source": "Ara.cat",
-      "date": "2026-04-24",
-      "time": "14:19",
-      "summary": "La reestructuració de la consultora tecnològica respon als canvis del sector i impactarà significativament la plantilla de la capital catalana."
+      "title": "Ascó i Mequinensa, sota investigació per l'apagada de fa un any",
+      "link_id": "c_5ee84c",
+      "source": "Segre",
+      "date": "2026-04-26",
+      "time": "05:32",
+      "summary": "La CNMC obre expedients sancionadors per esclarir el paper de les centrals en la fallada elèctrica massiva."
     },
     {
-      "title": "El 72,6% de les persones ocupades en el sector TIC són homes i el 27,4% dones, segons l'ICD",
-      "link_id": "c_4df9e0",
+      "title": "Les consultores tecnològiques Capgemini i Inetum anuncien acomiadaments a l'Estat",
+      "link_id": "c_c1f924",
       "source": "Via Empresa",
       "date": "2026-04-24",
-      "time": "11:31",
-      "summary": "Malgrat l'accés igualitari a la tecnologia, la bretxa salarial i la manca de paritat laboral persisteixen al sector digital."
+      "time": "13:20",
+      "summary": "L'impacte de la intel·ligència artificial i els canvis tecnològics motiven aquestes retallades, que afectaran directament les oficines de Catalunya."
     },
     {
-      "title": "Chery i Ebro esperen començar a fabricar cotxes elèctrics a Barcelona a finals del 2026",
-      "link_id": "c_78c207",
-      "source": "324.cat",
+      "title": "La UPC presenta LEIA, el programa que articula la seva estratègia en intel·ligència artificial",
+      "link_id": "c_7aa390",
+      "source": "MetaData",
       "date": "2026-04-24",
-      "time": "21:42",
-      "summary": "L'aliança estratègica revitalitzarà l'antiga planta de Nissan a la Zona Franca, impulsant la mobilitat sostenible i l'ocupació local."
+      "time": "08:38",
+      "summary": "El nou hub al Campus Diagonal Nord potenciarà la recerca i la transferència tecnològica entre universitat i empresa."
     },
     {
-      "title": "\"L'autobús està cobrint amb molt bona nota tots els problemes de Rodalies\"",
-      "link_id": "c_81ed36",
+      "title": "Leitat impulsa a Terrassa un laboratori pioner per reciclar bateries i recuperar materials crítics",
+      "link_id": "c_0ee3cc",
+      "source": "MetaData",
+      "date": "2026-04-23",
+      "time": "11:50",
+      "summary": "Aquest centre automatitzat permetrà una gestió més sostenible dels components electrònics, reduint la dependència de matèries primeres externes."
+    },
+    {
+      "title": "Els cotxes elèctrics ja són més fiables que els de gasolina, segons un estudi alemany",
+      "link_id": "c_5ff5d0",
       "source": "Ara.cat",
       "date": "2026-04-25",
-      "time": "10:00",
-      "summary": "Experts destaquen l'eficàcia del transport per carretera com a alternativa essencial davant les constants incidències de la xarxa ferroviària."
-    },
-    {
-      "title": "Una avaria en un tren de Metrovalència provoca retards en quatre línies",
-      "link_id": "c_167264",
-      "source": "Àpunt",
-      "date": "2026-04-25",
-      "time": "10:48",
-      "summary": "La interrupció del servei entre Xàtiva i Bailén ha generat molèsties importants als usuaris durant el matí."
-    },
-    {
-      "title": "Cop als autònoms societaris i col·laboradors: fins a 135 euros més de quota amb la nova base",
-      "link_id": "c_d6880c",
-      "source": "324.cat",
-      "date": "2026-04-24",
-      "time": "06:38",
-      "summary": "L'increment de la base mínima de cotització suposarà un esforç econòmic afegit per a milers de treballadors per compte propi."
-    },
-    {
-      "title": "Europa, del diagnòstic a l'acció: què és la Llei d'Acceleració Industrial?",
-      "link_id": "c_55e327",
-      "source": "Via Empresa",
-      "date": "2026-04-25",
-      "time": "04:55",
-      "summary": "La nova normativa europea busca enfortir la competitivitat econòmica i reduir la dependència tecnològica davant d'altres potències mundials."
+      "time": "07:06",
+      "summary": "La menor quantitat de peces mecàniques redueix significativament el risc d'avaries i abarateix el manteniment d'aquests vehicles."
     }
   ]
 }
