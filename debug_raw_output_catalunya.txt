@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-04-25T17:35",
+  "generated_at": "2024-05-20T16:00",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Ciberatacs informàtics: es doblen el nombre de ciberincidents a sistemes públics",
+      "title": "Ciberatacs informàtics: es doblen els ciberincidents a sistemes públics",
       "link_id": "c_41d6c0",
       "source": "324.cat",
       "date": "2026-04-25",
       "time": "07:09",
-      "summary": "L'any passat es van registrar més de 6.500 incidents a la Generalitat, la majoria bloquejats per les barreres de seguretat."
+      "summary": "L'any passat es van registrar més de sis mil atacs a la Generalitat, evidenciant la vulnerabilitat de les administracions."
     },
     {
       "title": "La Generalitat detecta 25 milions d'intents de ciberatacs al dia contra els seus sistemes",
@@ -18,23 +18,47 @@
       "source": "Ara.cat",
       "date": "2026-04-25",
       "time": "11:38",
-      "summary": "L'Agència de Ciberseguretat alerta d'un augment del 32% de les amenaces, tot i que el 80% s'aturen automàticament."
+      "summary": "Malgrat l'augment exponencial de les amenaces digitals, els sistemes de seguretat aconsegueixen bloquejar automàticament la gran majoria dels atacs."
     },
     {
-      "title": "Un dels primers centres d'Europa especialitzat en recerca del sistema immunitari comença a investigar a Barcelona",
-      "link_id": "c_0482c1",
-      "source": "RAC1",
-      "date": "2026-04-24",
-      "time": "19:50",
-      "summary": "El nou CaixaResearch Institute se centrarà a buscar teràpies innovadores per a malalties greus com el càncer o l'Alzheimer."
+      "title": "Un any de la gran apagada: què va fallar? Pot tornar a passar?",
+      "link_id": "c_c77d2a",
+      "source": "324.cat",
+      "date": "2026-04-26",
+      "time": "07:13",
+      "summary": "Experts del sector elèctric continuen analitzant les causes de l'incident per millorar la resiliència de la xarxa davant futures crisis."
     },
     {
-      "title": "El CaixaResearch aposta per la immunologia",
-      "link_id": "c_78ba1d",
+      "title": "Els projectes per emmagatzemar energia proliferen a Lleida després de l’apagada",
+      "link_id": "c_6c0450",
+      "source": "Segre",
+      "date": "2026-04-26",
+      "time": "05:39",
+      "summary": "La incertesa sobre el subministrament elèctric impulsa la creació de noves infraestructures d'emmagatzematge per garantir l'autonomia energètica al territori."
+    },
+    {
+      "title": "Neix el CaixaResearch Institute, nou centre d’immunologia a Barcelona",
+      "link_id": "c_0e104d",
       "source": "La Vanguardia (en català)",
       "date": "2026-04-25",
-      "time": "00:15",
-      "summary": "Aquest centre pioner a l'Estat espanyol vol consolidar Barcelona com a capital de referència mundial en l'àmbit de la biomedicina."
+      "time": "07:54",
+      "summary": "Aquestes instal·lacions pioneres a l'Estat buscaran transformar la investigació del sistema immunitari en tractaments innovadors per a malalties greus."
+    },
+    {
+      "title": "Renfe i Adif impulsen un centre de control únic a Barcelona per optimitzar el servei de Rodalies",
+      "link_id": "c_198fb3",
+      "source": "El Nacional.cat",
+      "date": "2026-04-25",
+      "time": "11:38",
+      "summary": "Aquesta integració a llarg termini busca resoldre els problemes de comunicació i millorar l'eficiència de la xarxa ferroviària catalana."
+    },
+    {
+      "title": "Rodalies integrarà els centres de control de Renfe i d’Adif sota un mateix sostre",
+      "link_id": "c_8bd3f6",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-04-25",
+      "time": "07:48",
+      "summary": "La unificació de les instal·lacions pretén agilitzar la resposta davant d'incidències i oferir un millor servei als usuaris diaris."
     },
     {
       "title": "Pagar amb Bizum a les botigues físiques serà una realitat a partir del 18 de maig: com funciona i qui ho podrà fer?",
@@ -42,7 +66,7 @@
       "source": "RAC1",
       "date": "2026-04-24",
       "time": "13:03",
-      "summary": "Inicialment, només els clients de CaixaBank, Banc Sabadell i Bankinter podran utilitzar aquest mètode de pagament als comerços."
+      "summary": "Inicialment, només els clients d'algunes entitats bancàries podran utilitzar aquest mètode de pagament presencial, ampliant-se progressivament a la resta."
     },
     {
       "title": "Europa s’acosta a llançar el seu propi Bizum públic’ per competir amb Visa, Apple Pay i les criptomonedes",
@@ -50,39 +74,15 @@
       "source": "El Periódico",
       "date": "2026-04-24",
       "time": "12:19",
-      "summary": "El Banc Central Europeu avança en la creació de l'euro digital acordant estàndards tècnics per facilitar-ne l'ús a l'eurozona."
+      "summary": "El Banc Central Europeu prepara el terreny tècnic per implementar l'euro digital i estandarditzar els pagaments a tota l'eurozona."
     },
     {
-      "title": "RENFE i ADIF treballen en un centre integrat de control ferroviari sense concretar data ni ubicació",
-      "link_id": "c_0133fe",
-      "source": "VilaWeb",
-      "date": "2026-04-25",
-      "time": "09:14",
-      "summary": "L'objectiu és unificar la regulació de circulació i les operacions de Rodalies per optimitzar el servei a llarg termini."
-    },
-    {
-      "title": "Les consultores tecnològiques Capgemini i Inetum anuncien acomiadaments a l'Estat",
-      "link_id": "c_c1f924",
-      "source": "Via Empresa",
+      "title": "La UPC presenta LEIA, el programa que articula la seva estratègia en intel·ligència artificial",
+      "link_id": "c_7aa390",
+      "source": "MetaData",
       "date": "2026-04-24",
-      "time": "13:20",
-      "summary": "Els expedients de regulació d'ocupació afectaran centenars de treballadors, incloent-hi uns 130 empleats a les oficines de Barcelona."
-    },
-    {
-      "title": "El sector TIC català suma 7.000 dones en un single any i supera les 58.000 professionals",
-      "link_id": "c_26b8ac",
-      "source": "MetaData",
-      "date": "2026-04-21",
-      "time": "17:55",
-      "summary": "Tot i l'augment de la presència femenina, encara persisteixen reptes importants com la bretxa salarial i l'accés al lideratge."
-    },
-    {
-      "title": "Canvi d’era a Apple: Tim Cook deixarà el càrrec i John Ternus assumirà la direcció",
-      "link_id": "c_2d602f",
-      "source": "MetaData",
-      "date": "2026-04-21",
-      "time": "09:21",
-      "summary": "El relleu, previst per al setembre, marcarà l'inici d'una nova etapa amb un perfil més tècnic liderant la companyia."
+      "time": "08:38",
+      "summary": "El nou hub universitari al Campus Diagonal Nord potenciarà la recerca i la formació tecnològica per liderar la innovació."
     }
   ]
 }

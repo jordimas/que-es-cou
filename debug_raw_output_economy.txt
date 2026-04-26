@@ -1,32 +1,48 @@
 {
-  "generated_at": "2024-05-24T12:00",
+  "generated_at": "2024-05-24T18:00",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "El que obvia la narrativa de l'\"apocalipsi laboral\" de la IA",
-      "link_id": "c_fd3757",
+      "title": "El laboratori d'IA de Jeff Bezos negocia llogar oficines a King's Cross, Londres",
+      "link_id": "c_bb112f",
       "source": "Financial Times",
-      "date": "2026-04-25",
+      "date": "2026-04-26",
       "time": "04:00",
-      "summary": "L'automatització de tasques no implica necessàriament la destrucció d'ocupació, sinó una transformació profunda de les habilitats requerides."
+      "summary": "El Projecte Prometheus consolida l'expansió global de l'empresa i reforça la capital britànica com a centre tecnològic."
     },
     {
-      "title": "Google invertirà fins a 40.000 milions de dòlars en Anthropic per diversificar les seves apostes en IA",
-      "link_id": "c_6b12b0",
-      "source": "CNBC Technology",
-      "date": "2026-04-24",
-      "time": "18:32",
-      "summary": "L'acord amplia l'aliança existent, permetent a Anthropic accedir a més potència de càlcul per als seus models avançats."
+      "title": "Pot discriminar la IA si no pot justificar-se?",
+      "link_id": "c_9ec6d1",
+      "source": "Financial Times",
+      "date": "2026-04-26",
+      "time": "04:00",
+      "summary": "La demanda d'Elon Musk contra Colorado obre un debat filosòfic sobre l'impacte dels algorismes en la democràcia."
     },
     {
-      "title": "Guerra de talent en IA: La indústria del programari, nou objectiu mentre els directius fugen a OpenAI",
+      "title": "Google confia en la IA per atrapar els seus rivals al núvol, Amazon i Microsoft",
+      "link_id": "c_794bbb",
+      "source": "Financial Times",
+      "date": "2026-04-26",
+      "time": "04:00",
+      "summary": "El conseller delegat Thomas Kurian aposta pels nous xips i models per guanyar quota al mercat dels centres de dades."
+    },
+    {
+      "title": "El rei xinès dels telèfons intel·ligents desafia Elon Musk a Europa amb vehicles elèctrics prèmium",
+      "link_id": "c_fef456",
+      "source": "Financial Times",
+      "date": "2026-04-26",
+      "time": "04:00",
+      "summary": "Xiaomi planeja una gran expansió continental aprofitant que la demanda dels seus cotxes ja supera la capacitat de producció."
+    },
+    {
+      "title": "Guerra pel talent en IA: la indústria del programari, nou objectiu mentre els directius fugen a OpenAI",
       "link_id": "c_f20db2",
       "source": "CNBC Technology",
       "date": "2026-04-25",
       "time": "12:43",
-      "summary": "Les grans tecnològiques s'enfronten a una fugida de cervells que amenaça la seva capacitat d'innovació davant l'auge d'OpenAI."
+      "summary": "Les grans tecnològiques pateixen a la borsa per la disrupció algorítmica i ara s'enfronten a una fugida de cervells."
     },
     {
       "title": "Provem el xatbot Grok de xAI conduint un Tesla per Nova York. Això és el que va passar.",
@@ -34,55 +50,15 @@
       "source": "CNBC Technology",
       "date": "2026-04-25",
       "time": "12:00",
-      "summary": "La integració de l'assistent virtual amb la conducció autònoma mostra el potencial de la intel·ligència artificial als vehicles."
+      "summary": "Una prova pràctica mostra com s'integra aquesta intel·ligència artificial amb el sistema de conducció autònoma supervisada del vehicle."
     },
     {
-      "title": "Les empreses amb accés a Mythos demanen una defensa conjunta de la infraestructura",
+      "title": "Les empreses amb accés a Mythos insten a una defensa conjunta de les infraestructures",
       "link_id": "c_39096f",
       "source": "Financial Times",
       "date": "2026-04-25",
       "time": "11:00",
-      "summary": "Els experts en ciberseguretat alerten que la nova eina requerirà una coordinació estreta entre governs i sector privat."
-    },
-    {
-      "title": "La increïble doble vida d'un venedor de programari espia convertit en espia",
-      "link_id": "c_757a63",
-      "source": "Financial Times",
-      "date": "2026-04-25",
-      "time": "04:00",
-      "summary": "Després de fer fortuna venent dispositius de vigilància, va acabar utilitzant la seva pròpia tecnologia per infiltrar-se en secret."
-    },
-    {
-      "title": "Cinc compres fàcils de reparar que podrien durar-te tota la vida",
-      "link_id": "c_dd6865",
-      "source": "Financial Times",
-      "date": "2026-04-25",
-      "time": "04:00",
-      "summary": "Maletes, rellotges i portàtils dissenyats per combatre l'obsolescència programada i fomentar un consum molt més sostenible i responsable."
-    },
-    {
-      "title": "Les accions d'Intel viuen el seu millor dia des de 1987, disparant-se un 24%",
-      "link_id": "c_27ba89",
-      "source": "CNBC Technology",
-      "date": "2026-04-24",
-      "time": "23:04",
-      "summary": "L'optimisme pel suport governamental i la reestructuració de l'empresa impulsen la confiança dels inversors en el sector dels xips."
-    },
-    {
-      "title": "Les accions de Nvidia tanquen en màxims històrics, superant els 5 bilions de dòlars de capitalització",
-      "link_id": "c_717fb5",
-      "source": "CNBC Technology",
-      "date": "2026-04-24",
-      "time": "22:40",
-      "summary": "L'efecte arrossegament d'Intel consolida el domini de l'empresa en el mercat de maquinari per a intel·ligència artificial."
-    },
-    {
-      "title": "Microsoft planeja les primeres baixes voluntàries per a fins al 7% de la seva plantilla als EUA",
-      "link_id": "c_f2b4b6",
-      "source": "CNBC Technology",
-      "date": "2026-04-24",
-      "time": "21:21",
-      "summary": "La mesura inèdita busca reduir costos laborals oferint sortides incentivades a treballadors veterans enmig de la reestructuració tecnològica."
+      "summary": "Els experts en ciberseguretat adverteixen que caldrà una estreta coordinació publicoprivada per desplegar aquesta nova eina tecnològica."
     }
   ]
 }

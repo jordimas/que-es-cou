@@ -1,88 +1,109 @@
 {
-  "generated_at": "2026-04-25T19:34",
+  "generated_at": "2026-04-26T10:12",
   "id": "world",
   "title": "Notícies tecnològiques del món",
-  "sources_checked": [],
-  "articles": [
+  "sources_checked": [
     {
-      "title": "Meta firma un acord multimilionari pels xips Amazon Graviton5",
-      "link_id": "c_b93420",
-      "source": "The Next Web",
-      "date": "2026-04-25",
-      "time": "11:22",
-      "summary": "Meta desplegarà milions de nuclis Graviton5 d'AWS per satisfer la creixent demanda de càlcul d'intel·ligència artificial."
+      "name": "AnandTech",
+      "url": "https://www.anandtech.com/rss/",
+      "articles_found": 0
     },
+    {
+      "name": "Wall Street Journal Tech",
+      "url": "https://feeds.a.dj.com/rss/RSSWSJD.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "Gizmodo",
+      "url": "https://www.gizmodo.com/feed/rss",
+      "articles_found": 0
+    },
+    {
+      "name": "Slashdot",
+      "url": "https://slashdot.org/rss/slashdot.rss",
+      "articles_found": 0
+    }
+  ],
+  "articles": [
     {
       "title": "5 grans reptes per a John Ternus, el proper conseller delegat d'Apple",
       "link_id": "c_0cc982",
       "source": "NYT Technology",
       "date": "2026-04-25",
       "time": "16:33",
-      "summary": "El nou líder d'Apple s'enfrontarà a problemes similars als de Tim Cook, amb el repte d'innovar en intel·ligència artificial."
+      "summary": "El nou líder s'enfrontarà a desafiaments similars als de Tim Cook, marcant el rumb futur de la companyia."
     },
     {
-      "title": "La governadora de Maine veta la llei que prohibeix els nous grans centres de dades",
-      "link_id": "c_72b85f",
-      "source": "Tom's Hardware",
-      "date": "2026-04-25",
-      "time": "13:40",
-      "summary": "Janet Mills ha bloquejat la moratòria argumentant que perjudicaria un projecte tecnològic clau per a l'economia local."
+      "title": "Una manera enginyosa de veure la Marató de Londres 2026 gratis",
+      "link_id": "c_a3b274",
+      "source": "TechRadar",
+      "date": "2026-04-26",
+      "time": "07:00",
+      "summary": "Descobreix com seguir la cursa en directe des de qualsevol lloc del món sense cap cost addicional."
     },
     {
-      "title": "Tres raons per les quals el nou model de DeepSeek és important",
-      "link_id": "c_2ef437",
-      "source": "MIT Technology Review",
-      "date": "2026-04-24",
-      "time": "21:40",
-      "summary": "La versió V4 de codi obert processa textos més llargs de manera eficient, desafiant els gegants nord-americans del sector."
-    },
-    {
-      "title": "Google es compromet a invertir fins a 40.000 milions de dòlars en Anthropic",
-      "link_id": "c_fdc599",
-      "source": "NYT Technology",
-      "date": "2026-04-24",
-      "time": "19:47",
-      "summary": "Aquesta injecció de capital busca assegurar capacitat de càlcul massiva davant la creixent demanda de productes d'intel·ligència artificial."
-    },
-    {
-      "title": "La finestra de sortida a borsa per a la tecnologia climàtica podria obrir-se finalment",
-      "link_id": "c_10c52f",
-      "source": "TechCrunch",
-      "date": "2026-04-25",
-      "time": "16:33",
-      "summary": "L'èxit de l'empresa nuclear X-energy a la borsa assenyala un moment clau per als inversors en tecnologia climàtica."
-    },
-    {
-      "title": "Per què Cohere es fusiona amb Aleph Alpha",
-      "link_id": "c_86bae1",
-      "source": "TechCrunch",
-      "date": "2026-04-25",
-      "time": "16:00",
-      "summary": "Les dues empreses s'uneixen per oferir una alternativa europea i canadenca sobirana en un mercat dominat pels Estats Units."
-    },
-    {
-      "title": "Investigadors de Discord obtenen accés no autoritzat a Mythos d'Anthropic",
-      "link_id": "c_aa74a4",
-      "source": "Wired",
-      "date": "2026-04-25",
-      "time": "10:30",
-      "summary": "El model d'intel·ligència artificial centrat en ciberseguretat ha patit una filtració, qüestionant les mesures de protecció de l'empresa."
-    },
-    {
-      "title": "L'última actualització de Fitbit converteix l'aplicació en un entrenador personal conversacional",
-      "link_id": "c_758974",
-      "source": "Digital Trends",
-      "date": "2026-04-24",
-      "time": "22:22",
-      "summary": "La versió 4.68 introdueix controls de son i orientació pas a pas mitjançant un assistent virtual interactiu."
-    },
-    {
-      "title": "XChat, l'aplicació independent de missatgeria d'X, ja està disponible a iOS",
-      "link_id": "c_95b176",
+      "title": "Sam Altman d'OpenAI es disculpa per no denunciar el compte del sospitós de Tumbler Ridge",
+      "link_id": "c_7b011e",
       "source": "Engadget",
-      "date": "2026-04-24",
-      "time": "21:48",
-      "summary": "La nova plataforma ofereix xats privats, missatges efímers i trucades d'àudio i vídeo sense anuncis ni rastreig."
+      "date": "2026-04-25",
+      "time": "22:14",
+      "summary": "El conseller delegat lamenta no haver alertat les autoritats sobre l'usuari implicat en el recent tiroteig massiu al Canadà."
+    },
+    {
+      "title": "El retard de DeepSeek V4 mostra un canvi cap als xips xinesos",
+      "link_id": "c_5839ca",
+      "source": "Bloomberg Technology",
+      "date": "2026-04-26",
+      "time": "04:49",
+      "summary": "Aquest ajornament estratègic busca una integració més profunda amb l'ecosistema nacional de semiconductors de la Xina."
+    },
+    {
+      "title": "Usuaris de Discord vulneren els controls d'accés del model Mythos d'Anthropic",
+      "link_id": "c_9c210d",
+      "source": "Digital Trends",
+      "date": "2026-04-26",
+      "time": "01:59",
+      "summary": "Aquesta bretxa de seguretat posa de manifest la creixent preocupació per protegir els sistemes d'intel·ligència artificial més avançats."
+    },
+    {
+      "title": "Tesla ofereix un any de recàrrega gratuïta amb el Model 3 Premium i Performance",
+      "link_id": "c_ef0da9",
+      "source": "Digital Trends",
+      "date": "2026-04-26",
+      "time": "01:28",
+      "summary": "La iniciativa busca reduir els costos de propietat i reforçar l'avantatge competitiu del seu ecosistema de carregadors."
+    },
+    {
+      "title": "La governadora de Maine veta la moratòria sobre els centres de dades",
+      "link_id": "c_9f232f",
+      "source": "TechCrunch",
+      "date": "2026-04-25",
+      "time": "20:57",
+      "summary": "La llei hauria suposat la primera paralització a nivell estatal de noves instal·lacions tecnològiques als Estats Units."
+    },
+    {
+      "title": "El proper iPad podria abandonar la nomenclatura tradicional",
+      "link_id": "c_2a2ce8",
+      "source": "Digital Trends",
+      "date": "2026-04-25",
+      "time": "20:46",
+      "summary": "Apple planeja simplificar els noms de les seves tauletes per fer la gamma de productes molt més clara."
+    },
+    {
+      "title": "Oracle recorre al fons de bons més gran per finançar el seu macrocentre de dades",
+      "link_id": "c_a822c1",
+      "source": "The Next Web",
+      "date": "2026-04-25",
+      "time": "18:15",
+      "summary": "La companyia ha tancat un finançament històric de 16.300 milions de dòlars per a un campus a Michigan."
+    },
+    {
+      "title": "Identificat un enginyer californià com a sospitós del tiroteig al sopar de corresponsals",
+      "link_id": "c_d3252a",
+      "source": "Wired",
+      "date": "2026-04-26",
+      "time": "03:26",
+      "summary": "El detingut, de 31 anys, hauria obert foc durant l'esdeveniment anual que aplega polítics i periodistes destacats."
     }
   ]
 }
