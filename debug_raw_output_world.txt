@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-04-26T17:35",
+  "generated_at": "2024-05-21T14:30",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Les xarxes socials capturen el caos del tiroteig al sopar de corresponsals",
-      "link_id": "c_9c20d5",
+      "title": "Després del tiroteig al sopar de corresponsals, els rumors i teories de la conspiració inunden la xarxa",
+      "link_id": "c_4b92e5",
       "source": "NYT Technology",
       "date": "2026-04-26",
-      "time": "17:03",
-      "summary": "Periodistes i convidats van compartir escenes de confusió i pànic després que esclatessin trets durant l'exclusiu esdeveniment a Washington."
+      "time": "20:54",
+      "summary": "Influenciadors aprofiten el buit informatiu per difondre teories infundades sobre l'atac al sopar de corresponsals de la Casa Blanca."
     },
     {
-      "title": "Trump destitueix diversos membres de la Junta Nacional de Ciència",
-      "link_id": "c_e6ca82",
-      "source": "Engadget",
+      "title": "El llegat que ha construït Tim Cook",
+      "link_id": "c_78adba",
+      "source": "TechCrunch",
       "date": "2026-04-26",
-      "time": "17:04",
-      "summary": "L'administració ha acomiadat de manera fulminant diversos integrants d'aquest comitè independent, generant preocupació sobre el futur de la investigació."
+      "time": "20:22",
+      "summary": "S'analitza l'evolució d'Apple des del 2011 i els grans reptes que haurà d'afrontar el nou director executiu, John Ternus."
     },
     {
-      "title": "Cook cedeix a Ternus una llista de 10 noves categories de productes per a Apple",
-      "link_id": "c_92c04b",
-      "source": "Bloomberg Technology",
-      "date": "2026-04-26",
-      "time": "14:00",
-      "summary": "El futur conseller delegat hereta un ambiciós full de ruta que inclou dispositius plegables i noves apostes en intel·ligència artificial."
+      "title": "Els preus dels telèfons i ordinadors tenen un nou motiu per pujar",
+      "link_id": "c_5ce2e4",
+      "source": "Digital Trends",
+      "date": "2026-04-27",
+      "time": "09:09",
+      "summary": "La guerra a l'Iran encareix un 40% els materials clau per a plaques de circuit, pressionant els fabricants d'electrònica."
     },
     {
-      "title": "DeepSeek llança el model V4 amb xips de Huawei enmig d'acusacions de robatori d'IA",
-      "link_id": "c_9f3785",
-      "source": "Tom's Hardware",
-      "date": "2026-04-26",
-      "time": "12:15",
-      "summary": "La startup xinesa presenta el seu model més potent fins ara, desafiant les restriccions nord-americanes i els líders del sector."
-    },
-    {
-      "title": "El judici entre Elon Musk i Sam Altman per OpenAI arriba als tribunals",
-      "link_id": "c_fa9d5d",
-      "source": "The Next Web",
-      "date": "2026-04-26",
-      "time": "12:13",
-      "summary": "Un jurat d'Oakland decidirà si la conversió d'OpenAI a una empresa amb ànim de lucre va violar els acords fundacionals."
-    },
-    {
-      "title": "La UE sanciona empreses xineses i Pequín amenaça la capacitat d'armament europea",
-      "link_id": "c_46ac79",
-      "source": "The Next Web",
-      "date": "2026-04-26",
-      "time": "11:59",
-      "summary": "La inclusió de 27 entitats xineses a la llista de sancions per ajudar Rússia desencadena dures represàlies comercials de Pequín."
-    },
-    {
-      "title": "La Xina regula els algoritmes per protegir els repartidors i conductors esgotats",
-      "link_id": "c_54ab3f",
-      "source": "The Next Web",
-      "date": "2026-04-26",
-      "time": "11:52",
-      "summary": "El govern xinès aprova normatives laborals inèdites que obliguen les plataformes a negociar col·lectivament els seus algoritmes."
-    },
-    {
-      "title": "La nova funció Notebooks de Gemini esdevé una eina imprescindible per als usuaris",
-      "link_id": "c_24fe7b",
+      "title": "Una filtració del Galaxy Z Fold 8 i Flip 8 insinua una novetat per a Samsung",
+      "link_id": "c_d998d1",
       "source": "Android Authority",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "summary": "Aquesta integració amb NotebookLM permet organitzar fonts i afegir context de manera automàtica, revolucionant la gestió de la informació personal."
+      "date": "2026-04-27",
+      "time": "08:16",
+      "summary": "Les imatges filtrades revelen un disseny més ample i atractiu per als propers telèfons plegables de la marca sud-coreana."
     },
     {
-      "title": "Com veure la Marató de Londres 2026 de manera gratuïta des de qualsevol lloc",
-      "link_id": "c_a3b274",
-      "source": "TechRadar",
-      "date": "2026-04-26",
-      "time": "07:00",
-      "summary": "Descobreix els millors trucs i opcions de transmissió en directe per seguir aquesta emblemàtica cursa sense pagar cap subscripció."
+      "title": "DeepSeek rebaixa un 75% els preus del V4-Pro i redueix dràsticament els costos de l'API",
+      "link_id": "c_02a537",
+      "source": "The Next Web",
+      "date": "2026-04-27",
+      "time": "07:25",
+      "summary": "Aquesta agressiva retallada de preus intensifica la guerra comercial contra els gegants nord-americans de la intel·ligència artificial."
     },
     {
-      "title": "Sam Altman es disculpa per no denunciar el sospitós del tiroteig de Tumbler Ridge",
-      "link_id": "c_7b011e",
+      "title": "El proper gran salt mòbil podria venir d'una empresa d'IA, no d'Apple o Samsung",
+      "link_id": "c_6074a7",
+      "source": "Digital Trends",
+      "date": "2026-04-27",
+      "time": "07:53",
+      "summary": "OpenAI desenvolupa el seu propi xip per a telèfons intel·ligents, amb producció prevista pel 2028, per revolucionar el sector."
+    },
+    {
+      "title": "Una nova filtració de l'Steam Controller prediu el llançament imminent del maquinari de Valve",
+      "link_id": "c_3b3ca2",
+      "source": "Digital Trends",
+      "date": "2026-04-27",
+      "time": "07:46",
+      "summary": "Ressenyes publicades abans d'hora i llistats recents indiquen que el nou comandament de Valve arribarà al mercat molt aviat."
+    },
+    {
+      "title": "Turtle Beach integra una pantalla de control al seu ratolí per a jocs Command Series MC7",
+      "link_id": "c_76a983",
+      "source": "Digital Trends",
+      "date": "2026-04-27",
+      "time": "04:24",
+      "summary": "Aquest innovador ratolí inclou una pantalla tàctil per gestionar macros, àudio i aplicacions, convertint-se en un minicentre de control."
+    },
+    {
+      "title": "El nou disseny d'icones amb degradat de Google arriba a més aplicacions",
+      "link_id": "c_35092c",
+      "source": "The Verge",
+      "date": "2026-04-26",
+      "time": "14:34",
+      "summary": "La companyia estén la seva renovació estètica a aplicacions com Gmail i Calendar, abandonant el disseny circular uniforme."
+    },
+    {
+      "title": "El primer ministre canadenc vol prohibir les xarxes socials i els xatbots d'IA per a menors a Manitoba",
+      "link_id": "c_2b71b9",
       "source": "Engadget",
-      "date": "2026-04-25",
-      "time": "22:14",
-      "summary": "El conseller delegat d'OpenAI lamenta no haver alertat la policia sobre les converses alarmants del tirador amb ChatGPT."
+      "date": "2026-04-26",
+      "time": "18:21",
+      "summary": "Manitoba podria ser la primera província del Canadà a restringir l'accés infantil a aquestes plataformes per protegir-ne la salut."
     }
   ]
 }

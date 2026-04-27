@@ -1,40 +1,64 @@
 {
-  "generated_at": "2026-04-26T19:35",
+  "generated_at": "2024-05-24T16:45",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "El laboratori d'IA de Jeff Bezos negocia llogar oficines a King's Cross, Londres",
-      "link_id": "c_bb112f",
-      "source": "Financial Times",
-      "date": "2026-04-26",
-      "time": "04:00",
-      "summary": "El Projecte Prometheus s'expandeix al Regne Unit, reforçant l'atractiu de la ciutat per a les empreses tecnològiques globals."
+      "title": "La Xina bloqueja l'adquisició de la startup d'IA Manus per part de Meta",
+      "link_id": "c_544510",
+      "source": "CNBC Technology",
+      "date": "2026-04-27",
+      "time": "09:10",
+      "summary": "L'operació de 2.000 milions de dòlars s'ha aturat per les arrels xineses de l'empresa singapuresa."
     },
     {
-      "title": "Pot discriminar la IA si no pot justificar-se?",
-      "link_id": "c_9ec6d1",
+      "title": "El fabricant de xips Tokyo Electron trenca amb un executiu vinculat a rivals xinesos",
+      "link_id": "c_d583cc",
       "source": "Financial Times",
-      "date": "2026-04-26",
-      "time": "04:00",
-      "summary": "La demanda d'Elon Musk contra Colorado planteja dilemes filosòfics profunds sobre l'impacte dels algorismes en la nostra democràcia."
+      "date": "2026-04-27",
+      "time": "06:09",
+      "summary": "Jay Chen va abandonar el grup japonès en descobrir-se les seves connexions amb empreses emergents de la competència."
     },
     {
-      "title": "Google confia en la IA per atrapar els seus rivals al núvol, Amazon i Microsoft",
-      "link_id": "c_794bbb",
+      "title": "Els ministres britànics es resisteixen a alinear-se amb la normativa d'IA de la UE",
+      "link_id": "c_b1e087",
       "source": "Financial Times",
-      "date": "2026-04-26",
+      "date": "2026-04-27",
       "time": "04:00",
-      "summary": "Thomas Kurian aposta pels nous xips i models per guanyar quota de mercat en els centres de dades."
+      "summary": "Temen que aquesta regulació perjudiqui el sector tecnològic nacional i afebleixi la seva aliança estratègica amb els Estats Units."
     },
     {
-      "title": "El rei xinès dels telèfons intel·ligents desafia Elon Musk a Europa amb vehicles elèctrics prèmium",
-      "link_id": "c_fef456",
+      "title": "Les grans empreses britàniques desconeixen com la IA utilitza les seves dades a l'estranger",
+      "link_id": "c_80d169",
       "source": "Financial Times",
-      "date": "2026-04-26",
+      "date": "2026-04-27",
       "time": "04:00",
-      "summary": "Xiaomi busca expandir-se al continent europeu aprofitant que la demanda dels seus cotxes ja supera la capacitat de producció."
+      "summary": "Una enquesta revela que els directius tecnològics no tenen clar com es gestiona la informació fora del país."
+    },
+    {
+      "title": "Els plans de la Xina per combatre a l'espai",
+      "link_id": "c_6807fc",
+      "source": "Financial Times",
+      "date": "2026-04-27",
+      "time": "04:00",
+      "summary": "Pequín desenvolupa capacitats de doble ús, com capturar satèl·lits, en una creixent cursa armamentística amb els Estats Units."
+    },
+    {
+      "title": "Final de trajecte per als 'Mad Men' amb l'arribada de la IA a la publicitat",
+      "link_id": "c_b86467",
+      "source": "Financial Times",
+      "date": "2026-04-27",
+      "time": "04:00",
+      "summary": "Els grans grups de màrqueting tenen dificultats per adaptar-se i respondre a l'impacte d'aquesta nova tecnologia disruptiva."
+    },
+    {
+      "title": "Els anunciants busquen capitalitzar les promeses de la IA",
+      "link_id": "c_d8a6fd",
+      "source": "Financial Times",
+      "date": "2026-04-27",
+      "time": "04:00",
+      "summary": "El repte principal és trobar l'equilibri entre l'eficiència de l'automatització i l'autenticitat que exigeixen els consumidors actuals."
     }
   ]
 }

@@ -1,64 +1,24 @@
 {
-  "generated_at": "2026-04-26T17:40",
+  "generated_at": "2024-05-24T18:00",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [],
   "articles": [
+    {
+      "title": "La ciberseguretat a Catalunya es tensiona: els incidents gairebé es dupliquen el 2025",
+      "link_id": "c_6047c9",
+      "source": "MetaData",
+      "date": "2026-04-27",
+      "time": "09:19",
+      "summary": "El sector universitari esdevé el principal objectiu dels atacs digitals, reflectint una vulnerabilitat creixent en les institucions acadèmiques."
+    },
     {
       "title": "La Generalitat detecta 25 milions d'intents de ciberatacs al dia contra els seus sistemes",
       "link_id": "c_ced65a",
       "source": "Ara.cat",
       "date": "2026-04-25",
       "time": "11:38",
-      "summary": "L'Agència de Ciberseguretat bloqueja automàticament el vuitanta per cent de les amenaces diàries als sistemes públics catalans."
-    },
-    {
-      "title": "Ciberatacs informàtics: es doblen els ciberincidents a sistemes públics",
-      "link_id": "c_41d6c0",
-      "source": "324.cat",
-      "date": "2026-04-25",
-      "time": "07:09",
-      "summary": "L'any passat es van registrar més de sis mil incidents a la Generalitat, tot i que pocs foren greus."
-    },
-    {
-      "title": "Un any de la gran apagada: què va fallar? Pot tornar a passar?",
-      "link_id": "c_c77d2a",
-      "source": "324.cat",
-      "date": "2026-04-26",
-      "time": "07:13",
-      "summary": "Experts del sistema elèctric analitzen les causes de l'apagada i avaluen la preparació actual davant possibles nous talls."
-    },
-    {
-      "title": "Els projectes per emmagatzemar energia proliferen a Lleida després de l’apagada",
-      "link_id": "c_6c0450",
-      "source": "Segre",
-      "date": "2026-04-26",
-      "time": "05:39",
-      "summary": "La incertesa sobre el subministrament elèctric impulsa noves iniciatives d'emmagatzematge energètic a les comarques de Ponent."
-    },
-    {
-      "title": "Pagar amb Bizum a les botigues físiques serà una realitat a partir del 18 de maig: com funciona i qui ho podrà fer?",
-      "link_id": "c_fc09b3",
-      "source": "RAC1",
-      "date": "2026-04-24",
-      "time": "13:03",
-      "summary": "Clients de CaixaBank, Sabadell i Bankinter seran els primers a poder utilitzar aquest mètode de pagament presencial."
-    },
-    {
-      "title": "Europa s’acosta a llançar el seu propi Bizum públic’ per competir amb Visa, Apple Pay i les criptomonedes",
-      "link_id": "c_b1b2ce",
-      "source": "El Periódico",
-      "date": "2026-04-24",
-      "time": "12:19",
-      "summary": "El Banc Central Europeu avança en la creació d'un euro digital per estandarditzar els pagaments a l'eurozona."
-    },
-    {
-      "title": "Barcelona estrena el CaixaResearch Institute, un gran centre per revolucionar el tractament de les malalties més freqüents",
-      "link_id": "c_0278e5",
-      "source": "Ara.cat",
-      "date": "2026-04-23",
-      "time": "18:31",
-      "summary": "Aquest nou espai pioner a Europa es dedicarà a la immunoteràpia per combatre càncer, Alzheimer i tuberculosi."
+      "summary": "Les barreres de seguretat automatitzades aconsegueixen bloquejar el vuitanta per cent d'aquestes amenaces diàries dirigides al sector públic."
     },
     {
       "title": "Neix el CaixaResearch Institute, nou centre d’immunologia a Barcelona",
@@ -66,7 +26,15 @@
       "source": "La Vanguardia (en català)",
       "date": "2026-04-25",
       "time": "07:54",
-      "summary": "La instal·lació científica busca transformar els descobriments biomèdics en teràpies i diagnòstics innovadors per als pacients."
+      "summary": "Aquestes instal·lacions pioneres buscaran transformar ràpidament els descobriments científics en tractaments reals per a pacients amb malalties greus."
+    },
+    {
+      "title": "Barcelona estrena el CaixaResearch Institute, un gran centre per revolucionar el tractament de les malalties més freqüents",
+      "link_id": "c_0278e5",
+      "source": "Ara.cat",
+      "date": "2026-04-23",
+      "time": "18:31",
+      "summary": "La investigació se centrarà a utilitzar el sistema immunitari per combatre patologies globals com el càncer o l'Alzheimer."
     },
     {
       "title": "Palantir, la superpotència d'IA que pot decidir guerres i encén les alarmes globals",
@@ -74,7 +42,39 @@
       "source": "El Nacional.cat",
       "date": "2026-04-26",
       "time": "11:08",
-      "summary": "El programari d'aquesta empresa transforma dades massives en decisions clau per a governs i cossos de seguretat."
+      "summary": "L'ús d'aquest programari per part d'exèrcits i governs planteja seriosos debats ètics sobre la privacitat i el control."
+    },
+    {
+      "title": "Europa s’acosta a llançar el seu propi Bizum públic’ per competir amb Visa, Apple Pay i les criptomonedes",
+      "link_id": "c_b1b2ce",
+      "source": "El Periódico",
+      "date": "2026-04-24",
+      "time": "12:19",
+      "summary": "El Banc Central Europeu prepara l'estàndard tècnic per implementar l'euro digital a tota l'eurozona pròximament."
+    },
+    {
+      "title": "La planta d’Ebro de la Zona Franca començarà a fabricar un cotxe 100% elèctric a finals d’any",
+      "link_id": "c_d97636",
+      "source": "El Punt Avui",
+      "date": "2026-04-27",
+      "time": "10:14",
+      "summary": "Aquesta iniciativa reindustrialitza les antigues instal·lacions de Nissan, impulsant la mobilitat sostenible i la creació d'ocupació local."
+    },
+    {
+      "title": "El nou profeta d'Apple",
+      "link_id": "c_23e9ff",
+      "source": "Via Empresa",
+      "date": "2026-04-27",
+      "time": "04:55",
+      "summary": "El relleu a la direcció de la companyia marca la fi d'una era i anticipa noves estratègies corporatives."
+    },
+    {
+      "title": "Els pròxims vint anys del .cat",
+      "link_id": "c_9c2aff",
+      "source": "Accent Obert",
+      "date": "2026-04-23",
+      "time": "06:52",
+      "summary": "La intel·ligència artificial es perfila com el principal repte tecnològic per garantir la presència digital del català."
     },
     {
       "title": "La UPC presenta LEIA, el programa que articula la seva estratègia en intel·ligència artificial",
@@ -82,7 +82,7 @@
       "source": "MetaData",
       "date": "2026-04-24",
       "time": "08:38",
-      "summary": "Un nou hub al Campus Diagonal Nord reforçarà la recerca i la formació tecnològica a Catalunya."
+      "summary": "El nou centre al Campus Diagonal Nord connectarà la recerca acadèmica amb les necessitats tecnològiques del teixit empresarial."
     }
   ]
 }

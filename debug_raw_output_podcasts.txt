@@ -1,5 +1,5 @@
 {
-  "generated_at": "2024-05-24T14:30",
+  "generated_at": "2024-05-21T16:00",
   "id": "podcasts",
   "title": "Podcasts en català sobre tecnologia",
   "sources_checked": [],
@@ -18,7 +18,7 @@
       "source": "Mossega la poma",
       "date": "2026-04-20",
       "time": "16:03",
-      "summary": "Conversa amb oients als Estats Units sobre l'actualitat del país, eines de desenvolupament al núvol i intel·ligència artificial."
+      "summary": "Conversa amb oients als Estats Units sobre l'actualitat tecnològica, eines d'IA com Claude Code i desenvolupament al núvol."
     },
     {
       "title": "L' Altra Ràdio - Els robotaxis: taxis sense conductor humà",
@@ -26,7 +26,7 @@
       "source": "L'altra ràdio",
       "date": "2026-04-23",
       "time": "07:33",
-      "summary": "Jordi Barreda analitza els vehicles autònoms dissenyats per al transport de passatgers operats per empreses de mobilitat compartida."
+      "summary": "Jordi Barreda analitza el funcionament i l'impacte dels vehicles autònoms dissenyats per al transport compartit de passatgers."
     },
     {
       "title": "L' Altra Ràdio - Especial 50 anys de Ràdio 4",
@@ -34,7 +34,7 @@
       "source": "L'altra ràdio",
       "date": "2026-04-16",
       "time": "07:33",
-      "summary": "Edició especial enregistrada al IX Congrés Internacional de Recerca en Comunicació per celebrar el cinquantenari de l'emissora."
+      "summary": "Edició especial enregistrada a la Universitat Ramon Llull per celebrar el cinquantenari de l'emissora amb diversos experts."
     },
     {
       "title": "El gòTIC - Tenim una missió! del 15/4/2026",
@@ -42,7 +42,7 @@
       "source": "El Gòtic",
       "date": "2026-04-14",
       "time": "16:29",
-      "summary": "El programa comparteix recursos i estratègies per ajudar la ciutadania digital a afrontar els grans reptes tecnològics actuals."
+      "summary": "Estratègies i recursos pràctics per ajudar la ciutadania a afrontar els grans reptes i inquietuds del món digital."
     },
     {
       "title": "Col·lapse de flotes de robotaxis",
@@ -50,7 +50,15 @@
       "source": "Societat de la Informació",
       "date": "2026-04-14",
       "time": "12:28",
-      "summary": "Una fallada tècnica a Wuhan paralitza desenes de vehicles autònoms de Baidu, bloquejant el trànsit i requerint intervenció policial."
+      "summary": "Una fallada tècnica paralitza desenes de vehicles autònoms de Baidu a Wuhan, provocant un gran bloqueig del trànsit."
+    },
+    {
+      "title": "On van els calerons dels catalans? Amb Gerard Giménez Adsuar, el creador de subvencions.cat",
+      "link_id": "c_703146",
+      "source": "Foc a Terra",
+      "date": "2026-04-27",
+      "time": "04:00",
+      "summary": "Gerard Giménez Adsuar explica com eines de transparència permeten rastrejar les subvencions i contractes de les entitats públiques."
     },
     {
       "title": "La pensió de les paneroles i altres patrons de decepció",
@@ -66,7 +74,7 @@
       "source": "Foc a Terra",
       "date": "2026-04-13",
       "time": "04:00",
-      "summary": "La doctora Judith Urbano explica l'origen de l'urbanisme a Barcelona i curiositats sobre els cables a les façanes."
+      "summary": "La doctora Judith Urbano repassa la història urbanística de Barcelona i l'origen del cablejat a les façanes."
     },
     {
       "title": "Matt Mullenweg reflexiona i opina sobre el rumb de WordPress",
@@ -74,7 +82,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-04-21",
       "time": "00:00",
-      "summary": "El creador de la plataforma critica la cultura de procés actual que paralitza les decisions i eclipsa els contribuïdors."
+      "summary": "El creador de WordPress critica la cultura de processos actual que paralitza les decisions i afecta els contribuïdors."
     },
     {
       "title": "Eines d’IA per crear formació",
@@ -82,7 +90,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-04-14",
       "time": "00:00",
-      "summary": "L'equip de formació proposa noves eines i instruccions per estandarditzar la creació de materials educatius sobre la plataforma."
+      "summary": "L'equip formatiu proposa nous indicadors i eines d'intel·ligència artificial per estandarditzar la creació de materials educatius."
     },
     {
       "title": "Capítol 63: Nanobots Therapeutics, robots per curar el càncer de bufeta",
@@ -90,7 +98,7 @@
       "source": "RAC&GO",
       "date": "2026-04-21",
       "time": "06:00",
-      "summary": "Una empresa emergent catalana desenvolupa robots microscòpics capaços de navegar pel cos humà per atacar directament tumors cancerosos."
+      "summary": "Una empresa emergent catalana desenvolupa robots microscòpics capaços de navegar pel cos humà per atacar tumors cancerosos."
     }
   ]
 }
