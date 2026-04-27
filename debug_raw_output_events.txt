@@ -1,24 +1,16 @@
 {
-  "generated_at": "2024-05-24T16:00",
+  "generated_at": "2026-04-27T18:05",
   "id": "events",
   "title": "Trobades",
   "sources_checked": [],
   "articles": [
-    {
-      "title": "Flutter & GDG Barcelona Tech Talk – Creando tu primer plugin de Dart Analyzer",
-      "link_id": "c_661a3c",
-      "source": "GDG Barcelona",
-      "date": "2026-04-12",
-      "time": "16:41",
-      "summary": "Trobada presencial a 42 Barcelona per aprendre a crear regles de lint personalitzades amb el nou sistema de plugins."
-    },
     {
       "title": "IsardVDI: de desplegar escriptoris virtuals a executar IA locals",
       "link_id": "c_b596e6",
       "source": "Free Software Barcelona",
       "date": "2026-04-20",
       "time": "09:51",
-      "summary": "Alberto Larraz explicarà l'evolució d'aquesta alternativa lliure a Citrix, des d'entorns educatius fins a la intel·ligència artificial."
+      "summary": "Alberto Larraz explicarà l'evolució d'aquesta alternativa lliure a Citrix i VMware, nascuda fa catorze anys per a entorns educatius."
     }
   ]
 }

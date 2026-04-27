@@ -1,88 +1,88 @@
 {
-  "generated_at": "2024-05-21T14:30",
+  "generated_at": "2026-04-27T20:03",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Després del tiroteig al sopar de corresponsals, els rumors i teories de la conspiració inunden la xarxa",
-      "link_id": "c_4b92e5",
-      "source": "NYT Technology",
-      "date": "2026-04-26",
-      "time": "20:54",
-      "summary": "Influenciadors aprofiten el buit informatiu per difondre teories infundades sobre l'atac al sopar de corresponsals de la Casa Blanca."
-    },
-    {
-      "title": "El llegat que ha construït Tim Cook",
-      "link_id": "c_78adba",
+      "title": "OpenAI podria estar creant un telèfon amb agents d'IA que substituirien les aplicacions",
+      "link_id": "c_7f1c16",
       "source": "TechCrunch",
-      "date": "2026-04-26",
-      "time": "20:22",
-      "summary": "S'analitza l'evolució d'Apple des del 2011 i els grans reptes que haurà d'afrontar el nou director executiu, John Ternus."
-    },
-    {
-      "title": "Els preus dels telèfons i ordinadors tenen un nou motiu per pujar",
-      "link_id": "c_5ce2e4",
-      "source": "Digital Trends",
       "date": "2026-04-27",
-      "time": "09:09",
-      "summary": "La guerra a l'Iran encareix un 40% els materials clau per a plaques de circuit, pressionant els fabricants d'electrònica."
+      "time": "13:08",
+      "summary": "S'espera que el dispositiu entri en producció el 2028, marcant un canvi radical en l'ús dels telèfons intel·ligents."
     },
     {
-      "title": "Una filtració del Galaxy Z Fold 8 i Flip 8 insinua una novetat per a Samsung",
-      "link_id": "c_d998d1",
-      "source": "Android Authority",
+      "title": "OpenAI posa fi a l'exclusivitat amb Microsoft i s'obre a nous proveïdors",
+      "link_id": "c_90d765",
+      "source": "TechCrunch",
       "date": "2026-04-27",
-      "time": "08:16",
-      "summary": "Les imatges filtrades revelen un disseny més ample i atractiu per als propers telèfons plegables de la marca sud-coreana."
+      "time": "17:40",
+      "summary": "Aquest acord permetrà a OpenAI vendre productes a AWS, mentre Microsoft obté més efectiu en el repartiment d'ingressos."
     },
     {
-      "title": "DeepSeek rebaixa un 75% els preus del V4-Pro i redueix dràsticament els costos de l'API",
-      "link_id": "c_02a537",
-      "source": "The Next Web",
-      "date": "2026-04-27",
-      "time": "07:25",
-      "summary": "Aquesta agressiva retallada de preus intensifica la guerra comercial contra els gegants nord-americans de la intel·ligència artificial."
-    },
-    {
-      "title": "El proper gran salt mòbil podria venir d'una empresa d'IA, no d'Apple o Samsung",
-      "link_id": "c_6074a7",
-      "source": "Digital Trends",
-      "date": "2026-04-27",
-      "time": "07:53",
-      "summary": "OpenAI desenvolupa el seu propi xip per a telèfons intel·ligents, amb producció prevista pel 2028, per revolucionar el sector."
-    },
-    {
-      "title": "Una nova filtració de l'Steam Controller prediu el llançament imminent del maquinari de Valve",
-      "link_id": "c_3b3ca2",
-      "source": "Digital Trends",
-      "date": "2026-04-27",
-      "time": "07:46",
-      "summary": "Ressenyes publicades abans d'hora i llistats recents indiquen que el nou comandament de Valve arribarà al mercat molt aviat."
-    },
-    {
-      "title": "Turtle Beach integra una pantalla de control al seu ratolí per a jocs Command Series MC7",
-      "link_id": "c_76a983",
-      "source": "Digital Trends",
-      "date": "2026-04-27",
-      "time": "04:24",
-      "summary": "Aquest innovador ratolí inclou una pantalla tàctil per gestionar macros, àudio i aplicacions, convertint-se en un minicentre de control."
-    },
-    {
-      "title": "El nou disseny d'icones amb degradat de Google arriba a més aplicacions",
-      "link_id": "c_35092c",
+      "title": "Valve llança el nou Steam Controller sense la consola Steam Machine",
+      "link_id": "c_d74c19",
       "source": "The Verge",
-      "date": "2026-04-26",
-      "time": "14:34",
-      "summary": "La companyia estén la seva renovació estètica a aplicacions com Gmail i Calendar, abandonant el disseny circular uniforme."
+      "date": "2026-04-27",
+      "time": "13:00",
+      "summary": "El comandament arribarà al mercat el 4 de maig per 99 dòlars, oferint una gran personalització per a PC."
     },
     {
-      "title": "El primer ministre canadenc vol prohibir les xarxes socials i els xatbots d'IA per a menors a Manitoba",
-      "link_id": "c_2b71b9",
-      "source": "Engadget",
-      "date": "2026-04-26",
-      "time": "18:21",
-      "summary": "Manitoba podria ser la primera província del Canadà a restringir l'accés infantil a aquestes plataformes per protegir-ne la salut."
+      "title": "La nova frontera de Spotify: contingut de fitness i entrenaments",
+      "link_id": "c_7c82bd",
+      "source": "TechCrunch",
+      "date": "2026-04-27",
+      "time": "12:00",
+      "summary": "La plataforma integra vídeos d'exercicis i classes de Peloton gratuïtes per competir directament amb aplicacions de salut i esport."
+    },
+    {
+      "title": "Apple llança la quarta beta de macOS Tahoe 26.5 per a desenvolupadors",
+      "link_id": "c_2ca55f",
+      "source": "MacRumors",
+      "date": "2026-04-27",
+      "time": "10:07",
+      "summary": "Aquesta actualització arriba juntament amb les noves versions de prova d'iOS, iPadOS, watchOS i visionOS per polir el sistema."
+    },
+    {
+      "title": "Es filtren les primeres ulleres intel·ligents de Samsung",
+      "link_id": "c_b919c5",
+      "source": "The Verge",
+      "date": "2026-04-27",
+      "time": "12:25",
+      "summary": "El dispositiu, sense pantalla i similar a les Ray-Ban de Meta, podria presentar-se aviat amb un preu molt competitiu."
+    },
+    {
+      "title": "La Xina bloqueja la compra de Manus per part de Meta",
+      "link_id": "c_046651",
+      "source": "TechCrunch",
+      "date": "2026-04-27",
+      "time": "13:16",
+      "summary": "Aquesta decisió frena l'expansió de Zuckerberg en el sector dels agents d'IA i suposa un revés estratègic important."
+    },
+    {
+      "title": "David Silver recapta 1.100 milions per crear una IA que aprèn sense dades humanes",
+      "link_id": "c_297f80",
+      "source": "TechCrunch",
+      "date": "2026-04-27",
+      "time": "17:24",
+      "summary": "La nova empresa de l'exinvestigador de DeepMind, Ineffable Intelligence, assoleix una valoració de 5.100 milions en pocs mesos."
+    },
+    {
+      "title": "La batalla judicial entre Elon Musk i Sam Altman pel futur d'OpenAI",
+      "link_id": "c_281c90",
+      "source": "The Verge",
+      "date": "2026-04-27",
+      "time": "11:50",
+      "summary": "El judici determinarà si l'empresa va trair la seva missió fundacional sense ànim de lucre per afavorir interessos comercials."
+    },
+    {
+      "title": "Meta firma un acord per rebre energia solar des de l'espai durant la nit",
+      "link_id": "c_77824b",
+      "source": "TechCrunch",
+      "date": "2026-04-27",
+      "time": "10:00",
+      "summary": "Aquest projecte pioner utilitzarà satèl·lits per captar llum solar i enviar-la a la Terra, alimentant els seus centres de dades."
     }
   ]
 }

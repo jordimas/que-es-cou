@@ -1,24 +1,48 @@
 {
-  "generated_at": "2024-05-24T18:00",
+  "generated_at": "2024-05-24T18:45",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [],
   "articles": [
     {
-      "title": "La ciberseguretat a Catalunya es tensiona: els incidents gairebé es dupliquen el 2025",
-      "link_id": "c_6047c9",
-      "source": "MetaData",
-      "date": "2026-04-27",
-      "time": "09:19",
-      "summary": "El sector universitari esdevé el principal objectiu dels atacs digitals, reflectint una vulnerabilitat creixent en les institucions acadèmiques."
+      "title": "Un any de la gran apagada: què va fallar? Pot tornar a passar?",
+      "link_id": "c_c77d2a",
+      "source": "324.cat",
+      "date": "2026-04-26",
+      "time": "07:13",
+      "summary": "Diversos experts analitzen les causes del zero elèctric i avaluen si el sistema actual està preparat per evitar-ho."
     },
     {
-      "title": "La Generalitat detecta 25 milions d'intents de ciberatacs al dia contra els seus sistemes",
-      "link_id": "c_ced65a",
+      "title": "El metro de Barcelona incorporarà generadors per garantir el funcionament de la xarxa en una apagada",
+      "link_id": "c_f75c19",
+      "source": "Via Empresa",
+      "date": "2026-04-27",
+      "time": "12:23",
+      "summary": "TMB instal·larà sistemes d'emergència per assegurar la megafonia i permetre que els trens arribin a les estacions properes."
+    },
+    {
+      "title": "Red Eléctrica defensa que “no va fallar” durant l’apagada i que la reposició va ser un “èxit”",
+      "link_id": "c_eca048",
+      "source": "Betevé",
+      "date": "2026-04-27",
+      "time": "14:23",
+      "summary": "La companyia publica un documental on nega qualsevol incompliment i reivindica la ràpida resposta davant l'incident elèctric."
+    },
+    {
+      "title": "Nissan comunica als sindicats que planeja un ERO en tres centres de Barcelona",
+      "link_id": "c_6e58a3",
       "source": "Ara.cat",
-      "date": "2026-04-25",
-      "time": "11:38",
-      "summary": "Les barreres de seguretat automatitzades aconsegueixen bloquejar el vuitanta per cent d'aquestes amenaces diàries dirigides al sector públic."
+      "date": "2026-04-27",
+      "time": "15:35",
+      "summary": "La mesura afectarà 569 treballadors de la Zona Franca i el Prat, quatre anys després del tancament principal."
+    },
+    {
+      "title": "Ebro preveu fabricar un cotxe 100% elèctric a la planta de la Zona Franca a finals del 2026",
+      "link_id": "c_bec53b",
+      "source": "Via Empresa",
+      "date": "2026-04-27",
+      "time": "10:22",
+      "summary": "El nou model urbà tindrà 400 quilòmetres d'autonomia i es començaria a comercialitzar durant l'hivern vinent."
     },
     {
       "title": "Neix el CaixaResearch Institute, nou centre d’immunologia a Barcelona",
@@ -26,7 +50,7 @@
       "source": "La Vanguardia (en català)",
       "date": "2026-04-25",
       "time": "07:54",
-      "summary": "Aquestes instal·lacions pioneres buscaran transformar ràpidament els descobriments científics en tractaments reals per a pacients amb malalties greus."
+      "summary": "Aquest espai pioner buscarà transformar els descobriments científics en teràpies innovadores per a malalties com el càncer."
     },
     {
       "title": "Barcelona estrena el CaixaResearch Institute, un gran centre per revolucionar el tractament de les malalties més freqüents",
@@ -34,55 +58,31 @@
       "source": "Ara.cat",
       "date": "2026-04-23",
       "time": "18:31",
-      "summary": "La investigació se centrarà a utilitzar el sistema immunitari per combatre patologies globals com el càncer o l'Alzheimer."
+      "summary": "És el primer centre estatal dedicat exclusivament a la immunoteràpia, inaugurat recentment amb la presència d'autoritats destacades."
     },
     {
-      "title": "Palantir, la superpotència d'IA que pot decidir guerres i encén les alarmes globals",
-      "link_id": "c_38c2be",
-      "source": "El Nacional.cat",
-      "date": "2026-04-26",
-      "time": "11:08",
-      "summary": "L'ús d'aquest programari per part d'exèrcits i governs planteja seriosos debats ètics sobre la privacitat i el control."
-    },
-    {
-      "title": "Europa s’acosta a llançar el seu propi Bizum públic’ per competir amb Visa, Apple Pay i les criptomonedes",
-      "link_id": "c_b1b2ce",
-      "source": "El Periódico",
-      "date": "2026-04-24",
-      "time": "12:19",
-      "summary": "El Banc Central Europeu prepara l'estàndard tècnic per implementar l'euro digital a tota l'eurozona pròximament."
-    },
-    {
-      "title": "La planta d’Ebro de la Zona Franca començarà a fabricar un cotxe 100% elèctric a finals d’any",
-      "link_id": "c_d97636",
-      "source": "El Punt Avui",
-      "date": "2026-04-27",
-      "time": "10:14",
-      "summary": "Aquesta iniciativa reindustrialitza les antigues instal·lacions de Nissan, impulsant la mobilitat sostenible i la creació d'ocupació local."
-    },
-    {
-      "title": "El nou profeta d'Apple",
-      "link_id": "c_23e9ff",
-      "source": "Via Empresa",
-      "date": "2026-04-27",
-      "time": "04:55",
-      "summary": "El relleu a la direcció de la companyia marca la fi d'una era i anticipa noves estratègies corporatives."
-    },
-    {
-      "title": "Els pròxims vint anys del .cat",
-      "link_id": "c_9c2aff",
-      "source": "Accent Obert",
-      "date": "2026-04-23",
-      "time": "06:52",
-      "summary": "La intel·ligència artificial es perfila com el principal repte tecnològic per garantir la presència digital del català."
-    },
-    {
-      "title": "La UPC presenta LEIA, el programa que articula la seva estratègia en intel·ligència artificial",
-      "link_id": "c_7aa390",
+      "title": "La ciberseguretat a Catalunya es tensiona: els incidents gairebé es dupliquen el 2025",
+      "link_id": "c_6047c9",
       "source": "MetaData",
-      "date": "2026-04-24",
-      "time": "08:38",
-      "summary": "El nou centre al Campus Diagonal Nord connectarà la recerca acadèmica amb les necessitats tecnològiques del teixit empresarial."
+      "date": "2026-04-27",
+      "time": "09:19",
+      "summary": "L'Agència de Ciberseguretat ha gestionat més de sis mil atacs, sent l'àmbit universitari un dels sectors més afectats."
+    },
+    {
+      "title": "Els incidents gestionats per l’Agència de Ciberseguretat es dupliquen en un any",
+      "link_id": "c_543b14",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-04-25",
+      "time": "07:56",
+      "summary": "Malgrat l'augment d'amenaces, l'entitat catalana ha aconseguit bloquejar el vuitanta per cent dels atacs gràcies a l'alerta primerenca."
+    },
+    {
+      "title": "OpenAI trenca la seva exclusivitat amb Microsoft i obre la porta a acords amb Google i Amazon",
+      "link_id": "c_c23606",
+      "source": "El Periódico",
+      "date": "2026-04-27",
+      "time": "16:53",
+      "summary": "La creadora de ChatGPT diversifica les seves aliances estratègiques per expandir el seu domini en intel·ligència artificial."
     }
   ]
 }
