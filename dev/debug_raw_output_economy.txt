@@ -1,48 +1,64 @@
 {
-  "generated_at": "2024-05-24T18:00",
+  "generated_at": "2026-04-27T14:14",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Pot la IA discriminar si no pot justificar-se?",
-      "link_id": "c_9ec6d1",
-      "source": "Financial Times",
-      "date": "2026-04-26",
-      "time": "04:00",
-      "summary": "La demanda de Musk a Colorado planteja dilemes filosòfics sobre l'impacte dels algorismes en la democràcia."
-    },
-    {
-      "title": "Google confia en la IA per atrapar els seus rivals al núvol, Amazon i Microsoft",
-      "link_id": "c_794bbb",
-      "source": "Financial Times",
-      "date": "2026-04-26",
-      "time": "04:00",
-      "summary": "El conseller delegat de Google Cloud assegura que els seus xips avançats impulsaran el negoci dels centres de dades."
-    },
-    {
-      "title": "El rei xinès dels telèfons intel·ligents desafia Elon Musk a Europa amb vehicles elèctrics prèmium",
-      "link_id": "c_fef456",
-      "source": "Financial Times",
-      "date": "2026-04-26",
-      "time": "04:00",
-      "summary": "Xiaomi busca expandir-se pel continent europeu aprofitant que la demanda dels seus cotxes supera la capacitat de producció actual."
-    },
-    {
-      "title": "Guerra de talent en IA: La indústria del programari, nou objectiu mentre els directius fugen a OpenAI",
-      "link_id": "c_f20db2",
+      "title": "Un conseller delegat bancari deixa que el seu clon d'IA gestioni una trucada de resultats",
+      "link_id": "c_ce91f2",
       "source": "CNBC Technology",
-      "date": "2026-04-25",
-      "time": "12:43",
-      "summary": "Les grans tecnològiques pateixen a la borsa per la disrupció de la IA i la pèrdua de líders clau."
+      "date": "2026-04-27",
+      "time": "12:12",
+      "summary": "Sam Sidhu, de Customers Bank, impulsa l'ús d'agents d'intel·ligència artificial per crear una nova força laboral digital."
     },
     {
-      "title": "Provem el xatbot Grok de xAI conduint un Tesla per Nova York. Això és el que va passar.",
-      "link_id": "c_8ad213",
+      "title": "Qualcomm es dispara un 12% per l'aliança amb OpenAI per a un xip d'IA per a mòbils",
+      "link_id": "c_3b48fb",
       "source": "CNBC Technology",
-      "date": "2026-04-25",
-      "time": "12:00",
-      "summary": "Una prova pràctica mostra com s'integra aquest assistent virtual amb el sistema de conducció autònoma pels carrers novaiorquesos."
+      "date": "2026-04-27",
+      "time": "12:09",
+      "summary": "L'empresa col·laborarà amb MediaTek i Luxshare per dissenyar aquest nou dispositiu intel·ligent, segons apunten els analistes."
+    },
+    {
+      "title": "El fabricant de xips Tokyo Electron trenca amb un executiu vinculat a rivals xinesos",
+      "link_id": "c_d583cc",
+      "source": "Financial Times",
+      "date": "2026-04-27",
+      "time": "06:09",
+      "summary": "Jay Chen abandona el grup japonès després de descobrir-se les seves connexions amb empreses emergents de la competència."
+    },
+    {
+      "title": "Les grans empreses britàniques desconeixen com la IA utilitza les seves dades a l'estranger",
+      "link_id": "c_80d169",
+      "source": "Financial Times",
+      "date": "2026-04-27",
+      "time": "04:00",
+      "summary": "Una enquesta revela que els directius tecnològics no entenen com es gestiona la informació corporativa fora del país."
+    },
+    {
+      "title": "Final de trajecte per als \"Mad Men\" amb l'arribada de la IA a la publicitat",
+      "link_id": "c_b86467",
+      "source": "Financial Times",
+      "date": "2026-04-27",
+      "time": "04:00",
+      "summary": "Els grans grups de màrqueting tenen dificultats per adaptar-se ràpidament a les noves eines d'automatització del sector."
+    },
+    {
+      "title": "Els anunciants busquen capitalitzar les promeses de la intel·ligència artificial",
+      "link_id": "c_d8a6fd",
+      "source": "Financial Times",
+      "date": "2026-04-27",
+      "time": "04:00",
+      "summary": "El repte principal és trobar l'equilibri entre l'eficiència de l'automatització i l'autenticitat que exigeixen els consumidors actuals."
+    },
+    {
+      "title": "Hauria el vostre consell d'administració de nomenar un bot?",
+      "link_id": "c_5eec11",
+      "source": "Financial Times",
+      "date": "2026-04-27",
+      "time": "03:00",
+      "summary": "Les eines d'IA faciliten la recerca als directius, tot i que difícilment obtindran dret a vot aviat."
     }
   ]
 }

@@ -1,88 +1,124 @@
 {
-  "generated_at": "2026-04-26T13:30",
+  "generated_at": "2024-05-24T18:30",
   "id": "world",
   "title": "Notícies tecnològiques del món",
-  "sources_checked": [],
+  "sources_checked": [
+    {
+      "name": "Ars Technica",
+      "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
+      "articles_found": 0
+    },
+    {
+      "name": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "AnandTech",
+      "url": "https://www.anandtech.com/rss/",
+      "articles_found": 0
+    },
+    {
+      "name": "Wall Street Journal Tech",
+      "url": "https://feeds.a.dj.com/rss/RSSWSJD.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "Gizmodo",
+      "url": "https://www.gizmodo.com/feed/rss",
+      "articles_found": 0
+    },
+    {
+      "name": "Slashdot",
+      "url": "https://slashdot.org/rss/slashdot.rss",
+      "articles_found": 0
+    },
+    {
+      "name": "NetworkWorld",
+      "url": "https://www.networkworld.com/feed/",
+      "articles_found": 0
+    }
+  ],
   "articles": [
     {
-      "title": "Hi ha una manera astuta de veure la Marató de Londres 2026 GRATIS",
-      "link_id": "c_a3b274",
-      "source": "TechRadar",
-      "date": "2026-04-26",
-      "time": "07:00",
-      "summary": "Descobreix com veure la Marató de Londres 2026 en directe i de forma gratuïta des de qualsevol lloc."
-    },
-    {
-      "title": "El CEO d'OpenAI demana disculpes per no haver denunciat a la policia el compte del sospitós de Tumbler Ridge",
-      "link_id": "c_7b011e",
-      "source": "Engadget",
-      "date": "2026-04-25",
-      "time": "22:14",
-      "summary": "Sam Altman demana disculpes per no haver alertat la policia sobre l'usuari implicat en un tiroteig massiu al Canadà."
-    },
-    {
-      "title": "5 grans reptes per a John Ternus, el proper CEO d'Apple",
-      "link_id": "c_0cc982",
-      "source": "NYT Technology",
-      "date": "2026-04-25",
-      "time": "16:33",
-      "summary": "El nou director general d'Apple s'enfrontarà a reptes importants per definir la futura estratègia de maquinari i intel·ligència artificial."
-    },
-    {
-      "title": "Futbol de la FA Cup en directe: Mira el Leeds United contra el Chelsea",
-      "link_id": "c_c1a144",
-      "source": "CNET",
-      "date": "2026-04-26",
-      "time": "11:01",
-      "summary": "Guia completa per seguir en directe la semifinal de la FA Cup entre el Leeds United i el Chelsea."
-    },
-    {
-      "title": "Estava a punt de descartar els nous Notebooks de Gemini. Després d'utilitzar-los, no puc viure sense ells",
-      "link_id": "c_24fe7b",
+      "title": "Spotify planta cara a Apple Fitness Plus i Fitbit Premium amb entrenaments guiats",
+      "link_id": "c_2fb6af",
       "source": "Android Authority",
-      "date": "2026-04-26",
-      "time": "10:00",
-      "summary": "La nova funció de NotebookLM de Google organitza automàticament les fonts de recerca, millorant significativament l'experiència dels usuaris."
+      "date": "2026-04-27",
+      "time": "12:00",
+      "summary": "Spotify llança un nou centre de fitnes amb entrenaments guiats en vídeo i àudio, competint amb Apple i Fitbit."
     },
     {
-      "title": "Pistes, respostes i ajuda per al NYT Connections d'avui, 26 d'abril, #1050",
-      "link_id": "c_76efaa",
-      "source": "CNET",
-      "date": "2026-04-26",
-      "time": "09:01",
-      "summary": "Pistes i solucions per resoldre el popular trencaclosques Connections del New York Times d'aquest diumenge 26 d'abril."
+      "title": "És aquest el proper telèfon plegable ample de Samsung?",
+      "link_id": "c_d3dddc",
+      "source": "The Verge",
+      "date": "2026-04-27",
+      "time": "07:52",
+      "summary": "Unes imatges filtrades mostren el possible disseny del nou telèfon plegable més ample de Samsung, previst per a enguany."
     },
     {
-      "title": "Pistes, respostes i ajuda per al NYT Strands d'avui, 26 d'abril #784",
-      "link_id": "c_63700e",
-      "source": "CNET",
-      "date": "2026-04-26",
-      "time": "09:01",
-      "summary": "Troba les respostes i consells necessaris per completar el repte diari de Strands del New York Times."
+      "title": "Qualcomm es dispara per l'informe que treballa amb OpenAI en un telèfon intel·ligent",
+      "link_id": "c_27f071",
+      "source": "Bloomberg Technology",
+      "date": "2026-04-27",
+      "time": "11:52",
+      "summary": "Les accions de Qualcomm es disparen després de rumors sobre una col·laboració amb OpenAI per crear un telèfon intel·ligent."
     },
     {
-      "title": "Tesla ofereix un any de Supercharging gratuït amb el Model 3 Premium i Performance",
-      "link_id": "c_ef0da9",
+      "title": "Moltes aplicacions de Google podrien rebre un nou redisseny d'icones amb degradat",
+      "link_id": "c_05123e",
+      "source": "Android Authority",
+      "date": "2026-04-27",
+      "time": "09:29",
+      "summary": "Google abandona el disseny minimalista i aposta per noves icones amb degradats vibrants per a les seves aplicacions."
+    },
+    {
+      "title": "Els preus dels telèfons intel·ligents i PC tenen un altre motiu per pujar",
+      "link_id": "c_5ce2e4",
       "source": "Digital Trends",
+      "date": "2026-04-27",
+      "time": "09:09",
+      "summary": "La guerra a l'Iran ha encarit els materials clau per a plaques de circuit, pressionant els fabricants."
+    },
+    {
+      "title": "DeepSeek rebaixa els preus del V4-Pro un 75% i redueix els costos de memòria cau de la seva API",
+      "link_id": "c_02a537",
+      "source": "The Next Web",
+      "date": "2026-04-27",
+      "time": "07:25",
+      "summary": "L'empresa xinesa redueix dràsticament les tarifes del seu model d'IA, intensificant la guerra de preus contra rivals nord-americans."
+    },
+    {
+      "title": "Després del tiroteig al sopar de corresponsals, els rumors i les teories de la conspiració inunden la xarxa",
+      "link_id": "c_4b92e5",
+      "source": "NYT Technology",
       "date": "2026-04-26",
-      "time": "01:28",
-      "summary": "Tesla regala un any de recàrrega gratuïta als compradors dels nous Model 3 Premium i Performance a l'Amèrica del Nord."
+      "time": "20:54",
+      "summary": "Les xarxes socials s'omplen de teories de la conspiració infundades després de l'atac armat al sopar de corresponsals."
     },
     {
-      "title": "La governadora de Maine veta la moratòria dels centres de dades",
-      "link_id": "c_9f232f",
-      "source": "TechCrunch",
-      "date": "2026-04-25",
-      "time": "20:57",
-      "summary": "La governadora de Maine ha vetat una llei que pretenia paralitzar la construcció de nous centres de dades."
+      "title": "\"No els importa\": ShinyHunters ataca de nou i afirma haver robat 7,5 milions de correus de creuers Carnival",
+      "link_id": "c_20ce37",
+      "source": "TechRadar",
+      "date": "2026-04-27",
+      "time": "12:10",
+      "summary": "El grup de furoners ShinyHunters afirma haver robat milions de correus electrònics d'una filial de la companyia de creuers."
     },
     {
-      "title": "El proper iPad podria abandonar la nomenclatura tradicional mentre Apple replanteja la seva gamma",
-      "link_id": "c_2a2ce8",
-      "source": "Digital Trends",
-      "date": "2026-04-25",
-      "time": "20:46",
-      "summary": "Apple podria simplificar la nomenclatura dels seus propers models d'iPad per fer la seva gamma de productes més entenedora."
+      "title": "Microsoft actualitza l'experiència de Windows Update: ara pots fer una pausa",
+      "link_id": "c_6a9240",
+      "source": "The Register",
+      "date": "2026-04-27",
+      "time": "11:19",
+      "summary": "Windows 11 permetrà als usuaris pausar les actualitzacions indefinidament, donant-los més control sobre els reinicis del sistema."
+    },
+    {
+      "title": "Musk i Altman van a judici en la disputa pel futur d'OpenAI",
+      "link_id": "c_de5f3e",
+      "source": "Bloomberg Technology",
+      "date": "2026-04-27",
+      "time": "11:01",
+      "summary": "Elon Musk i Sam Altman s'enfronten als tribunals per determinar el rumb i la missió fundacional d'OpenAI."
     }
   ]
 }
