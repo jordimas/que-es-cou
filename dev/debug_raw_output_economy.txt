@@ -1,64 +1,88 @@
 {
-  "generated_at": "2026-04-27T14:14",
+  "generated_at": "2026-04-28T14:20",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Un conseller delegat bancari deixa que el seu clon d'IA gestioni una trucada de resultats",
+      "title": "OpenAI reestructura la seva aliança amb Microsoft i limita el repartiment d'ingressos",
+      "link_id": "c_b6a51f",
+      "source": "CNBC Technology",
+      "date": "2026-04-27",
+      "time": "23:09",
+      "summary": "L'acord busca donar més independència a la creadora de ChatGPT per diversificar les seves fonts d'ingressos."
+    },
+    {
+      "title": "OpenAI i Microsoft redueixen els seus vincles en un nou acord d'IA",
+      "link_id": "c_2db8be",
+      "source": "Financial Times",
+      "date": "2026-04-27",
+      "time": "21:51",
+      "summary": "La renegociació d'aquesta aliança multimilionària marca un punt d'inflexió en l'estratègia comercial de l'empresa d'intel·ligència artificial."
+    },
+    {
+      "title": "True Anomaly capta 650 milions de dòlars per als interceptors espacials del Golden Dome de Trump",
+      "link_id": "c_33c076",
+      "source": "CNBC Technology",
+      "date": "2026-04-28",
+      "time": "09:45",
+      "summary": "La injecció de capital permetrà a l'empresa emergent duplicar la plantilla i accelerar la producció d'armament espacial."
+    },
+    {
+      "title": "Directius de Meta, Google i OpenAI abandonen les grans tecnològiques per fundar empreses d'IA",
+      "link_id": "c_155176",
+      "source": "CNBC Technology",
+      "date": "2026-04-28",
+      "time": "07:14",
+      "summary": "El talent fuig cap a nous projectes emprenedors que atreuen ràpidament inversions milionàries en el sector tecnològic."
+    },
+    {
+      "title": "Rivian porta el programari com a servei a la carretera",
+      "link_id": "c_4f5323",
+      "source": "Financial Times",
+      "date": "2026-04-28",
+      "time": "04:00",
+      "summary": "El fabricant de vehicles elèctrics obre una nova via de negoci venent la seva tecnologia a tercers."
+    },
+    {
+      "title": "Micron i Sandisk mantenen l'alça davant la previsió d'una demanda contínua de memòria",
+      "link_id": "c_8ecbf0",
+      "source": "CNBC Technology",
+      "date": "2026-04-27",
+      "time": "21:51",
+      "summary": "Els inversors premien aquests fabricants de xips impulsats per projeccions molt optimistes fins a finals d'aquesta dècada."
+    },
+    {
+      "title": "Un conseller delegat bancari utilitza el seu clon d'IA per als resultats i s'alia amb OpenAI",
       "link_id": "c_ce91f2",
       "source": "CNBC Technology",
       "date": "2026-04-27",
-      "time": "12:12",
-      "summary": "Sam Sidhu, de Customers Bank, impulsa l'ús d'agents d'intel·ligència artificial per crear una nova força laboral digital."
+      "time": "18:45",
+      "summary": "L'ús d'agents digitals marca una fita en la transformació del sector financer cap a l'automatització corporativa."
     },
     {
-      "title": "Qualcomm es dispara un 12% per l'aliança amb OpenAI per a un xip d'IA per a mòbils",
-      "link_id": "c_3b48fb",
+      "title": "Un nou informe de Wall Street avala les accions d'IA i ciberseguretat",
+      "link_id": "c_3f3bf2",
       "source": "CNBC Technology",
       "date": "2026-04-27",
-      "time": "12:09",
-      "summary": "L'empresa col·laborarà amb MediaTek i Luxshare per dissenyar aquest nou dispositiu intel·ligent, segons apunten els analistes."
+      "time": "18:11",
+      "summary": "L'augment de les amenaces cibernètiques impulsades per intel·ligència artificial dispara l'interès del mercat per plataformes com CrowdStrike."
     },
     {
-      "title": "El fabricant de xips Tokyo Electron trenca amb un executiu vinculat a rivals xinesos",
-      "link_id": "c_d583cc",
-      "source": "Financial Times",
+      "title": "L'empresa d'un exinvestigador de Google DeepMind capta 1.100 milions per buscar la superintel·ligència",
+      "link_id": "c_3f3c7f",
+      "source": "CNBC Technology",
       "date": "2026-04-27",
-      "time": "06:09",
-      "summary": "Jay Chen abandona el grup japonès després de descobrir-se les seves connexions amb empreses emergents de la competència."
+      "time": "17:33",
+      "summary": "Ineffable Intelligence assoleix una valoració rècord de 5.100 milions de dòlars en la seva primera ronda de finançament."
     },
     {
-      "title": "Les grans empreses britàniques desconeixen com la IA utilitza les seves dades a l'estranger",
-      "link_id": "c_80d169",
+      "title": "Els treballadors de Google insten el conseller delegat a bloquejar l'ús militar de la IA",
+      "link_id": "c_d92057",
       "source": "Financial Times",
       "date": "2026-04-27",
-      "time": "04:00",
-      "summary": "Una enquesta revela que els directius tecnològics no entenen com es gestiona la informació corporativa fora del país."
-    },
-    {
-      "title": "Final de trajecte per als \"Mad Men\" amb l'arribada de la IA a la publicitat",
-      "link_id": "c_b86467",
-      "source": "Financial Times",
-      "date": "2026-04-27",
-      "time": "04:00",
-      "summary": "Els grans grups de màrqueting tenen dificultats per adaptar-se ràpidament a les noves eines d'automatització del sector."
-    },
-    {
-      "title": "Els anunciants busquen capitalitzar les promeses de la intel·ligència artificial",
-      "link_id": "c_d8a6fd",
-      "source": "Financial Times",
-      "date": "2026-04-27",
-      "time": "04:00",
-      "summary": "El repte principal és trobar l'equilibri entre l'eficiència de l'automatització i l'autenticitat que exigeixen els consumidors actuals."
-    },
-    {
-      "title": "Hauria el vostre consell d'administració de nomenar un bot?",
-      "link_id": "c_5eec11",
-      "source": "Financial Times",
-      "date": "2026-04-27",
-      "time": "03:00",
-      "summary": "Les eines d'IA faciliten la recerca als directius, tot i que difícilment obtindran dret a vot aviat."
+      "time": "16:00",
+      "summary": "La pressió interna creix per evitar que la tecnologia de l'empresa s'apliqui en conflictes bèl·lics del Pentàgon."
     }
   ]
 }

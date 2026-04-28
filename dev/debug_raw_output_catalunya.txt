@@ -1,27 +1,27 @@
 {
-  "generated_at": "2024-05-20T14:30",
+  "generated_at": "2026-04-28T14:18",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
     {
       "name": "Ara.cat",
       "url": "https://www.ara.cat/rss/",
-      "articles_found": 12
+      "articles_found": 9
     },
     {
       "name": "El Periódico",
       "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
-      "articles_found": 2
+      "articles_found": 4
     },
     {
       "name": "RAC1",
       "url": "https://www.rac1.cat/rss/home.xml",
-      "articles_found": 2
+      "articles_found": 3
     },
     {
       "name": "La Vanguardia (en català)",
       "url": "https://www.lavanguardia.com/rss/encatala.xml",
-      "articles_found": 3
+      "articles_found": 4
     },
     {
       "name": "VilaWeb",
@@ -36,7 +36,7 @@
     {
       "name": "324.cat",
       "url": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0",
-      "articles_found": 3
+      "articles_found": 5
     },
     {
       "name": "Softcatalà",
@@ -61,7 +61,7 @@
     {
       "name": "El Mon.cat Societat",
       "url": "https://elmon.cat/societat/feed/",
-      "articles_found": 0
+      "articles_found": 1
     },
     {
       "name": "Betevé",
@@ -71,12 +71,12 @@
     {
       "name": "El Punt Avui",
       "url": "https://www.elpuntavui.cat/barcelona.feed?type=rss",
-      "articles_found": 0
+      "articles_found": 1
     },
     {
       "name": "Segre",
       "url": "https://www.segre.com/ca/rss/home.xml",
-      "articles_found": 2
+      "articles_found": 3
     },
     {
       "name": "Regio7",
@@ -126,7 +126,7 @@
     {
       "name": "Tot Barcelona",
       "url": "https://www.totbarcelona.cat/feed/",
-      "articles_found": 1
+      "articles_found": 2
     },
     {
       "name": "e-notícies",
@@ -166,7 +166,7 @@
     {
       "name": "Àpunt",
       "url": "https://www.apuntmedia.es/rss/",
-      "articles_found": 1
+      "articles_found": 2
     },
     {
       "name": "El Periòdic d'Ontinyent",
@@ -201,12 +201,12 @@
     {
       "name": "Via Empresa",
       "url": "https://www.viaempresa.cat/uploads/feeds/feed_via-empresa-2024_ca.xml",
-      "articles_found": 4
+      "articles_found": 5
     },
     {
       "name": "Lúdica",
       "url": "https://ludica.cat/feed/",
-      "articles_found": 1
+      "articles_found": 0
     },
     {
       "name": "Accent Obert",
@@ -216,84 +216,84 @@
   ],
   "articles": [
     {
-      "title": "El metro de Barcelona incorporarà generadors per garantir el funcionament de la xarxa en una apagada",
-      "link_id": "c_f75c19",
-      "source": "Via Empresa",
-      "date": "2026-04-27",
-      "time": "12:23",
-      "summary": "TMB instal·larà sistemes d'emergència per assegurar la megafonia i permetre que els trens arribin a l'estació més propera."
+      "title": "Nissan anuncia acomiadaments als tres centres que té a Catalunya",
+      "link_id": "c_c73640",
+      "source": "El Punt Avui",
+      "date": "2026-04-28",
+      "time": "11:37",
+      "summary": "Els treballadors del Prat aturen la vaga indefinida a l'espera de conèixer l'abast real de l'expedient de regulació."
     },
     {
-      "title": "La ciberseguretat a Catalunya es tensiona: els incidents gairebé es dupliquen el 2025",
-      "link_id": "c_6047c9",
+      "title": "Podràs veure l'eclipsi solar del 12 d'agost? Comprova demà o demà passat si has triat un lloc adequat",
+      "link_id": "c_789e93",
+      "source": "324.cat",
+      "date": "2026-04-28",
+      "time": "13:41",
+      "summary": "Aquest dimecres i dijous el Sol se situarà al mateix punt exacte que durant l'esperat fenomen astronòmic estival."
+    },
+    {
+      "title": "Catalunya capta un 54% dels fons del PERTE per a la descarbonització industrial",
+      "link_id": "c_a03c08",
+      "source": "Ara.cat",
+      "date": "2026-04-28",
+      "time": "10:29",
+      "summary": "Més de 277 milions d'euros d'aquesta convocatòria estatal es destinaran a impulsar la sostenibilitat d'empreses i entitats catalanes."
+    },
+    {
+      "title": "Ebro EV Motors redueix les pèrdues i dispara els ingressos el 2025",
+      "link_id": "c_cab187",
+      "source": "Ara.cat",
+      "date": "2026-04-28",
+      "time": "09:51",
+      "summary": "La companyia multiplica per deu la facturació gràcies a les vendes del seu primer any fabricant a la Zona Franca."
+    },
+    {
+      "title": "OpenAI sacseja el mercat i es deslliga de Microsoft per créixer amb nous aliats",
+      "link_id": "c_27ee25",
       "source": "MetaData",
+      "date": "2026-04-28",
+      "time": "11:40",
+      "summary": "L'empresa creadora de ChatGPT obre la porta a col·laborar amb Google i Amazon mentre prepara nous productes físics."
+    },
+    {
+      "title": "Una banca online escull Barcelona per obrir el seu primer espai físic",
+      "link_id": "c_1be767",
+      "source": "Tot Barcelona",
+      "date": "2026-04-28",
+      "time": "10:48",
+      "summary": "La financera britànica Revolut farà una prova pilot a la capital catalana amb el seu primer local permanent al món."
+    },
+    {
+      "title": "Un any de la gran apagada elèctrica: poques respostes, factures més cares i mesures per evitar un nou zero energètic",
+      "link_id": "c_fd6004",
+      "source": "RAC1",
+      "date": "2026-04-28",
+      "time": "08:33",
+      "summary": "Dotze mesos després del col·lapse que va deixar la península a les fosques, s'implementen noves mesures de prevenció."
+    },
+    {
+      "title": "La intel·ligència artificial impulsa les ciberestafes amb suplantacions de veu i imatge",
+      "link_id": "c_eadda6",
+      "source": "Àpunt",
+      "date": "2026-04-28",
+      "time": "11:37",
+      "summary": "La Guàrdia Civil adverteix d'un creixement exponencial de fraus i falses inversions a les xarxes socials generades amb IA."
+    },
+    {
+      "title": "De recomanació a prescripció mèdica: una cinquantena de CAP podran receptar exercici físic",
+      "link_id": "c_9f0d3c",
+      "source": "324.cat",
       "date": "2026-04-27",
-      "time": "09:19",
-      "summary": "L'Agència de Ciberseguretat alerta d'un augment sostingut d'amenaces digitals, sent el sector universitari un dels principals focus d'atac."
+      "time": "23:16",
+      "summary": "Els metges derivaran pacients a programes esportius supervisats per professionals per millorar la salut comunitària des de l'atenció primària."
     },
     {
-      "title": "Neix el CaixaResearch Institute, nou centre d’immunologia a Barcelona",
-      "link_id": "c_0e104d",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-04-25",
-      "time": "07:54",
-      "summary": "Aquestes instal·lacions pioneres a Europa buscaran transformar els avenços científics en teràpies innovadores per a malalties com el càncer."
-    },
-    {
-      "title": "Apple canvia el seu primer executiu",
-      "link_id": "c_fb1299",
-      "source": "Ara.cat",
-      "date": "2026-04-27",
-      "time": "05:01",
-      "summary": "El relleu a la cúpula directiva de la companyia tecnològica marca l'inici d'una nova era estratègica i corporativa."
-    },
-    {
-      "title": "Benvinguts a la República de Palantir",
-      "link_id": "c_53a62f",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-04-26",
-      "time": "06:00",
-      "summary": "El gegant del programari de dades obre el debat sobre la influència tecnològica en les decisions governamentals i democràtiques."
-    },
-    {
-      "title": "Ebro fabricarà a la Zona Franca un utilitari 100% elèctric",
-      "link_id": "c_7c8f98",
-      "source": "Ara.cat",
-      "date": "2026-04-27",
-      "time": "09:23",
-      "summary": "L'antiga planta de Nissan acollirà la producció d'aquest vehicle urbà amb 400 quilòmetres d'autonomia a partir d'aquest hivern."
-    },
-    {
-      "title": "Europa s’acosta a llançar el seu propi Bizum públic’ per competir amb Visa, Apple Pay i les criptomonedes",
-      "link_id": "c_b1b2ce",
+      "title": "Google tanca un acord confidencial per cedir la seva IA al Pentàgon malgrat l’oposició de centenars d’empleats",
+      "link_id": "c_995cad",
       "source": "El Periódico",
-      "date": "2026-04-24",
-      "time": "12:19",
-      "summary": "El Banc Central Europeu prepara l'estàndard tècnic per implementar un euro digital que unifiqui els pagaments a tota l'eurozona."
-    },
-    {
-      "title": "Leitat impulsa a Terrassa un laboratori pioner per reciclar bateries i recuperar materials crítics",
-      "link_id": "c_0ee3cc",
-      "source": "MetaData",
-      "date": "2026-04-23",
-      "time": "11:50",
-      "summary": "El nou centre permetrà desmuntar i classificar components de forma automatitzada, apostant per una tecnologia més eficient i sostenible."
-    },
-    {
-      "title": "Capgemini planteja que l'ERO afecti uns 130 empleats a Barcelona",
-      "link_id": "c_81e38b",
-      "source": "Ara.cat",
-      "date": "2026-04-24",
-      "time": "14:19",
-      "summary": "La consultora tecnològica preveu retallar un 8% de la seva plantilla a la capital catalana, segons fonts sindicals."
-    },
-    {
-      "title": "Sequeres extremes cinc vegades més freqüents: el futur que ve posa en perill milions de persones",
-      "link_id": "c_0925e9",
-      "source": "El Nacional.cat",
-      "date": "2026-04-27",
-      "time": "12:27",
-      "summary": "L'escalfament global accelera els fenòmens meteorològics extrems, amenaçant la disponibilitat d'aigua i la seguretat de gran part de la població."
+      "date": "2026-04-28",
+      "time": "11:19",
+      "summary": "El gegant tecnològic gestionarà xarxes classificades de l'exèrcit nord-americà, ignorant les protestes internes contra l'ús militar de la tecnologia."
     }
   ]
 }

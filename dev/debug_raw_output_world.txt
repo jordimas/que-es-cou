@@ -1,124 +1,88 @@
 {
-  "generated_at": "2024-05-24T18:30",
+  "generated_at": "2026-04-28T14:18",
   "id": "world",
   "title": "Notícies tecnològiques del món",
-  "sources_checked": [
-    {
-      "name": "Ars Technica",
-      "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
-      "articles_found": 0
-    },
-    {
-      "name": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "AnandTech",
-      "url": "https://www.anandtech.com/rss/",
-      "articles_found": 0
-    },
-    {
-      "name": "Wall Street Journal Tech",
-      "url": "https://feeds.a.dj.com/rss/RSSWSJD.xml",
-      "articles_found": 0
-    },
-    {
-      "name": "Gizmodo",
-      "url": "https://www.gizmodo.com/feed/rss",
-      "articles_found": 0
-    },
-    {
-      "name": "Slashdot",
-      "url": "https://slashdot.org/rss/slashdot.rss",
-      "articles_found": 0
-    },
-    {
-      "name": "NetworkWorld",
-      "url": "https://www.networkworld.com/feed/",
-      "articles_found": 0
-    }
-  ],
+  "sources_checked": [],
   "articles": [
     {
-      "title": "Spotify planta cara a Apple Fitness Plus i Fitbit Premium amb entrenaments guiats",
-      "link_id": "c_2fb6af",
-      "source": "Android Authority",
-      "date": "2026-04-27",
-      "time": "12:00",
-      "summary": "Spotify llança un nou centre de fitnes amb entrenaments guiats en vídeo i àudio, competint amb Apple i Fitbit."
-    },
-    {
-      "title": "És aquest el proper telèfon plegable ample de Samsung?",
-      "link_id": "c_d3dddc",
-      "source": "The Verge",
-      "date": "2026-04-27",
-      "time": "07:52",
-      "summary": "Unes imatges filtrades mostren el possible disseny del nou telèfon plegable més ample de Samsung, previst per a enguany."
-    },
-    {
-      "title": "Qualcomm es dispara per l'informe que treballa amb OpenAI en un telèfon intel·ligent",
-      "link_id": "c_27f071",
-      "source": "Bloomberg Technology",
-      "date": "2026-04-27",
-      "time": "11:52",
-      "summary": "Les accions de Qualcomm es disparen després de rumors sobre una col·laboració amb OpenAI per crear un telèfon intel·ligent."
-    },
-    {
-      "title": "Moltes aplicacions de Google podrien rebre un nou redisseny d'icones amb degradat",
-      "link_id": "c_05123e",
-      "source": "Android Authority",
-      "date": "2026-04-27",
-      "time": "09:29",
-      "summary": "Google abandona el disseny minimalista i aposta per noves icones amb degradats vibrants per a les seves aplicacions."
-    },
-    {
-      "title": "Els preus dels telèfons intel·ligents i PC tenen un altre motiu per pujar",
-      "link_id": "c_5ce2e4",
-      "source": "Digital Trends",
-      "date": "2026-04-27",
-      "time": "09:09",
-      "summary": "La guerra a l'Iran ha encarit els materials clau per a plaques de circuit, pressionant els fabricants."
-    },
-    {
-      "title": "DeepSeek rebaixa els preus del V4-Pro un 75% i redueix els costos de memòria cau de la seva API",
-      "link_id": "c_02a537",
-      "source": "The Next Web",
-      "date": "2026-04-27",
-      "time": "07:25",
-      "summary": "L'empresa xinesa redueix dràsticament les tarifes del seu model d'IA, intensificant la guerra de preus contra rivals nord-americans."
-    },
-    {
-      "title": "Després del tiroteig al sopar de corresponsals, els rumors i les teories de la conspiració inunden la xarxa",
-      "link_id": "c_4b92e5",
-      "source": "NYT Technology",
-      "date": "2026-04-26",
-      "time": "20:54",
-      "summary": "Les xarxes socials s'omplen de teories de la conspiració infundades després de l'atac armat al sopar de corresponsals."
-    },
-    {
-      "title": "\"No els importa\": ShinyHunters ataca de nou i afirma haver robat 7,5 milions de correus de creuers Carnival",
-      "link_id": "c_20ce37",
+      "title": "OpenAI i Microsoft fan un gran canvi en la seva associació exclusiva: obre la porta a AWS?",
+      "link_id": "c_d7d6ff",
       "source": "TechRadar",
-      "date": "2026-04-27",
-      "time": "12:10",
-      "summary": "El grup de furoners ShinyHunters afirma haver robat milions de correus electrònics d'una filial de la companyia de creuers."
+      "date": "2026-04-28",
+      "time": "11:15",
+      "summary": "L'acord revisat permet a OpenAI vendre els seus models d'IA a través de múltiples proveïdors de núvol, eliminant l'exclusivitat."
     },
     {
-      "title": "Microsoft actualitza l'experiència de Windows Update: ara pots fer una pausa",
-      "link_id": "c_6a9240",
-      "source": "The Register",
-      "date": "2026-04-27",
-      "time": "11:19",
-      "summary": "Windows 11 permetrà als usuaris pausar les actualitzacions indefinidament, donant-los més control sobre els reinicis del sistema."
+      "title": "Compraries un rival de l'iPhone amb ChatGPT? OpenAI estaria desenvolupant un xip per a telèfons intel·ligents",
+      "link_id": "c_1a1fca",
+      "source": "TechRadar",
+      "date": "2026-04-28",
+      "time": "12:03",
+      "summary": "L'empresa d'IA treballa amb Qualcomm i MediaTek per crear un dispositiu mòbil centrat en agents d'intel·ligència artificial."
     },
     {
-      "title": "Musk i Altman van a judici en la disputa pel futur d'OpenAI",
-      "link_id": "c_de5f3e",
+      "title": "El nou Steam Controller de Valve divideix els jugadors abans del seu llançament al maig",
+      "link_id": "c_887123",
+      "source": "BBC Technology",
+      "date": "2026-04-28",
+      "time": "09:16",
+      "summary": "El comandament, que costarà 99 dòlars, serà compatible amb PC i Steam Deck, però no amb altres consoles."
+    },
+    {
+      "title": "Musk contra Altman: Per què els multimilionaris tecnològics i antics amics s'enfronten ara als tribunals",
+      "link_id": "c_d11ecf",
+      "source": "BBC Technology",
+      "date": "2026-04-28",
+      "time": "10:10",
+      "summary": "El judici comença a Califòrnia amb la selecció del jurat per la demanda sobre la missió fundacional d'OpenAI."
+    },
+    {
+      "title": "Què és Manus i per què la Xina vol bloquejar la seva compra per part de Meta?",
+      "link_id": "c_98218c",
       "source": "Bloomberg Technology",
+      "date": "2026-04-28",
+      "time": "12:13",
+      "summary": "Pequín ha ordenat a Meta desfer l'adquisició de la startup d'IA, suposant un revés per a Mark Zuckerberg."
+    },
+    {
+      "title": "Es filtren imatges de les rumorejades ulleres intel·ligents de Samsung",
+      "link_id": "c_93026d",
+      "source": "Engadget",
       "date": "2026-04-27",
-      "time": "11:01",
-      "summary": "Elon Musk i Sam Altman s'enfronten als tribunals per determinar el rumb i la missió fundacional d'OpenAI."
+      "time": "18:41",
+      "summary": "Les noves ulleres, conegudes com a Jinju, no tindrien pantalla i competirien directament amb les Ray-Ban de Meta."
+    },
+    {
+      "title": "GitHub canvia Copilot a una facturació per ús, assenyalant un nou model de costos per a la IA",
+      "link_id": "c_559531",
+      "source": "InfoWorld",
+      "date": "2026-04-28",
+      "time": "11:53",
+      "summary": "A partir de juny, la plataforma substituirà les subscripcions fixes per càrrecs basats en el consum de recursos."
+    },
+    {
+      "title": "L'App Store d'Apple rep noves subscripcions mensuals més assequibles, però no tots els usuaris n'estan convençuts",
+      "link_id": "c_19ba4e",
+      "source": "TechRadar",
+      "date": "2026-04-28",
+      "time": "11:26",
+      "summary": "Els desenvolupadors podran oferir pagaments mensuals per a plans anuals, però exigint un compromís de dotze mesos."
+    },
+    {
+      "title": "YouTube prova una cerca d'estil xat que redueix el desplaçament per la pantalla",
+      "link_id": "c_a185eb",
+      "source": "Android Authority",
+      "date": "2026-04-28",
+      "time": "11:22",
+      "summary": "La nova funció experimental permet als usuaris fer preguntes complexes i rebre respostes amb vídeos i resums de text."
+    },
+    {
+      "title": "Microsoft Outlook per a iOS continua caigut per a molts usuaris després d'un canvi de servei",
+      "link_id": "c_777d14",
+      "source": "The Register",
+      "date": "2026-04-28",
+      "time": "10:32",
+      "summary": "Una interrupció important del correu electrònic persisteix tot i les afirmacions de la companyia d'haver restaurat el sistema."
     }
   ]
 }
