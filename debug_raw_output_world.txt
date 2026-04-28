@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-04-27T20:03",
+  "generated_at": "2026-04-28T11:13",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "OpenAI podria estar creant un telèfon amb agents d'IA que substituirien les aplicacions",
-      "link_id": "c_7f1c16",
-      "source": "TechCrunch",
-      "date": "2026-04-27",
-      "time": "13:08",
-      "summary": "S'espera que el dispositiu entri en producció el 2028, marcant un canvi radical en l'ús dels telèfons intel·ligents."
+      "title": "OpenAI s'allibera del núvol de Microsoft",
+      "link_id": "c_c966a1",
+      "source": "Axios",
+      "date": "2026-04-28",
+      "time": "09:00",
+      "summary": "El nou acord permet a OpenAI vendre models d'IA en múltiples núvols, ampliant la seva distribució empresarial."
     },
     {
-      "title": "OpenAI posa fi a l'exclusivitat amb Microsoft i s'obre a nous proveïdors",
-      "link_id": "c_90d765",
-      "source": "TechCrunch",
+      "title": "Valve revela oficialment l'Steam Controller, juntament amb el seu preu i data de llançament",
+      "link_id": "c_e87af6",
+      "source": "Digital Trends",
       "date": "2026-04-27",
-      "time": "17:40",
-      "summary": "Aquest acord permetrà a OpenAI vendre productes a AWS, mentre Microsoft obté més efectiu en el repartiment d'ingressos."
+      "time": "21:04",
+      "summary": "Després de diverses filtracions, el nou maquinari arribarà al mercat el 4 de maig per 99 dòlars."
     },
     {
-      "title": "Valve llança el nou Steam Controller sense la consola Steam Machine",
-      "link_id": "c_d74c19",
-      "source": "The Verge",
-      "date": "2026-04-27",
-      "time": "13:00",
-      "summary": "El comandament arribarà al mercat el 4 de maig per 99 dòlars, oferint una gran personalització per a PC."
+      "title": "El jurat del cas Musk contra Altman ja té nou membres",
+      "link_id": "c_74615d",
+      "source": "Bloomberg Technology",
+      "date": "2026-04-28",
+      "time": "00:17",
+      "summary": "El judici entre Elon Musk i el líder d'OpenAI, Sam Altman, arrenca amb l'elecció del jurat a Califòrnia."
     },
     {
-      "title": "La nova frontera de Spotify: contingut de fitness i entrenaments",
-      "link_id": "c_7c82bd",
-      "source": "TechCrunch",
+      "title": "Spotify entra en l'era del fitness amb una nova associació amb Peloton",
+      "link_id": "c_794d54",
+      "source": "CNET",
       "date": "2026-04-27",
-      "time": "12:00",
-      "summary": "La plataforma integra vídeos d'exercicis i classes de Peloton gratuïtes per competir directament amb aplicacions de salut i esport."
+      "time": "21:05",
+      "summary": "La plataforma permetrà als usuaris accedir a rutines d'entrenament i vídeos d'exercicis directament des de la mateixa aplicació."
     },
     {
-      "title": "Apple llança la quarta beta de macOS Tahoe 26.5 per a desenvolupadors",
-      "link_id": "c_2ca55f",
-      "source": "MacRumors",
+      "title": "OpenAI estaria treballant en el seu propi telèfon intel·ligent basat en agents d'IA",
+      "link_id": "c_39f649",
+      "source": "9to5Google",
       "date": "2026-04-27",
-      "time": "10:07",
-      "summary": "Aquesta actualització arriba juntament amb les noves versions de prova d'iOS, iPadOS, watchOS i visionOS per polir el sistema."
+      "time": "18:20",
+      "summary": "La companyia desenvolupa un dispositiu mòbil centrat en la intel·ligència artificial que podria substituir les aplicacions tradicionals."
     },
     {
-      "title": "Es filtren les primeres ulleres intel·ligents de Samsung",
-      "link_id": "c_b919c5",
-      "source": "The Verge",
-      "date": "2026-04-27",
-      "time": "12:25",
-      "summary": "El dispositiu, sense pantalla i similar a les Ray-Ban de Meta, podria presentar-se aviat amb un preu molt competitiu."
+      "title": "Meta es prepara per desfer l'adquisició de Manus per 2.000 milions de dòlars pel bloqueig xinès",
+      "link_id": "c_e9dbf8",
+      "source": "The Next Web",
+      "date": "2026-04-28",
+      "time": "06:57",
+      "summary": "Pequín ha ordenat la cancel·lació de la compra de la startup d'IA, suposant un revés per a Zuckerberg."
     },
     {
-      "title": "La Xina bloqueja la compra de Manus per part de Meta",
-      "link_id": "c_046651",
-      "source": "TechCrunch",
+      "title": "Es filtren imatges de les rumorejades ulleres intel·ligents de Samsung",
+      "link_id": "c_93026d",
+      "source": "Engadget",
       "date": "2026-04-27",
-      "time": "13:16",
-      "summary": "Aquesta decisió frena l'expansió de Zuckerberg en el sector dels agents d'IA i suposa un revés estratègic important."
+      "time": "18:41",
+      "summary": "Les primeres fotografies mostren un disseny elegant sense pantalla, similar a les ulleres de Meta i Ray-Ban."
     },
     {
-      "title": "David Silver recapta 1.100 milions per crear una IA que aprèn sense dades humanes",
-      "link_id": "c_297f80",
-      "source": "TechCrunch",
-      "date": "2026-04-27",
-      "time": "17:24",
-      "summary": "La nova empresa de l'exinvestigador de DeepMind, Ineffable Intelligence, assoleix una valoració de 5.100 milions en pocs mesos."
+      "title": "Google signa un acord d'IA classificada amb el Pentàgon per a \"qualsevol propòsit governamental legal\"",
+      "link_id": "c_1784c4",
+      "source": "The Next Web",
+      "date": "2026-04-28",
+      "time": "07:14",
+      "summary": "El pacte permetrà al Departament de Defensa dels EUA utilitzar els models d'IA de Google sense restriccions."
     },
     {
-      "title": "La batalla judicial entre Elon Musk i Sam Altman pel futur d'OpenAI",
-      "link_id": "c_281c90",
-      "source": "The Verge",
-      "date": "2026-04-27",
-      "time": "11:50",
-      "summary": "El judici determinarà si l'empresa va trair la seva missió fundacional sense ànim de lucre per afavorir interessos comercials."
+      "title": "GitHub de Microsoft passa a la facturació d'IA per ús enmig d'una crisi de costos",
+      "link_id": "c_509106",
+      "source": "The Register",
+      "date": "2026-04-28",
+      "time": "00:31",
+      "summary": "La plataforma posa fi a la tarifa plana de Copilot i cobrarà als usuaris segons el seu consum."
     },
     {
-      "title": "Meta firma un acord per rebre energia solar des de l'espai durant la nit",
-      "link_id": "c_77824b",
-      "source": "TechCrunch",
-      "date": "2026-04-27",
-      "time": "10:00",
-      "summary": "Aquest projecte pioner utilitzarà satèl·lits per captar llum solar i enviar-la a la Terra, alimentant els seus centres de dades."
+      "title": "Les estafes a les xarxes socials van costar 2.100 milions de dòlars als nord-americans el 2025",
+      "link_id": "c_d6327c",
+      "source": "The Next Web",
+      "date": "2026-04-28",
+      "time": "07:46",
+      "summary": "Gairebé el 30% de les pèrdues per frau reportades l'any passat van començar en plataformes socials, segons l'FTC."
     }
   ]
 }
