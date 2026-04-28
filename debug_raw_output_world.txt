@@ -1,88 +1,109 @@
 {
-  "generated_at": "2026-04-28T11:13",
+  "generated_at": "2026-04-28T20:14",
   "id": "world",
   "title": "Notícies tecnològiques del món",
-  "sources_checked": [],
+  "sources_checked": [
+    {
+      "name": "AnandTech",
+      "url": "https://www.anandtech.com/rss/",
+      "articles_found": 0
+    },
+    {
+      "name": "Wall Street Journal Tech",
+      "url": "https://feeds.a.dj.com/rss/RSSWSJD.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "Gizmodo",
+      "url": "https://www.gizmodo.com/feed/rss",
+      "articles_found": 0
+    },
+    {
+      "name": "Slashdot",
+      "url": "https://slashdot.org/rss/slashdot.rss",
+      "articles_found": 0
+    }
+  ],
   "articles": [
     {
-      "title": "OpenAI s'allibera del núvol de Microsoft",
-      "link_id": "c_c966a1",
-      "source": "Axios",
+      "title": "Actualitzacions en directe de la batalla judicial entre Elon Musk i Sam Altman pel futur d'OpenAI",
+      "link_id": "c_281c90",
+      "source": "The Verge",
       "date": "2026-04-28",
-      "time": "09:00",
-      "summary": "El nou acord permet a OpenAI vendre models d'IA en múltiples núvols, ampliant la seva distribució empresarial."
+      "time": "13:45",
+      "summary": "El judici determinarà si l'empresa pot mantenir el seu model lucratiu abans de la seva esperada sortida a borsa."
     },
     {
-      "title": "Valve revela oficialment l'Steam Controller, juntament amb el seu preu i data de llançament",
-      "link_id": "c_e87af6",
-      "source": "Digital Trends",
-      "date": "2026-04-27",
-      "time": "21:04",
-      "summary": "Després de diverses filtracions, el nou maquinari arribarà al mercat el 4 de maig per 99 dòlars."
-    },
-    {
-      "title": "El jurat del cas Musk contra Altman ja té nou membres",
-      "link_id": "c_74615d",
+      "title": "Amazon vendrà tecnologia d'OpenAI després que Microsoft cedeixi l'exclusivitat",
+      "link_id": "c_efb254",
       "source": "Bloomberg Technology",
       "date": "2026-04-28",
-      "time": "00:17",
-      "summary": "El judici entre Elon Musk i el líder d'OpenAI, Sam Altman, arrenca amb l'elecció del jurat a Califòrnia."
+      "time": "17:00",
+      "summary": "El nou acord permet a la creadora de ChatGPT oferir els seus models a través d'altres proveïdors al núvol."
     },
     {
-      "title": "Spotify entra en l'era del fitness amb una nova associació amb Peloton",
-      "link_id": "c_794d54",
-      "source": "CNET",
-      "date": "2026-04-27",
-      "time": "21:05",
-      "summary": "La plataforma permetrà als usuaris accedir a rutines d'entrenament i vídeos d'exercicis directament des de la mateixa aplicació."
-    },
-    {
-      "title": "OpenAI estaria treballant en el seu propi telèfon intel·ligent basat en agents d'IA",
-      "link_id": "c_39f649",
-      "source": "9to5Google",
-      "date": "2026-04-27",
-      "time": "18:20",
-      "summary": "La companyia desenvolupa un dispositiu mòbil centrat en la intel·ligència artificial que podria substituir les aplicacions tradicionals."
-    },
-    {
-      "title": "Meta es prepara per desfer l'adquisició de Manus per 2.000 milions de dòlars pel bloqueig xinès",
-      "link_id": "c_e9dbf8",
-      "source": "The Next Web",
+      "title": "La data d'estrena de la quarta temporada de Ted Lasso es fixa per a aquest estiu",
+      "link_id": "c_626f45",
+      "source": "Digital Trends",
       "date": "2026-04-28",
-      "time": "06:57",
-      "summary": "Pequín ha ordenat la cancel·lació de la compra de la startup d'IA, suposant un revés per a Zuckerberg."
+      "time": "17:33",
+      "summary": "Els nous episodis arribaran a Apple TV+ a l'agost, amb l'entrenador dirigint ara un equip femení de segona divisió."
     },
     {
-      "title": "Es filtren imatges de les rumorejades ulleres intel·ligents de Samsung",
-      "link_id": "c_93026d",
+      "title": "La FTC afirma que els nord-americans van perdre almenys 2.100 milions de dòlars en estafes a xarxes socials el 2025",
+      "link_id": "c_8787dd",
       "source": "Engadget",
-      "date": "2026-04-27",
-      "time": "18:41",
-      "summary": "Les primeres fotografies mostren un disseny elegant sense pantalla, similar a les ulleres de Meta i Ray-Ban."
+      "date": "2026-04-28",
+      "time": "15:28",
+      "summary": "Les pèrdues s'han multiplicat per vuit des del 2020, sent les falses inversions i compres els fraus més habituals."
     },
     {
-      "title": "Google signa un acord d'IA classificada amb el Pentàgon per a \"qualsevol propòsit governamental legal\"",
-      "link_id": "c_1784c4",
-      "source": "The Next Web",
+      "title": "Google firma un acord d'intel·ligència artificial amb el Pentàgon",
+      "link_id": "c_450c3b",
+      "source": "NYT Technology",
       "date": "2026-04-28",
-      "time": "07:14",
-      "summary": "El pacte permetrà al Departament de Defensa dels EUA utilitzar els models d'IA de Google sense restriccions."
+      "time": "17:21",
+      "summary": "El contracte classificat permetrà al Departament de Defensa dels Estats Units utilitzar els models de Google per a finalitats legals."
     },
     {
-      "title": "GitHub de Microsoft passa a la facturació d'IA per ús enmig d'una crisi de costos",
-      "link_id": "c_509106",
-      "source": "The Register",
+      "title": "Apple introdueix una opció més barata per a les subscripcions de l'App Store",
+      "link_id": "c_5b8439",
+      "source": "TechCrunch",
       "date": "2026-04-28",
-      "time": "00:31",
-      "summary": "La plataforma posa fi a la tarifa plana de Copilot i cobrarà als usuaris segons el seu consum."
+      "time": "14:46",
+      "summary": "Els desenvolupadors podran oferir tarifes mensuals reduïdes a canvi d'un compromís de permanència d'un any per part dels usuaris."
     },
     {
-      "title": "Les estafes a les xarxes socials van costar 2.100 milions de dòlars als nord-americans el 2025",
-      "link_id": "c_d6327c",
-      "source": "The Next Web",
+      "title": "Logitech crea un teclat analògic i mecànic alhora",
+      "link_id": "c_9f5cc6",
+      "source": "The Verge",
       "date": "2026-04-28",
-      "time": "07:46",
-      "summary": "Gairebé el 30% de les pèrdues per frau reportades l'any passat van començar en plataformes socials, segons l'FTC."
+      "time": "13:50",
+      "summary": "El nou model G512 X permet als jugadors personalitzar l'actuació de les tecles combinant interruptors intercanviables de diferents tipus."
+    },
+    {
+      "title": "GitHub canvia Copilot a una facturació per ús, marcant un nou model de costos per a eines d'IA",
+      "link_id": "c_559531",
+      "source": "InfoWorld",
+      "date": "2026-04-28",
+      "time": "11:53",
+      "summary": "A partir de juny, la plataforma eliminarà la tarifa plana i cobrarà mitjançant crèdits segons els recursos informàtics consumits."
+    },
+    {
+      "title": "El Steam Controller de Valve divideix els jugadors abans del seu llançament al maig",
+      "link_id": "c_887123",
+      "source": "BBC Technology",
+      "date": "2026-04-28",
+      "time": "09:16",
+      "summary": "El nou comandament costarà 99 dòlars i serà compatible amb PC i Steam Deck, però no amb dispositius mòbils."
+    },
+    {
+      "title": "El nou entrenador de pronunciació de Google Translate no et dóna excusa per semblar un turista",
+      "link_id": "c_93ee59",
+      "source": "Android Authority",
+      "date": "2026-04-28",
+      "time": "16:00",
+      "summary": "L'eina impulsada per IA analitza la teva veu i ofereix comentaris instantanis per millorar la dicció en nous idiomes."
     }
   ]
 }

@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-04-28T11:13",
+  "generated_at": "2024-05-24T18:30",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "OpenAI reestructura la seva aliança amb Microsoft i limita el repartiment d'ingressos",
-      "link_id": "c_b6a51f",
+      "title": "OpenAI porta els seus models al núvol d'Amazon després de posar fi a l'exclusivitat amb Microsoft",
+      "link_id": "c_54831d",
       "source": "CNBC Technology",
-      "date": "2026-04-27",
-      "time": "23:09",
-      "summary": "L'acord busca donar més independència a l'empresa d'IA per augmentar els seus propis beneficis a llarg termini."
+      "date": "2026-04-28",
+      "time": "17:47",
+      "summary": "Aquest moviment estratègic busca diversificar la infraestructura tecnològica i reduir la dependència d'un únic proveïdor."
     },
     {
-      "title": "OpenAI i Microsoft redueixen els seus vincles en un nou acord d'IA",
-      "link_id": "c_2db8be",
+      "title": "El missatge contundent de Pequín al seu sector tecnològic",
+      "link_id": "c_62a238",
       "source": "Financial Times",
-      "date": "2026-04-27",
-      "time": "21:51",
-      "summary": "La renegociació d'aquesta aliança de 135.000 milions de dòlars permetrà al creador de ChatGPT diversificar les seves fonts d'ingressos."
+      "date": "2026-04-28",
+      "time": "17:21",
+      "summary": "El bloqueig de l'acord Meta-Manus evidencia la voluntat xinesa de retenir el talent i la propietat intel·lectual."
     },
     {
-      "title": "El bloqueig de l'acord Meta-Manus marca un punt d'inflexió en la cursa de la IA entre la Xina i els EUA",
+      "title": "El \"desenvolupament draconià\" de l'acord Meta-Manus marca el límit en la cursa de la IA xinesa",
       "link_id": "c_dbab68",
       "source": "CNBC Technology",
       "date": "2026-04-28",
       "time": "08:31",
-      "summary": "Pequín adverteix les empreses emergents sobre els riscos de traslladar dades, talent i propietat intel·lectual a l'estranger."
+      "summary": "Les empreses emergents s'enfronten a noves barreres governamentals si intenten traslladar els seus actius fora del país."
     },
     {
-      "title": "Directius de Meta, Google i OpenAI abandonen les grans tecnològiques per fundar empreses d'IA",
-      "link_id": "c_155176",
-      "source": "CNBC Technology",
-      "date": "2026-04-28",
-      "time": "07:14",
-      "summary": "Aquests ex-treballadors aconsegueixen captar centenars de milions de dòlars d'inversors poc després d'iniciar els seus nous projectes."
-    },
-    {
-      "title": "La Xina bloqueja la compra de la startup d'IA Manus per part de Meta per 2.000 milions",
+      "title": "La Xina bloqueja la compra de la startup d'IA Manus per part de Meta",
       "link_id": "c_544510",
       "source": "CNBC Technology",
       "date": "2026-04-28",
       "time": "05:06",
-      "summary": "Aquesta decisió frena l'expansió de la companyia nord-americana i protegeix la tecnologia d'arrel xinesa davant d'interessos estrangers."
+      "summary": "L'operació de dos mil milions de dòlars s'ha aturat per protegir els interessos nacionals en intel·ligència artificial."
     },
     {
-      "title": "La guerra al Pròxim Orient impulsa una aplicació de seguiment de vaixells amb milions d'usuaris",
-      "link_id": "c_6f9746",
-      "source": "Financial Times",
-      "date": "2026-04-28",
-      "time": "04:00",
-      "summary": "L'interès per controlar els fluxos d'energia i les rutes comercials dispara la demanda de dades marítimes en temps real."
-    },
-    {
-      "title": "Rivian porta el programari com a servei a la carretera",
-      "link_id": "c_4f5323",
-      "source": "Financial Times",
-      "date": "2026-04-28",
-      "time": "04:00",
-      "summary": "El fabricant de vehicles elèctrics busca llicenciar la seva tecnologia a altres marques per obrir noves vies de negoci."
-    },
-    {
-      "title": "La gran fractura dels centres de dades als Estats Units",
-      "link_id": "c_5cdb80",
-      "source": "Financial Times",
-      "date": "2026-04-28",
-      "time": "04:00",
-      "summary": "L'oposició de les comunitats rurals a les infraestructures d'intel·ligència artificial genera tensions directes amb les polítiques de Washington."
-    },
-    {
-      "title": "Cramer qualifica de \"preocupant\" la forta pujada de les accions de xips",
-      "link_id": "c_5ae1c9",
+      "title": "OpenAI reestructura l'aliança amb Microsoft i limita els pagaments d'ingressos compartits",
+      "link_id": "c_b6a51f",
       "source": "CNBC Technology",
       "date": "2026-04-27",
-      "time": "22:45",
-      "summary": "L'expert adverteix que l'eufòria per la intel·ligència artificial podria ser un senyal d'alerta per a l'estabilitat del mercat general."
+      "time": "23:09",
+      "summary": "La decisió marca un punt d'inflexió en la col·laboració, atorgant més llibertat financera a l'empresa d'intel·ligència artificial."
     },
     {
-      "title": "Micron i Sandisk mantenen l'alça davant la previsió d'una demanda constant de memòria",
-      "link_id": "c_8ecbf0",
-      "source": "CNBC Technology",
+      "title": "OpenAI i Microsoft distancien els seus vincles en un nou acord d'IA",
+      "link_id": "c_2db8be",
+      "source": "Financial Times",
       "date": "2026-04-27",
       "time": "21:51",
-      "summary": "Els analistes preveuen que la necessitat d'emmagatzematge tecnològic continuarà sent molt forta fins a finals d'aquesta dècada."
+      "summary": "El creador de ChatGPT busca maximitzar els seus beneficis operant amb més autonomia respecte al seu soci."
+    },
+    {
+      "title": "Altman \"va robar una organització benèfica\", afirma Musk a l'inici del judici contra OpenAI",
+      "link_id": "c_edf0d2",
+      "source": "Financial Times",
+      "date": "2026-04-28",
+      "time": "17:31",
+      "summary": "La disputa legal qüestiona si la valorada empresa va trair els seus principis fundacionals sense ànim de lucre."
+    },
+    {
+      "title": "Les estimacions d'ingressos i creixement d'OpenAI es queden curtes abans de sortir a borsa",
+      "link_id": "c_d984e3",
+      "source": "CNBC Technology",
+      "date": "2026-04-28",
+      "time": "14:02",
+      "summary": "Els inversors mostren preocupació per la rendibilitat real malgrat els grans contractes de centres de dades associats."
+    },
+    {
+      "title": "El nou model d'IA de Meta promet, però els inversors exigeixen conèixer l'estratègia de Zuckerberg",
+      "link_id": "c_298a94",
+      "source": "CNBC Technology",
+      "date": "2026-04-28",
+      "time": "12:30",
+      "summary": "Els mercats esperen que els propers resultats financers aclareixin com es monetitzarà aquesta nova tecnologia."
+    },
+    {
+      "title": "Els gegants tecnològics s'enfronten a Wall Street després de l'augment del petroli per la guerra",
+      "link_id": "c_1f7091",
+      "source": "CNBC Technology",
+      "date": "2026-04-28",
+      "time": "12:00",
+      "summary": "Malgrat la inestabilitat geopolítica i l'escassetat de components, el sector manté ferms els seus plans d'expansió."
     }
   ]
 }

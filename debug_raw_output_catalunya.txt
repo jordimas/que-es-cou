@@ -1,24 +1,16 @@
 {
-  "generated_at": "2024-05-24T16:30",
+  "generated_at": "2024-05-24T18:30",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [],
   "articles": [
-    {
-      "title": "Un any de la gran apagada elèctrica: poques respostes, factures més cares i mesures per evitar un nou zero energètic",
-      "link_id": "c_fd6004",
-      "source": "RAC1",
-      "date": "2026-04-28",
-      "time": "08:33",
-      "summary": "Un any després del gran tall elèctric, la ciutadania afronta factures més altes i incertesa sobre futures incidències."
-    },
     {
       "title": "La Generalitat prepara un pla per garantir aigua durant 24 hores en apagades",
       "link_id": "c_75546a",
       "source": "Lleida Diari",
       "date": "2026-04-28",
       "time": "04:43",
-      "summary": "El Govern vol evitar que un nou tall elèctric deixi milers d'usuaris sense subministrament d'aigua potable."
+      "summary": "El Govern vol assegurar el subministrament hídric davant possibles talls elèctrics, evitant la dependència energètica del sistema actual."
     },
     {
       "title": "El metro de Barcelona incorporarà generadors per cobrir possibles apagades",
@@ -26,55 +18,47 @@
       "source": "Tot Barcelona",
       "date": "2026-04-27",
       "time": "12:08",
-      "summary": "TMB instal·larà sistemes d'emergència per assegurar el funcionament de la xarxa de transport davant de possibles talls de llum."
+      "summary": "TMB instal·larà equips autònoms per mantenir la xarxa de transport operatiu en cas de patir un nou zero elèctric."
     },
     {
-      "title": "Nissan anuncia acomiadaments als tres centres que té a Catalunya i que donen feina a 569 persones",
-      "link_id": "c_4c0016",
-      "source": "Via Empresa",
-      "date": "2026-04-27",
-      "time": "17:27",
-      "summary": "L'automobilística planteja un ERO que afectarà les instal·lacions de la Zona Franca i el Prat de Llobregat."
-    },
-    {
-      "title": "Ebro fabricarà a la Zona Franca un utilitari 100% elèctric",
-      "link_id": "c_7c8f98",
-      "source": "Ara.cat",
-      "date": "2026-04-27",
-      "time": "09:23",
-      "summary": "La marca catalana preveu iniciar la producció d'un nou vehicle urbà amb 400 quilòmetres d'autonomia a finals d'any."
-    },
-    {
-      "title": "Neix el CaixaResearch Institute, nou centre d’immunologia a Barcelona",
-      "link_id": "c_0e104d",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-04-25",
-      "time": "07:54",
-      "summary": "Aquestes instal·lacions pioneres a Europa investigaran el sistema immunitari per tractar malalties greus com el càncer o l'Alzheimer."
-    },
-    {
-      "title": "La ciberseguretat a Catalunya es tensiona: els incidents gairebé es dupliquen el 2025",
-      "link_id": "c_6047c9",
+      "title": "Revolut aposta per Barcelona i Catalunya amb la seva primera botiga física al món",
+      "link_id": "c_ff9a7d",
       "source": "MetaData",
-      "date": "2026-04-27",
-      "time": "09:19",
-      "summary": "L'Agència de Ciberseguretat alerta d'un augment preocupant de les amenaces digitals, afectant especialment l'àmbit universitari català."
+      "date": "2026-04-28",
+      "time": "16:15",
+      "summary": "El neobanc obrirà un espai presencial a la capital catalana i incorporarà el català als seus serveis financers."
     },
     {
-      "title": "Sancionen amb 1.000 euros un jutge que va utilitzar ChatGPT per redactar una sentència",
-      "link_id": "c_03b1e5",
-      "source": "RAC1",
-      "date": "2026-04-27",
-      "time": "20:59",
-      "summary": "El Consell General del Poder Judicial considera una falta greu l'ús d'intel·ligència artificial per redactar resolucions judicials."
+      "title": "3Cat impulsa ‘Català fàcil’, una eina per a facilitar l’aprenentatge pràctic del català",
+      "link_id": "c_a637bc",
+      "source": "VilaWeb",
+      "date": "2026-04-28",
+      "time": "17:41",
+      "summary": "La plataforma ofereix recursos audiovisuals dissenyats per ajudar els nouvinguts a integrar la llengua en el seu dia a dia."
     },
     {
-      "title": "Una financera britànica inclou el català per defecte als seus caixers de Catalunya",
-      "link_id": "c_d605f6",
-      "source": "El Mon.cat",
-      "date": "2026-04-27",
-      "time": "18:11",
-      "summary": "Revolut fa un pas endavant en la normalització lingüística i promet llançar la seva aplicació en català aviat."
+      "title": "Nissan anuncia acomiadaments als tres centres que té a Catalunya",
+      "link_id": "c_c73640",
+      "source": "El Punt Avui",
+      "date": "2026-04-28",
+      "time": "11:37",
+      "summary": "La decisió afecta les plantes catalanes i ha portat els treballadors del Prat a replantejar les seves mobilitzacions."
+    },
+    {
+      "title": "Alstom lliurarà al juny a Rodalies els dos primers trens dels 201 encarregats per Renfe",
+      "link_id": "c_5e431e",
+      "source": "Ara.cat",
+      "date": "2026-04-28",
+      "time": "13:03",
+      "summary": "Aquest lliurament marca l'inici del pla de renovació de flota més ambiciós de l'Estat per millorar el servei ferroviari."
+    },
+    {
+      "title": "Catalunya capta un 54% dels fons del PERTE per a la descarbonització industrial",
+      "link_id": "c_a03c08",
+      "source": "Ara.cat",
+      "date": "2026-04-28",
+      "time": "10:29",
+      "summary": "Empreses i entitats catalanes rebran més de 277 milions d'euros per impulsar la transició ecològica del sector secundari."
     },
     {
       "title": "OpenAI trenca la seva exclusivitat amb Microsoft i obre la porta a acords amb Google i Amazon",
@@ -82,7 +66,23 @@
       "source": "El Periódico",
       "date": "2026-04-27",
       "time": "16:53",
-      "summary": "Aquest moviment estratègic permetrà a l'empresa creadora de ChatGPT expandir les seves aliances tecnològiques al mercat global."
+      "summary": "L'empresa creadora de ChatGPT busca expandir les seves aliances estratègiques per consolidar el seu lideratge en intel·ligència artificial."
+    },
+    {
+      "title": "Un estudi del Deutsche Bank afirma que el títol universitari ja no és garantia d’èxit laboral després de la irrupció de la IA",
+      "link_id": "c_aeaf48",
+      "source": "El Periódico",
+      "date": "2026-04-28",
+      "time": "18:00",
+      "summary": "L'informe adverteix que dominar eines generatives s'ha convertit en un requisit indispensable per accedir als sectors econòmics més dinàmics."
+    },
+    {
+      "title": "Europa exigeix a Google que Android permeti IA alternatives a Gemini",
+      "link_id": "c_1f0c0c",
+      "source": "El Nacional.cat",
+      "date": "2026-04-28",
+      "time": "19:00",
+      "summary": "La normativa europea obliga el sistema operatiu a obrir-se per garantir la lliure competència entre diferents assistents intel·ligents."
     }
   ]
 }
