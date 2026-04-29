@@ -1,64 +1,16 @@
 {
-  "generated_at": "2024-05-24T18:30",
+  "generated_at": "2024-05-24T16:00",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [],
   "articles": [
     {
-      "title": "La Generalitat prepara un pla per garantir aigua durant 24 hores en apagades",
-      "link_id": "c_75546a",
-      "source": "Lleida Diari",
-      "date": "2026-04-28",
-      "time": "04:43",
-      "summary": "El Govern vol assegurar el subministrament hídric davant possibles talls elèctrics, evitant la dependència energètica del sistema actual."
-    },
-    {
-      "title": "El metro de Barcelona incorporarà generadors per cobrir possibles apagades",
-      "link_id": "c_ba140f",
-      "source": "Tot Barcelona",
-      "date": "2026-04-27",
-      "time": "12:08",
-      "summary": "TMB instal·larà equips autònoms per mantenir la xarxa de transport operatiu en cas de patir un nou zero elèctric."
-    },
-    {
-      "title": "Revolut aposta per Barcelona i Catalunya amb la seva primera botiga física al món",
-      "link_id": "c_ff9a7d",
-      "source": "MetaData",
-      "date": "2026-04-28",
-      "time": "16:15",
-      "summary": "El neobanc obrirà un espai presencial a la capital catalana i incorporarà el català als seus serveis financers."
-    },
-    {
-      "title": "3Cat impulsa ‘Català fàcil’, una eina per a facilitar l’aprenentatge pràctic del català",
-      "link_id": "c_a637bc",
-      "source": "VilaWeb",
-      "date": "2026-04-28",
-      "time": "17:41",
-      "summary": "La plataforma ofereix recursos audiovisuals dissenyats per ajudar els nouvinguts a integrar la llengua en el seu dia a dia."
-    },
-    {
-      "title": "Nissan anuncia acomiadaments als tres centres que té a Catalunya",
-      "link_id": "c_c73640",
-      "source": "El Punt Avui",
-      "date": "2026-04-28",
-      "time": "11:37",
-      "summary": "La decisió afecta les plantes catalanes i ha portat els treballadors del Prat a replantejar les seves mobilitzacions."
-    },
-    {
-      "title": "Alstom lliurarà al juny a Rodalies els dos primers trens dels 201 encarregats per Renfe",
-      "link_id": "c_5e431e",
+      "title": "La UE amenaça de multar Instagram i Facebook per permetre l'accés a menors de 13 anys",
+      "link_id": "c_180069",
       "source": "Ara.cat",
-      "date": "2026-04-28",
-      "time": "13:03",
-      "summary": "Aquest lliurament marca l'inici del pla de renovació de flota més ambiciós de l'Estat per millorar el servei ferroviari."
-    },
-    {
-      "title": "Catalunya capta un 54% dels fons del PERTE per a la descarbonització industrial",
-      "link_id": "c_a03c08",
-      "source": "Ara.cat",
-      "date": "2026-04-28",
-      "time": "10:29",
-      "summary": "Empreses i entitats catalanes rebran més de 277 milions d'euros per impulsar la transició ecològica del sector secundari."
+      "date": "2026-04-29",
+      "time": "07:16",
+      "summary": "Brussel·les investiga si Meta vulnera la Llei de Serveis Digitals en fallar en la verificació d'edat dels usuaris."
     },
     {
       "title": "OpenAI trenca la seva exclusivitat amb Microsoft i obre la porta a acords amb Google i Amazon",
@@ -66,23 +18,71 @@
       "source": "El Periódico",
       "date": "2026-04-27",
       "time": "16:53",
-      "summary": "L'empresa creadora de ChatGPT busca expandir les seves aliances estratègiques per consolidar el seu lideratge en intel·ligència artificial."
+      "summary": "La creadora de ChatGPT busca diversificar les seves aliances estratègiques per expandir el seu domini en intel·ligència artificial."
     },
     {
-      "title": "Un estudi del Deutsche Bank afirma que el títol universitari ja no és garantia d’èxit laboral després de la irrupció de la IA",
-      "link_id": "c_aeaf48",
+      "title": "Una banca online escull Barcelona per obrir el seu primer espai físic",
+      "link_id": "c_1be767",
+      "source": "Tot Barcelona",
+      "date": "2026-04-28",
+      "time": "10:48",
+      "summary": "El neobanc Revolut aposta per la capital catalana per llançar una prova pilot presencial i apropar-se als clients."
+    },
+    {
+      "title": "3Cat presenta \"Català fàcil\", una nova aposta audiovisual per impulsar l'ús real del català entre nouparlants",
+      "link_id": "c_4c446c",
+      "source": "324.cat",
+      "date": "2026-04-28",
+      "time": "19:30",
+      "summary": "Aquest projecte educatiu digital busca facilitar la integració lingüística d'adolescents i adults mitjançant continguts pràctics i accessibles."
+    },
+    {
+      "title": "El Govern alerta que la IA ja està impactant el mercat laboral: \"Té una afectació molt important en oficines\"",
+      "link_id": "c_aa947b",
+      "source": "RAC1",
+      "date": "2026-04-29",
+      "time": "09:08",
+      "summary": "El conseller Miquel Sàmper adverteix que l'automatització transformarà l'ocupació a Catalunya, exigint una ràpida adaptació dels treballadors."
+    },
+    {
+      "title": "Fitness amb Spotify és la nova funció de l'app de música a l'estil Apple Fitness+",
+      "link_id": "c_de8ccc",
+      "source": "El Nacional.cat",
+      "date": "2026-04-29",
+      "time": "08:00",
+      "summary": "La plataforma de streaming s'alia amb experts per oferir rutines d'entrenament, ampliant el seu model de negoci."
+    },
+    {
+      "title": "L'Àrea Metropolitana de Barcelona prohibirà l'entrada de cotxes amb etiqueta B d'aquí a dos anys",
+      "link_id": "c_c61722",
+      "source": "RAC1",
+      "date": "2026-04-28",
+      "time": "22:26",
+      "summary": "La mesura mediambiental entrarà en vigor el 2028 per reduir la contaminació i millorar la qualitat de l'aire."
+    },
+    {
+      "title": "Google tanca un acord confidencial per cedir la seva IA al Pentàgon malgrat l’oposició de centenars d’empleats",
+      "link_id": "c_995cad",
       "source": "El Periódico",
       "date": "2026-04-28",
-      "time": "18:00",
-      "summary": "L'informe adverteix que dominar eines generatives s'ha convertit en un requisit indispensable per accedir als sectors econòmics més dinàmics."
+      "time": "11:19",
+      "summary": "La tecnològica gestionarà xarxes militars classificades dels Estats Units, generant un fort debat ètic dins la mateixa companyia."
     },
     {
-      "title": "Europa exigeix a Google que Android permeti IA alternatives a Gemini",
-      "link_id": "c_1f0c0c",
-      "source": "El Nacional.cat",
+      "title": "L’unicorn europeu de la intel·ligència artificial ElevenLabs obre oficina a Espanya",
+      "link_id": "c_1c399f",
+      "source": "El Periódico",
       "date": "2026-04-28",
-      "time": "19:00",
-      "summary": "La normativa europea obliga el sistema operatiu a obrir-se per garantir la lliure competència entre diferents assistents intel·ligents."
+      "time": "14:38",
+      "summary": "L'empresa especialitzada en generació de veus hiperrealistes s'expandeix al mercat espanyol per competir directament amb Silicon Valley."
+    },
+    {
+      "title": "Apple canvia el seu primer executiu",
+      "link_id": "c_fb1299",
+      "source": "Ara.cat",
+      "date": "2026-04-27",
+      "time": "05:01",
+      "summary": "La reestructuració de la cúpula directiva marca l'inici d'una nova era estratègica per a la companyia de Cupertino."
     }
   ]
 }

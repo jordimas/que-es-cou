@@ -1,5 +1,5 @@
 {
-  "generated_at": "2024-05-24T16:00",
+  "generated_at": "2024-05-20T16:30",
   "id": "podcasts",
   "title": "Podcasts en català sobre tecnologia",
   "sources_checked": [],
@@ -10,7 +10,7 @@
       "source": "Mossega la poma",
       "date": "2026-04-24",
       "time": "09:33",
-      "summary": "Anàlisi del futur d'Apple sense Tim Cook i la polèmica decisió de Meta d'espiar els seus treballadors amb IA."
+      "summary": "Anàlisi del futur d'Apple amb el relleu de Tim Cook i l'ús d'IA per monitorar empleats a Meta."
     },
     {
       "title": "Especial Oients residents als Estats Units – Programa 660",
@@ -18,7 +18,7 @@
       "source": "Mossega la poma",
       "date": "2026-04-20",
       "time": "16:03",
-      "summary": "Conversa amb seguidors nord-americans sobre l'actualitat tecnològica, política i social, destacant eines com Replit i Claude Code."
+      "summary": "Conversa amb oients als Estats Units sobre l'actualitat del país, eines de desenvolupament al núvol i intel·ligència artificial."
     },
     {
       "title": "L' Altra Ràdio - Els robotaxis: taxis sense conductor humà",
@@ -26,7 +26,7 @@
       "source": "L'altra ràdio",
       "date": "2026-04-23",
       "time": "07:33",
-      "summary": "Jordi Barreda analitza l'impacte dels vehicles autònoms dissenyats per al transport compartit de passatgers sense intervenció humana."
+      "summary": "Jordi Barreda analitza el funcionament i l'impacte dels vehicles autònoms dissenyats per al transport compartit de passatgers."
     },
     {
       "title": "L' Altra Ràdio - Especial 50 anys de Ràdio 4",
@@ -34,7 +34,7 @@
       "source": "L'altra ràdio",
       "date": "2026-04-16",
       "time": "07:33",
-      "summary": "Edició especial enregistrada a la Universitat Ramon Llull per commemorar el mig segle d'història de l'emissora Ràdio 4."
+      "summary": "Edició especial enregistrada a la Universitat Ramon Llull per commemorar el mig segle d'història de l'emissora."
     },
     {
       "title": "El gòTIC - Tenim una missió! del 15/4/2026",
@@ -42,7 +42,7 @@
       "source": "El Gòtic",
       "date": "2026-04-14",
       "time": "16:29",
-      "summary": "Estratègies i recursos pràctics per ajudar la ciutadania a afrontar els grans reptes i inquietuds del món digital actual."
+      "summary": "El projecte de Tàrrega comparteix recursos i estratègies per afrontar els reptes actuals de la ciutadania digital."
     },
     {
       "title": "Col·lapse de flotes de robotaxis",
@@ -50,7 +50,7 @@
       "source": "Societat de la Informació",
       "date": "2026-04-14",
       "time": "12:28",
-      "summary": "Una fallada tècnica massiva dels vehicles autònoms d'Apollo Go paralitza el trànsit a la ciutat xinesa de Wuhan."
+      "summary": "Una fallada tècnica paralitza desenes de vehicles autònoms de Baidu a Wuhan, provocant un gran bloqueig del trànsit."
     },
     {
       "title": "On van els calerons dels catalans? Amb Gerard Giménez Adsuar, el creador de subvencions.cat",
@@ -58,7 +58,7 @@
       "source": "Foc a Terra",
       "date": "2026-04-27",
       "time": "04:00",
-      "summary": "Entrevista al creador de subvencions.cat per analitzar la transparència de les entitats públiques i el destí dels fons."
+      "summary": "Un exercici de transparència sobre les entitats públiques catalanes i conversa sobre vibecoding amb el creador de contractes.cat."
     },
     {
       "title": "La pensió de les paneroles i altres patrons de decepció",
@@ -66,7 +66,7 @@
       "source": "Foc a Terra",
       "date": "2026-04-20",
       "time": "04:00",
-      "summary": "Descobreix com empreses com Amazon o Ticketmaster utilitzen dissenys enganyosos per manipular les teves decisions a internet."
+      "summary": "Anàlisi dels trucs de disseny fosc que utilitzen grans empreses per manipular les decisions dels usuaris a internet."
     },
     {
       "title": "Matt Mullenweg reflexiona i opina sobre el rumb de WordPress",
@@ -74,15 +74,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-04-21",
       "time": "00:00",
-      "summary": "El creador de WordPress critica la cultura de processos actual, alertant que paralitza les decisions i eclipsa els desenvolupadors."
-    },
-    {
-      "title": "Eines d’IA per crear formació",
-      "link_id": "c_152cc8",
-      "source": "WordPress Pòdcast",
-      "date": "2026-04-14",
-      "time": "00:00",
-      "summary": "L'equip formatiu de WordPress presenta nous recursos i instruccions d'intel·ligència artificial per estandarditzar la creació de materials educatius."
+      "summary": "El creador de la plataforma critica la cultura de procés actual que paralitza la presa de decisions del projecte."
     },
     {
       "title": "Capítol 63: Nanobots Therapeutics, robots per curar el càncer de bufeta",
@@ -90,7 +82,7 @@
       "source": "RAC&GO",
       "date": "2026-04-21",
       "time": "06:00",
-      "summary": "Una empresa emergent catalana desenvolupa robots microscòpics capaços de navegar pel cos humà per atacar directament tumors cancerosos."
+      "summary": "Un grup de recerca català desenvolupa robots microscòpics capaços de navegar pel cos humà per atacar tumors cancerosos."
     }
   ]
 }
