@@ -1,88 +1,88 @@
 {
-  "generated_at": "2024-05-24T18:30",
+  "generated_at": "2026-04-29T20:10",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "En el seu judici contra OpenAI, Musk reviu una vella amistat",
-      "link_id": "c_eb8c56",
-      "source": "TechCrunch",
+      "title": "Motorola renova la línia Razr amb nous telèfons plegables a partir de 799 dòlars",
+      "link_id": "c_09070a",
+      "source": "Digital Trends",
       "date": "2026-04-29",
-      "time": "00:40",
-      "summary": "Elon Musk ha testificat sota jurament sobre els orígens de la seva relació amb Sam Altman i la fundació d'OpenAI."
+      "time": "16:38",
+      "summary": "Els nous models Razr i Razr+ arribaran al mercat al maig, oferint millores en càmeres i bateries més grans."
     },
     {
-      "title": "Google amplia l'accés del Pentàgon a la seva IA després de la negativa d'Anthropic",
-      "link_id": "c_57f6c9",
-      "source": "TechCrunch",
-      "date": "2026-04-28",
-      "time": "18:15",
-      "summary": "L'empresa ha signat un nou contracte amb el Departament de Defensa per permetre l'ús de la seva intel·ligència artificial."
-    },
-    {
-      "title": "Amazon ja ofereix nous productes d'OpenAI a AWS",
-      "link_id": "c_ab144d",
-      "source": "TechCrunch",
-      "date": "2026-04-28",
-      "time": "19:48",
-      "summary": "Després de posar fi a l'exclusivitat amb Microsoft, OpenAI permet a AWS llançar nous models i serveis d'agents."
-    },
-    {
-      "title": "Google Translate utilitza la IA per ajudar-te a practicar la pronunciació",
-      "link_id": "c_e655bc",
-      "source": "Engadget",
-      "date": "2026-04-28",
-      "time": "16:00",
-      "summary": "Per celebrar el seu vintè aniversari, l'aplicació incorpora una eina que ofereix comentaris en temps real sobre la teva parla."
-    },
-    {
-      "title": "La quarta temporada de Ted Lasso s'estrena el 5 d'agost",
-      "link_id": "c_f1117f",
-      "source": "Engadget",
-      "date": "2026-04-28",
-      "time": "15:03",
-      "summary": "La popular comèdia d'Apple TV torna aquest estiu amb Ted i Beard entrenant un equip de futbol femení."
-    },
-    {
-      "title": "S'espera que iOS 27 inclogui noves eines d'edició de fotos amb IA",
-      "link_id": "c_71d2ac",
-      "source": "Engadget",
-      "date": "2026-04-28",
-      "time": "19:41",
-      "summary": "La propera actualització d'Apple permetrà als usuaris modificar fons i reenquadrar imatges directament des de l'aplicació Fotos."
-    },
-    {
-      "title": "El Kindle Colorsoft d'Amazon rep el mode fosc",
-      "link_id": "c_95e8a1",
-      "source": "Wired",
-      "date": "2026-04-28",
-      "time": "14:38",
-      "summary": "Una nova actualització de programari afegeix finalment aquesta esperada funció per facilitar la lectura nocturna als dispositius en color."
-    },
-    {
-      "title": "YouTube prova una funció de cerca amb IA que mostra respostes guiades",
-      "link_id": "c_babd6e",
-      "source": "TechCrunch",
-      "date": "2026-04-28",
-      "time": "13:54",
-      "summary": "Els subscriptors Premium ja poden experimentar amb aquesta eina conversacional que combina vídeos i resums de text."
-    },
-    {
-      "title": "Exclusiva: La Casa Blanca planeja recuperar Anthropic",
-      "link_id": "c_283396",
-      "source": "Axios",
-      "date": "2026-04-29",
-      "time": "01:52",
-      "summary": "L'administració desenvolupa directrius per eludir les restriccions de seguretat i permetre l'ús del nou model Mythos al govern."
-    },
-    {
-      "title": "Ara YouTube TV et permet veure qualsevol canal en multipantalla",
-      "link_id": "c_2efce0",
+      "title": "Totes les proves revelades fins ara en el cas de Musk contra Altman",
+      "link_id": "c_19cbb2",
       "source": "The Verge",
-      "date": "2026-04-28",
-      "time": "15:46",
-      "summary": "La plataforma ha llançat una funció totalment personalitzable que permet combinar fins a quatre retransmissions en directe simultànies."
+      "date": "2026-04-29",
+      "time": "18:03",
+      "summary": "El judici ha tret a la llum correus electrònics i documents corporatius dels primers dies d'OpenAI."
+    },
+    {
+      "title": "Google signa un acord classificat d'IA amb el Pentàgon però abandona un programa d'eixams de drons",
+      "link_id": "c_a8f4e3",
+      "source": "Tom's Hardware",
+      "date": "2026-04-29",
+      "time": "14:48",
+      "summary": "El Departament de Defensa dels Estats Units utilitzarà els models d'intel·ligència artificial de Google per a projectes militars classificats."
+    },
+    {
+      "title": "Apple afegirà eines d'edició de fotos basades en IA",
+      "link_id": "c_94ce42",
+      "source": "Bloomberg Technology",
+      "date": "2026-04-29",
+      "time": "17:26",
+      "summary": "La propera actualització del sistema operatiu d'Apple inclourà funcions avançades per modificar fons i reenquadrar imatges automàticament."
+    },
+    {
+      "title": "Uber ara permet reservar habitacions d'hotel i que el conductor et porti aperitius",
+      "link_id": "c_69ee21",
+      "source": "Digital Trends",
+      "date": "2026-04-29",
+      "time": "16:11",
+      "summary": "L'aplicació s'expandeix cap al mercat de viatges amb noves funcions que van més enllà del transport de passatgers."
+    },
+    {
+      "title": "Google Photos utilitza la IA per fer realitat l'icònic armari de la pel·lícula 'Clueless'",
+      "link_id": "c_7f564b",
+      "source": "TechCrunch",
+      "date": "2026-04-29",
+      "time": "16:42",
+      "summary": "La nova funció permet crear un armari virtual per emprovar-se roba i combinar conjunts a partir de fotografies pròpies."
+    },
+    {
+      "title": "Microsoft fa de codi obert 86-DOS 1.00, l'avantpassat de Windows",
+      "link_id": "c_5526b9",
+      "source": "PCWorld",
+      "date": "2026-04-29",
+      "time": "15:53",
+      "summary": "L'empresa ha publicat el codi original d'aquest sistema operatiu històric a GitHub per commemorar el seu 45è aniversari."
+    },
+    {
+      "title": "AWS i OpenAI confirmen la seva aliança al núvol un dia després de trencar l'exclusivitat amb Microsoft",
+      "link_id": "c_d14b57",
+      "source": "TechRadar",
+      "date": "2026-04-29",
+      "time": "14:05",
+      "summary": "Aquest canvi d'estratègia permetrà a OpenAI oferir els seus models d'intel·ligència artificial a través d'Amazon Web Services."
+    },
+    {
+      "title": "Meta, acusada de no mantenir els nens fora d'Instagram i Facebook a Europa",
+      "link_id": "c_c7146a",
+      "source": "NYT Technology",
+      "date": "2026-04-29",
+      "time": "18:03",
+      "summary": "La Comissió Europea assenyala que l'empresa incompleix la llei de serveis digitals en no verificar adequadament l'edat dels usuaris."
+    },
+    {
+      "title": "Apple perd l'intent de pausar els canvis de comissions de l'App Store mentre el cas va al Tribunal Suprem",
+      "link_id": "c_d836c7",
+      "source": "TechCrunch",
+      "date": "2026-04-29",
+      "time": "14:06",
+      "summary": "La decisió judicial obliga la companyia a permetre enllaços de pagament externs mentre continua la seva batalla contra Epic Games."
     }
   ]
 }
