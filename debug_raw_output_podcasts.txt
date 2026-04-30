@@ -1,5 +1,5 @@
 {
-  "generated_at": "2024-05-21T16:30",
+  "generated_at": "2024-05-21T16:00",
   "id": "podcasts",
   "title": "Podcasts en català sobre tecnologia",
   "sources_checked": [],
@@ -10,7 +10,7 @@
       "source": "Mossega la poma",
       "date": "2026-04-29",
       "time": "16:34",
-      "summary": "Marc parla del nou MacBook Neo i detalla processos avançats amb IA, mentre Dani comenta l'entorn de treball."
+      "summary": "Anàlisi del nou MacBook Neo i com la intel·ligència artificial optimitza processos avançats en entorns laborals."
     },
     {
       "title": "Apple i el relleu del CEO – Programa 661",
@@ -18,7 +18,7 @@
       "source": "Mossega la poma",
       "date": "2026-04-24",
       "time": "09:33",
-      "summary": "S'analitza el futur d'Apple amb el relleu de Tim Cook i l'ús d'IA interna per monitorar empleats a Meta."
+      "summary": "Debat sobre el futur d'Apple sense Tim Cook i la polèmica monitorització d'empleats a Meta."
     },
     {
       "title": "Especial Oients residents als Estats Units – Programa 660",
@@ -26,7 +26,7 @@
       "source": "Mossega la poma",
       "date": "2026-04-20",
       "time": "16:03",
-      "summary": "Conversa amb oients residents als Estats Units sobre l'actualitat política i tecnològica del país i del món."
+      "summary": "Conversa amb seguidors nord-americans sobre l'actualitat tecnològica, eines de programació al núvol i intel·ligència artificial."
     },
     {
       "title": "L' Altra Ràdio - Els robotaxis: taxis sense conductor humà",
@@ -34,7 +34,7 @@
       "source": "L'altra ràdio",
       "date": "2026-04-23",
       "time": "07:33",
-      "summary": "Jordi Barreda analitza els vehicles autònoms dissenyats per al transport de passatgers sense conductor humà."
+      "summary": "Exploració dels vehicles autònoms dissenyats per al transport de passatgers sense intervenció humana."
     },
     {
       "title": "L' Altra Ràdio - Especial 50 anys de Ràdio 4",
@@ -42,7 +42,7 @@
       "source": "L'altra ràdio",
       "date": "2026-04-16",
       "time": "07:33",
-      "summary": "Edició especial enregistrada a la Universitat Ramon Llull per celebrar el cinquantenari de Ràdio 4."
+      "summary": "Edició commemorativa enregistrada a la Universitat Ramon Llull per celebrar el mig segle d'història de l'emissora."
     },
     {
       "title": "El gòTIC - Tenim una missió! del 29/4/2026",
@@ -50,15 +50,7 @@
       "source": "El Gòtic",
       "date": "2026-04-28",
       "time": "16:29",
-      "summary": "L'Ajuntament de Tàrrega comparteix nous recursos i estratègies per afrontar els reptes de la ciutadania digital."
-    },
-    {
-      "title": "El gòTIC - Tenim una missió! del 15/4/2026",
-      "link_id": "c_8a5c6b",
-      "source": "El Gòtic",
-      "date": "2026-04-14",
-      "time": "16:29",
-      "summary": "Noves estratègies i recursos compartits des de Tàrrega per resoldre les inquietuds de la ciutadania digital."
+      "summary": "Estratègies i recursos pràctics per ajudar la ciutadania a afrontar els grans reptes del món digital."
     },
     {
       "title": "On van els calerons dels catalans? Amb Gerard Giménez Adsuar, el creador de subvencions.cat",
@@ -66,7 +58,7 @@
       "source": "Foc a Terra",
       "date": "2026-04-27",
       "time": "04:00",
-      "summary": "Gerard Giménez Adsuar explica com funciona la transparència de les entitats públiques catalanes a través de subvencions.cat."
+      "summary": "Un exercici de transparència sobre la despesa pública catalana i reflexions sobre la fama i el vibecoding."
     },
     {
       "title": "La pensió de les paneroles i altres patrons de decepció",
@@ -74,7 +66,7 @@
       "source": "Foc a Terra",
       "date": "2026-04-20",
       "time": "04:00",
-      "summary": "S'analitzen els trucs de disseny fosc que utilitzen empreses com Amazon o Ticketmaster per manipular els usuaris."
+      "summary": "Anàlisi dels trucs de disseny fosc que utilitzen grans empreses per manipular les decisions dels usuaris."
     },
     {
       "title": "WordPress 7.0 d’aquí a 3 setmanes",
@@ -82,7 +74,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-04-28",
       "time": "00:00",
-      "summary": "La nova versió major de WordPress ja té data de llançament prevista per al proper 20 de maig."
+      "summary": "S'anuncia la data de llançament de la nova versió major del gestor de continguts per al maig."
     },
     {
       "title": "Matt Mullenweg reflexiona i opina sobre el rumb de WordPress",
@@ -90,7 +82,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-04-21",
       "time": "00:00",
-      "summary": "El creador de WordPress critica la cultura de procés actual que paralitza les decisions del projecte."
+      "summary": "El creador de la plataforma critica la cultura de processos que paralitza les decisions del projecte."
     },
     {
       "title": "Capítol 63: Nanobots Therapeutics, robots per curar el càncer de bufeta",
@@ -98,7 +90,7 @@
       "source": "RAC&GO",
       "date": "2026-04-21",
       "time": "06:00",
-      "summary": "Un grup de recerca català desenvolupa nanobots invisibles capaços d'atacar directament els tumors cancerosos des de dins."
+      "summary": "Una empresa emergent catalana desenvolupa robots microscòpics capaços de navegar pel cos per atacar tumors directament."
     }
   ]
 }

@@ -1,16 +1,24 @@
 {
-  "generated_at": "2024-05-21T15:00",
+  "generated_at": "2024-05-21T16:00",
   "id": "videos",
   "title": "Vídeos en català sobre tecnologia",
   "sources_checked": [],
   "articles": [
+    {
+      "title": "A què hem estat jugant aquest abril",
+      "link_id": "c_261ebf",
+      "source": "Catalunya PlayStation",
+      "date": "2026-04-29",
+      "time": "22:01",
+      "summary": "Repàs mensual dels títols més destacats i les experiències de joc de la comunitat durant el mes d'abril."
+    },
     {
       "title": "Pixelats vs. KEYWE!! 🥝🥝",
       "link_id": "c_e65d43",
       "source": "Pixelats",
       "date": "2026-04-23",
       "time": "10:01",
-      "summary": "Descobreix aquesta divertida partida cooperativa on els jugadors s'enfronten als reptes postals més bojos i caòtics."
+      "summary": "Nova partida plena d'humor on s'enfronten als reptes cooperatius d'aquest divertit joc de trencaclosques postal."
     },
     {
       "title": "Els Putxinel·lis - Capítol 7 - L'Escletxa",
@@ -18,7 +26,7 @@
       "source": "Pixelats",
       "date": "2026-04-23",
       "time": "10:01",
-      "summary": "Setè episodi d'aquesta sèrie plena d'humor i sorpreses, on els protagonistes descobreixen un nou misteri inesperat."
+      "summary": "Setè episodi d'aquesta sèrie on la història avança amb noves intrigues i situacions inesperades per als protagonistes."
     }
   ]
 }

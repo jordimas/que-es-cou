@@ -1,64 +1,32 @@
 {
-  "generated_at": "2024-05-24T16:00",
+  "generated_at": "2026-04-30T10:00",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [],
   "articles": [
     {
-      "title": "La UE acusa Meta de no verificar l'edat a Instagram i Facebook i l'exposa a una multa milionària",
-      "link_id": "c_b5c3a3",
-      "source": "324.cat",
-      "date": "2026-04-29",
-      "time": "09:01",
-      "summary": "La Comissió Europea investiga les deficiències de la tecnològica per protegir els menors, arriscant-se a sancions històriques."
-    },
-    {
       "title": "La UE amenaça de multar Instagram i Facebook per permetre l'accés a menors de 13 anys",
       "link_id": "c_180069",
       "source": "Ara.cat",
       "date": "2026-04-29",
-      "time": "07:16",
-      "summary": "Brussel·les adverteix que Meta podria estar vulnerant la Llei de Serveis Digitals en no bloquejar l'accés infantil."
+      "time": "09:16",
+      "summary": "Brussel·les investiga si Meta vulnera la Llei de Serveis Digitals en fallar els seus sistemes de verificació d'edat."
     },
     {
-      "title": "Elon Musk contra Sam Altman: arrenca el judici entre magnats que pot canviar la indústria de la IA",
-      "link_id": "c_708e3d",
+      "title": "Així funcionarà a Espanya l’aplicació per verificar l’edat dels usuaris a internet",
+      "link_id": "c_87b16c",
       "source": "El Periódico",
-      "date": "2026-04-27",
-      "time": "12:57",
-      "summary": "El litigi examina la polèmica transformació d'OpenAI d'un laboratori sense ànim de lucre a un gegant comercial."
+      "date": "2026-04-29",
+      "time": "13:19",
+      "summary": "La Comissió Europea ja té a punt la solució tecnològica que facilitarà el bloqueig als menors de setze anys."
     },
     {
-      "title": "Google cedeix la seva IA a l'exèrcit dels EUA tot i la protesta de 600 treballadors",
-      "link_id": "c_dd158d",
+      "title": "Casa Tarradellas compra la planta de Pascual a Gurb per fer-hi mozzarella",
+      "link_id": "c_a9f8b1",
       "source": "324.cat",
       "date": "2026-04-29",
-      "time": "13:23",
-      "summary": "L'acord confidencial amb el Pentàgon genera tensió interna pel possible ús militar d'aquesta tecnologia avançada."
-    },
-    {
-      "title": "Revolut aposta per Barcelona i Catalunya amb la seva primera botiga física al món",
-      "link_id": "c_ff9a7d",
-      "source": "MetaData",
-      "date": "2026-04-28",
-      "time": "16:15",
-      "summary": "El neobanc britànic obre un espai presencial a la capital catalana i incorpora el català als seus serveis."
-    },
-    {
-      "title": "El Govern alerta que la IA ja està impactant el mercat laboral català: \"Té una afectació molt important en despatxos i oficines\"",
-      "link_id": "c_aa947b",
-      "source": "RAC1",
-      "date": "2026-04-29",
-      "time": "09:08",
-      "summary": "El conseller d'Empresa adverteix que l'automatització transformarà l'ocupació administrativa a curt termini a Catalunya."
-    },
-    {
-      "title": "L'Àrea Metropolitana de Barcelona prohibirà l'entrada de cotxes amb etiqueta B d'aquí a dos anys",
-      "link_id": "c_c61722",
-      "source": "RAC1",
-      "date": "2026-04-28",
-      "time": "22:26",
-      "summary": "L'AMB confirma que el 2028 restringirà definitivament la circulació dels vehicles amb distintiu groc per reduir emissions."
+      "time": "20:24",
+      "summary": "L'operació permetrà mantenir els llocs de treball del centenar d'empleats de la central osonenca en la nova etapa."
     },
     {
       "title": "OpenAI trenca la seva exclusivitat amb Microsoft i obre la porta a acords amb Google i Amazon",
@@ -66,15 +34,31 @@
       "source": "El Periódico",
       "date": "2026-04-27",
       "time": "16:53",
-      "summary": "La creadora de ChatGPT diversifica les seves aliances estratègiques per expandir el seu domini en el mercat."
+      "summary": "La creadora de ChatGPT busca expandir el seu mercat aliant-se amb altres gegants tecnològics per diversificar els seus serveis."
     },
     {
-      "title": "Brussel·les acusa Facebook i Instagram d'infringir la llei europea en permetre-hi l'accés a menors de 13 anys",
-      "link_id": "c_602eda",
-      "source": "El Nacional.cat",
+      "title": "Revolut aposta per Barcelona i Catalunya amb la seva primera botiga física al món",
+      "link_id": "c_ff9a7d",
+      "source": "MetaData",
+      "date": "2026-04-28",
+      "time": "16:15",
+      "summary": "El neobanc obrirà un espai experiencial al centre de la capital catalana i incorporarà el català als seus serveis."
+    },
+    {
+      "title": "Barcelona parcialment sense llum per una avaria tècnica en una subestació elèctrica a Sant Andreu",
+      "link_id": "c_b6c5f3",
+      "source": "Betevé",
+      "date": "2026-04-30",
+      "time": "10:51",
+      "summary": "L'incident ha afectat especialment els barris de la zona nord, com Horta, Sant Gervasi, Nou Barris i Sant Andreu."
+    },
+    {
+      "title": "El lloc des d’on veuràs l’eclipsi total es decideix aquesta setmana a les Balears",
+      "link_id": "c_5225f5",
+      "source": "Ara Balears",
       "date": "2026-04-29",
-      "time": "09:44",
-      "summary": "Les autoritats europees consideren ineficaços els sistemes de Meta per verificar l'edat dels usuaris a les xarxes."
+      "time": "13:40",
+      "summary": "S'estan fent proves de visibilitat per elaborar un mapa de les millors zones d'observació arreu de l'arxipèlag balear."
     },
     {
       "title": "Un estudi del Deutsche Bank afirma que el títol universitari ja no és garantia d’èxit laboral després de la irrupció de la IA",
@@ -82,7 +66,23 @@
       "source": "El Periódico",
       "date": "2026-04-28",
       "time": "18:00",
-      "summary": "L'informe revela que dominar eines d'intel·ligència artificial s'ha convertit en un requisit indispensable per als joves graduats."
+      "summary": "Dominar la intel·ligència artificial generativa s'ha convertit en un requisit indispensable per accedir als sectors econòmics més dinàmics."
+    },
+    {
+      "title": "Trump també purga el consell independent que assessora la Casa Blanca en ciència",
+      "link_id": "c_3de171",
+      "source": "Ara.cat",
+      "date": "2026-04-28",
+      "time": "19:39",
+      "summary": "El president nord-americà ha destituït fulminantment els experts que supervisen l'agència clau per al finançament de la investigació científica."
+    },
+    {
+      "title": "Mor J. Craig Venter, un científic clau que va desxifrar el genoma humà",
+      "link_id": "c_5f9bf7",
+      "source": "Ara.cat",
+      "date": "2026-04-30",
+      "time": "08:23",
+      "summary": "L'emprenedor nord-americà de setanta-nou anys ha traspassat a San Diego a causa dels efectes secundaris d'un tractament oncològic."
     }
   ]
 }

@@ -1,56 +1,80 @@
 {
-  "generated_at": "2024-05-24T18:30",
+  "generated_at": "2024-05-24T18:45",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "El subtil distanciament d'OpenAI respecte a Microsoft es converteix en un moviment agressiu cap a Amazon",
+      "title": "Google supera els seus rivals mentre la inversió en IA de les grans tecnològiques assoleix els 725.000 milions",
+      "link_id": "c_9fec59",
+      "source": "Financial Times",
+      "date": "2026-04-30",
+      "time": "07:41",
+      "summary": "El creixement del núvol d'Alphabet contrasta amb la caiguda de Meta per l'augment de les despeses de capital."
+    },
+    {
+      "title": "SoftBank valora la seva nova filial d'IA i robòtica en 100.000 milions per a una possible sortida a borsa",
+      "link_id": "c_c45b84",
+      "source": "CNBC Technology",
+      "date": "2026-04-30",
+      "time": "05:12",
+      "summary": "L'empresa japonesa planeja llançar \"Roze\" com a entitat independent als Estats Units per capitalitzar l'auge tecnològic."
+    },
+    {
+      "title": "Nvidia inverteix en la startup legal d'IA que promociona anuncis amb Jude Law",
+      "link_id": "c_6c2835",
+      "source": "CNBC Technology",
+      "date": "2026-04-30",
+      "time": "08:59",
+      "summary": "L'empresa sueca Legora assoleix una valoració de 5.600 milions de dòlars després de captar fons massius recentment."
+    },
+    {
+      "title": "Els beneficis de Samsung es multipliquen per vuit superant les previsions gràcies a l'auge de la IA",
+      "link_id": "c_6738f6",
+      "source": "CNBC Technology",
+      "date": "2026-04-30",
+      "time": "07:34",
+      "summary": "L'escassetat de xips de memòria impulsa els guanys operatius del primer trimestre fins a xifres rècord."
+    },
+    {
+      "title": "Anthropic negocia finançament amb una valoració de 900.000 milions de dòlars, superant OpenAI",
+      "link_id": "c_d043cb",
+      "source": "CNBC Technology",
+      "date": "2026-04-29",
+      "time": "23:09",
+      "summary": "Aquesta nova ronda d'inversió podria consolidar l'empresa com la principal potència mundial en intel·ligència artificial generativa."
+    },
+    {
+      "title": "Les accions de Qualcomm es disparen un 16% per les comandes a la Xina i nous clients",
+      "link_id": "c_eca89d",
+      "source": "CNBC Technology",
+      "date": "2026-04-29",
+      "time": "22:35",
+      "summary": "L'avançament en els enviaments de xips per a centres de dades impulsa l'optimisme dels inversors al mercat."
+    },
+    {
+      "title": "NXP Semiconductors es dispara un 26%, el seu millor dia històric després de superar les previsions",
+      "link_id": "c_c66026",
+      "source": "CNBC Technology",
+      "date": "2026-04-29",
+      "time": "20:03",
+      "summary": "El fabricant de xips neerlandès registra la pujada més forta des de la seva sortida a borsa."
+    },
+    {
+      "title": "El subtil distanciament d'OpenAI respecte a Microsoft es converteix en un apropament agressiu cap a Amazon",
       "link_id": "c_237d02",
       "source": "CNBC Technology",
       "date": "2026-04-29",
-      "time": "17:26",
-      "summary": "L'empresa d'intel·ligència artificial busca diversificar la seva infraestructura al núvol per reduir la dependència tecnològica del seu soci principal."
+      "time": "19:36",
+      "summary": "L'empresa d'IA diversifica les seves aliances estratègiques per reduir la dependència tecnològica del seu soci principal."
     },
     {
-      "title": "OpenAI amplia l'acord amb Amazon després que Microsoft flexibilitzi les condicions d'exclusivitat",
-      "link_id": "c_999c42",
-      "source": "Financial Times",
-      "date": "2026-04-28",
-      "time": "18:37",
-      "summary": "Els usuaris d'AWS podran integrar directament els models més avançats, impulsant la competència en el mercat de serveis empresarials."
-    },
-    {
-      "title": "Els fabricants de xips de memòria confien que l'auge de la IA acabi amb els cicles d'inestabilitat",
-      "link_id": "c_3b82cd",
-      "source": "Financial Times",
-      "date": "2026-04-29",
-      "time": "04:00",
-      "summary": "L'escassetat actual impulsa els clients a signar contractes a llarg termini, garantint ingressos estables per a empreses com Samsung."
-    },
-    {
-      "title": "Micron i Sandisk mantenen l'alça davant la previsió d'una demanda de memòria persistent",
-      "link_id": "c_8ecbf0",
-      "source": "CNBC Technology",
-      "date": "2026-04-29",
-      "time": "00:29",
-      "summary": "Els analistes preveuen que les necessitats d'emmagatzematge continuaran creixent fins a finals de la dècada, disparant el valor borsari."
-    },
-    {
-      "title": "Microsoft presenta resultats després del seu pitjor trimestre borsari des del 2008",
-      "link_id": "c_24a94f",
-      "source": "CNBC Technology",
-      "date": "2026-04-29",
-      "time": "17:59",
-      "summary": "Els inversors temen que la intel·ligència artificial canibalitzi el negoci tradicional de programari, afectant negativament la valoració de l'empresa."
-    },
-    {
-      "title": "Uber aposta fort pels viatges, hotels i reserves per veu amb IA en la seva presentació anual",
+      "title": "Uber aposta pels viatges, hotels i reserves per veu amb IA en la seva presentació anual",
       "link_id": "c_2e959d",
       "source": "CNBC Technology",
       "date": "2026-04-29",
       "time": "16:42",
-      "summary": "La companyia busca transformar-se en una plataforma integral de consum per diversificar les seves fonts d'ingressos més enllà del transport."
+      "summary": "La companyia busca transformar-se en una plataforma integral de consumidors més enllà del transport urbà tradicional."
     },
     {
       "title": "Una visió del futur de la ciberseguretat impulsat per la intel·ligència artificial",
@@ -58,31 +82,7 @@
       "source": "The Economist",
       "date": "2026-04-29",
       "time": "16:41",
-      "summary": "Les noves eines automatitzades prometen revolucionar la defensa digital, anticipant-se a les amenaces abans que els atacs es produeixin."
-    },
-    {
-      "title": "NXP Semiconductors es dispara un 26% i registra la seva millor jornada després de superar les previsions",
-      "link_id": "c_c66026",
-      "source": "CNBC Technology",
-      "date": "2026-04-29",
-      "time": "16:38",
-      "summary": "El fabricant holandès assoleix un rècord històric a la borsa gràcies a uns resultats financers que han sorprès el mercat."
-    },
-    {
-      "title": "Amazon es prepara per presentar els resultats del primer trimestre al tancament del mercat",
-      "link_id": "c_a08d05",
-      "source": "CNBC Technology",
-      "date": "2026-04-29",
-      "time": "16:00",
-      "summary": "Tota l'atenció se centra en el rendiment de la seva divisió al núvol, clau per mantenir l'expansió corporativa actual."
-    },
-    {
-      "title": "Els resultats d'Alphabet del primer trimestre probablement mostraran un creixement continuat, impulsat pel núvol",
-      "link_id": "c_5f140b",
-      "source": "CNBC Technology",
-      "date": "2026-04-29",
-      "time": "16:00",
-      "summary": "Wall Street anticipa xifres rècord d'ingressos des del 2022, consolidant la fortalesa tecnològica de la matriu de Google."
+      "summary": "Les noves eines automatitzades prometen revolucionar la defensa digital contra amenaces cada cop més sofisticades."
     }
   ]
 }
