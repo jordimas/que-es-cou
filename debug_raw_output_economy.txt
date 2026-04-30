@@ -1,88 +1,88 @@
 {
-  "generated_at": "2024-05-24T18:45",
+  "generated_at": "2024-05-24T18:00",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Google supera els seus rivals mentre la inversió en IA de les grans tecnològiques assoleix els 725.000 milions",
-      "link_id": "c_9fec59",
-      "source": "Financial Times",
+      "title": "Meta s'enfonsa un 9% i Alphabet puja un 7% en augmentar la despesa de capital",
+      "link_id": "c_4988b1",
+      "source": "CNBC Technology",
       "date": "2026-04-30",
-      "time": "07:41",
-      "summary": "El creixement del núvol d'Alphabet contrasta amb la caiguda de Meta per l'augment de les despeses de capital."
+      "time": "16:49",
+      "summary": "Els inversors castiguen Zuckerberg mentre premien Google, evidenciant diferents percepcions sobre el retorn de les inversions en intel·ligència artificial."
     },
     {
-      "title": "SoftBank valora la seva nova filial d'IA i robòtica en 100.000 milions per a una possible sortida a borsa",
+      "title": "El retorn de la inversió en IA de les grans tecnològiques podria estar a prop",
+      "link_id": "c_4277bd",
+      "source": "Financial Times",
+      "date": "2026-04-30",
+      "time": "16:16",
+      "summary": "Els recents resultats trimestrals suggereixen que les fortes injeccions de capital ja comencen a traduir-se en un creixement real."
+    },
+    {
+      "title": "El creixement al núvol de Google supera Microsoft i Amazon impulsat per la IA",
+      "link_id": "c_8e9d69",
+      "source": "CNBC Technology",
+      "date": "2026-04-30",
+      "time": "15:58",
+      "summary": "L'acceleració de la demanda tecnològica ha permès als tres gegants batre les expectatives de beneficis durant el primer trimestre."
+    },
+    {
+      "title": "SoftBank valora la seva nova filial d'IA i robòtica en 100.000 milions de dòlars",
       "link_id": "c_c45b84",
       "source": "CNBC Technology",
       "date": "2026-04-30",
       "time": "05:12",
-      "summary": "L'empresa japonesa planeja llançar \"Roze\" com a entitat independent als Estats Units per capitalitzar l'auge tecnològic."
+      "summary": "L'empresa nipona planeja una sortida a borsa als Estats Units per a \"Roze\", buscant capitalitzar l'auge de l'automatització."
     },
     {
-      "title": "Nvidia inverteix en la startup legal d'IA que promociona anuncis amb Jude Law",
-      "link_id": "c_6c2835",
-      "source": "CNBC Technology",
-      "date": "2026-04-30",
-      "time": "08:59",
-      "summary": "L'empresa sueca Legora assoleix una valoració de 5.600 milions de dòlars després de captar fons massius recentment."
-    },
-    {
-      "title": "Els beneficis de Samsung es multipliquen per vuit superant les previsions gràcies a l'auge de la IA",
-      "link_id": "c_6738f6",
-      "source": "CNBC Technology",
-      "date": "2026-04-30",
-      "time": "07:34",
-      "summary": "L'escassetat de xips de memòria impulsa els guanys operatius del primer trimestre fins a xifres rècord."
-    },
-    {
-      "title": "Anthropic negocia finançament amb una valoració de 900.000 milions de dòlars, superant OpenAI",
-      "link_id": "c_d043cb",
-      "source": "CNBC Technology",
+      "title": "SoftBank planeja treure a borsa una nova empresa d'IA i robòtica als Estats Units",
+      "link_id": "c_66b902",
+      "source": "Financial Times",
       "date": "2026-04-29",
-      "time": "23:09",
-      "summary": "Aquesta nova ronda d'inversió podria consolidar l'empresa com la principal potència mundial en intel·ligència artificial generativa."
+      "time": "23:28",
+      "summary": "Masayoshi Son accelera els tràmits per llançar l'oferta pública inicial aquest mateix any, consolidant la seva aposta tecnològica."
     },
     {
-      "title": "Les accions de Qualcomm es disparen un 16% per les comandes a la Xina i nous clients",
+      "title": "Les accions de Blue Owl es disparen en anunciar guanys multiplicats per deu amb SpaceX",
+      "link_id": "c_cf5e21",
+      "source": "CNBC Technology",
+      "date": "2026-04-30",
+      "time": "17:10",
+      "summary": "L'èxit d'aquesta inversió de crèdit privat anticipa una sortida a borsa històrica per a la companyia aeroespacial d'Elon Musk."
+    },
+    {
+      "title": "Gemini aposta per l'expansió dels derivats després d'obtenir l'aprovació clau dels reguladors nord-americans",
+      "link_id": "c_d2710b",
+      "source": "CNBC Technology",
+      "date": "2026-04-30",
+      "time": "16:06",
+      "summary": "La plataforma busca estabilitzar els seus ingressos mitjançant contractes de futurs, reduint així la dependència de la volatilitat criptogràfica."
+    },
+    {
+      "title": "Apple preveu un creixement de l'iPhone en els primers resultats des de l'anunciada sortida de Tim Cook",
+      "link_id": "c_5037b0",
+      "source": "CNBC Technology",
+      "date": "2026-04-30",
+      "time": "16:00",
+      "summary": "S'espera un augment del 20% en els ingressos del seu dispositiu estrella, demostrant la fortalesa comercial de la marca."
+    },
+    {
+      "title": "Les accions de Qualcomm volen un 16% gràcies a les comandes de la Xina i nous clients",
       "link_id": "c_eca89d",
       "source": "CNBC Technology",
-      "date": "2026-04-29",
-      "time": "22:35",
-      "summary": "L'avançament en els enviaments de xips per a centres de dades impulsa l'optimisme dels inversors al mercat."
+      "date": "2026-04-30",
+      "time": "14:53",
+      "summary": "L'avançament en l'enviament de xips per a centres de dades i la recuperació del mercat asiàtic disparen l'optimisme."
     },
     {
-      "title": "NXP Semiconductors es dispara un 26%, el seu millor dia històric després de superar les previsions",
-      "link_id": "c_c66026",
-      "source": "CNBC Technology",
-      "date": "2026-04-29",
-      "time": "20:03",
-      "summary": "El fabricant de xips neerlandès registra la pujada més forta des de la seva sortida a borsa."
-    },
-    {
-      "title": "El subtil distanciament d'OpenAI respecte a Microsoft es converteix en un apropament agressiu cap a Amazon",
-      "link_id": "c_237d02",
-      "source": "CNBC Technology",
-      "date": "2026-04-29",
-      "time": "19:36",
-      "summary": "L'empresa d'IA diversifica les seves aliances estratègiques per reduir la dependència tecnològica del seu soci principal."
-    },
-    {
-      "title": "Uber aposta pels viatges, hotels i reserves per veu amb IA en la seva presentació anual",
-      "link_id": "c_2e959d",
-      "source": "CNBC Technology",
-      "date": "2026-04-29",
-      "time": "16:42",
-      "summary": "La companyia busca transformar-se en una plataforma integral de consumidors més enllà del transport urbà tradicional."
-    },
-    {
-      "title": "Una visió del futur de la ciberseguretat impulsat per la intel·ligència artificial",
-      "link_id": "c_d62402",
-      "source": "The Economist",
-      "date": "2026-04-29",
-      "time": "16:41",
-      "summary": "Les noves eines automatitzades prometen revolucionar la defensa digital contra amenaces cada cop més sofisticades."
+      "title": "Elogi als esvalotadors del sector tecnològic",
+      "link_id": "c_5294d6",
+      "source": "Financial Times",
+      "date": "2026-04-30",
+      "time": "14:20",
+      "summary": "Davant la manca de límits directius, els empleats assumeixen el deure ètic d'evitar els usos més perillosos de la IA."
     }
   ]
 }

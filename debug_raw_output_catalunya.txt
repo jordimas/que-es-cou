@@ -1,64 +1,32 @@
 {
-  "generated_at": "2026-04-30T10:00",
+  "generated_at": "2024-05-24T18:00",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [],
   "articles": [
     {
-      "title": "La UE amenaça de multar Instagram i Facebook per permetre l'accés a menors de 13 anys",
-      "link_id": "c_180069",
-      "source": "Ara.cat",
-      "date": "2026-04-29",
-      "time": "09:16",
-      "summary": "Brussel·les investiga si Meta vulnera la Llei de Serveis Digitals en fallar els seus sistemes de verificació d'edat."
-    },
-    {
-      "title": "Així funcionarà a Espanya l’aplicació per verificar l’edat dels usuaris a internet",
-      "link_id": "c_87b16c",
-      "source": "El Periódico",
-      "date": "2026-04-29",
-      "time": "13:19",
-      "summary": "La Comissió Europea ja té a punt la solució tecnològica que facilitarà el bloqueig als menors de setze anys."
-    },
-    {
-      "title": "Casa Tarradellas compra la planta de Pascual a Gurb per fer-hi mozzarella",
-      "link_id": "c_a9f8b1",
-      "source": "324.cat",
-      "date": "2026-04-29",
-      "time": "20:24",
-      "summary": "L'operació permetrà mantenir els llocs de treball del centenar d'empleats de la central osonenca en la nova etapa."
-    },
-    {
-      "title": "OpenAI trenca la seva exclusivitat amb Microsoft i obre la porta a acords amb Google i Amazon",
-      "link_id": "c_c23606",
-      "source": "El Periódico",
-      "date": "2026-04-27",
-      "time": "16:53",
-      "summary": "La creadora de ChatGPT busca expandir el seu mercat aliant-se amb altres gegants tecnològics per diversificar els seus serveis."
-    },
-    {
-      "title": "Revolut aposta per Barcelona i Catalunya amb la seva primera botiga física al món",
-      "link_id": "c_ff9a7d",
-      "source": "MetaData",
-      "date": "2026-04-28",
-      "time": "16:15",
-      "summary": "El neobanc obrirà un espai experiencial al centre de la capital catalana i incorporarà el català als seus serveis."
-    },
-    {
-      "title": "Barcelona parcialment sense llum per una avaria tècnica en una subestació elèctrica a Sant Andreu",
-      "link_id": "c_b6c5f3",
-      "source": "Betevé",
+      "title": "Diversos barris de Barcelona es queden sense llum per una avaria tècnica en una subestació de Sant Andreu",
+      "link_id": "c_e06721",
+      "source": "RAC1",
       "date": "2026-04-30",
-      "time": "10:51",
-      "summary": "L'incident ha afectat especialment els barris de la zona nord, com Horta, Sant Gervasi, Nou Barris i Sant Andreu."
+      "time": "12:06",
+      "summary": "Una incidència a Sant Andreu deixa 90.000 abonats sense subministrament elèctric durant el matí de dijous."
     },
     {
-      "title": "El lloc des d’on veuràs l’eclipsi total es decideix aquesta setmana a les Balears",
-      "link_id": "c_5225f5",
-      "source": "Ara Balears",
-      "date": "2026-04-29",
-      "time": "13:40",
-      "summary": "S'estan fent proves de visibilitat per elaborar un mapa de les millors zones d'observació arreu de l'arxipèlag balear."
+      "title": "Microtalls de llum en diferents indrets de Catalunya un any després de la gran apagada",
+      "link_id": "c_ce6296",
+      "source": "El Punt Avui",
+      "date": "2026-04-30",
+      "time": "11:17",
+      "summary": "Diverses poblacions pateixen talls breus de llum just un any després de la gran apagada massiva al país."
+    },
+    {
+      "title": "La IA podria destruir fins a 2,3 milions de llocs de treball a l’Estat espanyol en una dècada",
+      "link_id": "c_bec7f5",
+      "source": "MetaData",
+      "date": "2026-04-30",
+      "time": "12:10",
+      "summary": "Un informe alerta que la creació de nova ocupació no compensarà l'impacte negatiu en els perfils més qualificats."
     },
     {
       "title": "Un estudi del Deutsche Bank afirma que el títol universitari ja no és garantia d’èxit laboral després de la irrupció de la IA",
@@ -66,23 +34,55 @@
       "source": "El Periódico",
       "date": "2026-04-28",
       "time": "18:00",
-      "summary": "Dominar la intel·ligència artificial generativa s'ha convertit en un requisit indispensable per accedir als sectors econòmics més dinàmics."
+      "summary": "La intel·ligència artificial esdevé un requisit excloent, generant subocupació entre els joves graduats malgrat la seva formació superior."
     },
     {
-      "title": "Trump també purga el consell independent que assessora la Casa Blanca en ciència",
-      "link_id": "c_3de171",
-      "source": "Ara.cat",
+      "title": "Així funcionarà a Espanya l’aplicació per verificar l’edat dels usuaris a internet",
+      "link_id": "c_87b16c",
+      "source": "El Periódico",
+      "date": "2026-04-29",
+      "time": "13:19",
+      "summary": "La Comissió Europea ja té a punt la solució tecnològica per prohibir l'accés a xarxes als menors de setze anys."
+    },
+    {
+      "title": "Per què internet s’ha convertiten un lloc més inestable i perillós",
+      "link_id": "c_84ce85",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-04-30",
+      "time": "10:55",
+      "summary": "L'augment dels talls de connexió i les amenaces derivades de la IA posen en risc la ciberseguretat global."
+    },
+    {
+      "title": "La ciberseguretat a Catalunya es tensiona: els incidents gairebé es dupliquen el 2025",
+      "link_id": "c_6047c9",
+      "source": "MetaData",
+      "date": "2026-04-27",
+      "time": "09:19",
+      "summary": "L'Agència de Ciberseguretat ha gestionat més de sis mil incidents, afectant especialment el sector universitari català."
+    },
+    {
+      "title": "OpenAI sacseja el mercat i es deslliga de Microsoft per créixer amb nous aliats",
+      "link_id": "c_27ee25",
+      "source": "MetaData",
       "date": "2026-04-28",
-      "time": "19:39",
-      "summary": "El president nord-americà ha destituït fulminantment els experts que supervisen l'agència clau per al finançament de la investigació científica."
+      "time": "11:40",
+      "summary": "L'empresa creadora de ChatGPT busca expandir-se cap al maquinari i diversificar les seves aliances estratègiques al sector."
+    },
+    {
+      "title": "OpenAI trenca la seva exclusivitat amb Microsoft i obre la porta a acords amb Google i Amazon",
+      "link_id": "c_c23606",
+      "source": "El Periódico",
+      "date": "2026-04-27",
+      "time": "16:53",
+      "summary": "Aquest canvi d'estratègia permetrà a la companyia d'intel·ligència artificial col·laborar amb els principals competidors del gegant informàtic."
     },
     {
       "title": "Mor J. Craig Venter, un científic clau que va desxifrar el genoma humà",
       "link_id": "c_5f9bf7",
       "source": "Ara.cat",
       "date": "2026-04-30",
-      "time": "08:23",
-      "summary": "L'emprenedor nord-americà de setanta-nou anys ha traspassat a San Diego a causa dels efectes secundaris d'un tractament oncològic."
+      "time": "06:23",
+      "summary": "L'emprenedor nord-americà, fonamental en la investigació genètica, ha mort als setanta-nou anys a causa d'un càncer."
     }
   ]
 }

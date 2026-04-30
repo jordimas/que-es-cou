@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-04-30T11:07",
+  "generated_at": "2026-04-30T20:07",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Com a fan de Motorola, la línia Razr 2026 és un desastre car i mandrós",
-      "link_id": "c_38254a",
-      "source": "Android Authority",
-      "date": "2026-04-30",
-      "time": "09:00",
-      "summary": "Els nous telèfons plegables de Motorola deceben amb poques millores i un augment de preu injustificat respecte als models anteriors."
-    },
-    {
-      "title": "Musk es presenta com el salvador de la IA en el seu testimoni contra OpenAI",
-      "link_id": "c_d0265b",
-      "source": "Axios",
-      "date": "2026-04-30",
-      "time": "00:56",
-      "summary": "Durant el judici, el multimilionari va defensar la seguretat tecnològica mentre acusava la companyia de Sam Altman de prioritzar beneficis."
-    },
-    {
-      "title": "Google Photos et permetrà emprovar-te roba que ja tens a l'armari o en captures de pantalla",
-      "link_id": "c_9a3d56",
-      "source": "Digital Trends",
-      "date": "2026-04-30",
-      "time": "05:42",
-      "summary": "La nova funció d'intel·ligència artificial catalogarà els teus conjunts i et permetrà combinar peces de roba de manera virtual."
-    },
-    {
-      "title": "El mode d'imatge sobre imatge de YouTube s'està desplegant per a tots els usuaris del món",
-      "link_id": "c_199c85",
-      "source": "Engadget",
-      "date": "2026-04-30",
-      "time": "09:00",
-      "summary": "Aquesta funció de multitasca per a dispositius mòbils ja no serà exclusiva dels subscriptors de pagament i serà totalment gratuïta."
-    },
-    {
-      "title": "Sundar Pichai avança detalls de l'I/O 2026 mentre Google ven TPUs i YouTube Premium creix",
-      "link_id": "c_ec733b",
-      "source": "9to5Google",
-      "date": "2026-04-29",
-      "time": "22:41",
-      "summary": "Alphabet supera les expectatives d'ingressos gràcies a la forta demanda d'intel·ligència artificial i al creixement dels serveis al núvol."
-    },
-    {
-      "title": "Gemini ja pot generar fitxers directament al xat",
-      "link_id": "c_38aac7",
-      "source": "CNET",
-      "date": "2026-04-29",
-      "time": "23:40",
-      "summary": "L'assistent de Google permet crear i descarregar documents PDF, Word i fulls de càlcul sense haver de canviar d'aplicació."
-    },
-    {
-      "title": "L'aplicació preferida d'internet, Vine, torna a la vida i s'anomena Divine",
-      "link_id": "c_6a021f",
-      "source": "Digital Trends",
-      "date": "2026-04-30",
-      "time": "04:43",
-      "summary": "Aquesta nova versió recupera milers de vídeos clàssics i prohibeix el contingut generat per IA per mantenir l'essència original."
-    },
-    {
-      "title": "Meta continua cremant diners en realitat augmentada i virtual",
-      "link_id": "c_408931",
+      "title": "Elon Musk testifica que xAI va entrenar Grok amb models d'OpenAI",
+      "link_id": "c_0e2962",
       "source": "TechCrunch",
-      "date": "2026-04-29",
-      "time": "23:58",
-      "summary": "Les accions de l'empresa cauen després d'anunciar un augment massiu de la despesa en intel·ligència artificial i el metavers."
+      "date": "2026-04-30",
+      "time": "18:03",
+      "summary": "La destil·lació de dades és clau mentre els grans laboratoris intenten evitar que els competidors copiïn els seus models."
     },
     {
-      "title": "Apple planeja una gran renovació de la càmera amb IA a iOS 27",
-      "link_id": "c_77c349",
-      "source": "CNET",
-      "date": "2026-04-29",
-      "time": "22:57",
-      "summary": "La pròxima actualització integrarà Siri directament a l'aplicació de la càmera per identificar objectes i millorar l'edició fotogràfica."
+      "title": "Motorola Razr Ultra (2026) vs. Samsung Galaxy Z Flip 7: he provat tots dos i hi ha un clar guanyador",
+      "link_id": "c_4124fd",
+      "source": "ZDNet",
+      "date": "2026-04-30",
+      "time": "17:13",
+      "summary": "Samsung aposta per la durabilitat i la IA, mentre que el nou telèfon de Motorola destaca pel seu maquinari."
     },
     {
-      "title": "L'experiència de Google TV serà caòtica amb un canal dedicat a YouTube Shorts",
-      "link_id": "c_9bd7d4",
+      "title": "Una de les millors funcions de YouTube Premium arriba finalment als usuaris gratuïts",
+      "link_id": "c_92744a",
+      "source": "TechRadar",
+      "date": "2026-04-30",
+      "time": "11:40",
+      "summary": "Google ofereix la visualització d'imatge en imatge a tots els usuaris globalment, eliminant un dels avantatges de Premium Lite."
+    },
+    {
+      "title": "Per què importa el problema dels 'follets' d'OpenAI i com pots alliberar-los tu mateix",
+      "link_id": "c_1eddfd",
+      "source": "VentureBeat",
+      "date": "2026-04-30",
+      "time": "17:11",
+      "summary": "Un error d'entrenament va fer que els models d'OpenAI s'obsessionessin amb els follets en intentar donar-los una personalitat més 'friqui'."
+    },
+    {
+      "title": "Spotify llança una insígnia de verificació per a artistes, i els comptes d'IA no hi podran optar",
+      "link_id": "c_096321",
+      "source": "The Next Web",
+      "date": "2026-04-30",
+      "time": "17:08",
+      "summary": "La nova marca verda exigirà una presència real i identificable per distingir els creadors humans de la música generada artificialment."
+    },
+    {
+      "title": "L'assistent d'IA Gemini de Google arriba a la carretera en milions de vehicles",
+      "link_id": "c_e33ec8",
+      "source": "TechCrunch",
+      "date": "2026-04-30",
+      "time": "17:46",
+      "summary": "Aquesta actualització permetrà converses més naturals i un control més intel·ligent de les funcions integrades del cotxe durant la conducció."
+    },
+    {
+      "title": "La inversió de Google, Microsoft, Meta i Amazon assolirà els 725.000 milions el 2026, un 77% més",
+      "link_id": "c_6d1d8a",
+      "source": "Tom's Hardware",
+      "date": "2026-04-30",
+      "time": "13:18",
+      "summary": "Les grans tecnològiques disparen la seva despesa en infraestructures per satisfer la creixent demanda de centres de dades d'IA."
+    },
+    {
+      "title": "Samsung suposadament abandonarà Windows als seus portàtils Galaxy Book",
+      "link_id": "c_03877e",
+      "source": "PCWorld",
+      "date": "2026-04-30",
+      "time": "16:28",
+      "summary": "Els futurs ordinadors de la marca podrien funcionar amb Android 17 i One UI 9 per unificar el seu ecosistema."
+    },
+    {
+      "title": "Netflix estrena 'Clips', el seu propi canal de vídeos verticals per allunyar-te de TikTok i Reels",
+      "link_id": "c_936414",
       "source": "Digital Trends",
-      "date": "2026-04-29",
-      "time": "20:41",
-      "summary": "La plataforma integrarà vídeos curts directament a la pantalla d'inici aquest estiu, sense opcions clares per desactivar-ho."
+      "date": "2026-04-30",
+      "time": "13:51",
+      "summary": "Aquesta nova funció permetrà als usuaris descobrir sèries mitjançant fragments curts i saltar directament als episodis complets des de l'aplicació."
+    },
+    {
+      "title": "Apple suposadament abandona les ulleres Vision Pro",
+      "link_id": "c_716c47",
+      "source": "Computerworld",
+      "date": "2026-04-30",
+      "time": "13:44",
+      "summary": "La companyia hauria aturat el desenvolupament del visor de realitat mixta a causa de les baixes vendes del model actualitzat."
     }
   ]
 }
