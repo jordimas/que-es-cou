@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T10:53",
+  "generated_at": "2026-05-01T19:56",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [
@@ -31,79 +31,79 @@
       "source": "TechCrunch",
       "date": "2026-04-30",
       "time": "23:59",
-      "summary": "La forta demanda d'ordinadors Mac impulsada per la IA ha esgotat l'estoc, complicant la transició de lideratge."
+      "summary": "L'alta demanda de Macs impulsada per la IA ha sorprès l'empresa, que preveu problemes d'estoc els propers mesos."
     },
     {
-      "title": "Les advertències d'Elon Musk sobre el perill de la IA topen amb límits al judici d'OpenAI",
-      "link_id": "c_a8ee52",
-      "source": "NYT Technology",
-      "date": "2026-04-30",
-      "time": "23:24",
-      "summary": "El magnat acusa Sam Altman d'abandonar els principis sense ànim de lucre, mentre la defensa qüestiona les seves motivacions."
+      "title": "El Pentàgon firma acords amb Nvidia, Microsoft i AWS per desplegar IA en xarxes classificades",
+      "link_id": "c_e29a38",
+      "source": "TechCrunch",
+      "date": "2026-05-01",
+      "time": "16:02",
+      "summary": "El Departament de Defensa diversifica els seus proveïdors tecnològics després de la polèmica disputa amb Anthropic sobre els termes d'ús."
     },
     {
-      "title": "La bateria de 6.000 mAh del Razr Fold hauria de preocupar Samsung i Google: aquest és el motiu",
-      "link_id": "c_fc22a1",
-      "source": "Digital Trends",
-      "date": "2026-04-30",
-      "time": "23:35",
-      "summary": "La nova línia de telèfons plegables de Motorola ofereix una autonomia superior, desafiant el domini dels seus principals rivals."
+      "title": "Microsoft comença a desplegar el mode Xbox als ordinadors amb Windows 11",
+      "link_id": "c_5fce15",
+      "source": "Tom's Hardware",
+      "date": "2026-05-01",
+      "time": "15:35",
+      "summary": "Aquesta nova interfície transforma l'escriptori tradicional en una experiència d'estil consola, optimitzada per a la navegació amb comandament."
     },
     {
-      "title": "OpenAI explica per què ChatGPT va estar obsessionat amb els follets durant un temps",
-      "link_id": "c_fd0ced",
-      "source": "Android Authority",
-      "date": "2026-04-30",
-      "time": "19:26",
-      "summary": "Un error en l'entrenament de la personalitat \"nerd\" del model va provocar respostes estranyes sobre criatures fantàstiques."
+      "title": "El judici entre Musk i Altman només acaba de començar",
+      "link_id": "c_3512bd",
+      "source": "TechCrunch",
+      "date": "2026-05-01",
+      "time": "14:00",
+      "summary": "El testimoni d'Elon Musk revela correus i missatges privats, acusant Sam Altman de trair la missió original d'OpenAI."
     },
     {
-      "title": "GM incorpora Google Gemini perquè els conductors accelerin amb l'assistent d'IA",
-      "link_id": "c_90a342",
-      "source": "CNET",
-      "date": "2026-04-30",
-      "time": "18:29",
-      "summary": "Aquesta integració permetrà converses més naturals i un control intel·ligent del vehicle, millorant l'experiència al volant."
-    },
-    {
-      "title": "Elusió d'autenticació a cPanel i WHM – CVE-2026-41940",
-      "link_id": "c_b05744",
-      "source": "Hacker News",
-      "date": "2026-04-30",
-      "time": "22:48",
-      "summary": "Una vulnerabilitat crítica permet als pirates informàtics prendre el control total de milions de llocs web sense credencials."
-    },
-    {
-      "title": "OpenAI ara permet bloquejar el compte de ChatGPT amb una clau de maquinari",
-      "link_id": "c_9de3b5",
-      "source": "The Next Web",
-      "date": "2026-04-30",
-      "time": "19:04",
-      "summary": "Aquesta mesura extrema elimina les contrasenyes tradicionals per protegir els usuaris contra atacs de pesca i robatoris de dades."
-    },
-    {
-      "title": "L'Xbox Ally X rep la seva pròpia tecnologia d'escalat d'imatges rival de DLSS, entre altres actualitzacions",
-      "link_id": "c_074ca3",
-      "source": "Digital Trends",
-      "date": "2026-04-30",
-      "time": "18:57",
-      "summary": "Microsoft introdueix la resolució súper automàtica a Windows 11 per millorar el rendiment dels jocs en dispositius portàtils."
-    },
-    {
-      "title": "S'informa que Samsung abandonarà Windows als seus portàtils Galaxy Book",
-      "link_id": "c_03877e",
+      "title": "Estudi d'Oxford: els xatbots d'IA \"amigables\" són menys precisos i més aduladors",
+      "link_id": "c_c17630",
       "source": "PCWorld",
-      "date": "2026-04-30",
-      "time": "16:28",
-      "summary": "La companyia sud-coreana podria adoptar un sistema basat en Android per unificar l'ecosistema amb els seus telèfons intel·ligents."
+      "date": "2026-05-01",
+      "time": "16:36",
+      "summary": "La investigació demostra que els models entrenats per ser empàtics tendeixen a donar respostes de pitjor qualitat i menys fiables."
     },
     {
-      "title": "S'informa que Apple abandona les ulleres Vision Pro",
-      "link_id": "c_716c47",
-      "source": "Computerworld",
+      "title": "Descoberta una greu vulnerabilitat de seguretat a Linux anomenada \"Copy Fail\"",
+      "link_id": "c_5f9ef9",
+      "source": "The Verge",
+      "date": "2026-05-01",
+      "time": "12:55",
+      "summary": "Aquest error permet a qualsevol usuari obtenir privilegis d'administrador en gairebé totes les distribucions llançades des de l'any 2017."
+    },
+    {
+      "title": "L'augment del preu dels components dispara la inversió de les grans tecnològiques a 725.000 milions de dòlars",
+      "link_id": "c_009dcc",
+      "source": "Tom's Hardware",
+      "date": "2026-05-01",
+      "time": "15:49",
+      "summary": "L'alta demanda d'infraestructura per a IA obliga empreses com Google, Amazon, Microsoft i Meta a augmentar dràsticament la seva despesa."
+    },
+    {
+      "title": "Samsung adverteix que l'escassetat de memòria RAM empitjorarà el 2027 i més enllà",
+      "link_id": "c_b71c69",
+      "source": "PCWorld",
+      "date": "2026-05-01",
+      "time": "15:37",
+      "summary": "L'explosió de la demanda d'IA està esgotant els subministraments, la qual cosa podria encarir els dispositius electrònics els propers anys."
+    },
+    {
+      "title": "Spotify llança una insígnia de \"Verificat\" per distingir els artistes humans de la IA",
+      "link_id": "c_6a6389",
+      "source": "The Guardian Tech",
       "date": "2026-04-30",
-      "time": "13:44",
-      "summary": "Les baixes vendes, l'elevat preu i el pes del dispositiu haurien forçat la cancel·lació d'aquest ambiciós projecte de realitat mixta."
+      "time": "19:56",
+      "summary": "La plataforma de música vol ajudar els oients a identificar els creadors reals davant l'allau de cançons generades sintèticament."
+    },
+    {
+      "title": "Els serveis d'Ubuntu pateixen interrupcions després d'un atac DDoS",
+      "link_id": "c_f34f3c",
+      "source": "TechCrunch",
+      "date": "2026-05-01",
+      "time": "15:00",
+      "summary": "Un grup de ciberactivistes ha reivindicat l'atac, que ha impedit als usuaris actualitzar el sistema operatiu basat en Linux."
     }
   ]
 }

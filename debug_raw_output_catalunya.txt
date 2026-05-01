@@ -1,56 +1,16 @@
 {
-  "generated_at": "2026-05-01T10:00",
+  "generated_at": "2024-05-24T16:00",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [],
   "articles": [
-    {
-      "title": "Google també deixarà fer servir la seva IA a les Forces Armades dels Estats Units",
-      "link_id": "c_32f726",
-      "source": "El Nacional.cat",
-      "date": "2026-05-01",
-      "time": "02:02",
-      "summary": "El gegant tecnològic s'uneix a OpenAI i xAI per proporcionar models d'intel·ligència artificial avançats al Pentàgon nord-americà."
-    },
-    {
-      "title": "OpenAI sacseja el mercat i es deslliga de Microsoft per créixer amb nous aliats",
-      "link_id": "c_27ee25",
-      "source": "MetaData",
-      "date": "2026-04-28",
-      "time": "11:40",
-      "summary": "La creadora de ChatGPT busca expandir-se col·laborant amb Google i Amazon, preparant també nous productes de maquinari propis."
-    },
     {
       "title": "La IA podria destruir fins a 2,3 milions de llocs de treball a l’Estat espanyol en una dècada",
       "link_id": "c_bec7f5",
       "source": "MetaData",
       "date": "2026-04-30",
       "time": "12:10",
-      "summary": "Un informe de Funcas adverteix que la nova ocupació generada no compensarà les pèrdues, afectant especialment els perfils qualificats."
-    },
-    {
-      "title": "Un estudi del Deutsche Bank afirma que el títol universitari ja no és garantia d’èxit laboral després de la irrupció de la IA",
-      "link_id": "c_aeaf48",
-      "source": "El Periódico",
-      "date": "2026-04-28",
-      "time": "18:00",
-      "summary": "La intel·ligència artificial esdevé un requisit excloent, relegant molts joves graduats a feines per sota de la seva formació."
-    },
-    {
-      "title": "Així funcionarà a Espanya l’aplicació per verificar l’edat dels usuaris a internet",
-      "link_id": "c_87b16c",
-      "source": "El Periódico",
-      "date": "2026-04-29",
-      "time": "13:19",
-      "summary": "La Comissió Europea ja té a punt la solució tecnològica per bloquejar l'accés dels menors de setze anys a xarxes."
-    },
-    {
-      "title": "La ciberseguretat a Catalunya es tensiona: els incidents gairebé es dupliquen el 2025",
-      "link_id": "c_6047c9",
-      "source": "MetaData",
-      "date": "2026-04-27",
-      "time": "09:19",
-      "summary": "L'Agència de Ciberseguretat va gestionar més de sis mil atacs, sent l'entorn universitari un dels objectius principals dels cibercriminals."
+      "summary": "L'informe de Funcas adverteix que la creació de noves feines no compensarà les pèrdues, afectant especialment els perfils qualificats."
     },
     {
       "title": "La intel·ligència artificial ja pot prendre millors decisions que els metges d'urgències, segons un estudi de Harvard",
@@ -58,7 +18,55 @@
       "source": "RAC1",
       "date": "2026-04-30",
       "time": "20:50",
-      "summary": "El sistema d'OpenAI assoleix un vuitanta per cent d'encert en els diagnòstics, superant en un deu per cent els professionals."
+      "summary": "El sistema d'OpenAI encerta vuit de cada deu diagnòstics, superant en un deu per cent els professionals mèdics humans."
+    },
+    {
+      "title": "Google tanca un acord confidencial per cedir la seva IA al Pentàgon malgrat l’oposició de centenars d’empleats",
+      "link_id": "c_995cad",
+      "source": "El Periódico",
+      "date": "2026-04-28",
+      "time": "11:19",
+      "summary": "El gegant tecnològic gestionarà xarxes classificades de l'exèrcit nord-americà, generant una forta controvèrsia interna entre els seus treballadors."
+    },
+    {
+      "title": "OpenAI sacseja el mercat i es deslliga de Microsoft per créixer amb nous aliats",
+      "link_id": "c_27ee25",
+      "source": "MetaData",
+      "date": "2026-04-28",
+      "time": "11:40",
+      "summary": "L'empresa creadora de ChatGPT busca expandir-se cap al maquinari i explorarà col·laboracions estratègiques amb gegants com Google i Amazon."
+    },
+    {
+      "title": "«Vaig ser ximple»: totes les claus de la declaració d’Elon Musk en el seu judici contra OpenAI",
+      "link_id": "c_f0b379",
+      "source": "El Periódico",
+      "date": "2026-04-30",
+      "time": "11:56",
+      "summary": "La batalla legal entre el magnat i l'empresa que va cofundar podria transformar profundament la indústria de la intel·ligència artificial."
+    },
+    {
+      "title": "Així funcionarà a Espanya l’aplicació per verificar l’edat dels usuaris a internet",
+      "link_id": "c_87b16c",
+      "source": "El Periódico",
+      "date": "2026-04-29",
+      "time": "13:19",
+      "summary": "La Comissió Europea ja té a punt la solució tecnològica que facilitarà prohibir l'accés dels menors a les xarxes socials."
+    },
+    {
+      "title": "Per què internet s’ha convertiten un lloc més inestable i perillós",
+      "link_id": "c_84ce85",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-04-30",
+      "time": "10:55",
+      "summary": "L'augment de talls globals i l'ús maliciós de la intel·ligència artificial posen en risc la ciberseguretat a escala mundial."
+    },
+    {
+      "title": "La ciberseguretat a Catalunya es tensiona: els incidents gairebé es dupliquen el 2025",
+      "link_id": "c_6047c9",
+      "source": "MetaData",
+      "date": "2026-04-27",
+      "time": "09:19",
+      "summary": "L'Agència de Ciberseguretat alerta d'un augment sostingut de les amenaces digitals, sent el sector universitari el principal focus d'atacs."
     },
     {
       "title": "Mor J. Craig Venter, un científic clau que va desxifrar el genoma humà",
@@ -66,23 +74,15 @@
       "source": "Ara.cat",
       "date": "2026-04-30",
       "time": "06:23",
-      "summary": "L'emprenedor nord-americà, pioner en la investigació genètica, ha mort als setanta-nou anys a causa d'un tractament contra el càncer."
+      "summary": "L'emprenedor i investigador nord-americà ha mort als setanta-nou anys a causa dels efectes secundaris d'un tractament contra el càncer."
     },
     {
-      "title": "Els deutes a curt termini posen en dubte la liquiditat de la catalana Parlem",
-      "link_id": "c_0316cb",
-      "source": "Ara.cat",
-      "date": "2026-04-30",
-      "time": "19:56",
-      "summary": "La companyia de telecomunicacions afronta venciments de crèdits per setze milions d'euros després de descartar la integració amb Avatel."
-    },
-    {
-      "title": "El primer dilema de John Ternus com a nou CEO d'Apple serà què fer amb el Vision Pro",
-      "link_id": "c_821ea8",
-      "source": "El Nacional.cat",
+      "title": "bp pulse instal·larà al 22@ el \"hub de recàrrega pública ultraràpida més gran\" de Barcelona",
+      "link_id": "c_4126fb",
+      "source": "Via Empresa",
       "date": "2026-05-01",
-      "time": "02:01",
-      "summary": "El nou director executiu haurà de decidir el futur de les ulleres de realitat mixta després del seu escàs èxit."
+      "time": "11:36",
+      "summary": "El projecte arrencarà enguany amb sis punts de càrrega de gran potència per impulsar la mobilitat elèctrica al districte tecnològic."
     }
   ]
 }

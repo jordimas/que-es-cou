@@ -1,7 +1,16 @@
 {
-  "generated_at": "2024-05-24T16:00",
+  "generated_at": "2024-05-20T16:35",
   "id": "events",
   "title": "Trobades",
   "sources_checked": [],
-  "articles": []
+  "articles": [
+    {
+      "title": "[Build with AI]: Crea el teu primer agent d'IA amb Google ADK",
+      "link_id": "c_5a0a5f",
+      "source": "GDG Barcelona",
+      "date": "2026-05-01",
+      "time": "16:49",
+      "summary": "Taller pràctic per programar des de zero un sistema RAG utilitzant les eines més recents de Google."
+    }
+  ]
 }

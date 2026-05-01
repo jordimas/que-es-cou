@@ -1,88 +1,88 @@
 {
-  "generated_at": "2024-05-24T18:50",
+  "generated_at": "2024-05-20T18:45",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Tim Cook, CEO d'Apple, adverteix d'una crisi prolongada de memòria",
+      "title": "Apple atribueix el rècord de vendes a l'iPhone \"més popular\" de la història",
+      "link_id": "c_35dc6b",
+      "source": "Financial Times",
+      "date": "2026-05-01",
+      "time": "13:36",
+      "summary": "El nou conseller delegat, John Ternus, promet mantenir el rigor estratègic per consolidar aquest èxit comercial sense precedents."
+    },
+    {
+      "title": "El Pentàgon firma nous acords d'IA militar amb Nvidia, Microsoft i Amazon",
+      "link_id": "c_d8086a",
+      "source": "Financial Times",
+      "date": "2026-05-01",
+      "time": "13:19",
+      "summary": "Aquestes aliances estratègiques busquen reforçar la defensa tecnològica nord-americana després de les recents disputes sobre l'ús de models lingüístics."
+    },
+    {
+      "title": "El cap tecnològic del Pentàgon manté el veto a Anthropic, però desvincula el cas de Mythos",
+      "link_id": "c_18d244",
+      "source": "CNBC Technology",
+      "date": "2026-05-01",
+      "time": "12:51",
+      "summary": "El Departament de Defensa diversifica els seus proveïdors d'intel·ligència artificial pactant amb set noves empreses per evitar dependències."
+    },
+    {
+      "title": "Tim Cook adverteix d'una crisi prolongada de memòria i assegura que exploraran diverses opcions",
       "link_id": "c_364338",
       "source": "CNBC Technology",
       "date": "2026-05-01",
       "time": "07:00",
-      "summary": "L'escassetat de components podria afectar la producció futura, obligant l'empresa a buscar noves estratègies de subministrament."
+      "summary": "L'escassetat de components podria alterar la cadena de subministrament tecnològica, obligant la companyia a buscar alternatives logístiques urgents."
     },
     {
-      "title": "Google tanca el seu millor mes des de 2004 amb una pujada del 34% d'Alphabet",
-      "link_id": "c_4988b1",
+      "title": "Apple tanca un trimestre gairebé perfecte, marcat pel canvi de CEO i novetats en IA",
+      "link_id": "c_315dec",
       "source": "CNBC Technology",
       "date": "2026-04-30",
-      "time": "20:11",
-      "summary": "Els inversors premien l'augment de la despesa en intel·ligència artificial de l'empresa, contrastant amb la caiguda de Meta."
+      "time": "23:43",
+      "summary": "Els resultats històrics del març han disparat les accions, reflectint la confiança del mercat en la nova direcció corporativa."
     },
     {
-      "title": "Japan Airlines prova robots humanoides a l'aeroport de Haneda per la manca de personal",
+      "title": "Les previsions d'ingressos d'Apple superen les estimacions gràcies a la forta demanda d'iPhone i Mac",
+      "link_id": "c_5037b0",
+      "source": "CNBC Technology",
+      "date": "2026-04-30",
+      "time": "23:06",
+      "summary": "Tot i algunes vendes inferiors a l'esperat, el creixement global del 17% demostra la resiliència del seu ecosistema de productes."
+    },
+    {
+      "title": "L'ascens irresistible de la intel·ligència artificial com a autora",
+      "link_id": "c_b26f73",
+      "source": "Financial Times",
+      "date": "2026-05-01",
+      "time": "16:09",
+      "summary": "L'adopció massiva d'eines de generació de text transformarà radicalment la nostra manera de comunicar-nos i crear contingut diàriament."
+    },
+    {
+      "title": "Les accions d'Atlassian es disparen un 20% impulsades pel creixement al núvol i centres de dades",
+      "link_id": "c_6b03df",
+      "source": "CNBC Technology",
+      "date": "2026-05-01",
+      "time": "14:21",
+      "summary": "Aquests resultats sorprenents desafien els temors recents sobre l'impacte negatiu de la IA en el sector del programari empresarial."
+    },
+    {
+      "title": "Les accions de xips repunten en un mes històric en dissipar-se els dubtes sobre la IA",
+      "link_id": "c_7e8aa0",
+      "source": "CNBC Technology",
+      "date": "2026-05-01",
+      "time": "12:41",
+      "summary": "La recuperació borsària de l'abril confirma l'optimisme renovat dels inversors respecte a la infraestructura necessària per a les noves tecnologies."
+    },
+    {
+      "title": "Japan Airlines prova robots humanoides a l'aeroport de Haneda per combatre la manca de personal",
       "link_id": "c_bd5af3",
       "source": "CNBC Technology",
       "date": "2026-05-01",
       "time": "06:58",
-      "summary": "L'envelliment de la població japonesa impulsa l'automatització dels serveis de terra per mantenir l'eficiència operativa."
-    },
-    {
-      "title": "Les accions del fabricant de vàters japonès Toto es disparen pel seu gir cap a la IA",
-      "link_id": "c_919e51",
-      "source": "Financial Times",
-      "date": "2026-05-01",
-      "time": "05:17",
-      "summary": "L'empresa diversifica el seu negoci i augmentarà la producció de components per a semiconductors, entusiasmant els mercats."
-    },
-    {
-      "title": "La guerra de preus dels vehicles elèctrics xinesos deriva en una cursa armamentística d'IA",
-      "link_id": "c_c95f91",
-      "source": "CNBC Technology",
-      "date": "2026-05-01",
-      "time": "04:19",
-      "summary": "Les funcions intel·ligents integrades als cotxes esdevenen el nou camp de batalla per diferenciar-se en un mercat saturat."
-    },
-    {
-      "title": "Les vendes de xips de Huawei augmentaran un 60% mentre les tecnològiques xineses eviten Nvidia",
-      "link_id": "c_788f25",
-      "source": "Financial Times",
-      "date": "2026-05-01",
-      "time": "00:15",
-      "summary": "Les restriccions comercials afavoreixen els processadors d'intel·ligència artificial locals, consolidant la independència tecnològica del gegant asiàtic."
-    },
-    {
-      "title": "El CEO de Reddit qualifica la seva empresa com \"el combustible\" de la intel·ligència artificial",
-      "link_id": "c_4080b3",
-      "source": "CNBC Technology",
-      "date": "2026-04-30",
-      "time": "22:48",
-      "summary": "L'extens arxiu de converses humanes de la plataforma esdevé un recurs clau per entrenar els nous models lingüístics."
-    },
-    {
-      "title": "Veeva Systems s'unirà a l'índex S&P 500, substituint Coterra Energy",
-      "link_id": "c_97e64f",
-      "source": "CNBC Technology",
-      "date": "2026-04-30",
-      "time": "22:40",
-      "summary": "Aquesta incorporació arriba malgrat els recents temors dels inversors sobre l'impacte de la IA en el programari al núvol."
-    },
-    {
-      "title": "Les accions d'Intel es dupliquen a l'abril, el seu millor mes en 55 anys al Nasdaq",
-      "link_id": "c_5eef42",
-      "source": "CNBC Technology",
-      "date": "2026-04-30",
-      "time": "20:10",
-      "summary": "Els excel·lents resultats financers generen un gran optimisme sobre el renaixement i la competitivitat futura del fabricant de xips."
-    },
-    {
-      "title": "Les accions de Blue Owl es disparen després d'anunciar guanys multiplicats per deu amb SpaceX",
-      "link_id": "c_cf5e21",
-      "source": "CNBC Technology",
-      "date": "2026-04-30",
-      "time": "19:36",
-      "summary": "L'èxit de la inversió destaca l'atractiu del sector aeroespacial privat abans de la sortida a borsa de SpaceX."
+      "summary": "L'envelliment de la població japonesa accelera l'automatització dels serveis de terra per garantir l'eficiència operativa en el sector aeri."
     }
   ]
 }
