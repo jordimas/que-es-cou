@@ -1,16 +1,24 @@
 {
-  "generated_at": "2024-05-24T16:00",
+  "generated_at": "2024-05-24T21:30",
   "id": "podcasts",
   "title": "Podcasts en català sobre tecnologia",
   "sources_checked": [],
   "articles": [
+    {
+      "title": "L' Altra Ràdio - La computació quàntica",
+      "link_id": "c_b29fa7",
+      "source": "L'altra ràdio",
+      "date": "2026-04-30",
+      "time": "07:33",
+      "summary": "Mariona Sanz explica la computació quàntica i presenta Quilimanjaro, una empresa sorgida del BSC que ja utilitza aquesta tecnologia."
+    },
     {
       "title": "L' Altra Ràdio - Els robotaxis: taxis sense conductor humà",
       "link_id": "c_6c0c4d",
       "source": "L'altra ràdio",
       "date": "2026-04-23",
       "time": "07:33",
-      "summary": "Anàlisi sobre els robotaxis, vehicles autònoms dissenyats per al transport de passatgers sense necessitat de conductor humà."
+      "summary": "Jordi Barreda analitza els robotaxis, vehicles autònoms dissenyats per al transport de passatgers sense conductor humà."
     },
     {
       "title": "L' Altra Ràdio - Especial 50 anys de Ràdio 4",
@@ -18,7 +26,7 @@
       "source": "L'altra ràdio",
       "date": "2026-04-16",
       "time": "07:33",
-      "summary": "Edició especial enregistrada a la Universitat Ramon Llull per commemorar el cinquantè aniversari de Ràdio 4."
+      "summary": "Edició especial enregistrada al IX Congrés Internacional de Recerca en Comunicació per celebrar el cinquantenari de Ràdio 4."
     },
     {
       "title": "El gòTIC - Tenim una missió! del 29/4/2026",
@@ -26,7 +34,7 @@
       "source": "El Gòtic",
       "date": "2026-04-28",
       "time": "16:29",
-      "summary": "Recursos i estratègies per afrontar els grans reptes i inquietuds de la ciutadania en l'entorn digital actual."
+      "summary": "El gòTIC de Tàrrega comparteix recursos i estratègies per afrontar els reptes i inquietuds de la ciutadania digital."
     },
     {
       "title": "On van els calerons dels catalans? Amb Gerard Giménez Adsuar, el creador de subvencions.cat",
@@ -34,7 +42,7 @@
       "source": "Foc a Terra",
       "date": "2026-04-27",
       "time": "04:00",
-      "summary": "Conversa amb el creador de subvencions.cat sobre transparència pública, programació i la gestió dels fons institucionals."
+      "summary": "Gerard Giménez Adsuar parla sobre transparència pública, vibecoding i la creació de les plataformes subvencions.cat i contractes.cat."
     },
     {
       "title": "La pensió de les paneroles i altres patrons de decepció",
@@ -42,7 +50,7 @@
       "source": "Foc a Terra",
       "date": "2026-04-20",
       "time": "04:00",
-      "summary": "Descobreix com empreses com Amazon o Duolingo utilitzen patrons obscurs de disseny per manipular les teves decisions digitals."
+      "summary": "Descobreix els patrons foscos, trucs de disseny utilitzats per empreses per manipular les teves decisions a internet."
     },
     {
       "title": "WordPress 7.0 d’aquí a 3 setmanes",
@@ -50,7 +58,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-04-28",
       "time": "00:00",
-      "summary": "La nova versió principal del gestor de continguts arribarà el 20 de maig amb importants novetats."
+      "summary": "La nova versió major de WordPress ja té data de llançament prevista per al proper 20 de maig."
     },
     {
       "title": "Matt Mullenweg reflexiona i opina sobre el rumb de WordPress",
@@ -58,7 +66,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-04-21",
       "time": "00:00",
-      "summary": "El creador de la plataforma critica la cultura de processos que paralitza la presa de decisions del projecte."
+      "summary": "Matt Mullenweg critica la cultura de procés actual del projecte, afirmant que paralitza decisions i eclipsa els contribuïdors."
     },
     {
       "title": "Capítol 63: Nanobots Therapeutics, robots per curar el càncer de bufeta",
@@ -66,7 +74,7 @@
       "source": "RAC&GO",
       "date": "2026-04-21",
       "time": "06:00",
-      "summary": "Una empresa emergent catalana desenvolupa robots microscòpics capaços de navegar pel cos humà per atacar tumors cancerígens."
+      "summary": "Investigadors catalans creen nanorobots capaços de navegar pel cos humà per atacar directament els tumors del càncer de bufeta."
     }
   ]
 }

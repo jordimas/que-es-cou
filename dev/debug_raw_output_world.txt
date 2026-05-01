@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-04-30T14:06",
+  "generated_at": "2026-05-01T13:49",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "S'anuncien el preu i la disponibilitat del Motorola Razr Fold abans de l'iPhone Ultra",
-      "link_id": "c_ca4cd1",
-      "source": "9to5Mac",
+      "title": "Mentre Tim Cook plega, Apple assoleix vendes rècord, però s'acosta una escassetat de xips",
+      "link_id": "c_5a52f2",
+      "source": "TechCrunch",
       "date": "2026-04-30",
-      "time": "11:52",
-      "summary": "El mercat dels telèfons plegables creix amb el nou Motorola Razr Fold, que s'avança als futurs models d'Apple."
+      "time": "23:59",
+      "summary": "L'alta demanda de dispositius amb IA ha esgotat l'estoc, i l'encariment de la memòria amenaça els futurs beneficis."
     },
     {
-      "title": "Musk diu que \"va ser un ximple\" per finançar OpenAI als seus inicis",
-      "link_id": "c_6ef68c",
-      "source": "NYT Technology",
-      "date": "2026-04-29",
-      "time": "23:25",
-      "summary": "Durant el judici, Elon Musk va acusar Sam Altman d'enganyar-lo, mentre que els advocats d'OpenAI ho neguen rotundament."
+      "title": "Elon Musk testifica que xAI va entrenar Grok amb models d'OpenAI",
+      "link_id": "c_0e2962",
+      "source": "TechCrunch",
+      "date": "2026-04-30",
+      "time": "18:03",
+      "summary": "En el judici contra Sam Altman, el magnat va admetre usar dades de la competència per desenvolupar la seva IA."
     },
     {
-      "title": "Google Photos Wardrobe escanejarà les teves fotos per crear una versió digital del teu armari",
-      "link_id": "c_29211d",
-      "source": "Engadget",
-      "date": "2026-04-29",
-      "time": "16:58",
-      "summary": "Aquesta nova funció utilitza intel·ligència artificial per organitzar la teva roba i ajudar-te a triar què posar-te fàcilment."
-    },
-    {
-      "title": "El mode d'imatge en imatge de YouTube s'està desplegant per a tots els usuaris del món",
-      "link_id": "c_199c85",
+      "title": "ChatGPT desenvolupa una obsessió pels follets després que OpenAI intentés fer-lo més \"friqui\"",
+      "link_id": "c_6e7fbf",
       "source": "Engadget",
       "date": "2026-04-30",
-      "time": "09:00",
-      "summary": "Aquesta funció, abans exclusiva per a subscriptors Premium, permetrà a tothom veure vídeos mentre utilitzen altres aplicacions."
+      "time": "15:42",
+      "summary": "Un error en l'entrenament de la personalitat del model GPT-5.5 va provocar respostes estranyes centrades en criatures fantàstiques."
     },
     {
-      "title": "Gemini ja pot generar fitxers a Google Docs, PDF i Word amb només una indicació",
-      "link_id": "c_2897a9",
-      "source": "TechRadar",
+      "title": "Després de criticar Anthropic per limitar Mythos, OpenAI també restringeix l'accés a Cyber",
+      "link_id": "c_efe255",
+      "source": "TechCrunch",
       "date": "2026-04-30",
-      "time": "10:25",
-      "summary": "El xatbot de Google permet ara crear i descarregar documents complets directament des de la seva interfície."
+      "time": "19:27",
+      "summary": "L'empresa adopta la mateixa estratègia de llançament exclusiu que havia retret als rivals per a la seva eina de ciberseguretat."
     },
     {
-      "title": "Sony aclareix el problema de DRM de PlayStation: els jocs digitals requereixen una \"comprovació en línia única\"",
-      "link_id": "c_9aa964",
-      "source": "TechRadar",
+      "title": "L'assistent d'IA Gemini de Google arriba a milions de vehicles",
+      "link_id": "c_e33ec8",
+      "source": "TechCrunch",
       "date": "2026-04-30",
-      "time": "10:27",
-      "summary": "L'empresa desmenteix els rumors i assegura que no caldrà una connexió permanent a internet per jugar als títols digitals."
+      "time": "17:46",
+      "summary": "Aquesta integració substituirà l'assistent tradicional per oferir converses més naturals i un control intel·ligent durant la conducció."
     },
     {
-      "title": "L'experiència de Google TV es tornarà caòtica amb un canal dedicat a YouTube Shorts",
-      "link_id": "c_9bd7d4",
-      "source": "Digital Trends",
-      "date": "2026-04-29",
-      "time": "20:41",
-      "summary": "La plataforma afegirà una fila de vídeos curts a la pantalla d'inici aquest estiu, sense opció de desactivar-la."
-    },
-    {
-      "title": "L'aplicació preferida d'internet, Vine, ha ressuscitat i s'anomena Divine",
-      "link_id": "c_6a021f",
-      "source": "Digital Trends",
+      "title": "Samsung i SK hynix adverteixen que l'escassetat de memòria impulsada per la IA podria durar fins al 2027",
+      "link_id": "c_173aff",
+      "source": "Tom's Hardware",
       "date": "2026-04-30",
-      "time": "04:43",
-      "summary": "Amb el suport de Jack Dorsey, la nova plataforma recupera milers de vídeos antics i permet crear-ne de nous."
+      "time": "14:46",
+      "summary": "L'alta demanda de components per a servidors d'intel·ligència artificial encarirà dràsticament els preus de l'electrònica de consum properament."
     },
     {
-      "title": "Apple planeja una gran renovació de la càmera amb IA a iOS 27",
-      "link_id": "c_77c349",
-      "source": "CNET",
-      "date": "2026-04-29",
-      "time": "22:57",
-      "summary": "La pròxima actualització integrarà Siri i funcions d'intel·ligència visual directament a l'aplicació de càmera de l'iPhone."
+      "title": "El mode Xbox de Microsoft comença a arribar als ordinadors amb Windows 11",
+      "link_id": "c_4b3ce9",
+      "source": "Engadget",
+      "date": "2026-05-01",
+      "time": "11:01",
+      "summary": "Aquesta nova interfície a pantalla completa busca transformar els ordinadors en consoles per millorar l'experiència dels jugadors."
     },
     {
-      "title": "Apple \"s'ha rendit\" amb les Vision Pro, segons un informe, a causa del preu i el pes",
+      "title": "Rivian redueix el préstec del Departament d'Energia a 4.500 milions de dòlars per a la fàbrica de Geòrgia",
+      "link_id": "c_867648",
+      "source": "TechCrunch",
+      "date": "2026-04-30",
+      "time": "20:02",
+      "summary": "El fabricant de vehicles elèctrics ha reestructurat l'acord financer i ha modificat els plans d'expansió de les seves instal·lacions."
+    },
+    {
+      "title": "Els pirates informàtics exploten activament un error a cPanel, utilitzat per milions de llocs web",
+      "link_id": "c_e50a35",
+      "source": "TechCrunch",
+      "date": "2026-04-30",
+      "time": "19:36",
+      "summary": "Una vulnerabilitat crítica permet als atacants prendre el control total dels servidors, robant dades i esborrant pàgines web."
+    },
+    {
+      "title": "Un informe afirma que Apple \"s'ha rendit\" amb les Vision Pro",
       "link_id": "c_429c81",
       "source": "Tom's Hardware",
       "date": "2026-04-30",
       "time": "11:56",
-      "summary": "Tot i el fracàs comercial del visor de realitat mixta, la companyia continua contractant personal per a aquest departament."
+      "summary": "Les baixes vendes i el pes excessiu del dispositiu haurien portat l'empresa a aturar el desenvolupament d'aquestes ulleres."
     }
   ]
 }

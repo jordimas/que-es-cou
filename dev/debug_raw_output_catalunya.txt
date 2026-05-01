@@ -1,32 +1,32 @@
 {
-  "generated_at": "2024-05-24T12:00",
+  "generated_at": "2024-05-24T16:00",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
     {
       "name": "Ara.cat",
       "url": "https://www.ara.cat/rss/",
-      "articles_found": 11
+      "articles_found": 8
     },
     {
       "name": "El Periódico",
       "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
-      "articles_found": 8
+      "articles_found": 9
     },
     {
       "name": "RAC1",
       "url": "https://www.rac1.cat/rss/home.xml",
-      "articles_found": 1
+      "articles_found": 3
     },
     {
       "name": "La Vanguardia (en català)",
       "url": "https://www.lavanguardia.com/rss/encatala.xml",
-      "articles_found": 5
+      "articles_found": 8
     },
     {
       "name": "VilaWeb",
       "url": "https://www.vilaweb.cat/feed/",
-      "articles_found": 4
+      "articles_found": 0
     },
     {
       "name": "NacióDigital",
@@ -36,7 +36,7 @@
     {
       "name": "324.cat",
       "url": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0",
-      "articles_found": 4
+      "articles_found": 1
     },
     {
       "name": "Softcatalà",
@@ -46,12 +46,12 @@
     {
       "name": "El Nacional.cat",
       "url": "https://www.elnacional.cat/uploads/feeds/feed_ca.xml",
-      "articles_found": 9
+      "articles_found": 15
     },
     {
       "name": "El Mon.cat",
       "url": "https://www.elmon.cat/feed/",
-      "articles_found": 0
+      "articles_found": 3
     },
     {
       "name": "El Mon.cat Tecnologia",
@@ -66,7 +66,7 @@
     {
       "name": "Betevé",
       "url": "https://beteve.cat/feed/",
-      "articles_found": 1
+      "articles_found": 0
     },
     {
       "name": "El Punt Avui",
@@ -76,7 +76,7 @@
     {
       "name": "Segre",
       "url": "https://www.segre.com/ca/rss/home.xml",
-      "articles_found": 3
+      "articles_found": 2
     },
     {
       "name": "Regio7",
@@ -116,7 +116,7 @@
     {
       "name": "Cugat.cat",
       "url": "https://www.cugat.cat/feed/",
-      "articles_found": 0
+      "articles_found": 1
     },
     {
       "name": "CatalunyaPress",
@@ -126,7 +126,7 @@
     {
       "name": "Tot Barcelona",
       "url": "https://www.totbarcelona.cat/feed/",
-      "articles_found": 1
+      "articles_found": 0
     },
     {
       "name": "e-notícies",
@@ -136,7 +136,7 @@
     {
       "name": "Lleida Diari",
       "url": "https://www.lleidadiari.cat/feed/",
-      "articles_found": 0
+      "articles_found": 1
     },
     {
       "name": "Catorze",
@@ -166,12 +166,12 @@
     {
       "name": "Àpunt",
       "url": "https://www.apuntmedia.es/rss/",
-      "articles_found": 1
+      "articles_found": 0
     },
     {
       "name": "El Periòdic d'Ontinyent",
       "url": "https://www.elperiodicvalencia.com/?feed=rss2",
-      "articles_found": 0
+      "articles_found": 1
     },
     {
       "name": "Saó",
@@ -191,7 +191,7 @@
     {
       "name": "Ara Balears",
       "url": "https://www.arabalears.cat/rss/",
-      "articles_found": 4
+      "articles_found": 3
     },
     {
       "name": "Manacor Comarcal",
@@ -201,12 +201,12 @@
     {
       "name": "Via Empresa",
       "url": "https://www.viaempresa.cat/uploads/feeds/feed_via-empresa-2024_ca.xml",
-      "articles_found": 1
+      "articles_found": 4
     },
     {
       "name": "Lúdica",
       "url": "https://ludica.cat/feed/",
-      "articles_found": 0
+      "articles_found": 1
     },
     {
       "name": "Accent Obert",
@@ -216,52 +216,28 @@
   ],
   "articles": [
     {
-      "title": "Una avaria a la subestació de Sant Andreu deixa 90.000 clients sense llum durant una hora a Barcelona",
-      "link_id": "c_3c5a0e",
-      "source": "VilaWeb",
-      "date": "2026-04-30",
-      "time": "10:33",
-      "summary": "Endesa ha resolt ràpidament la incidència en una línia d'alta tensió que ha afectat milers de barcelonins."
+      "title": "La intel·ligència artificial ja pren millors decisions que els metges a urgències, segons un estudi de Harvard",
+      "link_id": "c_d329ba",
+      "source": "El Nacional.cat",
+      "date": "2026-05-01",
+      "time": "13:46",
+      "summary": "Tot i l'alta precisió del sistema d'OpenAI, els experts remarquen que la supervisió humana continua sent imprescindible."
     },
     {
-      "title": "Mor als 79 anys el científic Craig Venter, pare del genoma humà",
-      "link_id": "c_da1f05",
-      "source": "Àpunt",
-      "date": "2026-04-30",
-      "time": "08:43",
-      "summary": "El reconegut investigador nord-americà, pioner en biologia sintètica i genètica, deixa un llegat científic inesborrable."
+      "title": "Milions de feines en joc per la IA: què diu l’últim informe",
+      "link_id": "c_91e322",
+      "source": "Lleida Diari",
+      "date": "2026-05-01",
+      "time": "11:09",
+      "summary": "L'estudi adverteix que la creació de noves ocupacions tecnològiques no arribarà a compensar la pèrdua de llocs tradicionals."
     },
     {
-      "title": "«Vaig ser ximple»: totes les claus de la declaració d’Elon Musk en el seu judici contra OpenAI",
-      "link_id": "c_f0b379",
-      "source": "El Periódico",
-      "date": "2026-04-30",
-      "time": "11:56",
-      "summary": "El magnat s'enfronta a l'empresa que va cofundar, en un litigi que podria redefinir el futur de la IA."
-    },
-    {
-      "title": "OpenAI sacseja el mercat i es deslliga de Microsoft per créixer amb nous aliats",
-      "link_id": "c_27ee25",
-      "source": "MetaData",
-      "date": "2026-04-28",
-      "time": "11:40",
-      "summary": "La creadora de ChatGPT busca expandir-se col·laborant amb gegants com Google i Amazon, trencant la seva exclusivitat."
-    },
-    {
-      "title": "Revolut aposta per Barcelona i Catalunya amb la seva primera botiga física al món",
-      "link_id": "c_ff9a7d",
-      "source": "MetaData",
-      "date": "2026-04-28",
-      "time": "16:15",
-      "summary": "El neobanc britànic consolida la seva presència al territori oferint atenció presencial i incorporant plenament la llengua catalana."
-    },
-    {
-      "title": "La IA podria destruir fins a 2,3 milions de llocs de treball a l’Estat espanyol en una dècada",
-      "link_id": "c_bec7f5",
-      "source": "MetaData",
-      "date": "2026-04-30",
-      "time": "12:10",
-      "summary": "Un informe alerta que l'automatització afectarà especialment els perfils qualificats, superant la capacitat de crear nova ocupació."
+      "title": "Google també deixarà fer servir la seva IA a les Forces Armades dels Estats Units",
+      "link_id": "c_32f726",
+      "source": "El Nacional.cat",
+      "date": "2026-05-01",
+      "time": "02:02",
+      "summary": "Aquesta decisió polèmica s'alinea amb els moviments recents d'altres gegants tecnològics, malgrat les fortes crítiques internes dels treballadors."
     },
     {
       "title": "Així funcionarà a Espanya l’aplicació per verificar l’edat dels usuaris a internet",
@@ -269,7 +245,7 @@
       "source": "El Periódico",
       "date": "2026-04-29",
       "time": "13:19",
-      "summary": "La Comissió Europea avala la nova eina tecnològica que bloquejarà l'accés dels menors de setze anys a les xarxes."
+      "summary": "La Comissió Europea ha validat aquesta eina tecnològica, accelerant la prohibició d'accés a xarxes socials per als menors."
     },
     {
       "title": "Primer pas per desplegar un gran Bicing arreu de l’àrea metropolitana",
@@ -277,23 +253,47 @@
       "source": "La Vanguardia (en català)",
       "date": "2026-04-29",
       "time": "05:11",
-      "summary": "L'AMB projecta integrar els diferents serveis de bicicletes compartides abans del 2030 per millorar la mobilitat sostenible."
+      "summary": "El nou pla de mobilitat preveu integrar els diferents serveis de bicicletes compartides abans de l'any 2030."
     },
     {
-      "title": "Majorel vol acomiadar 769 treballadors, 356 dels quals a Barcelona, amb un nou ERO",
-      "link_id": "c_93a510",
-      "source": "VilaWeb",
-      "date": "2026-04-30",
-      "time": "00:47",
-      "summary": "L'empresa justifica la dràstica retallada de plantilla per raons econòmiques i organitzatives, obrint un tens període de consultes."
-    },
-    {
-      "title": "La catalana Wallbox s'alia amb Jeff Bezos",
-      "link_id": "c_43c894",
+      "title": "Cansat que Google et recomani sempre els mateixos mitjans? Ara ja els pots triar tu",
+      "link_id": "c_db2a8b",
       "source": "Ara.cat",
       "date": "2026-04-30",
-      "time": "11:25",
-      "summary": "L'empresa de carregadors elèctrics subministrarà equips fabricats a Barcelona a la companyia Slate Auto, participada pel magnat nord-americà."
+      "time": "14:52",
+      "summary": "La nova funció permet als usuaris personalitzar l'algoritme per donar prioritat a les seves fonts d'informació preferides."
+    },
+    {
+      "title": "bp pulse instal·larà al 22@ el \"hub de recàrrega pública ultraràpida més gran\" de Barcelona",
+      "link_id": "c_4126fb",
+      "source": "Via Empresa",
+      "date": "2026-05-01",
+      "time": "11:36",
+      "summary": "Aquesta infraestructura clau per al vehicle elèctric començarà a operar enguany amb sis punts d'alta potència al districte."
+    },
+    {
+      "title": "Onada de noves amenaces a la ciberseguretat",
+      "link_id": "c_e418e2",
+      "source": "Ara.cat",
+      "date": "2026-05-01",
+      "time": "10:54",
+      "summary": "Les vulnerabilitats en l'antiga arquitectura de les xarxes mòbils permeten rastrejar usuaris sense necessitat d'instal·lar cap programari espia."
+    },
+    {
+      "title": "Els deutes a curt termini posen en dubte la liquiditat de la catalana Parlem",
+      "link_id": "c_0316cb",
+      "source": "Ara.cat",
+      "date": "2026-04-30",
+      "time": "19:56",
+      "summary": "El venciment d'uns crèdits milionaris d'Inveready complica el futur financer de l'operadora després de descartar-se la fusió."
+    },
+    {
+      "title": "El Banc Sabadell tanca la venda de TSB al Santander per 3.300 milions d’euros",
+      "link_id": "c_5286a4",
+      "source": "Cugat.cat",
+      "date": "2026-05-01",
+      "time": "07:33",
+      "summary": "L'operació estratègica permet a l'entitat catalana desprendre's de la seva filial britànica i reforçar el seu balanç econòmic."
     }
   ]
 }
