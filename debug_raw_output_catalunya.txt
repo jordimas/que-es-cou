@@ -1,64 +1,16 @@
 {
-  "generated_at": "2024-05-24T18:00",
+  "generated_at": "2026-05-01T10:00",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Diversos barris de Barcelona es queden sense llum per una avaria tècnica en una subestació de Sant Andreu",
-      "link_id": "c_e06721",
-      "source": "RAC1",
-      "date": "2026-04-30",
-      "time": "12:06",
-      "summary": "Una incidència a Sant Andreu deixa 90.000 abonats sense subministrament elèctric durant el matí de dijous."
-    },
-    {
-      "title": "Microtalls de llum en diferents indrets de Catalunya un any després de la gran apagada",
-      "link_id": "c_ce6296",
-      "source": "El Punt Avui",
-      "date": "2026-04-30",
-      "time": "11:17",
-      "summary": "Diverses poblacions pateixen talls breus de llum just un any després de la gran apagada massiva al país."
-    },
-    {
-      "title": "La IA podria destruir fins a 2,3 milions de llocs de treball a l’Estat espanyol en una dècada",
-      "link_id": "c_bec7f5",
-      "source": "MetaData",
-      "date": "2026-04-30",
-      "time": "12:10",
-      "summary": "Un informe alerta que la creació de nova ocupació no compensarà l'impacte negatiu en els perfils més qualificats."
-    },
-    {
-      "title": "Un estudi del Deutsche Bank afirma que el títol universitari ja no és garantia d’èxit laboral després de la irrupció de la IA",
-      "link_id": "c_aeaf48",
-      "source": "El Periódico",
-      "date": "2026-04-28",
-      "time": "18:00",
-      "summary": "La intel·ligència artificial esdevé un requisit excloent, generant subocupació entre els joves graduats malgrat la seva formació superior."
-    },
-    {
-      "title": "Així funcionarà a Espanya l’aplicació per verificar l’edat dels usuaris a internet",
-      "link_id": "c_87b16c",
-      "source": "El Periódico",
-      "date": "2026-04-29",
-      "time": "13:19",
-      "summary": "La Comissió Europea ja té a punt la solució tecnològica per prohibir l'accés a xarxes als menors de setze anys."
-    },
-    {
-      "title": "Per què internet s’ha convertiten un lloc més inestable i perillós",
-      "link_id": "c_84ce85",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-04-30",
-      "time": "10:55",
-      "summary": "L'augment dels talls de connexió i les amenaces derivades de la IA posen en risc la ciberseguretat global."
-    },
-    {
-      "title": "La ciberseguretat a Catalunya es tensiona: els incidents gairebé es dupliquen el 2025",
-      "link_id": "c_6047c9",
-      "source": "MetaData",
-      "date": "2026-04-27",
-      "time": "09:19",
-      "summary": "L'Agència de Ciberseguretat ha gestionat més de sis mil incidents, afectant especialment el sector universitari català."
+      "title": "Google també deixarà fer servir la seva IA a les Forces Armades dels Estats Units",
+      "link_id": "c_32f726",
+      "source": "El Nacional.cat",
+      "date": "2026-05-01",
+      "time": "02:02",
+      "summary": "El gegant tecnològic s'uneix a OpenAI i xAI per proporcionar models d'intel·ligència artificial avançats al Pentàgon nord-americà."
     },
     {
       "title": "OpenAI sacseja el mercat i es deslliga de Microsoft per créixer amb nous aliats",
@@ -66,15 +18,47 @@
       "source": "MetaData",
       "date": "2026-04-28",
       "time": "11:40",
-      "summary": "L'empresa creadora de ChatGPT busca expandir-se cap al maquinari i diversificar les seves aliances estratègiques al sector."
+      "summary": "La creadora de ChatGPT busca expandir-se col·laborant amb Google i Amazon, preparant també nous productes de maquinari propis."
     },
     {
-      "title": "OpenAI trenca la seva exclusivitat amb Microsoft i obre la porta a acords amb Google i Amazon",
-      "link_id": "c_c23606",
+      "title": "La IA podria destruir fins a 2,3 milions de llocs de treball a l’Estat espanyol en una dècada",
+      "link_id": "c_bec7f5",
+      "source": "MetaData",
+      "date": "2026-04-30",
+      "time": "12:10",
+      "summary": "Un informe de Funcas adverteix que la nova ocupació generada no compensarà les pèrdues, afectant especialment els perfils qualificats."
+    },
+    {
+      "title": "Un estudi del Deutsche Bank afirma que el títol universitari ja no és garantia d’èxit laboral després de la irrupció de la IA",
+      "link_id": "c_aeaf48",
       "source": "El Periódico",
+      "date": "2026-04-28",
+      "time": "18:00",
+      "summary": "La intel·ligència artificial esdevé un requisit excloent, relegant molts joves graduats a feines per sota de la seva formació."
+    },
+    {
+      "title": "Així funcionarà a Espanya l’aplicació per verificar l’edat dels usuaris a internet",
+      "link_id": "c_87b16c",
+      "source": "El Periódico",
+      "date": "2026-04-29",
+      "time": "13:19",
+      "summary": "La Comissió Europea ja té a punt la solució tecnològica per bloquejar l'accés dels menors de setze anys a xarxes."
+    },
+    {
+      "title": "La ciberseguretat a Catalunya es tensiona: els incidents gairebé es dupliquen el 2025",
+      "link_id": "c_6047c9",
+      "source": "MetaData",
       "date": "2026-04-27",
-      "time": "16:53",
-      "summary": "Aquest canvi d'estratègia permetrà a la companyia d'intel·ligència artificial col·laborar amb els principals competidors del gegant informàtic."
+      "time": "09:19",
+      "summary": "L'Agència de Ciberseguretat va gestionar més de sis mil atacs, sent l'entorn universitari un dels objectius principals dels cibercriminals."
+    },
+    {
+      "title": "La intel·ligència artificial ja pot prendre millors decisions que els metges d'urgències, segons un estudi de Harvard",
+      "link_id": "c_55b110",
+      "source": "RAC1",
+      "date": "2026-04-30",
+      "time": "20:50",
+      "summary": "El sistema d'OpenAI assoleix un vuitanta per cent d'encert en els diagnòstics, superant en un deu per cent els professionals."
     },
     {
       "title": "Mor J. Craig Venter, un científic clau que va desxifrar el genoma humà",
@@ -82,7 +66,23 @@
       "source": "Ara.cat",
       "date": "2026-04-30",
       "time": "06:23",
-      "summary": "L'emprenedor nord-americà, fonamental en la investigació genètica, ha mort als setanta-nou anys a causa d'un càncer."
+      "summary": "L'emprenedor nord-americà, pioner en la investigació genètica, ha mort als setanta-nou anys a causa d'un tractament contra el càncer."
+    },
+    {
+      "title": "Els deutes a curt termini posen en dubte la liquiditat de la catalana Parlem",
+      "link_id": "c_0316cb",
+      "source": "Ara.cat",
+      "date": "2026-04-30",
+      "time": "19:56",
+      "summary": "La companyia de telecomunicacions afronta venciments de crèdits per setze milions d'euros després de descartar la integració amb Avatel."
+    },
+    {
+      "title": "El primer dilema de John Ternus com a nou CEO d'Apple serà què fer amb el Vision Pro",
+      "link_id": "c_821ea8",
+      "source": "El Nacional.cat",
+      "date": "2026-05-01",
+      "time": "02:01",
+      "summary": "El nou director executiu haurà de decidir el futur de les ulleres de realitat mixta després del seu escàs èxit."
     }
   ]
 }

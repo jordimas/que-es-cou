@@ -1,88 +1,88 @@
 {
-  "generated_at": "2024-05-24T18:00",
+  "generated_at": "2024-05-24T18:50",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Meta s'enfonsa un 9% i Alphabet puja un 7% en augmentar la despesa de capital",
+      "title": "Tim Cook, CEO d'Apple, adverteix d'una crisi prolongada de memòria",
+      "link_id": "c_364338",
+      "source": "CNBC Technology",
+      "date": "2026-05-01",
+      "time": "07:00",
+      "summary": "L'escassetat de components podria afectar la producció futura, obligant l'empresa a buscar noves estratègies de subministrament."
+    },
+    {
+      "title": "Google tanca el seu millor mes des de 2004 amb una pujada del 34% d'Alphabet",
       "link_id": "c_4988b1",
       "source": "CNBC Technology",
       "date": "2026-04-30",
-      "time": "16:49",
-      "summary": "Els inversors castiguen Zuckerberg mentre premien Google, evidenciant diferents percepcions sobre el retorn de les inversions en intel·ligència artificial."
+      "time": "20:11",
+      "summary": "Els inversors premien l'augment de la despesa en intel·ligència artificial de l'empresa, contrastant amb la caiguda de Meta."
     },
     {
-      "title": "El retorn de la inversió en IA de les grans tecnològiques podria estar a prop",
-      "link_id": "c_4277bd",
+      "title": "Japan Airlines prova robots humanoides a l'aeroport de Haneda per la manca de personal",
+      "link_id": "c_bd5af3",
+      "source": "CNBC Technology",
+      "date": "2026-05-01",
+      "time": "06:58",
+      "summary": "L'envelliment de la població japonesa impulsa l'automatització dels serveis de terra per mantenir l'eficiència operativa."
+    },
+    {
+      "title": "Les accions del fabricant de vàters japonès Toto es disparen pel seu gir cap a la IA",
+      "link_id": "c_919e51",
       "source": "Financial Times",
-      "date": "2026-04-30",
-      "time": "16:16",
-      "summary": "Els recents resultats trimestrals suggereixen que les fortes injeccions de capital ja comencen a traduir-se en un creixement real."
+      "date": "2026-05-01",
+      "time": "05:17",
+      "summary": "L'empresa diversifica el seu negoci i augmentarà la producció de components per a semiconductors, entusiasmant els mercats."
     },
     {
-      "title": "El creixement al núvol de Google supera Microsoft i Amazon impulsat per la IA",
-      "link_id": "c_8e9d69",
+      "title": "La guerra de preus dels vehicles elèctrics xinesos deriva en una cursa armamentística d'IA",
+      "link_id": "c_c95f91",
+      "source": "CNBC Technology",
+      "date": "2026-05-01",
+      "time": "04:19",
+      "summary": "Les funcions intel·ligents integrades als cotxes esdevenen el nou camp de batalla per diferenciar-se en un mercat saturat."
+    },
+    {
+      "title": "Les vendes de xips de Huawei augmentaran un 60% mentre les tecnològiques xineses eviten Nvidia",
+      "link_id": "c_788f25",
+      "source": "Financial Times",
+      "date": "2026-05-01",
+      "time": "00:15",
+      "summary": "Les restriccions comercials afavoreixen els processadors d'intel·ligència artificial locals, consolidant la independència tecnològica del gegant asiàtic."
+    },
+    {
+      "title": "El CEO de Reddit qualifica la seva empresa com \"el combustible\" de la intel·ligència artificial",
+      "link_id": "c_4080b3",
       "source": "CNBC Technology",
       "date": "2026-04-30",
-      "time": "15:58",
-      "summary": "L'acceleració de la demanda tecnològica ha permès als tres gegants batre les expectatives de beneficis durant el primer trimestre."
+      "time": "22:48",
+      "summary": "L'extens arxiu de converses humanes de la plataforma esdevé un recurs clau per entrenar els nous models lingüístics."
     },
     {
-      "title": "SoftBank valora la seva nova filial d'IA i robòtica en 100.000 milions de dòlars",
-      "link_id": "c_c45b84",
+      "title": "Veeva Systems s'unirà a l'índex S&P 500, substituint Coterra Energy",
+      "link_id": "c_97e64f",
       "source": "CNBC Technology",
       "date": "2026-04-30",
-      "time": "05:12",
-      "summary": "L'empresa nipona planeja una sortida a borsa als Estats Units per a \"Roze\", buscant capitalitzar l'auge de l'automatització."
+      "time": "22:40",
+      "summary": "Aquesta incorporació arriba malgrat els recents temors dels inversors sobre l'impacte de la IA en el programari al núvol."
     },
     {
-      "title": "SoftBank planeja treure a borsa una nova empresa d'IA i robòtica als Estats Units",
-      "link_id": "c_66b902",
-      "source": "Financial Times",
-      "date": "2026-04-29",
-      "time": "23:28",
-      "summary": "Masayoshi Son accelera els tràmits per llançar l'oferta pública inicial aquest mateix any, consolidant la seva aposta tecnològica."
+      "title": "Les accions d'Intel es dupliquen a l'abril, el seu millor mes en 55 anys al Nasdaq",
+      "link_id": "c_5eef42",
+      "source": "CNBC Technology",
+      "date": "2026-04-30",
+      "time": "20:10",
+      "summary": "Els excel·lents resultats financers generen un gran optimisme sobre el renaixement i la competitivitat futura del fabricant de xips."
     },
     {
-      "title": "Les accions de Blue Owl es disparen en anunciar guanys multiplicats per deu amb SpaceX",
+      "title": "Les accions de Blue Owl es disparen després d'anunciar guanys multiplicats per deu amb SpaceX",
       "link_id": "c_cf5e21",
       "source": "CNBC Technology",
       "date": "2026-04-30",
-      "time": "17:10",
-      "summary": "L'èxit d'aquesta inversió de crèdit privat anticipa una sortida a borsa històrica per a la companyia aeroespacial d'Elon Musk."
-    },
-    {
-      "title": "Gemini aposta per l'expansió dels derivats després d'obtenir l'aprovació clau dels reguladors nord-americans",
-      "link_id": "c_d2710b",
-      "source": "CNBC Technology",
-      "date": "2026-04-30",
-      "time": "16:06",
-      "summary": "La plataforma busca estabilitzar els seus ingressos mitjançant contractes de futurs, reduint així la dependència de la volatilitat criptogràfica."
-    },
-    {
-      "title": "Apple preveu un creixement de l'iPhone en els primers resultats des de l'anunciada sortida de Tim Cook",
-      "link_id": "c_5037b0",
-      "source": "CNBC Technology",
-      "date": "2026-04-30",
-      "time": "16:00",
-      "summary": "S'espera un augment del 20% en els ingressos del seu dispositiu estrella, demostrant la fortalesa comercial de la marca."
-    },
-    {
-      "title": "Les accions de Qualcomm volen un 16% gràcies a les comandes de la Xina i nous clients",
-      "link_id": "c_eca89d",
-      "source": "CNBC Technology",
-      "date": "2026-04-30",
-      "time": "14:53",
-      "summary": "L'avançament en l'enviament de xips per a centres de dades i la recuperació del mercat asiàtic disparen l'optimisme."
-    },
-    {
-      "title": "Elogi als esvalotadors del sector tecnològic",
-      "link_id": "c_5294d6",
-      "source": "Financial Times",
-      "date": "2026-04-30",
-      "time": "14:20",
-      "summary": "Davant la manca de límits directius, els empleats assumeixen el deure ètic d'evitar els usos més perillosos de la IA."
+      "time": "19:36",
+      "summary": "L'èxit de la inversió destaca l'atractiu del sector aeroespacial privat abans de la sortida a borsa de SpaceX."
     }
   ]
 }

@@ -1,88 +1,109 @@
 {
-  "generated_at": "2026-04-30T20:07",
+  "generated_at": "2026-05-01T10:53",
   "id": "world",
   "title": "Notícies tecnològiques del món",
-  "sources_checked": [],
+  "sources_checked": [
+    {
+      "name": "AnandTech",
+      "url": "https://www.anandtech.com/rss/",
+      "articles_found": 0
+    },
+    {
+      "name": "Wall Street Journal Tech",
+      "url": "https://feeds.a.dj.com/rss/RSSWSJD.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "Gizmodo",
+      "url": "https://www.gizmodo.com/feed/rss",
+      "articles_found": 0
+    },
+    {
+      "name": "Slashdot",
+      "url": "https://slashdot.org/rss/slashdot.rss",
+      "articles_found": 0
+    }
+  ],
   "articles": [
     {
-      "title": "Elon Musk testifica que xAI va entrenar Grok amb models d'OpenAI",
-      "link_id": "c_0e2962",
+      "title": "Mentre Tim Cook plega, Apple assoleix vendes rècord, però s'acosta una escassetat de xips",
+      "link_id": "c_5a52f2",
       "source": "TechCrunch",
       "date": "2026-04-30",
-      "time": "18:03",
-      "summary": "La destil·lació de dades és clau mentre els grans laboratoris intenten evitar que els competidors copiïn els seus models."
+      "time": "23:59",
+      "summary": "La forta demanda d'ordinadors Mac impulsada per la IA ha esgotat l'estoc, complicant la transició de lideratge."
     },
     {
-      "title": "Motorola Razr Ultra (2026) vs. Samsung Galaxy Z Flip 7: he provat tots dos i hi ha un clar guanyador",
-      "link_id": "c_4124fd",
-      "source": "ZDNet",
+      "title": "Les advertències d'Elon Musk sobre el perill de la IA topen amb límits al judici d'OpenAI",
+      "link_id": "c_a8ee52",
+      "source": "NYT Technology",
       "date": "2026-04-30",
-      "time": "17:13",
-      "summary": "Samsung aposta per la durabilitat i la IA, mentre que el nou telèfon de Motorola destaca pel seu maquinari."
+      "time": "23:24",
+      "summary": "El magnat acusa Sam Altman d'abandonar els principis sense ànim de lucre, mentre la defensa qüestiona les seves motivacions."
     },
     {
-      "title": "Una de les millors funcions de YouTube Premium arriba finalment als usuaris gratuïts",
-      "link_id": "c_92744a",
-      "source": "TechRadar",
+      "title": "La bateria de 6.000 mAh del Razr Fold hauria de preocupar Samsung i Google: aquest és el motiu",
+      "link_id": "c_fc22a1",
+      "source": "Digital Trends",
       "date": "2026-04-30",
-      "time": "11:40",
-      "summary": "Google ofereix la visualització d'imatge en imatge a tots els usuaris globalment, eliminant un dels avantatges de Premium Lite."
+      "time": "23:35",
+      "summary": "La nova línia de telèfons plegables de Motorola ofereix una autonomia superior, desafiant el domini dels seus principals rivals."
     },
     {
-      "title": "Per què importa el problema dels 'follets' d'OpenAI i com pots alliberar-los tu mateix",
-      "link_id": "c_1eddfd",
-      "source": "VentureBeat",
+      "title": "OpenAI explica per què ChatGPT va estar obsessionat amb els follets durant un temps",
+      "link_id": "c_fd0ced",
+      "source": "Android Authority",
       "date": "2026-04-30",
-      "time": "17:11",
-      "summary": "Un error d'entrenament va fer que els models d'OpenAI s'obsessionessin amb els follets en intentar donar-los una personalitat més 'friqui'."
+      "time": "19:26",
+      "summary": "Un error en l'entrenament de la personalitat \"nerd\" del model va provocar respostes estranyes sobre criatures fantàstiques."
     },
     {
-      "title": "Spotify llança una insígnia de verificació per a artistes, i els comptes d'IA no hi podran optar",
-      "link_id": "c_096321",
+      "title": "GM incorpora Google Gemini perquè els conductors accelerin amb l'assistent d'IA",
+      "link_id": "c_90a342",
+      "source": "CNET",
+      "date": "2026-04-30",
+      "time": "18:29",
+      "summary": "Aquesta integració permetrà converses més naturals i un control intel·ligent del vehicle, millorant l'experiència al volant."
+    },
+    {
+      "title": "Elusió d'autenticació a cPanel i WHM – CVE-2026-41940",
+      "link_id": "c_b05744",
+      "source": "Hacker News",
+      "date": "2026-04-30",
+      "time": "22:48",
+      "summary": "Una vulnerabilitat crítica permet als pirates informàtics prendre el control total de milions de llocs web sense credencials."
+    },
+    {
+      "title": "OpenAI ara permet bloquejar el compte de ChatGPT amb una clau de maquinari",
+      "link_id": "c_9de3b5",
       "source": "The Next Web",
       "date": "2026-04-30",
-      "time": "17:08",
-      "summary": "La nova marca verda exigirà una presència real i identificable per distingir els creadors humans de la música generada artificialment."
+      "time": "19:04",
+      "summary": "Aquesta mesura extrema elimina les contrasenyes tradicionals per protegir els usuaris contra atacs de pesca i robatoris de dades."
     },
     {
-      "title": "L'assistent d'IA Gemini de Google arriba a la carretera en milions de vehicles",
-      "link_id": "c_e33ec8",
-      "source": "TechCrunch",
+      "title": "L'Xbox Ally X rep la seva pròpia tecnologia d'escalat d'imatges rival de DLSS, entre altres actualitzacions",
+      "link_id": "c_074ca3",
+      "source": "Digital Trends",
       "date": "2026-04-30",
-      "time": "17:46",
-      "summary": "Aquesta actualització permetrà converses més naturals i un control més intel·ligent de les funcions integrades del cotxe durant la conducció."
+      "time": "18:57",
+      "summary": "Microsoft introdueix la resolució súper automàtica a Windows 11 per millorar el rendiment dels jocs en dispositius portàtils."
     },
     {
-      "title": "La inversió de Google, Microsoft, Meta i Amazon assolirà els 725.000 milions el 2026, un 77% més",
-      "link_id": "c_6d1d8a",
-      "source": "Tom's Hardware",
-      "date": "2026-04-30",
-      "time": "13:18",
-      "summary": "Les grans tecnològiques disparen la seva despesa en infraestructures per satisfer la creixent demanda de centres de dades d'IA."
-    },
-    {
-      "title": "Samsung suposadament abandonarà Windows als seus portàtils Galaxy Book",
+      "title": "S'informa que Samsung abandonarà Windows als seus portàtils Galaxy Book",
       "link_id": "c_03877e",
       "source": "PCWorld",
       "date": "2026-04-30",
       "time": "16:28",
-      "summary": "Els futurs ordinadors de la marca podrien funcionar amb Android 17 i One UI 9 per unificar el seu ecosistema."
+      "summary": "La companyia sud-coreana podria adoptar un sistema basat en Android per unificar l'ecosistema amb els seus telèfons intel·ligents."
     },
     {
-      "title": "Netflix estrena 'Clips', el seu propi canal de vídeos verticals per allunyar-te de TikTok i Reels",
-      "link_id": "c_936414",
-      "source": "Digital Trends",
-      "date": "2026-04-30",
-      "time": "13:51",
-      "summary": "Aquesta nova funció permetrà als usuaris descobrir sèries mitjançant fragments curts i saltar directament als episodis complets des de l'aplicació."
-    },
-    {
-      "title": "Apple suposadament abandona les ulleres Vision Pro",
+      "title": "S'informa que Apple abandona les ulleres Vision Pro",
       "link_id": "c_716c47",
       "source": "Computerworld",
       "date": "2026-04-30",
       "time": "13:44",
-      "summary": "La companyia hauria aturat el desenvolupament del visor de realitat mixta a causa de les baixes vendes del model actualitzat."
+      "summary": "Les baixes vendes, l'elevat preu i el pes del dispositiu haurien forçat la cancel·lació d'aquest ambiciós projecte de realitat mixta."
     }
   ]
 }
