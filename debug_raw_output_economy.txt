@@ -1,32 +1,24 @@
 {
-  "generated_at": "2024-05-24T16:00",
+  "generated_at": "2024-05-24T18:50",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "El Pentàgon firma nous acords d'IA militar amb Nvidia, Microsoft i Amazon",
-      "link_id": "c_d8086a",
-      "source": "Financial Times",
-      "date": "2026-05-01",
-      "time": "13:19",
-      "summary": "Aquests contractes arriben després de les tensions amb Anthropic, marcant un canvi estratègic en la defensa tecnològica nord-americana."
-    },
-    {
-      "title": "El cap tecnològic del Pentàgon manté el veto a Anthropic, però n'exclou Mythos",
-      "link_id": "c_18d244",
+      "title": "El testimoni de Musk domina la primera setmana del judici contra Altman",
+      "link_id": "c_6b72eb",
       "source": "CNBC Technology",
-      "date": "2026-05-01",
-      "time": "12:51",
-      "summary": "El Departament de Defensa diversifica els seus proveïdors d'intel·ligència artificial aliant-se amb set noves empreses del sector."
+      "date": "2026-05-02",
+      "time": "12:00",
+      "summary": "Elon Musk va declarar durant tres dies en el seu judici contra el conseller delegat d'OpenAI, Sam Altman."
     },
     {
-      "title": "Els ajuntaments anglesos provaran una IA de Google per agilitzar decisions urbanístiques",
+      "title": "Ajuntaments anglesos provaran una eina d'IA de Google per agilitzar decisions urbanístiques",
       "link_id": "c_5a07f8",
       "source": "Financial Times",
       "date": "2026-05-02",
       "time": "04:00",
-      "summary": "L'eina automatitzarà l'avaluació de projectes per reduir la burocràcia i accelerar les resolucions en l'àmbit de la construcció."
+      "summary": "La intel·ligència artificial recomanarà si s'han d'aprovar o denegar els nous projectes de planificació per accelerar els tràmits."
     },
     {
       "title": "La lluita pels centres de dades al cor de les ciutats japoneses",
@@ -34,47 +26,31 @@
       "source": "Financial Times",
       "date": "2026-05-02",
       "time": "04:00",
-      "summary": "L'expansió d'infraestructures per a intel·ligència artificial genera tensions veïnals a causa de l'impacte urbà i mediambiental."
+      "summary": "El Japó es prepara per un gran augment d'instal·lacions d'IA, generant queixes entre els residents locals propers."
     },
     {
-      "title": "Estan segurs els teus diners davant d'un ciberatac?",
+      "title": "Fins a quin punt estan segurs els teus diners dels ciberatacs?",
       "link_id": "c_8805a2",
       "source": "Financial Times",
       "date": "2026-05-02",
       "time": "04:00",
-      "summary": "La capacitat dels nous models d'IA per detectar fallades de programari obliga la banca a reforçar-ne la protecció."
+      "summary": "El model d'IA Mythos de Claude augmenta el risc en descobrir noves vulnerabilitats en el programari financer."
     },
     {
-      "title": "Apple atribueix l'augment de vendes a l'iPhone \"més popular\" de la història",
+      "title": "Apple atribueix el creixement de vendes a l'iPhone \"més popular\" de la història",
       "link_id": "c_35dc6b",
       "source": "Financial Times",
       "date": "2026-05-01",
       "time": "20:07",
-      "summary": "El futur conseller delegat, John Ternus, promet mantenir la disciplina estratègica per consolidar el creixement rècord de l'empresa."
+      "summary": "John Ternus promet mantenir la disciplina en les seves primeres declaracions després de ser nomenat futur conseller delegat."
     },
     {
-      "title": "Les accions d'Atlassian es disparen un 29% gràcies al creixement del núvol i centres de dades",
+      "title": "Les accions d'Atlassian es disparen un 29% gràcies al fort creixement del núvol",
       "link_id": "c_6b03df",
       "source": "CNBC Technology",
       "date": "2026-05-01",
       "time": "19:21",
-      "summary": "Els excel·lents resultats trimestrals allunyen els temors sobre l'impacte negatiu de la intel·ligència artificial en el seu model."
-    },
-    {
-      "title": "L'ascens irresistible de la intel·ligència artificial com a autora",
-      "link_id": "c_b26f73",
-      "source": "Financial Times",
-      "date": "2026-05-01",
-      "time": "16:09",
-      "summary": "L'adaptació als textos generats per màquines transformarà profundament la nostra manera de comunicar-nos i treballar diàriament."
-    },
-    {
-      "title": "Les accions de xips pugen en un mes \"històric\" en dissipar-se els temors sobre la IA",
-      "link_id": "c_7e8aa0",
-      "source": "CNBC Technology",
-      "date": "2026-05-01",
-      "time": "12:41",
-      "summary": "La recuperació del sector dels semiconductors a l'abril reflecteix una renovada confiança en les inversions tecnològiques globals."
+      "summary": "L'empresa supera les pors de la disrupció de la IA amb uns resultats sòlids en centres de dades."
     }
   ]
 }

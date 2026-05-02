@@ -2,87 +2,108 @@
   "generated_at": "2024-05-24T18:00",
   "id": "world",
   "title": "Notícies tecnològiques del món",
-  "sources_checked": [],
+  "sources_checked": [
+    {
+      "name": "AnandTech",
+      "url": "https://www.anandtech.com/rss/",
+      "articles_found": 0
+    },
+    {
+      "name": "Wall Street Journal Tech",
+      "url": "https://feeds.a.dj.com/rss/RSSWSJD.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "Gizmodo",
+      "url": "https://www.gizmodo.com/feed/rss",
+      "articles_found": 0
+    },
+    {
+      "name": "Slashdot",
+      "url": "https://slashdot.org/rss/slashdot.rss",
+      "articles_found": 0
+    }
+  ],
   "articles": [
     {
-      "title": "Apple encareix el Mac mini sense apujar-ne el preu",
-      "link_id": "c_656089",
+      "title": "El Mac mini de 599 $ d'Apple ha desaparegut. La culpa és dels agents d'IA.",
+      "link_id": "c_4e6c3e",
+      "source": "The Next Web",
+      "date": "2026-05-02",
+      "time": "07:24",
+      "summary": "L'alta demanda d'eines d'IA local ha esgotat l'estoc, obligant Apple a apujar el preu base a 799 $."
+    },
+    {
+      "title": "El cas de Musk contra OpenAI aterra amb dificultats en la seva primera setmana",
+      "link_id": "c_3842df",
+      "source": "The Next Web",
+      "date": "2026-05-02",
+      "time": "07:38",
+      "summary": "El judici revela tensions i contradiccions, incloent-hi que xAI entrena els seus models amb dades d'OpenAI."
+    },
+    {
+      "title": "Creus que el \"vibe-coding\" et farà ric? Potser hauries de llegir l'informe de riscos",
+      "link_id": "c_3101f5",
       "source": "Digital Trends",
       "date": "2026-05-02",
-      "time": "00:05",
-      "summary": "L'empresa ha descatalogat el model base de 599 dòlars a causa de l'escassetat de memòria i l'alta demanda."
+      "time": "14:58",
+      "summary": "Programar amb IA generativa comporta greus riscos de seguretat, proves i qualitat del codi a llarg termini."
     },
     {
-      "title": "El Pentàgon afirma que l'exèrcit dels EUA prioritzarà la intel·ligència artificial",
-      "link_id": "c_78cd83",
-      "source": "BBC Technology",
-      "date": "2026-05-01",
-      "time": "21:09",
-      "summary": "S'han signat acords amb grans tecnològiques per desplegar models avançats en xarxes militars classificades i millorar-ne les capacitats."
-    },
-    {
-      "title": "El judici de Musk contra OpenAI topa amb dificultats la primera setmana",
-      "link_id": "c_020b3a",
-      "source": "Bloomberg Technology",
-      "date": "2026-05-02",
-      "time": "00:24",
-      "summary": "El magnat afronta interrogatoris tensos mentre intenta demostrar que Sam Altman el va enganyar sobre el model de l'empresa."
-    },
-    {
-      "title": "Un perillós exploit de Linux dona accés d'arrel a innombrables ordinadors",
-      "link_id": "c_1c0707",
+      "title": "Waymo intenta frenar els viatges de nens sols en cotxes autònoms",
+      "link_id": "c_0cb1dc",
       "source": "Wired",
       "date": "2026-05-01",
-      "time": "20:30",
-      "summary": "La vulnerabilitat CopyFail afecta gairebé totes les distribucions des del 2017, permetent als pirates informàtics controlar servidors fàcilment."
+      "time": "22:25",
+      "summary": "Califòrnia endurirà les lleis per multar els vehicles autònoms, mentre Waymo millora la verificació d'edat dels passatgers."
     },
     {
-      "title": "Les últimes actualitzacions de l'Oura Ring informaran sobre anticoncepció i menopausa",
-      "link_id": "c_e54b3e",
-      "source": "CNET",
-      "date": "2026-05-01",
-      "time": "21:00",
-      "summary": "El dispositiu intel·ligent farà un seguiment dels efectes secundaris dels mètodes anticonceptius per oferir dades biomètriques més precises."
+      "title": "Netflix s'obre finalment a les estrenes en cinemes, començant amb la propera pel·lícula de \"Nàrnia\"",
+      "link_id": "c_0b3d6f",
+      "source": "Digital Trends",
+      "date": "2026-05-02",
+      "time": "17:37",
+      "summary": "La plataforma atorgarà 45 dies d'exclusivitat a les sales de cinema, marcant un canvi històric en la seva estratègia."
     },
     {
-      "title": "Canonical pateix un atac DDoS continuat durant el llançament d'Ubuntu 26",
-      "link_id": "c_b5ffd1",
-      "source": "Tom's Hardware",
-      "date": "2026-05-01",
-      "time": "19:15",
-      "summary": "El grup iranià 313 Team ha reivindicat l'ofensiva, que ha impedit als usuaris actualitzar el sistema operatiu."
+      "title": "La Xina dictamina que acomiadar un treballador perquè una IA pot fer la seva feina és il·legal",
+      "link_id": "c_a81b90",
+      "source": "The Next Web",
+      "date": "2026-05-02",
+      "time": "16:30",
+      "summary": "Un tribunal xinès protegeix el mercat laboral nacional prohibint a les empreses substituir empleats per sistemes d'intel·ligència artificial."
     },
     {
-      "title": "Els usuaris de PC amb Windows 11 ja poden gaudir del mode Xbox",
-      "link_id": "c_44027c",
-      "source": "TechRadar",
-      "date": "2026-05-01",
-      "time": "16:00",
-      "summary": "Aquesta nova interfície a pantalla completa facilita la navegació amb comandament, transformant l'ordinador en una consola de videojocs."
+      "title": "Uber vol convertir els seus conductors en una xarxa de sensors per a empreses de vehicles autònoms",
+      "link_id": "c_0aef64",
+      "source": "Hacker News",
+      "date": "2026-05-02",
+      "time": "15:38",
+      "summary": "La companyia planeja aprofitar la seva flota per recopilar dades massives i accelerar el desenvolupament de la conducció autònoma."
     },
     {
-      "title": "L'augment del preu dels components dispara la inversió de les grans tecnològiques",
-      "link_id": "c_009dcc",
-      "source": "Tom's Hardware",
-      "date": "2026-05-01",
-      "time": "15:49",
-      "summary": "L'escassetat de memòria i l'alta demanda d'IA faran que la despesa de capital assoleixi xifres rècord aquest any."
+      "title": "Meta adquireix una startup d'IA robòtica en la seva aposta per les màquines humanoides",
+      "link_id": "c_bfe467",
+      "source": "Engadget",
+      "date": "2026-05-02",
+      "time": "14:00",
+      "summary": "L'empresa ha comprat Assured Robot Intelligence per reforçar els seus models d'intel·ligència artificial aplicats a la robòtica avançada."
     },
     {
-      "title": "Primeres impressions del Motorola Razr Fold: un rival digne per a Samsung",
-      "link_id": "c_073ca3",
-      "source": "CNET",
-      "date": "2026-05-01",
-      "time": "22:38",
-      "summary": "Aquest nou telèfon plegable tipus llibre destaca per una bateria de gran capacitat que podria dominar el mercat."
+      "title": "No et decideixes entre el Razr Fold i el Galaxy Z Fold 7? L'elecció és clara",
+      "link_id": "c_2a2bcf",
+      "source": "Android Authority",
+      "date": "2026-05-02",
+      "time": "10:30",
+      "summary": "El nou plegable de Motorola destaca per sobre de Samsung i Google gràcies a la seva impressionant bateria."
     },
     {
-      "title": "Meta compra una empresa de robòtica per impulsar les seves ambicions d'IA humanoide",
-      "link_id": "c_1593fc",
-      "source": "TechCrunch",
-      "date": "2026-05-01",
-      "time": "22:13",
-      "summary": "L'adquisició d'Assured Robot Intelligence permetrà a la companyia de Zuckerberg desenvolupar sistemes operatius avançats per a robots."
+      "title": "Per què un banc canadenc intenta predir terratrèmols amb ordinadors quàntics",
+      "link_id": "c_79d7ad",
+      "source": "The Next Web",
+      "date": "2026-05-02",
+      "time": "07:12",
+      "summary": "El Bank of Montreal utilitza IA i tecnologia quàntica per anticipar desastres naturals i avaluar millor els riscos financers."
     }
   ]
 }

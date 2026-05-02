@@ -1,24 +1,16 @@
 {
-  "generated_at": "2026-05-02T10:00",
+  "generated_at": "2026-05-02T17:45",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [],
   "articles": [
     {
-      "title": "La intel·ligència artificial ja pot prendre millors decisions que els metges d'urgències, segons un estudi de Harvard",
-      "link_id": "c_55b110",
-      "source": "RAC1",
-      "date": "2026-04-30",
-      "time": "20:50",
-      "summary": "Un assaig revela que el sistema d'OpenAI encerta un 10% més de diagnòstics que els professionals sanitaris."
-    },
-    {
-      "title": "La intel·ligència artificial ja pren millors decisions que els metges a urgències, segons un estudi de Harvard",
-      "link_id": "c_d329ba",
-      "source": "El Nacional.cat",
-      "date": "2026-05-01",
-      "time": "13:46",
-      "summary": "Tot i la precisió de la IA en el triatge, els experts remarquen que la figura mèdica continua sent insubstituïble."
+      "title": "L'impacte de la IA en el mercat laboral: 1 de cada 10 feines perillen en la pròxima dècada",
+      "link_id": "c_950db6",
+      "source": "324.cat",
+      "date": "2026-05-02",
+      "time": "16:32",
+      "summary": "El Govern català prepara mesures per adaptar-se a la transformació tecnològica i mitigar la pèrdua d'ocupació imminent."
     },
     {
       "title": "La IA podria destruir fins a 2,3 milions de llocs de treball a l’Estat espanyol en una dècada",
@@ -26,23 +18,47 @@
       "source": "MetaData",
       "date": "2026-04-30",
       "time": "12:10",
-      "summary": "Un informe adverteix que la creació de noves feines no serà suficient per compensar l'impacte en perfils qualificats."
+      "summary": "Un informe de Funcas adverteix que els nous llocs creats no compensaran les pèrdues, afectant especialment els perfils qualificats."
     },
     {
-      "title": "Milions de feines en joc per la IA: què diu l’últim informe",
-      "link_id": "c_91e322",
-      "source": "Lleida Diari",
-      "date": "2026-05-01",
-      "time": "11:09",
-      "summary": "S'espera que la intel·ligència artificial generi 1,61 milions de noves ocupacions, mitigant parcialment la pèrdua massiva de llocs laborals."
-    },
-    {
-      "title": "OpenAI trenca la seva exclusivitat amb Microsoft i obre la porta a acords amb Google i Amazon",
-      "link_id": "c_c23606",
+      "title": "Un estudi del Deutsche Bank afirma que el títol universitari ja no és garantia d’èxit laboral després de la irrupció de la IA",
+      "link_id": "c_aeaf48",
       "source": "El Periódico",
-      "date": "2026-04-27",
-      "time": "16:53",
-      "summary": "La creadora de ChatGPT busca expandir el seu domini al mercat tecnològic aliant-se amb els principals competidors de Microsoft."
+      "date": "2026-04-28",
+      "time": "18:00",
+      "summary": "La intel·ligència artificial generativa esdevé un requisit excloent, provocant subocupació entre els joves graduats malgrat la seva formació superior."
+    },
+    {
+      "title": "Canvis en les normes dels Oscars: vetades les pel·lícules amb actors o guions fets amb IA",
+      "link_id": "c_de8739",
+      "source": "RAC1",
+      "date": "2026-05-02",
+      "time": "13:59",
+      "summary": "L'Acadèmia de Hollywood blinda els premis d'interpretació i guió a partir del 2027 per protegir la creativitat exclusivament humana."
+    },
+    {
+      "title": "Els Oscars es blinden davant la IA: actors i guions generats artificialment no optaran a premi",
+      "link_id": "c_b8a533",
+      "source": "324.cat",
+      "date": "2026-05-02",
+      "time": "16:31",
+      "summary": "El nou reglament cinematogràfic estableix un precedent global en la defensa dels professionals del sector davant l'automatització generativa."
+    },
+    {
+      "title": "La intel·ligència artificial ja pot prendre millors decisions que els metges d'urgències, segons un estudi de Harvard",
+      "link_id": "c_55b110",
+      "source": "RAC1",
+      "date": "2026-04-30",
+      "time": "20:50",
+      "summary": "El sistema d'OpenAI assoleix un vuitanta per cent d'encert en diagnòstics, superant els professionals sanitaris en un deu per cent."
+    },
+    {
+      "title": "Una IA supera els metges al prendre decisions teòriques",
+      "link_id": "c_40c2d0",
+      "source": "Segre",
+      "date": "2026-05-02",
+      "time": "05:32",
+      "summary": "Tot i l'èxit teòric de l'algoritme, l'assaig clínic no té en compte l'observació directa i física dels pacients."
     },
     {
       "title": "Així funcionarà a Espanya l’aplicació per verificar l’edat dels usuaris a internet",
@@ -50,7 +66,7 @@
       "source": "El Periódico",
       "date": "2026-04-29",
       "time": "13:19",
-      "summary": "La Comissió Europea ja té a punt la solució tecnològica per bloquejar l'accés dels menors de setze anys."
+      "summary": "La Comissió Europea avala la solució tecnològica que accelerarà la prohibició d'accés a xarxes socials als menors de setze anys."
     },
     {
       "title": "Per què internet s’ha convertiten un lloc més inestable i perillós",
@@ -58,31 +74,15 @@
       "source": "La Vanguardia (en català)",
       "date": "2026-04-30",
       "time": "10:55",
-      "summary": "L'augment de talls a la xarxa i les noves amenaces impulsades per la IA posen en risc la ciberseguretat global."
+      "summary": "L'augment de talls globals i l'ús maliciós de la intel·ligència artificial posen en risc la infraestructura digital mundial."
     },
     {
-      "title": "Cansat que Google et recomani sempre els mateixos mitjans? Ara ja els pots triar tu",
-      "link_id": "c_db2a8b",
+      "title": "Onada de noves amenaces a la ciberseguretat",
+      "link_id": "c_e418e2",
       "source": "Ara.cat",
-      "date": "2026-04-30",
-      "time": "14:52",
-      "summary": "Una nova funció permet als usuaris personalitzar les preferències de fonts per trencar el biaix de l'algoritme del cercador."
-    },
-    {
-      "title": "Augmenta la incorporació de la IA per a controlar la productivitat en les empreses",
-      "link_id": "c_4b468a",
-      "source": "Àpunt",
       "date": "2026-05-01",
-      "time": "19:30",
-      "summary": "Aquesta vigilància tecnològica intensiva està directament relacionada amb un increment alarmant de les baixes laborals per problemes de salut mental."
-    },
-    {
-      "title": "bp pulse instal·larà al 22@ el \"hub de recàrrega pública ultraràpida més gran\" de Barcelona",
-      "link_id": "c_4126fb",
-      "source": "Via Empresa",
-      "date": "2026-05-01",
-      "time": "11:36",
-      "summary": "El projecte arrencarà enguany amb sis punts de càrrega d'alta potència per impulsar la mobilitat elèctrica al districte tecnològic."
+      "time": "10:54",
+      "summary": "Les vulnerabilitats en l'arquitectura de les xarxes mòbils dissenyades fa cinquanta anys permeten rastrejar usuaris sense instal·lar cap programari."
     }
   ]
 }
