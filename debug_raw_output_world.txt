@@ -1,109 +1,88 @@
 {
-  "generated_at": "2026-05-01T19:56",
+  "generated_at": "2024-05-24T18:00",
   "id": "world",
   "title": "Notícies tecnològiques del món",
-  "sources_checked": [
-    {
-      "name": "AnandTech",
-      "url": "https://www.anandtech.com/rss/",
-      "articles_found": 0
-    },
-    {
-      "name": "Wall Street Journal Tech",
-      "url": "https://feeds.a.dj.com/rss/RSSWSJD.xml",
-      "articles_found": 0
-    },
-    {
-      "name": "Gizmodo",
-      "url": "https://www.gizmodo.com/feed/rss",
-      "articles_found": 0
-    },
-    {
-      "name": "Slashdot",
-      "url": "https://slashdot.org/rss/slashdot.rss",
-      "articles_found": 0
-    }
-  ],
+  "sources_checked": [],
   "articles": [
     {
-      "title": "Mentre Tim Cook plega, Apple assoleix vendes rècord, però s'acosta una escassetat de xips",
-      "link_id": "c_5a52f2",
-      "source": "TechCrunch",
-      "date": "2026-04-30",
-      "time": "23:59",
-      "summary": "L'alta demanda de Macs impulsada per la IA ha sorprès l'empresa, que preveu problemes d'estoc els propers mesos."
+      "title": "Apple encareix el Mac mini sense apujar-ne el preu",
+      "link_id": "c_656089",
+      "source": "Digital Trends",
+      "date": "2026-05-02",
+      "time": "00:05",
+      "summary": "L'empresa ha descatalogat el model base de 599 dòlars a causa de l'escassetat de memòria i l'alta demanda."
     },
     {
-      "title": "El Pentàgon firma acords amb Nvidia, Microsoft i AWS per desplegar IA en xarxes classificades",
-      "link_id": "c_e29a38",
-      "source": "TechCrunch",
+      "title": "El Pentàgon afirma que l'exèrcit dels EUA prioritzarà la intel·ligència artificial",
+      "link_id": "c_78cd83",
+      "source": "BBC Technology",
       "date": "2026-05-01",
-      "time": "16:02",
-      "summary": "El Departament de Defensa diversifica els seus proveïdors tecnològics després de la polèmica disputa amb Anthropic sobre els termes d'ús."
+      "time": "21:09",
+      "summary": "S'han signat acords amb grans tecnològiques per desplegar models avançats en xarxes militars classificades i millorar-ne les capacitats."
     },
     {
-      "title": "Microsoft comença a desplegar el mode Xbox als ordinadors amb Windows 11",
-      "link_id": "c_5fce15",
+      "title": "El judici de Musk contra OpenAI topa amb dificultats la primera setmana",
+      "link_id": "c_020b3a",
+      "source": "Bloomberg Technology",
+      "date": "2026-05-02",
+      "time": "00:24",
+      "summary": "El magnat afronta interrogatoris tensos mentre intenta demostrar que Sam Altman el va enganyar sobre el model de l'empresa."
+    },
+    {
+      "title": "Un perillós exploit de Linux dona accés d'arrel a innombrables ordinadors",
+      "link_id": "c_1c0707",
+      "source": "Wired",
+      "date": "2026-05-01",
+      "time": "20:30",
+      "summary": "La vulnerabilitat CopyFail afecta gairebé totes les distribucions des del 2017, permetent als pirates informàtics controlar servidors fàcilment."
+    },
+    {
+      "title": "Les últimes actualitzacions de l'Oura Ring informaran sobre anticoncepció i menopausa",
+      "link_id": "c_e54b3e",
+      "source": "CNET",
+      "date": "2026-05-01",
+      "time": "21:00",
+      "summary": "El dispositiu intel·ligent farà un seguiment dels efectes secundaris dels mètodes anticonceptius per oferir dades biomètriques més precises."
+    },
+    {
+      "title": "Canonical pateix un atac DDoS continuat durant el llançament d'Ubuntu 26",
+      "link_id": "c_b5ffd1",
       "source": "Tom's Hardware",
       "date": "2026-05-01",
-      "time": "15:35",
-      "summary": "Aquesta nova interfície transforma l'escriptori tradicional en una experiència d'estil consola, optimitzada per a la navegació amb comandament."
+      "time": "19:15",
+      "summary": "El grup iranià 313 Team ha reivindicat l'ofensiva, que ha impedit als usuaris actualitzar el sistema operatiu."
     },
     {
-      "title": "El judici entre Musk i Altman només acaba de començar",
-      "link_id": "c_3512bd",
-      "source": "TechCrunch",
+      "title": "Els usuaris de PC amb Windows 11 ja poden gaudir del mode Xbox",
+      "link_id": "c_44027c",
+      "source": "TechRadar",
       "date": "2026-05-01",
-      "time": "14:00",
-      "summary": "El testimoni d'Elon Musk revela correus i missatges privats, acusant Sam Altman de trair la missió original d'OpenAI."
+      "time": "16:00",
+      "summary": "Aquesta nova interfície a pantalla completa facilita la navegació amb comandament, transformant l'ordinador en una consola de videojocs."
     },
     {
-      "title": "Estudi d'Oxford: els xatbots d'IA \"amigables\" són menys precisos i més aduladors",
-      "link_id": "c_c17630",
-      "source": "PCWorld",
-      "date": "2026-05-01",
-      "time": "16:36",
-      "summary": "La investigació demostra que els models entrenats per ser empàtics tendeixen a donar respostes de pitjor qualitat i menys fiables."
-    },
-    {
-      "title": "Descoberta una greu vulnerabilitat de seguretat a Linux anomenada \"Copy Fail\"",
-      "link_id": "c_5f9ef9",
-      "source": "The Verge",
-      "date": "2026-05-01",
-      "time": "12:55",
-      "summary": "Aquest error permet a qualsevol usuari obtenir privilegis d'administrador en gairebé totes les distribucions llançades des de l'any 2017."
-    },
-    {
-      "title": "L'augment del preu dels components dispara la inversió de les grans tecnològiques a 725.000 milions de dòlars",
+      "title": "L'augment del preu dels components dispara la inversió de les grans tecnològiques",
       "link_id": "c_009dcc",
       "source": "Tom's Hardware",
       "date": "2026-05-01",
       "time": "15:49",
-      "summary": "L'alta demanda d'infraestructura per a IA obliga empreses com Google, Amazon, Microsoft i Meta a augmentar dràsticament la seva despesa."
+      "summary": "L'escassetat de memòria i l'alta demanda d'IA faran que la despesa de capital assoleixi xifres rècord aquest any."
     },
     {
-      "title": "Samsung adverteix que l'escassetat de memòria RAM empitjorarà el 2027 i més enllà",
-      "link_id": "c_b71c69",
-      "source": "PCWorld",
+      "title": "Primeres impressions del Motorola Razr Fold: un rival digne per a Samsung",
+      "link_id": "c_073ca3",
+      "source": "CNET",
       "date": "2026-05-01",
-      "time": "15:37",
-      "summary": "L'explosió de la demanda d'IA està esgotant els subministraments, la qual cosa podria encarir els dispositius electrònics els propers anys."
+      "time": "22:38",
+      "summary": "Aquest nou telèfon plegable tipus llibre destaca per una bateria de gran capacitat que podria dominar el mercat."
     },
     {
-      "title": "Spotify llança una insígnia de \"Verificat\" per distingir els artistes humans de la IA",
-      "link_id": "c_6a6389",
-      "source": "The Guardian Tech",
-      "date": "2026-04-30",
-      "time": "19:56",
-      "summary": "La plataforma de música vol ajudar els oients a identificar els creadors reals davant l'allau de cançons generades sintèticament."
-    },
-    {
-      "title": "Els serveis d'Ubuntu pateixen interrupcions després d'un atac DDoS",
-      "link_id": "c_f34f3c",
+      "title": "Meta compra una empresa de robòtica per impulsar les seves ambicions d'IA humanoide",
+      "link_id": "c_1593fc",
       "source": "TechCrunch",
       "date": "2026-05-01",
-      "time": "15:00",
-      "summary": "Un grup de ciberactivistes ha reivindicat l'atac, que ha impedit als usuaris actualitzar el sistema operatiu basat en Linux."
+      "time": "22:13",
+      "summary": "L'adquisició d'Assured Robot Intelligence permetrà a la companyia de Zuckerberg desenvolupar sistemes operatius avançats per a robots."
     }
   ]
 }

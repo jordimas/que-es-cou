@@ -1,48 +1,48 @@
 {
-  "generated_at": "2024-05-24T16:00",
+  "generated_at": "2026-05-02T10:00",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [],
   "articles": [
-    {
-      "title": "La IA podria destruir fins a 2,3 milions de llocs de treball a l’Estat espanyol en una dècada",
-      "link_id": "c_bec7f5",
-      "source": "MetaData",
-      "date": "2026-04-30",
-      "time": "12:10",
-      "summary": "L'informe de Funcas adverteix que la creació de noves feines no compensarà les pèrdues, afectant especialment els perfils qualificats."
-    },
     {
       "title": "La intel·ligència artificial ja pot prendre millors decisions que els metges d'urgències, segons un estudi de Harvard",
       "link_id": "c_55b110",
       "source": "RAC1",
       "date": "2026-04-30",
       "time": "20:50",
-      "summary": "El sistema d'OpenAI encerta vuit de cada deu diagnòstics, superant en un deu per cent els professionals mèdics humans."
+      "summary": "Un assaig revela que el sistema d'OpenAI encerta un 10% més de diagnòstics que els professionals sanitaris."
     },
     {
-      "title": "Google tanca un acord confidencial per cedir la seva IA al Pentàgon malgrat l’oposició de centenars d’empleats",
-      "link_id": "c_995cad",
-      "source": "El Periódico",
-      "date": "2026-04-28",
-      "time": "11:19",
-      "summary": "El gegant tecnològic gestionarà xarxes classificades de l'exèrcit nord-americà, generant una forta controvèrsia interna entre els seus treballadors."
+      "title": "La intel·ligència artificial ja pren millors decisions que els metges a urgències, segons un estudi de Harvard",
+      "link_id": "c_d329ba",
+      "source": "El Nacional.cat",
+      "date": "2026-05-01",
+      "time": "13:46",
+      "summary": "Tot i la precisió de la IA en el triatge, els experts remarquen que la figura mèdica continua sent insubstituïble."
     },
     {
-      "title": "OpenAI sacseja el mercat i es deslliga de Microsoft per créixer amb nous aliats",
-      "link_id": "c_27ee25",
+      "title": "La IA podria destruir fins a 2,3 milions de llocs de treball a l’Estat espanyol en una dècada",
+      "link_id": "c_bec7f5",
       "source": "MetaData",
-      "date": "2026-04-28",
-      "time": "11:40",
-      "summary": "L'empresa creadora de ChatGPT busca expandir-se cap al maquinari i explorarà col·laboracions estratègiques amb gegants com Google i Amazon."
+      "date": "2026-04-30",
+      "time": "12:10",
+      "summary": "Un informe adverteix que la creació de noves feines no serà suficient per compensar l'impacte en perfils qualificats."
     },
     {
-      "title": "«Vaig ser ximple»: totes les claus de la declaració d’Elon Musk en el seu judici contra OpenAI",
-      "link_id": "c_f0b379",
+      "title": "Milions de feines en joc per la IA: què diu l’últim informe",
+      "link_id": "c_91e322",
+      "source": "Lleida Diari",
+      "date": "2026-05-01",
+      "time": "11:09",
+      "summary": "S'espera que la intel·ligència artificial generi 1,61 milions de noves ocupacions, mitigant parcialment la pèrdua massiva de llocs laborals."
+    },
+    {
+      "title": "OpenAI trenca la seva exclusivitat amb Microsoft i obre la porta a acords amb Google i Amazon",
+      "link_id": "c_c23606",
       "source": "El Periódico",
-      "date": "2026-04-30",
-      "time": "11:56",
-      "summary": "La batalla legal entre el magnat i l'empresa que va cofundar podria transformar profundament la indústria de la intel·ligència artificial."
+      "date": "2026-04-27",
+      "time": "16:53",
+      "summary": "La creadora de ChatGPT busca expandir el seu domini al mercat tecnològic aliant-se amb els principals competidors de Microsoft."
     },
     {
       "title": "Així funcionarà a Espanya l’aplicació per verificar l’edat dels usuaris a internet",
@@ -50,7 +50,7 @@
       "source": "El Periódico",
       "date": "2026-04-29",
       "time": "13:19",
-      "summary": "La Comissió Europea ja té a punt la solució tecnològica que facilitarà prohibir l'accés dels menors a les xarxes socials."
+      "summary": "La Comissió Europea ja té a punt la solució tecnològica per bloquejar l'accés dels menors de setze anys."
     },
     {
       "title": "Per què internet s’ha convertiten un lloc més inestable i perillós",
@@ -58,23 +58,23 @@
       "source": "La Vanguardia (en català)",
       "date": "2026-04-30",
       "time": "10:55",
-      "summary": "L'augment de talls globals i l'ús maliciós de la intel·ligència artificial posen en risc la ciberseguretat a escala mundial."
+      "summary": "L'augment de talls a la xarxa i les noves amenaces impulsades per la IA posen en risc la ciberseguretat global."
     },
     {
-      "title": "La ciberseguretat a Catalunya es tensiona: els incidents gairebé es dupliquen el 2025",
-      "link_id": "c_6047c9",
-      "source": "MetaData",
-      "date": "2026-04-27",
-      "time": "09:19",
-      "summary": "L'Agència de Ciberseguretat alerta d'un augment sostingut de les amenaces digitals, sent el sector universitari el principal focus d'atacs."
-    },
-    {
-      "title": "Mor J. Craig Venter, un científic clau que va desxifrar el genoma humà",
-      "link_id": "c_5f9bf7",
+      "title": "Cansat que Google et recomani sempre els mateixos mitjans? Ara ja els pots triar tu",
+      "link_id": "c_db2a8b",
       "source": "Ara.cat",
       "date": "2026-04-30",
-      "time": "06:23",
-      "summary": "L'emprenedor i investigador nord-americà ha mort als setanta-nou anys a causa dels efectes secundaris d'un tractament contra el càncer."
+      "time": "14:52",
+      "summary": "Una nova funció permet als usuaris personalitzar les preferències de fonts per trencar el biaix de l'algoritme del cercador."
+    },
+    {
+      "title": "Augmenta la incorporació de la IA per a controlar la productivitat en les empreses",
+      "link_id": "c_4b468a",
+      "source": "Àpunt",
+      "date": "2026-05-01",
+      "time": "19:30",
+      "summary": "Aquesta vigilància tecnològica intensiva està directament relacionada amb un increment alarmant de les baixes laborals per problemes de salut mental."
     },
     {
       "title": "bp pulse instal·larà al 22@ el \"hub de recàrrega pública ultraràpida més gran\" de Barcelona",
@@ -82,7 +82,7 @@
       "source": "Via Empresa",
       "date": "2026-05-01",
       "time": "11:36",
-      "summary": "El projecte arrencarà enguany amb sis punts de càrrega de gran potència per impulsar la mobilitat elèctrica al districte tecnològic."
+      "summary": "El projecte arrencarà enguany amb sis punts de càrrega d'alta potència per impulsar la mobilitat elèctrica al districte tecnològic."
     }
   ]
 }

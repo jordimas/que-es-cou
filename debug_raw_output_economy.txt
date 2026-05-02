@@ -1,56 +1,64 @@
 {
-  "generated_at": "2024-05-20T18:45",
+  "generated_at": "2024-05-24T16:00",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
-    {
-      "title": "Apple atribueix el rècord de vendes a l'iPhone \"més popular\" de la història",
-      "link_id": "c_35dc6b",
-      "source": "Financial Times",
-      "date": "2026-05-01",
-      "time": "13:36",
-      "summary": "El nou conseller delegat, John Ternus, promet mantenir el rigor estratègic per consolidar aquest èxit comercial sense precedents."
-    },
     {
       "title": "El Pentàgon firma nous acords d'IA militar amb Nvidia, Microsoft i Amazon",
       "link_id": "c_d8086a",
       "source": "Financial Times",
       "date": "2026-05-01",
       "time": "13:19",
-      "summary": "Aquestes aliances estratègiques busquen reforçar la defensa tecnològica nord-americana després de les recents disputes sobre l'ús de models lingüístics."
+      "summary": "Aquests contractes arriben després de les tensions amb Anthropic, marcant un canvi estratègic en la defensa tecnològica nord-americana."
     },
     {
-      "title": "El cap tecnològic del Pentàgon manté el veto a Anthropic, però desvincula el cas de Mythos",
+      "title": "El cap tecnològic del Pentàgon manté el veto a Anthropic, però n'exclou Mythos",
       "link_id": "c_18d244",
       "source": "CNBC Technology",
       "date": "2026-05-01",
       "time": "12:51",
-      "summary": "El Departament de Defensa diversifica els seus proveïdors d'intel·ligència artificial pactant amb set noves empreses per evitar dependències."
+      "summary": "El Departament de Defensa diversifica els seus proveïdors d'intel·ligència artificial aliant-se amb set noves empreses del sector."
     },
     {
-      "title": "Tim Cook adverteix d'una crisi prolongada de memòria i assegura que exploraran diverses opcions",
-      "link_id": "c_364338",
+      "title": "Els ajuntaments anglesos provaran una IA de Google per agilitzar decisions urbanístiques",
+      "link_id": "c_5a07f8",
+      "source": "Financial Times",
+      "date": "2026-05-02",
+      "time": "04:00",
+      "summary": "L'eina automatitzarà l'avaluació de projectes per reduir la burocràcia i accelerar les resolucions en l'àmbit de la construcció."
+    },
+    {
+      "title": "La lluita pels centres de dades al cor de les ciutats japoneses",
+      "link_id": "c_7d2a7b",
+      "source": "Financial Times",
+      "date": "2026-05-02",
+      "time": "04:00",
+      "summary": "L'expansió d'infraestructures per a intel·ligència artificial genera tensions veïnals a causa de l'impacte urbà i mediambiental."
+    },
+    {
+      "title": "Estan segurs els teus diners davant d'un ciberatac?",
+      "link_id": "c_8805a2",
+      "source": "Financial Times",
+      "date": "2026-05-02",
+      "time": "04:00",
+      "summary": "La capacitat dels nous models d'IA per detectar fallades de programari obliga la banca a reforçar-ne la protecció."
+    },
+    {
+      "title": "Apple atribueix l'augment de vendes a l'iPhone \"més popular\" de la història",
+      "link_id": "c_35dc6b",
+      "source": "Financial Times",
+      "date": "2026-05-01",
+      "time": "20:07",
+      "summary": "El futur conseller delegat, John Ternus, promet mantenir la disciplina estratègica per consolidar el creixement rècord de l'empresa."
+    },
+    {
+      "title": "Les accions d'Atlassian es disparen un 29% gràcies al creixement del núvol i centres de dades",
+      "link_id": "c_6b03df",
       "source": "CNBC Technology",
       "date": "2026-05-01",
-      "time": "07:00",
-      "summary": "L'escassetat de components podria alterar la cadena de subministrament tecnològica, obligant la companyia a buscar alternatives logístiques urgents."
-    },
-    {
-      "title": "Apple tanca un trimestre gairebé perfecte, marcat pel canvi de CEO i novetats en IA",
-      "link_id": "c_315dec",
-      "source": "CNBC Technology",
-      "date": "2026-04-30",
-      "time": "23:43",
-      "summary": "Els resultats històrics del març han disparat les accions, reflectint la confiança del mercat en la nova direcció corporativa."
-    },
-    {
-      "title": "Les previsions d'ingressos d'Apple superen les estimacions gràcies a la forta demanda d'iPhone i Mac",
-      "link_id": "c_5037b0",
-      "source": "CNBC Technology",
-      "date": "2026-04-30",
-      "time": "23:06",
-      "summary": "Tot i algunes vendes inferiors a l'esperat, el creixement global del 17% demostra la resiliència del seu ecosistema de productes."
+      "time": "19:21",
+      "summary": "Els excel·lents resultats trimestrals allunyen els temors sobre l'impacte negatiu de la intel·ligència artificial en el seu model."
     },
     {
       "title": "L'ascens irresistible de la intel·ligència artificial com a autora",
@@ -58,31 +66,15 @@
       "source": "Financial Times",
       "date": "2026-05-01",
       "time": "16:09",
-      "summary": "L'adopció massiva d'eines de generació de text transformarà radicalment la nostra manera de comunicar-nos i crear contingut diàriament."
+      "summary": "L'adaptació als textos generats per màquines transformarà profundament la nostra manera de comunicar-nos i treballar diàriament."
     },
     {
-      "title": "Les accions d'Atlassian es disparen un 20% impulsades pel creixement al núvol i centres de dades",
-      "link_id": "c_6b03df",
-      "source": "CNBC Technology",
-      "date": "2026-05-01",
-      "time": "14:21",
-      "summary": "Aquests resultats sorprenents desafien els temors recents sobre l'impacte negatiu de la IA en el sector del programari empresarial."
-    },
-    {
-      "title": "Les accions de xips repunten en un mes històric en dissipar-se els dubtes sobre la IA",
+      "title": "Les accions de xips pugen en un mes \"històric\" en dissipar-se els temors sobre la IA",
       "link_id": "c_7e8aa0",
       "source": "CNBC Technology",
       "date": "2026-05-01",
       "time": "12:41",
-      "summary": "La recuperació borsària de l'abril confirma l'optimisme renovat dels inversors respecte a la infraestructura necessària per a les noves tecnologies."
-    },
-    {
-      "title": "Japan Airlines prova robots humanoides a l'aeroport de Haneda per combatre la manca de personal",
-      "link_id": "c_bd5af3",
-      "source": "CNBC Technology",
-      "date": "2026-05-01",
-      "time": "06:58",
-      "summary": "L'envelliment de la població japonesa accelera l'automatització dels serveis de terra per garantir l'eficiència operativa en el sector aeri."
+      "summary": "La recuperació del sector dels semiconductors a l'abril reflecteix una renovada confiança en les inversions tecnològiques globals."
     }
   ]
 }
