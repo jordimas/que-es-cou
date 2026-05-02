@@ -6,22 +6,22 @@
     {
       "name": "Ara.cat",
       "url": "https://www.ara.cat/rss/",
-      "articles_found": 8
+      "articles_found": 10
     },
     {
       "name": "El Periódico",
       "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
-      "articles_found": 9
+      "articles_found": 8
     },
     {
       "name": "RAC1",
       "url": "https://www.rac1.cat/rss/home.xml",
-      "articles_found": 3
+      "articles_found": 7
     },
     {
       "name": "La Vanguardia (en català)",
       "url": "https://www.lavanguardia.com/rss/encatala.xml",
-      "articles_found": 8
+      "articles_found": 4
     },
     {
       "name": "VilaWeb",
@@ -36,7 +36,7 @@
     {
       "name": "324.cat",
       "url": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0",
-      "articles_found": 1
+      "articles_found": 4
     },
     {
       "name": "Softcatalà",
@@ -46,12 +46,12 @@
     {
       "name": "El Nacional.cat",
       "url": "https://www.elnacional.cat/uploads/feeds/feed_ca.xml",
-      "articles_found": 15
+      "articles_found": 14
     },
     {
       "name": "El Mon.cat",
       "url": "https://www.elmon.cat/feed/",
-      "articles_found": 3
+      "articles_found": 0
     },
     {
       "name": "El Mon.cat Tecnologia",
@@ -66,7 +66,7 @@
     {
       "name": "Betevé",
       "url": "https://beteve.cat/feed/",
-      "articles_found": 0
+      "articles_found": 1
     },
     {
       "name": "El Punt Avui",
@@ -116,7 +116,7 @@
     {
       "name": "Cugat.cat",
       "url": "https://www.cugat.cat/feed/",
-      "articles_found": 1
+      "articles_found": 4
     },
     {
       "name": "CatalunyaPress",
@@ -156,7 +156,7 @@
     {
       "name": "MetaData",
       "url": "https://www.metadata.cat/sindica",
-      "articles_found": 11
+      "articles_found": 9
     },
     {
       "name": "El Temps",
@@ -166,12 +166,12 @@
     {
       "name": "Àpunt",
       "url": "https://www.apuntmedia.es/rss/",
-      "articles_found": 0
+      "articles_found": 1
     },
     {
       "name": "El Periòdic d'Ontinyent",
       "url": "https://www.elperiodicvalencia.com/?feed=rss2",
-      "articles_found": 1
+      "articles_found": 2
     },
     {
       "name": "Saó",
@@ -191,7 +191,7 @@
     {
       "name": "Ara Balears",
       "url": "https://www.arabalears.cat/rss/",
-      "articles_found": 3
+      "articles_found": 1
     },
     {
       "name": "Manacor Comarcal",
@@ -216,12 +216,12 @@
   ],
   "articles": [
     {
-      "title": "La intel·ligència artificial ja pren millors decisions que els metges a urgències, segons un estudi de Harvard",
-      "link_id": "c_d329ba",
-      "source": "El Nacional.cat",
-      "date": "2026-05-01",
-      "time": "13:46",
-      "summary": "Tot i l'alta precisió del sistema d'OpenAI, els experts remarquen que la supervisió humana continua sent imprescindible."
+      "title": "Una IA supera els metges al prendre decisions teòriques",
+      "link_id": "c_40c2d0",
+      "source": "Segre",
+      "date": "2026-05-02",
+      "time": "05:32",
+      "summary": "Un estudi demostra que els sistemes d'intel·ligència artificial ja superen els professionals mèdics en diagnòstics teòrics."
     },
     {
       "title": "Milions de feines en joc per la IA: què diu l’últim informe",
@@ -229,15 +229,31 @@
       "source": "Lleida Diari",
       "date": "2026-05-01",
       "time": "11:09",
-      "summary": "L'estudi adverteix que la creació de noves ocupacions tecnològiques no arribarà a compensar la pèrdua de llocs tradicionals."
+      "summary": "La intel·ligència artificial podria destruir 2,3 milions de llocs de treball a Espanya, tot i crear-ne de nous."
     },
     {
-      "title": "Google també deixarà fer servir la seva IA a les Forces Armades dels Estats Units",
-      "link_id": "c_32f726",
-      "source": "El Nacional.cat",
-      "date": "2026-05-01",
-      "time": "02:02",
-      "summary": "Aquesta decisió polèmica s'alinea amb els moviments recents d'altres gegants tecnològics, malgrat les fortes crítiques internes dels treballadors."
+      "title": "OpenAI sacseja el mercat i es deslliga de Microsoft per créixer amb nous aliats",
+      "link_id": "c_27ee25",
+      "source": "MetaData",
+      "date": "2026-04-28",
+      "time": "11:40",
+      "summary": "L'empresa creadora de ChatGPT trenca l'exclusivitat amb Microsoft per obrir-se a col·laboracions amb gegants com Google i Amazon."
+    },
+    {
+      "title": "Roger Torrent defensa l'aposta per la indústria militar: \"Catalunya ha de poder dir alguna cosa i ser un actor rellevant. No ho ha sigut fins ara\"",
+      "link_id": "c_419051",
+      "source": "RAC1",
+      "date": "2026-05-02",
+      "time": "11:10",
+      "summary": "La Cambra de Comerç identifica 750 empreses catalanes amb potencial per reconvertir-se i facturar en el sector de defensa."
+    },
+    {
+      "title": "Volkswagen ID Polo: el cotxe de sempre, però en format elèctric",
+      "link_id": "c_446705",
+      "source": "Ara.cat",
+      "date": "2026-05-02",
+      "time": "08:05",
+      "summary": "El nou utilitari elèctric de Volkswagen es fabricarà a la planta de Martorell compartint plataforma amb el Cupra Raval."
     },
     {
       "title": "Així funcionarà a Espanya l’aplicació per verificar l’edat dels usuaris a internet",
@@ -245,15 +261,15 @@
       "source": "El Periódico",
       "date": "2026-04-29",
       "time": "13:19",
-      "summary": "La Comissió Europea ha validat aquesta eina tecnològica, accelerant la prohibició d'accés a xarxes socials per als menors."
+      "summary": "La Comissió Europea ja té a punt la solució tecnològica per bloquejar l'accés dels menors a les xarxes socials."
     },
     {
-      "title": "Primer pas per desplegar un gran Bicing arreu de l’àrea metropolitana",
-      "link_id": "c_dbaf2e",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-04-29",
-      "time": "05:11",
-      "summary": "El nou pla de mobilitat preveu integrar els diferents serveis de bicicletes compartides abans de l'any 2030."
+      "title": "Spotify mou fitxa i llança insígnies de verificació per distingir artistes reals i contingut generat amb IA",
+      "link_id": "c_2542d9",
+      "source": "RAC1",
+      "date": "2026-05-01",
+      "time": "20:50",
+      "summary": "La plataforma musical introdueix un segell d'autenticitat per combatre la proliferació de perfils falsos creats amb intel·ligència artificial."
     },
     {
       "title": "Cansat que Google et recomani sempre els mateixos mitjans? Ara ja els pots triar tu",
@@ -261,7 +277,15 @@
       "source": "Ara.cat",
       "date": "2026-04-30",
       "time": "14:52",
-      "summary": "La nova funció permet als usuaris personalitzar l'algoritme per donar prioritat a les seves fonts d'informació preferides."
+      "summary": "El cercador activa una nova funció que permet als usuaris personalitzar quines fonts d'informació volen prioritzar als resultats."
+    },
+    {
+      "title": "Filtració de dades de Naturgy que afecta informació confidencial del 3% dels clients",
+      "link_id": "c_9a3c4f",
+      "source": "324.cat",
+      "date": "2026-05-01",
+      "time": "21:34",
+      "summary": "La companyia energètica activa protocols de seguretat després de patir una bretxa que exposa dades sensibles dels seus usuaris."
     },
     {
       "title": "bp pulse instal·larà al 22@ el \"hub de recàrrega pública ultraràpida més gran\" de Barcelona",
@@ -269,31 +293,7 @@
       "source": "Via Empresa",
       "date": "2026-05-01",
       "time": "11:36",
-      "summary": "Aquesta infraestructura clau per al vehicle elèctric començarà a operar enguany amb sis punts d'alta potència al districte."
-    },
-    {
-      "title": "Onada de noves amenaces a la ciberseguretat",
-      "link_id": "c_e418e2",
-      "source": "Ara.cat",
-      "date": "2026-05-01",
-      "time": "10:54",
-      "summary": "Les vulnerabilitats en l'antiga arquitectura de les xarxes mòbils permeten rastrejar usuaris sense necessitat d'instal·lar cap programari espia."
-    },
-    {
-      "title": "Els deutes a curt termini posen en dubte la liquiditat de la catalana Parlem",
-      "link_id": "c_0316cb",
-      "source": "Ara.cat",
-      "date": "2026-04-30",
-      "time": "19:56",
-      "summary": "El venciment d'uns crèdits milionaris d'Inveready complica el futur financer de l'operadora després de descartar-se la fusió."
-    },
-    {
-      "title": "El Banc Sabadell tanca la venda de TSB al Santander per 3.300 milions d’euros",
-      "link_id": "c_5286a4",
-      "source": "Cugat.cat",
-      "date": "2026-05-01",
-      "time": "07:33",
-      "summary": "L'operació estratègica permet a l'entitat catalana desprendre's de la seva filial britànica i reforçar el seu balanç econòmic."
+      "summary": "El districte tecnològic acollirà enguany sis nous punts de càrrega de 400 kW per a vehicles elèctrics."
     }
   ]
 }

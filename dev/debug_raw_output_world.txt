@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-05-01T13:49",
+  "generated_at": "2026-05-02T13:36",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Mentre Tim Cook plega, Apple assoleix vendes rècord, però s'acosta una escassetat de xips",
-      "link_id": "c_5a52f2",
+      "title": "Apple apuja el preu base del Mac Mini",
+      "link_id": "c_0519e8",
+      "source": "The Verge",
+      "date": "2026-05-01",
+      "time": "17:52",
+      "summary": "Apple ha eliminat l'opció de 256 GB, augmentant el preu base del Mac Mini a causa de l'alta demanda."
+    },
+    {
+      "title": "El Pentàgon signa acords amb Nvidia, Microsoft i AWS per desplegar IA en xarxes classificades",
+      "link_id": "c_e29a38",
       "source": "TechCrunch",
-      "date": "2026-04-30",
-      "time": "23:59",
-      "summary": "L'alta demanda de dispositius amb IA ha esgotat l'estoc, i l'encariment de la memòria amenaça els futurs beneficis."
+      "date": "2026-05-01",
+      "time": "16:02",
+      "summary": "El Departament de Defensa dels EUA diversifica els seus proveïdors d'IA per a xarxes classificades després de disputes amb Anthropic."
     },
     {
-      "title": "Elon Musk testifica que xAI va entrenar Grok amb models d'OpenAI",
-      "link_id": "c_0e2962",
+      "title": "El cas Musk contra Altman tot just acaba de començar",
+      "link_id": "c_3512bd",
       "source": "TechCrunch",
-      "date": "2026-04-30",
-      "time": "18:03",
-      "summary": "En el judici contra Sam Altman, el magnat va admetre usar dades de la competència per desenvolupar la seva IA."
+      "date": "2026-05-01",
+      "time": "14:00",
+      "summary": "El judici entre Elon Musk i OpenAI revela correus privats sobre la transició a un model amb ànim de lucre."
     },
     {
-      "title": "ChatGPT desenvolupa una obsessió pels follets després que OpenAI intentés fer-lo més \"friqui\"",
-      "link_id": "c_6e7fbf",
-      "source": "Engadget",
-      "date": "2026-04-30",
-      "time": "15:42",
-      "summary": "Un error en l'entrenament de la personalitat del model GPT-5.5 va provocar respostes estranyes centrades en criatures fantàstiques."
-    },
-    {
-      "title": "Després de criticar Anthropic per limitar Mythos, OpenAI també restringeix l'accés a Cyber",
-      "link_id": "c_efe255",
-      "source": "TechCrunch",
-      "date": "2026-04-30",
-      "time": "19:27",
-      "summary": "L'empresa adopta la mateixa estratègia de llançament exclusiu que havia retret als rivals per a la seva eina de ciberseguretat."
-    },
-    {
-      "title": "L'assistent d'IA Gemini de Google arriba a milions de vehicles",
-      "link_id": "c_e33ec8",
-      "source": "TechCrunch",
-      "date": "2026-04-30",
-      "time": "17:46",
-      "summary": "Aquesta integració substituirà l'assistent tradicional per oferir converses més naturals i un control intel·ligent durant la conducció."
-    },
-    {
-      "title": "Samsung i SK hynix adverteixen que l'escassetat de memòria impulsada per la IA podria durar fins al 2027",
-      "link_id": "c_173aff",
-      "source": "Tom's Hardware",
-      "date": "2026-04-30",
-      "time": "14:46",
-      "summary": "L'alta demanda de components per a servidors d'intel·ligència artificial encarirà dràsticament els preus de l'electrònica de consum properament."
-    },
-    {
-      "title": "El mode Xbox de Microsoft comença a arribar als ordinadors amb Windows 11",
-      "link_id": "c_4b3ce9",
+      "title": "Oura afegeix dades més detallades sobre salut hormonal als seus anells Series 3 i 4",
+      "link_id": "c_fa04c8",
       "source": "Engadget",
       "date": "2026-05-01",
-      "time": "11:01",
-      "summary": "Aquesta nova interfície a pantalla completa busca transformar els ordinadors en consoles per millorar l'experiència dels jugadors."
+      "time": "16:37",
+      "summary": "Els anells intel·ligents ara faran un seguiment dels efectes secundaris dels mètodes anticonceptius i oferiran dades sobre la menopausa."
     },
     {
-      "title": "Rivian redueix el préstec del Departament d'Energia a 4.500 milions de dòlars per a la fàbrica de Geòrgia",
-      "link_id": "c_867648",
+      "title": "Els serveis d'Ubuntu pateixen interrupcions després d'un atac DDoS",
+      "link_id": "c_f34f3c",
       "source": "TechCrunch",
-      "date": "2026-04-30",
-      "time": "20:02",
-      "summary": "El fabricant de vehicles elèctrics ha reestructurat l'acord financer i ha modificat els plans d'expansió de les seves instal·lacions."
+      "date": "2026-05-01",
+      "time": "15:00",
+      "summary": "Un grup de hacktivistes ha reivindicat un atac de denegació de servei que impedeix als usuaris actualitzar el sistema operatiu."
     },
     {
-      "title": "Els pirates informàtics exploten activament un error a cPanel, utilitzat per milions de llocs web",
-      "link_id": "c_e50a35",
+      "title": "Descoberta una greu falla de seguretat a Linux anomenada Copy Fail amb l'ajuda d'escaneig d'IA",
+      "link_id": "c_5f9ef9",
+      "source": "The Verge",
+      "date": "2026-05-01",
+      "time": "12:55",
+      "summary": "Una vulnerabilitat crítica permet a qualsevol usuari obtenir privilegis d'administrador en gairebé totes les distribucions de Linux des del 2017."
+    },
+    {
+      "title": "Meta compra una emergent de robòtica per reforçar les seves ambicions d'IA humanoide",
+      "link_id": "c_1593fc",
       "source": "TechCrunch",
-      "date": "2026-04-30",
-      "time": "19:36",
-      "summary": "Una vulnerabilitat crítica permet als atacants prendre el control total dels servidors, robant dades i esborrant pàgines web."
+      "date": "2026-05-01",
+      "time": "22:13",
+      "summary": "L'empresa ha adquirit aquesta emergent per millorar els seus models d'intel·ligència artificial aplicats a la robòtica humanoide."
     },
     {
-      "title": "Un informe afirma que Apple \"s'ha rendit\" amb les Vision Pro",
-      "link_id": "c_429c81",
-      "source": "Tom's Hardware",
-      "date": "2026-04-30",
-      "time": "11:56",
-      "summary": "Les baixes vendes i el pes excessiu del dispositiu haurien portat l'empresa a aturar el desenvolupament d'aquestes ulleres."
+      "title": "Aquest accessori pot fixar un Steam Controller al teu telèfon, o a gairebé qualsevol altra cosa",
+      "link_id": "c_d3f127",
+      "source": "The Verge",
+      "date": "2026-05-01",
+      "time": "13:00",
+      "summary": "Mechanism ha creat un suport que permet fixar el nou comandament de Valve al telèfon mòbil de manera senzilla."
+    },
+    {
+      "title": "Primeres impressions del Motorola Razr Fold: atenció Samsung, aquest telèfon té avantatge",
+      "link_id": "c_073ca3",
+      "source": "CNET",
+      "date": "2026-05-01",
+      "time": "22:38",
+      "summary": "El primer telèfon plegable tipus llibre de la companyia destaca pel seu disseny elegant i una bateria de gran capacitat."
+    },
+    {
+      "title": "BMO recorre a la IA i la computació quàntica per predir terratrèmols",
+      "link_id": "c_e041e2",
+      "source": "Bloomberg",
+      "date": "2026-05-01",
+      "time": "19:06",
+      "summary": "El banc canadenc utilitza tecnologies avançades per preveure sismes i incendis forestals com a part de la seva expansió."
     }
   ]
 }

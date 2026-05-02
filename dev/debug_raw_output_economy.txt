@@ -1,88 +1,88 @@
 {
-  "generated_at": "2024-05-24T18:50",
+  "generated_at": "2024-05-24T18:30",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "El conseller delegat d'Apple, Tim Cook, adverteix d'una escassetat prolongada de memòria",
-      "link_id": "c_364338",
+      "title": "Les accions d'Apple pugen per la forta demanda d'iPhone i Mac",
+      "link_id": "c_f20bb2",
       "source": "CNBC Technology",
       "date": "2026-05-01",
-      "time": "07:00",
-      "summary": "La companyia explorarà noves alternatives per mitigar l'impacte d'aquesta limitació en la producció dels propers trimestres."
+      "time": "20:11",
+      "summary": "Les previsions d'ingressos superen les expectatives dels analistes, impulsant el valor de l'empresa al mercat borsari."
     },
     {
-      "title": "Apple assoleix un trimestre gairebé perfecte, amb un canvi de conseller delegat i novetats en IA",
-      "link_id": "c_315dec",
-      "source": "CNBC Technology",
-      "date": "2026-04-30",
-      "time": "23:43",
-      "summary": "Les accions es disparen després d'assolir xifres rècord al març, impulsant l'optimisme dels inversors davant les futures innovacions."
-    },
-    {
-      "title": "Apple atribueix el creixement de les vendes a l'iPhone «més popular» de la història",
+      "title": "Apple atribueix l'augment de vendes a l'iPhone \"més popular\" de la història",
       "link_id": "c_35dc6b",
       "source": "Financial Times",
-      "date": "2026-04-30",
-      "time": "23:20",
-      "summary": "El futur líder, John Ternus, promet mantenir la disciplina estratègica per consolidar aquest èxit comercial sense precedents."
-    },
-    {
-      "title": "Google tanca el seu millor mes des del 2004 amb una pujada del 34% de les accions d'Alphabet",
-      "link_id": "c_4988b1",
-      "source": "CNBC Technology",
-      "date": "2026-04-30",
-      "time": "20:11",
-      "summary": "Els inversors premien l'estratègia de despesa de l'empresa, contrastant amb la caiguda que ha patit la seva rival Meta."
-    },
-    {
-      "title": "El creixement del núvol de Google supera Microsoft i Amazon gràcies a la demanda d'IA",
-      "link_id": "c_8e9d69",
-      "source": "CNBC Technology",
-      "date": "2026-04-30",
-      "time": "20:00",
-      "summary": "Els resultats trimestrals confirmen que la intel·ligència artificial està accelerant ràpidament l'adopció de serveis al núvol globals."
-    },
-    {
-      "title": "Les accions de xips es disparen en un mes històric en dissipar-se els temors sobre la IA",
-      "link_id": "c_7e8aa0",
-      "source": "CNBC Technology",
       "date": "2026-05-01",
-      "time": "11:15",
-      "summary": "La recuperació de l'abril demostra una renovada confiança del mercat en la infraestructura tecnològica a llarg termini."
+      "time": "20:07",
+      "summary": "El futur conseller delegat, John Ternus, promet mantenir la disciplina estratègica per consolidar aquest creixement rècord."
     },
     {
-      "title": "Japan Airlines prova robots humanoides a l'aeroport de Haneda per combatre la manca de personal",
-      "link_id": "c_bd5af3",
-      "source": "CNBC Technology",
-      "date": "2026-05-01",
-      "time": "06:58",
-      "summary": "L'envelliment de la població obliga el sector de l'aviació a automatitzar els serveis de terra per mantenir l'operativitat."
-    },
-    {
-      "title": "Les accions del fabricant de vàters japonès Toto es disparen pel seu gir cap a la IA",
-      "link_id": "c_919e51",
+      "title": "El Pentàgon firma nous acords d'IA militar amb Nvidia, Microsoft i Amazon",
+      "link_id": "c_d8086a",
       "source": "Financial Times",
       "date": "2026-05-01",
-      "time": "05:17",
-      "summary": "L'empresa diversifica el seu negoci tradicional per fabricar components de semiconductors, generant un gran entusiasme entre els inversors."
+      "time": "13:19",
+      "summary": "Aquests contractes busquen diversificar els proveïdors tecnològics de Defensa després de les recents tensions amb Anthropic."
     },
     {
-      "title": "La guerra de preus dels vehicles elèctrics a la Xina esdevé una cursa armamentística d'IA",
-      "link_id": "c_c95f91",
+      "title": "El cap tecnològic del Pentàgon manté el veto a Anthropic",
+      "link_id": "c_18d244",
       "source": "CNBC Technology",
       "date": "2026-05-01",
-      "time": "04:19",
-      "summary": "Les marques xineses integren funcions intel·ligents avançades per diferenciar-se, tot i que aquestes tecnologies s'estan estandarditzant ràpidament."
+      "time": "12:51",
+      "summary": "El Departament de Defensa aclareix la situació d'Anthropic mentre tanca acords estratègics amb set empreses d'intel·ligència artificial alternatives."
     },
     {
-      "title": "Les vendes de xips de Huawei augmentaran un 60% mentre les tecnològiques xineses eviten Nvidia",
-      "link_id": "c_788f25",
+      "title": "Ajuntaments anglesos provaran una IA de Google per agilitzar decisions urbanístiques",
+      "link_id": "c_5a07f8",
+      "source": "Financial Times",
+      "date": "2026-05-02",
+      "time": "04:00",
+      "summary": "L'eina automatitzarà l'avaluació de projectes per reduir la burocràcia i accelerar les resolucions de planificació local."
+    },
+    {
+      "title": "Conflicte pels centres de dades al cor de les ciutats japoneses",
+      "link_id": "c_7d2a7b",
+      "source": "Financial Times",
+      "date": "2026-05-02",
+      "time": "04:00",
+      "summary": "L'expansió massiva d'infraestructures per a IA genera un fort rebuig veïnal a causa de l'impacte urbà."
+    },
+    {
+      "title": "Estan segurs els teus diners davant d'un ciberatac?",
+      "link_id": "c_8805a2",
+      "source": "Financial Times",
+      "date": "2026-05-02",
+      "time": "04:00",
+      "summary": "El descobriment de noves vulnerabilitats financeres per part de models avançats d'IA encén les alarmes del sector bancari."
+    },
+    {
+      "title": "Les accions d'Atlassian es disparen un 29% gràcies al creixement al núvol",
+      "link_id": "c_6b03df",
+      "source": "CNBC Technology",
+      "date": "2026-05-01",
+      "time": "19:21",
+      "summary": "Els excel·lents resultats financers de l'empresa dissipen els temors sobre l'impacte negatiu de la intel·ligència artificial."
+    },
+    {
+      "title": "El mercat valora de manera diferent els resultats de les grans tecnològiques",
+      "link_id": "c_1253ee",
+      "source": "CNBC Technology",
+      "date": "2026-05-01",
+      "time": "19:11",
+      "summary": "Els inversors comencen a distingir clarament entre els líders consolidats en IA i les empreses que encara generen dubtes."
+    },
+    {
+      "title": "L'ascens irresistible de la intel·ligència artificial com a autora",
+      "link_id": "c_b26f73",
       "source": "Financial Times",
       "date": "2026-05-01",
-      "time": "00:15",
-      "summary": "Les restriccions internacionals afavoreixen el mercat local, impulsant l'adopció massiva dels nous processadors d'intel·ligència artificial de Shenzhen."
+      "time": "16:09",
+      "summary": "La societat haurà d'adaptar-se a conviure diàriament amb les peculiaritats i l'estil dels textos generats per màquines."
     }
   ]
 }
