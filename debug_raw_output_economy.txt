@@ -1,56 +1,40 @@
 {
-  "generated_at": "2024-05-24T18:50",
+  "generated_at": "2026-05-03T10:29",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
+    {
+      "title": "Tothom estima Nintendo, excepte els inversors",
+      "link_id": "c_0c0eba",
+      "source": "Financial Times",
+      "date": "2026-05-03",
+      "time": "04:00",
+      "summary": "L'alt cost dels xips de memòria amenaça el preu de la Switch 2 i preocupa els inversors."
+    },
+    {
+      "title": "Les empreses emergents desafien Apple per les restriccions a les aplicacions d'IA",
+      "link_id": "c_caaf31",
+      "source": "Financial Times",
+      "date": "2026-05-03",
+      "time": "04:00",
+      "summary": "Apple alerta de riscos de seguretat davant l'allau de noves aplicacions d'intel·ligència artificial en el seu procés de revisió."
+    },
+    {
+      "title": "El grup de programari IFS es prepara per sortir a borsa enmig de la inquietud per la IA",
+      "link_id": "c_f987da",
+      "source": "Financial Times",
+      "date": "2026-05-03",
+      "time": "04:00",
+      "summary": "El conseller delegat Mark Moffat avalua Londres, Europa i Nova York per a la seva oferta pública inicial."
+    },
     {
       "title": "El testimoni de Musk domina la primera setmana del judici contra Altman",
       "link_id": "c_6b72eb",
       "source": "CNBC Technology",
       "date": "2026-05-02",
       "time": "12:00",
-      "summary": "Elon Musk va declarar durant tres dies en el seu judici contra el conseller delegat d'OpenAI, Sam Altman."
-    },
-    {
-      "title": "Ajuntaments anglesos provaran una eina d'IA de Google per agilitzar decisions urbanístiques",
-      "link_id": "c_5a07f8",
-      "source": "Financial Times",
-      "date": "2026-05-02",
-      "time": "04:00",
-      "summary": "La intel·ligència artificial recomanarà si s'han d'aprovar o denegar els nous projectes de planificació per accelerar els tràmits."
-    },
-    {
-      "title": "La lluita pels centres de dades al cor de les ciutats japoneses",
-      "link_id": "c_7d2a7b",
-      "source": "Financial Times",
-      "date": "2026-05-02",
-      "time": "04:00",
-      "summary": "El Japó es prepara per un gran augment d'instal·lacions d'IA, generant queixes entre els residents locals propers."
-    },
-    {
-      "title": "Fins a quin punt estan segurs els teus diners dels ciberatacs?",
-      "link_id": "c_8805a2",
-      "source": "Financial Times",
-      "date": "2026-05-02",
-      "time": "04:00",
-      "summary": "El model d'IA Mythos de Claude augmenta el risc en descobrir noves vulnerabilitats en el programari financer."
-    },
-    {
-      "title": "Apple atribueix el creixement de vendes a l'iPhone \"més popular\" de la història",
-      "link_id": "c_35dc6b",
-      "source": "Financial Times",
-      "date": "2026-05-01",
-      "time": "20:07",
-      "summary": "John Ternus promet mantenir la disciplina en les seves primeres declaracions després de ser nomenat futur conseller delegat."
-    },
-    {
-      "title": "Les accions d'Atlassian es disparen un 29% gràcies al fort creixement del núvol",
-      "link_id": "c_6b03df",
-      "source": "CNBC Technology",
-      "date": "2026-05-01",
-      "time": "19:21",
-      "summary": "L'empresa supera les pors de la disrupció de la IA amb uns resultats sòlids en centres de dades."
+      "summary": "Elon Musk va testificar durant tres dies en el seu judici contra el conseller delegat d'OpenAI, Sam Altman."
     }
   ]
 }

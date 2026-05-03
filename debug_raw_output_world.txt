@@ -1,109 +1,88 @@
 {
-  "generated_at": "2024-05-24T18:00",
+  "generated_at": "2026-05-03T10:29",
   "id": "world",
   "title": "Notícies tecnològiques del món",
-  "sources_checked": [
-    {
-      "name": "AnandTech",
-      "url": "https://www.anandtech.com/rss/",
-      "articles_found": 0
-    },
-    {
-      "name": "Wall Street Journal Tech",
-      "url": "https://feeds.a.dj.com/rss/RSSWSJD.xml",
-      "articles_found": 0
-    },
-    {
-      "name": "Gizmodo",
-      "url": "https://www.gizmodo.com/feed/rss",
-      "articles_found": 0
-    },
-    {
-      "name": "Slashdot",
-      "url": "https://slashdot.org/rss/slashdot.rss",
-      "articles_found": 0
-    }
-  ],
+  "sources_checked": [],
   "articles": [
     {
-      "title": "El Mac mini de 599 $ d'Apple ha desaparegut. La culpa és dels agents d'IA.",
-      "link_id": "c_4e6c3e",
-      "source": "The Next Web",
-      "date": "2026-05-02",
-      "time": "07:24",
-      "summary": "L'alta demanda d'eines d'IA local ha esgotat l'estoc, obligant Apple a apujar el preu base a 799 $."
-    },
-    {
-      "title": "El cas de Musk contra OpenAI aterra amb dificultats en la seva primera setmana",
-      "link_id": "c_3842df",
-      "source": "The Next Web",
-      "date": "2026-05-02",
-      "time": "07:38",
-      "summary": "El judici revela tensions i contradiccions, incloent-hi que xAI entrena els seus models amb dades d'OpenAI."
-    },
-    {
-      "title": "Creus que el \"vibe-coding\" et farà ric? Potser hauries de llegir l'informe de riscos",
+      "title": "Creus que el \"vibe-coding\" et farà ric? Hauries de llegir l'informe de riscos",
       "link_id": "c_3101f5",
       "source": "Digital Trends",
       "date": "2026-05-02",
       "time": "14:58",
-      "summary": "Programar amb IA generativa comporta greus riscos de seguretat, proves i qualitat del codi a llarg termini."
+      "summary": "Un nou informe adverteix sobre els greus perills de seguretat i qualitat a llarg termini d'aquesta pràctica de programació."
     },
     {
-      "title": "Waymo intenta frenar els viatges de nens sols en cotxes autònoms",
-      "link_id": "c_0cb1dc",
-      "source": "Wired",
-      "date": "2026-05-01",
-      "time": "22:25",
-      "summary": "Califòrnia endurirà les lleis per multar els vehicles autònoms, mentre Waymo millora la verificació d'edat dels passatgers."
+      "title": "Pistes i respostes per al NYT Strands del diumenge 3 de maig (joc #791)",
+      "link_id": "c_3ae242",
+      "source": "TechRadar",
+      "date": "2026-05-02",
+      "time": "23:00",
+      "summary": "Descobreix totes les solucions i consells necessaris per resoldre el trencaclosques d'avui, incloent-hi l'esquiu \"spangram\"."
     },
     {
-      "title": "Netflix s'obre finalment a les estrenes en cinemes, començant amb la propera pel·lícula de \"Nàrnia\"",
+      "title": "Pistes i respostes per al NYT Connections del diumenge 3 de maig (joc #1057)",
+      "link_id": "c_efd0a7",
+      "source": "TechRadar",
+      "date": "2026-05-02",
+      "time": "23:00",
+      "summary": "Troba l'ajuda que necessites per superar el repte diari de connexions de paraules amb els nostres comentaris exclusius."
+    },
+    {
+      "title": "L'Acadèmia ho deixa clar: la IA no pot guanyar un Oscar per actuar ni escriure",
+      "link_id": "c_f88aa4",
+      "source": "Digital Trends",
+      "date": "2026-05-02",
+      "time": "22:48",
+      "summary": "Les noves regles reforcen que l'autoria i la interpretació humana continuen sent imprescindibles malgrat l'auge tecnològic al cinema."
+    },
+    {
+      "title": "La Xina declara il·legal acomiadar treballadors per substituir-los per intel·ligència artificial",
+      "link_id": "c_6ee099",
+      "source": "Digital Trends",
+      "date": "2026-05-02",
+      "time": "19:27",
+      "summary": "Mentre els Estats Units permeten retallades de personal per finançar la IA, els tribunals xinesos bloquegen aquesta pràctica."
+    },
+    {
+      "title": "Netflix s'obre a les estrenes en cinemes començant per la propera pel·lícula de \"Nàrnia\"",
       "link_id": "c_0b3d6f",
       "source": "Digital Trends",
       "date": "2026-05-02",
       "time": "17:37",
-      "summary": "La plataforma atorgarà 45 dies d'exclusivitat a les sales de cinema, marcant un canvi històric en la seva estratègia."
+      "summary": "La plataforma atorgarà una exclusivitat de 45 dies a les sales, marcant un punt d'inflexió en la seva estratègia."
     },
     {
-      "title": "La Xina dictamina que acomiadar un treballador perquè una IA pot fer la seva feina és il·legal",
-      "link_id": "c_a81b90",
-      "source": "The Next Web",
-      "date": "2026-05-02",
-      "time": "16:30",
-      "summary": "Un tribunal xinès protegeix el mercat laboral nacional prohibint a les empreses substituir empleats per sistemes d'intel·ligència artificial."
+      "title": "Sí, probablement hauries de ser més amable amb la teva IA: per què no és ridícul",
+      "link_id": "c_993769",
+      "source": "Digital Trends",
+      "date": "2026-05-03",
+      "time": "08:28",
+      "summary": "La ciència comença a explicar per què les interaccions amb la intel·ligència artificial empitjoren quan som descortesos."
     },
     {
-      "title": "Uber vol convertir els seus conductors en una xarxa de sensors per a empreses de vehicles autònoms",
-      "link_id": "c_0aef64",
-      "source": "Hacker News",
-      "date": "2026-05-02",
-      "time": "15:38",
-      "summary": "La companyia planeja aprofitar la seva flota per recopilar dades massives i accelerar el desenvolupament de la conducció autònoma."
+      "title": "Aconsegueix Microsoft 365 amb 30 $ de descompte: inclou assistent d'IA i 1 TB d'emmagatzematge",
+      "link_id": "c_654e76",
+      "source": "PCWorld",
+      "date": "2026-05-03",
+      "time": "08:00",
+      "summary": "Aquesta subscripció anual rebaixada ofereix aplicacions ofimàtiques prèmium i eines d'intel·ligència artificial integrades per millorar la teva productivitat."
     },
     {
-      "title": "Meta adquireix una startup d'IA robòtica en la seva aposta per les màquines humanoides",
-      "link_id": "c_bfe467",
-      "source": "Engadget",
-      "date": "2026-05-02",
-      "time": "14:00",
-      "summary": "L'empresa ha comprat Assured Robot Intelligence per reforçar els seus models d'intel·ligència artificial aplicats a la robòtica avançada."
+      "title": "Totes les aplicacions d'Office que necessites per un pagament únic de 17 $",
+      "link_id": "c_05c87e",
+      "source": "PCWorld",
+      "date": "2026-05-03",
+      "time": "08:00",
+      "summary": "Oblida't de les subscripcions mensuals i aconsegueix una llicència per a tota la vida de Microsoft Office Professional Plus 2019."
     },
     {
-      "title": "No et decideixes entre el Razr Fold i el Galaxy Z Fold 7? L'elecció és clara",
-      "link_id": "c_2a2bcf",
-      "source": "Android Authority",
-      "date": "2026-05-02",
-      "time": "10:30",
-      "summary": "El nou plegable de Motorola destaca per sobre de Samsung i Google gràcies a la seva impressionant bateria."
-    },
-    {
-      "title": "Per què un banc canadenc intenta predir terratrèmols amb ordinadors quàntics",
-      "link_id": "c_79d7ad",
-      "source": "The Next Web",
-      "date": "2026-05-02",
-      "time": "07:12",
-      "summary": "El Bank of Montreal utilitza IA i tecnologia quàntica per anticipar desastres naturals i avaluar millor els riscos financers."
+      "title": "Com comprovar si el teu PC està preparat per a la caducitat del certificat d'arrencada segura",
+      "link_id": "c_8060c5",
+      "source": "Digital Trends",
+      "date": "2026-05-03",
+      "time": "07:51",
+      "summary": "No tots els ordinadors s'actualitzaran automàticament abans del juny; aprèn a verificar i solucionar aquest problema crític de seguretat."
     }
   ]
 }

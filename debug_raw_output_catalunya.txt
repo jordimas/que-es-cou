@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T17:45",
+  "generated_at": "2026-05-03T10:30",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [],
@@ -10,7 +10,7 @@
       "source": "324.cat",
       "date": "2026-05-02",
       "time": "16:32",
-      "summary": "El Govern català prepara mesures per adaptar-se a la transformació tecnològica i mitigar la pèrdua d'ocupació imminent."
+      "summary": "El Govern català prepara mesures per adaptar els treballadors a les noves dinàmiques tecnològiques i evitar l'exclusió laboral."
     },
     {
       "title": "La IA podria destruir fins a 2,3 milions de llocs de treball a l’Estat espanyol en una dècada",
@@ -18,47 +18,15 @@
       "source": "MetaData",
       "date": "2026-04-30",
       "time": "12:10",
-      "summary": "Un informe de Funcas adverteix que els nous llocs creats no compensaran les pèrdues, afectant especialment els perfils qualificats."
+      "summary": "Un informe de Funcas adverteix que els nous llocs creats no compensaran les pèrdues, afectant especialment perfils qualificats."
     },
     {
-      "title": "Un estudi del Deutsche Bank afirma que el títol universitari ja no és garantia d’èxit laboral després de la irrupció de la IA",
-      "link_id": "c_aeaf48",
-      "source": "El Periódico",
-      "date": "2026-04-28",
-      "time": "18:00",
-      "summary": "La intel·ligència artificial generativa esdevé un requisit excloent, provocant subocupació entre els joves graduats malgrat la seva formació superior."
-    },
-    {
-      "title": "Canvis en les normes dels Oscars: vetades les pel·lícules amb actors o guions fets amb IA",
-      "link_id": "c_de8739",
-      "source": "RAC1",
-      "date": "2026-05-02",
-      "time": "13:59",
-      "summary": "L'Acadèmia de Hollywood blinda els premis d'interpretació i guió a partir del 2027 per protegir la creativitat exclusivament humana."
-    },
-    {
-      "title": "Els Oscars es blinden davant la IA: actors i guions generats artificialment no optaran a premi",
-      "link_id": "c_b8a533",
+      "title": "Una avaria informàtica ha afectat la compra de medicaments amb recepta a les farmàcies durant 12 hores",
+      "link_id": "c_f1be87",
       "source": "324.cat",
       "date": "2026-05-02",
-      "time": "16:31",
-      "summary": "El nou reglament cinematogràfic estableix un precedent global en la defensa dels professionals del sector davant l'automatització generativa."
-    },
-    {
-      "title": "La intel·ligència artificial ja pot prendre millors decisions que els metges d'urgències, segons un estudi de Harvard",
-      "link_id": "c_55b110",
-      "source": "RAC1",
-      "date": "2026-04-30",
-      "time": "20:50",
-      "summary": "El sistema d'OpenAI assoleix un vuitanta per cent d'encert en diagnòstics, superant els professionals sanitaris en un deu per cent."
-    },
-    {
-      "title": "Una IA supera els metges al prendre decisions teòriques",
-      "link_id": "c_40c2d0",
-      "source": "Segre",
-      "date": "2026-05-02",
-      "time": "05:32",
-      "summary": "Tot i l'èxit teòric de l'algoritme, l'assaig clínic no té en compte l'observació directa i física dels pacients."
+      "time": "20:54",
+      "summary": "Un sistema de contingència ha permès dispensar els fàrmacs més urgents mentre es resolia la incidència tècnica generalitzada."
     },
     {
       "title": "Així funcionarà a Espanya l’aplicació per verificar l’edat dels usuaris a internet",
@@ -66,23 +34,55 @@
       "source": "El Periódico",
       "date": "2026-04-29",
       "time": "13:19",
-      "summary": "La Comissió Europea avala la solució tecnològica que accelerarà la prohibició d'accés a xarxes socials als menors de setze anys."
+      "summary": "La Comissió Europea avala la solució tecnològica que bloquejarà l'accés dels menors de setze anys a les xarxes socials."
     },
     {
-      "title": "Per què internet s’ha convertiten un lloc més inestable i perillós",
-      "link_id": "c_84ce85",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-04-30",
-      "time": "10:55",
-      "summary": "L'augment de talls globals i l'ús maliciós de la intel·ligència artificial posen en risc la infraestructura digital mundial."
+      "title": "Mor Pepe Cruz Novillo, el dissenyador de logotips com el de Correus, Renfe, la policia espanyola o el PSOE",
+      "link_id": "c_be1223",
+      "source": "RAC1",
+      "date": "2026-05-02",
+      "time": "20:27",
+      "summary": "L'artista gràfic de Conca ens deixa als vuitanta-nou anys, havent creat la identitat visual més icònica de l'Estat."
     },
     {
-      "title": "Onada de noves amenaces a la ciberseguretat",
-      "link_id": "c_e418e2",
+      "title": "Mor Cruz Novillo, \"l'home que va dissenyar Espanya\", a 89 anys",
+      "link_id": "c_d91a58",
+      "source": "El Nacional.cat",
+      "date": "2026-05-02",
+      "time": "14:14",
+      "summary": "El seu llegat inclou des de bitllets fins a la imatge corporativa de grans empreses com Repsol o Correus."
+    },
+    {
+      "title": "Volkswagen ID Polo: el cotxe de sempre, però en format elèctric",
+      "link_id": "c_446705",
       "source": "Ara.cat",
-      "date": "2026-05-01",
-      "time": "10:54",
-      "summary": "Les vulnerabilitats en l'arquitectura de les xarxes mòbils dissenyades fa cinquanta anys permeten rastrejar usuaris sense instal·lar cap programari."
+      "date": "2026-05-02",
+      "time": "08:05",
+      "summary": "Aquest nou model urbà es fabricarà a Martorell compartint plataforma amb el Cupra Raval, amb un preu molt competitiu."
+    },
+    {
+      "title": "Quins cotxes elèctrics són les millors opcions aquest 2026?",
+      "link_id": "c_f0ddcf",
+      "source": "VilaWeb",
+      "date": "2026-05-02",
+      "time": "19:40",
+      "summary": "Una anàlisi detallada de quaranta models destaca les alternatives més eficients per a l'estalvi econòmic i la mobilitat familiar."
+    },
+    {
+      "title": "«Vaig ser ximple»: totes les claus de la declaració d’Elon Musk en el seu judici contra OpenAI",
+      "link_id": "c_f0b379",
+      "source": "El Periódico",
+      "date": "2026-04-30",
+      "time": "11:56",
+      "summary": "El magnat s'enfronta als tribunals a l'empresa que va cofundar, en una disputa que podria redefinir la indústria tecnològica."
+    },
+    {
+      "title": "La intel·ligència artificial ja pot prendre millors decisions que els metges d'urgències, segons un estudi de Harvard",
+      "link_id": "c_55b110",
+      "source": "RAC1",
+      "date": "2026-04-30",
+      "time": "20:50",
+      "summary": "El sistema d'OpenAI ha demostrat encertar vuit de cada deu diagnòstics, superant en un deu per cent els professionals."
     }
   ]
 }
