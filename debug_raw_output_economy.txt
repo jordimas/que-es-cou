@@ -1,16 +1,24 @@
 {
-  "generated_at": "2026-05-03T10:29",
+  "generated_at": "2026-05-03T19:45",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
+    {
+      "title": "Francisco Partners negocia la compra de l'empresa de pagaments Moneris",
+      "link_id": "c_6cb18a",
+      "source": "Financial Times",
+      "date": "2026-05-03",
+      "time": "10:00",
+      "summary": "Els bancs nord-americans continuen desfent-se dels seus processadors de pagaments per centrar-se en el negoci principal."
+    },
     {
       "title": "Tothom estima Nintendo, excepte els inversors",
       "link_id": "c_0c0eba",
       "source": "Financial Times",
       "date": "2026-05-03",
       "time": "04:00",
-      "summary": "L'alt cost dels xips de memòria amenaça el preu de la Switch 2 i preocupa els inversors."
+      "summary": "L'augment del cost dels xips de memòria amenaça d'encarir la futura Switch 2 i preocupa els mercats."
     },
     {
       "title": "Les empreses emergents desafien Apple per les restriccions a les aplicacions d'IA",
@@ -18,7 +26,7 @@
       "source": "Financial Times",
       "date": "2026-05-03",
       "time": "04:00",
-      "summary": "Apple alerta de riscos de seguretat davant l'allau de noves aplicacions d'intel·ligència artificial en el seu procés de revisió."
+      "summary": "Els desenvolupadors critiquen els frens de la companyia, que al·lega riscos de seguretat davant l'allau de nou programari."
     },
     {
       "title": "El grup de programari IFS es prepara per sortir a borsa enmig de la inquietud per la IA",
@@ -26,15 +34,7 @@
       "source": "Financial Times",
       "date": "2026-05-03",
       "time": "04:00",
-      "summary": "El conseller delegat Mark Moffat avalua Londres, Europa i Nova York per a la seva oferta pública inicial."
-    },
-    {
-      "title": "El testimoni de Musk domina la primera setmana del judici contra Altman",
-      "link_id": "c_6b72eb",
-      "source": "CNBC Technology",
-      "date": "2026-05-02",
-      "time": "12:00",
-      "summary": "Elon Musk va testificar durant tres dies en el seu judici contra el conseller delegat d'OpenAI, Sam Altman."
+      "summary": "L'empresa avalua mercats com Londres, Europa o Nova York per a la seva oferta pública inicial."
     }
   ]
 }

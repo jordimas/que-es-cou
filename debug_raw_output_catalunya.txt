@@ -1,16 +1,24 @@
 {
-  "generated_at": "2026-05-03T10:30",
+  "generated_at": "2026-05-03T17:45",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [],
   "articles": [
     {
-      "title": "L'impacte de la IA en el mercat laboral: 1 de cada 10 feines perillen en la pròxima dècada",
-      "link_id": "c_950db6",
-      "source": "324.cat",
-      "date": "2026-05-02",
-      "time": "16:32",
-      "summary": "El Govern català prepara mesures per adaptar els treballadors a les noves dinàmiques tecnològiques i evitar l'exclusió laboral."
+      "title": "La IA Mythos dispara les alertes en ciberseguretat i preocupa especialment el sector bancari",
+      "link_id": "c_1682c7",
+      "source": "Àpunt",
+      "date": "2026-05-03",
+      "time": "12:19",
+      "summary": "Aquest model d'intel·ligència artificial detecta vulnerabilitats ràpidament, obrint noves portes a ciberatacs que amenacen la seguretat financera."
+    },
+    {
+      "title": "GPT-5.5, tan perillós com Mythos",
+      "link_id": "c_3153a9",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-05-03",
+      "time": "07:52",
+      "summary": "El nou model d'OpenAI demostra una gran facilitat per trobar errors de ciberseguretat, generant preocupació entre els experts."
     },
     {
       "title": "La IA podria destruir fins a 2,3 milions de llocs de treball a l’Estat espanyol en una dècada",
@@ -18,63 +26,15 @@
       "source": "MetaData",
       "date": "2026-04-30",
       "time": "12:10",
-      "summary": "Un informe de Funcas adverteix que els nous llocs creats no compensaran les pèrdues, afectant especialment perfils qualificats."
+      "summary": "Un informe adverteix que la creació de nova ocupació no compensarà les pèrdues, afectant especialment els perfils més qualificats."
     },
     {
-      "title": "Una avaria informàtica ha afectat la compra de medicaments amb recepta a les farmàcies durant 12 hores",
-      "link_id": "c_f1be87",
-      "source": "324.cat",
-      "date": "2026-05-02",
-      "time": "20:54",
-      "summary": "Un sistema de contingència ha permès dispensar els fàrmacs més urgents mentre es resolia la incidència tècnica generalitzada."
-    },
-    {
-      "title": "Així funcionarà a Espanya l’aplicació per verificar l’edat dels usuaris a internet",
-      "link_id": "c_87b16c",
-      "source": "El Periódico",
-      "date": "2026-04-29",
-      "time": "13:19",
-      "summary": "La Comissió Europea avala la solució tecnològica que bloquejarà l'accés dels menors de setze anys a les xarxes socials."
-    },
-    {
-      "title": "Mor Pepe Cruz Novillo, el dissenyador de logotips com el de Correus, Renfe, la policia espanyola o el PSOE",
-      "link_id": "c_be1223",
-      "source": "RAC1",
-      "date": "2026-05-02",
-      "time": "20:27",
-      "summary": "L'artista gràfic de Conca ens deixa als vuitanta-nou anys, havent creat la identitat visual més icònica de l'Estat."
-    },
-    {
-      "title": "Mor Cruz Novillo, \"l'home que va dissenyar Espanya\", a 89 anys",
-      "link_id": "c_d91a58",
-      "source": "El Nacional.cat",
-      "date": "2026-05-02",
-      "time": "14:14",
-      "summary": "El seu llegat inclou des de bitllets fins a la imatge corporativa de grans empreses com Repsol o Correus."
-    },
-    {
-      "title": "Volkswagen ID Polo: el cotxe de sempre, però en format elèctric",
-      "link_id": "c_446705",
-      "source": "Ara.cat",
-      "date": "2026-05-02",
-      "time": "08:05",
-      "summary": "Aquest nou model urbà es fabricarà a Martorell compartint plataforma amb el Cupra Raval, amb un preu molt competitiu."
-    },
-    {
-      "title": "Quins cotxes elèctrics són les millors opcions aquest 2026?",
-      "link_id": "c_f0ddcf",
-      "source": "VilaWeb",
-      "date": "2026-05-02",
-      "time": "19:40",
-      "summary": "Una anàlisi detallada de quaranta models destaca les alternatives més eficients per a l'estalvi econòmic i la mobilitat familiar."
-    },
-    {
-      "title": "«Vaig ser ximple»: totes les claus de la declaració d’Elon Musk en el seu judici contra OpenAI",
-      "link_id": "c_f0b379",
-      "source": "El Periódico",
-      "date": "2026-04-30",
-      "time": "11:56",
-      "summary": "El magnat s'enfronta als tribunals a l'empresa que va cofundar, en una disputa que podria redefinir la indústria tecnològica."
+      "title": "Els bancs retallen plantilla mentre reassignen tasques amb la IA",
+      "link_id": "c_0de4bf",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-05-03",
+      "time": "07:39",
+      "summary": "La implementació d'aquesta tecnologia ja permet estalviar hores de feina per empleat, accelerant la reestructuració del sector financer."
     },
     {
       "title": "La intel·ligència artificial ja pot prendre millors decisions que els metges d'urgències, segons un estudi de Harvard",
@@ -82,7 +42,47 @@
       "source": "RAC1",
       "date": "2026-04-30",
       "time": "20:50",
-      "summary": "El sistema d'OpenAI ha demostrat encertar vuit de cada deu diagnòstics, superant en un deu per cent els professionals."
+      "summary": "El sistema d'OpenAI encerta vuit de cada deu diagnòstics, superant en un deu per cent els professionals mèdics."
+    },
+    {
+      "title": "Així funcionarà a Espanya l’aplicació per verificar l’edat dels usuaris a internet",
+      "link_id": "c_87b16c",
+      "source": "El Periódico",
+      "date": "2026-04-29",
+      "time": "13:19",
+      "summary": "La Comissió Europea ja té a punt la solució tecnològica per prohibir l'accés dels menors a les xarxes socials."
+    },
+    {
+      "title": "bp pulse instal·larà al 22@ el \"hub de recàrrega pública ultraràpida més gran\" de Barcelona",
+      "link_id": "c_4126fb",
+      "source": "Via Empresa",
+      "date": "2026-05-01",
+      "time": "11:36",
+      "summary": "El projecte arrencarà enguany amb sis punts de fins a 400 kW per impulsar la mobilitat elèctrica al districte."
+    },
+    {
+      "title": "Quins cotxes elèctrics són les millors opcions aquest 2026?",
+      "link_id": "c_f0ddcf",
+      "source": "VilaWeb",
+      "date": "2026-05-02",
+      "time": "19:40",
+      "summary": "Una anàlisi de quaranta models destaca les alternatives més eficients per cobrir les necessitats familiars i estalviar diners."
+    },
+    {
+      "title": "Mor Pepe Cruz Novillo, el dissenyador de logotips com el de Correus, Renfe, la policia o el PSOE",
+      "link_id": "c_be1223",
+      "source": "RAC1",
+      "date": "2026-05-02",
+      "time": "20:27",
+      "summary": "L'històric artista gràfic ha mort als vuitanta-nou anys, deixant un llegat visual fonamental en la història d'Espanya."
+    },
+    {
+      "title": "«Vaig ser ximple»: totes les claus de la declaració d’Elon Musk en el seu judici contra OpenAI",
+      "link_id": "c_f0b379",
+      "source": "El Periódico",
+      "date": "2026-04-30",
+      "time": "11:56",
+      "summary": "La batalla legal entre el magnat i l'empresa creadora de ChatGPT podria transformar tota la indústria tecnològica."
     }
   ]
 }
