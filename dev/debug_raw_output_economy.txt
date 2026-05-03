@@ -1,88 +1,32 @@
 {
-  "generated_at": "2024-05-24T18:30",
+  "generated_at": "2026-05-03T13:33",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Les accions d'Apple pugen per la forta demanda d'iPhone i Mac",
-      "link_id": "c_f20bb2",
-      "source": "CNBC Technology",
-      "date": "2026-05-01",
-      "time": "20:11",
-      "summary": "Les previsions d'ingressos superen les expectatives dels analistes, impulsant el valor de l'empresa al mercat borsari."
-    },
-    {
-      "title": "Apple atribueix l'augment de vendes a l'iPhone \"més popular\" de la història",
-      "link_id": "c_35dc6b",
+      "title": "Tothom estima Nintendo, excepte els inversors",
+      "link_id": "c_0c0eba",
       "source": "Financial Times",
-      "date": "2026-05-01",
-      "time": "20:07",
-      "summary": "El futur conseller delegat, John Ternus, promet mantenir la disciplina estratègica per consolidar aquest creixement rècord."
-    },
-    {
-      "title": "El Pentàgon firma nous acords d'IA militar amb Nvidia, Microsoft i Amazon",
-      "link_id": "c_d8086a",
-      "source": "Financial Times",
-      "date": "2026-05-01",
-      "time": "13:19",
-      "summary": "Aquests contractes busquen diversificar els proveïdors tecnològics de Defensa després de les recents tensions amb Anthropic."
-    },
-    {
-      "title": "El cap tecnològic del Pentàgon manté el veto a Anthropic",
-      "link_id": "c_18d244",
-      "source": "CNBC Technology",
-      "date": "2026-05-01",
-      "time": "12:51",
-      "summary": "El Departament de Defensa aclareix la situació d'Anthropic mentre tanca acords estratègics amb set empreses d'intel·ligència artificial alternatives."
-    },
-    {
-      "title": "Ajuntaments anglesos provaran una IA de Google per agilitzar decisions urbanístiques",
-      "link_id": "c_5a07f8",
-      "source": "Financial Times",
-      "date": "2026-05-02",
+      "date": "2026-05-03",
       "time": "04:00",
-      "summary": "L'eina automatitzarà l'avaluació de projectes per reduir la burocràcia i accelerar les resolucions de planificació local."
+      "summary": "L'augment del cost dels xips de memòria amenaça d'encarir la Switch 2, preocupant els mercats sobre el seu èxit."
     },
     {
-      "title": "Conflicte pels centres de dades al cor de les ciutats japoneses",
-      "link_id": "c_7d2a7b",
+      "title": "Les empreses emergents desafien Apple per les restriccions a les aplicacions d'IA",
+      "link_id": "c_caaf31",
       "source": "Financial Times",
-      "date": "2026-05-02",
+      "date": "2026-05-03",
       "time": "04:00",
-      "summary": "L'expansió massiva d'infraestructures per a IA genera un fort rebuig veïnal a causa de l'impacte urbà."
+      "summary": "Apple alerta de riscos de seguretat davant l'allau de nou programari que inunda el seu procés de revisió."
     },
     {
-      "title": "Estan segurs els teus diners davant d'un ciberatac?",
-      "link_id": "c_8805a2",
+      "title": "El grup de programari IFS es prepara per sortir a borsa enmig de la inquietud per la IA",
+      "link_id": "c_f987da",
       "source": "Financial Times",
-      "date": "2026-05-02",
+      "date": "2026-05-03",
       "time": "04:00",
-      "summary": "El descobriment de noves vulnerabilitats financeres per part de models avançats d'IA encén les alarmes del sector bancari."
-    },
-    {
-      "title": "Les accions d'Atlassian es disparen un 29% gràcies al creixement al núvol",
-      "link_id": "c_6b03df",
-      "source": "CNBC Technology",
-      "date": "2026-05-01",
-      "time": "19:21",
-      "summary": "Els excel·lents resultats financers de l'empresa dissipen els temors sobre l'impacte negatiu de la intel·ligència artificial."
-    },
-    {
-      "title": "El mercat valora de manera diferent els resultats de les grans tecnològiques",
-      "link_id": "c_1253ee",
-      "source": "CNBC Technology",
-      "date": "2026-05-01",
-      "time": "19:11",
-      "summary": "Els inversors comencen a distingir clarament entre els líders consolidats en IA i les empreses que encara generen dubtes."
-    },
-    {
-      "title": "L'ascens irresistible de la intel·ligència artificial com a autora",
-      "link_id": "c_b26f73",
-      "source": "Financial Times",
-      "date": "2026-05-01",
-      "time": "16:09",
-      "summary": "La societat haurà d'adaptar-se a conviure diàriament amb les peculiaritats i l'estil dels textos generats per màquines."
+      "summary": "El conseller delegat Mark Moffat avalua llançar l'oferta pública inicial a Londres, Europa o Nova York pròximament."
     }
   ]
 }

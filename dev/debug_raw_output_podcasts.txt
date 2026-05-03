@@ -1,5 +1,5 @@
 {
-  "generated_at": "2024-05-24T16:30",
+  "generated_at": "2024-05-24T16:00",
   "id": "podcasts",
   "title": "Podcasts en català sobre tecnologia",
   "sources_checked": [],
@@ -10,7 +10,7 @@
       "source": "Mossega la poma",
       "date": "2026-04-29",
       "time": "16:34",
-      "summary": "Anàlisi del nou MacBook Neo, processos avançats d'intel·ligència artificial i reflexions sobre els entorns de treball actuals."
+      "summary": "Marc analitza el nou MacBook Neo i detalla processos avançats d'IA, mentre Dani comenta l'entorn de treball."
     },
     {
       "title": "Apple i el relleu del CEO – Programa 661",
@@ -18,7 +18,7 @@
       "source": "Mossega la poma",
       "date": "2026-04-24",
       "time": "09:33",
-      "summary": "Debat sobre el futur d'Apple després del relleu de Tim Cook i l'ús d'IA per monitorar empleats a Meta."
+      "summary": "S'analitza el futur d'Apple amb el relleu de Tim Cook i l'ús d'IA interna per part de Meta."
     },
     {
       "title": "Especial Oients residents als Estats Units – Programa 660",
@@ -26,7 +26,7 @@
       "source": "Mossega la poma",
       "date": "2026-04-20",
       "time": "16:03",
-      "summary": "Conversa amb oients nord-americans sobre l'actualitat del país, eines de desenvolupament al núvol i programació amb IA."
+      "summary": "Conversa amb oients dels Estats Units sobre l'actualitat del país, eines de desenvolupament al núvol i programació IA."
     },
     {
       "title": "L' Altra Ràdio - La computació quàntica",
@@ -34,7 +34,7 @@
       "source": "L'altra ràdio",
       "date": "2026-04-30",
       "time": "07:33",
-      "summary": "Mariona Sanz del BSC explica els fonaments de la computació quàntica i presenta l'empresa emergent Quilimanjaro."
+      "summary": "Mariona Sanz del BSC explica la computació quàntica i presenta Quilimanjaro, una empresa emergent d'aquesta tecnologia."
     },
     {
       "title": "L' Altra Ràdio - Els robotaxis: taxis sense conductor humà",
@@ -42,7 +42,7 @@
       "source": "L'altra ràdio",
       "date": "2026-04-23",
       "time": "07:33",
-      "summary": "Jordi Barreda analitza l'evolució dels vehicles autònoms dissenyats per al transport de passatgers sense intervenció humana."
+      "summary": "Jordi Barreda analitza els robotaxis, vehicles autònoms dissenyats per al transport de passatgers sense necessitat de conductor humà."
     },
     {
       "title": "El gòTIC - Tenim una missió! del 29/4/2026",
@@ -50,7 +50,15 @@
       "source": "El Gòtic",
       "date": "2026-04-28",
       "time": "16:29",
-      "summary": "El projecte de Tàrrega comparteix recursos i estratègies per afrontar els grans reptes de la ciutadania digital."
+      "summary": "El gòTIC de Tàrrega comparteix recursos i estratègies per afrontar els grans reptes i inquietuds de la ciutadania digital."
+    },
+    {
+      "title": "El manifest de Palantir, l'acord del Pentàgon amb vuit grans empreses d'IA i el relleu al capdavant d'Apple.",
+      "link_id": "c_0ae4e7",
+      "source": "Internet amb Genís Roca",
+      "date": "2026-05-01",
+      "time": "20:10",
+      "summary": "Anàlisi de l'acord militar sobre intel·ligència artificial, el manifest de Palantir i els canvis directius a Apple."
     },
     {
       "title": "On van els calerons dels catalans? Amb Gerard Giménez Adsuar, el creador de subvencions.cat",
@@ -58,7 +66,7 @@
       "source": "Foc a Terra",
       "date": "2026-04-27",
       "time": "04:00",
-      "summary": "Gerard Giménez Adsuar explica com fomenta la transparència de les entitats públiques catalanes mitjançant els seus portals web."
+      "summary": "Gerard Giménez Adsuar explica com funciona subvencions.cat per aportar transparència a les despeses de les entitats públiques catalanes."
     },
     {
       "title": "La pensió de les paneroles i altres patrons de decepció",
@@ -66,7 +74,7 @@
       "source": "Foc a Terra",
       "date": "2026-04-20",
       "time": "04:00",
-      "summary": "Anàlisi dels trucs de disseny enganyosos que utilitzen grans empreses per manipular les decisions dels usuaris a internet."
+      "summary": "S'exposen els patrons foscos de disseny que utilitzen grans empreses per manipular les decisions dels usuaris a internet."
     },
     {
       "title": "WordPress 7.0 d’aquí a 3 setmanes",
@@ -74,7 +82,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-04-28",
       "time": "00:00",
-      "summary": "S'anuncia la data de llançament de la nova versió major del gestor de continguts, prevista pel 20 de maig."
+      "summary": "La nova versió major de WordPress ja té data de llançament prevista per al proper 20 de maig."
     },
     {
       "title": "Matt Mullenweg reflexiona i opina sobre el rumb de WordPress",
@@ -82,7 +90,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-04-21",
       "time": "00:00",
-      "summary": "El creador de la plataforma critica la cultura de procés actual que paralitza la presa de decisions del projecte."
+      "summary": "Matt Mullenweg critica la cultura de procés actual del projecte, afirmant que paralitza decisions i eclipsa els contribuïdors."
     },
     {
       "title": "Capítol 63: Nanobots Therapeutics, robots per curar el càncer de bufeta",
@@ -90,7 +98,7 @@
       "source": "RAC&GO",
       "date": "2026-04-21",
       "time": "06:00",
-      "summary": "Una empresa emergent catalana desenvolupa robots microscòpics capaços de navegar pel cos humà per atacar tumors cancerosos."
+      "summary": "Una empresa emergent catalana desenvolupa nanorobots capaços de moure's pel cos humà per atacar directament tumors cancerosos."
     }
   ]
 }

@@ -1,17 +1,17 @@
 {
-  "generated_at": "2024-05-24T16:00",
+  "generated_at": "2026-05-03T12:00",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
     {
       "name": "Ara.cat",
       "url": "https://www.ara.cat/rss/",
-      "articles_found": 10
+      "articles_found": 6
     },
     {
       "name": "El Periódico",
       "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
-      "articles_found": 8
+      "articles_found": 6
     },
     {
       "name": "RAC1",
@@ -21,12 +21,12 @@
     {
       "name": "La Vanguardia (en català)",
       "url": "https://www.lavanguardia.com/rss/encatala.xml",
-      "articles_found": 4
+      "articles_found": 3
     },
     {
       "name": "VilaWeb",
       "url": "https://www.vilaweb.cat/feed/",
-      "articles_found": 0
+      "articles_found": 1
     },
     {
       "name": "NacióDigital",
@@ -46,12 +46,12 @@
     {
       "name": "El Nacional.cat",
       "url": "https://www.elnacional.cat/uploads/feeds/feed_ca.xml",
-      "articles_found": 14
+      "articles_found": 16
     },
     {
       "name": "El Mon.cat",
       "url": "https://www.elmon.cat/feed/",
-      "articles_found": 0
+      "articles_found": 2
     },
     {
       "name": "El Mon.cat Tecnologia",
@@ -76,7 +76,7 @@
     {
       "name": "Segre",
       "url": "https://www.segre.com/ca/rss/home.xml",
-      "articles_found": 2
+      "articles_found": 4
     },
     {
       "name": "Regio7",
@@ -136,7 +136,7 @@
     {
       "name": "Lleida Diari",
       "url": "https://www.lleidadiari.cat/feed/",
-      "articles_found": 1
+      "articles_found": 2
     },
     {
       "name": "Catorze",
@@ -156,7 +156,7 @@
     {
       "name": "MetaData",
       "url": "https://www.metadata.cat/sindica",
-      "articles_found": 9
+      "articles_found": 6
     },
     {
       "name": "El Temps",
@@ -166,7 +166,7 @@
     {
       "name": "Àpunt",
       "url": "https://www.apuntmedia.es/rss/",
-      "articles_found": 1
+      "articles_found": 0
     },
     {
       "name": "El Periòdic d'Ontinyent",
@@ -191,7 +191,7 @@
     {
       "name": "Ara Balears",
       "url": "https://www.arabalears.cat/rss/",
-      "articles_found": 1
+      "articles_found": 0
     },
     {
       "name": "Manacor Comarcal",
@@ -216,44 +216,20 @@
   ],
   "articles": [
     {
-      "title": "Una IA supera els metges al prendre decisions teòriques",
-      "link_id": "c_40c2d0",
-      "source": "Segre",
+      "title": "L'impacte de la IA en el mercat laboral: 1 de cada 10 feines perillen en la pròxima dècada",
+      "link_id": "c_950db6",
+      "source": "324.cat",
       "date": "2026-05-02",
-      "time": "05:32",
-      "summary": "Un estudi demostra que els sistemes d'intel·ligència artificial ja superen els professionals mèdics en diagnòstics teòrics."
+      "time": "16:32",
+      "summary": "El Govern català prepara mesures per adaptar els treballadors a les noves dinàmiques tecnològiques i evitar l'exclusió."
     },
     {
-      "title": "Milions de feines en joc per la IA: què diu l’últim informe",
-      "link_id": "c_91e322",
-      "source": "Lleida Diari",
-      "date": "2026-05-01",
-      "time": "11:09",
-      "summary": "La intel·ligència artificial podria destruir 2,3 milions de llocs de treball a Espanya, tot i crear-ne de nous."
-    },
-    {
-      "title": "OpenAI sacseja el mercat i es deslliga de Microsoft per créixer amb nous aliats",
-      "link_id": "c_27ee25",
-      "source": "MetaData",
-      "date": "2026-04-28",
-      "time": "11:40",
-      "summary": "L'empresa creadora de ChatGPT trenca l'exclusivitat amb Microsoft per obrir-se a col·laboracions amb gegants com Google i Amazon."
-    },
-    {
-      "title": "Roger Torrent defensa l'aposta per la indústria militar: \"Catalunya ha de poder dir alguna cosa i ser un actor rellevant. No ho ha sigut fins ara\"",
-      "link_id": "c_419051",
-      "source": "RAC1",
+      "title": "Una avaria informàtica ha afectat la compra de medicaments amb recepta a les farmàcies durant 12 hores",
+      "link_id": "c_f1be87",
+      "source": "324.cat",
       "date": "2026-05-02",
-      "time": "11:10",
-      "summary": "La Cambra de Comerç identifica 750 empreses catalanes amb potencial per reconvertir-se i facturar en el sector de defensa."
-    },
-    {
-      "title": "Volkswagen ID Polo: el cotxe de sempre, però en format elèctric",
-      "link_id": "c_446705",
-      "source": "Ara.cat",
-      "date": "2026-05-02",
-      "time": "08:05",
-      "summary": "El nou utilitari elèctric de Volkswagen es fabricarà a la planta de Martorell compartint plataforma amb el Cupra Raval."
+      "time": "20:54",
+      "summary": "Un sistema de contingència ha permès dispensar fàrmacs urgents mentre se solucionava la caiguda de la xarxa."
     },
     {
       "title": "Així funcionarà a Espanya l’aplicació per verificar l’edat dels usuaris a internet",
@@ -261,15 +237,23 @@
       "source": "El Periódico",
       "date": "2026-04-29",
       "time": "13:19",
-      "summary": "La Comissió Europea ja té a punt la solució tecnològica per bloquejar l'accés dels menors a les xarxes socials."
+      "summary": "La Comissió Europea ja té a punt la tecnologia per bloquejar l'accés de menors a les xarxes socials."
     },
     {
-      "title": "Spotify mou fitxa i llança insígnies de verificació per distingir artistes reals i contingut generat amb IA",
-      "link_id": "c_2542d9",
+      "title": "Les caixes negres dels vehicles resolen més de mil accidents de trànsit",
+      "link_id": "c_3a67ff",
+      "source": "El Mon.cat",
+      "date": "2026-05-03",
+      "time": "10:58",
+      "summary": "Els Mossos d'Esquadra extreuen dades d'aquests dispositius obligatoris per esclarir sinistres complexos a les carreteres catalanes."
+    },
+    {
+      "title": "La intel·ligència artificial ja pot prendre millors decisions que els metges d'urgències, segons un estudi de Harvard",
+      "link_id": "c_55b110",
       "source": "RAC1",
-      "date": "2026-05-01",
+      "date": "2026-04-30",
       "time": "20:50",
-      "summary": "La plataforma musical introdueix un segell d'autenticitat per combatre la proliferació de perfils falsos creats amb intel·ligència artificial."
+      "summary": "El sistema d'OpenAI aconsegueix un 80% d'encert en els diagnòstics, superant els professionals sanitaris en un 10%."
     },
     {
       "title": "Cansat que Google et recomani sempre els mateixos mitjans? Ara ja els pots triar tu",
@@ -277,15 +261,15 @@
       "source": "Ara.cat",
       "date": "2026-04-30",
       "time": "14:52",
-      "summary": "El cercador activa una nova funció que permet als usuaris personalitzar quines fonts d'informació volen prioritzar als resultats."
+      "summary": "Una nova funció permet als usuaris personalitzar les fonts d'informació i esquivar l'algoritme predeterminat del cercador."
     },
     {
-      "title": "Filtració de dades de Naturgy que afecta informació confidencial del 3% dels clients",
-      "link_id": "c_9a3c4f",
-      "source": "324.cat",
-      "date": "2026-05-01",
-      "time": "21:34",
-      "summary": "La companyia energètica activa protocols de seguretat després de patir una bretxa que exposa dades sensibles dels seus usuaris."
+      "title": "Quins cotxes elèctrics són les millors opcions aquest 2026?",
+      "link_id": "c_f0ddcf",
+      "source": "VilaWeb",
+      "date": "2026-05-02",
+      "time": "19:40",
+      "summary": "Una guia pràctica repassa quaranta models ideals per a famílies que busquen estalvi econòmic i mobilitat sostenible."
     },
     {
       "title": "bp pulse instal·larà al 22@ el \"hub de recàrrega pública ultraràpida més gran\" de Barcelona",
@@ -293,7 +277,23 @@
       "source": "Via Empresa",
       "date": "2026-05-01",
       "time": "11:36",
-      "summary": "El districte tecnològic acollirà enguany sis nous punts de càrrega de 400 kW per a vehicles elèctrics."
+      "summary": "El districte tecnològic estrenarà enguany sis punts de 400 kW per impulsar l'ús del vehicle elèctric."
+    },
+    {
+      "title": "La IA catalana que fa de 'personal shopper'",
+      "link_id": "c_aaba00",
+      "source": "Ara.cat",
+      "date": "2026-05-03",
+      "time": "07:00",
+      "summary": "Una empresa emergent prova amb èxit un assistent virtual de compres en diversos centres comercials del país."
+    },
+    {
+      "title": "Els Oscars es blinden davant la IA: actors i guions generats artificialment no optaran a premi",
+      "link_id": "c_b8a533",
+      "source": "324.cat",
+      "date": "2026-05-02",
+      "time": "16:31",
+      "summary": "L'Acadèmia actualitza el reglament per garantir que els guardons d'interpretació i escriptura recaiguin exclusivament en humans."
     }
   ]
 }

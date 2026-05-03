@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-05-02T13:36",
+  "generated_at": "2026-05-03T13:33",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Apple apuja el preu base del Mac Mini",
-      "link_id": "c_0519e8",
-      "source": "The Verge",
-      "date": "2026-05-01",
-      "time": "17:52",
-      "summary": "Apple ha eliminat l'opció de 256 GB, augmentant el preu base del Mac Mini a causa de l'alta demanda."
+      "title": "Microsoft ara recomana 32 GB de RAM com a configuració ideal de futur per a videojocs",
+      "link_id": "c_6b240a",
+      "source": "Tom's Hardware",
+      "date": "2026-05-03",
+      "time": "10:40",
+      "summary": "L'empresa suggereix aquesta quantitat de memòria per evitar problemes de rendiment en els títols més exigents del mercat."
     },
     {
-      "title": "El Pentàgon signa acords amb Nvidia, Microsoft i AWS per desplegar IA en xarxes classificades",
-      "link_id": "c_e29a38",
+      "title": "Els actors i guions generats per IA ja no poden optar als premis Oscar",
+      "link_id": "c_485f6c",
       "source": "TechCrunch",
-      "date": "2026-05-01",
-      "time": "16:02",
-      "summary": "El Departament de Defensa dels EUA diversifica els seus proveïdors d'IA per a xarxes classificades després de disputes amb Anthropic."
+      "date": "2026-05-02",
+      "time": "21:54",
+      "summary": "L'Acadèmia ha actualitzat les normes per garantir que només el talent humà sigui reconegut en les categories d'interpretació i guió."
     },
     {
-      "title": "El cas Musk contra Altman tot just acaba de començar",
-      "link_id": "c_3512bd",
+      "title": "La Xina declara il·legal acomiadar treballadors per substituir-los per intel·ligència artificial",
+      "link_id": "c_6ee099",
+      "source": "Digital Trends",
+      "date": "2026-05-02",
+      "time": "19:27",
+      "summary": "Mentre les tecnològiques nord-americanes redueixen plantilles per invertir en IA, els tribunals xinesos prohibeixen aquesta pràctica per protegir l'ocupació."
+    },
+    {
+      "title": "Google explica per què Android AICore de vegades ocupa més espai d'emmagatzematge",
+      "link_id": "c_bd784a",
+      "source": "9to5Google",
+      "date": "2026-05-02",
+      "time": "18:04",
+      "summary": "L'augment d'espai es deu a un mecanisme de seguretat raonable per als models d'IA generativa integrats als dispositius mòbils."
+    },
+    {
+      "title": "Netflix retarda la pel·lícula 'Nàrnia' de Greta Gerwig per a una gran estrena en cinemes el 2027",
+      "link_id": "c_4e2089",
       "source": "TechCrunch",
-      "date": "2026-05-01",
-      "time": "14:00",
-      "summary": "El judici entre Elon Musk i OpenAI revela correus privats sobre la transició a un model amb ànim de lucre."
+      "date": "2026-05-02",
+      "time": "17:05",
+      "summary": "La plataforma aposta per una finestra d'exclusivitat a les sales, marcant un canvi important en la seva estratègia de distribució."
     },
     {
-      "title": "Oura afegeix dades més detallades sobre salut hormonal als seus anells Series 3 i 4",
-      "link_id": "c_fa04c8",
-      "source": "Engadget",
-      "date": "2026-05-01",
-      "time": "16:37",
-      "summary": "Els anells intel·ligents ara faran un seguiment dels efectes secundaris dels mètodes anticonceptius i oferiran dades sobre la menopausa."
+      "title": "Creus que programar amb IA et farà ric? Llegeix abans l'informe de riscos",
+      "link_id": "c_3101f5",
+      "source": "Digital Trends",
+      "date": "2026-05-02",
+      "time": "14:58",
+      "summary": "Els experts adverteixen sobre greus problemes de seguretat i qualitat a llarg termini en el codi generat per intel·ligència artificial."
     },
     {
-      "title": "Els serveis d'Ubuntu pateixen interrupcions després d'un atac DDoS",
-      "link_id": "c_f34f3c",
-      "source": "TechCrunch",
-      "date": "2026-05-01",
-      "time": "15:00",
-      "summary": "Un grup de hacktivistes ha reivindicat un atac de denegació de servei que impedeix als usuaris actualitzar el sistema operatiu."
+      "title": "Transmissió en directe del Man Utd vs Liverpool: com veure la Premier League des de qualsevol lloc",
+      "link_id": "c_1bfaeb",
+      "source": "TechRadar",
+      "date": "2026-05-03",
+      "time": "11:30",
+      "summary": "Descobreix totes les opcions per seguir en línia aquest gran enfrontament del futbol anglès, independentment del teu país de residència."
     },
     {
-      "title": "Descoberta una greu falla de seguretat a Linux anomenada Copy Fail amb l'ajuda d'escaneig d'IA",
-      "link_id": "c_5f9ef9",
-      "source": "The Verge",
-      "date": "2026-05-01",
-      "time": "12:55",
-      "summary": "Una vulnerabilitat crítica permet a qualsevol usuari obtenir privilegis d'administrador en gairebé totes les distribucions de Linux des del 2017."
+      "title": "Una 'GameCube' de la mida d'un clauer utilitza xips originals de Nintendo",
+      "link_id": "c_90e346",
+      "source": "Tom's Hardware",
+      "date": "2026-05-03",
+      "time": "11:20",
+      "summary": "Aquest projecte de modificació inclou una base de connexió i els seus plànols s'han compartit obertament a la plataforma GitHub."
     },
     {
-      "title": "Meta compra una emergent de robòtica per reforçar les seves ambicions d'IA humanoide",
-      "link_id": "c_1593fc",
-      "source": "TechCrunch",
-      "date": "2026-05-01",
-      "time": "22:13",
-      "summary": "L'empresa ha adquirit aquesta emergent per millorar els seus models d'intel·ligència artificial aplicats a la robòtica humanoide."
-    },
-    {
-      "title": "Aquest accessori pot fixar un Steam Controller al teu telèfon, o a gairebé qualsevol altra cosa",
-      "link_id": "c_d3f127",
-      "source": "The Verge",
-      "date": "2026-05-01",
-      "time": "13:00",
-      "summary": "Mechanism ha creat un suport que permet fixar el nou comandament de Valve al telèfon mòbil de manera senzilla."
-    },
-    {
-      "title": "Primeres impressions del Motorola Razr Fold: atenció Samsung, aquest telèfon té avantatge",
-      "link_id": "c_073ca3",
+      "title": "AT&T reorganitza les seves tarifes il·limitades: això és el que obtindràs i pagaràs",
+      "link_id": "c_2ee38d",
       "source": "CNET",
-      "date": "2026-05-01",
-      "time": "22:38",
-      "summary": "El primer telèfon plegable tipus llibre de la companyia destaca pel seu disseny elegant i una bateria de gran capacitat."
+      "date": "2026-05-03",
+      "time": "11:01",
+      "summary": "La companyia actualitza els plans amb millores generals, tot i que l'opció principal augmenta en preu i en prestacions."
     },
     {
-      "title": "BMO recorre a la IA i la computació quàntica per predir terratrèmols",
-      "link_id": "c_e041e2",
-      "source": "Bloomberg",
-      "date": "2026-05-01",
-      "time": "19:06",
-      "summary": "El banc canadenc utilitza tecnologies avançades per preveure sismes i incendis forestals com a part de la seva expansió."
+      "title": "Netflix: 28 de les millors sèries de ciència-ficció que hauries de veure ara mateix",
+      "link_id": "c_1d4566",
+      "source": "CNET",
+      "date": "2026-05-03",
+      "time": "11:01",
+      "summary": "Una selecció imprescindible de les produccions més destacades d'aquest gènere disponibles actualment al catàleg de la popular plataforma de streaming."
     }
   ]
 }
