@@ -1,24 +1,72 @@
 {
-  "generated_at": "2024-05-24T18:30",
+  "generated_at": "2024-05-24T20:30",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
+    {
+      "title": "Anthropic s'alia amb Goldman i Blackstone en un projecte d'IA de 1.500 milions",
+      "link_id": "c_cd2f36",
+      "source": "CNBC Technology",
+      "date": "2026-05-04",
+      "time": "16:46",
+      "summary": "La nova aliança busca accelerar l'adopció d'intel·ligència artificial en empreses de capital privat per guanyar avantatge competitiu."
+    },
+    {
+      "title": "Blackstone i Goldman donen suport a una aliança de 1.500 milions amb Anthropic",
+      "link_id": "c_809fb2",
+      "source": "Financial Times",
+      "date": "2026-05-04",
+      "time": "13:58",
+      "summary": "Aquesta consultora emergent guiarà els inversors de Wall Street per optimitzar les seves carteres mitjançant eines d'IA avançades."
+    },
+    {
+      "title": "Sierra, de Bret Taylor, capta gairebé 1.000 milions pocs mesos després de l'última ronda",
+      "link_id": "c_26e23c",
+      "source": "CNBC Technology",
+      "date": "2026-05-04",
+      "time": "17:09",
+      "summary": "La injecció de capital, liderada per Tiger i GV, consolida el ràpid creixement d'aquesta prometedora empresa tecnològica."
+    },
+    {
+      "title": "Peter Thiel inverteix en centres de dades oceànics impulsats per onades",
+      "link_id": "c_f055e1",
+      "source": "Financial Times",
+      "date": "2026-05-04",
+      "time": "15:00",
+      "summary": "L'aposta per Panthalassa reflecteix la necessitat urgent de trobar fonts d'energia alternatives i sostenibles per alimentar la IA."
+    },
+    {
+      "title": "El testimoni de Musk domina la primera setmana del judici contra Altman",
+      "link_id": "c_6b72eb",
+      "source": "CNBC Technology",
+      "date": "2026-05-04",
+      "time": "11:29",
+      "summary": "El magnat acusa el líder d'OpenAI d'apropiar-se d'una organització sense ànim de lucre durant tres dies de declaracions tenses."
+    },
+    {
+      "title": "El fabricant de xips d'IA Cerebras busca captar 3.500 milions en la seva sortida a borsa",
+      "link_id": "c_3a3fc3",
+      "source": "CNBC Technology",
+      "date": "2026-05-04",
+      "time": "10:45",
+      "summary": "Aquesta operació podria elevar la valoració de l'empresa fins als 24.500 milions, reflectint l'alta demanda de maquinari especialitzat."
+    },
     {
       "title": "IA + Halo = $$$",
       "link_id": "c_b91774",
       "source": "Financial Times",
       "date": "2026-05-04",
       "time": "05:30",
-      "summary": "Un petit auge tecnoindustrial demostra com la intel·ligència artificial està generant noves oportunitats econòmiques i beneficis."
+      "summary": "La convergència entre la intel·ligència artificial i noves tecnologies industrials està generant un petit però lucratiu auge econòmic."
     },
     {
-      "title": "Dinamarca s'enfronta a una crisi de centres de dades per la xarxa elèctrica desbordada",
+      "title": "Dinamarca s'enfronta a una crisi de centres de dades per la saturació de la xarxa elèctrica",
       "link_id": "c_fd5fa8",
       "source": "CNBC Technology",
       "date": "2026-05-04",
       "time": "05:00",
-      "summary": "L'augment de la demanda energètica obliga els governs a plantejar límits al creixement d'aquestes instal·lacions tecnològiques."
+      "summary": "L'augment desmesurat del consum energètic obliga els governs a plantejar restriccions estrictes per frenar l'expansió d'aquestes instal·lacions."
     },
     {
       "title": "La IA a la pràctica",
@@ -26,63 +74,15 @@
       "source": "Financial Times",
       "date": "2026-05-04",
       "time": "04:16",
-      "summary": "Diversos sectors, des de la restauració fins a les finances, adopten la intel·ligència artificial per optimitzar processos i reduir costos."
+      "summary": "Diversos sectors, des de la restauració fins a les finances, adopten solucions automatitzades per reduir costos i millorar l'eficiència."
     },
     {
-      "title": "«És crucial»: com la IA està transformant la indústria dels perfums",
+      "title": "\"És crucial\": com la IA està transformant la indústria dels perfums",
       "link_id": "c_1dd5a9",
       "source": "Financial Times",
       "date": "2026-05-04",
       "time": "04:00",
-      "summary": "La tecnologia permet crear fragàncies hiperpersonalitzades i reduir despeses, revolucionant completament el mercat de la cosmètica."
-    },
-    {
-      "title": "Lliçons dels pioners en IA agencial",
-      "link_id": "c_9af1cd",
-      "source": "Financial Times",
-      "date": "2026-05-04",
-      "time": "04:00",
-      "summary": "Els primers usuaris d'aquesta tecnologia comparteixen consells clau per a les empreses que encara no han implementat agents intel·ligents."
-    },
-    {
-      "title": "Les empreses d'aigua abandonen els bastons d'escolta i adopten la IA",
-      "link_id": "c_75b758",
-      "source": "Financial Times",
-      "date": "2026-05-04",
-      "time": "04:00",
-      "summary": "L'ús d'algoritmes permet a països líders reduir dràsticament les fuites d'aigua en comparació amb els mètodes tradicionals."
-    },
-    {
-      "title": "Els gestors de patrimonis insisteixen que la IA els pot afavorir",
-      "link_id": "c_2795a4",
-      "source": "Financial Times",
-      "date": "2026-05-04",
-      "time": "04:00",
-      "summary": "Malgrat els temors inicials al mercat, el sector financer comença a aprofitar els avantatges d'aquesta nova eina tecnològica."
-    },
-    {
-      "title": "Els fons d'inversió lliure busquen avantatge amb la velocitat de la IA",
-      "link_id": "c_feacf0",
-      "source": "Financial Times",
-      "date": "2026-05-04",
-      "time": "04:00",
-      "summary": "Els inversors analitzen documents ràpidament amb tecnologia, tot i que eviten aplicar-la en les decisions més delicades."
-    },
-    {
-      "title": "Els seleccionadors de personal recorren a la IA per trobar la connexió perfecta",
-      "link_id": "c_480d04",
-      "source": "Financial Times",
-      "date": "2026-05-04",
-      "time": "04:00",
-      "summary": "L'automatització de tasques permet als professionals de recursos humans centrar-se en les interaccions personals més valuoses."
-    },
-    {
-      "title": "Les empreses emergents avancen ràpidament amb codi generat per IA",
-      "link_id": "c_25e6d7",
-      "source": "Financial Times",
-      "date": "2026-05-04",
-      "time": "04:00",
-      "summary": "Els emprenedors superen els obstacles tradicionals en el desenvolupament de productes gràcies a la programació assistida per intel·ligència artificial."
+      "summary": "Les marques aposten per la hiperpersonalització i l'optimització de recursos, canviant radicalment la manera de crear noves fragàncies."
     }
   ]
 }

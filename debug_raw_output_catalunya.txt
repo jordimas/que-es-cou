@@ -1,48 +1,48 @@
 {
-  "generated_at": "2024-05-24T18:30",
+  "generated_at": "2026-05-04T18:15",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [],
   "articles": [
+    {
+      "title": "GameStop vol comprar eBay i presenta una opa hostil per 47.300 milions d'euros",
+      "link_id": "c_d1a92c",
+      "source": "324.cat",
+      "date": "2026-05-04",
+      "time": "12:34",
+      "summary": "La cadena de videojocs sorprèn el mercat amb una oferta milionària per adquirir la històrica plataforma de comerç electrònic."
+    },
+    {
+      "title": "Parlon descarta el mòbil jihadista en el crim d'Esplugues: \"Qui ho fa alimenta la por i l'odi\"",
+      "link_id": "c_f6876f",
+      "source": "324.cat",
+      "date": "2026-05-04",
+      "time": "14:07",
+      "summary": "La consellera d'Interior apunta a un possible trastorn psiquiàtric de l'agressor, mentre l'Ajuntament decreta dos dies de dol."
+    },
+    {
+      "title": "Nou de cada deu catalans avalen prohibir les xarxes socials als menors de 16 anys",
+      "link_id": "c_ac6d58",
+      "source": "Ara.cat",
+      "date": "2026-05-04",
+      "time": "10:57",
+      "summary": "Un 87% de la ciutadania dona suport a fixar aquesta edat mínima a tota la Unió Europea, segons el CEO."
+    },
     {
       "title": "La IA podria destruir fins a 2,3 milions de llocs de treball a l’Estat espanyol en una dècada",
       "link_id": "c_bec7f5",
       "source": "MetaData",
       "date": "2026-04-30",
       "time": "12:10",
-      "summary": "Un informe alerta que la creació de noves feines no compensarà les pèrdues, afectant especialment els perfils més qualificats."
+      "summary": "Un informe alerta que la creació de nova ocupació no compensarà les pèrdues, afectant especialment els perfils més qualificats."
     },
     {
-      "title": "Els bancs retallen plantilla mentre reassignen tasques amb la IA",
-      "link_id": "c_0de4bf",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-05-03",
-      "time": "07:39",
-      "summary": "El sector financer accelera la transformació tecnològica, estalviant hores de feina per empleat i reduint personal gràcies a l'automatització."
-    },
-    {
-      "title": "Així funcionarà a Espanya l’aplicació per verificar l’edat dels usuaris a internet",
-      "link_id": "c_87b16c",
-      "source": "El Periódico",
-      "date": "2026-04-29",
-      "time": "13:19",
-      "summary": "La Comissió Europea ja té a punt la solució tecnològica per bloquejar l'accés dels menors de setze anys."
-    },
-    {
-      "title": "La intel·ligència artificial ja pot prendre millors decisions que els metges d'urgències, segons un estudi de Harvard",
-      "link_id": "c_55b110",
+      "title": "Les constants pujades de preu de Netflix cansen l'audiència i fins i tot podrien ser il·legals",
+      "link_id": "c_70be5c",
       "source": "RAC1",
-      "date": "2026-04-30",
-      "time": "20:50",
-      "summary": "El sistema d'OpenAI encerta vuit de cada deu diagnòstics, superant en un deu per cent els professionals mèdics humans."
-    },
-    {
-      "title": "El BSC identifica amb intel·ligència artificial els gens que expliquen l’envelliment desigual del sistema reproductor femení",
-      "link_id": "c_67ab32",
-      "source": "MetaData",
-      "date": "2026-04-29",
-      "time": "11:55",
-      "summary": "Aquesta recerca pionera permetrà desenvolupar noves eines de diagnòstic no invasives per entendre millor els efectes de la menopausa."
+      "date": "2026-05-04",
+      "time": "13:11",
+      "summary": "Un tribunal italià crea un precedent europeu en dictaminar que apujar tarifes de manera unilateral pot considerar-se una pràctica il·legal."
     },
     {
       "title": "«Vaig ser ximple»: totes les claus de la declaració d’Elon Musk en el seu judici contra OpenAI",
@@ -50,15 +50,7 @@
       "source": "El Periódico",
       "date": "2026-04-30",
       "time": "11:56",
-      "summary": "El magnat s'enfronta als tribunals a l'empresa que va cofundar, en una batalla legal que podria transformar la indústria."
-    },
-    {
-      "title": "SpaceX, Anthropic i OpenAI sortiran a cotitzar a la borsa sense ser rendibles",
-      "link_id": "c_1bcbdf",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-05-04",
-      "time": "03:41",
-      "summary": "Aquestes tres grans companyies tecnològiques protagonitzaran una col·locació històrica als mercats financers tot i no generar beneficis actualment."
+      "summary": "El magnat s'enfronta als tribunals contra l'empresa creadora de ChatGPT, que ell mateix va ajudar a fundar el 2015."
     },
     {
       "title": "A la cua en renovables, líder en bateries: el doble ritme de la transició energètica a Catalunya",
@@ -66,23 +58,31 @@
       "source": "MetaData",
       "date": "2026-05-04",
       "time": "11:10",
-      "summary": "Mentre l'energia eòlica i solar creixen lentament, el territori català destaca en l'emmagatzematge energètic per reduir la dependència nuclear."
+      "summary": "Catalunya manté una forta dependència de l'energia nuclear mentre el creixement de les instal·lacions eòliques i solars continua sent lent."
     },
     {
-      "title": "Mor J. Craig Venter, un científic clau que va desxifrar el genoma humà",
-      "link_id": "c_5f9bf7",
-      "source": "Ara.cat",
-      "date": "2026-04-30",
-      "time": "06:23",
-      "summary": "L'emprenedor nord-americà, pioner en la genètica moderna, ha mort als setanta-nou anys a causa d'un tractament contra el càncer."
-    },
-    {
-      "title": "Els experts en estalvi expliquen per què milers de llars han començat a carregar els seus mòbils fins al 80%",
-      "link_id": "c_809ee2",
-      "source": "El Nacional.cat",
+      "title": "Estafats 20.000 euros en fraus telefònics i en línia a Eivissa",
+      "link_id": "c_a50d42",
+      "source": "IB3 Notícies",
       "date": "2026-05-04",
-      "time": "11:10",
-      "summary": "Limitar la càrrega de la bateria allarga la vida útil dels dispositius, convertint-se en una mesura eficaç per estalviar."
+      "time": "16:08",
+      "summary": "La Policia Nacional alerta d'un repunt significatiu de delictes cibernètics a l'illa mitjançant tècniques d'enginyeria social durant les darreres setmanes."
+    },
+    {
+      "title": "SpaceX, Anthropic i OpenAI sortiran a cotitzar a la borsa sense ser rendibles",
+      "link_id": "c_1bcbdf",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-05-04",
+      "time": "03:41",
+      "summary": "Les tres grans companyies tecnològiques, valorades en tres bilions, protagonitzaran una col·locació històrica als mercats malgrat no generar beneficis."
+    },
+    {
+      "title": "Quants casos de frau elèctric va registrar Catalunya el 2025?",
+      "link_id": "c_d7747b",
+      "source": "Via Empresa",
+      "date": "2026-05-04",
+      "time": "11:23",
+      "summary": "Endesa va detectar més de vint-i-quatre mil manipulacions a la xarxa, xifra que representa un terç del total de l'Estat."
     }
   ]
 }
