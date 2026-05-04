@@ -1,32 +1,16 @@
 {
-  "generated_at": "2026-05-03T17:45",
+  "generated_at": "2024-05-24T18:30",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [],
   "articles": [
-    {
-      "title": "La IA Mythos dispara les alertes en ciberseguretat i preocupa especialment el sector bancari",
-      "link_id": "c_1682c7",
-      "source": "Àpunt",
-      "date": "2026-05-03",
-      "time": "12:19",
-      "summary": "Aquest model d'intel·ligència artificial detecta vulnerabilitats ràpidament, obrint noves portes a ciberatacs que amenacen la seguretat financera."
-    },
-    {
-      "title": "GPT-5.5, tan perillós com Mythos",
-      "link_id": "c_3153a9",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-05-03",
-      "time": "07:52",
-      "summary": "El nou model d'OpenAI demostra una gran facilitat per trobar errors de ciberseguretat, generant preocupació entre els experts."
-    },
     {
       "title": "La IA podria destruir fins a 2,3 milions de llocs de treball a l’Estat espanyol en una dècada",
       "link_id": "c_bec7f5",
       "source": "MetaData",
       "date": "2026-04-30",
       "time": "12:10",
-      "summary": "Un informe adverteix que la creació de nova ocupació no compensarà les pèrdues, afectant especialment els perfils més qualificats."
+      "summary": "Un informe alerta que la creació de noves feines no compensarà les pèrdues, afectant especialment els perfils més qualificats."
     },
     {
       "title": "Els bancs retallen plantilla mentre reassignen tasques amb la IA",
@@ -34,15 +18,7 @@
       "source": "La Vanguardia (en català)",
       "date": "2026-05-03",
       "time": "07:39",
-      "summary": "La implementació d'aquesta tecnologia ja permet estalviar hores de feina per empleat, accelerant la reestructuració del sector financer."
-    },
-    {
-      "title": "La intel·ligència artificial ja pot prendre millors decisions que els metges d'urgències, segons un estudi de Harvard",
-      "link_id": "c_55b110",
-      "source": "RAC1",
-      "date": "2026-04-30",
-      "time": "20:50",
-      "summary": "El sistema d'OpenAI encerta vuit de cada deu diagnòstics, superant en un deu per cent els professionals mèdics."
+      "summary": "El sector financer accelera la transformació tecnològica, estalviant hores de feina per empleat i reduint personal gràcies a l'automatització."
     },
     {
       "title": "Així funcionarà a Espanya l’aplicació per verificar l’edat dels usuaris a internet",
@@ -50,31 +26,23 @@
       "source": "El Periódico",
       "date": "2026-04-29",
       "time": "13:19",
-      "summary": "La Comissió Europea ja té a punt la solució tecnològica per prohibir l'accés dels menors a les xarxes socials."
+      "summary": "La Comissió Europea ja té a punt la solució tecnològica per bloquejar l'accés dels menors de setze anys."
     },
     {
-      "title": "bp pulse instal·larà al 22@ el \"hub de recàrrega pública ultraràpida més gran\" de Barcelona",
-      "link_id": "c_4126fb",
-      "source": "Via Empresa",
-      "date": "2026-05-01",
-      "time": "11:36",
-      "summary": "El projecte arrencarà enguany amb sis punts de fins a 400 kW per impulsar la mobilitat elèctrica al districte."
-    },
-    {
-      "title": "Quins cotxes elèctrics són les millors opcions aquest 2026?",
-      "link_id": "c_f0ddcf",
-      "source": "VilaWeb",
-      "date": "2026-05-02",
-      "time": "19:40",
-      "summary": "Una anàlisi de quaranta models destaca les alternatives més eficients per cobrir les necessitats familiars i estalviar diners."
-    },
-    {
-      "title": "Mor Pepe Cruz Novillo, el dissenyador de logotips com el de Correus, Renfe, la policia o el PSOE",
-      "link_id": "c_be1223",
+      "title": "La intel·ligència artificial ja pot prendre millors decisions que els metges d'urgències, segons un estudi de Harvard",
+      "link_id": "c_55b110",
       "source": "RAC1",
-      "date": "2026-05-02",
-      "time": "20:27",
-      "summary": "L'històric artista gràfic ha mort als vuitanta-nou anys, deixant un llegat visual fonamental en la història d'Espanya."
+      "date": "2026-04-30",
+      "time": "20:50",
+      "summary": "El sistema d'OpenAI encerta vuit de cada deu diagnòstics, superant en un deu per cent els professionals mèdics humans."
+    },
+    {
+      "title": "El BSC identifica amb intel·ligència artificial els gens que expliquen l’envelliment desigual del sistema reproductor femení",
+      "link_id": "c_67ab32",
+      "source": "MetaData",
+      "date": "2026-04-29",
+      "time": "11:55",
+      "summary": "Aquesta recerca pionera permetrà desenvolupar noves eines de diagnòstic no invasives per entendre millor els efectes de la menopausa."
     },
     {
       "title": "«Vaig ser ximple»: totes les claus de la declaració d’Elon Musk en el seu judici contra OpenAI",
@@ -82,7 +50,39 @@
       "source": "El Periódico",
       "date": "2026-04-30",
       "time": "11:56",
-      "summary": "La batalla legal entre el magnat i l'empresa creadora de ChatGPT podria transformar tota la indústria tecnològica."
+      "summary": "El magnat s'enfronta als tribunals a l'empresa que va cofundar, en una batalla legal que podria transformar la indústria."
+    },
+    {
+      "title": "SpaceX, Anthropic i OpenAI sortiran a cotitzar a la borsa sense ser rendibles",
+      "link_id": "c_1bcbdf",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-05-04",
+      "time": "03:41",
+      "summary": "Aquestes tres grans companyies tecnològiques protagonitzaran una col·locació històrica als mercats financers tot i no generar beneficis actualment."
+    },
+    {
+      "title": "A la cua en renovables, líder en bateries: el doble ritme de la transició energètica a Catalunya",
+      "link_id": "c_d5b7be",
+      "source": "MetaData",
+      "date": "2026-05-04",
+      "time": "11:10",
+      "summary": "Mentre l'energia eòlica i solar creixen lentament, el territori català destaca en l'emmagatzematge energètic per reduir la dependència nuclear."
+    },
+    {
+      "title": "Mor J. Craig Venter, un científic clau que va desxifrar el genoma humà",
+      "link_id": "c_5f9bf7",
+      "source": "Ara.cat",
+      "date": "2026-04-30",
+      "time": "06:23",
+      "summary": "L'emprenedor nord-americà, pioner en la genètica moderna, ha mort als setanta-nou anys a causa d'un tractament contra el càncer."
+    },
+    {
+      "title": "Els experts en estalvi expliquen per què milers de llars han començat a carregar els seus mòbils fins al 80%",
+      "link_id": "c_809ee2",
+      "source": "El Nacional.cat",
+      "date": "2026-05-04",
+      "time": "11:10",
+      "summary": "Limitar la càrrega de la bateria allarga la vida útil dels dispositius, convertint-se en una mesura eficaç per estalviar."
     }
   ]
 }

@@ -1,40 +1,88 @@
 {
-  "generated_at": "2026-05-03T19:45",
+  "generated_at": "2024-05-24T18:30",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Francisco Partners negocia la compra de l'empresa de pagaments Moneris",
-      "link_id": "c_6cb18a",
+      "title": "IA + Halo = $$$",
+      "link_id": "c_b91774",
       "source": "Financial Times",
-      "date": "2026-05-03",
-      "time": "10:00",
-      "summary": "Els bancs nord-americans continuen desfent-se dels seus processadors de pagaments per centrar-se en el negoci principal."
+      "date": "2026-05-04",
+      "time": "05:30",
+      "summary": "Un petit auge tecnoindustrial demostra com la intel·ligència artificial està generant noves oportunitats econòmiques i beneficis."
     },
     {
-      "title": "Tothom estima Nintendo, excepte els inversors",
-      "link_id": "c_0c0eba",
-      "source": "Financial Times",
-      "date": "2026-05-03",
-      "time": "04:00",
-      "summary": "L'augment del cost dels xips de memòria amenaça d'encarir la futura Switch 2 i preocupa els mercats."
+      "title": "Dinamarca s'enfronta a una crisi de centres de dades per la xarxa elèctrica desbordada",
+      "link_id": "c_fd5fa8",
+      "source": "CNBC Technology",
+      "date": "2026-05-04",
+      "time": "05:00",
+      "summary": "L'augment de la demanda energètica obliga els governs a plantejar límits al creixement d'aquestes instal·lacions tecnològiques."
     },
     {
-      "title": "Les empreses emergents desafien Apple per les restriccions a les aplicacions d'IA",
-      "link_id": "c_caaf31",
+      "title": "La IA a la pràctica",
+      "link_id": "c_328c96",
       "source": "Financial Times",
-      "date": "2026-05-03",
-      "time": "04:00",
-      "summary": "Els desenvolupadors critiquen els frens de la companyia, que al·lega riscos de seguretat davant l'allau de nou programari."
+      "date": "2026-05-04",
+      "time": "04:16",
+      "summary": "Diversos sectors, des de la restauració fins a les finances, adopten la intel·ligència artificial per optimitzar processos i reduir costos."
     },
     {
-      "title": "El grup de programari IFS es prepara per sortir a borsa enmig de la inquietud per la IA",
-      "link_id": "c_f987da",
+      "title": "«És crucial»: com la IA està transformant la indústria dels perfums",
+      "link_id": "c_1dd5a9",
       "source": "Financial Times",
-      "date": "2026-05-03",
+      "date": "2026-05-04",
       "time": "04:00",
-      "summary": "L'empresa avalua mercats com Londres, Europa o Nova York per a la seva oferta pública inicial."
+      "summary": "La tecnologia permet crear fragàncies hiperpersonalitzades i reduir despeses, revolucionant completament el mercat de la cosmètica."
+    },
+    {
+      "title": "Lliçons dels pioners en IA agencial",
+      "link_id": "c_9af1cd",
+      "source": "Financial Times",
+      "date": "2026-05-04",
+      "time": "04:00",
+      "summary": "Els primers usuaris d'aquesta tecnologia comparteixen consells clau per a les empreses que encara no han implementat agents intel·ligents."
+    },
+    {
+      "title": "Les empreses d'aigua abandonen els bastons d'escolta i adopten la IA",
+      "link_id": "c_75b758",
+      "source": "Financial Times",
+      "date": "2026-05-04",
+      "time": "04:00",
+      "summary": "L'ús d'algoritmes permet a països líders reduir dràsticament les fuites d'aigua en comparació amb els mètodes tradicionals."
+    },
+    {
+      "title": "Els gestors de patrimonis insisteixen que la IA els pot afavorir",
+      "link_id": "c_2795a4",
+      "source": "Financial Times",
+      "date": "2026-05-04",
+      "time": "04:00",
+      "summary": "Malgrat els temors inicials al mercat, el sector financer comença a aprofitar els avantatges d'aquesta nova eina tecnològica."
+    },
+    {
+      "title": "Els fons d'inversió lliure busquen avantatge amb la velocitat de la IA",
+      "link_id": "c_feacf0",
+      "source": "Financial Times",
+      "date": "2026-05-04",
+      "time": "04:00",
+      "summary": "Els inversors analitzen documents ràpidament amb tecnologia, tot i que eviten aplicar-la en les decisions més delicades."
+    },
+    {
+      "title": "Els seleccionadors de personal recorren a la IA per trobar la connexió perfecta",
+      "link_id": "c_480d04",
+      "source": "Financial Times",
+      "date": "2026-05-04",
+      "time": "04:00",
+      "summary": "L'automatització de tasques permet als professionals de recursos humans centrar-se en les interaccions personals més valuoses."
+    },
+    {
+      "title": "Les empreses emergents avancen ràpidament amb codi generat per IA",
+      "link_id": "c_25e6d7",
+      "source": "Financial Times",
+      "date": "2026-05-04",
+      "time": "04:00",
+      "summary": "Els emprenedors superen els obstacles tradicionals en el desenvolupament de productes gràcies a la programació assistida per intel·ligència artificial."
     }
   ]
 }
