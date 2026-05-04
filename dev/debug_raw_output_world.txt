@@ -1,88 +1,129 @@
 {
-  "generated_at": "2026-05-03T13:33",
+  "generated_at": "2026-05-04T14:16",
   "id": "world",
   "title": "Notícies tecnològiques del món",
-  "sources_checked": [],
+  "sources_checked": [
+    {
+      "name": "Ars Technica",
+      "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
+      "articles_found": 0
+    },
+    {
+      "name": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "VentureBeat",
+      "url": "https://feeds.feedburner.com/venturebeat/SZYF",
+      "articles_found": 0
+    },
+    {
+      "name": "AnandTech",
+      "url": "https://www.anandtech.com/rss/",
+      "articles_found": 0
+    },
+    {
+      "name": "BBC Technology",
+      "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "Wall Street Journal Tech",
+      "url": "https://feeds.a.dj.com/rss/RSSWSJD.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "Gizmodo",
+      "url": "https://www.gizmodo.com/feed/rss",
+      "articles_found": 0
+    },
+    {
+      "name": "Slashdot",
+      "url": "https://slashdot.org/rss/slashdot.rss",
+      "articles_found": 0
+    }
+  ],
   "articles": [
     {
-      "title": "Microsoft ara recomana 32 GB de RAM com a configuració ideal de futur per a videojocs",
-      "link_id": "c_6b240a",
-      "source": "Tom's Hardware",
-      "date": "2026-05-03",
-      "time": "10:40",
-      "summary": "L'empresa suggereix aquesta quantitat de memòria per evitar problemes de rendiment en els títols més exigents del mercat."
-    },
-    {
-      "title": "Els actors i guions generats per IA ja no poden optar als premis Oscar",
-      "link_id": "c_485f6c",
-      "source": "TechCrunch",
-      "date": "2026-05-02",
-      "time": "21:54",
-      "summary": "L'Acadèmia ha actualitzat les normes per garantir que només el talent humà sigui reconegut en les categories d'interpretació i guió."
-    },
-    {
-      "title": "La Xina declara il·legal acomiadar treballadors per substituir-los per intel·ligència artificial",
-      "link_id": "c_6ee099",
-      "source": "Digital Trends",
-      "date": "2026-05-02",
-      "time": "19:27",
-      "summary": "Mentre les tecnològiques nord-americanes redueixen plantilles per invertir en IA, els tribunals xinesos prohibeixen aquesta pràctica per protegir l'ocupació."
-    },
-    {
-      "title": "Google explica per què Android AICore de vegades ocupa més espai d'emmagatzematge",
-      "link_id": "c_bd784a",
-      "source": "9to5Google",
-      "date": "2026-05-02",
-      "time": "18:04",
-      "summary": "L'augment d'espai es deu a un mecanisme de seguretat raonable per als models d'IA generativa integrats als dispositius mòbils."
-    },
-    {
-      "title": "Netflix retarda la pel·lícula 'Nàrnia' de Greta Gerwig per a una gran estrena en cinemes el 2027",
-      "link_id": "c_4e2089",
-      "source": "TechCrunch",
-      "date": "2026-05-02",
-      "time": "17:05",
-      "summary": "La plataforma aposta per una finestra d'exclusivitat a les sales, marcant un canvi important en la seva estratègia de distribució."
-    },
-    {
-      "title": "Creus que programar amb IA et farà ric? Llegeix abans l'informe de riscos",
-      "link_id": "c_3101f5",
-      "source": "Digital Trends",
-      "date": "2026-05-02",
-      "time": "14:58",
-      "summary": "Els experts adverteixen sobre greus problemes de seguretat i qualitat a llarg termini en el codi generat per intel·ligència artificial."
-    },
-    {
-      "title": "Transmissió en directe del Man Utd vs Liverpool: com veure la Premier League des de qualsevol lloc",
-      "link_id": "c_1bfaeb",
+      "title": "Ask Jeeves tanca silenciosament després de gairebé tres dècades",
+      "link_id": "c_17cf87",
       "source": "TechRadar",
-      "date": "2026-05-03",
-      "time": "11:30",
-      "summary": "Descobreix totes les opcions per seguir en línia aquest gran enfrontament del futbol anglès, independentment del teu país de residència."
+      "date": "2026-05-04",
+      "time": "10:11",
+      "summary": "El pioner de les cerques conversacionals a la xarxa s'acomiada definitivament, marcant la fi d'una era pre-IA."
     },
     {
-      "title": "Una 'GameCube' de la mida d'un clauer utilitza xips originals de Nintendo",
-      "link_id": "c_90e346",
-      "source": "Tom's Hardware",
-      "date": "2026-05-03",
-      "time": "11:20",
-      "summary": "Aquest projecte de modificació inclou una base de connexió i els seus plànols s'han compartit obertament a la plataforma GitHub."
+      "title": "GameStop proposa la compra d'eBay per 56.000 milions de dòlars",
+      "link_id": "c_024e3d",
+      "source": "Bloomberg Technology",
+      "date": "2026-05-04",
+      "time": "09:47",
+      "summary": "L'empresa de videojocs ofereix una prima del 20% per acció en un intent sorprenent d'adquirir el mercat en línia."
     },
     {
-      "title": "AT&T reorganitza les seves tarifes il·limitades: això és el que obtindràs i pagaràs",
-      "link_id": "c_2ee38d",
+      "title": "Una filtració de Walmart revela un altaveu intel·ligent compatible amb Gemini",
+      "link_id": "c_c4485b",
+      "source": "Digital Trends",
+      "date": "2026-05-04",
+      "time": "11:40",
+      "summary": "La línia Onn s'ampliarà amb un dispositiu que integrarà la IA de Google, suport per a Matter i Google Cast."
+    },
+    {
+      "title": "Arriba el redisseny de la interfície de Gemini, però els usuaris d'Android hauran d'esperar",
+      "link_id": "c_1f739c",
+      "source": "Android Authority",
+      "date": "2026-05-04",
+      "time": "10:11",
+      "summary": "La nova aparença de l'assistent d'intel·ligència artificial de Google comença a desplegar-se primer als dispositius iPhone."
+    },
+    {
+      "title": "Un PC tan gran que hi pots viure, amb aire condicionat propi",
+      "link_id": "c_539c7b",
+      "source": "Digital Trends",
+      "date": "2026-05-04",
+      "time": "09:36",
+      "summary": "Un creador xinès ha construït un ordinador de la mida d'una habitació amb components gegants i refrigeració extrema."
+    },
+    {
+      "title": "Les polítiques de salut basades en IA perjudiquen els més necessitats a Kenya",
+      "link_id": "c_76a8f0",
+      "source": "Digital Trends",
+      "date": "2026-05-04",
+      "time": "09:27",
+      "summary": "Un sistema algorítmic sobreestima els ingressos de les famílies pobres, obligant-les a pagar primes d'assegurança inassumibles."
+    },
+    {
+      "title": "Plex apuja dràsticament el preu de la transmissió remota",
+      "link_id": "c_d98a48",
+      "source": "Digital Trends",
+      "date": "2026-05-04",
+      "time": "07:41",
+      "summary": "La plataforma posa fi a les tarifes inicials del Remote Watch Pass, augmentant significativament els costos mensuals i anuals."
+    },
+    {
+      "title": "La Xina declara il·legal acomiadar treballadors humans per substituir-los per IA",
+      "link_id": "c_364a79",
+      "source": "The Register",
+      "date": "2026-05-04",
+      "time": "00:33",
+      "summary": "Un tribunal xinès dictamina que l'automatització per si sola no justifica els acomiadaments sota la legislació laboral vigent."
+    },
+    {
+      "title": "Pistes i respostes per al NYT Connections del 4 de maig",
+      "link_id": "c_a69a97",
       "source": "CNET",
-      "date": "2026-05-03",
-      "time": "11:01",
-      "summary": "La companyia actualitza els plans amb millores generals, tot i que l'opció principal augmenta en preu i en prestacions."
+      "date": "2026-05-04",
+      "time": "09:01",
+      "summary": "Descobreix les solucions i consells per resoldre el popular trencaclosques diari del New York Times d'avui."
     },
     {
-      "title": "Netflix: 28 de les millors sèries de ciència-ficció que hauries de veure ara mateix",
-      "link_id": "c_1d4566",
-      "source": "CNET",
-      "date": "2026-05-03",
-      "time": "11:01",
-      "summary": "Una selecció imprescindible de les produccions més destacades d'aquest gènere disponibles actualment al catàleg de la popular plataforma de streaming."
+      "title": "Els empleats ja són més perillosos per a la seva empresa que els pirates informàtics externs",
+      "link_id": "c_0dfd4b",
+      "source": "TechRadar",
+      "date": "2026-05-04",
+      "time": "12:12",
+      "summary": "El risc intern de ciberseguretat creix exponencialment, convertint el personal en el principal objectiu dels atacants malintencionats."
     }
   ]
 }

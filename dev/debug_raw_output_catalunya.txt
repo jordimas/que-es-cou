@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-05-03T12:00",
+  "generated_at": "2026-05-04T14:30",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
     {
       "name": "Ara.cat",
       "url": "https://www.ara.cat/rss/",
-      "articles_found": 6
+      "articles_found": 9
     },
     {
       "name": "El Periódico",
       "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
-      "articles_found": 6
+      "articles_found": 3
     },
     {
       "name": "RAC1",
       "url": "https://www.rac1.cat/rss/home.xml",
-      "articles_found": 7
+      "articles_found": 5
     },
     {
       "name": "La Vanguardia (en català)",
       "url": "https://www.lavanguardia.com/rss/encatala.xml",
-      "articles_found": 3
+      "articles_found": 5
     },
     {
       "name": "VilaWeb",
       "url": "https://www.vilaweb.cat/feed/",
-      "articles_found": 1
+      "articles_found": 0
     },
     {
       "name": "NacióDigital",
@@ -36,7 +36,7 @@
     {
       "name": "324.cat",
       "url": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0",
-      "articles_found": 4
+      "articles_found": 3
     },
     {
       "name": "Softcatalà",
@@ -46,12 +46,12 @@
     {
       "name": "El Nacional.cat",
       "url": "https://www.elnacional.cat/uploads/feeds/feed_ca.xml",
-      "articles_found": 16
+      "articles_found": 10
     },
     {
       "name": "El Mon.cat",
       "url": "https://www.elmon.cat/feed/",
-      "articles_found": 2
+      "articles_found": 0
     },
     {
       "name": "El Mon.cat Tecnologia",
@@ -66,7 +66,7 @@
     {
       "name": "Betevé",
       "url": "https://beteve.cat/feed/",
-      "articles_found": 1
+      "articles_found": 2
     },
     {
       "name": "El Punt Avui",
@@ -76,7 +76,7 @@
     {
       "name": "Segre",
       "url": "https://www.segre.com/ca/rss/home.xml",
-      "articles_found": 4
+      "articles_found": 7
     },
     {
       "name": "Regio7",
@@ -116,7 +116,7 @@
     {
       "name": "Cugat.cat",
       "url": "https://www.cugat.cat/feed/",
-      "articles_found": 4
+      "articles_found": 1
     },
     {
       "name": "CatalunyaPress",
@@ -126,7 +126,7 @@
     {
       "name": "Tot Barcelona",
       "url": "https://www.totbarcelona.cat/feed/",
-      "articles_found": 0
+      "articles_found": 2
     },
     {
       "name": "e-notícies",
@@ -136,7 +136,7 @@
     {
       "name": "Lleida Diari",
       "url": "https://www.lleidadiari.cat/feed/",
-      "articles_found": 2
+      "articles_found": 4
     },
     {
       "name": "Catorze",
@@ -156,7 +156,7 @@
     {
       "name": "MetaData",
       "url": "https://www.metadata.cat/sindica",
-      "articles_found": 6
+      "articles_found": 5
     },
     {
       "name": "El Temps",
@@ -166,12 +166,12 @@
     {
       "name": "Àpunt",
       "url": "https://www.apuntmedia.es/rss/",
-      "articles_found": 0
+      "articles_found": 1
     },
     {
       "name": "El Periòdic d'Ontinyent",
       "url": "https://www.elperiodicvalencia.com/?feed=rss2",
-      "articles_found": 2
+      "articles_found": 0
     },
     {
       "name": "Saó",
@@ -191,12 +191,12 @@
     {
       "name": "Ara Balears",
       "url": "https://www.arabalears.cat/rss/",
-      "articles_found": 0
+      "articles_found": 1
     },
     {
       "name": "Manacor Comarcal",
       "url": "https://manacorcomarcal.com/?feed=rss2",
-      "articles_found": 0
+      "articles_found": 1
     },
     {
       "name": "Via Empresa",
@@ -216,84 +216,84 @@
   ],
   "articles": [
     {
-      "title": "L'impacte de la IA en el mercat laboral: 1 de cada 10 feines perillen en la pròxima dècada",
-      "link_id": "c_950db6",
+      "title": "GameStop vol comprar eBay i presenta una opa hostil per 47.300 milions d'euros",
+      "link_id": "c_d1a92c",
       "source": "324.cat",
-      "date": "2026-05-02",
-      "time": "16:32",
-      "summary": "El Govern català prepara mesures per adaptar els treballadors a les noves dinàmiques tecnològiques i evitar l'exclusió."
+      "date": "2026-05-04",
+      "time": "12:34",
+      "summary": "La cadena de videojocs sorprèn el mercat tecnològic amb una oferta multimilionària per adquirir la històrica plataforma de comerç electrònic."
     },
     {
-      "title": "Una avaria informàtica ha afectat la compra de medicaments amb recepta a les farmàcies durant 12 hores",
-      "link_id": "c_f1be87",
-      "source": "324.cat",
-      "date": "2026-05-02",
-      "time": "20:54",
-      "summary": "Un sistema de contingència ha permès dispensar fàrmacs urgents mentre se solucionava la caiguda de la xarxa."
-    },
-    {
-      "title": "Així funcionarà a Espanya l’aplicació per verificar l’edat dels usuaris a internet",
-      "link_id": "c_87b16c",
-      "source": "El Periódico",
-      "date": "2026-04-29",
-      "time": "13:19",
-      "summary": "La Comissió Europea ja té a punt la tecnologia per bloquejar l'accés de menors a les xarxes socials."
-    },
-    {
-      "title": "Les caixes negres dels vehicles resolen més de mil accidents de trànsit",
-      "link_id": "c_3a67ff",
-      "source": "El Mon.cat",
-      "date": "2026-05-03",
-      "time": "10:58",
-      "summary": "Els Mossos d'Esquadra extreuen dades d'aquests dispositius obligatoris per esclarir sinistres complexos a les carreteres catalanes."
-    },
-    {
-      "title": "La intel·ligència artificial ja pot prendre millors decisions que els metges d'urgències, segons un estudi de Harvard",
-      "link_id": "c_55b110",
-      "source": "RAC1",
-      "date": "2026-04-30",
-      "time": "20:50",
-      "summary": "El sistema d'OpenAI aconsegueix un 80% d'encert en els diagnòstics, superant els professionals sanitaris en un 10%."
-    },
-    {
-      "title": "Cansat que Google et recomani sempre els mateixos mitjans? Ara ja els pots triar tu",
-      "link_id": "c_db2a8b",
-      "source": "Ara.cat",
-      "date": "2026-04-30",
-      "time": "14:52",
-      "summary": "Una nova funció permet als usuaris personalitzar les fonts d'informació i esquivar l'algoritme predeterminat del cercador."
-    },
-    {
-      "title": "Quins cotxes elèctrics són les millors opcions aquest 2026?",
-      "link_id": "c_f0ddcf",
-      "source": "VilaWeb",
-      "date": "2026-05-02",
-      "time": "19:40",
-      "summary": "Una guia pràctica repassa quaranta models ideals per a famílies que busquen estalvi econòmic i mobilitat sostenible."
-    },
-    {
-      "title": "bp pulse instal·larà al 22@ el \"hub de recàrrega pública ultraràpida més gran\" de Barcelona",
-      "link_id": "c_4126fb",
+      "title": "Quants casos de frau elèctric va registrar Catalunya el 2025?",
+      "link_id": "c_d7747b",
       "source": "Via Empresa",
-      "date": "2026-05-01",
+      "date": "2026-05-04",
+      "time": "11:23",
+      "summary": "Endesa va detectar més de 24.000 manipulacions a la xarxa catalana, un increment que posa en risc la seguretat elèctrica."
+    },
+    {
+      "title": "Mercadona crea centenars de llocs de treball amb una maniobra milionària",
+      "link_id": "c_d8fa57",
+      "source": "Lleida Diari",
+      "date": "2026-05-04",
+      "time": "11:19",
+      "summary": "La cadena de supermercats consolida el seu impacte econòmic invertint 5.200 milions d'euros en proveïdors locals i generant nova ocupació."
+    },
+    {
+      "title": "Les bandes capten menors de 14 anys a les portes dels instituts",
+      "link_id": "c_d78b90",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-05-04",
+      "time": "03:35",
+      "summary": "Grups com els Trinitarios i Barrio 18 aprofiten l'entorn escolar de Barcelona per reclutar joves cada cop més vulnerables."
+    },
+    {
+      "title": "9 de cada 10 edificis amb certificat energètic suspenen en emissions de CO2",
+      "link_id": "c_f70cc3",
+      "source": "Betevé",
+      "date": "2026-05-04",
       "time": "11:36",
-      "summary": "El districte tecnològic estrenarà enguany sis punts de 400 kW per impulsar l'ús del vehicle elèctric."
+      "summary": "La gran majoria del parc immobiliari català excedeix els nivells recomanats de contaminació i consum d'energia primària no renovable."
     },
     {
-      "title": "La IA catalana que fa de 'personal shopper'",
-      "link_id": "c_aaba00",
-      "source": "Ara.cat",
+      "title": "Compte enrere per als vehicles amb etiqueta B: l’AMB fixa el calendari",
+      "link_id": "c_ecb7fd",
+      "source": "Tot Barcelona",
       "date": "2026-05-03",
-      "time": "07:00",
-      "summary": "Una empresa emergent prova amb èxit un assistent virtual de compres en diversos centres comercials del país."
+      "time": "12:09",
+      "summary": "El nou Pla de Mobilitat Metropolitana estableix les dates per restringir progressivament la circulació d'aquests cotxes a Barcelona."
     },
     {
-      "title": "Els Oscars es blinden davant la IA: actors i guions generats artificialment no optaran a premi",
-      "link_id": "c_b8a533",
-      "source": "324.cat",
-      "date": "2026-05-02",
-      "time": "16:31",
-      "summary": "L'Acadèmia actualitza el reglament per garantir que els guardons d'interpretació i escriptura recaiguin exclusivament en humans."
+      "title": "Les constants pujades de preu de Netflix cansen l'audiència i fins i tot podrien ser il·legals: \"Estem estudiant emprendre accions\"",
+      "link_id": "c_70be5c",
+      "source": "RAC1",
+      "date": "2026-05-04",
+      "time": "13:11",
+      "summary": "Una sentència històrica a Itàlia crea un precedent europeu que podria frenar els increments unilaterals de tarifes de les plataformes."
+    },
+    {
+      "title": "Prompte podràs pagar amb Bizum en un datàfon amb NFC com fas amb Apple Pay o Google Pay",
+      "link_id": "c_226223",
+      "source": "El Nacional.cat",
+      "date": "2026-05-04",
+      "time": "13:15",
+      "summary": "El popular servei de transferències fa el salt als pagaments físics, ampliant la seva utilitat per als usuaris diaris."
+    },
+    {
+      "title": "Retiren del mercat una colònia infantil per la presència d’al·lèrgens no indicats a l’etiquetatge",
+      "link_id": "c_cce6d3",
+      "source": "Betevé",
+      "date": "2026-05-04",
+      "time": "11:38",
+      "summary": "L'Agència Espanyola de Medicaments alerta sobre un lot de Suavinex Baby Cologne Memories que conté substàncies no declarades."
+    },
+    {
+      "title": "La IA podria destruir fins a 2,3 milions de llocs de treball a l’Estat espanyol en una dècada",
+      "link_id": "c_bec7f5",
+      "source": "MetaData",
+      "date": "2026-04-30",
+      "time": "12:10",
+      "summary": "Un informe adverteix que la intel·ligència artificial afectarà especialment els perfils qualificats, sense que la nova ocupació compensi les pèrdues."
     }
   ]
 }

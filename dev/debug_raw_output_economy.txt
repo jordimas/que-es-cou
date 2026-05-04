@@ -1,32 +1,88 @@
 {
-  "generated_at": "2026-05-03T13:33",
+  "generated_at": "2024-05-24T18:30",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Tothom estima Nintendo, excepte els inversors",
-      "link_id": "c_0c0eba",
-      "source": "Financial Times",
-      "date": "2026-05-03",
-      "time": "04:00",
-      "summary": "L'augment del cost dels xips de memòria amenaça d'encarir la Switch 2, preocupant els mercats sobre el seu èxit."
+      "title": "El fabricant de xips d'IA Cerebras busca captar 3.500 milions de dòlars en la seva sortida a borsa",
+      "link_id": "c_3a3fc3",
+      "source": "CNBC Technology",
+      "date": "2026-05-04",
+      "time": "10:45",
+      "summary": "La valoració de l'empresa podria assolir els 24.500 milions, reflectint el fort interès del mercat pel maquinari d'intel·ligència artificial."
     },
     {
-      "title": "Les empreses emergents desafien Apple per les restriccions a les aplicacions d'IA",
-      "link_id": "c_caaf31",
+      "title": "IA + Halo = $$$",
+      "link_id": "c_b91774",
       "source": "Financial Times",
-      "date": "2026-05-03",
-      "time": "04:00",
-      "summary": "Apple alerta de riscos de seguretat davant l'allau de nou programari que inunda el seu procés de revisió."
+      "date": "2026-05-04",
+      "time": "05:30",
+      "summary": "L'auge tecnoindustrial demostra com la integració de la intel·ligència artificial genera noves i lucratives oportunitats de negoci."
     },
     {
-      "title": "El grup de programari IFS es prepara per sortir a borsa enmig de la inquietud per la IA",
-      "link_id": "c_f987da",
+      "title": "Dinamarca s'enfronta a una crisi de centres de dades pel col·lapse de la xarxa elèctrica",
+      "link_id": "c_fd5fa8",
+      "source": "CNBC Technology",
+      "date": "2026-05-04",
+      "time": "05:00",
+      "summary": "L'alta demanda energètica d'aquestes instal·lacions obliga els governs a plantejar restriccions per evitar la saturació de les infraestructures elèctriques."
+    },
+    {
+      "title": "La IA a la pràctica",
+      "link_id": "c_328c96",
       "source": "Financial Times",
-      "date": "2026-05-03",
+      "date": "2026-05-04",
+      "time": "04:16",
+      "summary": "Diversos sectors, des de la restauració fins a les finances, adopten la intel·ligència artificial per optimitzar processos i reduir costos."
+    },
+    {
+      "title": "\"És crucial\": com la IA està transformant la indústria dels perfums",
+      "link_id": "c_1dd5a9",
+      "source": "Financial Times",
+      "date": "2026-05-04",
       "time": "04:00",
-      "summary": "El conseller delegat Mark Moffat avalua llançar l'oferta pública inicial a Londres, Europa o Nova York pròximament."
+      "summary": "La tecnologia permet crear fragàncies hiperpersonalitzades i optimitzar la producció, revolucionant la manera com s'elaboren els productes cosmètics."
+    },
+    {
+      "title": "Lliçons dels pioners en IA agencial",
+      "link_id": "c_9af1cd",
+      "source": "Financial Times",
+      "date": "2026-05-04",
+      "time": "04:00",
+      "summary": "Les primeres empreses a implementar agents autònoms comparteixen estratègies clau per superar els reptes d'aquesta nova tecnologia corporativa."
+    },
+    {
+      "title": "Les companyies d'aigua abandonen els bastons d'escolta i adopten la IA",
+      "link_id": "c_75b758",
+      "source": "Financial Times",
+      "date": "2026-05-04",
+      "time": "04:00",
+      "summary": "L'ús d'algoritmes avançats permet detectar fuites amb més precisió, millorant dràsticament l'eficiència hídrica respecte als mètodes tradicionals."
+    },
+    {
+      "title": "Els gestors de patrimonis insisteixen que la IA pot jugar al seu favor",
+      "link_id": "c_2795a4",
+      "source": "Financial Times",
+      "date": "2026-05-04",
+      "time": "04:00",
+      "summary": "Malgrat la incertesa inicial als mercats, el sector financer comença a aprofitar els avantatges analítics d'aquesta eina disruptiva."
+    },
+    {
+      "title": "Els fons de cobertura busquen avantatge mitjançant la velocitat de la IA",
+      "link_id": "c_feacf0",
+      "source": "Financial Times",
+      "date": "2026-05-04",
+      "time": "04:00",
+      "summary": "Els inversors acceleren l'anàlisi documental amb intel·ligència artificial, tot i que mantenen la prudència en les operacions més crítiques."
+    },
+    {
+      "title": "Els reclutadors recorren a la IA per trobar la connexió perfecta",
+      "link_id": "c_480d04",
+      "source": "Financial Times",
+      "date": "2026-05-04",
+      "time": "04:00",
+      "summary": "L'automatització de tasques rutinàries permet als professionals de recursos humans centrar-se en les interaccions personals amb els candidats."
     }
   ]
 }
