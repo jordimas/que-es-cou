@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-05-04T20:12",
+  "generated_at": "2026-05-05T11:04",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Una nova filtració del Pixel 11 apunta a un nou mòdem, càmeres i un truc inspirat en Nothing",
-      "link_id": "c_3a30c0",
+      "title": "El president d'OpenAI fa 'de tot', excepte respondre a una pregunta",
+      "link_id": "c_2dc056",
+      "source": "The Verge",
+      "date": "2026-05-04",
+      "time": "23:49",
+      "summary": "Greg Brockman va testificar en el judici contra Elon Musk, evitant donar respostes clares sobre les acusacions de lucre."
+    },
+    {
+      "title": "La missatgeria RCS entre iPhone i Android rep finalment la millora de seguretat esperada",
+      "link_id": "c_786357",
+      "source": "Android Authority",
+      "date": "2026-05-05",
+      "time": "07:55",
+      "summary": "L'actualització a iOS 26.5 introduirà xifratge d'extrem a extrem per defecte en els missatges entre dispositius Apple i Android."
+    },
+    {
+      "title": "iOS 27 podria permetre als usuaris crear passis personalitzats per a l'aplicació Apple Wallet",
+      "link_id": "c_ef0e90",
+      "source": "CNET",
+      "date": "2026-05-04",
+      "time": "21:50",
+      "summary": "Apple planeja una funció que permetrà dissenyar bitllets i targetes digitals a partir de codis QR sense dependre d'empreses."
+    },
+    {
+      "title": "Els somnis d'un desbloqueig facial al Pixel 11 que rivalitzi amb l'iPhone podrien haver mort",
+      "link_id": "c_a999f5",
       "source": "Digital Trends",
       "date": "2026-05-04",
-      "time": "17:25",
-      "summary": "El proper telèfon de Google podria incloure sensors fotogràfics millorats i una funció LED posterior molt cridanera."
+      "time": "23:11",
+      "summary": "Les filtracions indiquen que Google descartarà el nou maquinari de reconeixement facial avançat per a la seva propera generació."
     },
     {
-      "title": "L'únic testimoni expert en IA d'Elon Musk al judici d'OpenAI tem una cursa armamentística d'AGI",
-      "link_id": "c_d66a28",
-      "source": "TechCrunch",
-      "date": "2026-05-04",
-      "time": "16:57",
-      "summary": "Stuart Russell, investigador veterà, creu que els governs han de frenar els laboratoris d'intel·ligència artificial de frontera."
+      "title": "CVE-2026-31431: Copy Fail contra contenidors sense privilegis d'arrel",
+      "link_id": "c_e88d69",
+      "source": "Hacker News",
+      "date": "2026-05-05",
+      "time": "03:43",
+      "summary": "Una vulnerabilitat crítica a Linux permet a usuaris locals modificar fitxers a la memòria cau i obtenir control total."
     },
     {
-      "title": "Cohen de GameStop veu un nou objectiu i un gran benefici possible a eBay",
-      "link_id": "c_e5d43f",
-      "source": "Bloomberg Technology",
-      "date": "2026-05-04",
-      "time": "17:52",
-      "summary": "El conseller delegat ha proposat una audaç oferta no sol·licitada de 56.000 milions de dòlars per l'empresa de comerç."
+      "title": "La S.E.C. resol la demanda contra Elon Musk per les seves declaracions sobre Twitter",
+      "link_id": "c_185b80",
+      "source": "NYT Technology",
+      "date": "2026-05-05",
+      "time": "01:22",
+      "summary": "El magnat pagarà 1,5 milions de dòlars per tancar el cas sobre la compra d'accions sense admetre cap culpa."
     },
     {
-      "title": "Les accions de FedEx i UPS s'enfonsen per un moviment logístic decisiu d'Amazon",
-      "link_id": "c_86a444",
-      "source": "Bloomberg Technology",
+      "title": "La Casa Blanca es planteja examinar els models d'IA abans del seu llançament",
+      "link_id": "c_8f7ff3",
+      "source": "NYT Technology",
       "date": "2026-05-04",
-      "time": "17:23",
-      "summary": "Amazon obre la seva xarxa de distribució a tercers, convertint-se en un competidor directe per a les empreses de paqueteria."
+      "time": "22:37",
+      "summary": "L'administració Trump avalua exigir proves de seguretat prèvies per als nous models d'intel·ligència artificial destinats a ús governamental."
     },
     {
-      "title": "Apple llança la versió macOS 26.5 RC, això és el que vindrà",
-      "link_id": "c_8d8fd9",
-      "source": "9to5Mac",
+      "title": "Les accions de GameStop cauen un 10% després que el CEO eviti preguntes sobre l'adquisició d'eBay",
+      "link_id": "c_ea277c",
+      "source": "The Guardian Tech",
       "date": "2026-05-04",
-      "time": "17:14",
-      "summary": "Els desenvolupadors ja poden provar aquesta versió candidata abans del seu llançament oficial previst per als pròxims dies."
+      "time": "21:33",
+      "summary": "Ryan Cohen no va aclarir com finançarà la sorprenent oferta de 56.000 milions de dòlars per comprar la plataforma."
     },
     {
-      "title": "Anthropic i OpenAI llancen empreses conjuntes per a serveis d'IA corporativa",
-      "link_id": "c_f9d23d",
-      "source": "TechCrunch",
+      "title": "Necessites preguntar alguna cosa a Ask Jeeves? Ho sentim, és massa tard",
+      "link_id": "c_4f48b2",
+      "source": "CNET",
       "date": "2026-05-04",
-      "time": "15:59",
-      "summary": "Ambdues companyies s'han associat amb gestors d'actius per comercialitzar de manera més agressiva els seus productes d'intel·ligència artificial."
+      "time": "18:34",
+      "summary": "El pioner motor de cerca conversacional ha tancat definitivament després de gairebé trenta anys d'història a internet."
     },
     {
-      "title": "Els mercats de salut dels EUA van compartir dades de ciutadania i raça amb gegants publicitaris",
-      "link_id": "c_28146a",
-      "source": "TechCrunch",
-      "date": "2026-05-04",
-      "time": "14:30",
-      "summary": "Diversos estats han aturat aquesta pràctica després que una investigació revelés la filtració d'informació sensible dels usuaris."
-    },
-    {
-      "title": "Una filtració de Walmart mostra un nou altaveu intel·ligent Onn compatible amb Gemini",
-      "link_id": "c_c4485b",
-      "source": "Digital Trends",
-      "date": "2026-05-04",
-      "time": "11:40",
-      "summary": "Aquest dispositiu econòmic inclourà suport per a Matter i Google Cast, ampliant l'ecosistema d'assistents de tercers."
-    },
-    {
-      "title": "iOS 27 et permetrà crear passis personalitzats per a Wallet",
-      "link_id": "c_9233d9",
-      "source": "MacRumors",
-      "date": "2026-05-04",
-      "time": "11:01",
-      "summary": "La nova funció permetrà als usuaris generar bitllets digitals a partir d'entrades físiques o targetes de fidelització."
-    },
-    {
-      "title": "El creador de Notepad++ denuncia una aplicació falsa per a Mac per violació de marca",
-      "link_id": "c_c98f5a",
-      "source": "MacRumors",
-      "date": "2026-05-04",
-      "time": "09:46",
-      "summary": "Don Ho adverteix que el port no oficial per a macOS és enganyós i no té cap vinculació amb ells."
+      "title": "Els nens eludeixen la verificació d'edat amb bigotis falsos",
+      "link_id": "c_f6309b",
+      "source": "Hacker News",
+      "date": "2026-05-05",
+      "time": "04:36",
+      "summary": "Molts menors aconsegueixen enganyar els sistemes de detecció d'edat del Regne Unit simplement dibuixant-se pèl facial per accedir-hi."
     }
   ]
 }

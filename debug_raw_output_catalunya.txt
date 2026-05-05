@@ -1,24 +1,40 @@
 {
-  "generated_at": "2026-05-04T18:15",
+  "generated_at": "2026-05-05T10:00",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [],
   "articles": [
+    {
+      "title": "GameStop llança una opa de més de 47.000 milions per comprar eBay",
+      "link_id": "c_0dd003",
+      "source": "El Periódico",
+      "date": "2026-05-04",
+      "time": "11:03",
+      "summary": "La cadena de videojocs busca dominar el comerç electrònic amb una oferta històrica que ha sorprès el mercat."
+    },
     {
       "title": "GameStop vol comprar eBay i presenta una opa hostil per 47.300 milions d'euros",
       "link_id": "c_d1a92c",
       "source": "324.cat",
       "date": "2026-05-04",
       "time": "12:34",
-      "summary": "La cadena de videojocs sorprèn el mercat amb una oferta milionària per adquirir la històrica plataforma de comerç electrònic."
+      "summary": "Aquest moviment estratègic inesperat pretén fusionar el gegant de les botigues físiques amb la pionera plataforma de vendes digitals."
     },
     {
-      "title": "Parlon descarta el mòbil jihadista en el crim d'Esplugues: \"Qui ho fa alimenta la por i l'odi\"",
-      "link_id": "c_f6876f",
+      "title": "Cansat que Google et recomani sempre els mateixos mitjans? Ara ja els pots triar tu",
+      "link_id": "c_db2a8b",
+      "source": "Ara.cat",
+      "date": "2026-04-30",
+      "time": "14:52",
+      "summary": "La nova funció permet personalitzar l'algoritme de cerca per prioritzar les fonts d'informació preferides de cada usuari."
+    },
+    {
+      "title": "Així pots escollir 3CatInfo com a font preferida de Google i no perdre't les nostres notícies",
+      "link_id": "c_f8fdc2",
       "source": "324.cat",
       "date": "2026-05-04",
-      "time": "14:07",
-      "summary": "La consellera d'Interior apunta a un possible trastorn psiquiàtric de l'agressor, mentre l'Ajuntament decreta dos dies de dol."
+      "time": "22:58",
+      "summary": "Els lectors ja poden configurar els seus dispositius per rebre suggeriments directes dels seus mitjans de comunicació de confiança."
     },
     {
       "title": "Nou de cada deu catalans avalen prohibir les xarxes socials als menors de 16 anys",
@@ -26,7 +42,7 @@
       "source": "Ara.cat",
       "date": "2026-05-04",
       "time": "10:57",
-      "summary": "Un 87% de la ciutadania dona suport a fixar aquesta edat mínima a tota la Unió Europea, segons el CEO."
+      "summary": "Una enquesta recent mostra un ampli consens social a Catalunya per endurir l'accés digital i protegir els adolescents."
     },
     {
       "title": "La IA podria destruir fins a 2,3 milions de llocs de treball a l’Estat espanyol en una dècada",
@@ -34,31 +50,7 @@
       "source": "MetaData",
       "date": "2026-04-30",
       "time": "12:10",
-      "summary": "Un informe alerta que la creació de nova ocupació no compensarà les pèrdues, afectant especialment els perfils més qualificats."
-    },
-    {
-      "title": "Les constants pujades de preu de Netflix cansen l'audiència i fins i tot podrien ser il·legals",
-      "link_id": "c_70be5c",
-      "source": "RAC1",
-      "date": "2026-05-04",
-      "time": "13:11",
-      "summary": "Un tribunal italià crea un precedent europeu en dictaminar que apujar tarifes de manera unilateral pot considerar-se una pràctica il·legal."
-    },
-    {
-      "title": "«Vaig ser ximple»: totes les claus de la declaració d’Elon Musk en el seu judici contra OpenAI",
-      "link_id": "c_f0b379",
-      "source": "El Periódico",
-      "date": "2026-04-30",
-      "time": "11:56",
-      "summary": "El magnat s'enfronta als tribunals contra l'empresa creadora de ChatGPT, que ell mateix va ajudar a fundar el 2015."
-    },
-    {
-      "title": "A la cua en renovables, líder en bateries: el doble ritme de la transició energètica a Catalunya",
-      "link_id": "c_d5b7be",
-      "source": "MetaData",
-      "date": "2026-05-04",
-      "time": "11:10",
-      "summary": "Catalunya manté una forta dependència de l'energia nuclear mentre el creixement de les instal·lacions eòliques i solars continua sent lent."
+      "summary": "Un informe alerta que l'automatització afectarà especialment els perfils qualificats, superant la capacitat de crear nova ocupació."
     },
     {
       "title": "Estafats 20.000 euros en fraus telefònics i en línia a Eivissa",
@@ -66,23 +58,31 @@
       "source": "IB3 Notícies",
       "date": "2026-05-04",
       "time": "16:08",
-      "summary": "La Policia Nacional alerta d'un repunt significatiu de delictes cibernètics a l'illa mitjançant tècniques d'enginyeria social durant les darreres setmanes."
+      "summary": "La policia adverteix d'un augment preocupant de ciberdelictes basats en enginyeria social per enganyar les víctimes a les illes."
     },
     {
-      "title": "SpaceX, Anthropic i OpenAI sortiran a cotitzar a la borsa sense ser rendibles",
-      "link_id": "c_1bcbdf",
+      "title": "«Vaig ser ximple»: totes les claus de la declaració d’Elon Musk en el seu judici contra OpenAI",
+      "link_id": "c_f0b379",
+      "source": "El Periódico",
+      "date": "2026-04-30",
+      "time": "11:56",
+      "summary": "El magnat s'enfronta a l'empresa que va cofundar en una batalla legal que podria redefinir el futur tecnològic."
+    },
+    {
+      "title": "Brussel·les bloqueja finançar projectes de renovables amb peces crítiques xineses",
+      "link_id": "c_86f200",
       "source": "La Vanguardia (en català)",
-      "date": "2026-05-04",
-      "time": "03:41",
-      "summary": "Les tres grans companyies tecnològiques, valorades en tres bilions, protagonitzaran una col·locació històrica als mercats malgrat no generar beneficis."
+      "date": "2026-05-05",
+      "time": "09:24",
+      "summary": "Europa imposa restriccions als components estrangers per protegir la seva seguretat i reduir la dependència tecnològica d'altres potències."
     },
     {
-      "title": "Quants casos de frau elèctric va registrar Catalunya el 2025?",
-      "link_id": "c_d7747b",
-      "source": "Via Empresa",
-      "date": "2026-05-04",
-      "time": "11:23",
-      "summary": "Endesa va detectar més de vint-i-quatre mil manipulacions a la xarxa, xifra que representa un terç del total de l'Estat."
+      "title": "L'iPhone 17 és el smartphone més venut del món del qual portem del 2026",
+      "link_id": "c_310f44",
+      "source": "El Nacional.cat",
+      "date": "2026-05-05",
+      "time": "10:42",
+      "summary": "El darrer model d'Apple domina el mercat global de telefonia, superant els principals competidors com Samsung i Xiaomi."
     }
   ]
 }

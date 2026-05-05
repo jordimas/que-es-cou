@@ -1,5 +1,5 @@
 {
-  "generated_at": "2024-05-20T16:00",
+  "generated_at": "2024-05-24T12:00",
   "id": "podcasts",
   "title": "Podcasts en català sobre tecnologia",
   "sources_checked": [],
@@ -10,7 +10,7 @@
       "source": "Mossega la poma",
       "date": "2026-04-29",
       "time": "16:34",
-      "summary": "Marc analitza el nou MacBook Neo i detalla processos avançats d'IA, reflexionant sobre les expectatives tecnològiques."
+      "summary": "Anàlisi del nou MacBook Neo i com la intel·ligència artificial transforma els processos avançats i l'entorn laboral actual."
     },
     {
       "title": "Apple i el relleu del CEO – Programa 661",
@@ -18,7 +18,7 @@
       "source": "Mossega la poma",
       "date": "2026-04-24",
       "time": "09:33",
-      "summary": "S'analitza el futur d'Apple amb el relleu de Tim Cook i l'ús d'IA interna per monitorar empleats a Meta."
+      "summary": "Debat sobre el futur d'Apple sense Tim Cook i la polèmica decisió de Meta de monitorar els seus empleats."
     },
     {
       "title": "Especial Oients residents als Estats Units – Programa 660",
@@ -26,7 +26,7 @@
       "source": "Mossega la poma",
       "date": "2026-04-20",
       "time": "16:03",
-      "summary": "Conversa amb oients als Estats Units sobre l'actualitat del país, eines de desenvolupament al núvol i programació amb IA."
+      "summary": "Una xerrada amb oients nord-americans per analitzar l'actualitat tecnològica i social des de la seva perspectiva internacional."
     },
     {
       "title": "L' Altra Ràdio - La computació quàntica",
@@ -34,7 +34,7 @@
       "source": "L'altra ràdio",
       "date": "2026-04-30",
       "time": "07:33",
-      "summary": "Mariona Sanz del BSC explica la computació quàntica i presenta Quilimanjaro, una empresa emergent que ja utilitza aquesta tecnologia."
+      "summary": "Descobreix els fonaments de la computació quàntica i el cas d'èxit de l'empresa catalana Quilimanjaro, sorgida del BSC."
     },
     {
       "title": "L' Altra Ràdio - Els robotaxis: taxis sense conductor humà",
@@ -42,7 +42,7 @@
       "source": "L'altra ràdio",
       "date": "2026-04-23",
       "time": "07:33",
-      "summary": "Jordi Barreda analitza els robotaxis, vehicles autònoms dissenyats per al transport de passatgers sense conductor humà."
+      "summary": "Exploració del futur de la mobilitat urbana amb els vehicles autònoms dissenyats per al transport compartit de passatgers."
     },
     {
       "title": "El gòTIC - Tenim una missió! del 29/4/2026",
@@ -50,7 +50,7 @@
       "source": "El Gòtic",
       "date": "2026-04-28",
       "time": "16:29",
-      "summary": "El gòTIC de Tàrrega comparteix recursos i estratègies per afrontar els grans reptes i inquietuds de la ciutadania digital."
+      "summary": "Estratègies i recursos pràctics per empoderar la ciutadania digital davant els grans reptes tecnològics de l'actualitat."
     },
     {
       "title": "El manifest de Palantir, l'acord del Pentàgon amb vuit grans empreses d'IA i el relleu al capdavant d'Apple.",
@@ -58,7 +58,7 @@
       "source": "Internet amb Genís Roca",
       "date": "2026-05-01",
       "time": "20:10",
-      "summary": "Anàlisi de l'actualitat tecnològica, incloent-hi moviments estratègics en intel·ligència artificial militar i canvis de lideratge a Apple."
+      "summary": "Anàlisi de les implicacions ètiques i geopolítiques dels recents acords militars sobre intel·ligència artificial i el futur d'Apple."
     },
     {
       "title": "Foc you, Tim Apple",
@@ -66,7 +66,7 @@
       "source": "Foc a Terra",
       "date": "2026-05-04",
       "time": "04:00",
-      "summary": "Monogràfic sobre el llegat de Tim Cook a Apple, repassant els seus millors productes i els fracassos més sonats."
+      "summary": "Repàs irònic i exhaustiu als quinze anys de mandat de Tim Cook, destacant els seus èxits i fracassos."
     },
     {
       "title": "On van els calerons dels catalans? Amb Gerard Giménez Adsuar, el creador de subvencions.cat",
@@ -74,15 +74,15 @@
       "source": "Foc a Terra",
       "date": "2026-04-27",
       "time": "04:00",
-      "summary": "Entrevista al creador de subvencions.cat per parlar de transparència pública, vibecoding i el destí dels fons de les entitats catalanes."
+      "summary": "Una conversa sobre transparència institucional i dades obertes amb el creador de les plataformes subvencions.cat i contractes.cat."
     },
     {
-      "title": "La pensió de les paneroles i altres patrons de decepció",
-      "link_id": "c_fc9dde",
-      "source": "Foc a Terra",
-      "date": "2026-04-20",
-      "time": "04:00",
-      "summary": "S'exposen els trucs de disseny fosc que utilitzen empreses com Amazon o Duolingo per manipular les decisions dels usuaris."
+      "title": "L’API de presència",
+      "link_id": "c_19184f",
+      "source": "WordPress Pòdcast",
+      "date": "2026-05-05",
+      "time": "00:00",
+      "summary": "Descobreix com la nova Presence API millora la col·laboració mostrant els editors actius en temps real al tauler."
     },
     {
       "title": "WordPress 7.0 d’aquí a 3 setmanes",
@@ -90,7 +90,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-04-28",
       "time": "00:00",
-      "summary": "S'anuncia la data de llançament de la nova versió major de WordPress, prevista per al proper 20 de maig."
+      "summary": "Compte enrere per a la nova versió major del gestor de continguts, prevista per al proper 20 de maig."
     },
     {
       "title": "Matt Mullenweg reflexiona i opina sobre el rumb de WordPress",
@@ -98,7 +98,15 @@
       "source": "WordPress Pòdcast",
       "date": "2026-04-21",
       "time": "00:00",
-      "summary": "El creador de WordPress critica la cultura de procés actual del projecte, afirmant que paralitza la presa de decisions."
+      "summary": "El creador de la plataforma fa autocrítica sobre la burocràcia interna que frena la innovació i la presa de decisions."
+    },
+    {
+      "title": "Capítol 64: \"Obrir una gelateria és un dels negocis més rendibles a hores d'ara a la ciutat de Barcelona”",
+      "link_id": "c_1b317b",
+      "source": "RAC&GO",
+      "date": "2026-05-05",
+      "time": "06:19",
+      "summary": "L'aventura emprenedora de quatre amics que abandonen el món corporatiu per obrir un negoci artesanal i rendible a Barcelona."
     },
     {
       "title": "Capítol 63: Nanobots Therapeutics, robots per curar el càncer de bufeta",
@@ -106,7 +114,7 @@
       "source": "RAC&GO",
       "date": "2026-04-21",
       "time": "06:00",
-      "summary": "Un grup de recerca català crea nanorobots capaços de navegar pel cos humà per atacar directament tumors cancerosos."
+      "summary": "Una empresa emergent catalana desenvolupa nanorobots capaços de navegar pel cos humà per atacar directament els tumors cancerosos."
     }
   ]
 }
