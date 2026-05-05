@@ -1,24 +1,80 @@
 {
-  "generated_at": "2026-05-05T11:04",
+  "generated_at": "2026-05-05T20:07",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Anthropic s'alia amb Goldman i Blackstone en un projecte d'IA de 1.500 milions",
+      "title": "L'administració Trump avança en la supervisió de la IA i provarà models de Google, Microsoft i xAI",
+      "link_id": "c_90d2e6",
+      "source": "CNBC Technology",
+      "date": "2026-05-05",
+      "time": "17:06",
+      "summary": "La Casa Blanca podria crear un grup de treball per avaluar els algorismes abans del seu llançament públic."
+    },
+    {
+      "title": "Coinbase redueix la plantilla un 14% a causa de l'acceleració de la IA",
+      "link_id": "c_3a4b48",
+      "source": "CNBC Technology",
+      "date": "2026-05-05",
+      "time": "16:33",
+      "summary": "La volatilitat del mercat i l'automatització de processos permeten a l'empresa operar amb menys personal."
+    },
+    {
+      "title": "Coinbase retallarà llocs de treball per reconstruir el grup com una \"intel·ligència\"",
+      "link_id": "c_b4929f",
+      "source": "Financial Times",
+      "date": "2026-05-05",
+      "time": "14:29",
+      "summary": "El director de la plataforma de criptomonedes aposta per una reestructuració profunda impulsada per les noves tecnologies."
+    },
+    {
+      "title": "Google, xAI i Microsoft accepten revisions de seguretat nacional dels EUA per als nous models d'IA",
+      "link_id": "c_815975",
+      "source": "Financial Times",
+      "date": "2026-05-05",
+      "time": "11:30",
+      "summary": "Aquest acord sorgeix després de les recents preocupacions governamentals sobre els riscos del model Mythos d'Anthropic."
+    },
+    {
+      "title": "Anthropic s'alia amb Goldman i Blackstone en un projecte d'IA d'1.500 milions de dòlars",
       "link_id": "c_cd2f36",
       "source": "CNBC Technology",
       "date": "2026-05-04",
       "time": "18:55",
-      "summary": "La nova empresa assessorarà fons d'inversió per implementar intel·ligència artificial a les seves carteres, intensificant la competència amb OpenAI."
+      "summary": "La iniciativa busca consolidar el lideratge d'Anthropic en el sector empresarial davant la forta competència d'OpenAI."
     },
     {
-      "title": "Japan Airlines prova robots humanoides a l'aeroport de Tòquio per la manca de personal",
-      "link_id": "c_bd5af3",
+      "title": "El CEO d'Anthropic alerta d'un \"moment de perill\" cibernètic per les vulnerabilitats exposades per la IA",
+      "link_id": "c_16ebd4",
       "source": "CNBC Technology",
       "date": "2026-05-05",
-      "time": "04:47",
-      "summary": "L'aerolínia busca mitigar l'escassetat crònica de treballadors i l'envelliment de la població automatitzant els serveis de terra."
+      "time": "17:49",
+      "summary": "Dario Amodei insta governs i empreses a aprofitar un breu marge de temps per corregir fallades crítiques."
+    },
+    {
+      "title": "Intel es dispara un 14% i assoleix un màxim històric per possibles acords amb Apple",
+      "link_id": "c_ebd41f",
+      "source": "CNBC Technology",
+      "date": "2026-05-05",
+      "time": "16:28",
+      "summary": "Les negociacions per integrar els seus xips als dispositius nord-americans d'Apple consoliden el creixement rècord de l'empresa."
+    },
+    {
+      "title": "Meta i Zuckerberg, demandats per editors per una infracció \"massiva\" de drets d'autor",
+      "link_id": "c_32c785",
+      "source": "Financial Times",
+      "date": "2026-05-05",
+      "time": "16:09",
+      "summary": "Cinc grans grups editorials exigeixen responsabilitats per l'ús no autoritzat de les seves obres per entrenar Llama."
+    },
+    {
+      "title": "La CEO de Microsoft Xbox reestructura la direcció davant la caiguda de vendes",
+      "link_id": "c_83e839",
+      "source": "CNBC Technology",
+      "date": "2026-05-05",
+      "time": "16:09",
+      "summary": "Asha Sharma busca transformar la dinàmica de treball per connectar millor amb els desenvolupadors i els jugadors."
     },
     {
       "title": "La computació quàntica s'apropa al descobriment de fàrmacs amb un estudi d'enzims",
@@ -26,63 +82,7 @@
       "source": "Financial Times",
       "date": "2026-05-05",
       "time": "04:00",
-      "summary": "Els científics aconsegueixen modelar el comportament de molècules de proteïnes, obrint noves vies per a la investigació mèdica avançada."
-    },
-    {
-      "title": "Pinterest es dispara un 15% després de superar les previsions de beneficis",
-      "link_id": "c_61a519",
-      "source": "CNBC Technology",
-      "date": "2026-05-05",
-      "time": "02:33",
-      "summary": "L'empresa recull els fruits de la seva reestructuració i aposta per la IA, oferint unes projeccions financeres molt sòlides."
-    },
-    {
-      "title": "Andy Jassy assegura que la inversió d'Amazon en IA recompensarà els inversors",
-      "link_id": "c_8d2f28",
-      "source": "CNBC Technology",
-      "date": "2026-05-05",
-      "time": "00:38",
-      "summary": "El conseller delegat defensa la despesa massiva com una oportunitat generacional única que generarà grans beneficis a llarg termini."
-    },
-    {
-      "title": "Sierra, de Bret Taylor, capta gairebé 1.000 milions de dòlars en finançament",
-      "link_id": "c_26e23c",
-      "source": "CNBC Technology",
-      "date": "2026-05-04",
-      "time": "23:02",
-      "summary": "La ronda d'inversió, liderada per Tiger i Google GV, consolida el ràpid creixement d'aquesta prometedora empresa tecnològica."
-    },
-    {
-      "title": "El cap de vendes d'OpenAI marxa per unir-se a Thrive Capital",
-      "link_id": "c_09fc56",
-      "source": "CNBC Technology",
-      "date": "2026-05-04",
-      "time": "22:54",
-      "summary": "James Dyett abandona l'empresa després d'haver gestionat l'etapa de creixement explosiu impulsada pel llançament de ChatGPT."
-    },
-    {
-      "title": "Palantir supera les estimacions amb un creixement d'ingressos del 85%",
-      "link_id": "c_15362b",
-      "source": "CNBC Technology",
-      "date": "2026-05-04",
-      "time": "22:51",
-      "summary": "L'empresa assoleix la seva expansió més ràpida des del 2020 gràcies al fort augment de vendes al govern nord-americà."
-    },
-    {
-      "title": "Peter Thiel inverteix en centres de dades oceànics impulsats per les onades",
-      "link_id": "c_f055e1",
-      "source": "Financial Times",
-      "date": "2026-05-04",
-      "time": "15:00",
-      "summary": "El multimilionari lidera una inversió per alimentar la intel·ligència artificial mitjançant energia marina, explorant noves fronteres tecnològiques sostenibles."
-    },
-    {
-      "title": "El testimoni de Musk domina la primera setmana del judici contra Altman",
-      "link_id": "c_6b72eb",
-      "source": "CNBC Technology",
-      "date": "2026-05-04",
-      "time": "11:29",
-      "summary": "Elon Musk acusa el líder d'OpenAI d'apropiar-se d'una organització benèfica durant tres dies d'intenses declaracions judicials."
+      "summary": "Aquesta tecnologia permet modelar el comportament de les proteïnes, obrint noves vies per a la investigació mèdica."
     }
   ]
 }

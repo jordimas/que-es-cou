@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-05-05T11:04",
+  "generated_at": "2026-05-05T20:07",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "El president d'OpenAI fa 'de tot', excepte respondre a una pregunta",
-      "link_id": "c_2dc056",
+      "title": "Apple es planteja utilitzar Intel i Samsung per fabricar processadors",
+      "link_id": "c_bbe02c",
+      "source": "Bloomberg Technology",
+      "date": "2026-05-05",
+      "time": "17:37",
+      "summary": "L'empresa busca alternatives a TSMC per diversificar la seva cadena de subministrament i produir xips als Estats Units."
+    },
+    {
+      "title": "Els EUA avaluaran la seguretat dels nous models d'IA de Google, Microsoft i xAI",
+      "link_id": "c_b107f6",
+      "source": "BBC Technology",
+      "date": "2026-05-05",
+      "time": "17:21",
+      "summary": "El govern nord-americà revisarà els models abans del seu llançament públic per garantir-ne la seguretat i mitigar riscos."
+    },
+    {
+      "title": "Bose llança la nova barra de so 'Ultra' Dolby Atmos i altaveus sense fil",
+      "link_id": "c_bddcf5",
+      "source": "TechRadar",
+      "date": "2026-05-05",
+      "time": "15:13",
+      "summary": "La nova col·lecció Lifestyle promet un so cinematogràfic sense cables, competint directament amb els sistemes de Sonos."
+    },
+    {
+      "title": "El nou model predeterminat de ChatGPT és més precís i personalitzable",
+      "link_id": "c_1f864a",
+      "source": "Engadget",
+      "date": "2026-05-05",
+      "time": "17:59",
+      "summary": "OpenAI ha llançat GPT-5.5 Instant, reduint significativament les al·lucinacions en temes sensibles com la medicina i el dret."
+    },
+    {
+      "title": "Coinbase acomiadarà el 14% de la plantilla a causa del mercat i la IA",
+      "link_id": "c_817fb2",
+      "source": "Bloomberg Technology",
+      "date": "2026-05-05",
+      "time": "17:56",
+      "summary": "L'intercanviador de criptomonedes busca reduir costos i optimitzar l'eficiència integrant eines d'intel·ligència artificial en la seva reestructuració."
+    },
+    {
+      "title": "El telèfon d'OpenAI podria arribar a principis de l'any vinent",
+      "link_id": "c_fe4226",
+      "source": "9to5Google",
+      "date": "2026-05-05",
+      "time": "16:45",
+      "summary": "La companyia accelera el desenvolupament del seu primer telèfon intel·ligent centrat en IA, previst per a principis de 2027."
+    },
+    {
+      "title": "Actualitzacions del judici entre Elon Musk i Sam Altman pel futur d'OpenAI",
+      "link_id": "c_281c90",
       "source": "The Verge",
-      "date": "2026-05-04",
-      "time": "23:49",
-      "summary": "Greg Brockman va testificar en el judici contra Elon Musk, evitant donar respostes clares sobre les acusacions de lucre."
-    },
-    {
-      "title": "La missatgeria RCS entre iPhone i Android rep finalment la millora de seguretat esperada",
-      "link_id": "c_786357",
-      "source": "Android Authority",
       "date": "2026-05-05",
-      "time": "07:55",
-      "summary": "L'actualització a iOS 26.5 introduirà xifratge d'extrem a extrem per defecte en els missatges entre dispositius Apple i Android."
+      "time": "13:28",
+      "summary": "Musk acusa OpenAI d'abandonar la seva missió original sense ànim de lucre per centrar-se a maximitzar els beneficis."
     },
     {
-      "title": "iOS 27 podria permetre als usuaris crear passis personalitzats per a l'aplicació Apple Wallet",
-      "link_id": "c_ef0e90",
-      "source": "CNET",
-      "date": "2026-05-04",
-      "time": "21:50",
-      "summary": "Apple planeja una funció que permetrà dissenyar bitllets i targetes digitals a partir de codis QR sense dependre d'empreses."
-    },
-    {
-      "title": "Els somnis d'un desbloqueig facial al Pixel 11 que rivalitzi amb l'iPhone podrien haver mort",
-      "link_id": "c_a999f5",
+      "title": "iOS 26.5 afegeix xifratge als missatges RCS entre Android i iPhone",
+      "link_id": "c_1ff343",
       "source": "Digital Trends",
-      "date": "2026-05-04",
-      "time": "23:11",
-      "summary": "Les filtracions indiquen que Google descartarà el nou maquinari de reconeixement facial avançat per a la seva propera generació."
-    },
-    {
-      "title": "CVE-2026-31431: Copy Fail contra contenidors sense privilegis d'arrel",
-      "link_id": "c_e88d69",
-      "source": "Hacker News",
       "date": "2026-05-05",
-      "time": "03:43",
-      "summary": "Una vulnerabilitat crítica a Linux permet a usuaris locals modificar fitxers a la memòria cau i obtenir control total."
+      "time": "09:59",
+      "summary": "La nova actualització d'Apple garantirà converses privades i segures entre plataformes mitjançant el xifratge d'extrem a extrem."
     },
     {
-      "title": "La S.E.C. resol la demanda contra Elon Musk per les seves declaracions sobre Twitter",
-      "link_id": "c_185b80",
-      "source": "NYT Technology",
+      "title": "La IA de Meta escaneja l'estructura òssia per detectar menors a Instagram i Facebook",
+      "link_id": "c_9f90e7",
+      "source": "Digital Trends",
       "date": "2026-05-05",
-      "time": "01:22",
-      "summary": "El magnat pagarà 1,5 milions de dòlars per tancar el cas sobre la compra d'accions sense admetre cap culpa."
+      "time": "16:28",
+      "summary": "El sistema d'anàlisi visual estima l'edat dels usuaris per complir amb les normatives i eliminar comptes de menors."
     },
     {
-      "title": "La Casa Blanca es planteja examinar els models d'IA abans del seu llançament",
-      "link_id": "c_8f7ff3",
-      "source": "NYT Technology",
-      "date": "2026-05-04",
-      "time": "22:37",
-      "summary": "L'administració Trump avalua exigir proves de seguretat prèvies per als nous models d'intel·ligència artificial destinats a ús governamental."
-    },
-    {
-      "title": "Les accions de GameStop cauen un 10% després que el CEO eviti preguntes sobre l'adquisició d'eBay",
-      "link_id": "c_ea277c",
-      "source": "The Guardian Tech",
-      "date": "2026-05-04",
-      "time": "21:33",
-      "summary": "Ryan Cohen no va aclarir com finançarà la sorprenent oferta de 56.000 milions de dòlars per comprar la plataforma."
-    },
-    {
-      "title": "Necessites preguntar alguna cosa a Ask Jeeves? Ho sentim, és massa tard",
-      "link_id": "c_4f48b2",
-      "source": "CNET",
-      "date": "2026-05-04",
-      "time": "18:34",
-      "summary": "El pioner motor de cerca conversacional ha tancat definitivament després de gairebé trenta anys d'història a internet."
-    },
-    {
-      "title": "Els nens eludeixen la verificació d'edat amb bigotis falsos",
-      "link_id": "c_f6309b",
-      "source": "Hacker News",
+      "title": "Els investigadors d'IA de Google DeepMind s'sindiquen per contractes militars",
+      "link_id": "c_60e232",
+      "source": "The Next Web",
       "date": "2026-05-05",
-      "time": "04:36",
-      "summary": "Molts menors aconsegueixen enganyar els sistemes de detecció d'edat del Regne Unit simplement dibuixant-se pèl facial per accedir-hi."
+      "time": "13:29",
+      "summary": "Els treballadors del Regne Unit s'organitzen per bloquejar l'ús dels seus models d'intel·ligència artificial en aplicacions militars."
     }
   ]
 }
