@@ -1,129 +1,88 @@
 {
-  "generated_at": "2026-05-04T14:16",
+  "generated_at": "2026-05-05T13:54",
   "id": "world",
   "title": "Notícies tecnològiques del món",
-  "sources_checked": [
-    {
-      "name": "Ars Technica",
-      "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
-      "articles_found": 0
-    },
-    {
-      "name": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "VentureBeat",
-      "url": "https://feeds.feedburner.com/venturebeat/SZYF",
-      "articles_found": 0
-    },
-    {
-      "name": "AnandTech",
-      "url": "https://www.anandtech.com/rss/",
-      "articles_found": 0
-    },
-    {
-      "name": "BBC Technology",
-      "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
-      "articles_found": 0
-    },
-    {
-      "name": "Wall Street Journal Tech",
-      "url": "https://feeds.a.dj.com/rss/RSSWSJD.xml",
-      "articles_found": 0
-    },
-    {
-      "name": "Gizmodo",
-      "url": "https://www.gizmodo.com/feed/rss",
-      "articles_found": 0
-    },
-    {
-      "name": "Slashdot",
-      "url": "https://slashdot.org/rss/slashdot.rss",
-      "articles_found": 0
-    }
-  ],
+  "sources_checked": [],
   "articles": [
     {
-      "title": "Ask Jeeves tanca silenciosament després de gairebé tres dècades",
-      "link_id": "c_17cf87",
+      "title": "«El pitjor escenari és una situació tipus Terminator»: Elon Musk invoca robots assassins al judici d'OpenAI",
+      "link_id": "c_37d3d3",
       "source": "TechRadar",
-      "date": "2026-05-04",
-      "time": "10:11",
-      "summary": "El pioner de les cerques conversacionals a la xarxa s'acomiada definitivament, marcant la fi d'una era pre-IA."
+      "date": "2026-05-05",
+      "time": "08:40",
+      "summary": "Musk adverteix sobre els perills de la IA general durant el seu enfrontament legal amb Sam Altman."
     },
     {
-      "title": "GameStop proposa la compra d'eBay per 56.000 milions de dòlars",
-      "link_id": "c_024e3d",
+      "title": "iOS 26.5 afegeix xifratge als missatges RCS intercanviats entre Android i iPhone",
+      "link_id": "c_1ff343",
+      "source": "Digital Trends",
+      "date": "2026-05-05",
+      "time": "09:59",
+      "summary": "La nova actualització d'Apple garantirà converses privades i segures entre plataformes, posant fi a una llarga mancança."
+    },
+    {
+      "title": "iOS 27 podria permetre afegir passis personalitzats a l'Apple Wallet, posant fi a les targetes físiques",
+      "link_id": "c_d490a7",
+      "source": "TechRadar",
+      "date": "2026-05-05",
+      "time": "09:24",
+      "summary": "Els usuaris podran digitalitzar qualsevol codi QR o bitllet directament a l'aplicació sense dependre de les empreses."
+    },
+    {
+      "title": "Apple estaria negociant amb Intel i Samsung per fabricar els processadors clau dels seus dispositius",
+      "link_id": "c_0c45ec",
+      "source": "Engadget",
+      "date": "2026-05-05",
+      "time": "09:05",
+      "summary": "La companyia busca diversificar la seva cadena de subministrament i reduir la dependència exclusiva del fabricant TSMC."
+    },
+    {
+      "title": "La SEC tanca la demanda contra Elon Musk per les seves declaracions sobre Twitter",
+      "link_id": "c_185b80",
+      "source": "NYT Technology",
+      "date": "2026-05-05",
+      "time": "01:22",
+      "summary": "El magnat pagarà 1,5 milions de dòlars per resoldre l'acusació d'haver ocultat la compra d'accions de la xarxa."
+    },
+    {
+      "title": "Les empreses d'IA acorden donar accés anticipat als EUA per avaluar els seus models",
+      "link_id": "c_134897",
       "source": "Bloomberg Technology",
-      "date": "2026-05-04",
-      "time": "09:47",
-      "summary": "L'empresa de videojocs ofereix una prima del 20% per acció en un intent sorprenent d'adquirir el mercat en línia."
+      "date": "2026-05-05",
+      "time": "11:30",
+      "summary": "L'administració Trump revisarà la seguretat dels nous sistemes d'intel·ligència artificial abans que es llancin al públic."
     },
     {
-      "title": "Una filtració de Walmart revela un altaveu intel·ligent compatible amb Gemini",
-      "link_id": "c_c4485b",
-      "source": "Digital Trends",
+      "title": "La vulnerabilitat «Copy Fail» de Linux permet segrestar els privilegis del sistema. Actualitzeu com més aviat millor",
+      "link_id": "c_e08a92",
+      "source": "PCWorld",
       "date": "2026-05-04",
-      "time": "11:40",
-      "summary": "La línia Onn s'ampliarà amb un dispositiu que integrarà la IA de Google, suport per a Matter i Google Cast."
+      "time": "15:59",
+      "summary": "Aquest error crític ja s'està explotant activament, posant en greu risc servidors i centres de dades d'arreu."
     },
     {
-      "title": "Arriba el redisseny de la interfície de Gemini, però els usuaris d'Android hauran d'esperar",
-      "link_id": "c_1f739c",
+      "title": "Google s'enfronta al seu problema més gran fins ara amb el Pixel 11",
+      "link_id": "c_c4ee7d",
       "source": "Android Authority",
-      "date": "2026-05-04",
-      "time": "10:11",
-      "summary": "La nova aparença de l'assistent d'intel·ligència artificial de Google comença a desplegar-se primer als dispositius iPhone."
+      "date": "2026-05-05",
+      "time": "10:00",
+      "summary": "Les filtracions apunten a millores en la càmera, però descarten l'esperat sistema de reconeixement facial avançat."
     },
     {
-      "title": "Un PC tan gran que hi pots viure, amb aire condicionat propi",
-      "link_id": "c_539c7b",
-      "source": "Digital Trends",
+      "title": "El nou Steam Controller de Valve ja s'està enviant",
+      "link_id": "c_a109c4",
+      "source": "Phoronix",
       "date": "2026-05-04",
-      "time": "09:36",
-      "summary": "Un creador xinès ha construït un ordinador de la mida d'una habitació amb components gegants i refrigeració extrema."
+      "time": "13:15",
+      "summary": "L'esperat comandament s'ha esgotat ràpidament, provocant que els revenedors demanin preus desorbitats a plataformes com eBay."
     },
     {
-      "title": "Les polítiques de salut basades en IA perjudiquen els més necessitats a Kenya",
-      "link_id": "c_76a8f0",
-      "source": "Digital Trends",
-      "date": "2026-05-04",
-      "time": "09:27",
-      "summary": "Un sistema algorítmic sobreestima els ingressos de les famílies pobres, obligant-les a pagar primes d'assegurança inassumibles."
-    },
-    {
-      "title": "Plex apuja dràsticament el preu de la transmissió remota",
-      "link_id": "c_d98a48",
-      "source": "Digital Trends",
-      "date": "2026-05-04",
-      "time": "07:41",
-      "summary": "La plataforma posa fi a les tarifes inicials del Remote Watch Pass, augmentant significativament els costos mensuals i anuals."
-    },
-    {
-      "title": "La Xina declara il·legal acomiadar treballadors humans per substituir-los per IA",
-      "link_id": "c_364a79",
-      "source": "The Register",
-      "date": "2026-05-04",
-      "time": "00:33",
-      "summary": "Un tribunal xinès dictamina que l'automatització per si sola no justifica els acomiadaments sota la legislació laboral vigent."
-    },
-    {
-      "title": "Pistes i respostes per al NYT Connections del 4 de maig",
-      "link_id": "c_a69a97",
-      "source": "CNET",
-      "date": "2026-05-04",
-      "time": "09:01",
-      "summary": "Descobreix les solucions i consells per resoldre el popular trencaclosques diari del New York Times d'avui."
-    },
-    {
-      "title": "Els empleats ja són més perillosos per a la seva empresa que els pirates informàtics externs",
-      "link_id": "c_0dfd4b",
-      "source": "TechRadar",
-      "date": "2026-05-04",
-      "time": "12:12",
-      "summary": "El risc intern de ciberseguretat creix exponencialment, convertint el personal en el principal objectiu dels atacants malintencionats."
+      "title": "Els inversors d'eBay dubten que GameStop pugui complir amb l'oferta d'adquisició",
+      "link_id": "c_fc31b7",
+      "source": "Bloomberg Technology",
+      "date": "2026-05-05",
+      "time": "11:02",
+      "summary": "L'oferta sorpresa de 56.000 milions de dòlars genera escepticisme sobre com es finançarà aquesta operació massiva."
     }
   ]
 }

@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-05-04T14:30",
+  "generated_at": "2024-05-24T12:00",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
     {
       "name": "Ara.cat",
       "url": "https://www.ara.cat/rss/",
-      "articles_found": 9
+      "articles_found": 11
     },
     {
       "name": "El Periódico",
       "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
-      "articles_found": 3
+      "articles_found": 2
     },
     {
       "name": "RAC1",
       "url": "https://www.rac1.cat/rss/home.xml",
-      "articles_found": 5
+      "articles_found": 2
     },
     {
       "name": "La Vanguardia (en català)",
       "url": "https://www.lavanguardia.com/rss/encatala.xml",
-      "articles_found": 5
+      "articles_found": 7
     },
     {
       "name": "VilaWeb",
       "url": "https://www.vilaweb.cat/feed/",
-      "articles_found": 0
+      "articles_found": 1
     },
     {
       "name": "NacióDigital",
@@ -36,7 +36,7 @@
     {
       "name": "324.cat",
       "url": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0",
-      "articles_found": 3
+      "articles_found": 4
     },
     {
       "name": "Softcatalà",
@@ -46,7 +46,7 @@
     {
       "name": "El Nacional.cat",
       "url": "https://www.elnacional.cat/uploads/feeds/feed_ca.xml",
-      "articles_found": 10
+      "articles_found": 9
     },
     {
       "name": "El Mon.cat",
@@ -61,7 +61,7 @@
     {
       "name": "El Mon.cat Societat",
       "url": "https://elmon.cat/societat/feed/",
-      "articles_found": 1
+      "articles_found": 0
     },
     {
       "name": "Betevé",
@@ -76,7 +76,7 @@
     {
       "name": "Segre",
       "url": "https://www.segre.com/ca/rss/home.xml",
-      "articles_found": 7
+      "articles_found": 5
     },
     {
       "name": "Regio7",
@@ -126,7 +126,7 @@
     {
       "name": "Tot Barcelona",
       "url": "https://www.totbarcelona.cat/feed/",
-      "articles_found": 2
+      "articles_found": 1
     },
     {
       "name": "e-notícies",
@@ -136,7 +136,7 @@
     {
       "name": "Lleida Diari",
       "url": "https://www.lleidadiari.cat/feed/",
-      "articles_found": 4
+      "articles_found": 2
     },
     {
       "name": "Catorze",
@@ -186,7 +186,7 @@
     {
       "name": "IB3 Notícies",
       "url": "https://ib3.org/feed/",
-      "articles_found": 0
+      "articles_found": 1
     },
     {
       "name": "Ara Balears",
@@ -216,84 +216,84 @@
   ],
   "articles": [
     {
-      "title": "GameStop vol comprar eBay i presenta una opa hostil per 47.300 milions d'euros",
-      "link_id": "c_d1a92c",
+      "title": "Així pots escollir 3CatInfo com a font preferida de Google i no perdre't les nostres notícies",
+      "link_id": "c_f8fdc2",
       "source": "324.cat",
       "date": "2026-05-04",
-      "time": "12:34",
-      "summary": "La cadena de videojocs sorprèn el mercat tecnològic amb una oferta multimilionària per adquirir la històrica plataforma de comerç electrònic."
+      "time": "22:58",
+      "summary": "Google permet ara als usuaris personalitzar les fonts de notícies per prioritzar els mitjans que més els interessen."
     },
     {
-      "title": "Quants casos de frau elèctric va registrar Catalunya el 2025?",
-      "link_id": "c_d7747b",
-      "source": "Via Empresa",
-      "date": "2026-05-04",
-      "time": "11:23",
-      "summary": "Endesa va detectar més de 24.000 manipulacions a la xarxa catalana, un increment que posa en risc la seguretat elèctrica."
-    },
-    {
-      "title": "Mercadona crea centenars de llocs de treball amb una maniobra milionària",
-      "link_id": "c_d8fa57",
-      "source": "Lleida Diari",
-      "date": "2026-05-04",
-      "time": "11:19",
-      "summary": "La cadena de supermercats consolida el seu impacte econòmic invertint 5.200 milions d'euros en proveïdors locals i generant nova ocupació."
-    },
-    {
-      "title": "Les bandes capten menors de 14 anys a les portes dels instituts",
-      "link_id": "c_d78b90",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-05-04",
-      "time": "03:35",
-      "summary": "Grups com els Trinitarios i Barrio 18 aprofiten l'entorn escolar de Barcelona per reclutar joves cada cop més vulnerables."
-    },
-    {
-      "title": "9 de cada 10 edificis amb certificat energètic suspenen en emissions de CO2",
-      "link_id": "c_f70cc3",
-      "source": "Betevé",
-      "date": "2026-05-04",
-      "time": "11:36",
-      "summary": "La gran majoria del parc immobiliari català excedeix els nivells recomanats de contaminació i consum d'energia primària no renovable."
-    },
-    {
-      "title": "Compte enrere per als vehicles amb etiqueta B: l’AMB fixa el calendari",
-      "link_id": "c_ecb7fd",
-      "source": "Tot Barcelona",
-      "date": "2026-05-03",
-      "time": "12:09",
-      "summary": "El nou Pla de Mobilitat Metropolitana estableix les dates per restringir progressivament la circulació d'aquests cotxes a Barcelona."
-    },
-    {
-      "title": "Les constants pujades de preu de Netflix cansen l'audiència i fins i tot podrien ser il·legals: \"Estem estudiant emprendre accions\"",
-      "link_id": "c_70be5c",
-      "source": "RAC1",
-      "date": "2026-05-04",
-      "time": "13:11",
-      "summary": "Una sentència històrica a Itàlia crea un precedent europeu que podria frenar els increments unilaterals de tarifes de les plataformes."
-    },
-    {
-      "title": "Prompte podràs pagar amb Bizum en un datàfon amb NFC com fas amb Apple Pay o Google Pay",
-      "link_id": "c_226223",
+      "title": "Apple destaca les 3 principals novetats que arribaran a iOS 26.5",
+      "link_id": "c_a61fb1",
       "source": "El Nacional.cat",
-      "date": "2026-05-04",
-      "time": "13:15",
-      "summary": "El popular servei de transferències fa el salt als pagaments físics, ampliant la seva utilitat per als usuaris diaris."
+      "date": "2026-05-05",
+      "time": "11:55",
+      "summary": "La nova actualització del sistema operatiu de l'iPhone inclou millores clau abans del llançament de la versió 27."
     },
     {
-      "title": "Retiren del mercat una colònia infantil per la presència d’al·lèrgens no indicats a l’etiquetatge",
-      "link_id": "c_cce6d3",
-      "source": "Betevé",
-      "date": "2026-05-04",
-      "time": "11:38",
-      "summary": "L'Agència Espanyola de Medicaments alerta sobre un lot de Suavinex Baby Cologne Memories que conté substàncies no declarades."
+      "title": "La IA que utilitzes per xatejar està filtrant les teves converses",
+      "link_id": "c_905a9f",
+      "source": "El Periódico",
+      "date": "2026-05-05",
+      "time": "10:43",
+      "summary": "Sam Altman adverteix que els models com ChatGPT aviat coneixeran tots els detalls personals dels seus usuaris."
     },
     {
-      "title": "La IA podria destruir fins a 2,3 milions de llocs de treball a l’Estat espanyol en una dècada",
-      "link_id": "c_bec7f5",
-      "source": "MetaData",
-      "date": "2026-04-30",
-      "time": "12:10",
-      "summary": "Un informe adverteix que la intel·ligència artificial afectarà especialment els perfils qualificats, sense que la nova ocupació compensi les pèrdues."
+      "title": "Els bancs retallen plantilla mentre reassignen tasques amb la IA",
+      "link_id": "c_0de4bf",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-05-03",
+      "time": "07:39",
+      "summary": "La implementació tecnològica al sector financer ja permet estalviar hores de feina, accelerant la reducció de personal."
+    },
+    {
+      "title": "Brussel·les bloqueja finançar projectes de renovables amb peces crítiques xineses",
+      "link_id": "c_86f200",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-05-05",
+      "time": "09:24",
+      "summary": "Europa restringeix l'ús de components fabricats a la Xina, Rússia i l'Iran per protegir la seva seguretat."
+    },
+    {
+      "title": "WhatsApp acaba d'eliminar aquesta funció i estic segur que no te n'has adonat",
+      "link_id": "c_c9f056",
+      "source": "El Nacional.cat",
+      "date": "2026-05-05",
+      "time": "13:30",
+      "summary": "L'aplicació de missatgeria ha suprimit una eina de manera silenciosa, modificant l'experiència d'ús sense previ avís."
+    },
+    {
+      "title": "El govern espanyol aprova una oferta d'ocupació de 27.232 places amb el focus en la IA",
+      "link_id": "c_e0aabb",
+      "source": "Ara.cat",
+      "date": "2026-05-05",
+      "time": "05:00",
+      "summary": "El consell de ministres llança una nova convocatòria pública per al 2026, tot i les crítiques sindicals."
+    },
+    {
+      "title": "Adeu als anuncis d'hamburgueses: Amsterdam prohibeix els anuncis de carn",
+      "link_id": "c_e51ccb",
+      "source": "Ara.cat",
+      "date": "2026-05-05",
+      "time": "11:05",
+      "summary": "La capital neerlandesa esdevé pionera mundial en vetar la publicitat de productes carnis i combustibles fòssils."
+    },
+    {
+      "title": "Amazon revoluciona la forma de comprar: ara sabràs si aquesta oferta és realment bona",
+      "link_id": "c_69e2ae",
+      "source": "El Nacional.cat",
+      "date": "2026-05-05",
+      "time": "11:53",
+      "summary": "La plataforma de comerç electrònic introdueix una novetat per ajudar els consumidors a identificar els millors descomptes."
+    },
+    {
+      "title": "El cas Moltbook: quan la IA amenaça de prendre el control de l'empresa",
+      "link_id": "c_1f25d3",
+      "source": "Via Empresa",
+      "date": "2026-05-05",
+      "time": "04:55",
+      "summary": "L'evolució dels algorismes genera noves dependències empresarials, on les màquines comencen a influir en decisions estratègiques."
     }
   ]
 }

@@ -1,88 +1,80 @@
 {
-  "generated_at": "2024-05-24T18:30",
+  "generated_at": "2024-05-24T12:00",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "El fabricant de xips d'IA Cerebras busca captar 3.500 milions de dòlars en la seva sortida a borsa",
-      "link_id": "c_3a3fc3",
+      "title": "Blackstone i Goldman donen suport a una aliança d'1.500 milions amb Anthropic",
+      "link_id": "c_809fb2",
+      "source": "Financial Times",
+      "date": "2026-05-04",
+      "time": "13:58",
+      "summary": "La nova consultora assessorarà grups de Wall Street sobre com implementar la intel·ligència artificial a les seves carteres d'inversió."
+    },
+    {
+      "title": "Coinbase redueix la plantilla un 14% per l'acceleració de la IA i les accions pugen",
+      "link_id": "c_3a4b48",
+      "source": "CNBC Technology",
+      "date": "2026-05-05",
+      "time": "11:48",
+      "summary": "L'empresa justifica els acomiadaments per la volatilitat del mercat i la ràpida transformació operativa impulsada per la tecnologia."
+    },
+    {
+      "title": "La computació quàntica s'acosta al descobriment de fàrmacs amb un estudi d'enzims",
+      "link_id": "c_f13b18",
+      "source": "Financial Times",
+      "date": "2026-05-05",
+      "time": "04:00",
+      "summary": "Els científics aconsegueixen modelar el comportament de les molècules de proteïnes, obrint noves vies per a la investigació mèdica."
+    },
+    {
+      "title": "Pinterest es dispara un 15% després de superar les previsions de beneficis",
+      "link_id": "c_61a519",
+      "source": "CNBC Technology",
+      "date": "2026-05-05",
+      "time": "02:33",
+      "summary": "La xarxa social recull els fruits de la reestructuració del gener, destinant més recursos a la intel·ligència artificial."
+    },
+    {
+      "title": "Andy Jassy assegura que la inversió d'Amazon en IA recompensarà els inversors",
+      "link_id": "c_8d2f28",
+      "source": "CNBC Technology",
+      "date": "2026-05-05",
+      "time": "00:38",
+      "summary": "El conseller delegat defensa que aquesta despesa massiva representa una oportunitat única a la vida per al creixement futur."
+    },
+    {
+      "title": "El cap de vendes d'OpenAI marxa per unir-se a Thrive Capital",
+      "link_id": "c_09fc56",
       "source": "CNBC Technology",
       "date": "2026-05-04",
-      "time": "10:45",
-      "summary": "La valoració de l'empresa podria assolir els 24.500 milions, reflectint el fort interès del mercat pel maquinari d'intel·ligència artificial."
+      "time": "22:54",
+      "summary": "James Dyett abandona l'empresa després d'haver gestionat l'etapa de creixement explosiu posterior al llançament de ChatGPT."
     },
     {
-      "title": "IA + Halo = $$$",
-      "link_id": "c_b91774",
-      "source": "Financial Times",
-      "date": "2026-05-04",
-      "time": "05:30",
-      "summary": "L'auge tecnoindustrial demostra com la integració de la intel·ligència artificial genera noves i lucratives oportunitats de negoci."
-    },
-    {
-      "title": "Dinamarca s'enfronta a una crisi de centres de dades pel col·lapse de la xarxa elèctrica",
-      "link_id": "c_fd5fa8",
+      "title": "Palantir supera les estimacions amb un creixement d'ingressos del 85%",
+      "link_id": "c_15362b",
       "source": "CNBC Technology",
       "date": "2026-05-04",
-      "time": "05:00",
-      "summary": "L'alta demanda energètica d'aquestes instal·lacions obliga els governs a plantejar restriccions per evitar la saturació de les infraestructures elèctriques."
+      "time": "22:51",
+      "summary": "L'empresa registra la seva expansió més ràpida des del 2020, impulsada per les fortes vendes a agències governamentals nord-americanes."
     },
     {
-      "title": "La IA a la pràctica",
-      "link_id": "c_328c96",
+      "title": "El president d'OpenAI defensa la reestructuració amb ànim de lucre i revela una participació de 30.000 milions",
+      "link_id": "c_5cec76",
       "source": "Financial Times",
       "date": "2026-05-04",
-      "time": "04:16",
-      "summary": "Diversos sectors, des de la restauració fins a les finances, adopten la intel·ligència artificial per optimitzar processos i reduir costos."
+      "time": "21:17",
+      "summary": "La declaració respon a la demanda d'Elon Musk, que acusa els directius de prioritzar el benefici personal."
     },
     {
-      "title": "\"És crucial\": com la IA està transformant la indústria dels perfums",
-      "link_id": "c_1dd5a9",
+      "title": "Peter Thiel inverteix en centres de dades oceànics impulsats per les onades",
+      "link_id": "c_f055e1",
       "source": "Financial Times",
       "date": "2026-05-04",
-      "time": "04:00",
-      "summary": "La tecnologia permet crear fragàncies hiperpersonalitzades i optimitzar la producció, revolucionant la manera com s'elaboren els productes cosmètics."
-    },
-    {
-      "title": "Lliçons dels pioners en IA agencial",
-      "link_id": "c_9af1cd",
-      "source": "Financial Times",
-      "date": "2026-05-04",
-      "time": "04:00",
-      "summary": "Les primeres empreses a implementar agents autònoms comparteixen estratègies clau per superar els reptes d'aquesta nova tecnologia corporativa."
-    },
-    {
-      "title": "Les companyies d'aigua abandonen els bastons d'escolta i adopten la IA",
-      "link_id": "c_75b758",
-      "source": "Financial Times",
-      "date": "2026-05-04",
-      "time": "04:00",
-      "summary": "L'ús d'algoritmes avançats permet detectar fuites amb més precisió, millorant dràsticament l'eficiència hídrica respecte als mètodes tradicionals."
-    },
-    {
-      "title": "Els gestors de patrimonis insisteixen que la IA pot jugar al seu favor",
-      "link_id": "c_2795a4",
-      "source": "Financial Times",
-      "date": "2026-05-04",
-      "time": "04:00",
-      "summary": "Malgrat la incertesa inicial als mercats, el sector financer comença a aprofitar els avantatges analítics d'aquesta eina disruptiva."
-    },
-    {
-      "title": "Els fons de cobertura busquen avantatge mitjançant la velocitat de la IA",
-      "link_id": "c_feacf0",
-      "source": "Financial Times",
-      "date": "2026-05-04",
-      "time": "04:00",
-      "summary": "Els inversors acceleren l'anàlisi documental amb intel·ligència artificial, tot i que mantenen la prudència en les operacions més crítiques."
-    },
-    {
-      "title": "Els reclutadors recorren a la IA per trobar la connexió perfecta",
-      "link_id": "c_480d04",
-      "source": "Financial Times",
-      "date": "2026-05-04",
-      "time": "04:00",
-      "summary": "L'automatització de tasques rutinàries permet als professionals de recursos humans centrar-se en les interaccions personals amb els candidats."
+      "time": "15:00",
+      "summary": "El multimilionari lidera una ronda de 140 milions per a Panthalassa, buscant noves fronteres energètiques per a la IA."
     }
   ]
 }
