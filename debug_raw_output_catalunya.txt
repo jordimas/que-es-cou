@@ -1,24 +1,32 @@
 {
-  "generated_at": "2024-05-24T16:00",
+  "generated_at": "2026-05-06T09:15",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [],
   "articles": [
     {
-      "title": "El govern espanyol ofereix 27.232 llocs de treball el 2026: tecnològics i per a emergències climàtiques",
-      "link_id": "c_9c41f4",
-      "source": "324.cat",
-      "date": "2026-05-05",
-      "time": "15:39",
-      "summary": "L'Estat busca captar talent especialitzat en intel·ligència artificial i ciberseguretat per modernitzar l'administració pública."
+      "title": "L’Audiència de Barcelona veu indicis de delicte en l’espionatge amb Pegasus a Òmnium",
+      "link_id": "c_4359b4",
+      "source": "El Punt Avui",
+      "date": "2026-05-06",
+      "time": "09:42",
+      "summary": "El tribunal admet el recurs de l'entitat i investigarà l'ús del programari israelià contra tres dels seus membres."
     },
     {
-      "title": "Experts en intel·ligència artificial, ciberseguretat i emergència climàtica, entre els nous perfils de l'oferta d'ocupació pública del 2026",
-      "link_id": "c_72a481",
-      "source": "Àpunt",
-      "date": "2026-05-05",
-      "time": "13:26",
-      "summary": "Més de 1.700 places es destinaran exclusivament a perfils tecnològics per afrontar els nous reptes digitals."
+      "title": "Els Escrivà venen el seu 14% a Indra i es retiren del consell de la companyia",
+      "link_id": "c_e382fa",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-05-06",
+      "time": "09:52",
+      "summary": "Els germans Escribano abandonen la tecnològica de defensa espanyola mitjançant una col·locació accelerada de les seves accions."
+    },
+    {
+      "title": "La robòtica es dispara a Catalunya i ja factura prop de 1.000 milions d’euros",
+      "link_id": "c_b0f90e",
+      "source": "MetaData",
+      "date": "2026-05-06",
+      "time": "08:45",
+      "summary": "Amb més de tres-centes empreses, el territori català es consolida com un gran pol europeu de la Indústria 4.0."
     },
     {
       "title": "Obre les portes a Barcelona Advanced Factories, amb un impacte econòmic de 91 milions d’euros",
@@ -26,15 +34,7 @@
       "source": "El Mon.cat",
       "date": "2026-05-05",
       "time": "17:49",
-      "summary": "El saló reuneix més de 33.000 professionals per debatre sobre automatització, robòtica i la indústria 4.0."
-    },
-    {
-      "title": "Connexió Advanced Factories 2026, l'obertura | El repte de la col·laboració industrial, amb Eva Fité",
-      "link_id": "c_082119",
-      "source": "Via Empresa",
-      "date": "2026-05-05",
-      "time": "14:49",
-      "summary": "Experts reflexionen sobre la necessitat de cooperació entre empreses per consolidar la transformació tecnològica del sector."
+      "summary": "El congrés d'automatització celebra el desè aniversari reunint més de 33.000 professionals del sector tecnològic i industrial."
     },
     {
       "title": "Nou de cada deu catalans avalen prohibir les xarxes socials als menors de 16 anys",
@@ -42,7 +42,7 @@
       "source": "Ara.cat",
       "date": "2026-05-04",
       "time": "10:57",
-      "summary": "Una enquesta del CEO mostra un ampli consens social per restringir l'accés digital als més joves."
+      "summary": "Una enquesta del CEO mostra un ampli suport ciutadà a fixar aquesta edat mínima a tota la Unió Europea."
     },
     {
       "title": "Un terç dels adolescents admeten haver estat agressors a les xarxes",
@@ -50,7 +50,7 @@
       "source": "Ara.cat",
       "date": "2026-05-05",
       "time": "13:45",
-      "summary": "L'estudi alerta sobre la normalització d'insults i assetjament digital entre joves de la mateixa edat."
+      "summary": "Un estudi alerta sobre l'augment de violències digitals, com insults o espionatge, exercides principalment contra amistats i parelles."
     },
     {
       "title": "La IA amb què xateges està filtrant les teves converses, segons un estudi",
@@ -58,7 +58,23 @@
       "source": "El Periódico",
       "date": "2026-05-05",
       "time": "10:43",
-      "summary": "Models com ChatGPT recopilen dades personals per conèixer a fons el context i la vida dels usuaris."
+      "summary": "Els models lingüístics com ChatGPT aprenen del context personal dels usuaris, generant nous debats sobre la privacitat digital."
+    },
+    {
+      "title": "El govern espanyol ofereix 27.232 llocs de treball el 2026: tecnològics i per a emergències climàtiques",
+      "link_id": "c_9c41f4",
+      "source": "324.cat",
+      "date": "2026-05-05",
+      "time": "15:39",
+      "summary": "L'administració busca incorporar experts en ciberseguretat i intel·ligència artificial per modernitzar els serveis públics i afrontar nous reptes."
+    },
+    {
+      "title": "Apple pagarà fins a 95 dòlars als usuaris d'iPhone pel retard de Siri",
+      "link_id": "c_c61a3a",
+      "source": "El Nacional.cat",
+      "date": "2026-05-06",
+      "time": "11:00",
+      "summary": "La companyia tecnològica indemnitzarà els clients per evitar un judici col·lectiu relacionat amb el rendiment del seu assistent."
     },
     {
       "title": "El frau elèctric es dispara: a Catalunya se’n detecta un cada tres hores",
@@ -66,23 +82,7 @@
       "source": "La Vanguardia (en català)",
       "date": "2026-05-05",
       "time": "09:40",
-      "summary": "Les plantacions il·legals de marihuana disparen les manipulacions de la xarxa, generant problemes de subministrament i seguretat."
-    },
-    {
-      "title": "Els bancs retallen plantilla mentre reassignen tasques amb la IA",
-      "link_id": "c_0de4bf",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-05-03",
-      "time": "07:39",
-      "summary": "La implementació de noves tecnologies permet estalviar hores de feina, accelerant la reestructuració del sector financer."
-    },
-    {
-      "title": "Prevenir amputacions del peu diabètic amb una ecografia al CAP, un pla pioner que s'estén",
-      "link_id": "c_557081",
-      "source": "324.cat",
-      "date": "2026-05-05",
-      "time": "17:36",
-      "summary": "L'ús d'aquesta tecnologia a l'atenció primària facilita diagnòstics ràpids i evita complicacions greus en pacients."
+      "summary": "Les connexions il·legals a la xarxa elèctrica augmenten dràsticament, impulsades en gran part pel cultiu clandestí de cànnabis."
     }
   ]
 }
