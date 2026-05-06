@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-05-06T11:15",
+  "generated_at": "2026-05-06T20:13",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "GPT-5.5 Instant us mostra el que ha recordat, però no tot",
+      "title": "Apple pagarà 250 milions de dòlars per resoldre la demanda sobre el retard de les funcions d'IA de Siri",
+      "link_id": "c_59615e",
+      "source": "TechCrunch",
+      "date": "2026-05-06",
+      "time": "15:12",
+      "summary": "Apple compensarà els usuaris per haver promès funcions d'intel·ligència artificial que no van arribar a temps als seus dispositius."
+    },
+    {
+      "title": "ReMarkable Paper Pure vol ser l'única llibreta que necessitis",
+      "link_id": "c_92d948",
+      "source": "Digital Trends",
+      "date": "2026-05-06",
+      "time": "13:31",
+      "summary": "Aquesta nova tauleta de tinta electrònica monocroma ofereix una experiència d'escriptura bàsica i sense distraccions a un preu assequible."
+    },
+    {
+      "title": "Per què Chrome podria haver descarregat un fitxer de 4 GB al teu PC i com eliminar-lo",
+      "link_id": "c_d8bd9e",
+      "source": "ZDNet",
+      "date": "2026-05-06",
+      "time": "17:54",
+      "summary": "El navegador de Google instal·la un model d'IA local sense permís, ocupant espai i generant preocupacions sobre la privacitat."
+    },
+    {
+      "title": "GPT-5.5 Instant et mostra què ha recordat, però no tot",
       "link_id": "c_6317ae",
       "source": "VentureBeat",
       "date": "2026-05-05",
       "time": "23:26",
-      "summary": "OpenAI actualitza ChatGPT amb GPT-5.5 Instant, reduint al·lucinacions i emojis, però amb una memòria que podria generar conflictes d'auditoria."
+      "summary": "El nou model predeterminat de ChatGPT redueix les al·lucinacions i els emojis, oferint respostes més precises i directes."
     },
     {
-      "title": "Apple resol la demanda dels consumidors sobre Siri per 250 milions de dòlars. El cas dels accionistes continua actiu.",
-      "link_id": "c_0e816c",
-      "source": "The Next Web",
+      "title": "Google afegeix més potencial d'exploració als temes de cerca a AI Overviews",
+      "link_id": "c_968b98",
+      "source": "Android Authority",
       "date": "2026-05-06",
-      "time": "07:02",
-      "summary": "Apple pagarà 250 milions de dòlars per resoldre una demanda sobre el retard de les funcions d'intel·ligència artificial de Siri."
+      "time": "16:57",
+      "summary": "La companyia actualitza els resums d'IA per incloure cites de fòrums com Reddit i enllaços més directes a les fonts."
     },
     {
-      "title": "Aquesta actualització de Google Home se centra en una automatització més intel·ligent",
-      "link_id": "c_099d9c",
-      "source": "Digital Trends",
-      "date": "2026-05-05",
-      "time": "20:57",
-      "summary": "Google Home s'actualitza amb Gemini 3.1, permetent automatitzacions més intel·ligents i complexes per a dispositius de la llar connectada."
-    },
-    {
-      "title": "Les accions d'Intel pugen un 13% avui per un informe sobre la fabricació de xips d'Apple",
-      "link_id": "c_af4d1c",
-      "source": "9to5Mac",
+      "title": "Mira Murati declara al tribunal que no podia confiar en les paraules de Sam Altman",
+      "link_id": "c_1a4529",
+      "source": "The Verge",
       "date": "2026-05-06",
-      "time": "02:32",
-      "summary": "Apple explora Intel i Samsung per fabricar xips als Estats Units, buscant diversificar la seva cadena de subministrament."
+      "time": "13:55",
+      "summary": "L'exdirectora tecnològica d'OpenAI testifica en el judici d'Elon Musk que Altman va mentir sobre els estàndards de seguretat."
     },
     {
-      "title": "Segons els informes, Apple Intelligence permetrà triar models d'IA de tercers a iOS 27",
-      "link_id": "c_c63f5b",
-      "source": "Engadget",
-      "date": "2026-05-05",
-      "time": "19:38",
-      "summary": "La pròxima actualització d'iOS 27 permetrà als usuaris triar models d'IA de tercers, com Gemini o Claude, per defecte."
-    },
-    {
-      "title": "'Pensava que em pegaria', diu el cofundador d'OpenAI sobre Musk",
-      "link_id": "c_2deb14",
-      "source": "BBC Technology",
+      "title": "SpaceX podria gastar fins a 119.000 milions de dòlars en la fàbrica de xips \"Terafab\" a Texas",
+      "link_id": "c_80c959",
+      "source": "TechCrunch",
       "date": "2026-05-06",
-      "time": "07:10",
-      "summary": "El judici entre Elon Musk i OpenAI revela tensions passades, amb testimonis sobre l'enfocament comercial i la seguretat de l'IA."
+      "time": "17:23",
+      "summary": "L'empresa d'Elon Musk planeja una inversió massiva per construir una instal·lació de semiconductors que doni suport a la IA."
     },
     {
-      "title": "Els EUA avaluaran la seguretat dels nous models d'IA de Google, Microsoft i xAI",
-      "link_id": "c_b107f6",
-      "source": "BBC Technology",
-      "date": "2026-05-05",
-      "time": "20:16",
-      "summary": "L'administració Trump avaluarà la seguretat dels nous models d'IA abans del seu llançament públic, modificant la seva postura prèvia."
+      "title": "La CEO de Xbox, Asha Sharma, elimina Copilot per a jocs i renova la direcció",
+      "link_id": "c_626832",
+      "source": "Tom's Hardware",
+      "date": "2026-05-06",
+      "time": "17:51",
+      "summary": "Microsoft descarta l'assistent d'IA a les consoles per centrar-se en l'experiència del jugador i millorar la plataforma principal."
     },
     {
-      "title": "Bose llança una nova barra de so 'Ultra' Dolby Atmos i una gamma d'altaveus sense fil per competir amb Sonos",
-      "link_id": "c_bddcf5",
+      "title": "Apple retira més models de Mac mini i Mac Studio de la venda per l'escassetat de memòria",
+      "link_id": "c_5b6999",
       "source": "TechRadar",
-      "date": "2026-05-05",
-      "time": "15:13",
-      "summary": "Bose reviu la marca Lifestyle amb nous altaveus i barres de so Dolby Atmos per competir directament amb Sonos."
+      "date": "2026-05-06",
+      "time": "18:00",
+      "summary": "La forta demanda de xips per a IA obliga la companyia a limitar les opcions de memòria RAM disponibles."
     },
     {
-      "title": "iOS 26.5 afegeix encriptació als missatges RCS intercanviats entre Android i iPhone",
-      "link_id": "c_1ff343",
-      "source": "Digital Trends",
-      "date": "2026-05-05",
-      "time": "09:59",
-      "summary": "Apple introdueix l'encriptació d'extrem a extrem per als missatges RCS entre iPhone i Android amb la versió iOS 26.5."
-    },
-    {
-      "title": "Anthropic presenta agents d'IA per a tasques de serveis financers",
-      "link_id": "c_ee6afd",
+      "title": "Apple permetrà als usuaris triar models d'IA rivals a les funcions d'iOS 27",
+      "link_id": "c_7fd7c1",
       "source": "Bloomberg Technology",
       "date": "2026-05-06",
-      "time": "04:22",
-      "summary": "Anthropic llança nous agents d'IA dissenyats per gestionar tasques financeres, buscant atreure grans bancs i fons d'inversió de Wall Street."
+      "time": "16:19",
+      "summary": "Els usuaris d'iPhone podran seleccionar alternatives com Gemini o Claude en lloc de ChatGPT per a les tasques d'IA."
     }
   ]
 }

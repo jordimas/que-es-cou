@@ -1,88 +1,88 @@
 {
-  "generated_at": "2024-05-24T16:30",
+  "generated_at": "2026-05-06T20:13",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
+    {
+      "title": "Anthropic i SpaceX anuncien un acord informàtic que inclou el desenvolupament espacial",
+      "link_id": "c_dd13d0",
+      "source": "CNBC Technology",
+      "date": "2026-05-06",
+      "time": "17:47",
+      "summary": "L'aliança permetrà a Anthropic utilitzar tota la capacitat del centre de dades Colossus 1 de SpaceX a Memphis."
+    },
     {
       "title": "Samsung supera el bilió de dòlars de valoració impulsada per la febre de la IA",
       "link_id": "c_8bab95",
       "source": "CNBC Technology",
       "date": "2026-05-06",
       "time": "09:12",
-      "summary": "Els beneficis operatius del primer trimestre s'han multiplicat per vuit, consolidant la confiança dels inversors en l'empresa."
+      "summary": "Els beneficis operatius del primer trimestre s'han multiplicat per vuit, disparant les accions de la companyia tecnològica sud-coreana."
     },
     {
-      "title": "Coinbase redueix la plantilla un 14% a causa de l'acceleració de la IA",
-      "link_id": "c_3a4b48",
-      "source": "CNBC Technology",
-      "date": "2026-05-05",
-      "time": "20:00",
-      "summary": "La volatilitat del mercat i l'automatització ràpida dels processos interns motiven aquesta reestructuració laboral a l'empresa."
-    },
-    {
-      "title": "L'administració Trump augmenta el control sobre la IA i avaluarà models de Google, Microsoft i xAI",
-      "link_id": "c_90d2e6",
-      "source": "CNBC Technology",
-      "date": "2026-05-05",
-      "time": "17:06",
-      "summary": "La Casa Blanca planeja crear un grup de treball per supervisar i aprovar els nous models abans del llançament."
-    },
-    {
-      "title": "Les accions d'AMD es disparen un 15% gràcies al creixement dels centres de dades",
-      "link_id": "c_e237f1",
+      "title": "La inversió en R+D d'Apple supera el 10% de les vendes per la urgència de la IA",
+      "link_id": "c_7a1f3b",
       "source": "CNBC Technology",
       "date": "2026-05-06",
-      "time": "09:13",
-      "summary": "L'optimisme sobre l'expansió contínua de la intel·ligència artificial atreu inversors i supera les expectatives d'ingressos de la companyia."
+      "time": "18:08",
+      "summary": "La despesa en recerca creix el doble de ràpid que els ingressos, marcant una fita inèdita en trenta anys."
     },
     {
-      "title": "La start-up xinesa d'IA DeepSeek s'apropa als 45.000 milions de dòlars de valoració",
-      "link_id": "c_7ad722",
-      "source": "Financial Times",
-      "date": "2026-05-06",
-      "time": "05:50",
-      "summary": "Inversors com Tencent busquen participar en aquesta empresa, disparant-ne el valor durant les actuals rondes de finançament."
-    },
-    {
-      "title": "SenseTime afirma que els models d'IA més barats poden triomfar malgrat les sancions",
-      "link_id": "c_00184d",
+      "title": "La fàbrica de xips Terafab d'Elon Musk a Texas podria costar fins a 119.000 milions de dòlars",
+      "link_id": "c_02a0a1",
       "source": "CNBC Technology",
       "date": "2026-05-06",
-      "time": "05:09",
-      "summary": "L'empresa xinesa aposta per l'expansió internacional i el desenvolupament d'alternatives econòmiques per mantenir la competitivitat global."
+      "time": "17:56",
+      "summary": "Aquesta macroinstal·lació pretén fabricar semiconductors clau per abastir les futures necessitats de Tesla, SpaceX i xAI."
     },
     {
-      "title": "El sector de les finances descentralitzades pateix una fugida d'inversors després de diversos ciberatacs",
-      "link_id": "c_837197",
-      "source": "Financial Times",
+      "title": "La consellera delegada d'AMD justifica la millora de les previsions després de disparar-se un 15% a borsa",
+      "link_id": "c_296769",
+      "source": "CNBC Technology",
       "date": "2026-05-06",
-      "time": "04:00",
-      "summary": "Els recents problemes de seguretat han generat desconfiança entre els operadors, posant en dubte el futur d'aquests projectes."
+      "time": "17:22",
+      "summary": "Lisa Su duplica les estimacions a llarg termini gràcies a la forta demanda de processadors i als bons resultats."
     },
     {
-      "title": "Estafats per un bot conversacional",
-      "link_id": "c_245e02",
-      "source": "Financial Times",
+      "title": "Aquesta acció d'IA es donava per morta, però ara els inversors aposten per la seva recuperació",
+      "link_id": "c_3380f7",
+      "source": "CNBC Technology",
       "date": "2026-05-06",
-      "time": "04:00",
-      "summary": "Els grans models de llenguatge han assolit un nivell de versemblança que facilita l'engany als usuaris menys previnguts."
+      "time": "16:47",
+      "summary": "El volum d'opcions de compra mostra una clara tendència alcista, reflectint un renovat optimisme en el mercat."
     },
     {
-      "title": "Bezos reestructura els incentius de Blue Origin abans de la sortida a borsa de SpaceX",
-      "link_id": "c_0bbe2f",
-      "source": "Financial Times",
+      "title": "Nvidia invertirà 3.200 milions en Corning per obrir tres fàbriques de fibra òptica centrades en IA",
+      "link_id": "c_bd5e49",
+      "source": "CNBC Technology",
       "date": "2026-05-06",
-      "time": "04:00",
-      "summary": "L'empresa aeroespacial intenta calmar el malestar dels treballadors després que les antigues opcions sobre accions caduquessin sense beneficis."
+      "time": "16:36",
+      "summary": "Les noves plantes als Estats Units es dedicaran exclusivament a desenvolupar tecnologies òptiques avançades per al gegant dels xips."
     },
     {
-      "title": "Laboratoris d'IA: Són realment els bons els d'Anthropic?",
-      "link_id": "c_780a7b",
+      "title": "Truqueu als meus agents: instantànies del futur del treball",
+      "link_id": "c_df85d4",
       "source": "Financial Times",
       "date": "2026-05-06",
-      "time": "04:00",
-      "summary": "El lideratge de Dario Amodei projecta una imatge ètica, però sorgeixen dubtes sobre si podran mantenir aquesta postura."
+      "time": "16:00",
+      "summary": "Els empleats mostren més predisposició que els directius a adoptar ràpidament la intel·ligència artificial i l'automatització laboral."
+    },
+    {
+      "title": "Uber es veu afectada pel conflicte al Pròxim Orient malgrat el fort volum de reserves",
+      "link_id": "c_0e3fc3",
+      "source": "Financial Times",
+      "date": "2026-05-06",
+      "time": "13:38",
+      "summary": "L'empresa de mobilitat registra ingressos inferiors als previstos al primer trimestre, tot i mantenir unes perspectives de futur optimistes."
+    },
+    {
+      "title": "Els \"perdedors\" de la IA haurien de ser compensats amb reciclatge professional, segons un exsecretari del gabinet",
+      "link_id": "c_b49e37",
+      "source": "Financial Times",
+      "date": "2026-05-06",
+      "time": "11:37",
+      "summary": "Gus O'Donnell demana finançament per ensenyar noves habilitats als treballadors desplaçats per l'avenç d'aquesta nova tecnologia."
     }
   ]
 }

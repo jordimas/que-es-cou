@@ -1,24 +1,16 @@
 {
-  "generated_at": "2026-05-06T09:15",
+  "generated_at": "2026-05-06T18:15",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [],
   "articles": [
     {
-      "title": "L’Audiència de Barcelona veu indicis de delicte en l’espionatge amb Pegasus a Òmnium",
-      "link_id": "c_4359b4",
-      "source": "El Punt Avui",
+      "title": "L'Audiència de Barcelona veu indicis de delicte en la causa per espionatge amb Pegasus a Òmnium",
+      "link_id": "c_73f413",
+      "source": "324.cat",
       "date": "2026-05-06",
-      "time": "09:42",
-      "summary": "El tribunal admet el recurs de l'entitat i investigarà l'ús del programari israelià contra tres dels seus membres."
-    },
-    {
-      "title": "Els Escrivà venen el seu 14% a Indra i es retiren del consell de la companyia",
-      "link_id": "c_e382fa",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-05-06",
-      "time": "09:52",
-      "summary": "Els germans Escribano abandonen la tecnològica de defensa espanyola mitjançant una col·locació accelerada de les seves accions."
+      "time": "16:41",
+      "summary": "El tribunal demana desclassificar documents del CNI per avançar en la investigació sobre el ciberespionatge als activistes."
     },
     {
       "title": "La robòtica es dispara a Catalunya i ja factura prop de 1.000 milions d’euros",
@@ -26,55 +18,31 @@
       "source": "MetaData",
       "date": "2026-05-06",
       "time": "08:45",
-      "summary": "Amb més de tres-centes empreses, el territori català es consolida com un gran pol europeu de la Indústria 4.0."
+      "summary": "El sector consolida el territori com un hub europeu clau per a la Indústria 4.0, duplicant la seva mida."
     },
     {
-      "title": "Obre les portes a Barcelona Advanced Factories, amb un impacte econòmic de 91 milions d’euros",
-      "link_id": "c_47080f",
-      "source": "El Mon.cat",
-      "date": "2026-05-05",
-      "time": "17:49",
-      "summary": "El congrés d'automatització celebra el desè aniversari reunint més de 33.000 professionals del sector tecnològic i industrial."
-    },
-    {
-      "title": "Nou de cada deu catalans avalen prohibir les xarxes socials als menors de 16 anys",
-      "link_id": "c_ac6d58",
+      "title": "La família Pujol recupera la majoria a Ficosa",
+      "link_id": "c_412a3e",
       "source": "Ara.cat",
-      "date": "2026-05-04",
-      "time": "10:57",
-      "summary": "Una enquesta del CEO mostra un ampli suport ciutadà a fixar aquesta edat mínima a tota la Unió Europea."
-    },
-    {
-      "title": "Un terç dels adolescents admeten haver estat agressors a les xarxes",
-      "link_id": "c_489d8b",
-      "source": "Ara.cat",
-      "date": "2026-05-05",
-      "time": "13:45",
-      "summary": "Un estudi alerta sobre l'augment de violències digitals, com insults o espionatge, exercides principalment contra amistats i parelles."
-    },
-    {
-      "title": "La IA amb què xateges està filtrant les teves converses, segons un estudi",
-      "link_id": "c_905a9f",
-      "source": "El Periódico",
-      "date": "2026-05-05",
-      "time": "10:43",
-      "summary": "Els models lingüístics com ChatGPT aprenen del context personal dels usuaris, generant nous debats sobre la privacitat digital."
-    },
-    {
-      "title": "El govern espanyol ofereix 27.232 llocs de treball el 2026: tecnològics i per a emergències climàtiques",
-      "link_id": "c_9c41f4",
-      "source": "324.cat",
-      "date": "2026-05-05",
-      "time": "15:39",
-      "summary": "L'administració busca incorporar experts en ciberseguretat i intel·ligència artificial per modernitzar els serveis públics i afrontar nous reptes."
-    },
-    {
-      "title": "Apple pagarà fins a 95 dòlars als usuaris d'iPhone pel retard de Siri",
-      "link_id": "c_c61a3a",
-      "source": "El Nacional.cat",
       "date": "2026-05-06",
-      "time": "11:00",
-      "summary": "La companyia tecnològica indemnitzarà els clients per evitar un judici col·lectiu relacionat amb el rendiment del seu assistent."
+      "time": "09:44",
+      "summary": "El conseller delegat recompra les accions de Panasonic, retornant el control total del fabricant d'automoció als seus fundadors."
+    },
+    {
+      "title": "Els Premis Innovació Barcelona premien a les startups que estan redefinint el futur de la innovació",
+      "link_id": "c_9e5afd",
+      "source": "Via Empresa",
+      "date": "2026-05-06",
+      "time": "10:54",
+      "summary": "El guardó reconeix projectes emergents en salut, sostenibilitat i inclusió dins l'ecosistema tecnològic del districte 22@."
+    },
+    {
+      "title": "Per què aquesta escola dels EUA ha retirat tots els ordinadors portàtils dels alumnes?",
+      "link_id": "c_fded52",
+      "source": "Ara.cat",
+      "date": "2026-05-06",
+      "time": "04:55",
+      "summary": "Un institut de Kansas elimina les pantalles a les aules per intentar recuperar l'atenció i concentració dels estudiants."
     },
     {
       "title": "El frau elèctric es dispara: a Catalunya se’n detecta un cada tres hores",
@@ -82,7 +50,39 @@
       "source": "La Vanguardia (en català)",
       "date": "2026-05-05",
       "time": "09:40",
-      "summary": "Les connexions il·legals a la xarxa elèctrica augmenten dràsticament, impulsades en gran part pel cultiu clandestí de cànnabis."
+      "summary": "Les connexions il·legals a la xarxa augmenten dràsticament, impulsades en gran part per les plantacions clandestines de marihuana."
+    },
+    {
+      "title": "\"Eren fotos amb la meva cara, els meus llençols... però no era el meu cos, tot i que està molt ben fet\": un cas de sextorsió a Telegram amb imatges falses",
+      "link_id": "c_613086",
+      "source": "RAC1",
+      "date": "2026-05-06",
+      "time": "12:41",
+      "summary": "Els delinqüents utilitzen intel·ligència artificial per manipular fotografies i fer xantatge econòmic a les víctimes sota amenaça de difusió."
+    },
+    {
+      "title": "Bizum Pay arriba a les botigues físiques i desafia Visa i Mastercard en els pagaments mòbils",
+      "link_id": "c_3b7f58",
+      "source": "MetaData",
+      "date": "2026-05-06",
+      "time": "16:25",
+      "summary": "Aquesta nova funció permetrà abonar compres presencials directament des del mòbil, fomentant una xarxa de pagament europea independent."
+    },
+    {
+      "title": "La IA amb què xateges està filtrant les teves converses, segons un estudi",
+      "link_id": "c_905a9f",
+      "source": "El Periódico",
+      "date": "2026-05-05",
+      "time": "10:43",
+      "summary": "Els models com ChatGPT aprenen i retenen dades personals dels usuaris, generant nous reptes sobre la privacitat digital."
+    },
+    {
+      "title": "Nestlé planteja un ERO de 178 persones a Catalunya, la majoria a les oficines d'Esplugues",
+      "link_id": "c_41800d",
+      "source": "324.cat",
+      "date": "2026-05-06",
+      "time": "16:34",
+      "summary": "La multinacional retallarà llocs de treball tècnics i administratius malgrat haver registrat una facturació rècord durant l'any passat."
     }
   ]
 }
