@@ -1,12 +1,12 @@
 {
-  "generated_at": "2024-05-24T12:00",
+  "generated_at": "2024-05-24T16:00",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
     {
       "name": "Ara.cat",
       "url": "https://www.ara.cat/rss/",
-      "articles_found": 11
+      "articles_found": 9
     },
     {
       "name": "El Periódico",
@@ -16,7 +16,7 @@
     {
       "name": "RAC1",
       "url": "https://www.rac1.cat/rss/home.xml",
-      "articles_found": 2
+      "articles_found": 3
     },
     {
       "name": "La Vanguardia (en català)",
@@ -26,7 +26,7 @@
     {
       "name": "VilaWeb",
       "url": "https://www.vilaweb.cat/feed/",
-      "articles_found": 1
+      "articles_found": 0
     },
     {
       "name": "NacióDigital",
@@ -46,7 +46,7 @@
     {
       "name": "El Nacional.cat",
       "url": "https://www.elnacional.cat/uploads/feeds/feed_ca.xml",
-      "articles_found": 9
+      "articles_found": 8
     },
     {
       "name": "El Mon.cat",
@@ -66,7 +66,7 @@
     {
       "name": "Betevé",
       "url": "https://beteve.cat/feed/",
-      "articles_found": 2
+      "articles_found": 1
     },
     {
       "name": "El Punt Avui",
@@ -76,7 +76,7 @@
     {
       "name": "Segre",
       "url": "https://www.segre.com/ca/rss/home.xml",
-      "articles_found": 5
+      "articles_found": 6
     },
     {
       "name": "Regio7",
@@ -116,7 +116,7 @@
     {
       "name": "Cugat.cat",
       "url": "https://www.cugat.cat/feed/",
-      "articles_found": 1
+      "articles_found": 0
     },
     {
       "name": "CatalunyaPress",
@@ -126,7 +126,7 @@
     {
       "name": "Tot Barcelona",
       "url": "https://www.totbarcelona.cat/feed/",
-      "articles_found": 1
+      "articles_found": 0
     },
     {
       "name": "e-notícies",
@@ -136,7 +136,7 @@
     {
       "name": "Lleida Diari",
       "url": "https://www.lleidadiari.cat/feed/",
-      "articles_found": 2
+      "articles_found": 0
     },
     {
       "name": "Catorze",
@@ -156,7 +156,7 @@
     {
       "name": "MetaData",
       "url": "https://www.metadata.cat/sindica",
-      "articles_found": 5
+      "articles_found": 8
     },
     {
       "name": "El Temps",
@@ -166,12 +166,12 @@
     {
       "name": "Àpunt",
       "url": "https://www.apuntmedia.es/rss/",
-      "articles_found": 1
+      "articles_found": 2
     },
     {
       "name": "El Periòdic d'Ontinyent",
       "url": "https://www.elperiodicvalencia.com/?feed=rss2",
-      "articles_found": 0
+      "articles_found": 6
     },
     {
       "name": "Saó",
@@ -186,12 +186,12 @@
     {
       "name": "IB3 Notícies",
       "url": "https://ib3.org/feed/",
-      "articles_found": 1
+      "articles_found": 0
     },
     {
       "name": "Ara Balears",
       "url": "https://www.arabalears.cat/rss/",
-      "articles_found": 1
+      "articles_found": 4
     },
     {
       "name": "Manacor Comarcal",
@@ -201,12 +201,12 @@
     {
       "name": "Via Empresa",
       "url": "https://www.viaempresa.cat/uploads/feeds/feed_via-empresa-2024_ca.xml",
-      "articles_found": 4
+      "articles_found": 10
     },
     {
       "name": "Lúdica",
       "url": "https://ludica.cat/feed/",
-      "articles_found": 1
+      "articles_found": 0
     },
     {
       "name": "Accent Obert",
@@ -216,84 +216,84 @@
   ],
   "articles": [
     {
-      "title": "Així pots escollir 3CatInfo com a font preferida de Google i no perdre't les nostres notícies",
-      "link_id": "c_f8fdc2",
-      "source": "324.cat",
-      "date": "2026-05-04",
-      "time": "22:58",
-      "summary": "Google permet ara als usuaris personalitzar les fonts de notícies per prioritzar els mitjans que més els interessen."
+      "title": "La família Pujol recupera la majoria a Ficosa",
+      "link_id": "c_412a3e",
+      "source": "Ara.cat",
+      "date": "2026-05-06",
+      "time": "09:44",
+      "summary": "Xavier Pujol recompra les accions de Panasonic, retornant el control total del fabricant de components a la família fundadora."
     },
     {
-      "title": "Apple destaca les 3 principals novetats que arribaran a iOS 26.5",
-      "link_id": "c_a61fb1",
-      "source": "El Nacional.cat",
-      "date": "2026-05-05",
-      "time": "11:55",
-      "summary": "La nova actualització del sistema operatiu de l'iPhone inclou millores clau abans del llançament de la versió 27."
+      "title": "Indra puja a la borsa després de la sortida dels Escribano",
+      "link_id": "c_aff244",
+      "source": "Ara.cat",
+      "date": "2026-05-06",
+      "time": "08:03",
+      "summary": "L'empresa tecnològica i de defensa experimenta un creixement borsari immediat en confirmar-se l'adeu dels germans Escribano de l'accionariat."
     },
     {
-      "title": "La IA que utilitzes per xatejar està filtrant les teves converses",
+      "title": "Els Premis Innovació Barcelona reconeixen les start-ups que impulsen el futur tecnològic de la ciutat",
+      "link_id": "c_474762",
+      "source": "MetaData",
+      "date": "2026-05-06",
+      "time": "12:10",
+      "summary": "Guardonen projectes emergents del districte 22@ centrats en salut, sostenibilitat i inclusió per transformar l'ecosistema digital barceloní."
+    },
+    {
+      "title": "El sector de la robòtica es duplica en cinc anys i frega els 1.000 milions de volum de negoci",
+      "link_id": "c_8cd3b6",
+      "source": "Via Empresa",
+      "date": "2026-05-06",
+      "time": "08:53",
+      "summary": "Catalunya es consolida com a referent europeu de la Indústria 4.0 amb més de tres-centes empreses especialitzades en robòtica."
+    },
+    {
+      "title": "La declaració de la renda es pot presentar per telèfon des d’este dimecres",
+      "link_id": "c_aaf568",
+      "source": "Àpunt",
+      "date": "2026-05-06",
+      "time": "07:30",
+      "summary": "S'habilita l'assistència telefònica i per videoconferència per facilitar el tràmit fiscal, especialment a la gent gran de municipis petits."
+    },
+    {
+      "title": "\"Eren fotos amb la meva cara, els meus llençols... però no era el meu cos, tot i que està molt ben fet\": un cas de sextorsió a Telegram amb imatges falses",
+      "link_id": "c_613086",
+      "source": "RAC1",
+      "date": "2026-05-06",
+      "time": "12:41",
+      "summary": "Un oient denuncia com els ciberdelinqüents utilitzen muntatges fotogràfics hiperrealistes per fer xantatge econòmic a les víctimes."
+    },
+    {
+      "title": "La IA amb què xateges està filtrant les teves converses, segons un estudi",
       "link_id": "c_905a9f",
       "source": "El Periódico",
       "date": "2026-05-05",
       "time": "10:43",
-      "summary": "Sam Altman adverteix que els models com ChatGPT aviat coneixeran tots els detalls personals dels seus usuaris."
+      "summary": "Models com ChatGPT recopilen dades personals i de context vital dels usuaris, posant en risc la privacitat digital."
     },
     {
-      "title": "Els bancs retallen plantilla mentre reassignen tasques amb la IA",
-      "link_id": "c_0de4bf",
+      "title": "Els menors de qualsevol edat tindran veu en els processos judicials que els afecten",
+      "link_id": "c_086d70",
+      "source": "Àpunt",
+      "date": "2026-05-05",
+      "time": "20:12",
+      "summary": "El govern suprimeix el límit de dotze anys perquè els infants puguin expressar-se davant jutges en casos de divorci."
+    },
+    {
+      "title": "El govern espanyol ofereix 27.232 llocs de treball el 2026: tecnològics i per a emergències climàtiques",
+      "link_id": "c_9c41f4",
+      "source": "324.cat",
+      "date": "2026-05-05",
+      "time": "15:39",
+      "summary": "La nova convocatòria pública busca captar talent especialitzat en intel·ligència artificial, ciberseguretat i gestió climàtica."
+    },
+    {
+      "title": "Les bandes capten menors de 14 anys a les portes dels instituts",
+      "link_id": "c_d78b90",
       "source": "La Vanguardia (en català)",
-      "date": "2026-05-03",
-      "time": "07:39",
-      "summary": "La implementació tecnològica al sector financer ja permet estalviar hores de feina, accelerant la reducció de personal."
-    },
-    {
-      "title": "Brussel·les bloqueja finançar projectes de renovables amb peces crítiques xineses",
-      "link_id": "c_86f200",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-05-05",
-      "time": "09:24",
-      "summary": "Europa restringeix l'ús de components fabricats a la Xina, Rússia i l'Iran per protegir la seva seguretat."
-    },
-    {
-      "title": "WhatsApp acaba d'eliminar aquesta funció i estic segur que no te n'has adonat",
-      "link_id": "c_c9f056",
-      "source": "El Nacional.cat",
-      "date": "2026-05-05",
-      "time": "13:30",
-      "summary": "L'aplicació de missatgeria ha suprimit una eina de manera silenciosa, modificant l'experiència d'ús sense previ avís."
-    },
-    {
-      "title": "El govern espanyol aprova una oferta d'ocupació de 27.232 places amb el focus en la IA",
-      "link_id": "c_e0aabb",
-      "source": "Ara.cat",
-      "date": "2026-05-05",
-      "time": "05:00",
-      "summary": "El consell de ministres llança una nova convocatòria pública per al 2026, tot i les crítiques sindicals."
-    },
-    {
-      "title": "Adeu als anuncis d'hamburgueses: Amsterdam prohibeix els anuncis de carn",
-      "link_id": "c_e51ccb",
-      "source": "Ara.cat",
-      "date": "2026-05-05",
-      "time": "11:05",
-      "summary": "La capital neerlandesa esdevé pionera mundial en vetar la publicitat de productes carnis i combustibles fòssils."
-    },
-    {
-      "title": "Amazon revoluciona la forma de comprar: ara sabràs si aquesta oferta és realment bona",
-      "link_id": "c_69e2ae",
-      "source": "El Nacional.cat",
-      "date": "2026-05-05",
-      "time": "11:53",
-      "summary": "La plataforma de comerç electrònic introdueix una novetat per ajudar els consumidors a identificar els millors descomptes."
-    },
-    {
-      "title": "El cas Moltbook: quan la IA amenaça de prendre el control de l'empresa",
-      "link_id": "c_1f25d3",
-      "source": "Via Empresa",
-      "date": "2026-05-05",
-      "time": "04:55",
-      "summary": "L'evolució dels algorismes genera noves dependències empresarials, on les màquines comencen a influir en decisions estratègiques."
+      "date": "2026-05-04",
+      "time": "03:35",
+      "summary": "Grups com els Trinitarios i Barrio 18 aprofiten l'entorn escolar de Barcelona per reclutar adolescents cada cop més joves."
     }
   ]
 }

@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-05-05T13:54",
+  "generated_at": "2026-05-06T14:22",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "«El pitjor escenari és una situació tipus Terminator»: Elon Musk invoca robots assassins al judici d'OpenAI",
-      "link_id": "c_37d3d3",
-      "source": "TechRadar",
+      "title": "Apple acorda pagar 250 milions de dòlars als propietaris d'iPhone per no oferir la IA de Siri",
+      "link_id": "c_df8dd5",
+      "source": "The Verge",
       "date": "2026-05-05",
-      "time": "08:40",
-      "summary": "Musk adverteix sobre els perills de la IA general durant el seu enfrontament legal amb Sam Altman."
+      "time": "17:18",
+      "summary": "Apple pagarà 250 milions de dòlars per resoldre una demanda col·lectiva sobre el retard de les funcions d'intel·ligència artificial."
     },
     {
-      "title": "iOS 26.5 afegeix xifratge als missatges RCS intercanviats entre Android i iPhone",
-      "link_id": "c_1ff343",
-      "source": "Digital Trends",
+      "title": "OpenAI llança GPT-5.5 Instant, un nou model predeterminat per a ChatGPT",
+      "link_id": "c_0e7d07",
+      "source": "TechCrunch",
       "date": "2026-05-05",
-      "time": "09:59",
-      "summary": "La nova actualització d'Apple garantirà converses privades i segures entre plataformes, posant fi a una llarga mancança."
+      "time": "17:00",
+      "summary": "El nou model redueix les al·lucinacions en temes sensibles com la medicina i les finances, mantenint una baixa latència."
     },
     {
-      "title": "iOS 27 podria permetre afegir passis personalitzats a l'Apple Wallet, posant fi a les targetes físiques",
-      "link_id": "c_d490a7",
-      "source": "TechRadar",
+      "title": "La nova tauleta Paper Pure de reMarkable torna als orígens amb una pantalla monocroma",
+      "link_id": "c_e0b1d9",
+      "source": "TechCrunch",
+      "date": "2026-05-06",
+      "time": "12:00",
+      "summary": "La nova tauleta Paper Pure és més lleugera i ràpida, substituint el model anterior després de sis anys."
+    },
+    {
+      "title": "La IA Gemini de Google Home pot gestionar peticions més complicades",
+      "link_id": "c_3a623b",
+      "source": "The Verge",
       "date": "2026-05-05",
-      "time": "09:24",
-      "summary": "Els usuaris podran digitalitzar qualsevol codi QR o bitllet directament a l'aplicació sense dependre de les empreses."
+      "time": "17:46",
+      "summary": "L'assistent intel·ligent s'actualitza a Gemini 3.1, permetent executar tasques complexes de múltiples passos amb una sola ordre de veu."
     },
     {
-      "title": "Apple estaria negociant amb Intel i Samsung per fabricar els processadors clau dels seus dispositius",
-      "link_id": "c_0c45ec",
-      "source": "Engadget",
+      "title": "Apple planeja fer d'iOS 27 una aventura on triar el teu propi model d'IA",
+      "link_id": "c_4ab110",
+      "source": "TechCrunch",
       "date": "2026-05-05",
-      "time": "09:05",
-      "summary": "La companyia busca diversificar la seva cadena de subministrament i reduir la dependència exclusiva del fabricant TSMC."
+      "time": "20:56",
+      "summary": "La propera actualització d'Apple permetrà als usuaris triar models d'IA de tercers per a diverses tasques del sistema operatiu."
     },
     {
-      "title": "La SEC tanca la demanda contra Elon Musk per les seves declaracions sobre Twitter",
-      "link_id": "c_185b80",
-      "source": "NYT Technology",
+      "title": "Apple busca xips de Samsung i Intel enmig de l'escassetat, segons un informe",
+      "link_id": "c_5f9fde",
+      "source": "CNET",
       "date": "2026-05-05",
-      "time": "01:22",
-      "summary": "El magnat pagarà 1,5 milions de dòlars per resoldre l'acusació d'haver ocultat la compra d'accions de la xarxa."
+      "time": "21:51",
+      "summary": "Apple explora alternatives a TSMC, negociant amb Intel i Samsung per diversificar la producció dels seus processadors avançats."
     },
     {
-      "title": "Les empreses d'IA acorden donar accés anticipat als EUA per avaluar els seus models",
-      "link_id": "c_134897",
-      "source": "Bloomberg Technology",
+      "title": "Pornhub restaura l'accés als adults del Regne Unit que utilitzen la verificació d'edat d'Apple",
+      "link_id": "c_10b8b9",
+      "source": "Wired",
       "date": "2026-05-05",
-      "time": "11:30",
-      "summary": "L'administració Trump revisarà la seguretat dels nous sistemes d'intel·ligència artificial abans que es llancin al públic."
+      "time": "15:10",
+      "summary": "El portal per a adults torna a permetre l'accés al Regne Unit mitjançant el sistema de verificació d'edat d'Apple."
     },
     {
-      "title": "La vulnerabilitat «Copy Fail» de Linux permet segrestar els privilegis del sistema. Actualitzeu com més aviat millor",
-      "link_id": "c_e08a92",
-      "source": "PCWorld",
-      "date": "2026-05-04",
-      "time": "15:59",
-      "summary": "Aquest error crític ja s'està explotant activament, posant en greu risc servidors i centres de dades d'arreu."
+      "title": "Les funcions d'IA de Chrome podrien estar ocupant 4 GB de l'emmagatzematge del teu ordinador",
+      "link_id": "c_bfa3fa",
+      "source": "The Verge",
+      "date": "2026-05-06",
+      "time": "06:13",
+      "summary": "El navegador de Google descarrega automàticament un model d'IA de 4 GB, ocupant espai d'emmagatzematge sense el consentiment de l'usuari."
     },
     {
-      "title": "Google s'enfronta al seu problema més gran fins ara amb el Pixel 11",
-      "link_id": "c_c4ee7d",
-      "source": "Android Authority",
+      "title": "Microsoft renuncia a la IA Copilot per a Xbox",
+      "link_id": "c_d554e2",
+      "source": "The Verge",
       "date": "2026-05-05",
-      "time": "10:00",
-      "summary": "Les filtracions apunten a millores en la càmera, però descarten l'esperat sistema de reconeixement facial avançat."
+      "time": "15:54",
+      "summary": "Microsoft atura el desenvolupament de l'assistent d'IA per a consoles i mòbils, prioritzant l'experiència de joc tradicional."
     },
     {
-      "title": "El nou Steam Controller de Valve ja s'està enviant",
-      "link_id": "c_a109c4",
-      "source": "Phoronix",
-      "date": "2026-05-04",
-      "time": "13:15",
-      "summary": "L'esperat comandament s'ha esgotat ràpidament, provocant que els revenedors demanin preus desorbitats a plataformes com eBay."
-    },
-    {
-      "title": "Els inversors d'eBay dubten que GameStop pugui complir amb l'oferta d'adquisició",
-      "link_id": "c_fc31b7",
-      "source": "Bloomberg Technology",
+      "title": "«Realment pensava que em pegaria», diu Greg Brockman d'OpenAI sobre Elon Musk",
+      "link_id": "c_7cddd8",
+      "source": "Wired",
       "date": "2026-05-05",
-      "time": "11:02",
-      "summary": "L'oferta sorpresa de 56.000 milions de dòlars genera escepticisme sobre com es finançarà aquesta operació massiva."
+      "time": "23:24",
+      "summary": "El president d'OpenAI revela tensions passades amb Elon Musk durant el judici sobre la direcció comercial de l'empresa."
     }
   ]
 }

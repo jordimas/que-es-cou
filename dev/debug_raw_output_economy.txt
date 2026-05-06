@@ -1,80 +1,88 @@
 {
-  "generated_at": "2024-05-24T12:00",
+  "generated_at": "2024-05-24T16:30",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Blackstone i Goldman donen suport a una aliança d'1.500 milions amb Anthropic",
-      "link_id": "c_809fb2",
-      "source": "Financial Times",
-      "date": "2026-05-04",
-      "time": "13:58",
-      "summary": "La nova consultora assessorarà grups de Wall Street sobre com implementar la intel·ligència artificial a les seves carteres d'inversió."
+      "title": "Samsung supera el bilió de dòlars de valoració impulsada per la febre de la IA",
+      "link_id": "c_8bab95",
+      "source": "CNBC Technology",
+      "date": "2026-05-06",
+      "time": "09:12",
+      "summary": "Els beneficis operatius rècord del primer trimestre han disparat les accions de la companyia sud-coreana."
     },
     {
-      "title": "Coinbase redueix la plantilla un 14% per l'acceleració de la IA i les accions pugen",
+      "title": "El valor de mercat de Samsung assoleix el bilió de dòlars per l'eufòria de la IA",
+      "link_id": "c_1beb7c",
+      "source": "Financial Times",
+      "date": "2026-05-06",
+      "time": "04:01",
+      "summary": "L'auge del gegant dels xips de memòria porta l'índex Kospi de Corea del Sud a nous màxims històrics."
+    },
+    {
+      "title": "Coinbase redueix la plantilla un 14% a causa de l'acceleració de la IA",
       "link_id": "c_3a4b48",
       "source": "CNBC Technology",
       "date": "2026-05-05",
-      "time": "11:48",
-      "summary": "L'empresa justifica els acomiadaments per la volatilitat del mercat i la ràpida transformació operativa impulsada per la tecnologia."
+      "time": "20:00",
+      "summary": "La volatilitat del mercat i l'automatització de processos obliguen la plataforma a reestructurar la seva força laboral."
     },
     {
-      "title": "La computació quàntica s'acosta al descobriment de fàrmacs amb un estudi d'enzims",
-      "link_id": "c_f13b18",
+      "title": "Coinbase retallarà llocs de treball per reconstruir-se com una empresa d'intel·ligència",
+      "link_id": "c_b4929f",
       "source": "Financial Times",
       "date": "2026-05-05",
+      "time": "14:29",
+      "summary": "El conseller delegat afirma que la intel·ligència artificial agilitza les operacions, reduint així la necessitat de personal."
+    },
+    {
+      "title": "Nvidia i Corning s'alien en un acord massiu de fibra òptica clau per a la IA",
+      "link_id": "c_bd5e49",
+      "source": "CNBC Technology",
+      "date": "2026-05-06",
+      "time": "12:14",
+      "summary": "Corning obrirà tres noves plantes als Estats Units dedicades exclusivament a tecnologies òptiques per a Nvidia."
+    },
+    {
+      "title": "La inversió en R+D d'Apple supera el 10% de les vendes per la urgència de la IA",
+      "link_id": "c_7a1f3b",
+      "source": "CNBC Technology",
+      "date": "2026-05-06",
+      "time": "12:00",
+      "summary": "La despesa en recerca de la companyia creix el doble de ràpid que els seus ingressos trimestrals."
+    },
+    {
+      "title": "Les accions d'AMD es disparen un 20% gràcies al creixement dels centres de dades",
+      "link_id": "c_e237f1",
+      "source": "CNBC Technology",
+      "date": "2026-05-06",
+      "time": "11:49",
+      "summary": "L'optimisme dels inversors pel boom de la intel·ligència artificial impulsa els resultats financers per sobre de les previsions."
+    },
+    {
+      "title": "La start-up xinesa d'IA DeepSeek s'apropa als 45.000 milions de dòlars de valoració",
+      "link_id": "c_7ad722",
+      "source": "Financial Times",
+      "date": "2026-05-06",
+      "time": "05:50",
+      "summary": "Inversors com Tencent busquen participar en el laboratori mentre el seu valor es dispara en noves rondes de finançament."
+    },
+    {
+      "title": "Una empresa xinesa sancionada afirma que els models d'IA més barats encara poden guanyar",
+      "link_id": "c_00184d",
+      "source": "CNBC Technology",
+      "date": "2026-05-06",
+      "time": "05:09",
+      "summary": "SenseTime aposta per la intel·ligència artificial multimodal, la reducció de costos i l'expansió internacional per mantenir-se competitiva."
+    },
+    {
+      "title": "El sector de les finances descentralitzades pateix un èxode d'inversors després de diversos ciberatacs",
+      "link_id": "c_837197",
+      "source": "Financial Times",
+      "date": "2026-05-06",
       "time": "04:00",
-      "summary": "Els científics aconsegueixen modelar el comportament de les molècules de proteïnes, obrint noves vies per a la investigació mèdica."
-    },
-    {
-      "title": "Pinterest es dispara un 15% després de superar les previsions de beneficis",
-      "link_id": "c_61a519",
-      "source": "CNBC Technology",
-      "date": "2026-05-05",
-      "time": "02:33",
-      "summary": "La xarxa social recull els fruits de la reestructuració del gener, destinant més recursos a la intel·ligència artificial."
-    },
-    {
-      "title": "Andy Jassy assegura que la inversió d'Amazon en IA recompensarà els inversors",
-      "link_id": "c_8d2f28",
-      "source": "CNBC Technology",
-      "date": "2026-05-05",
-      "time": "00:38",
-      "summary": "El conseller delegat defensa que aquesta despesa massiva representa una oportunitat única a la vida per al creixement futur."
-    },
-    {
-      "title": "El cap de vendes d'OpenAI marxa per unir-se a Thrive Capital",
-      "link_id": "c_09fc56",
-      "source": "CNBC Technology",
-      "date": "2026-05-04",
-      "time": "22:54",
-      "summary": "James Dyett abandona l'empresa després d'haver gestionat l'etapa de creixement explosiu posterior al llançament de ChatGPT."
-    },
-    {
-      "title": "Palantir supera les estimacions amb un creixement d'ingressos del 85%",
-      "link_id": "c_15362b",
-      "source": "CNBC Technology",
-      "date": "2026-05-04",
-      "time": "22:51",
-      "summary": "L'empresa registra la seva expansió més ràpida des del 2020, impulsada per les fortes vendes a agències governamentals nord-americanes."
-    },
-    {
-      "title": "El president d'OpenAI defensa la reestructuració amb ànim de lucre i revela una participació de 30.000 milions",
-      "link_id": "c_5cec76",
-      "source": "Financial Times",
-      "date": "2026-05-04",
-      "time": "21:17",
-      "summary": "La declaració respon a la demanda d'Elon Musk, que acusa els directius de prioritzar el benefici personal."
-    },
-    {
-      "title": "Peter Thiel inverteix en centres de dades oceànics impulsats per les onades",
-      "link_id": "c_f055e1",
-      "source": "Financial Times",
-      "date": "2026-05-04",
-      "time": "15:00",
-      "summary": "El multimilionari lidera una ronda de 140 milions per a Panthalassa, buscant noves fronteres energètiques per a la IA."
+      "summary": "La preocupació per la seguretat allunya els operadors d'un mercat que abans es considerava el futur de les finances."
     }
   ]
 }

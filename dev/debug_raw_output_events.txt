@@ -1,16 +1,24 @@
 {
-  "generated_at": "2024-05-20T16:20",
+  "generated_at": "2024-05-20T16:00",
   "id": "events",
   "title": "Trobades",
   "sources_checked": [],
   "articles": [
+    {
+      "title": "Google I/O 2026 extended Watch Party Barcelona with SCRM - Schwarz Digits",
+      "link_id": "c_2d056e",
+      "source": "GDG Barcelona",
+      "date": "2026-05-05",
+      "time": "15:16",
+      "summary": "Gaudeix de la retransmissió del Google I/O amb tecnologia, menjar, begudes i networking per a la comunitat local."
+    },
     {
       "title": "[Build with AI]: Build Your First AI Agent with Google ADK",
       "link_id": "c_5a0a5f",
       "source": "GDG Barcelona",
       "date": "2026-05-01",
       "time": "16:49",
-      "summary": "Taller pràctic per programar des de zero un agent d'IA i un sistema RAG utilitzant les eines de Google."
+      "summary": "Taller pràctic per programar des de zero el teu primer agent d'intel·ligència artificial utilitzant les eines de Google ADK."
     }
   ]
 }
