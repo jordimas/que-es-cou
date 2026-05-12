@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 """
-curate.py - Curates raw feeds into news.json using Gemini API.
+curate.py - Curates raw feeds into news.json using Groq API.
 
 Loads raw_feeds_*_filtered.json files (pre-filtered by tech topic) and calls
-Gemini API separately for each section with prompts/curate_*.md instructions
+Groq API separately for each section with prompts/curate_*.md instructions
 to generate news.json with all sections combined.
 
-Requires GEMINI_API_KEY environment variable.
+Requires GROQ_API_KEY environment variable.
 """
 
 import json
@@ -15,27 +15,23 @@ import sys
 import time
 from pathlib import Path
 
-import requests
+from groq import Groq, InternalServerError
 
-MODEL = "gemini-3-pro-preview"
+GROQ_MODEL = os.environ.get("GROQ_MODEL", "qwen/qwen3-32b")
 output_dir = Path("output")
 SECTIONS = ["world", "economy", "catalunya", "podcasts", "events", "videos"]
 
 
 def load_section_feed(section_id):
-    """Load the pre-filtered feed file for a specific section."""
-    # Try filtered first, fallback to non-filtered for podcasts/events/videos
     path = output_dir / f"raw_feeds_{section_id}_filtered.json"
     if not path.exists():
         path = output_dir / f"raw_feeds_{section_id}.json"
-
     if path.exists():
         return path.read_text(encoding="utf-8")
     return None
 
 
-def process_section(section_id, api_key):
-    """Process a single section via Gemini API and return the parsed JSON."""
+def process_section(section_id, client):
     prompt_file = Path("prompts") / f"curate_{section_id}.md"
 
     if not prompt_file.exists():
@@ -48,67 +44,55 @@ def process_section(section_id, api_key):
 
     prompt_text = prompt_file.read_text(encoding="utf-8")
 
-    # Calculate input size in KB and count items
     input_size_kb = len(feed_data.encode("utf-8")) / 1024
     feed_json = json.loads(feed_data)
     item_count = sum(
         len(s.get("items", [])) for s in feed_json.get("section", {}).get("sources", [])
     )
-    print(
-        f"Processing {section_id} (input: {input_size_kb:.1f} KB, {item_count} items)..."
-    )
+    print(f"Processing {section_id} (input: {input_size_kb:.1f} KB, {item_count} items)...")
 
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent"
-    headers = {"Content-Type": "application/json"}
-
-    payload = {
-        "systemInstruction": {"parts": [{"text": prompt_text}]},
-        "contents": [{"role": "user", "parts": [{"text": feed_data}]}],
-        "generationConfig": {"temperature": 0, "maxOutputTokens": 65536},
-    }
-
-    # Time the API call, with retries on transient errors
     start_time = time.time()
     for attempt in range(5):
         try:
-            response = requests.post(
-                url, params={"key": api_key}, json=payload, headers=headers, timeout=300
+            response = client.chat.completions.create(
+                model=GROQ_MODEL,
+                messages=[
+                    {"role": "system", "content": prompt_text},
+                    {"role": "user", "content": feed_data},
+                ],
+                temperature=0.0,
+                max_tokens=32768,
             )
-            response.raise_for_status()
-            result = response.json()
             break
+        except InternalServerError as e:
+            if attempt == 4:
+                raise Exception(f"Groq API error for {section_id}: {e}")
+            wait = 20 * (2 ** attempt)
+            print(f"  [retry] Groq 503 for {section_id} (attempt {attempt + 1}/5), waiting {wait}s: {e}")
+            time.sleep(wait)
         except Exception as e:
             if attempt == 4:
-                raise Exception(f"Gemini API error for {section_id}: {e}")
+                raise Exception(f"Groq API error for {section_id}: {e}")
             wait = 20 * (2 ** attempt)
-            print(f"  [retry] Gemini error for {section_id} (attempt {attempt + 1}/5), waiting {wait}s: {e}")
+            print(f"  [retry] error for {section_id} (attempt {attempt + 1}/5), waiting {wait}s: {e}")
             time.sleep(wait)
     api_time = time.time() - start_time
 
-    if "candidates" not in result or not result["candidates"]:
-        raise Exception(f"No response from Gemini API for {section_id}: {result}")
-
-    candidate = result["candidates"][0]
-    if "finishReason" in candidate and candidate["finishReason"] not in [
-        "STOP",
-        "MAX_TOKENS",
-    ]:
-        print(f"Warning: {section_id} finish reason = {candidate['finishReason']}")
-
-    # Extract token usage if available
     token_usage = {}
-    if "usageMetadata" in candidate:
+    if response.usage:
         token_usage = {
-            "input_tokens": candidate["usageMetadata"].get("promptTokenCount", 0),
-            "output_tokens": candidate["usageMetadata"].get("candidatesTokenCount", 0),
+            "input_tokens": response.usage.prompt_tokens,
+            "output_tokens": response.usage.completion_tokens,
         }
 
-    output = candidate["content"]["parts"][0]["text"].strip()
+    output = response.choices[0].message.content.strip()
 
-    # Save raw output for debugging
-    (output_dir / f"debug_raw_output_{section_id}.txt").write_text(
-        output, encoding="utf-8"
-    )
+    # Strip <think> blocks from reasoning models
+    if "<think>" in output:
+        end = output.rfind("</think>")
+        output = output[end + len("</think>"):].strip() if end != -1 else output
+
+    (output_dir / f"debug_raw_output_{section_id}.txt").write_text(output, encoding="utf-8")
 
     # Strip markdown fences if model added them despite instructions
     if output.startswith("```"):
@@ -119,10 +103,9 @@ def process_section(section_id, api_key):
         parsed = json.loads(output)
     except json.JSONDecodeError as e:
         raise Exception(
-            f"Gemini output is not valid JSON for {section_id}: {e}\nOutput:\n{output[:500]}"
+            f"Groq output is not valid JSON for {section_id}: {e}\nOutput:\n{output[:500]}"
         )
 
-    # Add timing and token info to the parsed result for later reporting
     parsed["_meta"] = {
         "input_size_kb": input_size_kb,
         "api_time_s": api_time,
@@ -133,17 +116,18 @@ def process_section(section_id, api_key):
 
 
 def main():
-    api_key = os.environ.get("GEMINI_API_KEY")
+    api_key = os.environ.get("GROQ_API_KEY")
     if not api_key:
-        sys.exit("ERROR: GEMINI_API_KEY environment variable not set")
+        sys.exit("ERROR: GROQ_API_KEY environment variable not set")
 
+    client = Groq(api_key=api_key)
     output_dir.mkdir(exist_ok=True)
 
     sections_data = []
 
     for section_id in SECTIONS:
         try:
-            section_result = process_section(section_id, api_key)
+            section_result = process_section(section_id, client)
             if section_result:
                 sections_data.append(section_result)
         except Exception as e:
@@ -153,15 +137,12 @@ def main():
     if not sections_data:
         sys.exit("ERROR: No sections processed successfully")
 
-    # Extract metadata before combining
     metadata = {}
     for section in sections_data:
         if "_meta" in section:
             meta = section.pop("_meta")
             metadata[section.get("id", "unknown")] = meta
 
-    # Combine all sections into one news.json
-    # Use generated_at from first section (they should all be the same)
     combined = {
         "generated_at": sections_data[0].get("generated_at"),
         "sections": sections_data,
@@ -172,7 +153,6 @@ def main():
     )
     print("output/news.json written\n")
 
-    # Print timing summary
     print("=" * 85)
     print("Processing Summary:")
     print("=" * 85)
