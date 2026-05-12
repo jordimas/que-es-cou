@@ -62,6 +62,7 @@ def process_section(section_id, client):
                 ],
                 temperature=0.0,
                 max_tokens=32768,
+                extra_body={"thinking": {"type": "disabled"}},
             )
             break
         except InternalServerError as e:
