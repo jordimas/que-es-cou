@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-05-12T18:20",
+  "generated_at": "2026-05-12T20:18",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Judici d'OpenAI: Nadella afirma que Musk mai li va plantejar preocupacions sobre la inversió de Microsoft",
-      "link_id": "c_a13de0",
-      "source": "CNBC Technology",
+      "title": "Cerebras s'uneix al cercle íntim d'OpenAI — a un cost",
+      "link_id": "c_2e14e4",
+      "source": "The Economist",
       "date": "2026-05-12",
-      "time": "15:37",
-      "summary": "Nadella assegura que Musk no va expressar dubtes sobre la participació de Microsoft en OpenAI."
+      "time": "09:22",
+      "summary": "Cerebras paga per accedir a la tecnologia d'OpenAI, buscant avantatge competitiu en IA avançada."
     },
     {
-      "title": "Nadella diu que l'intent d'excloure l'Altman d'OpenAI era una 'ciutat amateur'",
-      "link_id": "c_943e6a",
-      "source": "Financial Times",
+      "title": "Cerebras augmenta el rang de la seva OPI fins a 4,800 milions de dòlars",
+      "link_id": "c_e90123",
+      "source": "CNBC Technology",
       "date": "2026-05-11",
-      "time": "20:56",
-      "summary": "Nadella critica l'intent d'expulsar l'Altman com una acció poc professional."
+      "time": "13:46",
+      "summary": "Cerebras eleva el límit de la seva OPI, apuntant a finançar el creixement de xips d'IA."
     },
     {
-      "title": "Qualcomm cau un 13% mentre les accions de xips retrocedeixen del rècord impulsat per IA",
+      "title": "Qualcomm cau un 13% mentre les accions de xips retrocedeixen",
       "link_id": "c_d53b0b",
       "source": "CNBC Technology",
       "date": "2026-05-12",
       "time": "16:10",
-      "summary": "Qualcomm perd valor mentre els inversors redueixen les apostes en xips d'IA."
+      "summary": "Les accions de Qualcomm cauen un 13% després d'una correcció del mercat d'IA."
     },
     {
-      "title": "CME planeja llançar un mercat de futurs per a la potència de computació d'IA",
+      "title": "CME planeja llançar un mercat de futurs per a la potència informàtica d'IA",
       "link_id": "c_4c1ee5",
-      "source": "Financial Times",
+      "source": "The Economist",
       "date": "2026-05-12",
       "time": "16:05",
-      "summary": "CME vol crear contractes de futurs per comercialitzar la potència de càlcul d'IA."
+      "summary": "CME vol crear contractes de futurs per a llogar potència de GPU, facilitant cobertura de preus."
     },
     {
-      "title": "Amazon accelera la cursa de lliuraments amb entregues de 30 minuts a desenes de ciutats nord-americanes",
+      "title": "Nadella afirma que Musk mai li va plantejar dubtes sobre la inversió de Microsoft a OpenAI",
+      "link_id": "c_a13de0",
+      "source": "CNBC Technology",
+      "date": "2026-05-12",
+      "time": "15:37",
+      "summary": "Nadella declara que Musk mai li va expressar preocupacions sobre la inversió de Microsoft a OpenAI."
+    },
+    {
+      "title": "Amazon accelera la cursa de lliuraments amb entregues de 30 minuts a diverses ciutats dels EUA",
       "link_id": "c_6704b0",
       "source": "CNBC Technology",
       "date": "2026-05-12",
       "time": "14:01",
-      "summary": "Amazon ofereix entregues en 30 minuts, accelerant la competència en logística urbana."
+      "summary": "Amazon redueix els temps de lliurament a 30 minuts, intensificant la competència en logística urbana."
     },
     {
-      "title": "El negoci de bateries de Panasonic es veu impulsat per les esperades guanys d'EV per a Tesla",
+      "title": "El negoci de bateries de Panasonic es veu impulsat per les esperades guanys dels EV de Tesla",
       "link_id": "c_96f444",
-      "source": "Financial Times",
+      "source": "The Economist",
       "date": "2026-05-12",
       "time": "12:46",
-      "summary": "Panasonic preveu augmentar vendes de bateries gràcies al creixement dels EV de Tesla."
+      "summary": "Panasonic preveu augmentar vendes de bateries gràcies a la creixent demanda d'EVs de Tesla."
     },
     {
-      "title": "Per què els americans temen la IA",
+      "title": "Per què els americans temen la intel·ligència artificial",
       "link_id": "c_851371",
-      "source": "Financial Times",
+      "source": "The Economist",
       "date": "2026-05-12",
       "time": "11:04",
-      "summary": "L'article explora les pors dels americans davant l'avenç ràpid de la intel·ligència artificial."
+      "summary": "Els americans temen l'IA per la percepció d'amenaces laborals i control social."
     },
     {
-      "title": "SoftBank ha inverteix 450 milions de dòlars en aquesta empresa britànica de xips d'IA",
+      "title": "SoftBank ha inverteix 450 milions en aquesta empresa britànica de xips d'IA",
       "link_id": "c_cd36d4",
       "source": "CNBC Technology",
       "date": "2026-05-12",
       "time": "11:00",
-      "summary": "SoftBank inverteix 450 milions en Graphcore, reforçant la seva aposta per xips d'IA al Regne Unit."
+      "summary": "SoftBank inverteix 450 milions en Graphcore, reforçant la seva posició en xips d'IA al Regne Unit."
     },
     {
-      "title": "El fabricant de xips Cerebras s'uneix al cercle intern d'OpenAI — a un cost",
-      "link_id": "c_2e14e4",
-      "source": "Financial Times",
-      "date": "2026-05-12",
-      "time": "09:22",
-      "summary": "Cerebras entra al cercle d'OpenAI, pagant una suma significativa per accedir a la tecnologia."
-    },
-    {
-      "title": "Els sud-coreans haurien de rebre un bonus d'IA, afirma un assessor presidencial",
+      "title": "Els sud-coreans haurien de rebre un bonus d'IA, segons un assessor presidencial",
       "link_id": "c_127dba",
-      "source": "Financial Times",
+      "source": "The Economist",
       "date": "2026-05-12",
       "time": "06:33",
-      "summary": "Un assessor del president sud-coreà proposa un bonus d'IA per a tots els ciutadans."
+      "summary": "Un assessor presidencial proposa un bonus universal d'IA per a tots els treballadors sud-coreans."
     }
   ]
 }

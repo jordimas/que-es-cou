@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-05-12T18:15",
+  "generated_at": "2026-05-12T20:18",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Googlebook és la nova plataforma d'ordinadors portàtils amb IA basada en Android",
-      "link_id": "c_3c4cd6",
+      "title": "Googlebooks són els nous portàtils natius d'IA de Google",
+      "link_id": "c_504326",
       "source": "TechCrunch",
       "date": "2026-05-12",
       "time": "17:00",
-      "summary": "Google presenta un portàtil amb Android i Gemini, competint amb els Chromebooks."
+      "summary": "Google presenta una nova línia de portàtils amb Android i Gemini integrats."
     },
     {
-      "title": "eBay rebutja l'oferta de GameStop de 56.000 milions de dòlars",
-      "link_id": "c_a4af6d",
-      "source": "Bloomberg",
-      "date": "2026-05-12",
-      "time": "16:57",
-      "summary": "El consell d'eBay declara l'oferta no creïble ni atractiva."
-    },
-    {
-      "title": "Android afegeix funció per frenar el desplaçament infinit",
-      "link_id": "c_c3f671",
+      "title": "Tot el que Google va anunciar al Android Show, des de Googlebooks a widgets vibra",
+      "link_id": "c_23cfd2",
       "source": "TechCrunch",
       "date": "2026-05-12",
-      "time": "17:00",
-      "summary": "Nou 'Pause Point' introdueix una pausa de 10 segons per reduir l'addicció."
+      "time": "17:01",
+      "summary": "Google llança Gemini Intelligence i novetats com widgets personalitzables per Android."
     },
     {
-      "title": "OpenAI llança Daybreak per competir amb Mythos d'Anthropic",
-      "link_id": "c_97d682",
+      "title": "La nova funció Pause Point d'Android posa un obstacle de 10 segons al desplaçament sense sentit",
+      "link_id": "c_097e11",
+      "source": "Digital Trends",
+      "date": "2026-05-12",
+      "time": "17:44",
+      "summary": "Google intenta reduir l'addicció al desplaçament amb una pausa obligatòria."
+    },
+    {
+      "title": "Waymo retira robots de taxi després que un vehicle entrés en una carretera inundada",
+      "link_id": "c_1e2313",
       "source": "Bloomberg",
       "date": "2026-05-12",
-      "time": "16:19",
-      "summary": "Daybreak combina GPT-5.5 i Codex per detectar vulnerabilitats i protegir programari."
+      "time": "15:37",
+      "summary": "Actualització de programari fa que els robots evitin zones inundades per seguretat."
     },
     {
-      "title": "Altman testimonia sobre la conversa 'espantosa' amb Musk",
-      "link_id": "c_78b9bf",
-      "source": "Bloomberg",
-      "date": "2026-05-12",
-      "time": "17:35",
-      "summary": "Altman declara que la discussió amb Musk va ser incòmoda i perillosa."
-    },
-    {
-      "title": "Waymo retira robotaxis per conduir en zones inundades",
-      "link_id": "c_ca9937",
-      "source": "Bloomberg",
-      "date": "2026-05-12",
-      "time": "12:16",
-      "summary": "Actualització de programari obliga als vehicles a ser més cautelosos amb aigua."
-    },
-    {
-      "title": "Google i SpaceX discuteixen centres de dades a l'òrbita",
-      "link_id": "c_62d4b9",
+      "title": "Musk va considerar cedir OpenAI als seus fills, Altman declara",
+      "link_id": "c_effa1f",
       "source": "TechCrunch",
       "date": "2026-05-12",
-      "time": "17:30",
-      "summary": "Google explora llançar servidors al cosmos amb l'ajuda de SpaceX."
+      "time": "18:05",
+      "summary": "Altman descriu una conversa tensa amb Musk sobre el control d'OpenAI."
     },
     {
-      "title": "Anthropic alerta inversors contra plataformes secundàries no autoritzades",
+      "title": "Anthropic avisa els inversors contra plataformes secundàries que ofereixen accés a les seves accions",
       "link_id": "c_01e6d6",
       "source": "TechCrunch",
       "date": "2026-05-12",
       "time": "17:36",
-      "summary": "L'empresa denuncia que diverses plataformes venen accés il·legal a les seves accions."
+      "summary": "L'empresa denuncia que certes plataformes no autoritzades venen accions d'Anthropic."
     },
     {
-      "title": "Android millora el bloqueig de trucades fraudulentes",
-      "link_id": "c_0e7511",
+      "title": "Informe: Google i SpaceX negocien posar centres de dades a l'òrbita",
+      "link_id": "c_62d4b9",
+      "source": "TechCrunch",
+      "date": "2026-05-12",
+      "time": "17:30",
+      "summary": "Google explora l'ús d'orbites per allotjar la potència d'IA."
+    },
+    {
+      "title": "Android Auto incorpora aplicacions de vídeo, actualitzacions de música i més intel·ligència Gemini",
+      "link_id": "c_eed9f1",
+      "source": "9to5Google",
+      "date": "2026-05-12",
+      "time": "17:30",
+      "summary": "Nou Android Auto ofereix vídeo, música i assistent Gemini integrat."
+    },
+    {
+      "title": "La propera actualització de Chrome de Google és important per als usuaris d'Android",
+      "link_id": "c_f91cbb",
       "source": "Digital Trends",
       "date": "2026-05-12",
       "time": "17:00",
-      "summary": "Nova funció finalitza automàticament trucades que suposen suplantació bancària."
+      "summary": "Chrome afegeix Gemini per millorar la navegació i tasques en Android."
     },
     {
-      "title": "Google afegeix dictat amb Gemini a Gboard",
-      "link_id": "c_e434ea",
+      "title": "Google llança una nova funció de seguretat d'Android per detectar atacs d'spyware",
+      "link_id": "c_5dc22f",
       "source": "TechCrunch",
       "date": "2026-05-12",
       "time": "17:00",
-      "summary": "Gboard incorpora transcripció avançada, potencialment competint amb startups de dictat."
+      "summary": "Funció avançada identifica i bloqueja aplicacions malintencionades en temps real."
     }
   ]
 }
