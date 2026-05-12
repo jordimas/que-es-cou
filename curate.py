@@ -46,9 +46,13 @@ def process_section(section_id, client):
 
     input_size_kb = len(feed_data.encode("utf-8")) / 1024
     feed_json = json.loads(feed_data)
-    item_count = sum(
-        len(s.get("items", [])) for s in feed_json.get("section", {}).get("sources", [])
-    )
+    valid_link_ids = {
+        item["link_id"]
+        for s in feed_json.get("section", {}).get("sources", [])
+        for item in s.get("items", [])
+        if "link_id" in item
+    }
+    item_count = len(valid_link_ids)
     print(f"Processing {section_id} (input: {input_size_kb:.1f} KB, {item_count} items)...")
 
     start_time = time.time()
@@ -106,17 +110,25 @@ def process_section(section_id, client):
             f"Groq output is not valid JSON for {section_id}: {e}\nOutput:\n{output[:500]}"
         )
 
-    # Deduplicate articles by link_id (LLM sometimes repeats the same article)
+    # Deduplicate and validate articles by link_id
     if "articles" in parsed:
         seen_ids = set()
         unique = []
+        hallucinated = []
         for art in parsed["articles"]:
             lid = art.get("link_id")
-            if lid not in seen_ids:
-                seen_ids.add(lid)
-                unique.append(art)
-        if len(unique) < len(parsed["articles"]):
-            print(f"  [{section_id}] removed {len(parsed['articles']) - len(unique)} duplicate articles")
+            if lid in seen_ids:
+                continue
+            seen_ids.add(lid)
+            if lid not in valid_link_ids:
+                hallucinated.append(lid)
+                continue
+            unique.append(art)
+        if hallucinated:
+            print(f"  [{section_id}] dropped {len(hallucinated)} hallucinated link_ids: {hallucinated}")
+        dropped_dups = len(parsed["articles"]) - len(unique) - len(hallucinated)
+        if dropped_dups > 0:
+            print(f"  [{section_id}] removed {dropped_dups} duplicate articles")
         parsed["articles"] = unique
 
     parsed["_meta"] = {
