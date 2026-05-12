@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-05-12T13:15",
+  "generated_at": "2026-05-12T13:23",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Missatges entre Android i iPhone ara encriptats de punta a punta",
-      "link_id": "c_dd12cf",
-      "source": "TechCrunch",
-      "date": "2026-05-11",
-      "time": "21:59",
-      "summary": "Apple i Google introdueixen xifratge E2EE per a missatges RCS entre dispositius Android i iPhone."
-    },
-    {
-      "title": "Criminels utilitzen IA per crear una vulnerabilitat zero‑day",
-      "link_id": "c_e5c1d1",
+      "title": "Apple i Google impulsen la missatgeria entre plataformes cap a l'era encriptada",
+      "link_id": "c_e38f97",
       "source": "The Register",
-      "date": "2026-05-11",
-      "time": "14:43",
-      "summary": "Google detecta que hackers van generar un zero‑day amb IA per explotar un programari desconegut."
-    },
-    {
-      "title": "eBay rebutja l’oferta de GameStop de 55 mil milions de dòlars",
-      "link_id": "c_8258a7",
-      "source": "NYT Technology",
       "date": "2026-05-12",
-      "time": "10:32",
-      "summary": "eBay declara que la proposta d’adquisició de GameStop no és creïble ni atractiva."
+      "time": "11:46",
+      "summary": "Apple i Google introdueixen xifratge d'extrem a extrem per missatges entre iPhone i Android, millorant la privacitat."
     },
     {
-      "title": "TikTok llança subscripció de 3,99 £ sense anuncis al Regne Unit",
-      "link_id": "c_5dab39",
-      "source": "BBC Technology",
+      "title": "Google afirma que criminals van utilitzar una vulnerabilitat zero‑day creada amb IA",
+      "link_id": "c_151114",
+      "source": "The Register",
       "date": "2026-05-12",
-      "time": "10:31",
-      "summary": "Els usuaris britànics poden pagar una quota mensual per eliminar publicitats i rastreig."
+      "time": "15:38",
+      "summary": "Google revela que un grup criminal va crear i explotar una vulnerabilitat zero‑day amb IA, mostrant nous riscos."
     },
     {
-      "title": "iOS 26.5 corregeix més de 50 vulnerabilitats de seguretat",
-      "link_id": "c_b3c6fe",
-      "source": "MacRumors",
-      "date": "2026-05-11",
-      "time": "17:09",
-      "summary": "Apple publica una actualització que soluciona més de cinquanta falles de seguretat en iOS."
-    },
-    {
-      "title": "L’IA impulsa atacs informàtics a escala industrial, segons Google",
-      "link_id": "c_e8586b",
-      "source": "The Guardian Tech",
-      "date": "2026-05-11",
-      "time": "14:43",
-      "summary": "Google alerta que grups criminals i estats utilitzen IA per desenvolupar atacs cibernètics massius."
-    },
-    {
-      "title": "Amazon promet entregues en 30 minuts als Estats Units",
-      "link_id": "c_2281a9",
-      "source": "Android Authority",
+      "title": "eBay rebutja l'oferta d'adquisició de 56 mil milions de dòlars de GameStop",
+      "link_id": "c_5ec1f5",
+      "source": "The Verge",
       "date": "2026-05-12",
-      "time": "11:03",
-      "summary": "Amazon anuncia un servei de lliurament ultra ràpid per a productes d’ús diari."
+      "time": "06:55",
+      "summary": "eBay considera l'oferta de GameStop invàlida i no atractiva, defensant la seva independència financera."
     },
     {
-      "title": "Com veure el Google Android Show: Edició I/O en directe",
+      "title": "Amazon llança entregues en 30 minuts a tot els EUA",
+      "link_id": "c_96d406",
+      "source": "TechCrunch",
+      "date": "2026-05-12",
+      "time": "10:00",
+      "summary": "Amazon promet entregues de productes en mig minut, centrant-se en alimentació i articles essencials."
+    },
+    {
+      "title": "Thinking Machines presenta una vista preliminar d'IA de veu i vídeo quasi en temps real amb nous 'models d'interacció'",
+      "link_id": "c_aa0929",
+      "source": "VentureBeat",
+      "date": "2026-05-11",
+      "time": "22:21",
+      "summary": "Thinking Machines busca substituir el model de conversa per torns amb IA que processa veu i vídeo simultàniament."
+    },
+    {
+      "title": "Aquests nous Roombas són més petits i més econòmics",
+      "link_id": "c_101208",
+      "source": "The Verge",
+      "date": "2026-05-12",
+      "time": "05:02",
+      "summary": "Els nous Roombas ofereixen dimensions reduïdes i preus més baixos, mantenint una neteja eficient."
+    },
+    {
+      "title": "Sony millora el seu aire condicionat portàtil, més fresc i millor abraçada al coll",
+      "link_id": "c_e2ded3",
+      "source": "The Verge",
+      "date": "2026-05-12",
+      "time": "02:00",
+      "summary": "El nou dispositiu d'aire condicionat de Sony refreda més ràpidament i s'adapta millor al coll."
+    },
+    {
+      "title": "Com veure avui el Google Android Show: Edició I/O",
       "link_id": "c_a0cef3",
       "source": "The Verge",
       "date": "2026-05-12",
-      "time": "11:00",
-      "summary": "Google difon el seu Android Show I/O amb novetats del sistema operatiu i serveis."
+      "time": "07:00",
+      "summary": "Google transmet en directe el seu Android Show I/O, mostrant les novetats del sistema operatiu."
     },
     {
-      "title": "Google Search experimenta una interrupció generalitzada",
-      "link_id": "c_fc4c7e",
-      "source": "Android Authority",
-      "date": "2026-05-12",
-      "time": "10:58",
-      "summary": "Una fallada massiva afecta la cerca de Google, deixant molts usuaris sense accés."
-    },
-    {
-      "title": "Llançament de la moneda de 1 $ dedicada a Steve Jobs",
-      "link_id": "c_0a0311",
+      "title": "Daybreak és la resposta d'OpenAI al Claude Mythos d'Anthropic",
+      "link_id": "c_e1ad61",
       "source": "Engadget",
       "date": "2026-05-12",
-      "time": "10:44",
-      "summary": "La Casa de la Moneda dels EUA ven una moneda commemorativa amb la imatge de Steve Jobs."
+      "time": "01:07",
+      "summary": "OpenAI llança Daybreak per detectar i corregir vulnerabilitats abans que els atacants les aprofitin."
+    },
+    {
+      "title": "Linux pateix una segona vulnerabilitat greu en tan poques setmanes",
+      "link_id": "c_f0b95c",
+      "source": "Ars Technica",
+      "date": "2026-05-11",
+      "time": "22:28",
+      "summary": "Linux rep una nova vulnerabilitat crítica, obligant els usuaris a actualitzar urgentament."
     }
   ]
 }

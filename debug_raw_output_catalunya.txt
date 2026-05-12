@@ -4,23 +4,28 @@
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
     {
-      "name": "Ara.cat",
-      "url": "https://www.ara.cat/rss/",
-      "articles_found": 3
-    },
-    {
-      "name": "Ara Balears",
-      "url": "https://www.arabalears.cat/rss/",
-      "articles_found": 1
-    },
-    {
       "name": "RAC1",
       "url": "https://www.rac1.cat/rss/home.xml",
       "articles_found": 1
     },
     {
+      "name": "Via Empresa",
+      "url": "https://www.viaempresa.cat/uploads/feeds/feed_via-empresa-2024_ca.xml",
+      "articles_found": 1
+    },
+    {
       "name": "El Punt Avui",
       "url": "https://www.elpuntavui.cat/barcelona.feed?type=rss",
+      "articles_found": 1
+    },
+    {
+      "name": "Ara.cat",
+      "url": "https://www.ara.cat/rss/",
+      "articles_found": 3
+    },
+    {
+      "name": "Cugat.cat",
+      "url": "https://www.cugat.cat/feed/",
       "articles_found": 1
     },
     {
@@ -32,11 +37,6 @@
       "name": "Segre",
       "url": "https://www.segre.com/ca/rss/home.xml",
       "articles_found": 2
-    },
-    {
-      "name": "Cugat.cat",
-      "url": "https://www.cugat.cat/feed/",
-      "articles_found": 1
     }
   ],
   "articles": [
@@ -46,23 +46,15 @@
       "source": "RAC1",
       "date": "2026-05-11",
       "time": "15:30",
-      "summary": "Detectores a la selectivitat evitaran trampes digitals, reforçant la integritat dels exàmens."
+      "summary": "Exàmens de selectivitat blindats amb detectors per evitar trampes digitals, protegint la integritat acadèmica."
     },
     {
-      "title": "Nissan acomiadarà 211 treballadors, un 37% de la seva plantilla a Catalunya",
+      "title": "Nissan planteja 211 acomiadaments als tres centres que té a Catalunya, un 37% de la plantilla",
       "link_id": "c_ceeedb",
-      "source": "Ara Balears",
+      "source": "Via Empresa",
       "date": "2026-05-11",
       "time": "17:29",
-      "summary": "Nissan anuncia 211 acomiadaments a Catalunya, impactant la indústria automotriu i el teixit laboral."
-    },
-    {
-      "title": "Rheinmetall i Deutsche Telekom s'alien per blindar Alemanya contra els drons",
-      "link_id": "c_02df9f",
-      "source": "Ara.cat",
-      "date": "2026-05-12",
-      "time": "05:00",
-      "summary": "Alemanya i Telekom col·laboren en escut anti‑drons, reforçant la seguretat civil i militar europea."
+      "summary": "Nissan anuncia 211 acomiadaments a Catalunya, impactant centenars de treballadors i l'economia local."
     },
     {
       "title": "El consum de contingut en català a les xarxes socials es va enfilar del 71,7% el 2025",
@@ -70,15 +62,15 @@
       "source": "El Punt Avui",
       "date": "2026-05-12",
       "time": "12:35",
-      "summary": "El consum de contingut en català creix un 71,7%, mostrant l’explosió de l’audiència digital local."
+      "summary": "Estudi revela que el consum de contingut en català creix un 71,7% el 2025, impulsant la cultura digital."
     },
     {
-      "title": "Von der Leyen carrega contra les 'big-tech' i s'obre a establir una majoria d'edat digital",
-      "link_id": "c_0bbfd1",
+      "title": "Rheinmetall i Deutsche Telekom s'alien per blindar Alemanya contra els drons",
+      "link_id": "c_02df9f",
       "source": "Ara.cat",
       "date": "2026-05-12",
-      "time": "10:43",
-      "summary": "Von der Leyen impulsa una majoria d’edat digital, buscant protegir menors a les xarxes socials."
+      "time": "05:00",
+      "summary": "Rheinmetall i Deutsche Telekom uneixen forces per crear escut anti‑drons, reforçant la seguretat europea."
     },
     {
       "title": "Catalunya és el 7è 'hub' mundial en assajos clínics",
@@ -86,31 +78,15 @@
       "source": "Ara.cat",
       "date": "2026-05-11",
       "time": "16:04",
-      "summary": "Catalunya ocupa el setè lloc mundial en assajos clínics, reforçant la seva posició en recerca mèdica."
+      "summary": "Catalunya es posiciona com el setè hub mundial d’assajos clínics, impulsant la recerca mèdica."
     },
     {
-      "title": "Resolta la incidència telefònica que afectava els telèfons d’emergència",
-      "link_id": "c_348fd5",
-      "source": "VilaWeb",
-      "date": "2026-05-12",
-      "time": "08:55",
-      "summary": "Solucionada la fallada telefònica que afectava les trucades d’emergència, millorant la resposta ràpida."
-    },
-    {
-      "title": "KitDigital, un model que ha transformat la gestió d’ajuts",
-      "link_id": "c_11f999",
-      "source": "Segre",
-      "date": "2026-05-12",
-      "time": "08:43",
-      "summary": "KitDigital facilita ajuts digitals a més de 3 milions de treballadors, impulsant la transformació empresarial."
-    },
-    {
-      "title": "No penjar de cop: la clau per reduir les trucades de spam segons els experts",
-      "link_id": "c_bcb4d9",
-      "source": "Segre",
+      "title": "La IA ja concentra més del 60% de la inversió mundial en 'start-ups'",
+      "link_id": "c_e67fc5",
+      "source": "Ara.cat",
       "date": "2026-05-11",
-      "time": "13:25",
-      "summary": "Experts recomanen no penjar de cop per reduir trucades de spam, destacant la calma com a defensa."
+      "time": "10:55",
+      "summary": "La IA atrau més del 60% de la inversió mundial en start‑ups, marcant una nova era tecnològica."
     },
     {
       "title": "Activada l’alerta INUNCAT per pluges intenses al Vallès Occidental",
@@ -118,7 +94,31 @@
       "source": "Cugat.cat",
       "date": "2026-05-12",
       "time": "07:11",
-      "summary": "S’activa l’alerta INUNCAT per pluges intenses al Vallès, preveient inundacions i protegint la població."
+      "summary": "Activada alerta INUNCAT per pluges intenses al Vallès, preveient inundacions i protegint la població."
+    },
+    {
+      "title": "Resolta la incidència telefònica que afectava els telèfons d’emergència",
+      "link_id": "c_348fd5",
+      "source": "VilaWeb",
+      "date": "2026-05-12",
+      "time": "08:55",
+      "summary": "Resolta la fallada que afectava les trucades d’emergència 061, garantint comunicacions vitals a Catalunya."
+    },
+    {
+      "title": "KitDigital, un model que ha transformat la gestió d’ajuts",
+      "link_id": "c_11f999",
+      "source": "Segre",
+      "date": "2026-05-12",
+      "time": "08:43",
+      "summary": "KitDigital transforma pimes catalanes amb ajuts digitals, beneficiant més de 3 milions de treballadors."
+    },
+    {
+      "title": "No penjar de cop: la clau per reduir les trucades de spam segons els experts",
+      "link_id": "c_bcb4d9",
+      "source": "Segre",
+      "date": "2026-05-11",
+      "time": "13:25",
+      "summary": "Experts recomanen mantenir la calma per reduir trucades de spam, millorant la seguretat telefònica."
     }
   ]
 }
