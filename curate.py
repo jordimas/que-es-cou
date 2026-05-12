@@ -17,7 +17,7 @@ from pathlib import Path
 
 from groq import Groq, InternalServerError
 
-GROQ_MODEL = os.environ.get("GROQ_MODEL", "qwen/qwen3-32b")
+GROQ_MODEL = os.environ.get("GROQ_MODEL", "openai/gpt-oss-120b")
 output_dir = Path("output")
 SECTIONS = ["world", "economy", "catalunya", "podcasts", "events", "videos"]
 
@@ -61,7 +61,7 @@ def process_section(section_id, client):
             response = client.chat.completions.create(
                 model=GROQ_MODEL,
                 messages=[
-                    {"role": "system", "content": prompt_text + "\n/no_think"},
+                    {"role": "system", "content": prompt_text},
                     {"role": "user", "content": feed_data},
                 ],
                 temperature=0.0,
@@ -90,11 +90,6 @@ def process_section(section_id, client):
         }
 
     output = response.choices[0].message.content.strip()
-
-    # Strip <think> blocks from reasoning models
-    if "<think>" in output:
-        end = output.rfind("</think>")
-        output = output[end + len("</think>"):].strip() if end != -1 else output
 
     (output_dir / f"debug_raw_output_{section_id}.txt").write_text(output, encoding="utf-8")
 
