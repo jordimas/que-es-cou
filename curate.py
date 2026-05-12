@@ -57,12 +57,11 @@ def process_section(section_id, client):
             response = client.chat.completions.create(
                 model=GROQ_MODEL,
                 messages=[
-                    {"role": "system", "content": prompt_text},
+                    {"role": "system", "content": prompt_text + "\n/no_think"},
                     {"role": "user", "content": feed_data},
                 ],
                 temperature=0.0,
                 max_tokens=32768,
-                extra_body={"thinking": {"type": "disabled"}},
             )
             break
         except InternalServerError as e:
