@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-05-12T12:00",
+  "generated_at": "2026-05-12T12:06",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
+    {
+      "name": "Ara.cat",
+      "url": "https://www.ara.cat/rss/",
+      "articles_found": 3
+    },
     {
       "name": "RAC1",
       "url": "https://www.rac1.cat/rss/home.xml",
@@ -11,7 +16,7 @@
     {
       "name": "Via Empresa",
       "url": "https://www.viaempresa.cat/uploads/feeds/feed_via-empresa-2024_ca.xml",
-      "articles_found": 1
+      "articles_found": 2
     },
     {
       "name": "El Punt Avui",
@@ -19,24 +24,19 @@
       "articles_found": 1
     },
     {
-      "name": "Ara.cat",
-      "url": "https://www.ara.cat/rss/",
-      "articles_found": 3
-    },
-    {
-      "name": "Cugat.cat",
-      "url": "https://www.cugat.cat/feed/",
+      "name": "324.cat",
+      "url": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0",
       "articles_found": 1
     },
     {
-      "name": "VilaWeb",
-      "url": "https://www.vilaweb.cat/feed/",
+      "name": "El Nacional.cat",
+      "url": "https://www.elnacional.cat/uploads/feeds/feed_ca.xml",
       "articles_found": 1
     },
     {
-      "name": "Segre",
-      "url": "https://www.segre.com/ca/rss/home.xml",
-      "articles_found": 2
+      "name": "MetaData",
+      "url": "https://www.metadata.cat/sindica",
+      "articles_found": 1
     }
   ],
   "articles": [
@@ -46,7 +46,7 @@
       "source": "RAC1",
       "date": "2026-05-11",
       "time": "15:30",
-      "summary": "Exàmens de selectivitat blindats amb detectors per evitar trampes digitals, protegint la integritat acadèmica."
+      "summary": "Els nous detectors evitaran trampes digitals, garantint una prova més justa per a tots els estudiants."
     },
     {
       "title": "Nissan planteja 211 acomiadaments als tres centres que té a Catalunya, un 37% de la plantilla",
@@ -54,31 +54,23 @@
       "source": "Via Empresa",
       "date": "2026-05-11",
       "time": "17:29",
-      "summary": "Nissan anuncia 211 acomiadaments a Catalunya, impactant centenars de treballadors i l'economia local."
+      "summary": "Nissan reduirà un 37% de la plantilla catalana, afectant 211 treballadors i l'economia local."
     },
     {
-      "title": "El consum de contingut en català a les xarxes socials es va enfilar del 71,7% el 2025",
+      "title": "El consum de contingut en català a les xarxes socials es va disparar un 71,7% el 2025",
       "link_id": "c_77f45e",
       "source": "El Punt Avui",
       "date": "2026-05-12",
       "time": "12:35",
-      "summary": "Estudi revela que el consum de contingut en català creix un 71,7% el 2025, impulsant la cultura digital."
+      "summary": "El consum de contingut en català s'ha disparat un 71,7% el 2025, impulsant la cultura digital."
     },
     {
-      "title": "Rheinmetall i Deutsche Telekom s'alien per blindar Alemanya contra els drons",
-      "link_id": "c_02df9f",
+      "title": "Von der Leyen carrega contra les 'big-tech' i s'obre a establir una majoria d'edat digital",
+      "link_id": "c_0bbfd1",
       "source": "Ara.cat",
       "date": "2026-05-12",
-      "time": "05:00",
-      "summary": "Rheinmetall i Deutsche Telekom uneixen forces per crear escut anti‑drons, reforçant la seguretat europea."
-    },
-    {
-      "title": "Catalunya és el 7è 'hub' mundial en assajos clínics",
-      "link_id": "c_043531",
-      "source": "Ara.cat",
-      "date": "2026-05-11",
-      "time": "16:04",
-      "summary": "Catalunya es posiciona com el setè hub mundial d’assajos clínics, impulsant la recerca mèdica."
+      "time": "10:43",
+      "summary": "La Comissió Europea considera establir una edat mínima per a les xarxes socials, protegint menors catalans."
     },
     {
       "title": "La IA ja concentra més del 60% de la inversió mundial en 'start-ups'",
@@ -86,39 +78,47 @@
       "source": "Ara.cat",
       "date": "2026-05-11",
       "time": "10:55",
-      "summary": "La IA atrau més del 60% de la inversió mundial en start‑ups, marcant una nova era tecnològica."
+      "summary": "Les start-ups d'IA atrauen més del 60% de la inversió global, reforçant l'ecosistema tecnològic català."
     },
     {
-      "title": "Activada l’alerta INUNCAT per pluges intenses al Vallès Occidental",
-      "link_id": "c_3dfb47",
-      "source": "Cugat.cat",
-      "date": "2026-05-12",
-      "time": "07:11",
-      "summary": "Activada alerta INUNCAT per pluges intenses al Vallès, preveient inundacions i protegint la població."
-    },
-    {
-      "title": "Resolta la incidència telefònica que afectava els telèfons d’emergència",
-      "link_id": "c_348fd5",
-      "source": "VilaWeb",
-      "date": "2026-05-12",
-      "time": "08:55",
-      "summary": "Resolta la fallada que afectava les trucades d’emergència 061, garantint comunicacions vitals a Catalunya."
-    },
-    {
-      "title": "KitDigital, un model que ha transformat la gestió d’ajuts",
-      "link_id": "c_11f999",
-      "source": "Segre",
-      "date": "2026-05-12",
-      "time": "08:43",
-      "summary": "KitDigital transforma pimes catalanes amb ajuts digitals, beneficiant més de 3 milions de treballadors."
-    },
-    {
-      "title": "No penjar de cop: la clau per reduir les trucades de spam segons els experts",
-      "link_id": "c_bcb4d9",
-      "source": "Segre",
+      "title": "Catalunya és el 7è 'hub' mundial en assajos clínics",
+      "link_id": "c_043531",
+      "source": "Ara.cat",
       "date": "2026-05-11",
-      "time": "13:25",
-      "summary": "Experts recomanen mantenir la calma per reduir trucades de spam, millorant la seguretat telefònica."
+      "time": "16:04",
+      "summary": "Catalunya ocupa el setè lloc mundial en assajos clínics, posicionant-se com a centre de recerca mèdica."
+    },
+    {
+      "title": "La indústria catalana s'apunta al negoci de la defensa i Indra s'ofereix per obrir-li portes",
+      "link_id": "c_292ec7",
+      "source": "324.cat",
+      "date": "2026-05-12",
+      "time": "06:42",
+      "summary": "Indra i Deutsche Telekom col·laboren per crear escuts anti-dron, impulsant la seguretat europea."
+    },
+    {
+      "title": "La intel·ligència artificial pot detectar el càncer de pàncrees amb anys d'antelació",
+      "link_id": "c_1c92eb",
+      "source": "El Nacional.cat",
+      "date": "2026-05-12",
+      "time": "08:01",
+      "summary": "Un model d'IA predueix el càncer de pàncrees amb anys d'antelació, millorant diagnòstics."
+    },
+    {
+      "title": "Neix a Catalunya el videojoc amb IA que podria canviar el tractament del TDAH infantil",
+      "link_id": "c_0a5832",
+      "source": "MetaData",
+      "date": "2026-05-11",
+      "time": "16:11",
+      "summary": "Neuhera llança un videojoc amb IA per entrenar l'atenció dels infants amb TDAH sense medicació."
+    },
+    {
+      "title": "La Cambra de Comerç de Barcelona incorpora Fira de Barcelona com a soci institucional",
+      "link_id": "c_a47dd2",
+      "source": "Via Empresa",
+      "date": "2026-05-12",
+      "time": "10:25",
+      "summary": "La Cambra de Comerç de Barcelona i la Fira de Barcelona s'associen per impulsar la mediació empresarial."
     }
   ]
 }

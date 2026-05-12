@@ -1,1 +1,88 @@
-{"generated_at":"2026-05-12T13:23","id":"economy","title":"Notícies econòmiques del món","sources_checked":[],"articles":[{"title":"El fabricant de xips Cerebras s'uneix al cercle íntim d'OpenAI — a un preu","link_id":"c_2e14e4","source":"Financial Times","date":"2026-05-12","time":"09:22","summary":"Cerebras busca aprofitar la col·laboració amb OpenAI, però l'acord implica costos elevats per a l'empresa."},{"title":"Cerebras augmenta el rang de la seva OPI fins a 4,8 mil milions de dòlars","link_id":"c_e90123","source":"CNBC Technology","date":"2026-05-11","time":"13:46","summary":"L'empresa pretén recaptar fons per expandir la seva tecnologia d'IA, tot mentre es prepara per a una possible cotització imminent."},{"title":"SoftBank inverteix 450 milions de dòlars en l'empresa britànica de xips d'IA Graphcore","link_id":"c_cd36d4","source":"CNBC Technology","date":"2026-05-12","time":"11:00","summary":"L'inversió reforça la posició de Graphcore al mercat europeu d'IA, impulsant el desenvolupament de xips especialitzats."},{"title":"Amazon accelera la cursa de lliuraments amb entregues de 30 minuts a diverses ciutats dels EUA","link_id":"c_6704b0","source":"CNBC Technology","date":"2026-05-12","time":"10:00","summary":"L'empresa amplia el servei ràpid per satisfer la demanda creixent de consumidors que esperen entregues quasi instantànies."},{"title":"Els coreans haurien de rebre un bonus d'IA, segons assessor presidencial","link_id":"c_127dba","source":"Financial Times","date":"2026-05-12","time":"06:33","summary":"La proposta busca estimular la innovació tecnològica, però podria afectar les accions de Samsung i SK Hynix."},{"title":"El regulador de comunicacions dels EUA apunta al sector tecnològic xinès per riscos de seguretat","link_id":"c_1cd028","source":"Financial Times","date":"2026-05-12","time":"04:00","summary":"La FCC intensifica la vigilància sobre equips com drons i routers, malgrat la recent desgel comercial amb Pequín."},{"title":"El personal d'Amazon utilitza una eina d'IA per tasques innecessàries i inflar les puntuacions d'ús","link_id":"c_b0529f","source":"Financial Times","date":"2026-05-12","time":"04:00","summary":"Els empleats deleguen treballs a agents d'IA, augmentant artificialment les mètriques internes de productivitat."},{"title":"Els inversors adoptaran el robot humanoide xinès Unitree?","link_id":"c_d08ce0","source":"Financial Times","date":"2026-05-12","time":"02:12","summary":"Unitree planeja una OPI aquest any, posant a prova la confiança del mercat en la robòtica avançada."},{"title":"Necessites un director d'IA? Així canvia la tecnologia les sales de consell","link_id":"c_b21e8b","source":"CNBC Technology","date":"2026-05-12","time":"01:52","summary":"Un informe d'IBM revela que moltes empreses ja creen càrrecs d'IA per guiar estratègies digitals."},{"title":"Judici d'OpenAI: Nadella afirma que Musk mai li va plantejar dubtes sobre la inversió de Microsoft","link_id":"c_a13de0","source":"CNBC Technology","date":"2026-05-11","time":"23:30","summary":"El testimoni destaca la manca de comunicació entre Musk i Microsoft durant el procés judicial."}]}
+{
+  "generated_at": "2026-05-12T14:06",
+  "id": "economy",
+  "title": "Notícies econòmiques del món",
+  "sources_checked": [],
+  "articles": [
+    {
+      "title": "Cerebras augmenta el rang de la seva OPI, buscant recaptar fins a 4,8 mil milions de dòlars",
+      "link_id": "c_e90123",
+      "source": "CNBC Technology",
+      "date": "2026-05-11",
+      "time": "13:46",
+      "summary": "Cerebras busca finançar la seva expansió amb una OPI ampliada, apuntant a projectes d’IA avançada."
+    },
+    {
+      "title": "El fabricant de xips Cerebras s’integra al cercle íntim d’OpenAI — a un cost elevat",
+      "link_id": "c_2e14e4",
+      "source": "Financial Times",
+      "date": "2026-05-12",
+      "time": "09:22",
+      "summary": "Cerebras entra al grup d’OpenAI, però paga preus alts per accedir a recursos exclusius."
+    },
+    {
+      "title": "SoftBank ha invertit 450 mil milions de dòlars en aquesta empresa britànica de xips d’IA",
+      "link_id": "c_cd36d4",
+      "source": "CNBC Technology",
+      "date": "2026-05-12",
+      "time": "11:00",
+      "summary": "SoftBank aposta fort per la IA britànica, impulsant el desenvolupament de xips d’alt rendiment."
+    },
+    {
+      "title": "Amazon accelera la cursa de les entregues amb entregues de 30 minuts a desenes de ciutats nord-americanes",
+      "link_id": "c_6704b0",
+      "source": "CNBC Technology",
+      "date": "2026-05-12",
+      "time": "10:00",
+      "summary": "Amazon redueix el temps de lliurament a 30 minuts, millorant la competència en logística urbana."
+    },
+    {
+      "title": "Un assessor presidencial afirma que tots els coreans haurien de rebre un bonus d’IA",
+      "link_id": "c_127dba",
+      "source": "Financial Times",
+      "date": "2026-05-12",
+      "time": "06:33",
+      "summary": "L’assessor presidencial proposa un incentiu universal d’IA per augmentar la productivitat a Corea del Sud."
+    },
+    {
+      "title": "El regulador de comunicacions dels EUA apunta a la tecnologia xinesa per riscos de seguretat",
+      "link_id": "c_1cd028",
+      "source": "Financial Times",
+      "date": "2026-05-12",
+      "time": "04:00",
+      "summary": "La FCC intensifica la vigilància sobre equips xinesos, citant vulnerabilitats que podrien comprometre la seguretat nacional."
+    },
+    {
+      "title": "Empleats d’Amazon utilitzen una eina d’IA per tasques innecessàries i inflar les puntuacions d’ús",
+      "link_id": "c_b0529f",
+      "source": "Financial Times",
+      "date": "2026-05-12",
+      "time": "04:00",
+      "summary": "Empleats d’Amazon manipulen l’IA per crear tasques fictícies i millorar les seves puntuacions internes."
+    },
+    {
+      "title": "Adoptaran els inversors el robot humanoide líder de la Xina?",
+      "link_id": "c_d08ce0",
+      "source": "Financial Times",
+      "date": "2026-05-12",
+      "time": "02:12",
+      "summary": "Investidors valoren el potencial del robot humàide xinès com a nova aposta tecnològica global."
+    },
+    {
+      "title": "Necessites un director d’IA? Així la tecnologia transforma les sales de consell",
+      "link_id": "c_b21e8b",
+      "source": "CNBC Technology",
+      "date": "2026-05-12",
+      "time": "01:52",
+      "summary": "Les empreses creen el càrrec de director d’IA per guiar estratègies i reduir riscos tecnològics."
+    },
+    {
+      "title": "Procés d’OpenAI: Nadella afirma que Musk mai li va expressar dubtes sobre la inversió de Microsoft",
+      "link_id": "c_a13de0",
+      "source": "CNBC Technology",
+      "date": "2026-05-11",
+      "time": "23:30",
+      "summary": "Nadella assegura que Musk no li va expressar dubtes sobre la participació de Microsoft a OpenAI."
+    }
+  ]
+}

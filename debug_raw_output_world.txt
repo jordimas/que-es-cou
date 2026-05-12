@@ -1,72 +1,24 @@
 {
-  "generated_at": "2026-05-12T13:23",
+  "generated_at": "2026-05-12T14:06",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Apple i Google impulsen la missatgeria entre plataformes cap a l'era encriptada",
-      "link_id": "c_e38f97",
-      "source": "The Register",
+      "title": "‘Sabíem que no podíem parar’: iOS 26.5 arriba amb missatgeria RCS xifrada entre plataformes, però hi ha un problema de seguretat greu",
+      "link_id": "c_439514",
+      "source": "TechRadar",
       "date": "2026-05-12",
-      "time": "11:46",
-      "summary": "Apple i Google introdueixen xifratge d'extrem a extrem per missatges entre iPhone i Android, millorant la privacitat."
+      "time": "11:45",
+      "summary": "iOS 26.5 introdueix xifratge RCS entre iPhone i Android, però la nova funció presenta vulnerabilitats de seguretat."
     },
     {
-      "title": "Google afirma que criminals van utilitzar una vulnerabilitat zero‑day creada amb IA",
-      "link_id": "c_151114",
-      "source": "The Register",
+      "title": "EBay rebutja l'oferta d'adquisició de 55 000 milions de dòlars de GameStop",
+      "link_id": "c_d642f2",
+      "source": "NYT Technology",
       "date": "2026-05-12",
-      "time": "15:38",
-      "summary": "Google revela que un grup criminal va crear i explotar una vulnerabilitat zero‑day amb IA, mostrant nous riscos."
-    },
-    {
-      "title": "eBay rebutja l'oferta d'adquisició de 56 mil milions de dòlars de GameStop",
-      "link_id": "c_5ec1f5",
-      "source": "The Verge",
-      "date": "2026-05-12",
-      "time": "06:55",
-      "summary": "eBay considera l'oferta de GameStop invàlida i no atractiva, defensant la seva independència financera."
-    },
-    {
-      "title": "Amazon llança entregues en 30 minuts a tot els EUA",
-      "link_id": "c_96d406",
-      "source": "TechCrunch",
-      "date": "2026-05-12",
-      "time": "10:00",
-      "summary": "Amazon promet entregues de productes en mig minut, centrant-se en alimentació i articles essencials."
-    },
-    {
-      "title": "Thinking Machines presenta una vista preliminar d'IA de veu i vídeo quasi en temps real amb nous 'models d'interacció'",
-      "link_id": "c_aa0929",
-      "source": "VentureBeat",
-      "date": "2026-05-11",
-      "time": "22:21",
-      "summary": "Thinking Machines busca substituir el model de conversa per torns amb IA que processa veu i vídeo simultàniament."
-    },
-    {
-      "title": "Aquests nous Roombas són més petits i més econòmics",
-      "link_id": "c_101208",
-      "source": "The Verge",
-      "date": "2026-05-12",
-      "time": "05:02",
-      "summary": "Els nous Roombas ofereixen dimensions reduïdes i preus més baixos, mantenint una neteja eficient."
-    },
-    {
-      "title": "Sony millora el seu aire condicionat portàtil, més fresc i millor abraçada al coll",
-      "link_id": "c_e2ded3",
-      "source": "The Verge",
-      "date": "2026-05-12",
-      "time": "02:00",
-      "summary": "El nou dispositiu d'aire condicionat de Sony refreda més ràpidament i s'adapta millor al coll."
-    },
-    {
-      "title": "Com veure avui el Google Android Show: Edició I/O",
-      "link_id": "c_a0cef3",
-      "source": "The Verge",
-      "date": "2026-05-12",
-      "time": "07:00",
-      "summary": "Google transmet en directe el seu Android Show I/O, mostrant les novetats del sistema operatiu."
+      "time": "11:44",
+      "summary": "EBay considera l'oferta de GameStop invàlida i no atractiva per al seu accionar."
     },
     {
       "title": "Daybreak és la resposta d'OpenAI al Claude Mythos d'Anthropic",
@@ -74,7 +26,47 @@
       "source": "Engadget",
       "date": "2026-05-12",
       "time": "01:07",
-      "summary": "OpenAI llança Daybreak per detectar i corregir vulnerabilitats abans que els atacants les aprofitin."
+      "summary": "OpenAI llança Daybreak, una plataforma de seguretat cibernètica basada en GPT‑5.5."
+    },
+    {
+      "title": "Google afirma que l'IA s'abusa a escala industrial per ciberatacs i ha evitat-ne un",
+      "link_id": "c_04e90a",
+      "source": "Digital Trends",
+      "date": "2026-05-11",
+      "time": "23:15",
+      "summary": "Google detecta que actors malintencionats usen IA per crear vulnerabilitats i ha bloquejat un atac."
+    },
+    {
+      "title": "La startup d'IA de veu Vapi arriba a una valoració de 500 M$ després de guanyar el contracte d'Amazon Ring davant 40 rivals",
+      "link_id": "c_1877ce",
+      "source": "TechCrunch",
+      "date": "2026-05-12",
+      "time": "11:30",
+      "summary": "Vapi, startup d'IA de veu, supera 40 competidors i arriba a una valoració de mig milió de dòlars."
+    },
+    {
+      "title": "Amazon llança entregues en 30 minuts a tot els EUA",
+      "link_id": "c_96d406",
+      "source": "TechCrunch",
+      "date": "2026-05-12",
+      "time": "10:00",
+      "summary": "Amazon ofereix entregues ultra ràpides de 30 minuts per a productes essencials a tot el país."
+    },
+    {
+      "title": "Thinking Machines vol crear una IA que escolti realment mentre parla",
+      "link_id": "c_fb64db",
+      "source": "TechCrunch",
+      "date": "2026-05-12",
+      "time": "04:52",
+      "summary": "Thinking Machines desenvolupa una IA que pot escoltar i respondre simultàniament, millorant la interacció."
+    },
+    {
+      "title": "Amb una onada d'IA, Robinhood prepara la segona OPI de venture minorista",
+      "link_id": "c_54df38",
+      "source": "TechCrunch",
+      "date": "2026-05-12",
+      "time": "00:09",
+      "summary": "Robinhood es prepara per a una nova OPI, impulsada per la demanda d'eines d'IA."
     },
     {
       "title": "Linux pateix una segona vulnerabilitat greu en tan poques setmanes",
@@ -82,7 +74,15 @@
       "source": "Ars Technica",
       "date": "2026-05-11",
       "time": "22:28",
-      "summary": "Linux rep una nova vulnerabilitat crítica, obligant els usuaris a actualitzar urgentament."
+      "summary": "Una nova vulnerabilitat crítica afecta el nucli Linux, augmentant el risc d'explotacions."
+    },
+    {
+      "title": "Thinking Machines mostra una vista preliminar de converses d'IA de veu i vídeo quasi en temps real amb nous 'models d'interacció'",
+      "link_id": "c_aa0929",
+      "source": "VentureBeat",
+      "date": "2026-05-11",
+      "time": "22:21",
+      "summary": "Thinking Machines presenta models d'interacció que permeten converses d'IA de veu i vídeo quasi instantànies."
     }
   ]
 }
