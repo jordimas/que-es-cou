@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-05-12T14:06",
+  "generated_at": "2026-05-12T19:18",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "‘Sabíem que no podíem parar’: iOS 26.5 arriba amb missatgeria RCS xifrada entre plataformes, però hi ha un problema de seguretat greu",
-      "link_id": "c_439514",
-      "source": "TechRadar",
+      "title": "Googlebooks no són només portàtils Android. Són un cavall de Troia per a Gemini",
+      "link_id": "c_9a0226",
+      "source": "PCWorld",
       "date": "2026-05-12",
-      "time": "11:45",
-      "summary": "iOS 26.5 introdueix xifratge RCS entre iPhone i Android, però la nova funció presenta vulnerabilitats de seguretat."
+      "time": "17:00",
+      "summary": "Google presenta una nova línia de portàtils amb IA Gemini integrada, canviant el mercat dels portàtils."
     },
     {
-      "title": "EBay rebutja l'oferta d'adquisició de 55 000 milions de dòlars de GameStop",
-      "link_id": "c_d642f2",
-      "source": "NYT Technology",
+      "title": "Google fa el seu major impuls per convertir Gemini en un assistent real a Android",
+      "link_id": "c_f22362",
+      "source": "Android Authority",
       "date": "2026-05-12",
-      "time": "11:44",
-      "summary": "EBay considera l'oferta de GameStop invàlida i no atractiva per al seu accionar."
+      "time": "17:00",
+      "summary": "Gemini s'integra profundament a Android, oferint assistència basada en IA per a tasques quotidianes."
     },
     {
-      "title": "Daybreak és la resposta d'OpenAI al Claude Mythos d'Anthropic",
-      "link_id": "c_e1ad61",
-      "source": "Engadget",
+      "title": "EBay rebutja l'oferta d'adquisició de 56 mil milions de dòlars de GameStop",
+      "link_id": "c_a4af6d",
+      "source": "Bloomberg",
       "date": "2026-05-12",
-      "time": "01:07",
-      "summary": "OpenAI llança Daybreak, una plataforma de seguretat cibernètica basada en GPT‑5.5."
+      "time": "16:57",
+      "summary": "El consell d'EBay considera l'oferta no creïble ni atractiva i la descarta."
     },
     {
-      "title": "Google afirma que l'IA s'abusa a escala industrial per ciberatacs i ha evitat-ne un",
-      "link_id": "c_04e90a",
-      "source": "Digital Trends",
-      "date": "2026-05-11",
-      "time": "23:15",
-      "summary": "Google detecta que actors malintencionats usen IA per crear vulnerabilitats i ha bloquejat un atac."
+      "title": "Waymo retira robots de taxi després que un vehicle circulés per una carretera inundada",
+      "link_id": "c_ca9937",
+      "source": "Bloomberg",
+      "date": "2026-05-12",
+      "time": "12:16",
+      "summary": "Una fallada de programari podria fer que els vehicles autonomes entrin en zones inundades."
     },
     {
-      "title": "La startup d'IA de veu Vapi arriba a una valoració de 500 M$ després de guanyar el contracte d'Amazon Ring davant 40 rivals",
-      "link_id": "c_1877ce",
+      "title": "Hack de Canvas: l'empresa paga criminals per eliminar les dades robades dels estudiants",
+      "link_id": "c_452672",
+      "source": "BBC Technology",
+      "date": "2026-05-12",
+      "time": "10:31",
+      "summary": "Instructure paga per recuperar dades compromeses i evitar futures extorsions."
+    },
+    {
+      "title": "La indústria de serveis legals d'IA s'escalfa. Anthropic s'uneix a l'acció",
+      "link_id": "c_fdd4a6",
       "source": "TechCrunch",
       "date": "2026-05-12",
-      "time": "11:30",
-      "summary": "Vapi, startup d'IA de veu, supera 40 competidors i arriba a una valoració de mig milió de dòlars."
+      "time": "17:00",
+      "summary": "Anthropic llança noves eines per ajudar advocats amb assistents d'intel·ligència artificial."
     },
     {
-      "title": "Amazon llança entregues en 30 minuts a tot els EUA",
-      "link_id": "c_96d406",
+      "title": "La FCC retira la prohibició d'actualitzacions de routers abans d'afectar la seguretat de la xarxa americana",
+      "link_id": "c_68a7bc",
+      "source": "The Register",
+      "date": "2026-05-12",
+      "time": "18:50",
+      "summary": "La decisió evita que milions de routers quedin sense actualitzacions de seguretat."
+    },
+    {
+      "title": "‘Pause Point’ és l'actualització de Benestar Digital que Google necessitava des de fa anys",
+      "link_id": "c_3f260b",
+      "source": "9to5Google",
+      "date": "2026-05-12",
+      "time": "17:05",
+      "summary": "La funció força una pausa abans d'obrir aplicacions addictives, reduint el doomscrolling."
+    },
+    {
+      "title": "Google anuncia noves eines de seguretat per a Android, incloent protecció millorada contra trucades fraudulentes de bancs",
+      "link_id": "c_4020bd",
       "source": "TechCrunch",
       "date": "2026-05-12",
-      "time": "10:00",
-      "summary": "Amazon ofereix entregues ultra ràpides de 30 minuts per a productes essencials a tot el país."
+      "time": "17:00",
+      "summary": "Les noves eines bloquegen automàticament les trucades de suplantació bancària."
     },
     {
-      "title": "Thinking Machines vol crear una IA que escolti realment mentre parla",
-      "link_id": "c_fb64db",
-      "source": "TechCrunch",
+      "title": "Google portarà suport d'AirDrop a la majoria de telèfons Android aquest any",
+      "link_id": "c_984ea3",
+      "source": "9to5Google",
       "date": "2026-05-12",
-      "time": "04:52",
-      "summary": "Thinking Machines desenvolupa una IA que pot escoltar i respondre simultàniament, millorant la interacció."
-    },
-    {
-      "title": "Amb una onada d'IA, Robinhood prepara la segona OPI de venture minorista",
-      "link_id": "c_54df38",
-      "source": "TechCrunch",
-      "date": "2026-05-12",
-      "time": "00:09",
-      "summary": "Robinhood es prepara per a una nova OPI, impulsada per la demanda d'eines d'IA."
-    },
-    {
-      "title": "Linux pateix una segona vulnerabilitat greu en tan poques setmanes",
-      "link_id": "c_f0b95c",
-      "source": "Ars Technica",
-      "date": "2026-05-11",
-      "time": "22:28",
-      "summary": "Una nova vulnerabilitat crítica afecta el nucli Linux, augmentant el risc d'explotacions."
-    },
-    {
-      "title": "Thinking Machines mostra una vista preliminar de converses d'IA de veu i vídeo quasi en temps real amb nous 'models d'interacció'",
-      "link_id": "c_aa0929",
-      "source": "VentureBeat",
-      "date": "2026-05-11",
-      "time": "22:21",
-      "summary": "Thinking Machines presenta models d'interacció que permeten converses d'IA de veu i vídeo quasi instantànies."
+      "time": "17:10",
+      "summary": "La funció permet compartir fitxers entre Android i dispositius Apple sense cables."
     }
   ]
 }

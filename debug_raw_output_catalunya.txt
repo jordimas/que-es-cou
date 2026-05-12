@@ -1,31 +1,21 @@
 {
-  "generated_at": "2026-05-12T12:06",
+  "generated_at": "2026-05-12T17:18",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
+    {
+      "name": "Àpunt",
+      "url": "https://www.apuntmedia.es/rss/",
+      "articles_found": 1
+    },
     {
       "name": "Ara.cat",
       "url": "https://www.ara.cat/rss/",
       "articles_found": 3
     },
     {
-      "name": "RAC1",
-      "url": "https://www.rac1.cat/rss/home.xml",
-      "articles_found": 1
-    },
-    {
-      "name": "Via Empresa",
-      "url": "https://www.viaempresa.cat/uploads/feeds/feed_via-empresa-2024_ca.xml",
-      "articles_found": 2
-    },
-    {
-      "name": "El Punt Avui",
-      "url": "https://www.elpuntavui.cat/barcelona.feed?type=rss",
-      "articles_found": 1
-    },
-    {
-      "name": "324.cat",
-      "url": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0",
+      "name": "MetaData",
+      "url": "https://www.metadata.cat/sindica",
       "articles_found": 1
     },
     {
@@ -34,35 +24,29 @@
       "articles_found": 1
     },
     {
-      "name": "MetaData",
-      "url": "https://www.metadata.cat/sindica",
+      "name": "VilaWeb",
+      "url": "https://www.vilaweb.cat/feed/",
+      "articles_found": 2
+    },
+    {
+      "name": "Segre",
+      "url": "https://www.segre.com/ca/rss/home.xml",
+      "articles_found": 1
+    },
+    {
+      "name": "El Periódico",
+      "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
       "articles_found": 1
     }
   ],
   "articles": [
     {
-      "title": "Catalunya instal·larà detectors de dispositius electrònics durant els exàmens de selectivitat d'aquest any",
-      "link_id": "c_5cd105",
-      "source": "RAC1",
-      "date": "2026-05-11",
-      "time": "15:30",
-      "summary": "Els nous detectors evitaran trampes digitals, garantint una prova més justa per a tots els estudiants."
-    },
-    {
-      "title": "Nissan planteja 211 acomiadaments als tres centres que té a Catalunya, un 37% de la plantilla",
-      "link_id": "c_ceeedb",
-      "source": "Via Empresa",
-      "date": "2026-05-11",
-      "time": "17:29",
-      "summary": "Nissan reduirà un 37% de la plantilla catalana, afectant 211 treballadors i l'economia local."
-    },
-    {
-      "title": "El consum de contingut en català a les xarxes socials es va disparar un 71,7% el 2025",
-      "link_id": "c_77f45e",
-      "source": "El Punt Avui",
+      "title": "La UPV actualitza la normativa contra el frau per a evitar l'ús de dispositius i IA en exàmens",
+      "link_id": "c_56b2c2",
+      "source": "Àpunt",
       "date": "2026-05-12",
-      "time": "12:35",
-      "summary": "El consum de contingut en català s'ha disparat un 71,7% el 2025, impulsant la cultura digital."
+      "time": "13:11",
+      "summary": "La UPV reforça la normativa per impedir l'ús de mòbils i IA en exàmens, protegint la integritat acadèmica."
     },
     {
       "title": "Von der Leyen carrega contra les 'big-tech' i s'obre a establir una majoria d'edat digital",
@@ -70,55 +54,71 @@
       "source": "Ara.cat",
       "date": "2026-05-12",
       "time": "10:43",
-      "summary": "La Comissió Europea considera establir una edat mínima per a les xarxes socials, protegint menors catalans."
+      "summary": "La comissària europea proposa una edat mínima digital per a protegir menors a les xarxes socials."
     },
     {
-      "title": "La IA ja concentra més del 60% de la inversió mundial en 'start-ups'",
-      "link_id": "c_e67fc5",
-      "source": "Ara.cat",
-      "date": "2026-05-11",
-      "time": "10:55",
-      "summary": "Les start-ups d'IA atrauen més del 60% de la inversió global, reforçant l'ecosistema tecnològic català."
-    },
-    {
-      "title": "Catalunya és el 7è 'hub' mundial en assajos clínics",
-      "link_id": "c_043531",
-      "source": "Ara.cat",
-      "date": "2026-05-11",
-      "time": "16:04",
-      "summary": "Catalunya ocupa el setè lloc mundial en assajos clínics, posicionant-se com a centre de recerca mèdica."
-    },
-    {
-      "title": "La indústria catalana s'apunta al negoci de la defensa i Indra s'ofereix per obrir-li portes",
-      "link_id": "c_292ec7",
-      "source": "324.cat",
+      "title": "Les visualitzacions de contingut en català es disparen un 71,7% i consoliden un ecosistema digital propi",
+      "link_id": "c_2d32df",
+      "source": "MetaData",
       "date": "2026-05-12",
-      "time": "06:42",
-      "summary": "Indra i Deutsche Telekom col·laboren per crear escuts anti-dron, impulsant la seguretat europea."
+      "time": "15:51",
+      "summary": "El consum de contingut en català creix un 71,7%, consolidant un ecosistema digital autònom i vibrant."
     },
     {
-      "title": "La intel·ligència artificial pot detectar el càncer de pàncrees amb anys d'antelació",
-      "link_id": "c_1c92eb",
+      "title": "Google Maps per a CarPlay aviat tindrà Gemini integrat",
+      "link_id": "c_d0efd3",
       "source": "El Nacional.cat",
       "date": "2026-05-12",
-      "time": "08:01",
-      "summary": "Un model d'IA predueix el càncer de pàncrees amb anys d'antelació, millorant diagnòstics."
+      "time": "17:34",
+      "summary": "Google Maps integrarà Gemini a CarPlay, oferint assistència IA avançada per a conduir amb seguretat."
     },
     {
-      "title": "Neix a Catalunya el videojoc amb IA que podria canviar el tractament del TDAH infantil",
-      "link_id": "c_0a5832",
-      "source": "MetaData",
-      "date": "2026-05-11",
-      "time": "16:11",
-      "summary": "Neuhera llança un videojoc amb IA per entrenar l'atenció dels infants amb TDAH sense medicació."
-    },
-    {
-      "title": "La Cambra de Comerç de Barcelona incorpora Fira de Barcelona com a soci institucional",
-      "link_id": "c_a47dd2",
-      "source": "Via Empresa",
+      "title": "Google diu que ha frenat el primer atac informàtic creat amb intel·ligència artificial",
+      "link_id": "c_0dbbc9",
+      "source": "VilaWeb",
       "date": "2026-05-12",
-      "time": "10:25",
-      "summary": "La Cambra de Comerç de Barcelona i la Fira de Barcelona s'associen per impulsar la mediació empresarial."
+      "time": "15:03",
+      "summary": "Google ha neutralitzat el primer ciberatac generat per IA, evitant una vulnerabilitat crítica a nivell global."
+    },
+    {
+      "title": "Resolta la incidència telefònica que afectava els telèfons d’emergència",
+      "link_id": "c_348fd5",
+      "source": "VilaWeb",
+      "date": "2026-05-12",
+      "time": "08:55",
+      "summary": "S'ha solucionat la fallada que bloquejava les trucades d'emergència, garantint la comunicació immediata a la població."
+    },
+    {
+      "title": "KitDigital, un model que ha transformat la gestió d’ajuts",
+      "link_id": "c_11f999",
+      "source": "Segre",
+      "date": "2026-05-12",
+      "time": "08:43",
+      "summary": "KitDigital impulsa la digitalització de pimes, oferint més de 936.000 ajuts i transformant el teixit empresarial."
+    },
+    {
+      "title": "Indra vol contractar 1.500 nous empleats a Catalunya",
+      "link_id": "c_db65c5",
+      "source": "Ara.cat",
+      "date": "2026-05-11",
+      "time": "05:09",
+      "summary": "Indra aposta per la innovació a Catalunya amb 1.500 nous llocs de treball i una facturació creixent."
+    },
+    {
+      "title": "Nissan acomiadarà 211 treballadors, un 37% de la seva plantilla a Catalunya",
+      "link_id": "c_b41d8c",
+      "source": "Ara.cat",
+      "date": "2026-05-11",
+      "time": "15:26",
+      "summary": "Nissan anuncia l'acomiadament de 211 empleats a la zona francana, afectant el 37% de la plantilla."
+    },
+    {
+      "title": "Cala, la nova empresa de projecció global que vol que el futur dels agents d’IA passi per Barcelona",
+      "link_id": "c_aed79a",
+      "source": "El Periódico",
+      "date": "2026-05-11",
+      "time": "16:01",
+      "summary": "Cala llança una plataforma de projecció IA per revolucionar la creació d'agents digitals a Barcelona."
     }
   ]
 }

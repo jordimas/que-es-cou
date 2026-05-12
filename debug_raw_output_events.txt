@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T12:06",
+  "generated_at": "2026-05-12T17:18",
   "id": "events",
   "title": "Trobades",
   "sources_checked": [],
@@ -10,7 +10,7 @@
       "source": "GDG Barcelona",
       "date": "2026-05-05",
       "time": "15:16",
-      "summary": "Una nit de networking i presentacions sobre Google I/O, amb menjar i begudes per a la comunitat tech barcelonina."
+      "summary": "Trobada per a entusiastes de Google I/O amb demostracions pràctiques i networking nocturn a Barcelona."
     },
     {
       "title": "[Build with AI]: Build Your First AI Agent with Google ADK",
@@ -18,7 +18,15 @@
       "source": "GDG Barcelona",
       "date": "2026-05-01",
       "time": "16:49",
-      "summary": "Taller pràctic per crear el teu primer agent d'IA amb Google ADK, ideal per a principiants i entusiastes."
+      "summary": "Taller pràctic per crear el primer agent d'IA amb Google ADK, ideal per principiants curiosos."
+    },
+    {
+      "title": "Networking for AI Professionals around the world - June 8",
+      "link_id": "c_9be946",
+      "source": "AI Professionals Barcelona",
+      "date": "2026-05-12",
+      "time": "15:31",
+      "summary": "Sessió global de networking per professionals d'IA, amb xerrades breus i grups de discussió interactius."
     }
   ]
 }

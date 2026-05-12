@@ -1,96 +1,112 @@
 {
-  "generated_at": "2026-05-12T12:06",
+  "generated_at": "2026-05-12T17:30",
   "id": "podcasts",
   "title": "Podcasts en català sobre tecnologia",
   "sources_checked": [],
   "articles": [
     {
+      "title": "Polymarket és un problema, les pantalles no – programa 663",
+      "link_id": "c_122341",
+      "source": "Mossega la poma",
+      "date": "2026-05-09",
+      "time": "08:26",
+      "summary": "Polymarket i les apostes descontrolades: riscos per a menors i debat sobre pantalles a l’aula."
+    },
+    {
+      "title": "MacBook Neo i exemples de processos avançats amb IA – programa 662",
+      "link_id": "c_9eab9c",
+      "source": "Mossega la poma",
+      "date": "2026-04-29",
+      "time": "16:34",
+      "summary": "MacBook Neo es presenta; IA avança amb processos avançats, impactant flux de treball i expectatives tecnològiques."
+    },
+    {
       "title": "L' Altra Ràdio - El DMTforum 2026: la gran trobada del sector català de les telecomunicacions",
       "link_id": "c_243e4c",
       "source": "L'altra ràdio",
       "date": "2026-05-07",
-      "time": "16:33",
-      "summary": "Detalls del DMTforum 2026, trobada clau del sector català de telecomunicacions a Barcelona."
+      "time": "14:33",
+      "summary": "DMTforum 2026 celebra telecomunicacions catalanes, reunint experts i impulsant innovació al sector."
     },
     {
       "title": "L' Altra Ràdio - La computació quàntica",
       "link_id": "c_b29fa7",
       "source": "L'altra ràdio",
       "date": "2026-04-30",
-      "time": "16:33",
-      "summary": "Explicació de la computació quàntica i presentació de l'empresa Quilimanjaro del BSC."
+      "time": "14:33",
+      "summary": "Computació quàntica explicada per BSC; es destaca l’empresa Quilimanjaro i el seu potencial."
     },
     {
       "title": "El gòTIC - Tenim una missió! del 29/4/2026",
       "link_id": "c_89cca5",
       "source": "El Gòtic",
-      "date": "2026-04-29",
-      "time": "01:29",
-      "summary": "Recull de recursos digitals i estratègies per afrontar reptes de la ciutadania digital a Tàrrega."
+      "date": "2026-04-28",
+      "time": "23:29",
+      "summary": "Gòtic impulsa missió digital a Tàrrega, oferint recursos per afrontar reptes ciutadania en línia."
     },
     {
       "title": "L’històric cercador Ask Jeeves tanca",
       "link_id": "c_fc02b6",
       "source": "Societat de la Informació",
       "date": "2026-05-05",
-      "time": "12:05",
-      "summary": "Anunci del tancament del cercador Ask Jeeves després de trenta anys d'activitat en internet."
+      "time": "10:05",
+      "summary": "Ask Jeeves tanca després de 30 anys, marcant el final d’un cercador pioner d’internet."
     },
     {
       "title": "El manifest de Palantir, l'acord del Pentàgon amb vuit grans empreses d'IA i el relleu al capdavant d'Apple.",
       "link_id": "c_0ae4e7",
       "source": "Internet amb Genís Roca",
       "date": "2026-05-02",
-      "time": "05:10",
-      "summary": "Anàlisi del manifest de Palantir, acord del Pentàgon amb IA i canvis a la direcció d'Apple."
+      "time": "03:10",
+      "summary": "Manifest de Palantir i acord del Pentàgon amb IA: implicacions per a Apple i el sector."
     },
     {
       "title": "Més palanques que el mecànic de Las Vegas",
       "link_id": "c_8a088f",
       "source": "Foc a Terra",
       "date": "2026-05-11",
-      "time": "06:00",
-      "summary": "Debat sobre finances corporatives i estratègies d'inversió amb l'expert Eduard Romeu."
+      "time": "04:00",
+      "summary": "Anàlisi de palanques financeres: experts discuteixen estratègies d’inversió i riscos bancaris actuals."
     },
     {
       "title": "Foc you, Tim Apple",
       "link_id": "c_d9cd90",
       "source": "Foc a Terra",
       "date": "2026-05-04",
-      "time": "06:00",
-      "summary": "Revisió del llegat de Tim Apple i els productes més memorables de la seva gestió."
+      "time": "04:00",
+      "summary": "Especial Apple: repàs de productes icònics i falles, reflexió sobre l’impacte de Tim."
     },
     {
       "title": "WordPress 7.0, sense Real Time Collaboration",
       "link_id": "c_fc4d09",
       "source": "WordPress Pòdcast",
       "date": "2026-05-12",
-      "time": "02:00",
-      "summary": "Explicació del retard del Real Time Collaboration a WordPress 7.0 i expectatives per a la versió 7.1."
+      "time": "00:00",
+      "summary": "WordPress 7.0 retardat; col·laboració en temps real es posposa a la versió 7.1 per rendiment."
     },
     {
       "title": "L’API de presència",
       "link_id": "c_19184f",
       "source": "WordPress Pòdcast",
       "date": "2026-05-05",
-      "time": "02:00",
-      "summary": "Novetat de l'API de presència que mostra editors actius i avatars al tauler de WordPress."
+      "time": "00:00",
+      "summary": "L’API de presència afegeix avatars i indicadors d’editors actius, millorant la col·laboració."
     },
     {
       "title": "WordPress 7.0 d’aquí a 3 setmanes",
       "link_id": "c_deac7c",
       "source": "WordPress Pòdcast",
       "date": "2026-04-28",
-      "time": "02:00",
-      "summary": "Data actualitzada del llançament de WordPress 7.0, prevista per al 20 de maig."
+      "time": "00:00",
+      "summary": "WordPress 7.0 programat per a finals de maig, amb quatre setmanes de marge respecte al llançament."
     },
     {
       "title": "Capítol 64: \"Obrir una gelateria és un dels negocis més rendibles a hores d'ara a la ciutat de Barcelona”",
       "link_id": "c_1b317b",
       "source": "RAC&GO",
       "date": "2026-05-05",
-      "time": "08:19",
-      "summary": "Història d'amics que deixen la feina per crear una gelateria artesanal al barri de Barcelona."
+      "time": "06:19",
+      "summary": "Nou capítol de RAC&GO narra com quatre joves obren una gelateria a Barcelona, emprenedoria local."
     }
   ]
 }

@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-05-12T14:06",
+  "generated_at": "2026-05-12T17:18",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Cerebras augmenta el rang de la seva OPI, buscant recaptar fins a 4,8 mil milions de dòlars",
-      "link_id": "c_e90123",
+      "title": "Judici d'OpenAI: Nadella afirma que Musk mai li va plantejar dubtes sobre la inversió de Microsoft",
+      "link_id": "c_a13de0",
       "source": "CNBC Technology",
-      "date": "2026-05-11",
-      "time": "13:46",
-      "summary": "Cerebras busca finançar la seva expansió amb una OPI ampliada, apuntant a projectes d’IA avançada."
+      "date": "2026-05-12",
+      "time": "15:37",
+      "summary": "Musk va incloure Microsoft com a demandat en la seva demanda contra OpenAI, segons Nadella."
     },
     {
-      "title": "El fabricant de xips Cerebras s’integra al cercle íntim d’OpenAI — a un cost elevat",
+      "title": "El fabricant de xips Cerebras s'uneix al cercle íntim d'OpenAI — a canvi d'un preu",
       "link_id": "c_2e14e4",
       "source": "Financial Times",
       "date": "2026-05-12",
       "time": "09:22",
-      "summary": "Cerebras entra al grup d’OpenAI, però paga preus alts per accedir a recursos exclusius."
+      "summary": "Entrar al món d'Altman podria suposar un gran benefici per a Cerebras."
     },
     {
-      "title": "SoftBank ha invertit 450 mil milions de dòlars en aquesta empresa britànica de xips d’IA",
+      "title": "Nadella afirma que l'intent d'expulsar Altman d'OpenAI era una 'ciutat amateur'",
+      "link_id": "c_943e6a",
+      "source": "Financial Times",
+      "date": "2026-05-11",
+      "time": "20:56",
+      "summary": "Nadella justifica el seu suport a Altman durant el cop d'estat del 2023, citat al judici de Musk."
+    },
+    {
+      "title": "Cerebras augmenta el rang d'IPO mentre busca recaptar fins a 4,800 milions de dòlars",
+      "link_id": "c_e90123",
+      "source": "CNBC Technology",
+      "date": "2026-05-11",
+      "time": "13:46",
+      "summary": "Cerebras pretén una oferta pública imminent, després d'esbossar una possible fusió amb OpenAI."
+    },
+    {
+      "title": "Qualcomm cau un 13% mentre les accions de xips retrocedeixen del rècord impulsat per IA",
+      "link_id": "c_d53b0b",
+      "source": "CNBC Technology",
+      "date": "2026-05-12",
+      "time": "16:10",
+      "summary": "El repunte mostra que la inversió en IA s'estén més enllà de Nvidia."
+    },
+    {
+      "title": "CME planeja llançar un mercat de futurs per a la potència de computació IA",
+      "link_id": "c_4c1ee5",
+      "source": "Financial Times",
+      "date": "2026-05-12",
+      "time": "16:05",
+      "summary": "Nous contractes permetran apostar i cobrir el preu futur del lloguer de GPU."
+    },
+    {
+      "title": "Amazon accelera la cursa de lliuraments amb entregues de 30 minuts a desenes de ciutats nord-americanes",
+      "link_id": "c_6704b0",
+      "source": "CNBC Technology",
+      "date": "2026-05-12",
+      "time": "14:01",
+      "summary": "Amazon redueix progressivament els terminis de lliurament després d'èxit amb enviaments ràpids."
+    },
+    {
+      "title": "El negoci de bateries de Panasonic impulsa guanys esperats d'EV per a Tesla",
+      "link_id": "c_96f444",
+      "source": "Financial Times",
+      "date": "2026-05-12",
+      "time": "12:46",
+      "summary": "Panasonic preveu que Tesla augmenti la seva quota de mercat, impulsant les seves vendes de bateries."
+    },
+    {
+      "title": "Per què els americans temen la IA",
+      "link_id": "c_851371",
+      "source": "Financial Times",
+      "date": "2026-05-12",
+      "time": "11:04",
+      "summary": "Silicon Valley promou la idea d'una IA imparable, amb suport aparent de Trump."
+    },
+    {
+      "title": "SoftBank ha inverteix 450 milions de dòlars en aquesta empresa britànica de xips IA",
       "link_id": "c_cd36d4",
       "source": "CNBC Technology",
       "date": "2026-05-12",
       "time": "11:00",
-      "summary": "SoftBank aposta fort per la IA britànica, impulsant el desenvolupament de xips d’alt rendiment."
-    },
-    {
-      "title": "Amazon accelera la cursa de les entregues amb entregues de 30 minuts a desenes de ciutats nord-americanes",
-      "link_id": "c_6704b0",
-      "source": "CNBC Technology",
-      "date": "2026-05-12",
-      "time": "10:00",
-      "summary": "Amazon redueix el temps de lliurament a 30 minuts, millorant la competència en logística urbana."
-    },
-    {
-      "title": "Un assessor presidencial afirma que tots els coreans haurien de rebre un bonus d’IA",
-      "link_id": "c_127dba",
-      "source": "Financial Times",
-      "date": "2026-05-12",
-      "time": "06:33",
-      "summary": "L’assessor presidencial proposa un incentiu universal d’IA per augmentar la productivitat a Corea del Sud."
-    },
-    {
-      "title": "El regulador de comunicacions dels EUA apunta a la tecnologia xinesa per riscos de seguretat",
-      "link_id": "c_1cd028",
-      "source": "Financial Times",
-      "date": "2026-05-12",
-      "time": "04:00",
-      "summary": "La FCC intensifica la vigilància sobre equips xinesos, citant vulnerabilitats que podrien comprometre la seguretat nacional."
-    },
-    {
-      "title": "Empleats d’Amazon utilitzen una eina d’IA per tasques innecessàries i inflar les puntuacions d’ús",
-      "link_id": "c_b0529f",
-      "source": "Financial Times",
-      "date": "2026-05-12",
-      "time": "04:00",
-      "summary": "Empleats d’Amazon manipulen l’IA per crear tasques fictícies i millorar les seves puntuacions internes."
-    },
-    {
-      "title": "Adoptaran els inversors el robot humanoide líder de la Xina?",
-      "link_id": "c_d08ce0",
-      "source": "Financial Times",
-      "date": "2026-05-12",
-      "time": "02:12",
-      "summary": "Investidors valoren el potencial del robot humàide xinès com a nova aposta tecnològica global."
-    },
-    {
-      "title": "Necessites un director d’IA? Així la tecnologia transforma les sales de consell",
-      "link_id": "c_b21e8b",
-      "source": "CNBC Technology",
-      "date": "2026-05-12",
-      "time": "01:52",
-      "summary": "Les empreses creen el càrrec de director d’IA per guiar estratègies i reduir riscos tecnològics."
-    },
-    {
-      "title": "Procés d’OpenAI: Nadella afirma que Musk mai li va expressar dubtes sobre la inversió de Microsoft",
-      "link_id": "c_a13de0",
-      "source": "CNBC Technology",
-      "date": "2026-05-11",
-      "time": "23:30",
-      "summary": "Nadella assegura que Musk no li va expressar dubtes sobre la participació de Microsoft a OpenAI."
+      "summary": "Graphcore, creadora de xips IA del Regne Unit, va ser adquirida per SoftBank el 2024."
     }
   ]
 }
