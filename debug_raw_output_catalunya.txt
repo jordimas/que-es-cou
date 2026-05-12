@@ -1,18 +1,17 @@
-```json
 {
-  "generated_at": "2026-05-12T12:18",
+  "generated_at": "2026-05-12T12:00",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
     {
       "name": "Ara.cat",
       "url": "https://www.ara.cat/rss/",
-      "articles_found": 0
+      "articles_found": 3
     },
     {
-      "name": "El Periódico",
-      "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
-      "articles_found": 3
+      "name": "Ara Balears",
+      "url": "https://www.arabalears.cat/rss/",
+      "articles_found": 1
     },
     {
       "name": "RAC1",
@@ -20,9 +19,9 @@
       "articles_found": 1
     },
     {
-      "name": "La Vanguardia (en català)",
-      "url": "https://www.lavanguardia.com/rss/encatala.xml",
-      "articles_found": 7
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/barcelona.feed?type=rss",
+      "articles_found": 1
     },
     {
       "name": "VilaWeb",
@@ -30,272 +29,96 @@
       "articles_found": 1
     },
     {
-      "name": "NacióDigital",
-      "url": "https://www.naciodigital.cat/rss/tecnologia",
-      "articles_found": 0
-    },
-    {
-      "name": "324.cat",
-      "url": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0",
-      "articles_found": 5
-    },
-    {
-      "name": "Softcatalà",
-      "url": "https://www.softcatala.org/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "El Nacional.cat",
-      "url": "https://www.elnacional.cat/uploads/feeds/feed_ca.xml",
-      "articles_found": 16
-    },
-    {
-      "name": "El Mon.cat",
-      "url": "https://www.elmon.cat/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "El Mon.cat Tecnologia",
-      "url": "https://elmon.cat/tecnologia/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "El Mon.cat Societat",
-      "url": "https://elmon.cat/societat/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "Betevé",
-      "url": "https://beteve.cat/feed/",
-      "articles_found": 1
-    },
-    {
-      "name": "El Punt Avui",
-      "url": "https://www.elpuntavui.cat/barcelona.feed?type=rss",
-      "articles_found": 0
-    },
-    {
       "name": "Segre",
       "url": "https://www.segre.com/ca/rss/home.xml",
-      "articles_found": 4
-    },
-    {
-      "name": "Regio7",
-      "url": "https://www.regio7.cat/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Diari d'Andorra",
-      "url": "https://www.diariandorra.ad/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Bon Dia Andorra",
-      "url": "https://www.bondia.ad/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Altaveu",
-      "url": "https://www.altaveu.com/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Nuvol",
-      "url": "https://www.nuvol.com/feed",
-      "articles_found": 0
-    },
-    {
-      "name": "Diari Mes",
-      "url": "https://www.diarimes.com/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Directe.cat",
-      "url": "https://www.directe.cat/?feed=rss2",
-      "articles_found": 0
+      "articles_found": 2
     },
     {
       "name": "Cugat.cat",
       "url": "https://www.cugat.cat/feed/",
-      "articles_found": 2
-    },
-    {
-      "name": "CatalunyaPress",
-      "url": "https://www.catalunyapress.cat/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Tot Barcelona",
-      "url": "https://www.totbarcelona.cat/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "e-notícies",
-      "url": "https://www.e-noticies.cat/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Lleida Diari",
-      "url": "https://www.lleidadiari.cat/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "Catorze",
-      "url": "https://www.catorze.cat/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Xarxanet",
-      "url": "https://www.xarxanet.org/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Bondia",
-      "url": "https://www.bondia.cat/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "MetaData",
-      "url": "https://www.metadata.cat/sindica",
-      "articles_found": 7
-    },
-    {
-      "name": "El Temps",
-      "url": "https://www.eltemps.cat/sindica",
-      "articles_found": 0
-    },
-    {
-      "name": "Àpunt",
-      "url": "https://www.apuntmedia.es/rss/",
-      "articles_found": 0
-    },
-    {
-      "name": "El Periòdic d'Ontinyent",
-      "url": "https://www.elperiodicvalencia.com/?feed=rss2",
       "articles_found": 1
-    },
-    {
-      "name": "Saó",
-      "url": "https://www.revistasao.cat/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "Diari de Balears",
-      "url": "https://www.diaridebalears.cat/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "IB3 Notícies",
-      "url": "https://ib3.org/feed/",
-      "articles_found": 1
-    },
-    {
-      "name": "Ara Balears",
-      "url": "https://www.arabalears.cat/rss/",
-      "articles_found": 4
-    },
-    {
-      "name": "Manacor Comarcal",
-      "url": "https://manacorcomarcal.com/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Via Empresa",
-      "url": "https://www.viaempresa.cat/uploads/feeds/feed_via-empresa-2024_ca.xml",
-      "articles_found": 11
-    },
-    {
-      "name": "Lúdica",
-      "url": "https://ludica.cat/feed/",
-      "articles_found": 1
-    },
-    {
-      "name": "Accent Obert",
-      "url": "https://accentobert.cat/feed/",
-      "articles_found": 0
     }
   ],
   "articles": [
-    {
-      "title": "Cala, la nova empresa de projecció global que vol que el futur dels agents d’IA passi per Barcelona",
-      "link_id": "c_aed79a",
-      "source": "El Periódico",
-      "date": "2026-05-11",
-      "time": "16:01",
-      "summary": "Cala vol construir infraestructura per a agents d’IA amb solucions accessibles."
-    },
-    {
-      "title": "L’abús de ChatGPT passa factura al cervell: llasta la memòria i la capacitat de raonament",
-      "link_id": "c_64a6ea",
-      "source": "El Periódico",
-      "date": "2026-05-09",
-      "time": "06:01",
-      "summary": "L’ús excessiu de ChatGPT pot afectar la memòria i el raonament."
-    },
-    {
-      "title": "Cop a la privacitat: Instagram elimina a partir d’avui el xifratge d’extrem a extrem dels teus missatges",
-      "link_id": "c_dac681",
-      "source": "El Periódico",
-      "date": "2026-05-08",
-      "time": "08:36",
-      "summary": "Instagram deixa de protegir els missatges amb xifratge d’extrem a extrem."
-    },
     {
       "title": "Catalunya instal·larà detectors de dispositius electrònics durant els exàmens de selectivitat d'aquest any",
       "link_id": "c_5cd105",
       "source": "RAC1",
       "date": "2026-05-11",
       "time": "15:30",
-      "summary": "Catalunya utilitzarà detectors per evitar l’ús d’electrònics a l’examen."
+      "summary": "Detectores a la selectivitat evitaran trampes digitals, reforçant la integritat dels exàmens."
     },
     {
-      "title": "La IA ja atreu 6 de cada 10 dòlars que s’inverteixen en capital risc al món",
-      "link_id": "c_e0c76b",
-      "source": "La Vanguardia (en català)",
+      "title": "Nissan acomiadarà 211 treballadors, un 37% de la seva plantilla a Catalunya",
+      "link_id": "c_ceeedb",
+      "source": "Ara Balears",
       "date": "2026-05-11",
-      "time": "05:34",
-      "summary": "L’IA atrau la majoria de les inversions en capital risc global."
+      "time": "17:29",
+      "summary": "Nissan anuncia 211 acomiadaments a Catalunya, impactant la indústria automotriu i el teixit laboral."
     },
     {
-      "title": "L’ús maliciós de la IA en processos electorals: gairebé la meitat de països del món l’ha patit",
-      "link_id": "c_162a57",
-      "source": "324.cat",
-      "date": "2026-05-11",
-      "time": "14:20",
-      "summary": "L’IA afecta processos electorals a gairebé la meitat dels països."
-    },
-    {
-      "title": "El robot que la Xina enviarà a la Lluna sembla alienígena, però és capaç d'utilitzar eines humanes",
-      "link_id": "c_dfc5ad",
-      "source": "El Nacional.cat",
+      "title": "Rheinmetall i Deutsche Telekom s'alien per blindar Alemanya contra els drons",
+      "link_id": "c_02df9f",
+      "source": "Ara.cat",
       "date": "2026-05-12",
-      "time": "12:00",
-      "summary": "Xina envia un robot a la Lluna per utilitzar eines com un humà."
+      "time": "05:00",
+      "summary": "Alemanya i Telekom col·laboren en escut anti‑drons, reforçant la seguretat civil i militar europea."
     },
     {
-      "title": "La intel·ligència artificial pot detectar el càncer de pàncrees amb anys d'antelació",
-      "link_id": "c_1c92eb",
-      "source": "El Nacional.cat",
+      "title": "El consum de contingut en català a les xarxes socials es va enfilar del 71,7% el 2025",
+      "link_id": "c_77f45e",
+      "source": "El Punt Avui",
       "date": "2026-05-12",
-      "time": "08:01",
-      "summary": "Un model d’IA detecta càncer de pàncrees amb anys d’anticipació."
+      "time": "12:35",
+      "summary": "El consum de contingut en català creix un 71,7%, mostrant l’explosió de l’audiència digital local."
     },
     {
-      "title": "Neix a Catalunya el videojoc amb IA que podria canviar el tractament del TDAH infantil",
-      "link_id": "c_0a5832",
-      "source": "MetaData",
+      "title": "Von der Leyen carrega contra les 'big-tech' i s'obre a establir una majoria d'edat digital",
+      "link_id": "c_0bbfd1",
+      "source": "Ara.cat",
+      "date": "2026-05-12",
+      "time": "10:43",
+      "summary": "Von der Leyen impulsa una majoria d’edat digital, buscant protegir menors a les xarxes socials."
+    },
+    {
+      "title": "Catalunya és el 7è 'hub' mundial en assajos clínics",
+      "link_id": "c_043531",
+      "source": "Ara.cat",
       "date": "2026-05-11",
-      "time": "16:11",
-      "summary": "Un videojoc català combina IA i realitat virtual per ajudar infants amb TDAH."
+      "time": "16:04",
+      "summary": "Catalunya ocupa el setè lloc mundial en assajos clínics, reforçant la seva posició en recerca mèdica."
     },
     {
-      "title": "Barcelona es postula per acollir el congrés espacial més important del món el 2029",
-      "link_id": "c_be9bf3",
-      "source": "MetaData",
-      "date": "2026-05-08",
-      "time": "09:10",
-      "summary": "Barcelona vol acollir el congrés espacial més important del món el 2029."
+      "title": "Resolta la incidència telefònica que afectava els telèfons d’emergència",
+      "link_id": "c_348fd5",
+      "source": "VilaWeb",
+      "date": "2026-05-12",
+      "time": "08:55",
+      "summary": "Solucionada la fallada telefònica que afectava les trucades d’emergència, millorant la resposta ràpida."
+    },
+    {
+      "title": "KitDigital, un model que ha transformat la gestió d’ajuts",
+      "link_id": "c_11f999",
+      "source": "Segre",
+      "date": "2026-05-12",
+      "time": "08:43",
+      "summary": "KitDigital facilita ajuts digitals a més de 3 milions de treballadors, impulsant la transformació empresarial."
+    },
+    {
+      "title": "No penjar de cop: la clau per reduir les trucades de spam segons els experts",
+      "link_id": "c_bcb4d9",
+      "source": "Segre",
+      "date": "2026-05-11",
+      "time": "13:25",
+      "summary": "Experts recomanen no penjar de cop per reduir trucades de spam, destacant la calma com a defensa."
+    },
+    {
+      "title": "Activada l’alerta INUNCAT per pluges intenses al Vallès Occidental",
+      "link_id": "c_3dfb47",
+      "source": "Cugat.cat",
+      "date": "2026-05-12",
+      "time": "07:11",
+      "summary": "S’activa l’alerta INUNCAT per pluges intenses al Vallès, preveient inundacions i protegint la població."
     }
   ]
 }
-```

@@ -1,55 +1,8 @@
-```json
 {
-  "generated_at": "2026-05-12T10:18",
+  "generated_at": "2026-05-12T11:15",
   "id": "videos",
   "title": "Vídeos en català sobre tecnologia",
-  "sources_checked": [
-    {
-      "name": "Albert Lloreta",
-      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCemmGKC37IgR8mwXSzvKRYQ",
-      "articles_found": 1
-    },
-    {
-      "name": "Xboxers Catalans",
-      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBm6DJY3FsyD2XJ0g4pAsRw",
-      "articles_found": 1
-    },
-    {
-      "name": "Catalunya PlayStation",
-      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC55Cx5vewLvwhp9Fa4OLHww",
-      "articles_found": 1
-    },
-    {
-      "name": "Pixelats",
-      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvIm1hoOtrsfcdr_ks2cUcw",
-      "articles_found": 2
-    },
-    {
-      "name": "3D Nassos",
-      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPn2HQEQSbjULALiegrFZqw",
-      "articles_found": 1
-    },
-    {
-      "name": "Societat Catalana de Tecnologia",
-      "url": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLJPVNzVlFt_AvbkxyvC-OcCVRLKoPIKvM",
-      "articles_found": 0
-    },
-    {
-      "name": "Gaming.cat",
-      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCx3wbFNjfS7YKyrarN5MA_g",
-      "articles_found": 0
-    },
-    {
-      "name": "Barra Inversa",
-      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgWFb6UGJIdF_bOtgO5fgaA",
-      "articles_found": 0
-    },
-    {
-      "name": "Lúdica (Vídeos)",
-      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwc91vuY2XulsDR7Gb-EGhg",
-      "articles_found": 2
-    }
-  ],
+  "sources_checked": [],
   "articles": [
     {
       "title": "un doomscroll lúcid?",
@@ -57,7 +10,7 @@
       "source": "Albert Lloreta",
       "date": "2026-05-07",
       "time": "16:03",
-      "summary": "Reflexiona sobre la realitat digital i la seva influència en la ment."
+      "summary": "Explora la cultura del doomscrolling amb humor i reflexió, mostrant com afecta la nostra atenció digital."
     },
     {
       "title": "[Campionat Forza Rivals] - 7ª Temporada - 7ª - Nordshleife - Càster @pol_aeri ​+ Almoracers",
@@ -65,7 +18,7 @@
       "source": "Xboxers Catalans",
       "date": "2026-05-09",
       "time": "11:58",
-      "summary": "Cursa intensa al circuit de Nürburgring amb comentaris en català."
+      "summary": "Competència intensiva a Nordschleife, destacant habilitats de conducció i estratègies d'almoracers en Forza Rivals."
     },
     {
       "title": "A què hem estat jugant aquest abril",
@@ -73,7 +26,7 @@
       "source": "Catalunya PlayStation",
       "date": "2026-04-30",
       "time": "18:00",
-      "summary": "Resum dels videojocs destacats d'abril en català."
+      "summary": "Revisió dels jocs més jugats al gener d'abril, amb anàlisi de tendències i recomanacions."
     },
     {
       "title": "Els Putxinel·lis - Capítol 8 - Nous Clients",
@@ -81,15 +34,15 @@
       "source": "Pixelats",
       "date": "2026-05-08",
       "time": "10:01",
-      "summary": "Nova aventura amb nous personatges i situacions inesperades."
+      "summary": "Nou capítol de la sèrie, mostrant com els personatges afronten reptes empresarials inesperats."
     },
     {
-      "title": "POTI-POTI VIDEOJOCSS: puja el preu de PS5, canvi de rumb a Xbox, filtracions de Nintendo Direct 🎮",
-      "link_id": "c_bf6ad9",
-      "source": "3D Nassos",
-      "date": "2026-04-12",
-      "time": "19:30",
-      "summary": "Anàlisi dels canvis en el mercat dels videojocs i novetats."
+      "title": "Pixelats vs. 3DSEN!! 🤯📽️",
+      "link_id": "c_baa177",
+      "source": "Pixelats",
+      "date": "2026-05-08",
+      "time": "10:01",
+      "summary": "Enfrontament èpic entre Pixelats i 3DSEN, amb estratègies i moments còmics que sorprenen."
     },
     {
       "title": "🎙️Lúdica #54 - L’ecosistema Steam",
@@ -97,8 +50,7 @@
       "source": "Lúdica (Vídeos)",
       "date": "2026-05-01",
       "time": "08:34",
-      "summary": "Anàlisi de la plataforma Steam i el seu paper en la indústria."
+      "summary": "Debat sobre l'ecosistema Steam, analitzant novetats, polítiques i impacte en la comunitat catalana."
     }
   ]
 }
-```

@@ -5,189 +5,253 @@
     <link>https://jordimas.github.io/que-es-cou/</link>
     <description>Notícies de tecnologia en català, actualitzades cada 4 hores.</description>
     <language>ca</language>
-    <lastBuildDate>2026-05-12T10:18:00</lastBuildDate>
+    <lastBuildDate>2026-05-12T13:15</lastBuildDate>
     <atom:link href="https://jordimas.github.io/que-es-cou/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Amazon llança l'entrega de 30 minuts a les ciutats</title>
-      <link>https://techcrunch.com/2026/05/12/amazon-expands-30-minute-delivery-across-the-u-s/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/05/12/amazon-expands-30-minute-delivery-across-the-u-s/</guid>
-      <description>Amazon ha anunciat un nou servei d'entrega ultraràpida que arriba a les ciutats en només 30 minuts.</description>
+      <title>Missatges entre Android i iPhone ara encriptats de punta a punta</title>
+      <link>https://techcrunch.com/2026/05/11/finally-texts-between-android-and-iphone-users-can-be-end-to-end-encrypted/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/05/11/finally-texts-between-android-and-iphone-users-can-be-end-to-end-encrypted/</guid>
+      <description>Apple i Google introdueixen xifratge E2EE per a missatges RCS entre dispositius Android i iPhone.</description>
       <author>TechCrunch</author>
+      <pubDate>2026-05-11</pubDate>
+    </item>
+    <item>
+      <title>Criminels utilitzen IA per crear una vulnerabilitat zero‑day</title>
+      <link>https://www.wired.com/story/ilya-sutskever-testifies-musk-v-altman-trial/</link>
+      <guid isPermaLink="true">https://www.wired.com/story/ilya-sutskever-testifies-musk-v-altman-trial/</guid>
+      <description>Google detecta que hackers van generar un zero‑day amb IA per explotar un programari desconegut.</description>
+      <author>The Register</author>
+      <pubDate>2026-05-11</pubDate>
+    </item>
+    <item>
+      <title>eBay rebutja l’oferta de GameStop de 55 mil milions de dòlars</title>
+      <link>https://www.nytimes.com/2026/05/12/business/ebay-gamestops-takeover.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/12/business/ebay-gamestops-takeover.html</guid>
+      <description>eBay declara que la proposta d’adquisició de GameStop no és creïble ni atractiva.</description>
+      <author>NYT Technology</author>
       <pubDate>2026-05-12</pubDate>
     </item>
     <item>
-      <title>Google llança el seu primer model d'intel·ligència artificial per a empreses</title>
-      <link>https://arstechnica.com/security/2026/05/linux-bitten-by-second-severe-vulnerability-in-as-many-weeks/</link>
-      <guid isPermaLink="true">https://arstechnica.com/security/2026/05/linux-bitten-by-second-severe-vulnerability-in-as-many-weeks/</guid>
-      <description>Google ha presentat Gemini per a empreses, un model d'intel·ligència artificial dissenyat específicament per a empreses.</description>
-      <author>TechCrunch</author>
+      <title>TikTok llança subscripció de 3,99 £ sense anuncis al Regne Unit</title>
+      <link>https://www.bbc.com/news/articles/cn0pgl0vk0qo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cn0pgl0vk0qo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>Els usuaris britànics poden pagar una quota mensual per eliminar publicitats i rastreig.</description>
+      <author>BBC Technology</author>
       <pubDate>2026-05-12</pubDate>
     </item>
     <item>
-      <title>Un assessor presidencial diu que a Corea tothom hauria de rebre un bonificació d'intel·ligència artificial</title>
-      <link>https://www.ft.com/content/fefa0641-7fb0-4d78-81c8-0180f1b618ed</link>
-      <guid isPermaLink="true">https://www.ft.com/content/fefa0641-7fb0-4d78-81c8-0180f1b618ed</guid>
-      <description>Les accions de Samsung i SK Hynix baixen després dels comentaris d'un cap de política.</description>
+      <title>iOS 26.5 corregeix més de 50 vulnerabilitats de seguretat</title>
+      <link>https://www.macrumors.com/2026/05/11/ios-26-5-features/</link>
+      <guid isPermaLink="true">https://www.macrumors.com/2026/05/11/ios-26-5-features/</guid>
+      <description>Apple publica una actualització que soluciona més de cinquanta falles de seguretat en iOS.</description>
+      <author>MacRumors</author>
+      <pubDate>2026-05-11</pubDate>
+    </item>
+    <item>
+      <title>L’IA impulsa atacs informàtics a escala industrial, segons Google</title>
+      <link>https://www.theguardian.com/technology/2026/may/11/ai-powered-hacking-industrial-scale-threat-three-months-google</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/may/11/ai-powered-hacking-industrial-scale-threat-three-months-google</guid>
+      <description>Google alerta que grups criminals i estats utilitzen IA per desenvolupar atacs cibernètics massius.</description>
+      <author>The Guardian Tech</author>
+      <pubDate>2026-05-11</pubDate>
+    </item>
+    <item>
+      <title>Amazon promet entregues en 30 minuts als Estats Units</title>
+      <link>https://www.androidauthority.com/amazon-now-in-select-us-cities-3665920/</link>
+      <guid isPermaLink="true">https://www.androidauthority.com/amazon-now-in-select-us-cities-3665920/</guid>
+      <description>Amazon anuncia un servei de lliurament ultra ràpid per a productes d’ús diari.</description>
+      <author>Android Authority</author>
+      <pubDate>2026-05-12</pubDate>
+    </item>
+    <item>
+      <title>Com veure el Google Android Show: Edició I/O en directe</title>
+      <link>https://www.theverge.com/tech/928276/google-android-show-io-edition-2026-how-to-watch</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/928276/google-android-show-io-edition-2026-how-to-watch</guid>
+      <description>Google difon el seu Android Show I/O amb novetats del sistema operatiu i serveis.</description>
+      <author>The Verge</author>
+      <pubDate>2026-05-12</pubDate>
+    </item>
+    <item>
+      <title>Google Search experimenta una interrupció generalitzada</title>
+      <link>https://www.androidauthority.com/google-search-outage-3665890/</link>
+      <guid isPermaLink="true">https://www.androidauthority.com/google-search-outage-3665890/</guid>
+      <description>Una fallada massiva afecta la cerca de Google, deixant molts usuaris sense accés.</description>
+      <author>Android Authority</author>
+      <pubDate>2026-05-12</pubDate>
+    </item>
+    <item>
+      <title>Llançament de la moneda de 1 $ dedicada a Steve Jobs</title>
+      <link>https://www.engadget.com/2170555/steve-jobs-coin-on-sale-today/</link>
+      <guid isPermaLink="true">https://www.engadget.com/2170555/steve-jobs-coin-on-sale-today/</guid>
+      <description>La Casa de la Moneda dels EUA ven una moneda commemorativa amb la imatge de Steve Jobs.</description>
+      <author>Engadget</author>
+      <pubDate>2026-05-12</pubDate>
+    </item>
+    <item>
+      <title>El fabricant de xips Cerebras s'uneix al cercle íntim d'OpenAI — a un cost</title>
+      <link>https://www.ft.com/content/3f77f8ad-16b8-4f97-ae55-0bd2e31122fa</link>
+      <guid isPermaLink="true">https://www.ft.com/content/3f77f8ad-16b8-4f97-ae55-0bd2e31122fa</guid>
+      <description>Cerebras busca aprofitar la influència d'OpenAI per impulsar el seu creixement financer.</description>
       <author>Financial Times</author>
       <pubDate>2026-05-12</pubDate>
     </item>
     <item>
-      <title>Amazon fa servir una eina d'IA per tasques innecessàries per augmentar el seu ús</title>
-      <link>https://www.ft.com/content/8ee0d3ef-9548-422d-8ff1-ebd48ad4b2ca</link>
-      <guid isPermaLink="true">https://www.ft.com/content/8ee0d3ef-9548-422d-8ff1-ebd48ad4b2ca</guid>
-      <description>L'eina interna MeshClaw permet als empleats delegar tasques a agents d'IA.</description>
-      <author>Financial Times</author>
+      <title>Cerebras augmenta el rang de la seva OPI amb l'objectiu de recaptar fins a 4,800 milions de dòlars</title>
+      <link>https://www.cnbc.com/2026/05/11/cerebras-raises-ipo-range.html</link>
+      <guid isPermaLink="true">https://www.cnbc.com/2026/05/11/cerebras-raises-ipo-range.html</guid>
+      <description>Cerebras pretén cotitzar aviat després d'explorar una possible fusió amb OpenAI.</description>
+      <author>CNBC Technology</author>
+      <pubDate>2026-05-11</pubDate>
+    </item>
+    <item>
+      <title>SoftBank ha invertit 450 milions de dòlars en aquesta empresa britànica de xips d'IA</title>
+      <link>https://www.cnbc.com/2026/05/12/softbank-graphcore-ai-chip-investment.html</link>
+      <guid isPermaLink="true">https://www.cnbc.com/2026/05/12/softbank-graphcore-ai-chip-investment.html</guid>
+      <description>SoftBank inverteix 450 milions en Graphcore, impulsant el desenvolupament de xips d'IA al Regne Unit.</description>
+      <author>CNBC Technology</author>
       <pubDate>2026-05-12</pubDate>
     </item>
     <item>
-      <title>Amazon acel·lera la seva xarxa de repartiment amb entregues en 30 minuts</title>
+      <title>Amazon accelera la cursa de lliuraments amb entregues de 30 minuts a desenes de ciutats nord-americanes</title>
       <link>https://www.cnbc.com/2026/05/12/amazon-launches-ultrafast-30-minute-delivery-in-dozens-of-us-cities.html</link>
       <guid isPermaLink="true">https://www.cnbc.com/2026/05/12/amazon-launches-ultrafast-30-minute-delivery-in-dozens-of-us-cities.html</guid>
-      <description>Amazon ha anat accelerant progressivament els seus plazos de repartiment.</description>
+      <description>Amazon redueix els terminis de lliurament a 30 minuts per satisfer la demanda de rapidesa.</description>
       <author>CNBC Technology</author>
       <pubDate>2026-05-12</pubDate>
     </item>
     <item>
-      <title>El CEO d'OpenAI diu que l'adoptació d'IA per a empreses és un punt de virada</title>
-      <link>https://www.cnbc.com/2026/05/11/open-ai-dresser-enterprise-business.html</link>
-      <guid isPermaLink="true">https://www.cnbc.com/2026/05/11/open-ai-dresser-enterprise-business.html</guid>
-      <description>OpenAI ha creat una empresa conjunta amb 19 grups d'inversió i consultoria.</description>
-      <author>CNBC Technology</author>
-      <pubDate>2026-05-11</pubDate>
+      <title>Un assessor presidencial afirma que tots els coreans haurien de rebre un bonus d'IA</title>
+      <link>https://www.ft.com/content/fefa0641-7fb0-4d78-81c8-0180f1b618ed</link>
+      <guid isPermaLink="true">https://www.ft.com/content/fefa0641-7fb0-4d78-81c8-0180f1b618ed</guid>
+      <description>El consell presidencial recomana un bonus d'IA, provocant caiguda de les accions de Samsung i SK Hynix.</description>
+      <author>Financial Times</author>
+      <pubDate>2026-05-12</pubDate>
     </item>
     <item>
-      <title>Google diu que ha evitat un intent d'atac massiu amb IA</title>
-      <link>https://www.cnbc.com/2026/05/11/google-thwarts-effort-hacker-group-use-ai-mass-exploitation-event.html</link>
-      <guid isPermaLink="true">https://www.cnbc.com/2026/05/11/google-thwarts-effort-hacker-group-use-ai-mass-exploitation-event.html</guid>
-      <description>Hackers adopten ràpidament IA per trobar errors de programari.</description>
-      <author>CNBC Technology</author>
-      <pubDate>2026-05-11</pubDate>
+      <title>El regulador de comunicacions dels EUA apunta a la tecnologia xinesa per riscos de seguretat</title>
+      <link>https://www.ft.com/content/48f0cc68-dfae-48d7-8950-c8c72c2ebe93</link>
+      <guid isPermaLink="true">https://www.ft.com/content/48f0cc68-dfae-48d7-8950-c8c72c2ebe93</guid>
+      <description>El FCC intensifica la vigilància sobre equips xinesos, de drons a routers, per motius de seguretat.</description>
+      <author>Financial Times</author>
+      <pubDate>2026-05-12</pubDate>
     </item>
     <item>
-      <title>El CEO d'OpenAI diu que Musk no li va expressar preocupacions sobre la inversió de Microsoft</title>
-      <link>https://www.cnbc.com/2026/05/11/microsoft-ceo-satya-nadella-musk-altman-trial.html</link>
-      <guid isPermaLink="true">https://www.cnbc.com/2026/05/11/microsoft-ceo-satya-nadella-musk-altman-trial.html</guid>
-      <description>Musk va incloure Microsoft com a demandat al seu procés contra OpenAI.</description>
-      <author>CNBC Technology</author>
-      <pubDate>2026-05-11</pubDate>
+      <title>Empleats d'Amazon utilitzen una eina d'IA per tasques innecessàries i inflar les puntuacions d'ús</title>
+      <link>https://www.ft.com/content/8ee0d3ef-9548-422d-8ff1-ebd48ad4b2ca</link>
+      <guid isPermaLink="true">https://www.ft.com/content/8ee0d3ef-9548-422d-8ff1-ebd48ad4b2ca</guid>
+      <description>Empleats d'Amazon usen MeshClaw per delegar tasques a IA i millorar la seva posició interna.</description>
+      <author>Financial Times</author>
+      <pubDate>2026-05-12</pubDate>
     </item>
     <item>
-      <title>Els CEO's diuen que l'IA no està costant feines ara mateix, però les deslocalitzacions tecnològiques segueixen</title>
-      <link>https://www.cnbc.com/2026/05/11/trump-white-house-hassett-ai-jobs.html</link>
-      <guid isPermaLink="true">https://www.cnbc.com/2026/05/11/trump-white-house-hassett-ai-jobs.html</guid>
-      <description>Les empreses tecnològiques segueixen anunciant deslocalitzacions vinculades a l'IA.</description>
-      <author>CNBC Technology</author>
-      <pubDate>2026-05-11</pubDate>
+      <title>Adoptaran els inversors el robot humanoide líder de la Xina?</title>
+      <link>https://www.ft.com/content/721e3bed-285b-46d4-8151-8cf28cb5ef50</link>
+      <guid isPermaLink="true">https://www.ft.com/content/721e3bed-285b-46d4-8151-8cf28cb5ef50</guid>
+      <description>Unitree planeja una OPI aquest any, marcant un punt clau per a la indústria d'androids.</description>
+      <author>Financial Times</author>
+      <pubDate>2026-05-12</pubDate>
     </item>
     <item>
-      <title>Un CEO prediu que l'índex Nasdaq arribarà a 30.000 amb l'expansió de l'IA</title>
-      <link>https://www.cnbc.com/2026/05/11/the-haters-will-hate-dan-ives-predicts-nasdaq-rally.html</link>
-      <guid isPermaLink="true">https://www.cnbc.com/2026/05/11/the-haters-will-hate-dan-ives-predicts-nasdaq-rally.html</guid>
-      <description>Una bona temporada de resultats de tecnologia ha tranquil·litzat als inversors.</description>
-      <author>CNBC Technology</author>
-      <pubDate>2026-05-11</pubDate>
-    </item>
-    <item>
-      <title>OpenAI donarà accés a un nou model de ciberseguretat a l'Europa</title>
-      <link>https://www.cnbc.com/2026/05/11/openai-eu-cyber-model-anthropic-mythos-gpt.html</link>
-      <guid isPermaLink="true">https://www.cnbc.com/2026/05/11/openai-eu-cyber-model-anthropic-mythos-gpt.html</guid>
-      <description>OpenAI va anunciar que donaria accés a un nou model de ciberseguretat.</description>
-      <author>CNBC Technology</author>
-      <pubDate>2026-05-11</pubDate>
-    </item>
-    <item>
-      <title>L'IA pot estar canviant els consells d'administració, segons un informe</title>
+      <title>Necessiteu un director d'IA? Així la tecnologia transforma les sales de consell</title>
       <link>https://www.cnbc.com/2026/05/11/heres-how-artificial-intelligence-is-changing-boardrooms.html</link>
       <guid isPermaLink="true">https://www.cnbc.com/2026/05/11/heres-how-artificial-intelligence-is-changing-boardrooms.html</guid>
-      <description>IBM va publicar un informe sobre el paper creixent de l'IA a les juntes.</description>
+      <description>IBM revela que moltes empreses ja creen el càrrec de director d'IA per liderar la transformació digital.</description>
       <author>CNBC Technology</author>
       <pubDate>2026-05-12</pubDate>
     </item>
     <item>
-      <title>Cala, la nova empresa de projecció global que vol que el futur dels agents d’IA passi per Barcelona</title>
-      <link>https://www.elperiodico.cat/ca/economia/20260511/cala-nova-empresa-futur-agents-intelligencia-artificial-barcelona-elisenda-bou-balust-apple-vilynx-ia-129994006?utm_source=rss-noticias&amp;amp;utm_medium=feed&amp;amp;utm_campaign=tecnologia</link>
-      <guid isPermaLink="true">https://www.elperiodico.cat/ca/economia/20260511/cala-nova-empresa-futur-agents-intelligencia-artificial-barcelona-elisenda-bou-balust-apple-vilynx-ia-129994006?utm_source=rss-noticias&amp;amp;utm_medium=feed&amp;amp;utm_campaign=tecnologia</guid>
-      <description>Cala vol construir infraestructura per a agents d’IA amb solucions accessibles.</description>
-      <author>El Periódico</author>
+      <title>Procés d'OpenAI: Nadella afirma que Musk mai li va plantejar dubtes sobre la inversió de Microsoft</title>
+      <link>https://www.cnbc.com/2026/05/11/microsoft-ceo-satya-nadella-musk-altman-trial.html</link>
+      <guid isPermaLink="true">https://www.cnbc.com/2026/05/11/microsoft-ceo-satya-nadella-musk-altman-trial.html</guid>
+      <description>Nadella afirma que Musk mai va expressar dubtes sobre la inversió de Microsoft a OpenAI.</description>
+      <author>CNBC Technology</author>
       <pubDate>2026-05-11</pubDate>
-    </item>
-    <item>
-      <title>L’abús de ChatGPT passa factura al cervell: llasta la memòria i la capacitat de raonament</title>
-      <link>https://www.elperiodico.cat/ca/societat/20260509/intelligencia-artificial-chatgpt-efectes-cervell-raonament-memoria-pensament-critic-deute-cognitiu-129963251?utm_source=rss-noticias&amp;amp;utm_medium=feed&amp;amp;utm_campaign=tecnologia</link>
-      <guid isPermaLink="true">https://www.elperiodico.cat/ca/societat/20260509/intelligencia-artificial-chatgpt-efectes-cervell-raonament-memoria-pensament-critic-deute-cognitiu-129963251?utm_source=rss-noticias&amp;amp;utm_medium=feed&amp;amp;utm_campaign=tecnologia</guid>
-      <description>L’ús excessiu de ChatGPT pot afectar la memòria i el raonament.</description>
-      <author>El Periódico</author>
-      <pubDate>2026-05-09</pubDate>
-    </item>
-    <item>
-      <title>Cop a la privacitat: Instagram elimina a partir d’avui el xifratge d’extrem a extrem dels teus missatges</title>
-      <link>https://www.elperiodico.cat/ca/tecnologia/20260508/cop-privacitat-instagram-eliminara-xifrat-extrem-proteccio-missatges-dades-facebook-zuckerberg-meta-encriptacio-128065872?utm_source=rss-noticias&amp;amp;utm_medium=feed&amp;amp;utm_campaign=tecnologia</link>
-      <guid isPermaLink="true">https://www.elperiodico.cat/ca/tecnologia/20260508/cop-privacitat-instagram-eliminara-xifrat-extrem-proteccio-missatges-dades-facebook-zuckerberg-meta-encriptacio-128065872?utm_source=rss-noticias&amp;amp;utm_medium=feed&amp;amp;utm_campaign=tecnologia</guid>
-      <description>Instagram deixa de protegir els missatges amb xifratge d’extrem a extrem.</description>
-      <author>El Periódico</author>
-      <pubDate>2026-05-08</pubDate>
     </item>
     <item>
       <title>Catalunya instal·larà detectors de dispositius electrònics durant els exàmens de selectivitat d'aquest any</title>
       <link>https://www.rac1.cat/societat/20260511/344498/catalunya-instalara-detectors-dispositius-electronics-durant-examens-selectivitat-any.html</link>
       <guid isPermaLink="true">https://www.rac1.cat/societat/20260511/344498/catalunya-instalara-detectors-dispositius-electronics-durant-examens-selectivitat-any.html</guid>
-      <description>Catalunya utilitzarà detectors per evitar l’ús d’electrònics a l’examen.</description>
+      <description>Detectores a la selectivitat evitaran trampes digitals, reforçant la integritat dels exàmens.</description>
       <author>RAC1</author>
       <pubDate>2026-05-11</pubDate>
     </item>
     <item>
-      <title>La IA ja atreu 6 de cada 10 dòlars que s’inverteixen en capital risc al món</title>
-      <link>https://www.lavanguardia.com/encatala/20260511/11534977/ia-ja-atreu-6-10-dolars-s-inverteixen-capital-risc-mon.html</link>
-      <guid isPermaLink="true">https://www.lavanguardia.com/encatala/20260511/11534977/ia-ja-atreu-6-10-dolars-s-inverteixen-capital-risc-mon.html</guid>
-      <description>L’IA atrau la majoria de les inversions en capital risc global.</description>
-      <author>La Vanguardia (en català)</author>
+      <title>Nissan acomiadarà 211 treballadors, un 37% de la seva plantilla a Catalunya</title>
+      <link>https://www.viaempresa.cat/empresa/nissan-planteja-211-acomiadaments-tres-centres-te-catalunya-37-plantilla_2234592_102.html</link>
+      <guid isPermaLink="true">https://www.viaempresa.cat/empresa/nissan-planteja-211-acomiadaments-tres-centres-te-catalunya-37-plantilla_2234592_102.html</guid>
+      <description>Nissan anuncia 211 acomiadaments a Catalunya, impactant la indústria automotriu i el teixit laboral.</description>
+      <author>Ara Balears</author>
       <pubDate>2026-05-11</pubDate>
     </item>
     <item>
-      <title>L’ús maliciós de la IA en processos electorals: gairebé la meitat de països del món l’ha patit</title>
-      <link>https://www.3cat.cat/3catinfo/lus-malicios-de-la-ia-en-processos-electorals-gairebe-la-meitat-de-paisos-del-mon-lha-patit/noticia/3408945/</link>
-      <guid isPermaLink="true">https://www.3cat.cat/3catinfo/lus-malicios-de-la-ia-en-processos-electorals-gairebe-la-meitat-de-paisos-del-mon-lha-patit/noticia/3408945/</guid>
-      <description>L’IA afecta processos electorals a gairebé la meitat dels països.</description>
-      <author>324.cat</author>
-      <pubDate>2026-05-11</pubDate>
-    </item>
-    <item>
-      <title>El robot que la Xina enviarà a la Lluna sembla alienígena, però és capaç d'utilitzar eines humanes</title>
-      <link>https://www.elnacional.cat/ca/tecnologia/robot-xina-enviara-lluna-sembla-alienigena-pero-es-capac-utilitzar-eines-humanes_1638409_102.html</link>
-      <guid isPermaLink="true">https://www.elnacional.cat/ca/tecnologia/robot-xina-enviara-lluna-sembla-alienigena-pero-es-capac-utilitzar-eines-humanes_1638409_102.html</guid>
-      <description>Xina envia un robot a la Lluna per utilitzar eines com un humà.</description>
-      <author>El Nacional.cat</author>
+      <title>Rheinmetall i Deutsche Telekom s'alien per blindar Alemanya contra els drons</title>
+      <link>https://www.ara.cat/economia/industria/rheinmetall-deutsche-telekom-s-alien-blindar-alemanya-drons_1_5733866.html</link>
+      <guid isPermaLink="true">https://www.ara.cat/economia/industria/rheinmetall-deutsche-telekom-s-alien-blindar-alemanya-drons_1_5733866.html</guid>
+      <description>Alemanya i Telekom col·laboren en escut anti‑drons, reforçant la seguretat civil i militar europea.</description>
+      <author>Ara.cat</author>
       <pubDate>2026-05-12</pubDate>
     </item>
     <item>
-      <title>La intel·ligència artificial pot detectar el càncer de pàncrees amb anys d'antelació</title>
-      <link>https://www.elnacional.cat/ca/tecnologia/intelligencia-artificial-pot-detectar-cancer-pancrees-anys-antelacio_1638292_102.html</link>
-      <guid isPermaLink="true">https://www.elnacional.cat/ca/tecnologia/intelligencia-artificial-pot-detectar-cancer-pancrees-anys-antelacio_1638292_102.html</guid>
-      <description>Un model d’IA detecta càncer de pàncrees amb anys d’anticipació.</description>
-      <author>El Nacional.cat</author>
+      <title>El consum de contingut en català a les xarxes socials es va enfilar del 71,7% el 2025</title>
+      <link>https://www.elpuntavui.cat/cultura/article/19-cultura/2642777-el-consum-de-contingut-en-catala-a-les-xarxes-socials-es-va-enfilar-del-71-7-el-2025.html</link>
+      <guid isPermaLink="true">https://www.elpuntavui.cat/cultura/article/19-cultura/2642777-el-consum-de-contingut-en-catala-a-les-xarxes-socials-es-va-enfilar-del-71-7-el-2025.html</guid>
+      <description>El consum de contingut en català creix un 71,7%, mostrant l’explosió de l’audiència digital local.</description>
+      <author>El Punt Avui</author>
       <pubDate>2026-05-12</pubDate>
     </item>
     <item>
-      <title>Neix a Catalunya el videojoc amb IA que podria canviar el tractament del TDAH infantil</title>
-      <link>https://www.metadata.cat/noticia/6309/catalunya-videojoc-ia-tractament-tdah-infantil</link>
-      <guid isPermaLink="true">https://www.metadata.cat/noticia/6309/catalunya-videojoc-ia-tractament-tdah-infantil</guid>
-      <description>Un videojoc català combina IA i realitat virtual per ajudar infants amb TDAH.</description>
-      <author>MetaData</author>
+      <title>Von der Leyen carrega contra les 'big-tech' i s'obre a establir una majoria d'edat digital</title>
+      <link>https://www.ara.cat/internacional/europa/von-der-leyen-carrega-big-tech-s-obre-establir-majoria-d-edat-digital_1_5734544.html</link>
+      <guid isPermaLink="true">https://www.ara.cat/internacional/europa/von-der-leyen-carrega-big-tech-s-obre-establir-majoria-d-edat-digital_1_5734544.html</guid>
+      <description>Von der Leyen impulsa una majoria d’edat digital, buscant protegir menors a les xarxes socials.</description>
+      <author>Ara.cat</author>
+      <pubDate>2026-05-12</pubDate>
+    </item>
+    <item>
+      <title>Catalunya és el 7è 'hub' mundial en assajos clínics</title>
+      <link>https://www.ara.cat/economia/farmaceutiques/catalunya-7e-hub-mundial-assajos-clinics_1_5733503.html</link>
+      <guid isPermaLink="true">https://www.ara.cat/economia/farmaceutiques/catalunya-7e-hub-mundial-assajos-clinics_1_5733503.html</guid>
+      <description>Catalunya ocupa el setè lloc mundial en assajos clínics, reforçant la seva posició en recerca mèdica.</description>
+      <author>Ara.cat</author>
       <pubDate>2026-05-11</pubDate>
     </item>
     <item>
-      <title>Barcelona es postula per acollir el congrés espacial més important del món el 2029</title>
-      <link>https://www.metadata.cat/noticia/6305/barcelona-acollir-congres-espacial-mes-important-del-mon-2029</link>
-      <guid isPermaLink="true">https://www.metadata.cat/noticia/6305/barcelona-acollir-congres-espacial-mes-important-del-mon-2029</guid>
-      <description>Barcelona vol acollir el congrés espacial més important del món el 2029.</description>
-      <author>MetaData</author>
-      <pubDate>2026-05-08</pubDate>
+      <title>Resolta la incidència telefònica que afectava els telèfons d’emergència</title>
+      <link>https://www.vilaweb.cat/noticies/afectacio-en-alguns-telefons-demergencies-per-una-avaria-a-telefonica/</link>
+      <guid isPermaLink="true">https://www.vilaweb.cat/noticies/afectacio-en-alguns-telefons-demergencies-per-una-avaria-a-telefonica/</guid>
+      <description>Solucionada la fallada telefònica que afectava les trucades d’emergència, millorant la resposta ràpida.</description>
+      <author>VilaWeb</author>
+      <pubDate>2026-05-12</pubDate>
+    </item>
+    <item>
+      <title>KitDigital, un model que ha transformat la gestió d’ajuts</title>
+      <link>https://www.segre.com/ca/noticies-empresa/260512/kitdigital-model-transformat-gestio-d-ajuts_1197512.html</link>
+      <guid isPermaLink="true">https://www.segre.com/ca/noticies-empresa/260512/kitdigital-model-transformat-gestio-d-ajuts_1197512.html</guid>
+      <description>KitDigital facilita ajuts digitals a més de 3 milions de treballadors, impulsant la transformació empresarial.</description>
+      <author>Segre</author>
+      <pubDate>2026-05-12</pubDate>
+    </item>
+    <item>
+      <title>No penjar de cop: la clau per reduir les trucades de spam segons els experts</title>
+      <link>https://www.segre.com/ca/societat/260511/no-penjar-de-cop-la-clau-per-reduir-les-trucades-de-spam-segons-els-experts_849210.html</link>
+      <guid isPermaLink="true">https://www.segre.com/ca/societat/260511/no-penjar-de-cop-la-clau-per-reduir-les-trucades-de-spam-segons-els-experts_849210.html</guid>
+      <description>Experts recomanen no penjar de cop per reduir trucades de spam, destacant la calma com a defensa.</description>
+      <author>Segre</author>
+      <pubDate>2026-05-11</pubDate>
+    </item>
+    <item>
+      <title>Activada l’alerta INUNCAT per pluges intenses al Vallès Occidental</title>
+      <link>https://www.cugat.cat/noticies/activada-lalerta-inuncat-per-pluges-intenses-al-valles-occidental/</link>
+      <guid isPermaLink="true">https://www.cugat.cat/noticies/activada-lalerta-inuncat-per-pluges-intenses-al-valles-occidental/</guid>
+      <description>S’activa l’alerta INUNCAT per pluges intenses al Vallès, preveient inundacions i protegint la població.</description>
+      <author>Cugat.cat</author>
+      <pubDate>2026-05-12</pubDate>
     </item>
     <item>
       <title>Polymarket és un problema, les pantalles no – programa 663</title>
       <link>https://mossegalapoma.cat/polymarket-es-un-problema-les-pantalles-no-programa-663/</link>
       <guid isPermaLink="true">https://mossegalapoma.cat/polymarket-es-un-problema-les-pantalles-no-programa-663/</guid>
-      <description>Es debat sobre Polymarket i les apostes descontrolades amb la UPC.</description>
+      <description>Debatem el risc de les apostes en Polymarket i si les pantalles perjudiquen els menors a l’aula.</description>
       <author>Mossega la poma</author>
       <pubDate>2026-05-09</pubDate>
     </item>
@@ -195,7 +259,7 @@
       <title>MacBook Neo i exemples de processos avançats amb IA – programa 662</title>
       <link>https://mossegalapoma.cat/macbook-neo-i-exemples-de-processos-avancats-amb-ia-programa-662/</link>
       <guid isPermaLink="true">https://mossegalapoma.cat/macbook-neo-i-exemples-de-processos-avancats-amb-ia-programa-662/</guid>
-      <description>Anàlisi del nou MacBook Neo i aplicacions avançades d'IA.</description>
+      <description>Explorem el MacBook Neo i com la IA impulsa processos avançats en entorns professionals.</description>
       <author>Mossega la poma</author>
       <pubDate>2026-04-29</pubDate>
     </item>
@@ -203,7 +267,7 @@
       <title>L' Altra Ràdio - El DMTforum 2026: la gran trobada del sector català de les telecomunicacions</title>
       <link>https://podcasts.cat/36/34055967/</link>
       <guid isPermaLink="true">https://podcasts.cat/36/34055967/</guid>
-      <description>El DMTforum 2026, organitzat per FECEMINTE i CECABLE.</description>
+      <description>Presentem la gran trobada del DMTforum 2026, impulsant la col·laboració del sector de telecomunicacions català.</description>
       <author>L'altra ràdio</author>
       <pubDate>2026-05-07</pubDate>
     </item>
@@ -211,7 +275,7 @@
       <title>L' Altra Ràdio - La computació quàntica</title>
       <link>https://podcasts.cat/36/34032428/</link>
       <guid isPermaLink="true">https://podcasts.cat/36/34032428/</guid>
-      <description>Mariona Sanz explica la computació quàntica i Quilimanjaro.</description>
+      <description>Descobrim la computació quàntica i el projecte Quilimanjaro del BSC, pioners en aquesta tecnologia.</description>
       <author>L'altra ràdio</author>
       <pubDate>2026-04-30</pubDate>
     </item>
@@ -219,7 +283,7 @@
       <title>El gòTIC - Tenim una missió! del 29/4/2026</title>
       <link>https://podcasts.cat/191/34027407/</link>
       <guid isPermaLink="true">https://podcasts.cat/191/34027407/</guid>
-      <description>El gòTIC Ajuntament de Tàrrega comparteix recursos digitals.</description>
+      <description>El gòTIC comparteix recursos digitals per afrontar reptes ciutadans, impulsant la innovació local.</description>
       <author>El Gòtic</author>
       <pubDate>2026-04-28</pubDate>
     </item>
@@ -227,7 +291,7 @@
       <title>L’històric cercador Ask Jeeves tanca</title>
       <link>https://www.societatdelainformacio.com/podcast/el-cercador-ask-jeeves-tanca/</link>
       <guid isPermaLink="true">https://www.societatdelainformacio.com/podcast/el-cercador-ask-jeeves-tanca/</guid>
-      <description>Ask Jeeves tanca després de 30 anys de funcionament.</description>
+      <description>Anunciem el tancament d’Ask Jeeves després de 30 anys, reflexionant sobre la seva evolució en cerca.</description>
       <author>Societat de la Informació</author>
       <pubDate>2026-05-05</pubDate>
     </item>
@@ -235,15 +299,15 @@
       <title>El manifest de Palantir, l'acord del Pentàgon amb vuit grans empreses d'IA i el relleu al capdavant d'Apple.</title>
       <link>https://podcasts.cat/247/34037638/</link>
       <guid isPermaLink="true">https://podcasts.cat/247/34037638/</guid>
-      <description>Es comenta el manifest de Palantir i el relleu d'Apple.</description>
+      <description>Analitzem el manifest de Palantir, l’acord del Pentàgon amb IA i el nou lideratge d’Apple.</description>
       <author>Internet amb Genís Roca</author>
-      <pubDate>2026-05-01</pubDate>
+      <pubDate>2026-05-02</pubDate>
     </item>
     <item>
       <title>Més palanques que el mecànic de Las Vegas</title>
       <link>https://rss.com/podcasts/focaterra/2796400</link>
       <guid isPermaLink="true">https://rss.com/podcasts/focaterra/2796400</guid>
-      <description>Eduard Romeu parla de finançament i gestió.</description>
+      <description>Entrevista amb Eduard Romeu sobre gestió financera i estratègies per a empreses en crisi.</description>
       <author>Foc a Terra</author>
       <pubDate>2026-05-11</pubDate>
     </item>
@@ -251,7 +315,7 @@
       <title>Foc you, Tim Apple</title>
       <link>https://rss.com/podcasts/focaterra/2782305</link>
       <guid isPermaLink="true">https://rss.com/podcasts/focaterra/2782305</guid>
-      <description>Monogràfic sobre Tim Apple i la seva influència.</description>
+      <description>Repassem les contribucions d’Apple i les seves falles durant quinze anys de lideratge.</description>
       <author>Foc a Terra</author>
       <pubDate>2026-05-04</pubDate>
     </item>
@@ -259,7 +323,7 @@
       <title>WordPress 7.0, sense Real Time Collaboration</title>
       <link>https://www.wppodcast.cat/podcast/wordpress-7-0-sense-real-time-collaboration/</link>
       <guid isPermaLink="true">https://www.wppodcast.cat/podcast/wordpress-7-0-sense-real-time-collaboration/</guid>
-      <description>WordPress 7.0 sense col·laboració en temps real.</description>
+      <description>Expliquem per què la col·laboració en temps real es retarda fins a WordPress 7.1 per problemes de rendiment.</description>
       <author>WordPress Pòdcast</author>
       <pubDate>2026-05-12</pubDate>
     </item>
@@ -267,7 +331,7 @@
       <title>L’API de presència</title>
       <link>https://www.wppodcast.cat/podcast/api-de-presencia/</link>
       <guid isPermaLink="true">https://www.wppodcast.cat/podcast/api-de-presencia/</guid>
-      <description>Nova API de presència a WordPress.</description>
+      <description>Presentem la nova API de presència que mostra editors actius i avatares al tauler de WordPress.</description>
       <author>WordPress Pòdcast</author>
       <pubDate>2026-05-05</pubDate>
     </item>
@@ -275,7 +339,7 @@
       <title>WordPress 7.0 d’aquí a 3 setmanes</title>
       <link>https://www.wppodcast.cat/podcast/wordpress-7-0-daqui-a-3-setmanes/</link>
       <guid isPermaLink="true">https://www.wppodcast.cat/podcast/wordpress-7-0-daqui-a-3-setmanes/</guid>
-      <description>WordPress 7.0 es llançarà el 20 de maig.</description>
+      <description>Anunciem la data revisada per al llançament de WordPress 7.0, previst per al 20 de maig.</description>
       <author>WordPress Pòdcast</author>
       <pubDate>2026-04-28</pubDate>
     </item>
@@ -283,7 +347,7 @@
       <title>Capítol 64: "Obrir una gelateria és un dels negocis més rendibles a hores d'ara a la ciutat de Barcelona”</title>
       <link>https://traffic.omny.fm/d/clips/47dc05c7-7279-4c6f-9b31-ae74013297d9/d3709a08-7df4-4359-85b0-af0f00b8b4b3/92c17a57-8cae-4029-bbbf-b4410067a9dc/audio.mp3?dist=RSS</link>
       <guid isPermaLink="true">https://traffic.omny.fm/d/clips/47dc05c7-7279-4c6f-9b31-ae74013297d9/d3709a08-7df4-4359-85b0-af0f00b8b4b3/92c17a57-8cae-4029-bbbf-b4410067a9dc/audio.mp3?dist=RSS</guid>
-      <description>Quatre amics obren una gelateria a Barcelona.</description>
+      <description>Història de quatre joves que deixen la feina per obrir una gelateria artesanal al barri de Barcelona.</description>
       <author>RAC&amp;GO</author>
       <pubDate>2026-05-05</pubDate>
     </item>
@@ -291,7 +355,7 @@
       <title>Google I/O 2026 extended Watch Party Barcelona with SCRM - Schwarz Digits</title>
       <link>https://www.meetup.com/gdg-barcelona/events/314643126/</link>
       <guid isPermaLink="true">https://www.meetup.com/gdg-barcelona/events/314643126/</guid>
-      <description>Es presenta la Google I/O 2026 amb xerrades, xarxa i gastronomia.</description>
+      <description>Una nit de tecnologia i networking amb la presentació de Google I/O i la col·laboració de SCRM.</description>
       <author>GDG Barcelona</author>
       <pubDate>2026-05-05</pubDate>
     </item>
@@ -299,7 +363,7 @@
       <title>[Build with AI]: Build Your First AI Agent with Google ADK</title>
       <link>https://www.meetup.com/gdg-barcelona/events/314580523/</link>
       <guid isPermaLink="true">https://www.meetup.com/gdg-barcelona/events/314580523/</guid>
-      <description>Taller per construir un agent d'intel·ligència artificial des de zero.</description>
+      <description>Taller pràctic per crear un agent d'IA des de zero utilitzant les eines Google ADK.</description>
       <author>GDG Barcelona</author>
       <pubDate>2026-05-01</pubDate>
     </item>
@@ -307,7 +371,7 @@
       <title>un doomscroll lúcid?</title>
       <link>https://www.youtube.com/watch?v=JagjgAfZA6g</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=JagjgAfZA6g</guid>
-      <description>Reflexiona sobre la realitat digital i la seva influència en la ment.</description>
+      <description>Explora la cultura del doomscrolling amb humor i reflexió, mostrant com afecta la nostra atenció digital.</description>
       <author>Albert Lloreta</author>
       <pubDate>2026-05-07</pubDate>
     </item>
@@ -315,7 +379,7 @@
       <title>[Campionat Forza Rivals] - 7ª Temporada - 7ª - Nordshleife - Càster @pol_aeri ​+ Almoracers</title>
       <link>https://www.youtube.com/watch?v=ci9nTAGdH88</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=ci9nTAGdH88</guid>
-      <description>Cursa intensa al circuit de Nürburgring amb comentaris en català.</description>
+      <description>Competència intensiva a Nordschleife, destacant habilitats de conducció i estratègies d'almoracers en Forza Rivals.</description>
       <author>Xboxers Catalans</author>
       <pubDate>2026-05-09</pubDate>
     </item>
@@ -323,7 +387,7 @@
       <title>A què hem estat jugant aquest abril</title>
       <link>https://www.youtube.com/watch?v=1xZ209klLcE</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=1xZ209klLcE</guid>
-      <description>Resum dels videojocs destacats d'abril en català.</description>
+      <description>Revisió dels jocs més jugats al gener d'abril, amb anàlisi de tendències i recomanacions.</description>
       <author>Catalunya PlayStation</author>
       <pubDate>2026-04-30</pubDate>
     </item>
@@ -331,23 +395,23 @@
       <title>Els Putxinel·lis - Capítol 8 - Nous Clients</title>
       <link>https://www.youtube.com/watch?v=gKzq3Q8aeFw</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=gKzq3Q8aeFw</guid>
-      <description>Nova aventura amb nous personatges i situacions inesperades.</description>
+      <description>Nou capítol de la sèrie, mostrant com els personatges afronten reptes empresarials inesperats.</description>
       <author>Pixelats</author>
       <pubDate>2026-05-08</pubDate>
     </item>
     <item>
-      <title>POTI-POTI VIDEOJOCSS: puja el preu de PS5, canvi de rumb a Xbox, filtracions de Nintendo Direct 🎮</title>
-      <link>https://www.youtube.com/watch?v=6HRWCq9YCRE</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=6HRWCq9YCRE</guid>
-      <description>Anàlisi dels canvis en el mercat dels videojocs i novetats.</description>
-      <author>3D Nassos</author>
-      <pubDate>2026-04-12</pubDate>
+      <title>Pixelats vs. 3DSEN!! 🤯📽️</title>
+      <link>https://www.youtube.com/watch?v=TnPtLGu5H7I</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=TnPtLGu5H7I</guid>
+      <description>Enfrontament èpic entre Pixelats i 3DSEN, amb estratègies i moments còmics que sorprenen.</description>
+      <author>Pixelats</author>
+      <pubDate>2026-05-08</pubDate>
     </item>
     <item>
       <title>🎙️Lúdica #54 - L’ecosistema Steam</title>
       <link>https://www.youtube.com/watch?v=7-Nza7bs9q0</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=7-Nza7bs9q0</guid>
-      <description>Anàlisi de la plataforma Steam i el seu paper en la indústria.</description>
+      <description>Debat sobre l'ecosistema Steam, analitzant novetats, polítiques i impacte en la comunitat catalana.</description>
       <author>Lúdica (Vídeos)</author>
       <pubDate>2026-05-01</pubDate>
     </item>

@@ -1,111 +1,88 @@
-```json
 {
-  "generated_at": "2026-05-12T13:18",
+  "generated_at": "2026-05-12T13:15",
   "id": "economy",
   "title": "Notícies econòmiques del món",
-  "sources_checked": [
-    {
-      "name": "The Economist",
-      "url": "https://www.economist.com/science-and-technology/rss.xml",
-      "articles_found": 0
-    },
-    {
-      "name": "Financial Times",
-      "url": "https://www.ft.com/technology?format=rss",
-      "articles_found": 10
-    },
-    {
-      "name": "Wall Street Journal",
-      "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
-      "articles_found": 0
-    },
-    {
-      "name": "CNBC Technology",
-      "url": "https://www.cnbc.com/id/19854910/device/rss/rss.html",
-      "articles_found": 17
-    }
-  ],
+  "sources_checked": [],
   "articles": [
     {
-      "title": "Un assessor presidencial diu que a Corea tothom hauria de rebre un bonificació d'intel·ligència artificial",
-      "link_id": "c_127dba",
+      "title": "El fabricant de xips Cerebras s'uneix al cercle íntim d'OpenAI — a un cost",
+      "link_id": "c_2e14e4",
       "source": "Financial Times",
       "date": "2026-05-12",
-      "time": "06:33",
-      "summary": "Les accions de Samsung i SK Hynix baixen després dels comentaris d'un cap de política."
+      "time": "09:22",
+      "summary": "Cerebras busca aprofitar la influència d'OpenAI per impulsar el seu creixement financer."
     },
     {
-      "title": "Amazon fa servir una eina d'IA per tasques innecessàries per augmentar el seu ús",
-      "link_id": "c_b0529f",
-      "source": "Financial Times",
+      "title": "Cerebras augmenta el rang de la seva OPI amb l'objectiu de recaptar fins a 4,800 milions de dòlars",
+      "link_id": "c_e90123",
+      "source": "CNBC Technology",
+      "date": "2026-05-11",
+      "time": "13:46",
+      "summary": "Cerebras pretén cotitzar aviat després d'explorar una possible fusió amb OpenAI."
+    },
+    {
+      "title": "SoftBank ha invertit 450 milions de dòlars en aquesta empresa britànica de xips d'IA",
+      "link_id": "c_cd36d4",
+      "source": "CNBC Technology",
       "date": "2026-05-12",
-      "time": "04:00",
-      "summary": "L'eina interna MeshClaw permet als empleats delegar tasques a agents d'IA."
+      "time": "11:00",
+      "summary": "SoftBank inverteix 450 milions en Graphcore, impulsant el desenvolupament de xips d'IA al Regne Unit."
     },
     {
-      "title": "Amazon acel·lera la seva xarxa de repartiment amb entregues en 30 minuts",
+      "title": "Amazon accelera la cursa de lliuraments amb entregues de 30 minuts a desenes de ciutats nord-americanes",
       "link_id": "c_6704b0",
       "source": "CNBC Technology",
       "date": "2026-05-12",
       "time": "10:00",
-      "summary": "Amazon ha anat accelerant progressivament els seus plazos de repartiment."
+      "summary": "Amazon redueix els terminis de lliurament a 30 minuts per satisfer la demanda de rapidesa."
     },
     {
-      "title": "El CEO d'OpenAI diu que l'adoptació d'IA per a empreses és un punt de virada",
-      "link_id": "c_7a475a",
-      "source": "CNBC Technology",
-      "date": "2026-05-11",
-      "time": "20:04",
-      "summary": "OpenAI ha creat una empresa conjunta amb 19 grups d'inversió i consultoria."
+      "title": "Un assessor presidencial afirma que tots els coreans haurien de rebre un bonus d'IA",
+      "link_id": "c_127dba",
+      "source": "Financial Times",
+      "date": "2026-05-12",
+      "time": "06:33",
+      "summary": "El consell presidencial recomana un bonus d'IA, provocant caiguda de les accions de Samsung i SK Hynix."
     },
     {
-      "title": "Google diu que ha evitat un intent d'atac massiu amb IA",
-      "link_id": "c_ffde68",
-      "source": "CNBC Technology",
-      "date": "2026-05-11",
-      "time": "21:13",
-      "summary": "Hackers adopten ràpidament IA per trobar errors de programari."
+      "title": "El regulador de comunicacions dels EUA apunta a la tecnologia xinesa per riscos de seguretat",
+      "link_id": "c_1cd028",
+      "source": "Financial Times",
+      "date": "2026-05-12",
+      "time": "04:00",
+      "summary": "El FCC intensifica la vigilància sobre equips xinesos, de drons a routers, per motius de seguretat."
     },
     {
-      "title": "El CEO d'OpenAI diu que Musk no li va expressar preocupacions sobre la inversió de Microsoft",
-      "link_id": "c_a13de0",
-      "source": "CNBC Technology",
-      "date": "2026-05-11",
-      "time": "23:30",
-      "summary": "Musk va incloure Microsoft com a demandat al seu procés contra OpenAI."
+      "title": "Empleats d'Amazon utilitzen una eina d'IA per tasques innecessàries i inflar les puntuacions d'ús",
+      "link_id": "c_b0529f",
+      "source": "Financial Times",
+      "date": "2026-05-12",
+      "time": "04:00",
+      "summary": "Empleats d'Amazon usen MeshClaw per delegar tasques a IA i millorar la seva posició interna."
     },
     {
-      "title": "Els CEO's diuen que l'IA no està costant feines ara mateix, però les deslocalitzacions tecnològiques segueixen",
-      "link_id": "c_db2a82",
-      "source": "CNBC Technology",
-      "date": "2026-05-11",
-      "time": "16:17",
-      "summary": "Les empreses tecnològiques segueixen anunciant deslocalitzacions vinculades a l'IA."
+      "title": "Adoptaran els inversors el robot humanoide líder de la Xina?",
+      "link_id": "c_d08ce0",
+      "source": "Financial Times",
+      "date": "2026-05-12",
+      "time": "02:12",
+      "summary": "Unitree planeja una OPI aquest any, marcant un punt clau per a la indústria d'androids."
     },
     {
-      "title": "Un CEO prediu que l'índex Nasdaq arribarà a 30.000 amb l'expansió de l'IA",
-      "link_id": "c_9df5b0",
-      "source": "CNBC Technology",
-      "date": "2026-05-11",
-      "time": "12:53",
-      "summary": "Una bona temporada de resultats de tecnologia ha tranquil·litzat als inversors."
-    },
-    {
-      "title": "OpenAI donarà accés a un nou model de ciberseguretat a l'Europa",
-      "link_id": "c_84b7ff",
-      "source": "CNBC Technology",
-      "date": "2026-05-11",
-      "time": "11:38",
-      "summary": "OpenAI va anunciar que donaria accés a un nou model de ciberseguretat."
-    },
-    {
-      "title": "L'IA pot estar canviant els consells d'administració, segons un informe",
+      "title": "Necessiteu un director d'IA? Així la tecnologia transforma les sales de consell",
       "link_id": "c_b21e8b",
       "source": "CNBC Technology",
       "date": "2026-05-12",
       "time": "01:52",
-      "summary": "IBM va publicar un informe sobre el paper creixent de l'IA a les juntes."
+      "summary": "IBM revela que moltes empreses ja creen el càrrec de director d'IA per liderar la transformació digital."
+    },
+    {
+      "title": "Procés d'OpenAI: Nadella afirma que Musk mai li va plantejar dubtes sobre la inversió de Microsoft",
+      "link_id": "c_a13de0",
+      "source": "CNBC Technology",
+      "date": "2026-05-11",
+      "time": "23:30",
+      "summary": "Nadella afirma que Musk mai va expressar dubtes sobre la inversió de Microsoft a OpenAI."
     }
   ]
 }
-```
