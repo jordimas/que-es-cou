@@ -28,10 +28,13 @@ config/sources.yaml
               raw_feeds_*_filtered.json
                          │
                          ▼
-                    curate_*.md (Gemini)
+                    curate_*.md (Groq)
                          │
                          ▼
                     news.json
+                         │
+                         ▼
+                   validate.py
                          │
                          ▼
                     render.py
@@ -57,8 +60,11 @@ config/sources.yaml
   * Logs discarded articles to `filtered_tech.log`
 
 * **curate.py**
-  * Curates each filtered feed through Gemini API with `prompts/curate_CATEGORY.md`
+  * Curates each filtered feed through Groq API with `prompts/curate_CATEGORY.md`
   * Generates `news.json` with final curated articles in Catalan
+
+* **validate.py**
+  * Validates `news.json` structure before rendering
 
 * **render.py**
   * Renders `news.json` to `news.html` using Jinja2 template
