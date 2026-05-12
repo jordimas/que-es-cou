@@ -27,6 +27,7 @@ For world category, select up to 10 articles of news stories published following
 - "generated_at" must be today's date and current time in YYYY-MM-DDTHH:MM format, in Barcelona local time (Europe/Madrid timezone)
 - "summary" must be 20 words or fewer, written in Catalan. Count the words carefully — if it exceeds 20 words, shorten it. This limit is strict.
 - "link_id" must be the exact value of the `link_id` field from the feed item. Never derive, reconstruct, or infer a link_id.
+- Each link_id must appear at most once in the articles array. Never repeat the same article.
 - "source" is the publication name (e.g. "TechCrunch")
 - "date" is the article's publication date in YYYY-MM-DD format, taken from the RSS <pubDate> or <dc:date> tag. Never infer the date from context.
 - "time" is the article's publication time in HH:MM format (24h), taken from the same tag. Use "00:00" if not present.

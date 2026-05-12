@@ -106,6 +106,19 @@ def process_section(section_id, client):
             f"Groq output is not valid JSON for {section_id}: {e}\nOutput:\n{output[:500]}"
         )
 
+    # Deduplicate articles by link_id (LLM sometimes repeats the same article)
+    if "articles" in parsed:
+        seen_ids = set()
+        unique = []
+        for art in parsed["articles"]:
+            lid = art.get("link_id")
+            if lid not in seen_ids:
+                seen_ids.add(lid)
+                unique.append(art)
+        if len(unique) < len(parsed["articles"]):
+            print(f"  [{section_id}] removed {len(parsed['articles']) - len(unique)} duplicate articles")
+        parsed["articles"] = unique
+
     parsed["_meta"] = {
         "input_size_kb": input_size_kb,
         "api_time_s": api_time,
