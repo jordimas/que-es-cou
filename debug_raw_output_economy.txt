@@ -1,40 +1,24 @@
 {
-  "generated_at": "2026-05-12T17:18",
+  "generated_at": "2026-05-12T18:20",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Judici d'OpenAI: Nadella afirma que Musk mai li va plantejar dubtes sobre la inversió de Microsoft",
+      "title": "Judici d'OpenAI: Nadella afirma que Musk mai li va plantejar preocupacions sobre la inversió de Microsoft",
       "link_id": "c_a13de0",
       "source": "CNBC Technology",
       "date": "2026-05-12",
       "time": "15:37",
-      "summary": "Musk va incloure Microsoft com a demandat en la seva demanda contra OpenAI, segons Nadella."
+      "summary": "Nadella assegura que Musk no va expressar dubtes sobre la participació de Microsoft en OpenAI."
     },
     {
-      "title": "El fabricant de xips Cerebras s'uneix al cercle íntim d'OpenAI — a canvi d'un preu",
-      "link_id": "c_2e14e4",
-      "source": "Financial Times",
-      "date": "2026-05-12",
-      "time": "09:22",
-      "summary": "Entrar al món d'Altman podria suposar un gran benefici per a Cerebras."
-    },
-    {
-      "title": "Nadella afirma que l'intent d'expulsar Altman d'OpenAI era una 'ciutat amateur'",
+      "title": "Nadella diu que l'intent d'excloure l'Altman d'OpenAI era una 'ciutat amateur'",
       "link_id": "c_943e6a",
       "source": "Financial Times",
       "date": "2026-05-11",
       "time": "20:56",
-      "summary": "Nadella justifica el seu suport a Altman durant el cop d'estat del 2023, citat al judici de Musk."
-    },
-    {
-      "title": "Cerebras augmenta el rang d'IPO mentre busca recaptar fins a 4,800 milions de dòlars",
-      "link_id": "c_e90123",
-      "source": "CNBC Technology",
-      "date": "2026-05-11",
-      "time": "13:46",
-      "summary": "Cerebras pretén una oferta pública imminent, després d'esbossar una possible fusió amb OpenAI."
+      "summary": "Nadella critica l'intent d'expulsar l'Altman com una acció poc professional."
     },
     {
       "title": "Qualcomm cau un 13% mentre les accions de xips retrocedeixen del rècord impulsat per IA",
@@ -42,15 +26,15 @@
       "source": "CNBC Technology",
       "date": "2026-05-12",
       "time": "16:10",
-      "summary": "El repunte mostra que la inversió en IA s'estén més enllà de Nvidia."
+      "summary": "Qualcomm perd valor mentre els inversors redueixen les apostes en xips d'IA."
     },
     {
-      "title": "CME planeja llançar un mercat de futurs per a la potència de computació IA",
+      "title": "CME planeja llançar un mercat de futurs per a la potència de computació d'IA",
       "link_id": "c_4c1ee5",
       "source": "Financial Times",
       "date": "2026-05-12",
       "time": "16:05",
-      "summary": "Nous contractes permetran apostar i cobrir el preu futur del lloguer de GPU."
+      "summary": "CME vol crear contractes de futurs per comercialitzar la potència de càlcul d'IA."
     },
     {
       "title": "Amazon accelera la cursa de lliuraments amb entregues de 30 minuts a desenes de ciutats nord-americanes",
@@ -58,15 +42,15 @@
       "source": "CNBC Technology",
       "date": "2026-05-12",
       "time": "14:01",
-      "summary": "Amazon redueix progressivament els terminis de lliurament després d'èxit amb enviaments ràpids."
+      "summary": "Amazon ofereix entregues en 30 minuts, accelerant la competència en logística urbana."
     },
     {
-      "title": "El negoci de bateries de Panasonic impulsa guanys esperats d'EV per a Tesla",
+      "title": "El negoci de bateries de Panasonic es veu impulsat per les esperades guanys d'EV per a Tesla",
       "link_id": "c_96f444",
       "source": "Financial Times",
       "date": "2026-05-12",
       "time": "12:46",
-      "summary": "Panasonic preveu que Tesla augmenti la seva quota de mercat, impulsant les seves vendes de bateries."
+      "summary": "Panasonic preveu augmentar vendes de bateries gràcies al creixement dels EV de Tesla."
     },
     {
       "title": "Per què els americans temen la IA",
@@ -74,15 +58,31 @@
       "source": "Financial Times",
       "date": "2026-05-12",
       "time": "11:04",
-      "summary": "Silicon Valley promou la idea d'una IA imparable, amb suport aparent de Trump."
+      "summary": "L'article explora les pors dels americans davant l'avenç ràpid de la intel·ligència artificial."
     },
     {
-      "title": "SoftBank ha inverteix 450 milions de dòlars en aquesta empresa britànica de xips IA",
+      "title": "SoftBank ha inverteix 450 milions de dòlars en aquesta empresa britànica de xips d'IA",
       "link_id": "c_cd36d4",
       "source": "CNBC Technology",
       "date": "2026-05-12",
       "time": "11:00",
-      "summary": "Graphcore, creadora de xips IA del Regne Unit, va ser adquirida per SoftBank el 2024."
+      "summary": "SoftBank inverteix 450 milions en Graphcore, reforçant la seva aposta per xips d'IA al Regne Unit."
+    },
+    {
+      "title": "El fabricant de xips Cerebras s'uneix al cercle intern d'OpenAI — a un cost",
+      "link_id": "c_2e14e4",
+      "source": "Financial Times",
+      "date": "2026-05-12",
+      "time": "09:22",
+      "summary": "Cerebras entra al cercle d'OpenAI, pagant una suma significativa per accedir a la tecnologia."
+    },
+    {
+      "title": "Els sud-coreans haurien de rebre un bonus d'IA, afirma un assessor presidencial",
+      "link_id": "c_127dba",
+      "source": "Financial Times",
+      "date": "2026-05-12",
+      "time": "06:33",
+      "summary": "Un assessor del president sud-coreà proposa un bonus d'IA per a tots els ciutadans."
     }
   ]
 }

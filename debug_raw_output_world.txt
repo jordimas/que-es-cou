@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-05-12T19:18",
+  "generated_at": "2026-05-12T18:15",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Googlebooks no són només portàtils Android. Són un cavall de Troia per a Gemini",
-      "link_id": "c_9a0226",
-      "source": "PCWorld",
+      "title": "Googlebook és la nova plataforma d'ordinadors portàtils amb IA basada en Android",
+      "link_id": "c_3c4cd6",
+      "source": "TechCrunch",
       "date": "2026-05-12",
       "time": "17:00",
-      "summary": "Google presenta una nova línia de portàtils amb IA Gemini integrada, canviant el mercat dels portàtils."
+      "summary": "Google presenta un portàtil amb Android i Gemini, competint amb els Chromebooks."
     },
     {
-      "title": "Google fa el seu major impuls per convertir Gemini en un assistent real a Android",
-      "link_id": "c_f22362",
-      "source": "Android Authority",
-      "date": "2026-05-12",
-      "time": "17:00",
-      "summary": "Gemini s'integra profundament a Android, oferint assistència basada en IA per a tasques quotidianes."
-    },
-    {
-      "title": "EBay rebutja l'oferta d'adquisició de 56 mil milions de dòlars de GameStop",
+      "title": "eBay rebutja l'oferta de GameStop de 56.000 milions de dòlars",
       "link_id": "c_a4af6d",
       "source": "Bloomberg",
       "date": "2026-05-12",
       "time": "16:57",
-      "summary": "El consell d'EBay considera l'oferta no creïble ni atractiva i la descarta."
+      "summary": "El consell d'eBay declara l'oferta no creïble ni atractiva."
     },
     {
-      "title": "Waymo retira robots de taxi després que un vehicle circulés per una carretera inundada",
+      "title": "Android afegeix funció per frenar el desplaçament infinit",
+      "link_id": "c_c3f671",
+      "source": "TechCrunch",
+      "date": "2026-05-12",
+      "time": "17:00",
+      "summary": "Nou 'Pause Point' introdueix una pausa de 10 segons per reduir l'addicció."
+    },
+    {
+      "title": "OpenAI llança Daybreak per competir amb Mythos d'Anthropic",
+      "link_id": "c_97d682",
+      "source": "Bloomberg",
+      "date": "2026-05-12",
+      "time": "16:19",
+      "summary": "Daybreak combina GPT-5.5 i Codex per detectar vulnerabilitats i protegir programari."
+    },
+    {
+      "title": "Altman testimonia sobre la conversa 'espantosa' amb Musk",
+      "link_id": "c_78b9bf",
+      "source": "Bloomberg",
+      "date": "2026-05-12",
+      "time": "17:35",
+      "summary": "Altman declara que la discussió amb Musk va ser incòmoda i perillosa."
+    },
+    {
+      "title": "Waymo retira robotaxis per conduir en zones inundades",
       "link_id": "c_ca9937",
       "source": "Bloomberg",
       "date": "2026-05-12",
       "time": "12:16",
-      "summary": "Una fallada de programari podria fer que els vehicles autonomes entrin en zones inundades."
+      "summary": "Actualització de programari obliga als vehicles a ser més cautelosos amb aigua."
     },
     {
-      "title": "Hack de Canvas: l'empresa paga criminals per eliminar les dades robades dels estudiants",
-      "link_id": "c_452672",
-      "source": "BBC Technology",
+      "title": "Google i SpaceX discuteixen centres de dades a l'òrbita",
+      "link_id": "c_62d4b9",
+      "source": "TechCrunch",
       "date": "2026-05-12",
-      "time": "10:31",
-      "summary": "Instructure paga per recuperar dades compromeses i evitar futures extorsions."
+      "time": "17:30",
+      "summary": "Google explora llançar servidors al cosmos amb l'ajuda de SpaceX."
     },
     {
-      "title": "La indústria de serveis legals d'IA s'escalfa. Anthropic s'uneix a l'acció",
-      "link_id": "c_fdd4a6",
+      "title": "Anthropic alerta inversors contra plataformes secundàries no autoritzades",
+      "link_id": "c_01e6d6",
+      "source": "TechCrunch",
+      "date": "2026-05-12",
+      "time": "17:36",
+      "summary": "L'empresa denuncia que diverses plataformes venen accés il·legal a les seves accions."
+    },
+    {
+      "title": "Android millora el bloqueig de trucades fraudulentes",
+      "link_id": "c_0e7511",
+      "source": "Digital Trends",
+      "date": "2026-05-12",
+      "time": "17:00",
+      "summary": "Nova funció finalitza automàticament trucades que suposen suplantació bancària."
+    },
+    {
+      "title": "Google afegeix dictat amb Gemini a Gboard",
+      "link_id": "c_e434ea",
       "source": "TechCrunch",
       "date": "2026-05-12",
       "time": "17:00",
-      "summary": "Anthropic llança noves eines per ajudar advocats amb assistents d'intel·ligència artificial."
-    },
-    {
-      "title": "La FCC retira la prohibició d'actualitzacions de routers abans d'afectar la seguretat de la xarxa americana",
-      "link_id": "c_68a7bc",
-      "source": "The Register",
-      "date": "2026-05-12",
-      "time": "18:50",
-      "summary": "La decisió evita que milions de routers quedin sense actualitzacions de seguretat."
-    },
-    {
-      "title": "‘Pause Point’ és l'actualització de Benestar Digital que Google necessitava des de fa anys",
-      "link_id": "c_3f260b",
-      "source": "9to5Google",
-      "date": "2026-05-12",
-      "time": "17:05",
-      "summary": "La funció força una pausa abans d'obrir aplicacions addictives, reduint el doomscrolling."
-    },
-    {
-      "title": "Google anuncia noves eines de seguretat per a Android, incloent protecció millorada contra trucades fraudulentes de bancs",
-      "link_id": "c_4020bd",
-      "source": "TechCrunch",
-      "date": "2026-05-12",
-      "time": "17:00",
-      "summary": "Les noves eines bloquegen automàticament les trucades de suplantació bancària."
-    },
-    {
-      "title": "Google portarà suport d'AirDrop a la majoria de telèfons Android aquest any",
-      "link_id": "c_984ea3",
-      "source": "9to5Google",
-      "date": "2026-05-12",
-      "time": "17:10",
-      "summary": "La funció permet compartir fitxers entre Android i dispositius Apple sense cables."
+      "summary": "Gboard incorpora transcripció avançada, potencialment competint amb startups de dictat."
     }
   ]
 }
