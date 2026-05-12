@@ -1,13 +1,13 @@
 ```json
 {
-  "generated_at": "2026-05-12T12:02",
+  "generated_at": "2026-05-12T12:18",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
     {
       "name": "Ara.cat",
       "url": "https://www.ara.cat/rss/",
-      "articles_found": 10
+      "articles_found": 0
     },
     {
       "name": "El Periódico",
@@ -22,7 +22,7 @@
     {
       "name": "La Vanguardia (en català)",
       "url": "https://www.lavanguardia.com/rss/encatala.xml",
-      "articles_found": 5
+      "articles_found": 7
     },
     {
       "name": "VilaWeb",
@@ -47,7 +47,7 @@
     {
       "name": "El Nacional.cat",
       "url": "https://www.elnacional.cat/uploads/feeds/feed_ca.xml",
-      "articles_found": 14
+      "articles_found": 16
     },
     {
       "name": "El Mon.cat",
@@ -77,7 +77,7 @@
     {
       "name": "Segre",
       "url": "https://www.segre.com/ca/rss/home.xml",
-      "articles_found": 5
+      "articles_found": 4
     },
     {
       "name": "Regio7",
@@ -192,7 +192,7 @@
     {
       "name": "Ara Balears",
       "url": "https://www.arabalears.cat/rss/",
-      "articles_found": 5
+      "articles_found": 4
     },
     {
       "name": "Manacor Comarcal",
@@ -217,76 +217,12 @@
   ],
   "articles": [
     {
-      "title": "Selectivitat: es faran servir detectors per evitar que els estudiants copiïn amb el mòbil",
-      "link_id": "c_d7b1bf",
-      "source": "Ara.cat",
-      "date": "2026-05-11",
-      "time": "12:59",
-      "summary": "Per primer cop es faran servir detectors durant les PAU per evitar que els estudiants copiïn amb dispositius electrònics."
-    },
-    {
-      "title": "Nissan acomiadarà 211 treballadors, un 37% de la seva plantilla a Catalunya",
-      "link_id": "c_b41d8c",
-      "source": "Ara.cat",
-      "date": "2026-05-11",
-      "time": "15:26",
-      "summary": "Nissan acomiadarà 211 treballadors a Catalunya, un 37% de la seva plantilla, segons un ERO."
-    },
-    {
-      "title": "Rheinmetall i Deutsche Telekom s'alien per blindar Alemanya contra els drons",
-      "link_id": "c_02df9f",
-      "source": "Ara.cat",
-      "date": "2026-05-12",
-      "time": "05:00",
-      "summary": "Rheinmetall i Deutsche Telekom formen una aliança per desenvolupar un escut de defensa contra drons."
-    },
-    {
-      "title": "Catalunya és el 7è 'hub' mundial en assajos clínics",
-      "link_id": "c_043531",
-      "source": "Ara.cat",
-      "date": "2026-05-11",
-      "time": "16:04",
-      "summary": "Catalunya és el 7è 'hub' mundial en assajos clínics amb 5.768 estudis en marxa."
-    },
-    {
-      "title": "El consum d'influenciadors en català es dispara un 70%",
-      "link_id": "c_9a43bc",
-      "source": "Ara.cat",
-      "date": "2026-05-11",
-      "time": "14:28",
-      "summary": "El consum de contingut digital en català ha crescut un 72% respecte a l’any anterior."
-    },
-    {
-      "title": "La Casa Batlló obre al públic l'últim habitatge original de l'edifici",
-      "link_id": "c_3a5104",
-      "source": "Ara.cat",
-      "date": "2026-05-11",
-      "time": "09:01",
-      "summary": "La Casa Batlló obre al públic l’últim pis habitat pels descendents de la família Batlló."
-    },
-    {
-      "title": "Indra vol contractar 1.500 nous empleats a Catalunya",
-      "link_id": "c_db65c5",
-      "source": "Ara.cat",
-      "date": "2026-05-11",
-      "time": "05:09",
-      "summary": "Indra vol generar 1.500 nous llocs de treball a Catalunya fins al 2027."
-    },
-    {
-      "title": "La IA ja concentra més del 60% de la inversió mundial en 'start-ups'",
-      "link_id": "c_e67fc5",
-      "source": "Ara.cat",
-      "date": "2026-05-11",
-      "time": "10:55",
-      "summary": "La IA concentrarà el 60% del capital risc del planeta el 2025, segons un informe de PwC."
-    },
-    {
       "title": "Cala, la nova empresa de projecció global que vol que el futur dels agents d’IA passi per Barcelona",
       "link_id": "c_aed79a",
       "source": "El Periódico",
       "date": "2026-05-11",
       "time": "16:01",
-      "summary": "Cala, nova empresa de Barcelona, vol transformar la relació entre humans i IA."
+      "summary": "Cala vol construir infraestructura per a agents d’IA amb solucions accessibles."
     },
     {
       "title": "L’abús de ChatGPT passa factura al cervell: llasta la memòria i la capacitat de raonament",
@@ -294,7 +230,71 @@
       "source": "El Periódico",
       "date": "2026-05-09",
       "time": "06:01",
-      "summary": "L’abús de ChatGPT pot afectar la memòria i la capacitat de raonament, segons estudis."
+      "summary": "L’ús excessiu de ChatGPT pot afectar la memòria i el raonament."
+    },
+    {
+      "title": "Cop a la privacitat: Instagram elimina a partir d’avui el xifratge d’extrem a extrem dels teus missatges",
+      "link_id": "c_dac681",
+      "source": "El Periódico",
+      "date": "2026-05-08",
+      "time": "08:36",
+      "summary": "Instagram deixa de protegir els missatges amb xifratge d’extrem a extrem."
+    },
+    {
+      "title": "Catalunya instal·larà detectors de dispositius electrònics durant els exàmens de selectivitat d'aquest any",
+      "link_id": "c_5cd105",
+      "source": "RAC1",
+      "date": "2026-05-11",
+      "time": "15:30",
+      "summary": "Catalunya utilitzarà detectors per evitar l’ús d’electrònics a l’examen."
+    },
+    {
+      "title": "La IA ja atreu 6 de cada 10 dòlars que s’inverteixen en capital risc al món",
+      "link_id": "c_e0c76b",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-05-11",
+      "time": "05:34",
+      "summary": "L’IA atrau la majoria de les inversions en capital risc global."
+    },
+    {
+      "title": "L’ús maliciós de la IA en processos electorals: gairebé la meitat de països del món l’ha patit",
+      "link_id": "c_162a57",
+      "source": "324.cat",
+      "date": "2026-05-11",
+      "time": "14:20",
+      "summary": "L’IA afecta processos electorals a gairebé la meitat dels països."
+    },
+    {
+      "title": "El robot que la Xina enviarà a la Lluna sembla alienígena, però és capaç d'utilitzar eines humanes",
+      "link_id": "c_dfc5ad",
+      "source": "El Nacional.cat",
+      "date": "2026-05-12",
+      "time": "12:00",
+      "summary": "Xina envia un robot a la Lluna per utilitzar eines com un humà."
+    },
+    {
+      "title": "La intel·ligència artificial pot detectar el càncer de pàncrees amb anys d'antelació",
+      "link_id": "c_1c92eb",
+      "source": "El Nacional.cat",
+      "date": "2026-05-12",
+      "time": "08:01",
+      "summary": "Un model d’IA detecta càncer de pàncrees amb anys d’anticipació."
+    },
+    {
+      "title": "Neix a Catalunya el videojoc amb IA que podria canviar el tractament del TDAH infantil",
+      "link_id": "c_0a5832",
+      "source": "MetaData",
+      "date": "2026-05-11",
+      "time": "16:11",
+      "summary": "Un videojoc català combina IA i realitat virtual per ajudar infants amb TDAH."
+    },
+    {
+      "title": "Barcelona es postula per acollir el congrés espacial més important del món el 2029",
+      "link_id": "c_be9bf3",
+      "source": "MetaData",
+      "date": "2026-05-08",
+      "time": "09:10",
+      "summary": "Barcelona vol acollir el congrés espacial més important del món el 2029."
     }
   ]
 }

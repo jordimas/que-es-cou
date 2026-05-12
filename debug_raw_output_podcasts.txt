@@ -1,6 +1,6 @@
 ```json
 {
-  "generated_at": "2026-05-12T10:02",
+  "generated_at": "2026-05-12T10:18",
   "id": "podcasts",
   "title": "Podcasts en català sobre tecnologia",
   "sources_checked": [],
@@ -11,7 +11,7 @@
       "source": "Mossega la poma",
       "date": "2026-05-09",
       "time": "08:26",
-      "summary": "Parlem de Polymarket i les apostes descontrolades i analitzem el paper de les pantalles en la vida dels menors."
+      "summary": "Es debat sobre Polymarket i les apostes descontrolades amb la UPC."
     },
     {
       "title": "MacBook Neo i exemples de processos avançats amb IA – programa 662",
@@ -19,7 +19,7 @@
       "source": "Mossega la poma",
       "date": "2026-04-29",
       "time": "16:34",
-      "summary": "En Marc analitza el nou MacBook Neo i es detallen processos avançats amb la intel·ligència artificial."
+      "summary": "Anàlisi del nou MacBook Neo i aplicacions avançades d'IA."
     },
     {
       "title": "L' Altra Ràdio - El DMTforum 2026: la gran trobada del sector català de les telecomunicacions",
@@ -27,7 +27,7 @@
       "source": "L'altra ràdio",
       "date": "2026-05-07",
       "time": "07:33",
-      "summary": "Guillermo Canal explica els detalls del DMTforum 2026, una trobada clau del sector de les telecomunicacions."
+      "summary": "El DMTforum 2026, organitzat per FECEMINTE i CECABLE."
     },
     {
       "title": "L' Altra Ràdio - La computació quàntica",
@@ -35,7 +35,7 @@
       "source": "L'altra ràdio",
       "date": "2026-04-30",
       "time": "07:33",
-      "summary": "Mariona Sanz del BSC explica la computació quàntica i presenta Quilimanjaro, una empresa emergent en aquest camp."
+      "summary": "Mariona Sanz explica la computació quàntica i Quilimanjaro."
     },
     {
       "title": "El gòTIC - Tenim una missió! del 29/4/2026",
@@ -43,7 +43,7 @@
       "source": "El Gòtic",
       "date": "2026-04-28",
       "time": "16:29",
-      "summary": "Des del gòTIC Ajuntament de Tàrrega, es comparteixen recursos per abordar reptes digitals de la ciutadania."
+      "summary": "El gòTIC Ajuntament de Tàrrega comparteix recursos digitals."
     },
     {
       "title": "L’històric cercador Ask Jeeves tanca",
@@ -51,7 +51,7 @@
       "source": "Societat de la Informació",
       "date": "2026-05-05",
       "time": "10:05",
-      "summary": "Ask Jeeves, un dels primers cercadors, tanca després de 30 anys d’activitat."
+      "summary": "Ask Jeeves tanca després de 30 anys de funcionament."
     },
     {
       "title": "El manifest de Palantir, l'acord del Pentàgon amb vuit grans empreses d'IA i el relleu al capdavant d'Apple.",
@@ -59,7 +59,7 @@
       "source": "Internet amb Genís Roca",
       "date": "2026-05-01",
       "time": "20:10",
-      "summary": "Genís Roca analitza el manifest de Palantir, l’acord del Pentàgon i el canvi de lideratge a Apple."
+      "summary": "Es comenta el manifest de Palantir i el relleu d'Apple."
     },
     {
       "title": "Més palanques que el mecànic de Las Vegas",
@@ -67,7 +67,7 @@
       "source": "Foc a Terra",
       "date": "2026-05-11",
       "time": "04:00",
-      "summary": "Eduard Romeu, expert en finançament, parla de finançament i gestió econòmica en empreses."
+      "summary": "Eduard Romeu parla de finançament i gestió."
     },
     {
       "title": "Foc you, Tim Apple",
@@ -75,7 +75,7 @@
       "source": "Foc a Terra",
       "date": "2026-05-04",
       "time": "04:00",
-      "summary": "Un monogràfic dedicat a Tim Apple i el relleu generacional a Apple."
+      "summary": "Monogràfic sobre Tim Apple i la seva influència."
     },
     {
       "title": "WordPress 7.0, sense Real Time Collaboration",
@@ -83,7 +83,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-05-12",
       "time": "00:00",
-      "summary": "El Real Time Collaboration arribarà a WordPress 7.1 i no a la versió 7.0."
+      "summary": "WordPress 7.0 sense col·laboració en temps real."
     },
     {
       "title": "L’API de presència",
@@ -91,7 +91,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-05-05",
       "time": "00:00",
-      "summary": "Nova API de presència a WordPress amb funcionalitats per a editors."
+      "summary": "Nova API de presència a WordPress."
     },
     {
       "title": "WordPress 7.0 d’aquí a 3 setmanes",
@@ -99,7 +99,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-04-28",
       "time": "00:00",
-      "summary": "WordPress 7.0 tindrà un nou llançament previst per al 20 de maig."
+      "summary": "WordPress 7.0 es llançarà el 20 de maig."
     },
     {
       "title": "Capítol 64: \"Obrir una gelateria és un dels negocis més rendibles a hores d'ara a la ciutat de Barcelona”",
@@ -107,7 +107,7 @@
       "source": "RAC&GO",
       "date": "2026-05-05",
       "time": "06:19",
-      "summary": "Una història d’emprenedoria: quatre amics obren una gelateria a Barcelona."
+      "summary": "Quatre amics obren una gelateria a Barcelona."
     }
   ]
 }

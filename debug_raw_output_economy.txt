@@ -1,6 +1,6 @@
 ```json
 {
-  "generated_at": "2026-05-12T13:02",
+  "generated_at": "2026-05-12T13:18",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [
@@ -22,7 +22,7 @@
     {
       "name": "CNBC Technology",
       "url": "https://www.cnbc.com/id/19854910/device/rss/rss.html",
-      "articles_found": 10
+      "articles_found": 17
     }
   ],
   "articles": [
@@ -35,47 +35,47 @@
       "summary": "Les accions de Samsung i SK Hynix baixen després dels comentaris d'un cap de política."
     },
     {
-      "title": "La regulació de comunicacions dels EUA apunta a la tecnologia xinesa per riscos de seguretat",
-      "link_id": "c_1cd028",
-      "source": "Financial Times",
-      "date": "2026-05-12",
-      "time": "04:00",
-      "summary": "El cap de l'FCC, Brendan Carr, aplica pressió sobre productes des de drons fins a routers."
-    },
-    {
-      "title": "Els empleats d'Amazon utilitzen una eina d'IA per tasques innecessàries per augmentar el seu ús",
+      "title": "Amazon fa servir una eina d'IA per tasques innecessàries per augmentar el seu ús",
       "link_id": "c_b0529f",
       "source": "Financial Times",
       "date": "2026-05-12",
       "time": "04:00",
-      "summary": "La ferramenta interna MeshClaw permet delegar tasques a agents d'IA."
+      "summary": "L'eina interna MeshClaw permet als empleats delegar tasques a agents d'IA."
     },
     {
-      "title": "Investidors consideren Unitree, el campeó xinès de robots humanoides",
-      "link_id": "c_d08ce0",
-      "source": "Financial Times",
+      "title": "Amazon acel·lera la seva xarxa de repartiment amb entregues en 30 minuts",
+      "link_id": "c_6704b0",
+      "source": "CNBC Technology",
       "date": "2026-05-12",
-      "time": "02:12",
-      "summary": "Unitree pot fer una oferta pública d'acions aquest any."
+      "time": "10:00",
+      "summary": "Amazon ha anat accelerant progressivament els seus plazos de repartiment."
     },
     {
-      "title": "Nadella diu que l'intent de treure Altman d'OpenAI va ser 'ciutat amateur'",
-      "link_id": "c_943e6a",
-      "source": "Financial Times",
+      "title": "El CEO d'OpenAI diu que l'adoptació d'IA per a empreses és un punt de virada",
+      "link_id": "c_7a475a",
+      "source": "CNBC Technology",
       "date": "2026-05-11",
-      "time": "20:56",
-      "summary": "El cap de Microsoft explica la seva decisió durant el judici d'Elon Musk."
+      "time": "20:04",
+      "summary": "OpenAI ha creat una empresa conjunta amb 19 grups d'inversió i consultoria."
     },
     {
-      "title": "El judici d'OpenAI revela rivalitats darrere del creixement de 852.000 milions de dòlars",
-      "link_id": "c_f0c9c7",
-      "source": "Financial Times",
-      "date": "2026-05-10",
-      "time": "06:00",
-      "summary": "El judici d'Elon Musk entra a la setmana final amb testimonis clau."
+      "title": "Google diu que ha evitat un intent d'atac massiu amb IA",
+      "link_id": "c_ffde68",
+      "source": "CNBC Technology",
+      "date": "2026-05-11",
+      "time": "21:13",
+      "summary": "Hackers adopten ràpidament IA per trobar errors de programari."
     },
     {
-      "title": "Hassett diu que l'IA no costa feina ara mateix, però les deslocalitzacions tecnològiques segueixen",
+      "title": "El CEO d'OpenAI diu que Musk no li va expressar preocupacions sobre la inversió de Microsoft",
+      "link_id": "c_a13de0",
+      "source": "CNBC Technology",
+      "date": "2026-05-11",
+      "time": "23:30",
+      "summary": "Musk va incloure Microsoft com a demandat al seu procés contra OpenAI."
+    },
+    {
+      "title": "Els CEO's diuen que l'IA no està costant feines ara mateix, però les deslocalitzacions tecnològiques segueixen",
       "link_id": "c_db2a82",
       "source": "CNBC Technology",
       "date": "2026-05-11",
@@ -83,28 +83,28 @@
       "summary": "Les empreses tecnològiques segueixen anunciant deslocalitzacions vinculades a l'IA."
     },
     {
-      "title": "OpenAI: Nadella diu que Musk no li va expressar preocupacions sobre la inversió de Microsoft",
-      "link_id": "c_a13de0",
+      "title": "Un CEO prediu que l'índex Nasdaq arribarà a 30.000 amb l'expansió de l'IA",
+      "link_id": "c_9df5b0",
       "source": "CNBC Technology",
       "date": "2026-05-11",
-      "time": "23:30",
-      "summary": "Musk va incloure Microsoft com a demandat al seu judici contra OpenAI."
+      "time": "12:53",
+      "summary": "Una bona temporada de resultats de tecnologia ha tranquil·litzat als inversors."
     },
     {
-      "title": "Google diu que va ensopegar un intent d'utilitzar IA per a 'mass exploitation event'",
-      "link_id": "c_ffde68",
+      "title": "OpenAI donarà accés a un nou model de ciberseguretat a l'Europa",
+      "link_id": "c_84b7ff",
       "source": "CNBC Technology",
       "date": "2026-05-11",
-      "time": "21:13",
-      "summary": "Hackers adopten ràpidament l'IA per trobar vulnerabilitats de programari."
+      "time": "11:38",
+      "summary": "OpenAI va anunciar que donaria accés a un nou model de ciberseguretat."
     },
     {
-      "title": "OpenAI: El cap diu que l'adopció d'IA per a empreses és 'al punt de viratge'",
-      "link_id": "c_7a475a",
+      "title": "L'IA pot estar canviant els consells d'administració, segons un informe",
+      "link_id": "c_b21e8b",
       "source": "CNBC Technology",
-      "date": "2026-05-11",
-      "time": "20:04",
-      "summary": "OpenAI ha creat una empresa amb 19 grups d'inversió i consultoria."
+      "date": "2026-05-12",
+      "time": "01:52",
+      "summary": "IBM va publicar un informe sobre el paper creixent de l'IA a les juntes."
     }
   ]
 }

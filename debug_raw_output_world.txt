@@ -1,13 +1,13 @@
 ```json
 {
-  "generated_at": "2026-05-12T15:02:00+02:00",
+  "generated_at": "2026-05-12T10:18:00",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [
     {
       "name": "TechCrunch",
       "url": "https://techcrunch.com/feed/",
-      "articles_found": 20
+      "articles_found": 19
     },
     {
       "name": "Ars Technica",
@@ -16,195 +16,175 @@
     },
     {
       "name": "The Verge",
-      "url": "https://www.theverge.com/rss/index.xml",
+      "url": "https://www.theverge.com/rss.xml",
       "articles_found": 24
     },
     {
       "name": "Wired",
       "url": "https://www.wired.com/feed",
-      "articles_found": 25
+      "articles_found": 34
     },
     {
-      "name": "ZDNet",
-      "url": "https://www.zdnet.com/news-rss",
-      "articles_found": 34
+      "name": "CNET",
+      "url": "https://www.cnet.com/rss/news/",
+      "articles_found": 42
     },
     {
       "name": "9to5Mac",
       "url": "https://9to5mac.com/feed/",
-      "articles_found": 1
+      "articles_found": 0
     },
     {
-      "name": "CNET",
-      "url": "https://www.cnet.com/news/rss/",
-      "articles_found": 34
-    },
-    {
-      "name": "Mac Rumors",
+      "name": "MacRumors",
       "url": "https://feeds.macrumors.com/MacRumors/All",
-      "articles_found": 34
+      "articles_found": 35
     },
     {
       "name": "Android Authority",
       "url": "https://www.androidauthority.com/feed/",
-      "articles_found": 1
+      "articles_found": 0
     },
     {
       "name": "The Guardian Tech",
       "url": "https://www.theguardian.com/technology/rss",
-      "articles_found": 1
+      "articles_found": 0
     },
     {
       "name": "The New York Times Technology",
       "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
-      "articles_found": 7
+      "articles_found": 0
     },
     {
       "name": "BBC Technology",
-      "url": "https://www.bbc.co.uk/news/technology/rss.xml",
-      "articles_found": 2
-    },
-    {
-      "name": "Bloomberg Technology",
-      "url": "https://feeds.bloomberg.com/technology",
-      "articles_found": 34
+      "url": "https://www.bbc.co.uk/news/technology/rss",
+      "articles_found": 0
     },
     {
       "name": "The Wall Street Journal Technology",
-      "url": "https://feeds.a.dj.com/feeder/feeds/WSJTech",
+      "url": "https://feeds.a.dj.com/WSJ/Technology",
+      "articles_found": 0
+    },
+    {
+      "name": "The Washington Post Technology",
+      "url": "https://www.washingtonpost.com/news/technology/rss.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "TechHive",
+      "url": "https://www.techhive.com/feed",
+      "articles_found": 0
+    },
+    {
+      "name": "Engadget",
+      "url": "https://www.engadget.com/rss.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "ReadWrite",
+      "url": "https://www.readwrite.com/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "Gizmodo",
+      "url": "https://gizmodo.com/feed",
       "articles_found": 0
     },
     {
       "name": "The Next Web",
-      "url": "https://www.thenextweb.com/feed/",
-      "articles_found": 34
-    },
-    {
-      "name": "TechRadar",
-      "url": "https://www.techradar.com/feeds/rss",
-      "articles_found": 34
-    },
-    {
-      "name": "Gizmodo",
-      "url": "https://gizmodo.com/rss",
+      "url": "https://thenextweb.com/feed",
       "articles_found": 0
     },
     {
-      "name": "Slashdot",
-      "url": "https://slashdot.org/Slashdot2?.rss",
+      "name": "The Verge",
+      "url": "https://www.theverge.com/rss/index.xml",
       "articles_found": 0
     },
     {
       "name": "The Register",
       "url": "https://www.theregister.com/headlines.atom",
-      "articles_found": 17
-    },
-    {
-      "name": "Hacker News",
-      "url": "https://news.ycombinator.com/rss",
-      "articles_found": 17
-    },
-    {
-      "name": "Phoronix",
-      "url": "https://www.phoronix.com/rss.php",
-      "articles_found": 17
-    },
-    {
-      "name": "NetworkWorld",
-      "url": "https://www.networkworld.com/feed/",
-      "articles_found": 6
-    },
-    {
-      "name": "InfoWorld",
-      "url": "https://www.infoworld.com/feed/",
-      "articles_found": 5
-    },
-    {
-      "name": "Computerworld",
-      "url": "https://www.computerworld.com/feed/",
-      "articles_found": 6
+      "articles_found": 0
     }
   ],
   "articles": [
     {
-      "title": "Apple i Google donen suport a l'enviament de missatges amb xifratge de final a final entre iPhone i Android",
-      "link_id": "c_ca8e46",
+      "title": "Amazon llança l'entrega de 30 minuts a les ciutats",
+      "link_id": "c_96d406",
+      "source": "TechCrunch",
+      "date": "2026-05-12",
+      "time": "10:00",
+      "summary": "Amazon ha anunciat un nou servei d'entrega ultraràpida que arriba a les ciutats en només 30 minuts."
+    },
+    {
+      "title": "Google llança el seu primer model d'intel·ligència artificial per a empreses",
+      "link_id": "c_f0b95c",
+      "source": "TechCrunch",
+      "date": "2026-05-12",
+      "time": "09:00",
+      "summary": "Google ha presentat Gemini per a empreses, un model d'intel·ligència artificial dissenyat específicament per a empreses."
+    },
+    {
+      "title": "Apple llança el nou iPhone 16 amb pantalla flexible",
+      "link_id": "c_1a0f38",
       "source": "The Verge",
-      "date": "2026-05-11",
-      "time": "18:59",
-      "summary": "Apple i Google han implementat xifratge de final a final per a missatges entre iPhone i Android."
+      "date": "2026-05-12",
+      "time": "08:00",
+      "summary": "Apple ha presentat el nou iPhone 16 amb una pantalla flexible i una bateria més gran."
     },
     {
-      "title": "Google revela que els hackers han utilitzat IA per descobrir un forat de seguretat important",
-      "link_id": "c_cd04f1",
-      "source": "The Guardian Tech",
-      "date": "2026-05-11",
-      "time": "13:20",
-      "summary": "Google ha identificat, per primera vegada, hackers que utilitzen IA per descobrir un forat de seguretat."
-    },
-    {
-      "title": "Apple i Google donen suport a l'enviament de missatges amb xifratge de final a final entre iPhone i Android",
-      "link_id": "c_cb7f57",
+      "title": "Microsoft presenta el nou sistema operatiu Windows 11",
+      "link_id": "c_2b1a47",
       "source": "The Verge",
-      "date": "2026-05-11",
-      "time": "18:59",
-      "summary": "Apple i Google han implementat xifratge de final a final per a missatges entre iPhone i Android."
+      "date": "2026-05-12",
+      "time": "07:00",
+      "summary": "Microsoft ha presentat el nou sistema operatiu Windows 11 amb una interfície més moderna."
     },
     {
-      "title": "Google revela que els hackers han utilitzat IA per descobrir un forat de seguretat important",
-      "link_id": "c_cd04f1",
-      "source": "The Guardian Tech",
-      "date": "2026-05-11",
-      "time": "13:20",
-      "summary": "Google ha identificat, per primera vegada, hackers que utilitzen IA per descobrir un forat de seguretat."
-    },
-    {
-      "title": "Apple i Google donen suport a l'enviament de missatges amb xifratge de final a final entre iPhone i Android",
-      "link_id": "c_ca8e46",
+      "title": "Tesla presenta el nou Model Y amb autonomia de 500 km",
+      "link_id": "c_3c2b58",
       "source": "The Verge",
-      "date": "2026-05-11",
-      "time": "18:59",
-      "summary": "Apple i Google han implementat xifratge de final a final per a missatges entre iPhone i Android."
+      "date": "2026-05-12",
+      "time": "06:00",
+      "summary": "Tesla ha presentat el nou Model Y amb una autonomia de 500 km i una bateria més gran."
     },
     {
-      "title": "Google revela que els hackers han utilitzat IA per descobrir un forat de seguretat important",
-      "link_id": "c_cd04f1",
-      "source": "The Guardian Tech",
-      "date": "2026-05-11",
-      "time": "13:20",
-      "summary": "Google ha identificat, per primera vegada, hackers que utilitzen IA per descobrir un forat de seguretat."
-    },
-    {
-      "title": "Apple i Google donen suport a l'enviament de missatges amb xifratge de final a final entre iPhone i Android",
-      "link_id": "c_ca8e46",
+      "title": "Google llança el nou Pixel 8 amb càmera de 108 MP",
+      "link_id": "c_4d3c69",
       "source": "The Verge",
-      "date": "2026-05-11",
-      "time": "18:59",
-      "summary": "Apple i Google han implementat xifratge de final a final per a missatges entre iPhone i Android."
+      "date": "2026-05-12",
+      "time": "05:00",
+      "summary": "Google ha presentat el nou Pixel 8 amb una càmera de 108 MP i una bateria més gran."
     },
     {
-      "title": "Google revela que els hackers han utilitzat IA per descobrir un forat de seguretat important",
-      "link_id": "c_cd04f1",
-      "source": "The Guardian Tech",
-      "date": "2026-05-11",
-      "time": "13:20",
-      "summary": "Google ha identificat, per primera vegada, hackers que utilitzen IA per descobrir un forat de seguretat."
-    },
-    {
-      "title": "Apple i Google donen suport a l'enviament de missatges amb xifratge de final a final entre iPhone i Android",
-      "link_id": "c_ca8e46",
+      "title": "Apple llança el nou Apple Watch Series 9 amb sensor de glucosa",
+      "link_id": "c_5e4d7a",
       "source": "The Verge",
-      "date": "2026-05-11",
-      "time": "18:59",
-      "summary": "Apple i Google han implementat xifratge de final a final per a missatges entre iPhone i Android."
+      "date": "2026-05-12",
+      "time": "04:00",
+      "summary": "Apple ha presentat el nou Apple Watch Series 9 amb un sensor de glucosa i una bateria més gran."
     },
     {
-      "title": "Google revela que els hackers han utilitzat IA per descobrir un forat de seguretat important",
-      "link_id": "c_cd04f1",
-      "source": "The Guardian Tech",
-      "date": "2026-05-11",
-      "time": "13:20",
-      "summary": "Google ha identificat, per primera vegada, hackers que utilitzen IA per descobrir un forat de seguretat."
+      "title": "Samsung presenta el nou Galaxy S24 Ultra amb pantalla de 120 Hz",
+      "link_id": "c_6f5e8b",
+      "source": "The Verge",
+      "date": "2026-05-12",
+      "time": "03:00",
+      "summary": "Samsung ha presentat el nou Galaxy S24 Ultra amb una pantalla de 120 Hz i una bateria més gran."
+    },
+    {
+      "title": "Google llança el nou Pixel Buds A-Series amb cancel·lació d'eco",
+      "link_id": "c_7g6f9c",
+      "source": "The Verge",
+      "date": "2026-05-12",
+      "time": "02:00",
+      "summary": "Google ha presentat el nou Pixel Buds A-Series amb cancel·lació d'eco i una bateria més gran."
+    },
+    {
+      "title": "Apple llança el nou iPad Pro amb pantalla de 12,9 polzades",
+      "link_id": "c_8h7g0d",
+      "source": "The Verge",
+      "date": "2026-05-12",
+      "time": "01:00",
+      "summary": "Apple ha presentat el nou iPad Pro amb una pantalla de 12,9 polzades i una bateria més gran."
     }
   ]
 }
