@@ -1,8 +1,14 @@
 {
-  "generated_at": "2024-05-24T15:30",
+  "generated_at": "2026-05-12T13:02",
   "id": "events",
   "title": "Trobades",
-  "sources_checked": [],
+  "sources_checked": [
+    {
+      "name": "GDG Barcelona",
+      "url": "https://www.meetup.com/GDG-Barcelona/events/rss/",
+      "articles_found": 2
+    }
+  ],
   "articles": [
     {
       "title": "Google I/O 2026 extended Watch Party Barcelona with SCRM - Schwarz Digits",
@@ -10,7 +16,7 @@
       "source": "GDG Barcelona",
       "date": "2026-05-05",
       "time": "15:16",
-      "summary": "Gaudeix de la retransmissió en directe amb tecnologia, menjar, begudes i networking. Cal reservar plaça prèviament."
+      "summary": "Es presenta la Google I/O 2026 amb xerrades, xarxa i gastronomia."
     },
     {
       "title": "[Build with AI]: Build Your First AI Agent with Google ADK",
@@ -18,7 +24,7 @@
       "source": "GDG Barcelona",
       "date": "2026-05-01",
       "time": "16:49",
-      "summary": "Taller pràctic per programar des de zero un agent d'intel·ligència artificial i un sistema RAG amb Google ADK."
+      "summary": "Taller per construir el primer agent d'intel·ligència artificial amb Google ADK."
     }
   ]
 }

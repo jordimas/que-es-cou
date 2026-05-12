@@ -1,40 +1,179 @@
+```json
 {
-  "generated_at": "2024-05-24T16:00",
+  "generated_at": "2026-05-12T12:02",
   "id": "videos",
   "title": "Vídeos en català sobre tecnologia",
-  "sources_checked": [],
+  "sources_checked": [
+    {
+      "name": "Xboxers Catalans",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBm6DJY3FsyD2XJ0g4pAsRw",
+      "articles_found": 1
+    },
+    {
+      "name": "Catalunya PlayStation",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC55Cx5vewLvwhp9Fa4OLHww",
+      "articles_found": 1
+    },
+    {
+      "name": "Pixelats",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvIm1hoOtrsfcdr_ks2cUcw",
+      "articles_found": 2
+    },
+    {
+      "name": "3D Nassos",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPn2HQEQSbjULALiegrFZqw",
+      "articles_found": 1
+    },
+    {
+      "name": "Societat Catalana de Tecnologia",
+      "url": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLJPVNzVlFt_AvbkxyvC-OcCVRLKoPIKvM",
+      "articles_found": 0
+    },
+    {
+      "name": "Gaming.cat",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCx3wbFNjfS7YKyrarN5MA_g",
+      "articles_found": 2
+    },
+    {
+      "name": "Barra Inversa",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgWFb6UGJIdF_bOtgO5fgaA",
+      "articles_found": 5
+    },
+    {
+      "name": "Lúdica (Vídeos)",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwc91vuY2XulsDR7Gb-EGhg",
+      "articles_found": 5
+    }
+  ],
   "articles": [
+    {
+      "title": "Campionat Forza Rivals - 7ª Temporada - 7ª - Nordshleife - Càster @pol_aeri + Almoracers",
+      "link_id": "c_3ecdb0",
+      "source": "Xboxers Catalans",
+      "date": "2026-05-09",
+      "time": "11:58",
+      "summary": "Un nou capítol del Campionat Forza Rivals amb carreres intensives al Nordshleife."
+    },
     {
       "title": "A què hem estat jugant aquest abril",
       "link_id": "c_261ebf",
       "source": "Catalunya PlayStation",
       "date": "2026-04-30",
       "time": "18:00",
-      "summary": "Repàs mensual dels títols més destacats i les experiències de joc de la comunitat durant l'abril."
+      "summary": "Resum dels videojocs destacats d'abril, amb anàlisi i recomanacions."
     },
     {
-      "title": "Pixelats vs. KEYWE!! 🥝🥝",
-      "link_id": "c_e65d43",
+      "title": "Els Putxinel·lis - Capítol 8 - Nous Clients",
+      "link_id": "c_eb3b8a",
       "source": "Pixelats",
-      "date": "2026-04-23",
+      "date": "2026-05-08",
       "time": "10:01",
-      "summary": "Nova partida cooperativa plena de caos i rialles gestionant una oficina de correus amb dos kiwis."
+      "summary": "Nova aventura amb els Putxinel·lis i la seva estratègia per atraure nous clients."
     },
     {
-      "title": "Els Putxinel·lis - Capítol 7 - L'Escletxa",
-      "link_id": "c_965d63",
+      "title": "Pixelats vs. 3DSEN!! 🤯📽️",
+      "link_id": "c_baa177",
       "source": "Pixelats",
-      "date": "2026-04-23",
+      "date": "2026-05-08",
       "time": "10:01",
-      "summary": "Setè episodi d'aquesta sèrie on la tensió augmenta i els personatges s'enfronten a nous reptes inesperats."
+      "summary": "Un nou confronte entre Pixelats i 3DSEN en aquesta temporada."
     },
     {
-      "title": "🎙️Lúdica #54 - L’ecosistema Steam",
+      "title": "POTI-POTI VIDEOJOCS: puja el preu de PS5, canvi de rumb a Xbox, filtracions de Nintendo Direct 🎮",
+      "link_id": "c_bf6ad9",
+      "source": "3D Nassos",
+      "date": "2026-04-12",
+      "time": "19:30",
+      "summary": "Anàlisi dels últims canvis en el món dels videojocs i novetats en consolas."
+    },
+    {
+      "title": "Club del Videojoc - Steamworld Dig",
+      "link_id": "c_176317",
+      "source": "Gaming.cat",
+      "date": "2026-01-30",
+      "time": "13:00",
+      "summary": "Resenya i anàlisi del videojoc Steamworld Dig."
+    },
+    {
+      "title": "Club del Videojoc - Plants vs Zombies",
+      "link_id": "c_afe185",
+      "source": "Gaming.cat",
+      "date": "2026-01-28",
+      "time": "21:53",
+      "summary": "Resenya i anàlisi del videojoc Plants vs Zombies."
+    },
+    {
+      "title": "¿Quánta penya treballa a Docusign?",
+      "link_id": "c_4cc8d7",
+      "source": "Barra Inversa",
+      "date": "2026-03-09",
+      "time": "16:05",
+      "summary": "Anàlisi de la situació laboral a Docusign i el seu impacte."
+    },
+    {
+      "title": "71. Lo de Apple serà una baixona",
+      "link_id": "c_7d929b",
+      "source": "Barra Inversa",
+      "date": "2026-02-27",
+      "time": "15:01",
+      "summary": "Anàlisi de la situació actual d'Apple i les seves perspectives."
+    },
+    {
+      "title": "Sabem el teu PIN del mòbil",
+      "link_id": "c_1a474d",
+      "source": "Barra Inversa",
+      "date": "2026-02-24",
+      "time": "13:27",
+      "summary": "Explicació de com poden aconseguir el PIN dels mòbils i com protegir-se."
+    },
+    {
+      "title": "71. Rapport lunar",
+      "link_id": "c_0e828f",
+      "source": "Barra Inversa",
+      "date": "2026-02-13",
+      "time": "18:00",
+      "summary": "Resum dels esdeveniments tecnològics i digitals d'aquest mes."
+    },
+    {
+      "title": "Fugint de Telegram",
+      "link_id": "c_03fa93",
+      "source": "Barra Inversa",
+      "date": "2026-02-11",
+      "time": "09:56",
+      "summary": "Motius i alternatives per deixar Telegram i passar a altres plataformes."
+    },
+    {
+      "title": "Lúdica #54 - L’ecosistema Steam",
       "link_id": "c_a8981d",
       "source": "Lúdica (Vídeos)",
       "date": "2026-05-01",
       "time": "08:34",
-      "summary": "Anàlisi profunda sobre la plataforma de Valve, el seu impacte en la indústria i el mercat digital."
+      "summary": "Anàlisi de l’ecosistema Steam i el seu paper en el món dels videojocs."
+    },
+    {
+      "title": "Lúdica #53 - Paradox Interactive: l’imperi de la gran estratègia",
+      "link_id": "c_18d9bb",
+      "source": "Lúdica (Vídeos)",
+      "date": "2026-03-24",
+      "time": "17:09",
+      "summary": "Resum de l’empresa Paradox Interactive i els seus videojocs d’estratègia."
+    },
+    {
+      "title": "Lúdica #52 - Ciberpunk i subgèneres derivats",
+      "link_id": "c_7077a1",
+      "source": "Lúdica (Vídeos)",
+      "date": "2026-02-20",
+      "time": "11:30",
+      "summary": "Anàlisi del gènere ciberpunk i els seus subgèneres en videojocs."
+    },
+    {
+      "title": "Lúdica #51 - Millors de 2025 / Esperats de 2026",
+      "link_id": "c_3333aa",
+      "source": "Lúdica (Vídeos)",
+      "date": "2026-01-23",
+      "time": "11:54",
+      "summary": "Resum dels millors videojocs de 2025 i els esperats per al 2026."
     }
   ]
 }
+```

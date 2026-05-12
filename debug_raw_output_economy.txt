@@ -1,88 +1,111 @@
+```json
 {
-  "generated_at": "2026-05-06T20:13",
+  "generated_at": "2026-05-12T13:02",
   "id": "economy",
   "title": "Notícies econòmiques del món",
-  "sources_checked": [],
+  "sources_checked": [
+    {
+      "name": "The Economist",
+      "url": "https://www.economist.com/science-and-technology/rss.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "Financial Times",
+      "url": "https://www.ft.com/technology?format=rss",
+      "articles_found": 10
+    },
+    {
+      "name": "Wall Street Journal",
+      "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "CNBC Technology",
+      "url": "https://www.cnbc.com/id/19854910/device/rss/rss.html",
+      "articles_found": 10
+    }
+  ],
   "articles": [
     {
-      "title": "Anthropic i SpaceX anuncien un acord informàtic que inclou el desenvolupament espacial",
-      "link_id": "c_dd13d0",
-      "source": "CNBC Technology",
-      "date": "2026-05-06",
-      "time": "17:47",
-      "summary": "L'aliança permetrà a Anthropic utilitzar tota la capacitat del centre de dades Colossus 1 de SpaceX a Memphis."
-    },
-    {
-      "title": "Samsung supera el bilió de dòlars de valoració impulsada per la febre de la IA",
-      "link_id": "c_8bab95",
-      "source": "CNBC Technology",
-      "date": "2026-05-06",
-      "time": "09:12",
-      "summary": "Els beneficis operatius del primer trimestre s'han multiplicat per vuit, disparant les accions de la companyia tecnològica sud-coreana."
-    },
-    {
-      "title": "La inversió en R+D d'Apple supera el 10% de les vendes per la urgència de la IA",
-      "link_id": "c_7a1f3b",
-      "source": "CNBC Technology",
-      "date": "2026-05-06",
-      "time": "18:08",
-      "summary": "La despesa en recerca creix el doble de ràpid que els ingressos, marcant una fita inèdita en trenta anys."
-    },
-    {
-      "title": "La fàbrica de xips Terafab d'Elon Musk a Texas podria costar fins a 119.000 milions de dòlars",
-      "link_id": "c_02a0a1",
-      "source": "CNBC Technology",
-      "date": "2026-05-06",
-      "time": "17:56",
-      "summary": "Aquesta macroinstal·lació pretén fabricar semiconductors clau per abastir les futures necessitats de Tesla, SpaceX i xAI."
-    },
-    {
-      "title": "La consellera delegada d'AMD justifica la millora de les previsions després de disparar-se un 15% a borsa",
-      "link_id": "c_296769",
-      "source": "CNBC Technology",
-      "date": "2026-05-06",
-      "time": "17:22",
-      "summary": "Lisa Su duplica les estimacions a llarg termini gràcies a la forta demanda de processadors i als bons resultats."
-    },
-    {
-      "title": "Aquesta acció d'IA es donava per morta, però ara els inversors aposten per la seva recuperació",
-      "link_id": "c_3380f7",
-      "source": "CNBC Technology",
-      "date": "2026-05-06",
-      "time": "16:47",
-      "summary": "El volum d'opcions de compra mostra una clara tendència alcista, reflectint un renovat optimisme en el mercat."
-    },
-    {
-      "title": "Nvidia invertirà 3.200 milions en Corning per obrir tres fàbriques de fibra òptica centrades en IA",
-      "link_id": "c_bd5e49",
-      "source": "CNBC Technology",
-      "date": "2026-05-06",
-      "time": "16:36",
-      "summary": "Les noves plantes als Estats Units es dedicaran exclusivament a desenvolupar tecnologies òptiques avançades per al gegant dels xips."
-    },
-    {
-      "title": "Truqueu als meus agents: instantànies del futur del treball",
-      "link_id": "c_df85d4",
+      "title": "Un assessor presidencial diu que a Corea tothom hauria de rebre un bonificació d'intel·ligència artificial",
+      "link_id": "c_127dba",
       "source": "Financial Times",
-      "date": "2026-05-06",
-      "time": "16:00",
-      "summary": "Els empleats mostren més predisposició que els directius a adoptar ràpidament la intel·ligència artificial i l'automatització laboral."
+      "date": "2026-05-12",
+      "time": "06:33",
+      "summary": "Les accions de Samsung i SK Hynix baixen després dels comentaris d'un cap de política."
     },
     {
-      "title": "Uber es veu afectada pel conflicte al Pròxim Orient malgrat el fort volum de reserves",
-      "link_id": "c_0e3fc3",
+      "title": "La regulació de comunicacions dels EUA apunta a la tecnologia xinesa per riscos de seguretat",
+      "link_id": "c_1cd028",
       "source": "Financial Times",
-      "date": "2026-05-06",
-      "time": "13:38",
-      "summary": "L'empresa de mobilitat registra ingressos inferiors als previstos al primer trimestre, tot i mantenir unes perspectives de futur optimistes."
+      "date": "2026-05-12",
+      "time": "04:00",
+      "summary": "El cap de l'FCC, Brendan Carr, aplica pressió sobre productes des de drons fins a routers."
     },
     {
-      "title": "Els \"perdedors\" de la IA haurien de ser compensats amb reciclatge professional, segons un exsecretari del gabinet",
-      "link_id": "c_b49e37",
+      "title": "Els empleats d'Amazon utilitzen una eina d'IA per tasques innecessàries per augmentar el seu ús",
+      "link_id": "c_b0529f",
       "source": "Financial Times",
-      "date": "2026-05-06",
-      "time": "11:37",
-      "summary": "Gus O'Donnell demana finançament per ensenyar noves habilitats als treballadors desplaçats per l'avenç d'aquesta nova tecnologia."
+      "date": "2026-05-12",
+      "time": "04:00",
+      "summary": "La ferramenta interna MeshClaw permet delegar tasques a agents d'IA."
+    },
+    {
+      "title": "Investidors consideren Unitree, el campeó xinès de robots humanoides",
+      "link_id": "c_d08ce0",
+      "source": "Financial Times",
+      "date": "2026-05-12",
+      "time": "02:12",
+      "summary": "Unitree pot fer una oferta pública d'acions aquest any."
+    },
+    {
+      "title": "Nadella diu que l'intent de treure Altman d'OpenAI va ser 'ciutat amateur'",
+      "link_id": "c_943e6a",
+      "source": "Financial Times",
+      "date": "2026-05-11",
+      "time": "20:56",
+      "summary": "El cap de Microsoft explica la seva decisió durant el judici d'Elon Musk."
+    },
+    {
+      "title": "El judici d'OpenAI revela rivalitats darrere del creixement de 852.000 milions de dòlars",
+      "link_id": "c_f0c9c7",
+      "source": "Financial Times",
+      "date": "2026-05-10",
+      "time": "06:00",
+      "summary": "El judici d'Elon Musk entra a la setmana final amb testimonis clau."
+    },
+    {
+      "title": "Hassett diu que l'IA no costa feina ara mateix, però les deslocalitzacions tecnològiques segueixen",
+      "link_id": "c_db2a82",
+      "source": "CNBC Technology",
+      "date": "2026-05-11",
+      "time": "16:17",
+      "summary": "Les empreses tecnològiques segueixen anunciant deslocalitzacions vinculades a l'IA."
+    },
+    {
+      "title": "OpenAI: Nadella diu que Musk no li va expressar preocupacions sobre la inversió de Microsoft",
+      "link_id": "c_a13de0",
+      "source": "CNBC Technology",
+      "date": "2026-05-11",
+      "time": "23:30",
+      "summary": "Musk va incloure Microsoft com a demandat al seu judici contra OpenAI."
+    },
+    {
+      "title": "Google diu que va ensopegar un intent d'utilitzar IA per a 'mass exploitation event'",
+      "link_id": "c_ffde68",
+      "source": "CNBC Technology",
+      "date": "2026-05-11",
+      "time": "21:13",
+      "summary": "Hackers adopten ràpidament l'IA per trobar vulnerabilitats de programari."
+    },
+    {
+      "title": "OpenAI: El cap diu que l'adopció d'IA per a empreses és 'al punt de viratge'",
+      "link_id": "c_7a475a",
+      "source": "CNBC Technology",
+      "date": "2026-05-11",
+      "time": "20:04",
+      "summary": "OpenAI ha creat una empresa amb 19 grups d'inversió i consultoria."
     }
   ]
 }
+```

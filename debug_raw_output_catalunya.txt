@@ -1,88 +1,301 @@
+```json
 {
-  "generated_at": "2026-05-06T18:15",
+  "generated_at": "2026-05-12T12:02",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
-  "sources_checked": [],
+  "sources_checked": [
+    {
+      "name": "Ara.cat",
+      "url": "https://www.ara.cat/rss/",
+      "articles_found": 10
+    },
+    {
+      "name": "El Periódico",
+      "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
+      "articles_found": 3
+    },
+    {
+      "name": "RAC1",
+      "url": "https://www.rac1.cat/rss/home.xml",
+      "articles_found": 1
+    },
+    {
+      "name": "La Vanguardia (en català)",
+      "url": "https://www.lavanguardia.com/rss/encatala.xml",
+      "articles_found": 5
+    },
+    {
+      "name": "VilaWeb",
+      "url": "https://www.vilaweb.cat/feed/",
+      "articles_found": 1
+    },
+    {
+      "name": "NacióDigital",
+      "url": "https://www.naciodigital.cat/rss/tecnologia",
+      "articles_found": 0
+    },
+    {
+      "name": "324.cat",
+      "url": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0",
+      "articles_found": 5
+    },
+    {
+      "name": "Softcatalà",
+      "url": "https://www.softcatala.org/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "El Nacional.cat",
+      "url": "https://www.elnacional.cat/uploads/feeds/feed_ca.xml",
+      "articles_found": 14
+    },
+    {
+      "name": "El Mon.cat",
+      "url": "https://www.elmon.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "El Mon.cat Tecnologia",
+      "url": "https://elmon.cat/tecnologia/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "El Mon.cat Societat",
+      "url": "https://elmon.cat/societat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "Betevé",
+      "url": "https://beteve.cat/feed/",
+      "articles_found": 1
+    },
+    {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/barcelona.feed?type=rss",
+      "articles_found": 0
+    },
+    {
+      "name": "Segre",
+      "url": "https://www.segre.com/ca/rss/home.xml",
+      "articles_found": 5
+    },
+    {
+      "name": "Regio7",
+      "url": "https://www.regio7.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Diari d'Andorra",
+      "url": "https://www.diariandorra.ad/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Bon Dia Andorra",
+      "url": "https://www.bondia.ad/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Altaveu",
+      "url": "https://www.altaveu.com/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Nuvol",
+      "url": "https://www.nuvol.com/feed",
+      "articles_found": 0
+    },
+    {
+      "name": "Diari Mes",
+      "url": "https://www.diarimes.com/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Directe.cat",
+      "url": "https://www.directe.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Cugat.cat",
+      "url": "https://www.cugat.cat/feed/",
+      "articles_found": 2
+    },
+    {
+      "name": "CatalunyaPress",
+      "url": "https://www.catalunyapress.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Tot Barcelona",
+      "url": "https://www.totbarcelona.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "e-notícies",
+      "url": "https://www.e-noticies.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Lleida Diari",
+      "url": "https://www.lleidadiari.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "Catorze",
+      "url": "https://www.catorze.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Xarxanet",
+      "url": "https://www.xarxanet.org/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Bondia",
+      "url": "https://www.bondia.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "MetaData",
+      "url": "https://www.metadata.cat/sindica",
+      "articles_found": 7
+    },
+    {
+      "name": "El Temps",
+      "url": "https://www.eltemps.cat/sindica",
+      "articles_found": 0
+    },
+    {
+      "name": "Àpunt",
+      "url": "https://www.apuntmedia.es/rss/",
+      "articles_found": 0
+    },
+    {
+      "name": "El Periòdic d'Ontinyent",
+      "url": "https://www.elperiodicvalencia.com/?feed=rss2",
+      "articles_found": 1
+    },
+    {
+      "name": "Saó",
+      "url": "https://www.revistasao.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "Diari de Balears",
+      "url": "https://www.diaridebalears.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "IB3 Notícies",
+      "url": "https://ib3.org/feed/",
+      "articles_found": 1
+    },
+    {
+      "name": "Ara Balears",
+      "url": "https://www.arabalears.cat/rss/",
+      "articles_found": 5
+    },
+    {
+      "name": "Manacor Comarcal",
+      "url": "https://manacorcomarcal.com/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Via Empresa",
+      "url": "https://www.viaempresa.cat/uploads/feeds/feed_via-empresa-2024_ca.xml",
+      "articles_found": 11
+    },
+    {
+      "name": "Lúdica",
+      "url": "https://ludica.cat/feed/",
+      "articles_found": 1
+    },
+    {
+      "name": "Accent Obert",
+      "url": "https://accentobert.cat/feed/",
+      "articles_found": 0
+    }
+  ],
   "articles": [
     {
-      "title": "L'Audiència de Barcelona veu indicis de delicte en la causa per espionatge amb Pegasus a Òmnium",
-      "link_id": "c_73f413",
-      "source": "324.cat",
-      "date": "2026-05-06",
-      "time": "16:41",
-      "summary": "El tribunal demana desclassificar documents del CNI per avançar en la investigació sobre el ciberespionatge als activistes."
-    },
-    {
-      "title": "La robòtica es dispara a Catalunya i ja factura prop de 1.000 milions d’euros",
-      "link_id": "c_b0f90e",
-      "source": "MetaData",
-      "date": "2026-05-06",
-      "time": "08:45",
-      "summary": "El sector consolida el territori com un hub europeu clau per a la Indústria 4.0, duplicant la seva mida."
-    },
-    {
-      "title": "La família Pujol recupera la majoria a Ficosa",
-      "link_id": "c_412a3e",
+      "title": "Selectivitat: es faran servir detectors per evitar que els estudiants copiïn amb el mòbil",
+      "link_id": "c_d7b1bf",
       "source": "Ara.cat",
-      "date": "2026-05-06",
-      "time": "09:44",
-      "summary": "El conseller delegat recompra les accions de Panasonic, retornant el control total del fabricant d'automoció als seus fundadors."
+      "date": "2026-05-11",
+      "time": "12:59",
+      "summary": "Per primer cop es faran servir detectors durant les PAU per evitar que els estudiants copiïn amb dispositius electrònics."
     },
     {
-      "title": "Els Premis Innovació Barcelona premien a les startups que estan redefinint el futur de la innovació",
-      "link_id": "c_9e5afd",
-      "source": "Via Empresa",
-      "date": "2026-05-06",
-      "time": "10:54",
-      "summary": "El guardó reconeix projectes emergents en salut, sostenibilitat i inclusió dins l'ecosistema tecnològic del districte 22@."
-    },
-    {
-      "title": "Per què aquesta escola dels EUA ha retirat tots els ordinadors portàtils dels alumnes?",
-      "link_id": "c_fded52",
+      "title": "Nissan acomiadarà 211 treballadors, un 37% de la seva plantilla a Catalunya",
+      "link_id": "c_b41d8c",
       "source": "Ara.cat",
-      "date": "2026-05-06",
-      "time": "04:55",
-      "summary": "Un institut de Kansas elimina les pantalles a les aules per intentar recuperar l'atenció i concentració dels estudiants."
+      "date": "2026-05-11",
+      "time": "15:26",
+      "summary": "Nissan acomiadarà 211 treballadors a Catalunya, un 37% de la seva plantilla, segons un ERO."
     },
     {
-      "title": "El frau elèctric es dispara: a Catalunya se’n detecta un cada tres hores",
-      "link_id": "c_e4b24b",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-05-05",
-      "time": "09:40",
-      "summary": "Les connexions il·legals a la xarxa augmenten dràsticament, impulsades en gran part per les plantacions clandestines de marihuana."
+      "title": "Rheinmetall i Deutsche Telekom s'alien per blindar Alemanya contra els drons",
+      "link_id": "c_02df9f",
+      "source": "Ara.cat",
+      "date": "2026-05-12",
+      "time": "05:00",
+      "summary": "Rheinmetall i Deutsche Telekom formen una aliança per desenvolupar un escut de defensa contra drons."
     },
     {
-      "title": "\"Eren fotos amb la meva cara, els meus llençols... però no era el meu cos, tot i que està molt ben fet\": un cas de sextorsió a Telegram amb imatges falses",
-      "link_id": "c_613086",
-      "source": "RAC1",
-      "date": "2026-05-06",
-      "time": "12:41",
-      "summary": "Els delinqüents utilitzen intel·ligència artificial per manipular fotografies i fer xantatge econòmic a les víctimes sota amenaça de difusió."
+      "title": "Catalunya és el 7è 'hub' mundial en assajos clínics",
+      "link_id": "c_043531",
+      "source": "Ara.cat",
+      "date": "2026-05-11",
+      "time": "16:04",
+      "summary": "Catalunya és el 7è 'hub' mundial en assajos clínics amb 5.768 estudis en marxa."
     },
     {
-      "title": "Bizum Pay arriba a les botigues físiques i desafia Visa i Mastercard en els pagaments mòbils",
-      "link_id": "c_3b7f58",
-      "source": "MetaData",
-      "date": "2026-05-06",
-      "time": "16:25",
-      "summary": "Aquesta nova funció permetrà abonar compres presencials directament des del mòbil, fomentant una xarxa de pagament europea independent."
+      "title": "El consum d'influenciadors en català es dispara un 70%",
+      "link_id": "c_9a43bc",
+      "source": "Ara.cat",
+      "date": "2026-05-11",
+      "time": "14:28",
+      "summary": "El consum de contingut digital en català ha crescut un 72% respecte a l’any anterior."
     },
     {
-      "title": "La IA amb què xateges està filtrant les teves converses, segons un estudi",
-      "link_id": "c_905a9f",
+      "title": "La Casa Batlló obre al públic l'últim habitatge original de l'edifici",
+      "link_id": "c_3a5104",
+      "source": "Ara.cat",
+      "date": "2026-05-11",
+      "time": "09:01",
+      "summary": "La Casa Batlló obre al públic l’últim pis habitat pels descendents de la família Batlló."
+    },
+    {
+      "title": "Indra vol contractar 1.500 nous empleats a Catalunya",
+      "link_id": "c_db65c5",
+      "source": "Ara.cat",
+      "date": "2026-05-11",
+      "time": "05:09",
+      "summary": "Indra vol generar 1.500 nous llocs de treball a Catalunya fins al 2027."
+    },
+    {
+      "title": "La IA ja concentra més del 60% de la inversió mundial en 'start-ups'",
+      "link_id": "c_e67fc5",
+      "source": "Ara.cat",
+      "date": "2026-05-11",
+      "time": "10:55",
+      "summary": "La IA concentrarà el 60% del capital risc del planeta el 2025, segons un informe de PwC."
+    },
+    {
+      "title": "Cala, la nova empresa de projecció global que vol que el futur dels agents d’IA passi per Barcelona",
+      "link_id": "c_aed79a",
       "source": "El Periódico",
-      "date": "2026-05-05",
-      "time": "10:43",
-      "summary": "Els models com ChatGPT aprenen i retenen dades personals dels usuaris, generant nous reptes sobre la privacitat digital."
+      "date": "2026-05-11",
+      "time": "16:01",
+      "summary": "Cala, nova empresa de Barcelona, vol transformar la relació entre humans i IA."
     },
     {
-      "title": "Nestlé planteja un ERO de 178 persones a Catalunya, la majoria a les oficines d'Esplugues",
-      "link_id": "c_41800d",
-      "source": "324.cat",
-      "date": "2026-05-06",
-      "time": "16:34",
-      "summary": "La multinacional retallarà llocs de treball tècnics i administratius malgrat haver registrat una facturació rècord durant l'any passat."
+      "title": "L’abús de ChatGPT passa factura al cervell: llasta la memòria i la capacitat de raonament",
+      "link_id": "c_64a6ea",
+      "source": "El Periódico",
+      "date": "2026-05-09",
+      "time": "06:01",
+      "summary": "L’abús de ChatGPT pot afectar la memòria i la capacitat de raonament, segons estudis."
     }
   ]
 }
+```
