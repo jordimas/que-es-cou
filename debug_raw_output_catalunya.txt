@@ -1,21 +1,26 @@
 {
-  "generated_at": "2026-05-12T18:30",
+  "generated_at": "2026-05-13T07:52",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
     {
-      "name": "Àpunt",
-      "url": "https://www.apuntmedia.es/rss/",
-      "articles_found": 1
-    },
-    {
       "name": "Ara.cat",
       "url": "https://www.ara.cat/rss/",
-      "articles_found": 3
+      "articles_found": 2
     },
     {
-      "name": "MetaData",
-      "url": "https://www.metadata.cat/sindica",
+      "name": "El Periódico",
+      "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "RAC1",
+      "url": "https://www.rac1.cat/rss/home.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "La Vanguardia (en català)",
+      "url": "https://www.lavanguardia.com/rss/encatala.xml",
       "articles_found": 1
     },
     {
@@ -24,24 +29,199 @@
       "articles_found": 1
     },
     {
-      "name": "El Periódico",
-      "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
-      "articles_found": 3
+      "name": "NacióDigital",
+      "url": "https://www.naciodigital.cat/rss/tecnologia",
+      "articles_found": 0
+    },
+    {
+      "name": "324.cat",
+      "url": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0",
+      "articles_found": 2
+    },
+    {
+      "name": "Softcatalà",
+      "url": "https://www.softcatala.org/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "El Nacional.cat",
+      "url": "https://www.elnacional.cat/uploads/feeds/feed_ca.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "El Mon.cat",
+      "url": "https://www.elmon.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "El Mon.cat Tecnologia",
+      "url": "https://elmon.cat/tecnologia/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "El Mon.cat Societat",
+      "url": "https://elmon.cat/societat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "Betevé",
+      "url": "https://beteve.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/barcelona.feed?type=rss",
+      "articles_found": 0
     },
     {
       "name": "Segre",
       "url": "https://www.segre.com/ca/rss/home.xml",
-      "articles_found": 1
+      "articles_found": 2
+    },
+    {
+      "name": "Regio7",
+      "url": "https://www.regio7.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Diari d'Andorra",
+      "url": "https://www.diariandorra.ad/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Bon Dia Andorra",
+      "url": "https://www.bondia.ad/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Altaveu",
+      "url": "https://www.altaveu.com/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Nuvol",
+      "url": "https://www.nuvol.com/feed",
+      "articles_found": 0
+    },
+    {
+      "name": "Diari Mes",
+      "url": "https://www.diarimes.com/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Directe.cat",
+      "url": "https://www.directe.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Cugat.cat",
+      "url": "https://www.cugat.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "CatalunyaPress",
+      "url": "https://www.catalunyapress.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Tot Barcelona",
+      "url": "https://www.totbarcelona.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "e-notícies",
+      "url": "https://www.e-noticies.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Lleida Diari",
+      "url": "https://www.lleidadiari.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "Catorze",
+      "url": "https://www.catorze.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Xarxanet",
+      "url": "https://www.xarxanet.org/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Bondia",
+      "url": "https://www.bondia.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "MetaData",
+      "url": "https://www.metadata.cat/sindica",
+      "articles_found": 0
+    },
+    {
+      "name": "El Temps",
+      "url": "https://www.eltemps.cat/sindica",
+      "articles_found": 0
+    },
+    {
+      "name": "Àpunt",
+      "url": "https://www.apuntmedia.es/rss/",
+      "articles_found": 0
+    },
+    {
+      "name": "El Periòdic d'Ontinyent",
+      "url": "https://www.elperiodicvalencia.com/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Saó",
+      "url": "https://www.revistasao.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "Diari de Balears",
+      "url": "https://www.diaridebalears.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "IB3 Notícies",
+      "url": "https://ib3.org/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "Ara Balears",
+      "url": "https://www.arabalears.cat/rss/",
+      "articles_found": 0
+    },
+    {
+      "name": "Manacor Comarcal",
+      "url": "https://manacorcomarcal.com/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Via Empresa",
+      "url": "https://www.viaempresa.cat/uploads/feeds/feed_via-empresa-2024_ca.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "Lúdica",
+      "url": "https://ludica.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "Accent Obert",
+      "url": "https://accentobert.cat/feed/",
+      "articles_found": 0
     }
   ],
   "articles": [
     {
-      "title": "La UPV actualitza la normativa contra el frau per a evitar l'ús de dispositius i IA en exàmens",
-      "link_id": "c_56b2c2",
-      "source": "Àpunt",
+      "title": "El consum de contingut en català a les xarxes creix un 72% en un any, per sobre de la producció",
+      "link_id": "c_6e0c80",
+      "source": "324.cat",
       "date": "2026-05-12",
-      "time": "13:11",
-      "summary": "Detectors per a la selectivitat: mes seguretat i limitació d'ús de mòbils a exàmens."
+      "time": "20:38",
+      "summary": "El consum de contingut digital en català supera la producció, impulsat per Instagram i TikTok, segons l’estudi d’Accent Obert."
     },
     {
       "title": "Von der Leyen carrega contra les 'big-tech' i s'obre a establir una majoria d'edat digital",
@@ -49,63 +229,39 @@
       "source": "Ara.cat",
       "date": "2026-05-12",
       "time": "10:43",
-      "summary": "Von der Leyen proposa edat mínima per a menors a xarxes socials, reforçant protecció digital."
+      "summary": "La presidenta europea proposa una edat mínima per a menors a xarxes socials, buscant protegir la joventut digital."
     },
     {
-      "title": "Les visualitzacions de contingut en català es disparen un 71,7% i consoliden un ecosistema digital propi",
-      "link_id": "c_2d32df",
-      "source": "MetaData",
+      "title": "La indústria catalana s'apunta al negoci de la defensa i Indra s'ofereix per obrir-li portes",
+      "link_id": "c_292ec7",
+      "source": "324.cat",
       "date": "2026-05-12",
-      "time": "15:51",
-      "summary": "Consum de contingut en català puja un 71,7%, consolidant un ecosistema digital pròpi."
+      "time": "06:42",
+      "summary": "Indra busca expandir-se al sector defensa, oferint solucions tecnològiques per impulsar la indústria catalana."
     },
     {
-      "title": "Google diu que ha frenat el primer atac informàtic creat amb intel·ligència artificial",
-      "link_id": "c_0dbbc9",
+      "title": "El gran engany dels paquets industrials de formatge ratllat",
+      "link_id": "c_b036d3",
+      "source": "Ara.cat",
+      "date": "2026-05-10",
+      "time": "16:00",
+      "summary": "Paquets de formatge ratllat contenen greixos vegetals i midó, enganyant consumidors sobre la veritable composició."
+    },
+    {
+      "title": "El servei de ‘streaming’ de les biblioteques públiques tracta el català i el valencià com a llengües diferents",
+      "link_id": "c_191f3c",
       "source": "VilaWeb",
       "date": "2026-05-12",
-      "time": "15:03",
-      "summary": "Google ha neutralitzat el primer atac informàtic creat amb IA, evitant vulnerabilitat d'autenticació."
+      "time": "19:40",
+      "summary": "Les biblioteques digitals separen català i valencià, generant debat sobre la unitat lingüística i l’accés igualitari."
     },
     {
-      "title": "Indra vol contractar 1.500 nous empleats a Catalunya",
-      "link_id": "c_db65c5",
-      "source": "Ara.cat",
-      "date": "2026-05-11",
-      "time": "05:09",
-      "summary": "Indra planeja crear 1.500 nous llocs de treball a Catalunya, impulsant sector tecnològic."
-    },
-    {
-      "title": "Nissan acomiadarà 211 treballadors, un 37% de la seva plantilla a Catalunya",
-      "link_id": "c_b41d8c",
-      "source": "Ara.cat",
-      "date": "2026-05-11",
-      "time": "15:26",
-      "summary": "Nissan anuncia acomiadaments de 211 treballadors a la Zona Franca i Prat, impactant la indústria."
-    },
-    {
-      "title": "Cala, la nova empresa de projecció global que vol que el futur dels agents d’IA passi per Barcelona",
-      "link_id": "c_aed79a",
-      "source": "El Periódico",
-      "date": "2026-05-11",
-      "time": "16:01",
-      "summary": "Cala, startup catalana, llança plataforma d'IA per a projecció global, amb seu a Barcelona."
-    },
-    {
-      "title": "L’abús de ChatGPT passa factura al cervell: llasta la memòria i la capacitat de raonament",
-      "link_id": "c_64a6ea",
-      "source": "El Periódico",
-      "date": "2026-05-09",
-      "time": "06:01",
-      "summary": "L'ús excessiu de ChatGPT pot deteriorar memòria i raonament, alerta estudis científics."
-    },
-    {
-      "title": "Cop a la privacitat: Instagram elimina a partir d’avui el xifratge d’extrem a extrem dels teus missatges",
-      "link_id": "c_dac681",
-      "source": "El Periódico",
-      "date": "2026-05-08",
-      "time": "08:36",
-      "summary": "Instagram elimina xifratge d'extrem a extrem, reduint privacitat dels missatges directes."
+      "title": "Un projector inclusiu arriba a Sant Joan de Déu",
+      "link_id": "c_b9d318",
+      "source": "Segre",
+      "date": "2026-05-13",
+      "time": "05:32",
+      "summary": "Projector interactiu amb tecnologia Budii Omivista facilita aprenentatge a residents amb discapacitat intel·lectual al centre SJD."
     },
     {
       "title": "KitDigital, un model que ha transformat la gestió d’ajuts",
@@ -113,7 +269,15 @@
       "source": "Segre",
       "date": "2026-05-12",
       "time": "08:43",
-      "summary": "KitDigital transforma gestió d'ajuts, digitalitzant pimes i autònoms a tot Catalunya."
+      "summary": "KitDigital ha concedit més de 936.000 ajuts, impulsant la digitalització de pimes i autònoms a Catalunya."
+    },
+    {
+      "title": "La IA acapara el 23% del total d’inversió en startups espanyoles el 2025",
+      "link_id": "c_ad4a98",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-05-13",
+      "time": "04:01",
+      "summary": "El 23% de la inversió de capital risc a Espanya va destinar-se a startups d’IA, segons informe 2025."
     }
   ]
 }

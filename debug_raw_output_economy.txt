@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-05-12T20:18",
+  "generated_at": "2026-05-13T08:00",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Cerebras s'uneix al cercle íntim d'OpenAI — a un cost",
-      "link_id": "c_2e14e4",
-      "source": "The Economist",
-      "date": "2026-05-12",
-      "time": "09:22",
-      "summary": "Cerebras paga per accedir a la tecnologia d'OpenAI, buscant avantatge competitiu en IA avançada."
-    },
-    {
-      "title": "Cerebras augmenta el rang de la seva OPI fins a 4,800 milions de dòlars",
-      "link_id": "c_e90123",
+      "title": "SoftBank registra un guany de 46.000 milions de dòlars al Vision Fund impulsat principalment per una gran aposta a OpenAI",
+      "link_id": "c_70d46a",
       "source": "CNBC Technology",
-      "date": "2026-05-11",
-      "time": "13:46",
-      "summary": "Cerebras eleva el límit de la seva OPI, apuntant a finançar el creixement de xips d'IA."
+      "date": "2026-05-13",
+      "time": "07:29",
+      "summary": "El fons Vision Fund de SoftBank guanya 46.000 milions gràcies a l'augment del valor d'OpenAI."
     },
     {
-      "title": "Qualcomm cau un 13% mentre les accions de xips retrocedeixen",
-      "link_id": "c_d53b0b",
+      "title": "Intercanvi Tecnològic",
+      "link_id": "c_5cdaf1",
+      "source": "Financial Times",
+      "date": "2026-05-13",
+      "time": "04:18",
+      "summary": "Una nova sèrie d'entrevistes amb líders tecnològics per analitzar tendències emergents."
+    },
+    {
+      "title": "Jensen Huang s'uneix al viatge a la Xina de Trump després que el president dels EUA cridés al CEO de Nvidia",
+      "link_id": "c_3b8c0d",
       "source": "CNBC Technology",
-      "date": "2026-05-12",
-      "time": "16:10",
-      "summary": "Les accions de Qualcomm cauen un 13% després d'una correcció del mercat d'IA."
+      "date": "2026-05-13",
+      "time": "04:14",
+      "summary": "Huang acompanya Trump a la Xina, destacant la influència de Nvidia en la política."
     },
     {
-      "title": "CME planeja llançar un mercat de futurs per a la potència informàtica d'IA",
-      "link_id": "c_4c1ee5",
-      "source": "The Economist",
-      "date": "2026-05-12",
-      "time": "16:05",
-      "summary": "CME vol crear contractes de futurs per a llogar potència de GPU, facilitant cobertura de preus."
+      "title": "Nintendo necessita de nou Super Mario",
+      "link_id": "c_98ae13",
+      "source": "Financial Times",
+      "date": "2026-05-13",
+      "time": "04:00",
+      "summary": "Nintendo aposta per revitalitzar les vendes amb el icònic personatge Super Mario."
     },
     {
-      "title": "Nadella afirma que Musk mai li va plantejar dubtes sobre la inversió de Microsoft a OpenAI",
-      "link_id": "c_a13de0",
+      "title": "Les poques apostes d'IA d'Europa s'enlairen mentre l'efervescència tecnològica dels EUA es globalitza",
+      "link_id": "c_d17b73",
+      "source": "Financial Times",
+      "date": "2026-05-13",
+      "time": "04:00",
+      "summary": "Les poques empreses d'IA europees atrauen inversors mentre l'EEUU impulsa una febre tecnològica global."
+    },
+    {
+      "title": "Blue Origin de Bezos valora la seva primera recaptació de fons externa",
+      "link_id": "c_b6fcc7",
+      "source": "Financial Times",
+      "date": "2026-05-13",
+      "time": "04:00",
+      "summary": "Blue Origin busca finançament extern per avançar amb els seus projectes dlançament espacial."
+    },
+    {
+      "title": "Porto Alegre cultiva una llista creixent d'empreses tecnològiques emergents",
+      "link_id": "c_f86e0a",
+      "source": "Financial Times",
+      "date": "2026-05-13",
+      "time": "04:00",
+      "summary": "Porto Alegre vol convertir-se en centre regional d'innovació amb noves startups tecnològiques."
+    },
+    {
+      "title": "Panos Panay d'Amazon: No busquem necessàriament un telèfon",
+      "link_id": "c_019123",
+      "source": "Financial Times",
+      "date": "2026-05-13",
+      "time": "04:00",
+      "summary": "Panay indica que Amazon no té com a objectiu principal desenvolupar un telèfon mòbil."
+    },
+    {
+      "title": "AI Labs: Google DeepMind planeja el seu retorn",
+      "link_id": "c_51ea37",
+      "source": "Financial Times",
+      "date": "2026-05-13",
+      "time": "04:00",
+      "summary": "DeepMind planeja tornar a liderar la IA amb nous projectes i col·laboracions."
+    },
+    {
+      "title": "Samsung Electronics recupera una pèrdua intradiària de 66.000 milions de dòlars després que Seül intervenís per calmar les pors d'greu",
+      "link_id": "c_a0c47a",
       "source": "CNBC Technology",
-      "date": "2026-05-12",
-      "time": "15:37",
-      "summary": "Nadella declara que Musk mai li va expressar preocupacions sobre la inversió de Microsoft a OpenAI."
-    },
-    {
-      "title": "Amazon accelera la cursa de lliuraments amb entregues de 30 minuts a diverses ciutats dels EUA",
-      "link_id": "c_6704b0",
-      "source": "CNBC Technology",
-      "date": "2026-05-12",
-      "time": "14:01",
-      "summary": "Amazon redueix els temps de lliurament a 30 minuts, intensificant la competència en logística urbana."
-    },
-    {
-      "title": "El negoci de bateries de Panasonic es veu impulsat per les esperades guanys dels EV de Tesla",
-      "link_id": "c_96f444",
-      "source": "The Economist",
-      "date": "2026-05-12",
-      "time": "12:46",
-      "summary": "Panasonic preveu augmentar vendes de bateries gràcies a la creixent demanda d'EVs de Tesla."
-    },
-    {
-      "title": "Per què els americans temen la intel·ligència artificial",
-      "link_id": "c_851371",
-      "source": "The Economist",
-      "date": "2026-05-12",
-      "time": "11:04",
-      "summary": "Els americans temen l'IA per la percepció d'amenaces laborals i control social."
-    },
-    {
-      "title": "SoftBank ha inverteix 450 milions en aquesta empresa britànica de xips d'IA",
-      "link_id": "c_cd36d4",
-      "source": "CNBC Technology",
-      "date": "2026-05-12",
-      "time": "11:00",
-      "summary": "SoftBank inverteix 450 milions en Graphcore, reforçant la seva posició en xips d'IA al Regne Unit."
-    },
-    {
-      "title": "Els sud-coreans haurien de rebre un bonus d'IA, segons un assessor presidencial",
-      "link_id": "c_127dba",
-      "source": "The Economist",
-      "date": "2026-05-12",
-      "time": "06:33",
-      "summary": "Un assessor presidencial proposa un bonus universal d'IA per a tots els treballadors sud-coreans."
+      "date": "2026-05-13",
+      "time": "03:19",
+      "summary": "Samsung recupera pèrdues massives gràcies a la intervenció del govern per evitar vagues."
     }
   ]
 }

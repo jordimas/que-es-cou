@@ -1,48 +1,32 @@
 {
-  "generated_at": "2026-05-12T20:18",
+  "generated_at": "2026-05-13T09:00",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Googlebooks són els nous portàtils natius d'IA de Google",
-      "link_id": "c_504326",
-      "source": "TechCrunch",
-      "date": "2026-05-12",
-      "time": "17:00",
-      "summary": "Google presenta una nova línia de portàtils amb Android i Gemini integrats."
-    },
-    {
-      "title": "Tot el que Google va anunciar al Android Show, des de Googlebooks a widgets vibra",
+      "title": "Tot el que Google va anunciar al seu Android Show, des de Googlebooks fins a widgets codificats amb vibra",
       "link_id": "c_23cfd2",
       "source": "TechCrunch",
       "date": "2026-05-12",
-      "time": "17:01",
-      "summary": "Google llança Gemini Intelligence i novetats com widgets personalitzables per Android."
+      "time": "17:00",
+      "summary": "Google presenta Googlebooks, una nova línia d'ordinadors amb Android i Gemini, i widgets personalitzables per a usuaris avançats."
     },
     {
-      "title": "La nova funció Pause Point d'Android posa un obstacle de 10 segons al desplaçament sense sentit",
-      "link_id": "c_097e11",
-      "source": "Digital Trends",
+      "title": "Sam Altman defensa OpenAI en el judici contra Elon Musk",
+      "link_id": "c_42bc46",
+      "source": "The Guardian Tech",
       "date": "2026-05-12",
-      "time": "17:44",
-      "summary": "Google intenta reduir l'addicció al desplaçament amb una pausa obligatòria."
+      "time": "20:48",
+      "summary": "Altman nega les acusacions de Musk, assegurant que OpenAI manté la independència i la seguretat de la IA."
     },
     {
-      "title": "Waymo retira robots de taxi després que un vehicle entrés en una carretera inundada",
-      "link_id": "c_1e2313",
-      "source": "Bloomberg",
-      "date": "2026-05-12",
-      "time": "15:37",
-      "summary": "Actualització de programari fa que els robots evitin zones inundades per seguretat."
-    },
-    {
-      "title": "Musk va considerar cedir OpenAI als seus fills, Altman declara",
-      "link_id": "c_effa1f",
-      "source": "TechCrunch",
-      "date": "2026-05-12",
-      "time": "18:05",
-      "summary": "Altman descriu una conversa tensa amb Musk sobre el control d'OpenAI."
+      "title": "L'atac de ransomware de Foxconn demostra que res no és segur per sempre",
+      "link_id": "c_0d8900",
+      "source": "Wired",
+      "date": "2026-05-13",
+      "time": "05:00",
+      "summary": "Foxconn confirma l'atac ransomware que va comprometre dades d'Apple i Nvidia, mostrant vulnerabilitats en la cadena de subministrament."
     },
     {
       "title": "Anthropic avisa els inversors contra plataformes secundàries que ofereixen accés a les seves accions",
@@ -50,39 +34,55 @@
       "source": "TechCrunch",
       "date": "2026-05-12",
       "time": "17:36",
-      "summary": "L'empresa denuncia que certes plataformes no autoritzades venen accions d'Anthropic."
+      "summary": "Anthropic alerta que les plataformes secundàries podrien vendre accions sense autorització, posant en risc els inversors."
     },
     {
-      "title": "Informe: Google i SpaceX negocien posar centres de dades a l'òrbita",
-      "link_id": "c_62d4b9",
+      "title": "OpenAI anuncia Daybreak, el seu intent de superar Anthropic Mythos",
+      "link_id": "c_7c8892",
+      "source": "Bloomberg Technology",
+      "date": "2026-05-12",
+      "time": "13:10",
+      "summary": "Daybreak utilitza IA per detectar vulnerabilitats de codi, competint directament amb el model Mythos d'Anthropic."
+    },
+    {
+      "title": "Android afegeix una funció per evitar el doomscrolling",
+      "link_id": "c_c3f671",
       "source": "TechCrunch",
       "date": "2026-05-12",
-      "time": "17:30",
-      "summary": "Google explora l'ús d'orbites per allotjar la potència d'IA."
+      "time": "17:00",
+      "summary": "La nova funció Pause Point obliga l'usuari a esperar abans d'obrir aplicacions addictives, reduint la dependència digital."
     },
     {
-      "title": "Android Auto incorpora aplicacions de vídeo, actualitzacions de música i més intel·ligència Gemini",
-      "link_id": "c_eed9f1",
-      "source": "9to5Google",
+      "title": "Samsung Galaxy Z Fold 8 i Flip 8 podrien debutar amb Gemini Intelligence",
+      "link_id": "c_94f079",
+      "source": "Android Authority",
       "date": "2026-05-12",
-      "time": "17:30",
-      "summary": "Nou Android Auto ofereix vídeo, música i assistent Gemini integrat."
+      "time": "22:00",
+      "summary": "Els nous models Z Fold 8 i Flip 8 integraran Gemini, oferint assistència IA avançada en dispositius plegables."
     },
     {
-      "title": "La propera actualització de Chrome de Google és important per als usuaris d'Android",
-      "link_id": "c_f91cbb",
+      "title": "Android Auto ara és una mida d'screen per a tots",
+      "link_id": "c_6ff5c6",
+      "source": "Engadget",
+      "date": "2026-05-12",
+      "time": "14:47",
+      "summary": "Android Auto ara adapta la interfície a qualsevol pantalla, millorant la compatibilitat i l'experiència de conducció."
+    },
+    {
+      "title": "Gemini a Google Home ara és molt més ràpid per a tasques comunes i respon preguntes útils sense obrir l'app Home",
+      "link_id": "c_d19c25",
       "source": "Digital Trends",
-      "date": "2026-05-12",
-      "time": "17:00",
-      "summary": "Chrome afegeix Gemini per millorar la navegació i tasques en Android."
+      "date": "2026-05-13",
+      "time": "21:00",
+      "summary": "Gemini a Google Home accelera les consultes quotidianes i ara pot explicar receptes de còctels sense sortir de l'app."
     },
     {
-      "title": "Google llança una nova funció de seguretat d'Android per detectar atacs d'spyware",
-      "link_id": "c_5dc22f",
-      "source": "TechCrunch",
+      "title": "Google va eliminar el Chromebook. El seu substitut converteix el cursor en un agent d'IA",
+      "link_id": "c_2e555a",
+      "source": "The Next Web",
       "date": "2026-05-12",
-      "time": "17:00",
-      "summary": "Funció avançada identifica i bloqueja aplicacions malintencionades en temps real."
+      "time": "21:44",
+      "summary": "El nou dispositiu substitueix el Chromebook amb un cursor intel·ligent que actua com a agent d'IA per a tasques."
     }
   ]
 }
