@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T07:52",
+  "generated_at": "2026-05-14T09:47",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
@@ -9,259 +9,89 @@
       "articles_found": 2
     },
     {
-      "name": "El Periódico",
-      "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
-      "articles_found": 0
-    },
-    {
-      "name": "RAC1",
-      "url": "https://www.rac1.cat/rss/home.xml",
-      "articles_found": 0
-    },
-    {
       "name": "La Vanguardia (en català)",
       "url": "https://www.lavanguardia.com/rss/encatala.xml",
-      "articles_found": 1
-    },
-    {
-      "name": "VilaWeb",
-      "url": "https://www.vilaweb.cat/feed/",
-      "articles_found": 1
-    },
-    {
-      "name": "NacióDigital",
-      "url": "https://www.naciodigital.cat/rss/tecnologia",
-      "articles_found": 0
-    },
-    {
-      "name": "324.cat",
-      "url": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0",
       "articles_found": 2
-    },
-    {
-      "name": "Softcatalà",
-      "url": "https://www.softcatala.org/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "El Nacional.cat",
-      "url": "https://www.elnacional.cat/uploads/feeds/feed_ca.xml",
-      "articles_found": 0
-    },
-    {
-      "name": "El Mon.cat",
-      "url": "https://www.elmon.cat/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "El Mon.cat Tecnologia",
-      "url": "https://elmon.cat/tecnologia/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "El Mon.cat Societat",
-      "url": "https://elmon.cat/societat/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "Betevé",
-      "url": "https://beteve.cat/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "El Punt Avui",
-      "url": "https://www.elpuntavui.cat/barcelona.feed?type=rss",
-      "articles_found": 0
-    },
-    {
-      "name": "Segre",
-      "url": "https://www.segre.com/ca/rss/home.xml",
-      "articles_found": 2
-    },
-    {
-      "name": "Regio7",
-      "url": "https://www.regio7.cat/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Diari d'Andorra",
-      "url": "https://www.diariandorra.ad/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Bon Dia Andorra",
-      "url": "https://www.bondia.ad/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Altaveu",
-      "url": "https://www.altaveu.com/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Nuvol",
-      "url": "https://www.nuvol.com/feed",
-      "articles_found": 0
-    },
-    {
-      "name": "Diari Mes",
-      "url": "https://www.diarimes.com/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Directe.cat",
-      "url": "https://www.directe.cat/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Cugat.cat",
-      "url": "https://www.cugat.cat/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "CatalunyaPress",
-      "url": "https://www.catalunyapress.cat/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Tot Barcelona",
-      "url": "https://www.totbarcelona.cat/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "e-notícies",
-      "url": "https://www.e-noticies.cat/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Lleida Diari",
-      "url": "https://www.lleidadiari.cat/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "Catorze",
-      "url": "https://www.catorze.cat/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Xarxanet",
-      "url": "https://www.xarxanet.org/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Bondia",
-      "url": "https://www.bondia.cat/?feed=rss2",
-      "articles_found": 0
     },
     {
       "name": "MetaData",
       "url": "https://www.metadata.cat/sindica",
-      "articles_found": 0
+      "articles_found": 1
     },
     {
-      "name": "El Temps",
-      "url": "https://www.eltemps.cat/sindica",
-      "articles_found": 0
+      "name": "324.cat",
+      "url": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0",
+      "articles_found": 1
     },
     {
-      "name": "Àpunt",
-      "url": "https://www.apuntmedia.es/rss/",
-      "articles_found": 0
+      "name": "El Mon.cat",
+      "url": "https://www.elmon.cat/feed/",
+      "articles_found": 1
     },
     {
-      "name": "El Periòdic d'Ontinyent",
-      "url": "https://www.elperiodicvalencia.com/?feed=rss2",
-      "articles_found": 0
+      "name": "Segre",
+      "url": "https://www.segre.com/ca/rss/home.xml",
+      "articles_found": 1
     },
     {
-      "name": "Saó",
-      "url": "https://www.revistasao.cat/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "Diari de Balears",
-      "url": "https://www.diaridebalears.cat/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "IB3 Notícies",
-      "url": "https://ib3.org/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "Ara Balears",
-      "url": "https://www.arabalears.cat/rss/",
-      "articles_found": 0
-    },
-    {
-      "name": "Manacor Comarcal",
-      "url": "https://manacorcomarcal.com/?feed=rss2",
-      "articles_found": 0
+      "name": "RAC1",
+      "url": "https://www.rac1.cat/rss/home.xml",
+      "articles_found": 1
     },
     {
       "name": "Via Empresa",
       "url": "https://www.viaempresa.cat/uploads/feeds/feed_via-empresa-2024_ca.xml",
-      "articles_found": 0
-    },
-    {
-      "name": "Lúdica",
-      "url": "https://ludica.cat/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "Accent Obert",
-      "url": "https://accentobert.cat/feed/",
-      "articles_found": 0
+      "articles_found": 1
     }
   ],
   "articles": [
     {
-      "title": "El consum de contingut en català a les xarxes creix un 72% en un any, per sobre de la producció",
-      "link_id": "c_6e0c80",
-      "source": "324.cat",
-      "date": "2026-05-12",
-      "time": "20:38",
-      "summary": "El consum de contingut digital en català supera la producció, impulsat per Instagram i TikTok, segons l’estudi d’Accent Obert."
-    },
-    {
-      "title": "Von der Leyen carrega contra les 'big-tech' i s'obre a establir una majoria d'edat digital",
-      "link_id": "c_0bbfd1",
+      "title": "Logística amb IA: la nova revolució al SIL Barcelona",
+      "link_id": "c_865c9d",
       "source": "Ara.cat",
-      "date": "2026-05-12",
-      "time": "10:43",
-      "summary": "La presidenta europea proposa una edat mínima per a menors a xarxes socials, buscant protegir la joventut digital."
-    },
-    {
-      "title": "La indústria catalana s'apunta al negoci de la defensa i Indra s'ofereix per obrir-li portes",
-      "link_id": "c_292ec7",
-      "source": "324.cat",
-      "date": "2026-05-12",
-      "time": "06:42",
-      "summary": "Indra busca expandir-se al sector defensa, oferint solucions tecnològiques per impulsar la indústria catalana."
-    },
-    {
-      "title": "El gran engany dels paquets industrials de formatge ratllat",
-      "link_id": "c_b036d3",
-      "source": "Ara.cat",
-      "date": "2026-05-10",
-      "time": "16:00",
-      "summary": "Paquets de formatge ratllat contenen greixos vegetals i midó, enganyant consumidors sobre la veritable composició."
-    },
-    {
-      "title": "El servei de ‘streaming’ de les biblioteques públiques tracta el català i el valencià com a llengües diferents",
-      "link_id": "c_191f3c",
-      "source": "VilaWeb",
-      "date": "2026-05-12",
-      "time": "19:40",
-      "summary": "Les biblioteques digitals separen català i valencià, generant debat sobre la unitat lingüística i l’accés igualitari."
-    },
-    {
-      "title": "Un projector inclusiu arriba a Sant Joan de Déu",
-      "link_id": "c_b9d318",
-      "source": "Segre",
       "date": "2026-05-13",
-      "time": "05:32",
-      "summary": "Projector interactiu amb tecnologia Budii Omivista facilita aprenentatge a residents amb discapacitat intel·lectual al centre SJD."
+      "time": "21:59",
+      "summary": "La IA transforma la logística al SIL Barcelona, prometent eficiència i reducció de costos per la cadena de subministrament."
+    },
+    {
+      "title": "Brussel·les revoluciona el tren amb la idea d’un “bitllet únic” per a tota la UE",
+      "link_id": "c_099954",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-05-14",
+      "time": "05:14",
+      "summary": "Un bitllet únic per a tota la UE podria simplificar viatges, forçant operadors com Renfe a adaptar-se."
+    },
+    {
+      "title": "El 77% dels ciutadans reclamen regular més la intel·ligència artificial",
+      "link_id": "c_bdd53a",
+      "source": "Ara.cat",
+      "date": "2026-05-13",
+      "time": "15:17",
+      "summary": "Setanta-set percent dels ciutadans demanen una regulació estricta de la IA per protegir la societat."
+    },
+    {
+      "title": "El 95% de la ciutadania creu que els menors estan desprotegits a Internet i reclama més control digital",
+      "link_id": "c_65ef3e",
+      "source": "MetaData",
+      "date": "2026-05-13",
+      "time": "16:05",
+      "summary": "Ninety-five percent dels joves consideren insegurs els entorns digitals i exigixen més protecció online."
+    },
+    {
+      "title": "Glovo i els sindicats acorden l'acomiadament de 436 riders, en lloc dels 700 previstos",
+      "link_id": "c_78f896",
+      "source": "324.cat",
+      "date": "2026-05-13",
+      "time": "23:11",
+      "summary": "Glovo i sindicats acorden acomiadar 436 riders, reduint la xifra prevista i generant indemnitzacions."
+    },
+    {
+      "title": "GOfit redueix un 67% la seva petjada de carboni des de 2018",
+      "link_id": "c_eafae0",
+      "source": "El Mon.cat",
+      "date": "2026-05-13",
+      "time": "18:00",
+      "summary": "GOfit anuncia una reducció del 67% de la seva petjada de carboni des de 2018, impulsant sostenibilitat."
     },
     {
       "title": "KitDigital, un model que ha transformat la gestió d’ajuts",
@@ -269,7 +99,7 @@
       "source": "Segre",
       "date": "2026-05-12",
       "time": "08:43",
-      "summary": "KitDigital ha concedit més de 936.000 ajuts, impulsant la digitalització de pimes i autònoms a Catalunya."
+      "summary": "KitDigital ha impulsat la digitalització de més de 3 milions de treballadors amb més de 936.000 ajuts."
     },
     {
       "title": "La IA acapara el 23% del total d’inversió en startups espanyoles el 2025",
@@ -277,7 +107,23 @@
       "source": "La Vanguardia (en català)",
       "date": "2026-05-13",
       "time": "04:01",
-      "summary": "El 23% de la inversió de capital risc a Espanya va destinar-se a startups d’IA, segons informe 2025."
+      "summary": "El 23% de la inversió en startups espanyoles el 2025 va a IA, mostrant un creixement notable."
+    },
+    {
+      "title": "Zara supera a Nike i es converteix en la marca de moda més valuosa del món",
+      "link_id": "c_f40f37",
+      "source": "RAC1",
+      "date": "2026-05-14",
+      "time": "08:30",
+      "summary": "Zara supera Nike i es converteix en la marca de moda més valuosa, destacant l'ús de IA en disseny."
+    },
+    {
+      "title": "La indústria electrònica catalana reclama al Govern \"suport\" per blindar la seva competitivitat",
+      "link_id": "c_f3416f",
+      "source": "Via Empresa",
+      "date": "2026-05-13",
+      "time": "16:30",
+      "summary": "El sector electrònic català demana suport governamental per afrontar la manca de talent i l'augment de costos."
     }
   ]
 }

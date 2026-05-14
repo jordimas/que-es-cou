@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-05-13T09:00",
+  "generated_at": "2026-05-14T11:47",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Tot el que Google va anunciar al seu Android Show, des de Googlebooks fins a widgets codificats amb vibra",
-      "link_id": "c_23cfd2",
-      "source": "TechCrunch",
-      "date": "2026-05-12",
-      "time": "17:00",
-      "summary": "Google presenta Googlebooks, una nova línia d'ordinadors amb Android i Gemini, i widgets personalitzables per a usuaris avançats."
-    },
-    {
-      "title": "Sam Altman defensa OpenAI en el judici contra Elon Musk",
-      "link_id": "c_42bc46",
-      "source": "The Guardian Tech",
-      "date": "2026-05-12",
-      "time": "20:48",
-      "summary": "Altman nega les acusacions de Musk, assegurant que OpenAI manté la independència i la seguretat de la IA."
-    },
-    {
-      "title": "L'atac de ransomware de Foxconn demostra que res no és segur per sempre",
-      "link_id": "c_0d8900",
-      "source": "Wired",
+      "title": "Instants permet compartir fotos efímeres que desapareixen després d’un dia o quan les veuen els amics",
+      "link_id": "c_3355e9",
+      "source": "MacRumors",
       "date": "2026-05-13",
-      "time": "05:00",
-      "summary": "Foxconn confirma l'atac ransomware que va comprometre dades d'Apple i Nvidia, mostrant vulnerabilitats en la cadena de subministrament."
+      "time": "19:10",
+      "summary": "Instants permet compartir fotos efímeres que desapareixen després d’un dia o quan les veuen els amics."
     },
     {
-      "title": "Anthropic avisa els inversors contra plataformes secundàries que ofereixen accés a les seves accions",
-      "link_id": "c_01e6d6",
-      "source": "TechCrunch",
-      "date": "2026-05-12",
-      "time": "17:36",
-      "summary": "Anthropic alerta que les plataformes secundàries podrien vendre accions sense autorització, posant en risc els inversors."
+      "title": "Instants combina funcions d’Instagram amb elements de Snapchat i BeReal per a fotos temporals",
+      "link_id": "c_442457",
+      "source": "The Verge",
+      "date": "2026-05-13",
+      "time": "16:57",
+      "summary": "Instants combina funcions d’Instagram amb elements de Snapchat i BeReal per a fotos temporals."
     },
     {
-      "title": "OpenAI anuncia Daybreak, el seu intent de superar Anthropic Mythos",
-      "link_id": "c_7c8892",
-      "source": "Bloomberg Technology",
-      "date": "2026-05-12",
-      "time": "13:10",
-      "summary": "Daybreak utilitza IA per detectar vulnerabilitats de codi, competint directament amb el model Mythos d'Anthropic."
+      "title": "Meta llança l’app Instants per iPhone, una nova funció d’Instagram per compartir fotos que desapareixen",
+      "link_id": "c_5d54ce",
+      "source": "9to5Mac",
+      "date": "2026-05-13",
+      "time": "16:19",
+      "summary": "Meta llança l’app Instants per iPhone, una nova funció d’Instagram per compartir fotos que desapareixen."
     },
     {
-      "title": "Android afegeix una funció per evitar el doomscrolling",
-      "link_id": "c_c3f671",
-      "source": "TechCrunch",
-      "date": "2026-05-12",
-      "time": "17:00",
-      "summary": "La nova funció Pause Point obliga l'usuari a esperar abans d'obrir aplicacions addictives, reduint la dependència digital."
+      "title": "Apple Maps començarà a mostrar anuncis; es preveu com afectarà l’experiència d’usuari",
+      "link_id": "c_c3e7e2",
+      "source": "9to5Mac",
+      "date": "2026-05-14",
+      "time": "00:19",
+      "summary": "Apple Maps començarà a mostrar anuncis; es preveu com afectarà l’experiència d’usuari."
     },
     {
-      "title": "Samsung Galaxy Z Fold 8 i Flip 8 podrien debutar amb Gemini Intelligence",
-      "link_id": "c_94f079",
+      "title": "Apple Maps introduirà anuncis a l’iPhone; la funció Suggested Places prepara el camí per a la publicitat",
+      "link_id": "c_61ab41",
+      "source": "MacRumors",
+      "date": "2026-05-14",
+      "time": "07:19",
+      "summary": "Apple Maps introduirà anuncis a l’iPhone; la funció Suggested Places prepara el camí per a la publicitat."
+    },
+    {
+      "title": "Google prepara un successor del Nest Hub, anomenat Google Home Display, amb pantalla intel·ligent",
+      "link_id": "c_b78819",
       "source": "Android Authority",
-      "date": "2026-05-12",
-      "time": "22:00",
-      "summary": "Els nous models Z Fold 8 i Flip 8 integraran Gemini, oferint assistència IA avançada en dispositius plegables."
+      "date": "2026-05-14",
+      "time": "04:35",
+      "summary": "Google prepara un successor del Nest Hub, anomenat Google Home Display, amb pantalla intel·ligent."
     },
     {
-      "title": "Android Auto ara és una mida d'screen per a tots",
-      "link_id": "c_6ff5c6",
-      "source": "Engadget",
-      "date": "2026-05-12",
-      "time": "14:47",
-      "summary": "Android Auto ara adapta la interfície a qualsevol pantalla, millorant la compatibilitat i l'experiència de conducció."
+      "title": "Apareix el ‘Google Home Display’, possible reemplaçament del Nest Hub amb noves funcions",
+      "link_id": "c_c9db37",
+      "source": "9to5Google",
+      "date": "2026-05-14",
+      "time": "02:00",
+      "summary": "Apareix el ‘Google Home Display’, possible reemplaçament del Nest Hub amb noves funcions."
     },
     {
-      "title": "Gemini a Google Home ara és molt més ràpid per a tasques comunes i respon preguntes útils sense obrir l'app Home",
-      "link_id": "c_d19c25",
-      "source": "Digital Trends",
+      "title": "WhatsApp afegeix xats d’IA totalment privats, sense que Meta pugui llegir-los",
+      "link_id": "c_56b4ab",
+      "source": "The Verge",
       "date": "2026-05-13",
-      "time": "21:00",
-      "summary": "Gemini a Google Home accelera les consultes quotidianes i ara pot explicar receptes de còctels sense sortir de l'app."
+      "time": "14:11",
+      "summary": "WhatsApp afegeix xats d’IA totalment privats, sense que Meta pugui llegir-los."
     },
     {
-      "title": "Google va eliminar el Chromebook. El seu substitut converteix el cursor en un agent d'IA",
-      "link_id": "c_2e555a",
-      "source": "The Next Web",
-      "date": "2026-05-12",
-      "time": "21:44",
-      "summary": "El nou dispositiu substitueix el Chromebook amb un cursor intel·ligent que actua com a agent d'IA per a tasques."
+      "title": "WhatsApp llança converses ‘incògnit’ amb el seu xat d’IA, totalment privades",
+      "link_id": "c_e14fa1",
+      "source": "BBC Technology",
+      "date": "2026-05-13",
+      "time": "14:00",
+      "summary": "WhatsApp llança converses ‘incògnit’ amb el seu xat d’IA, totalment privades."
+    },
+    {
+      "title": "Els portàtils Googlebook oferiran diverses opcions de xip, no només Intel, per a més flexibilitat",
+      "link_id": "c_716029",
+      "source": "9to5Google",
+      "date": "2026-05-13",
+      "time": "10:29",
+      "summary": "Els portàtils Googlebook oferiran diverses opcions de xip, no només Intel, per a més flexibilitat."
     }
   ]
 }
