@@ -1,48 +1,56 @@
 {
-  "generated_at": "2026-05-14T12:00",
+  "generated_at": "2026-05-15T12:30",
   "id": "podcasts",
   "title": "Podcasts en català sobre tecnologia",
   "sources_checked": [],
   "articles": [
+    {
+      "title": "Exemples d’ús de la IA en processos creatius: organitzar hores d’entrevistes i contingut complex – programa 664",
+      "link_id": "c_1aec83",
+      "source": "Mossega la poma",
+      "date": "2026-05-15",
+      "time": "08:23",
+      "summary": "Exploració de com la IA pot agilitzar entrevistes i gestionar contingut complex en entorns creatius."
+    },
     {
       "title": "Polymarket és un problema, les pantalles no – programa 663",
       "link_id": "c_122341",
       "source": "Mossega la poma",
       "date": "2026-05-09",
       "time": "08:26",
-      "summary": "Debat sobre els riscos de Polymarket i l’impacte de les pantalles en l’educació infantil."
+      "summary": "Debat sobre els riscos de Polymarket i l’impacte de les pantalles en la seguretat infantil."
     },
     {
-      "title": "MacBook Neo i exemples de processos avançats amb IA – programa 662",
-      "link_id": "c_9eab9c",
-      "source": "Mossega la poma",
-      "date": "2026-04-29",
-      "time": "16:34",
-      "summary": "Anàlisi del nou MacBook Neo i exemples d’aplicacions avançades d’intel·ligència artificial."
+      "title": "L' Altra Ràdio - Els Premis Nacionals de Comunicació, Ràdio Associació i Sonor",
+      "link_id": "c_c770d6",
+      "source": "L'altra ràdio",
+      "date": "2026-05-14",
+      "time": "07:33",
+      "summary": "Anàlisi dels guanyadors i la importància dels Premis Nacionals per a la comunicació catalana."
     },
     {
       "title": "L' Altra Ràdio - El DMTforum 2026: la gran trobada del sector català de les telecomunicacions",
       "link_id": "c_243e4c",
       "source": "L'altra ràdio",
       "date": "2026-05-07",
-      "time": "14:33",
-      "summary": "Resum del DMTforum 2026, trobada clau del sector català de telecomunicacions."
+      "time": "07:33",
+      "summary": "Cobertura del DMTforum 2026, enfocada a la innovació en telecomunicacions a Catalunya."
     },
     {
       "title": "L' Altra Ràdio - La computació quàntica",
       "link_id": "c_b29fa7",
       "source": "L'altra ràdio",
       "date": "2026-04-30",
-      "time": "14:33",
-      "summary": "Introducció a la computació quàntica i presentació de l’empresa Quilimanjaro."
+      "time": "07:33",
+      "summary": "Introducció a la computació quàntica i projectes emergents del BSC explicats per una experta."
     },
     {
       "title": "El gòTIC - Tenim una missió! del 13/5/2026",
       "link_id": "c_b5a814",
       "source": "El Gòtic",
       "date": "2026-05-12",
-      "time": "23:29",
-      "summary": "Missió del gòTIC: recursos digitals per a la ciutadania i estratègies tecnològiques locals."
+      "time": "16:29",
+      "summary": "Missió digital per a la ciutadania: recursos i estratègies per afrontar reptes tecnològics."
     },
     {
       "title": "L’històric cercador Ask Jeeves tanca",
@@ -50,15 +58,15 @@
       "source": "Societat de la Informació",
       "date": "2026-05-05",
       "time": "10:05",
-      "summary": "Clausura del cercador historic Ask Jeeves després de tres dècades d’activitat en línia."
+      "summary": "Història i llegat d’Ask Jeeves, el cercador pioner que tanca després de tres dècades."
     },
     {
       "title": "El manifest de Palantir, l'acord del Pentàgon amb vuit grans empreses d'IA i el relleu al capdavant d'Apple.",
       "link_id": "c_0ae4e7",
       "source": "Internet amb Genís Roca",
-      "date": "2026-05-02",
-      "time": "03:10",
-      "summary": "Anàlisi del manifest de Palantir, acord del Pentàgon amb IA i canvis a Apple."
+      "date": "2026-05-01",
+      "time": "20:10",
+      "summary": "Examen del manifest de Palantir i l’acord del Pentàgon amb empreses d’IA, i el nou lideratge d’Apple."
     },
     {
       "title": "Més palanques que el mecànic de Las Vegas",
@@ -66,7 +74,7 @@
       "source": "Foc a Terra",
       "date": "2026-05-11",
       "time": "04:00",
-      "summary": "Debat sobre finances amb Eduard Romeu, expert en anàlisi de resultats empresarials."
+      "summary": "Entrevista amb Eduard Romeu sobre anàlisi financera i gestió de crisis empresarials."
     },
     {
       "title": "Foc you, Tim Apple",
@@ -74,7 +82,7 @@
       "source": "Foc a Terra",
       "date": "2026-05-04",
       "time": "04:00",
-      "summary": "Especial d’Apple: repàs de les contribucions i productes destacats de Tim Apple."
+      "summary": "Revisió del llegat d’Apple i les seves innovacions més memorables dels últims quinze anys."
     },
     {
       "title": "WordPress 7.0, sense Real Time Collaboration",
@@ -82,7 +90,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-05-12",
       "time": "00:00",
-      "summary": "Explicació del retard del Real Time Collaboration fins a WordPress 7.1 per problemes de rendiment."
+      "summary": "Explicació de la posposada del Real Time Collaboration a WordPress 7.0 per problemes de rendiment."
     },
     {
       "title": "L’API de presència",
@@ -90,7 +98,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-05-05",
       "time": "00:00",
-      "summary": "Presentació de l’API de presència que mostra editors actius i avatars al tauler."
+      "summary": "Novetats de la Presence API: mostra editors actius i millora la col·laboració en el tauler."
     },
     {
       "title": "Capítol 64: \"Obrir una gelateria és un dels negocis més rendibles a hores d'ara a la ciutat de Barcelona”",
@@ -98,7 +106,7 @@
       "source": "RAC&GO",
       "date": "2026-05-05",
       "time": "06:19",
-      "summary": "Història de quatre joves que obren una gelateria artesanal al barri de Barcelona."
+      "summary": "Història d’amics que obren una gelateria a Barcelona, destacant el model de negoci local."
     }
   ]
 }

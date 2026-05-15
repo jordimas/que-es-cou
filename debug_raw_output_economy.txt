@@ -1,1 +1,88 @@
-{"generated_at":"2026-05-14T11:47","id":"economy","title":"Notícies econòmiques del món","sources_checked":[],"articles":[{"title":"Cerebras fixa preu d'IPO per damunt del rang esperat, mentre Wall Street es prepara per un tsunami d'IA","link_id":"c_452cd1","source":"CNBC Technology","date":"2026-05-14","time":"00:39","summary":"L'oferta supera les expectatives, impulsant la confiança en les tecnologies d'intel·ligència artificial."},{"title":"Cerebras augmenta el preu de l'IPO per recaptar 5,500 milions de dòlars","link_id":"c_b8136d","source":"Financial Times","date":"2026-05-13","time":"23:10","summary":"L'empresa busca finançar el seu creixement amb una oferta pública més gran."},{"title":"Les accions de Cisco pujen un 17% gràcies a la demanda d'IA, mentre l'empresa elimina gairebé 4.000 llocs","link_id":"c_7e0c99","source":"CNBC Technology","date":"2026-05-14","time":"09:12","summary":"El creixement de les comandes d'IA impulsa el valor, però la reducció de personal genera incertesa."},{"title":"L'augment de les interrupcions per guerra impulsa la migració de centres de dades a l'espai","link_id":"c_83e4a0","source":"Financial Times","date":"2026-05-14","time":"08:17","summary":"Les tensions geopolítiques fan que les empreses busquin solucions orbital per garantir la continuïtat."},{"title":"Grups tecnològics aconsegueixen èxit amb normes d'energia neta per centres de dades alimentats per gas","link_id":"c_ad4499","source":"Financial Times","date":"2026-05-14","time":"04:00","summary":"Les noves regulacions fomenten la reducció d'emissions en infraestructures crítiques."},{"title":"Microsoft temia dependre massa d'OpenAI, segons testimonis del judici Musk-Altman","link_id":"c_f21e48","source":"CNBC Technology","date":"2026-05-13","time":"22:48","summary":"El relat mostra la vulnerabilitat de Microsoft davant la intel·ligència artificial externa."},{"title":"Els ciberatacs impulsats per IA es convertiran en la nova norma en mesos, alerta Palo Alto","link_id":"c_052cf6","source":"CNBC Technology","date":"2026-05-13","time":"21:58","summary":"Les empreses han d'enfortir les defenses davant l'escalada d'atacs automatitzats."},{"title":"Google s'afanya a situar Gemini al nucli d'Android abans del relançament d'IA d'Apple","link_id":"c_f9d97d","source":"CNBC Technology","date":"2026-05-13","time":"21:06","summary":"L'estratègia busca superar Apple integrant IA a tots els dispositius Android."},{"title":"AI models are being used to predict conflict","link_id":"c_418278","source":"The Economist","date":"2026-05-13","time":"18:09","summary":"Models d'IA s'apliquen per anticipar conflictes, millorant la planificació de seguretat."},{"title":"White-collar workers report growing feelings of ‘AI brain fry’","link_id":"c_524d9c","source":"Financial Times","date":"2026-05-13","time":"16:15","summary":"Empleats de col·legiatura descriuen saturació mental per l'ús intensiu d'eines d'IA."}]}
+{
+  "generated_at": "2026-05-15T12:20",
+  "id": "economy",
+  "title": "Notícies econòmiques del món",
+  "sources_checked": [],
+  "articles": [
+    {
+      "title": "Les accions de Cerebras cauen després d'un debut d'IPO espectacular — què està passant",
+      "link_id": "c_40ff95",
+      "source": "CNBC Technology",
+      "date": "2026-05-15",
+      "time": "10:38",
+      "summary": "Després de l'IPO, Cerebras enfronta caiguda de preus, mostrant volatilitat del mercat d'IA."
+    },
+    {
+      "title": "Perseguint la Utopia — antic executiu de Google adverteix contra la IA en un documental mesurat",
+      "link_id": "c_1db31c",
+      "source": "Financial Times",
+      "date": "2026-05-15",
+      "time": "08:37",
+      "summary": "El documental analitza riscos i oportunitats de la IA des de la perspectiva d'un antic líder de Google."
+    },
+    {
+      "title": "L'empresa japonesa de memòria flash veu augmentar els beneficis gràcies a la frenètica IA",
+      "link_id": "c_9ea98e",
+      "source": "Financial Times",
+      "date": "2026-05-15",
+      "time": "08:17",
+      "summary": "La demanda d'IA impulsa les vendes de memòria flash, elevant els guanys de l'empresa japonesa."
+    },
+    {
+      "title": "Grans grups tecnològics inicien una onada global de préstecs per finançar l'expansió de la IA",
+      "link_id": "c_41607c",
+      "source": "Financial Times",
+      "date": "2026-05-15",
+      "time": "04:00",
+      "summary": "Les grans tecnologies busquen finançament extern per ampliar capacitats d'IA, augmentant el deute global."
+    },
+    {
+      "title": "Multiverse d'Euan Blair arriba a una valoració de 2.100 milions de dòlars impulsant la formació de la força laboral en IA",
+      "link_id": "c_a1b13d",
+      "source": "Financial Times",
+      "date": "2026-05-15",
+      "time": "04:00",
+      "summary": "Multiverse atrau inversors amb formació IA per empreses, reflectint creixent interès en habilitats digitals."
+    },
+    {
+      "title": "Anthropic accepta els termes d'un acord de finançament de 30.000 milions de dòlars amb una valoració de 900.000 milions",
+      "link_id": "c_c98cdc",
+      "source": "Financial Times",
+      "date": "2026-05-15",
+      "time": "00:23",
+      "summary": "Anthropic assegura 30.000 milions per expandir la IA, reforçant la seva posició en el sector."
+    },
+    {
+      "title": "Despatxos d'advocats australians lideren l'ús òptim de la IA",
+      "link_id": "c_7d0e8c",
+      "source": "Financial Times",
+      "date": "2026-05-15",
+      "time": "00:00",
+      "summary": "Advocats australians integren IA per optimitzar processos i oferir serveis més eficients als clients."
+    },
+    {
+      "title": "Un text japonès obre un nou capítol de tecnologia legal",
+      "link_id": "c_29ac5f",
+      "source": "Financial Times",
+      "date": "2026-05-15",
+      "time": "00:00",
+      "summary": "Un fragment de text japonès impulsa innovacions en aplicacions legals basades en IA."
+    },
+    {
+      "title": "El creixement d'eines legals d'IA 'fes-ho-tu-mateix'",
+      "link_id": "c_f59f96",
+      "source": "Financial Times",
+      "date": "2026-05-15",
+      "time": "00:00",
+      "summary": "Les empreses creen solucions d'IA personalitzables, permetent als advocats desenvolupar eines a mida."
+    },
+    {
+      "title": "Els equips legals interns intensifiquen les seves estratègies d'IA",
+      "link_id": "c_834371",
+      "source": "Financial Times",
+      "date": "2026-05-15",
+      "time": "00:00",
+      "summary": "Equips legals interns adopten estratègies d'IA per millorar la gestió de casos i eficiència."
+    }
+  ]
+}
