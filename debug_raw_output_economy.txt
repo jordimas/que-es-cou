@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-05-15T12:20",
+  "generated_at": "2026-05-16T09:18",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Les accions de Cerebras cauen després d'un debut d'IPO espectacular — què està passant",
+      "title": "Els titans de la tecnologia haurien de contestar el telèfon — i la resta de nosaltres també",
+      "link_id": "c_ec1e8a",
+      "source": "Financial Times",
+      "date": "2026-05-16",
+      "time": "04:00",
+      "summary": "Les grans empreses tecnològiques han de ser més transparents amb els clients i col·laboradors."
+    },
+    {
+      "title": "El boom de la IA podria posar fi a l'opció de des-equitització",
+      "link_id": "c_450ca3",
+      "source": "Financial Times",
+      "date": "2026-05-16",
+      "time": "04:00",
+      "summary": "L'augment de la IA podria reduir la necessitat d'emissions d'accions per a les empreses."
+    },
+    {
+      "title": "Fi del corredor hipotecari?",
+      "link_id": "c_7f9439",
+      "source": "Financial Times",
+      "date": "2026-05-16",
+      "time": "04:00",
+      "summary": "Les noves plataformes digitals amenacen el model tradicional dels intermediaris hipotecaris."
+    },
+    {
+      "title": "Per què l'OPV de l'aplicació de bicicletes Lime no és una mala aposta",
+      "link_id": "c_ca6dc0",
+      "source": "Financial Times",
+      "date": "2026-05-16",
+      "time": "04:00",
+      "summary": "L'OPV de Lime mostra valor sostenible i creixement en mobilitat urbana."
+    },
+    {
+      "title": "Trump va promocionar Palantir a Truth Social després d'adquirir accions, segons els registres",
+      "link_id": "c_562688",
+      "source": "CNBC Technology",
+      "date": "2026-05-15",
+      "time": "20:28",
+      "summary": "Trump impulsa Palantir a les xarxes socials després d'una compra significativa d'accions."
+    },
+    {
+      "title": "Què cal saber sobre Cerebras, competidor de Nvidia, després d'una OPV explosiva",
+      "link_id": "c_087b6c",
+      "source": "CNBC Technology",
+      "date": "2026-05-15",
+      "time": "20:05",
+      "summary": "Cerebras destaca per chips especialitzats, tot i la volatilitat post-OPV."
+    },
+    {
+      "title": "Les accions de Cerebras cauen un 10% el primer dia complet de negociació després d'un debut espectacular",
       "link_id": "c_40ff95",
       "source": "CNBC Technology",
       "date": "2026-05-15",
-      "time": "10:38",
-      "summary": "Després de l'IPO, Cerebras enfronta caiguda de preus, mostrant volatilitat del mercat d'IA."
+      "time": "20:05",
+      "summary": "Després del debut, el preu de Cerebras cau, reflectint incerteses del mercat."
     },
     {
-      "title": "Perseguint la Utopia — antic executiu de Google adverteix contra la IA en un documental mesurat",
-      "link_id": "c_1db31c",
-      "source": "Financial Times",
+      "title": "El principal coll d'ampolla en l'expansió de la IA impulsa l'ETF DRAM a rècords",
+      "link_id": "c_7588ee",
+      "source": "CNBC Technology",
       "date": "2026-05-15",
-      "time": "08:37",
-      "summary": "El documental analitza riscos i oportunitats de la IA des de la perspectiva d'un antic líder de Google."
+      "time": "17:02",
+      "summary": "L'ETF DRAM arriba a nous màxims gràcies a la demanda d'IA."
     },
     {
-      "title": "L'empresa japonesa de memòria flash veu augmentar els beneficis gràcies a la frenètica IA",
-      "link_id": "c_9ea98e",
+      "title": "Operacions de directors: el director financer de Softcat compra accions abans de l'impuls de la IA",
+      "link_id": "c_dbfc0",
       "source": "Financial Times",
       "date": "2026-05-15",
-      "time": "08:17",
-      "summary": "La demanda d'IA impulsa les vendes de memòria flash, elevant els guanys de l'empresa japonesa."
+      "time": "17:00",
+      "summary": "El director financer de Softcat aposta per l'IA comprant accions abans del creixement."
     },
     {
-      "title": "Grans grups tecnològics inicien una onada global de préstecs per finançar l'expansió de la IA",
-      "link_id": "c_41607c",
-      "source": "Financial Times",
+      "title": "On el debut monstruós de Cerebras la situa entre les majors OPV tecnològiques",
+      "link_id": "c_6ce82d",
+      "source": "CNBC Technology",
       "date": "2026-05-15",
-      "time": "04:00",
-      "summary": "Les grans tecnologies busquen finançament extern per ampliar capacitats d'IA, augmentant el deute global."
-    },
-    {
-      "title": "Multiverse d'Euan Blair arriba a una valoració de 2.100 milions de dòlars impulsant la formació de la força laboral en IA",
-      "link_id": "c_a1b13d",
-      "source": "Financial Times",
-      "date": "2026-05-15",
-      "time": "04:00",
-      "summary": "Multiverse atrau inversors amb formació IA per empreses, reflectint creixent interès en habilitats digitals."
-    },
-    {
-      "title": "Anthropic accepta els termes d'un acord de finançament de 30.000 milions de dòlars amb una valoració de 900.000 milions",
-      "link_id": "c_c98cdc",
-      "source": "Financial Times",
-      "date": "2026-05-15",
-      "time": "00:23",
-      "summary": "Anthropic assegura 30.000 milions per expandir la IA, reforçant la seva posició en el sector."
-    },
-    {
-      "title": "Despatxos d'advocats australians lideren l'ús òptim de la IA",
-      "link_id": "c_7d0e8c",
-      "source": "Financial Times",
-      "date": "2026-05-15",
-      "time": "00:00",
-      "summary": "Advocats australians integren IA per optimitzar processos i oferir serveis més eficients als clients."
-    },
-    {
-      "title": "Un text japonès obre un nou capítol de tecnologia legal",
-      "link_id": "c_29ac5f",
-      "source": "Financial Times",
-      "date": "2026-05-15",
-      "time": "00:00",
-      "summary": "Un fragment de text japonès impulsa innovacions en aplicacions legals basades en IA."
-    },
-    {
-      "title": "El creixement d'eines legals d'IA 'fes-ho-tu-mateix'",
-      "link_id": "c_f59f96",
-      "source": "Financial Times",
-      "date": "2026-05-15",
-      "time": "00:00",
-      "summary": "Les empreses creen solucions d'IA personalitzables, permetent als advocats desenvolupar eines a mida."
-    },
-    {
-      "title": "Els equips legals interns intensifiquen les seves estratègies d'IA",
-      "link_id": "c_834371",
-      "source": "Financial Times",
-      "date": "2026-05-15",
-      "time": "00:00",
-      "summary": "Equips legals interns adopten estratègies d'IA per millorar la gestió de casos i eficiència."
+      "time": "16:36",
+      "summary": "El debut de Cerebras la posiciona entre les OPV més grans del sector tecnològic."
     }
   ]
 }

@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-05-15T14:20",
+  "generated_at": "2026-05-16T09:30",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Què decidirà realment el jurat en el cas d'Elon Musk contra Sam Altman",
-      "link_id": "c_2f5221",
+      "title": "ChatGPT ara donarà consells financers si connectes el teu compte bancari. Jo no ho faré.",
+      "link_id": "c_f15289",
+      "source": "Digital Trends",
+      "date": "2026-05-15",
+      "time": "19:02",
+      "summary": "ChatGPT permet als usuaris de Pro connectar bancs via Plaid per rebre consells financers personalitzats i anàlisi de despeses."
+    },
+    {
+      "title": "Musk vs. Altman setmana 3: Musk i Altman s’intercanvien crítiques sobre la credibilitat. Ara el jurat triarà un costat.",
+      "link_id": "c_a87a64",
+      "source": "MIT Technology Review",
+      "date": "2026-05-15",
+      "time": "23:39",
+      "summary": "El judici entre Elon Musk i Sam Altman avança; el jurat decidirà la responsabilitat de l'empresa d'IA."
+    },
+    {
+      "title": "OpenAI integra Codex al seu app mòbil, permetent programar des de qualsevol dispositiu amb accés remot.",
+      "link_id": "c_fadf73",
+      "source": "Digital Trends",
+      "date": "2026-05-15",
+      "time": "08:05",
+      "summary": "OpenAI integra Codex al seu app mòbil, permetent programar des de qualsevol dispositiu amb accés remot."
+    },
+    {
+      "title": "X, un bastió de l'odi, afirma que reduirà el contingut d'odi al Regne Unit.",
+      "link_id": "c_80a803",
+      "source": "Engadget",
+      "date": "2026-05-15",
+      "time": "14:50",
+      "summary": "X promet revisar i eliminar més ràpidament les publicacions d'odi i terrorisme segons les noves promeses a Ofcom."
+    },
+    {
+      "title": "Noves dades d'accidents mostren el lent progrés dels robotaxi de Tesla.",
+      "link_id": "c_c877eb",
+      "source": "Engadget",
+      "date": "2026-05-15",
+      "time": "21:50",
+      "summary": "Dues col·lisions des de juliol 2025 revelen problemes de seguretat en els robotaxi de Tesla, encara en fase de prova."
+    },
+    {
+      "title": "Google retalla silenciosament l'emmagatzematge gratuït a 5 GB sense número de telèfon.",
+      "link_id": "c_9e341e",
+      "source": "PCWorld",
+      "date": "2026-05-15",
+      "time": "16:16",
+      "summary": "Els nous comptes de Google només obtindran 5 GB gratuïts a menys que es verifiquin amb número de telèfon."
+    },
+    {
+      "title": "Els preus de l'electricitat pujen un 76 % a la xarxa més gran d'Amèrica, i un regulador assenyala culpables.",
+      "link_id": "c_09eda0",
       "source": "TechCrunch",
-      "date": "2026-05-14",
-      "time": "22:47",
-      "summary": "El jurat analitza les acusacions clau entre Musk i Altman mentre la indústria tecnològica observa el judici."
-    },
-    {
-      "title": "Hora del tancament",
-      "link_id": "c_5a29a6",
-      "source": "The Verge",
-      "date": "2026-05-14",
-      "time": "18:21",
-      "summary": "El jurat escolta els arguments finals del procés Musk‑Altman, marcant un moment decisiu."
-    },
-    {
-      "title": "Els veritables perdedors del judici Musk contra Altman",
-      "link_id": "c_029892",
-      "source": "Wired",
       "date": "2026-05-15",
-      "time": "00:49",
-      "summary": "El judici revela com les empreses tecnològiques pateixen danys reputacionals i financers."
+      "time": "15:45",
+      "summary": "L'augment del 76 % dels preus elèctrics destaca problemes de la infraestructura de la xarxa davant la demanda d'IA."
     },
     {
-      "title": "Drama judicial d'alt risc del cas Musk vs OpenAI escolta arguments de tancament",
-      "link_id": "c_06ff13",
-      "source": "The Guardian Tech",
-      "date": "2026-05-14",
-      "time": "23:08",
-      "summary": "El jurat decideix el futur de la intel·ligència artificial entre dos gegants tecnològics."
-    },
-    {
-      "title": "El judici d'OpenAI avança cap al jurat després dels arguments de tancament",
-      "link_id": "c_6402d6",
-      "source": "NYT Technology",
+      "title": "EE. UU. ordenen als viatgers del Air Force One que abandonin regals, pins i telèfons de descart després del viatge a Xina.",
+      "link_id": "c_62fb1a",
+      "source": "TechCrunch",
       "date": "2026-05-15",
-      "time": "01:47",
-      "summary": "El veredicte pot redefinir la regulació i el control de les IA avançades."
+      "time": "15:42",
+      "summary": "Després del viatge a Xina, el govern americà demana eliminar objectes personals per motius de seguretat."
     },
     {
-      "title": "Musk i Altman fan les últimes presentacions al jurat",
-      "link_id": "c_6c3154",
-      "source": "Bloomberg Technology",
-      "date": "2026-05-14",
-      "time": "22:14",
-      "summary": "Les últimes declaracions podrien inclinar la decisió sobre la propietat de les tecnologies d'IA."
-    },
-    {
-      "title": "Les deliberacions del jurat comencen en el judici OpenAI després que Musk viatgi a Pequín",
-      "link_id": "c_1c2418",
-      "source": "The Next Web",
+      "title": "Runway, nascuda ajudant cineastes, ara vol superar Google en IA.",
+      "link_id": "c_c5e15a",
+      "source": "TechCrunch",
       "date": "2026-05-15",
-      "time": "07:48",
-      "summary": "El jurat començarà a decidir mentre Musk es troba a la Xina, augmentant la tensió."
+      "time": "14:00",
+      "summary": "La startup Runway busca superar Google en tecnologia d'intel·ligència artificial per a la creació de contingut visual."
     },
     {
-      "title": "Executius de Samsung fan visita rara al sindicat mentre augmenten les pors d'estrenyiment",
-      "link_id": "c_16be7e",
-      "source": "Bloomberg Technology",
+      "title": "L'escriptura amb IA arriba a un límit.",
+      "link_id": "c_e45a03",
+      "source": "Axios",
       "date": "2026-05-15",
-      "time": "11:53",
-      "summary": "La visita busca evitar una vaga de 18 dies que podria afectar la cadena de subministrament."
-    },
-    {
-      "title": "Samsung accepta parlar; el sindicat diu que la vaga començarà al juny",
-      "link_id": "c_22562a",
-      "source": "The Next Web",
-      "date": "2026-05-15",
-      "time": "08:45",
-      "summary": "Les negociacions es reprendran el 7 de juny, després d'una pausa de tres dies."
-    },
-    {
-      "title": "Possible vaga de Samsung augmenta la pressió sobre els preus de la memòria",
-      "link_id": "c_5a6a9f",
-      "source": "The Register",
-      "date": "2026-05-15",
-      "time": "04:43",
-      "summary": "La incertesa laboral podria empènyer els costos de la RAM a nous màxims."
+      "time": "09:00",
+      "summary": "Segons Graphite, aproximadament el 50 % dels articles en línia són generats per IA, sense augment significatiu recent."
     }
   ]
 }

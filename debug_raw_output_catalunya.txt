@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T12:20",
+  "generated_at": "2026-05-16T12:00",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
@@ -9,219 +9,79 @@
       "articles_found": 3
     },
     {
-      "name": "El Periódico",
-      "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
-      "articles_found": 3
-    },
-    {
-      "name": "RAC1",
-      "url": "https://www.rac1.cat/rss/home.xml",
-      "articles_found": 0
-    },
-    {
-      "name": "La Vanguardia (en català)",
-      "url": "https://www.lavanguardia.com/rss/encatala.xml",
-      "articles_found": 0
-    },
-    {
-      "name": "VilaWeb",
-      "url": "https://www.vilaweb.cat/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "NacióDigital",
-      "url": "https://www.naciodigital.cat/rss/tecnologia",
-      "articles_found": 0
-    },
-    {
       "name": "324.cat",
       "url": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0",
       "articles_found": 1
     },
     {
-      "name": "Softcatalà",
-      "url": "https://www.softcatala.org/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "El Nacional.cat",
-      "url": "https://www.elnacional.cat/uploads/feeds/feed_ca.xml",
-      "articles_found": 0
+      "name": "Tot Barcelona",
+      "url": "https://www.totbarcelona.cat/feed/",
+      "articles_found": 1
     },
     {
       "name": "El Mon.cat",
       "url": "https://www.elmon.cat/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "El Mon.cat Tecnologia",
-      "url": "https://elmon.cat/tecnologia/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "El Mon.cat Societat",
-      "url": "https://elmon.cat/societat/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "Betevé",
-      "url": "https://beteve.cat/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "El Punt Avui",
-      "url": "https://www.elpuntavui.cat/barcelona.feed?type=rss",
-      "articles_found": 0
-    },
-    {
-      "name": "Segre",
-      "url": "https://www.segre.com/ca/rss/home.xml",
       "articles_found": 1
-    },
-    {
-      "name": "Regio7",
-      "url": "https://www.regio7.cat/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Diari d'Andorra",
-      "url": "https://www.diariandorra.ad/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Bon Dia Andorra",
-      "url": "https://www.bondia.ad/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Altaveu",
-      "url": "https://www.altaveu.com/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Nuvol",
-      "url": "https://www.nuvol.com/feed",
-      "articles_found": 0
-    },
-    {
-      "name": "Diari Mes",
-      "url": "https://www.diarimes.com/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Directe.cat",
-      "url": "https://www.directe.cat/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Cugat.cat",
-      "url": "https://www.cugat.cat/feed/",
-      "articles_found": 2
-    },
-    {
-      "name": "CatalunyaPress",
-      "url": "https://www.catalunyapress.cat/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Tot Barcelona",
-      "url": "https://www.totbarcelona.cat/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "e-notícies",
-      "url": "https://www.e-noticies.cat/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Lleida Diari",
-      "url": "https://www.lleidadiari.cat/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "Catorze",
-      "url": "https://www.catorze.cat/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Xarxanet",
-      "url": "https://www.xarxanet.org/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Bondia",
-      "url": "https://www.bondia.cat/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "MetaData",
-      "url": "https://www.metadata.cat/sindica",
-      "articles_found": 0
-    },
-    {
-      "name": "El Temps",
-      "url": "https://www.eltemps.cat/sindica",
-      "articles_found": 0
-    },
-    {
-      "name": "Àpunt",
-      "url": "https://www.apuntmedia.es/rss/",
-      "articles_found": 0
-    },
-    {
-      "name": "El Periòdic d'Ontinyent",
-      "url": "https://www.elperiodicvalencia.com/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Saó",
-      "url": "https://www.revistasao.cat/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "Diari de Balears",
-      "url": "https://www.diaridebalears.cat/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "IB3 Notícies",
-      "url": "https://ib3.org/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "Ara Balears",
-      "url": "https://www.arabalears.cat/rss/",
-      "articles_found": 0
-    },
-    {
-      "name": "Manacor Comarcal",
-      "url": "https://manacorcomarcal.com/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Via Empresa",
-      "url": "https://www.viaempresa.cat/uploads/feeds/feed_via-empresa-2024_ca.xml",
-      "articles_found": 0
-    },
-    {
-      "name": "Lúdica",
-      "url": "https://ludica.cat/feed/",
-      "articles_found": 0
     },
     {
       "name": "Accent Obert",
       "url": "https://accentobert.cat/feed/",
-      "articles_found": 0
+      "articles_found": 1
+    },
+    {
+      "name": "El Periódico",
+      "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
+      "articles_found": 2
     }
   ],
   "articles": [
+    {
+      "title": "A mig gas i amb dubtes entre el comerç: Bizum arriba a botigues i restaurants",
+      "link_id": "c_518486",
+      "source": "Ara.cat",
+      "date": "2026-05-16",
+      "time": "06:00",
+      "summary": "Bizum arrenca a botigues, facilitant pagaments ràpids i sense targetes, impulsant comerç local."
+    },
+    {
+      "title": "El govern vol formar en intel·ligència artificial 250.000 treballadors públics",
+      "link_id": "c_e44784",
+      "source": "324.cat",
+      "date": "2026-05-16",
+      "time": "08:06",
+      "summary": "La Generalitat llança formació massiva en IA per 250.000 empleats públics, potenciant la digitalització estatal."
+    },
+    {
+      "title": "Veolia impulsa la innovació en la gestió de serveis essencials a Catalunya amb un nou centre Hubgrade a Granollers￼",
+      "link_id": "c_c9225d",
+      "source": "Tot Barcelona",
+      "date": "2026-05-15",
+      "time": "13:31",
+      "summary": "Veolia inaugura Hubgrade a Granollers, centre de resiliència urbana per gestionar aigua i clima."
+    },
+    {
+      "title": "La Plataforma per la Llengua reclama que la pròrroga de la concessió dels busos interurbans garanteixi l’atenció en català",
+      "link_id": "c_8f34f2",
+      "source": "El Mon.cat",
+      "date": "2026-05-15",
+      "time": "16:19",
+      "summary": "La Plataforma per la Llengua exigeix que les concessions de bus interurbà garanteixin servei en català."
+    },
+    {
+      "title": "Els premis CRIT reconeixen 17 projectes de creació digital en català en la seva segona edició",
+      "link_id": "c_b2bc28",
+      "source": "Accent Obert",
+      "date": "2026-05-15",
+      "time": "09:25",
+      "summary": "Els Premis CRIT reconeixen 17 projectes digitals en català, impulsant la creativitat i l'innovació local."
+    },
     {
       "title": "Logística amb IA: la nova revolució al SIL Barcelona",
       "link_id": "c_865c9d",
       "source": "Ara.cat",
       "date": "2026-05-13",
       "time": "21:59",
-      "summary": "La IA transforma la logística, promet eficiència i reducció de costos al SIL Barcelona."
+      "summary": "El SIL Barcelona presenta la IA com a motor de transformació per a la logística i la cadena de subministrament."
     },
     {
       "title": "Així són les fàbriques d'intel·ligència artificial",
@@ -229,7 +89,7 @@
       "source": "Ara.cat",
       "date": "2026-05-15",
       "time": "10:55",
-      "summary": "Descobreix com les gigafàbriques d'IA reconfiguren la producció digital i el consum energètic."
+      "summary": "Descobreix com les gigafàbriques d'IA emmagatzemen bits i produeixen intel·ligència artificial a gran escala."
     },
     {
       "title": "López defensa les regulacions del govern espanyol en tecnologia: \"No som distòpics\"",
@@ -237,7 +97,7 @@
       "source": "Ara.cat",
       "date": "2026-05-14",
       "time": "12:00",
-      "summary": "El ministre defensa la regulació de IA i l'absència d'accés infantil a xarxes socials."
+      "summary": "López defensa les regulacions espanyoles d'IA, assegurant que protegeixen menors i promouen l'ètica digital."
     },
     {
       "title": "Google i SpaceX negocien llançar centres de dades d’IA a l’espai",
@@ -245,15 +105,7 @@
       "source": "El Periódico",
       "date": "2026-05-15",
       "time": "11:29",
-      "summary": "Google i SpaceX apunten a centres de dades orbitals per impulsar IA a escala interplanetària."
-    },
-    {
-      "title": "Dimiteix el director de Microsoft a Israel després de destapar-se que va fer servir la seva tecnologia per espiar milions de persones a Gaza i Cisjordània",
-      "link_id": "c_8168db",
-      "source": "El Periódico",
-      "date": "2026-05-14",
-      "time": "16:09",
-      "summary": "El director israelià de Microsoft renuncia després de l'ús de núvol per vigilància massiva."
+      "summary": "Google i SpaceX exploren llançar centres de dades d'IA a l'espai, obrint nova frontera tecnològica."
     },
     {
       "title": "Cop a Shein, Temu i AliExpress: Europa s’hi posa seriosa i a partir de juny les cancel·lacions de compres en línia seran immediates",
@@ -261,39 +113,7 @@
       "source": "El Periódico",
       "date": "2026-05-14",
       "time": "13:51",
-      "summary": "UE obliga a facilitar cancel·lacions immediates a plataformes com Shein i Temu."
-    },
-    {
-      "title": "Educació posa en marxa l'app per gestionar diàriament les substitucions de docents",
-      "link_id": "c_639ec6",
-      "source": "324.cat",
-      "date": "2026-05-15",
-      "time": "13:31",
-      "summary": "L'app escolar simplifica la gestió diària de substitucions, millorant la cobertura docent."
-    },
-    {
-      "title": "BonÀrea preveu invertir 121 milions d’euros aquest any i obrir 20 nous establiments",
-      "link_id": "c_73c2a4",
-      "source": "Segre",
-      "date": "2026-05-15",
-      "time": "05:35",
-      "summary": "BonÀrea destina 121 milions per obrir 20 nous establiments i crear llocs de treball."
-    },
-    {
-      "title": "Grifols plantejarà una reducció de capital de fins al 10% mitjançant l’amortització d’accions",
-      "link_id": "c_107144",
-      "source": "Cugat.cat",
-      "date": "2026-05-15",
-      "time": "11:38",
-      "summary": "Grifols considerarà amortitzar accions per reduir el capital fins al 10%."
-    },
-    {
-      "title": "FGC renovarà ascensors i escales mecàniques de diverses estacions",
-      "link_id": "c_fd0d79",
-      "source": "Cugat.cat",
-      "date": "2026-05-15",
-      "time": "08:05",
-      "summary": "FGC modernitzarà 10 ascensors i escales mecàniques, millorant l'accessibilitat a la xarxa."
+      "summary": "Europa imposa cancel·lacions immediates en compres en línia, protegint consumidors contra pràctiques abusives."
     }
   ]
 }
