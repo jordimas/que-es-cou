@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T10:30",
+  "generated_at": "2026-05-17T07:34",
   "id": "podcasts",
   "title": "Podcasts en català sobre tecnologia",
   "sources_checked": [],
@@ -18,7 +18,7 @@
       "source": "Mossega la poma",
       "date": "2026-05-09",
       "time": "08:26",
-      "summary": "Debatem el risc de les apostes en Polymarket i la influència de les pantalles en la infància."
+      "summary": "Analitzem Polymarket i debatim si les pantalles representen un risc real per a menors."
     },
     {
       "title": "L' Altra Ràdio - Els Premis Nacionals de Comunicació, Ràdio Associació i Sonor",
@@ -26,7 +26,7 @@
       "source": "L'altra ràdio",
       "date": "2026-05-14",
       "time": "07:33",
-      "summary": "Premis que reconeixen l'excel·lència en comunicació catalana i la innovació radiofònica."
+      "summary": "Es revelen els guanyadors i la importància dels Premis Nacionals de Comunicació 2025."
     },
     {
       "title": "L' Altra Ràdio - El DMTforum 2026: la gran trobada del sector català de les telecomunicacions",
@@ -34,7 +34,7 @@
       "source": "L'altra ràdio",
       "date": "2026-05-07",
       "time": "07:33",
-      "summary": "El DMTforum 2026 impulsa la col·laboració i les noves tecnologies del sector de telecomunicacions català."
+      "summary": "Presentem el DMTforum 2026, trobada clau per al sector català de telecomunicacions."
     },
     {
       "title": "El gòTIC - Tenim una missió! del 13/5/2026",
@@ -42,7 +42,7 @@
       "source": "El Gòtic",
       "date": "2026-05-12",
       "time": "16:29",
-      "summary": "El gòTIC comparteix recursos per afrontar reptes de la ciutadania digital a Tàrrega."
+      "summary": "El gòTIC impulsa recursos digitals per afrontar reptes de la ciutadania digital."
     },
     {
       "title": "L’històric cercador Ask Jeeves tanca",
@@ -50,15 +50,7 @@
       "source": "Societat de la Informació",
       "date": "2026-05-05",
       "time": "10:05",
-      "summary": "Ask Jeeves finalitza la seva trajectòria, marcant el final d'una era de cerca basada en llenguatge natural."
-    },
-    {
-      "title": "El manifest de Palantir, l'acord del Pentàgon amb vuit grans empreses d'IA i el relleu al capdavant d'Apple.",
-      "link_id": "c_0ae4e7",
-      "source": "Internet amb Genís Roca",
-      "date": "2026-05-01",
-      "time": "20:10",
-      "summary": "Analitzem el manifest de Palantir i l'acord del Pentàgon amb IA, i el canvi de lideratge a Apple."
+      "summary": "Ask Jeeves tanca després de tres dècades, marcant el final d’un cercador pioner."
     },
     {
       "title": "Més palanques que el mecànic de Las Vegas",
@@ -66,7 +58,7 @@
       "source": "Foc a Terra",
       "date": "2026-05-11",
       "time": "04:00",
-      "summary": "Entrevista amb Eduard Romeu sobre estratègies financeres i gestió de resultats empresarials."
+      "summary": "Explorem estratègies financeres i errors de gestió que afecten empreses com el mecànic de Las Vegas."
     },
     {
       "title": "Foc you, Tim Apple",
@@ -74,7 +66,7 @@
       "source": "Foc a Terra",
       "date": "2026-05-04",
       "time": "04:00",
-      "summary": "Especial dedicat a Tim Apple, revisant els seus èxits i errors durant quinze anys."
+      "summary": "Repassem les contribucions i falles de Tim Apple durant quinze anys de lideratge a Apple."
     },
     {
       "title": "WordPress 7.0, sense Real Time Collaboration",
@@ -82,7 +74,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-05-12",
       "time": "00:00",
-      "summary": "WordPress 7.0 retarda la col·laboració en temps real fins a la versió 7.1 per qüestions de rendiment."
+      "summary": "Anuncien que la col·laboració en temps real arribarà a WordPress 7.1, no a la versió 7.0."
     },
     {
       "title": "L’API de presència",
@@ -90,7 +82,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-05-05",
       "time": "00:00",
-      "summary": "L'API de presència mostra editors actius i millora la interacció dins del tauler de WordPress."
+      "summary": "L’API de presència afegeix indicadors visuals d’editors actius al tauler de WordPress."
     },
     {
       "title": "Capítol 64: \"Obrir una gelateria és un dels negocis més rendibles a hores d'ara a la ciutat de Barcelona”",
@@ -98,7 +90,7 @@
       "source": "RAC&GO",
       "date": "2026-05-05",
       "time": "06:19",
-      "summary": "Quatre amics decideixen crear una gelateria artesanal a Barcelona, superant tràmits i buscant èxit local."
+      "summary": "Quatre amics obren una gelateria a Barcelona, mostrant com emprendre amb èxit en el sector gastronòmic."
     }
   ]
 }

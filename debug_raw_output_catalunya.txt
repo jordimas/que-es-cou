@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T12:00",
+  "generated_at": "2026-05-17T07:34",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
@@ -9,111 +9,116 @@
       "articles_found": 3
     },
     {
-      "name": "324.cat",
-      "url": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0",
+      "name": "RAC1",
+      "url": "https://www.rac1.cat/rss/home.xml",
       "articles_found": 1
     },
     {
-      "name": "Tot Barcelona",
-      "url": "https://www.totbarcelona.cat/feed/",
+      "name": "La Vanguardia (en català)",
+      "url": "https://www.lavanguardia.com/rss/encatala.xml",
       "articles_found": 1
     },
     {
-      "name": "El Mon.cat",
-      "url": "https://www.elmon.cat/feed/",
-      "articles_found": 1
-    },
-    {
-      "name": "Accent Obert",
-      "url": "https://accentobert.cat/feed/",
-      "articles_found": 1
-    },
-    {
-      "name": "El Periódico",
-      "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
+      "name": "Metadata",
+      "url": "https://www.metadata.cat/sindica",
       "articles_found": 2
+    },
+    {
+      "name": "IB3 Notícies",
+      "url": "https://ib3.org/feed/",
+      "articles_found": 1
+    },
+    {
+      "name": "Lleida Diari",
+      "url": "https://www.lleidadiari.cat/feed/",
+      "articles_found": 1
+    },
+    {
+      "name": "Via Empresa",
+      "url": "https://www.viaempresa.cat/uploads/feeds/feed_via-empresa-2024_ca.xml",
+      "articles_found": 1
     }
   ],
   "articles": [
-    {
-      "title": "A mig gas i amb dubtes entre el comerç: Bizum arriba a botigues i restaurants",
-      "link_id": "c_518486",
-      "source": "Ara.cat",
-      "date": "2026-05-16",
-      "time": "06:00",
-      "summary": "Bizum arrenca a botigues, facilitant pagaments ràpids i sense targetes, impulsant comerç local."
-    },
-    {
-      "title": "El govern vol formar en intel·ligència artificial 250.000 treballadors públics",
-      "link_id": "c_e44784",
-      "source": "324.cat",
-      "date": "2026-05-16",
-      "time": "08:06",
-      "summary": "La Generalitat llança formació massiva en IA per 250.000 empleats públics, potenciant la digitalització estatal."
-    },
-    {
-      "title": "Veolia impulsa la innovació en la gestió de serveis essencials a Catalunya amb un nou centre Hubgrade a Granollers￼",
-      "link_id": "c_c9225d",
-      "source": "Tot Barcelona",
-      "date": "2026-05-15",
-      "time": "13:31",
-      "summary": "Veolia inaugura Hubgrade a Granollers, centre de resiliència urbana per gestionar aigua i clima."
-    },
-    {
-      "title": "La Plataforma per la Llengua reclama que la pròrroga de la concessió dels busos interurbans garanteixi l’atenció en català",
-      "link_id": "c_8f34f2",
-      "source": "El Mon.cat",
-      "date": "2026-05-15",
-      "time": "16:19",
-      "summary": "La Plataforma per la Llengua exigeix que les concessions de bus interurbà garanteixin servei en català."
-    },
-    {
-      "title": "Els premis CRIT reconeixen 17 projectes de creació digital en català en la seva segona edició",
-      "link_id": "c_b2bc28",
-      "source": "Accent Obert",
-      "date": "2026-05-15",
-      "time": "09:25",
-      "summary": "Els Premis CRIT reconeixen 17 projectes digitals en català, impulsant la creativitat i l'innovació local."
-    },
     {
       "title": "Logística amb IA: la nova revolució al SIL Barcelona",
       "link_id": "c_865c9d",
       "source": "Ara.cat",
       "date": "2026-05-13",
       "time": "21:59",
-      "summary": "El SIL Barcelona presenta la IA com a motor de transformació per a la logística i la cadena de subministrament."
+      "summary": "La IA transforma la logística del SIL, impulsant eficiència i sostenibilitat a la fira de Barcelona."
     },
     {
-      "title": "Així són les fàbriques d'intel·ligència artificial",
-      "link_id": "c_b8aace",
+      "title": "El model energètic d'Osona que impressiona a Europa",
+      "link_id": "c_a41a6c",
       "source": "Ara.cat",
-      "date": "2026-05-15",
-      "time": "10:55",
-      "summary": "Descobreix com les gigafàbriques d'IA emmagatzemen bits i produeixen intel·ligència artificial a gran escala."
+      "date": "2026-05-17",
+      "time": "05:45",
+      "summary": "Osona lidera amb energia pública i participació ciutadana, model sostenible reconegut a nivell europeu."
     },
     {
-      "title": "López defensa les regulacions del govern espanyol en tecnologia: \"No som distòpics\"",
-      "link_id": "c_78ed29",
+      "title": "A mig gas i amb dubtes entre el comerç: Bizum arriba a botigues i restaurants",
+      "link_id": "c_518486",
       "source": "Ara.cat",
-      "date": "2026-05-14",
-      "time": "12:00",
-      "summary": "López defensa les regulacions espanyoles d'IA, assegurant que protegeixen menors i promouen l'ètica digital."
+      "date": "2026-05-16",
+      "time": "06:00",
+      "summary": "BizumPay arrenca a comerços, oferint pagament instantani i competint amb targetes tradicionals."
     },
     {
-      "title": "Google i SpaceX negocien llançar centres de dades d’IA a l’espai",
-      "link_id": "c_471918",
-      "source": "El Periódico",
+      "title": "Els neandertals també anaven al dentista: troben la prova més antiga d’un tractament dental de fa 60.000 anys",
+      "link_id": "c_57e241",
+      "source": "RAC1",
+      "date": "2026-05-16",
+      "time": "13:38",
+      "summary": "Descobriment mostra que neandertals tractaven càries fa 60.000 anys, revelant avanç tecnològic prehistòric."
+    },
+    {
+      "title": "La part fosca de la IA",
+      "link_id": "c_007289",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-05-17",
+      "time": "07:20",
+      "summary": "Debat sobre riscos de la IA, advertint sobre possibles amenaces a llibertats democràtiques."
+    },
+    {
+      "title": "El 95% de la ciutadania creu que els menors estan desprotegits a Internet i reclama més control digital",
+      "link_id": "c_65ef3e",
+      "source": "Metadata",
+      "date": "2026-05-13",
+      "time": "16:05",
+      "summary": "Enquesta revela que la gran majoria de menors es sent insegura a internet, demanant més control."
+    },
+    {
+      "title": "L’habitatge i la IA marcaran l’edició més urbana i social de l’Smart City Expo",
+      "link_id": "c_276069",
+      "source": "Metadata",
+      "date": "2026-05-14",
+      "time": "12:10",
+      "summary": "Smart City Expo destaca solucions IA per millorar habitatge i sostenibilitat urbana a Barcelona."
+    },
+    {
+      "title": "Augmenten els casos de ‘deepfakes’ sexuals amb menors",
+      "link_id": "c_792eea",
+      "source": "IB3 Notícies",
+      "date": "2026-05-16",
+      "time": "12:48",
+      "summary": "Augmenten els deepfakes sexuals amb menors, alertant sobre riscos d’abusos digitals i necessitat de denúncia."
+    },
+    {
+      "title": "Confirmat: l’aprenentatge digital genera fatiga mental als universitaris",
+      "link_id": "c_be3416",
+      "source": "Lleida Diari",
+      "date": "2026-05-16",
+      "time": "19:14",
+      "summary": "Estudi revela que l’aprenentatge en línia genera fatiga mental significativa entre estudiants universitaris."
+    },
+    {
+      "title": "Veolia impulsa un centre d'innovació a Granollers per coordinar les actuacions digitals a Catalunya",
+      "link_id": "c_d8ad4b",
+      "source": "Via Empresa",
       "date": "2026-05-15",
-      "time": "11:29",
-      "summary": "Google i SpaceX exploren llançar centres de dades d'IA a l'espai, obrint nova frontera tecnològica."
-    },
-    {
-      "title": "Cop a Shein, Temu i AliExpress: Europa s’hi posa seriosa i a partir de juny les cancel·lacions de compres en línia seran immediates",
-      "link_id": "c_cccd3e",
-      "source": "El Periódico",
-      "date": "2026-05-14",
-      "time": "13:51",
-      "summary": "Europa imposa cancel·lacions immediates en compres en línia, protegint consumidors contra pràctiques abusives."
+      "time": "14:38",
+      "summary": "Veolia llança hub digital a Granollers per predir inundacions i millorar resiliència urbana."
     }
   ]
 }

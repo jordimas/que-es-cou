@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-05-16T09:30",
+  "generated_at": "2026-05-17T09:34",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "ChatGPT ara donarà consells financers si connectes el teu compte bancari. Jo no ho faré.",
-      "link_id": "c_f15289",
-      "source": "Digital Trends",
-      "date": "2026-05-15",
-      "time": "19:02",
-      "summary": "ChatGPT permet als usuaris de Pro connectar bancs via Plaid per rebre consells financers personalitzats i anàlisi de despeses."
+      "title": "Snap, YouTube i TikTok resolen una demanda per danys als estudiants",
+      "link_id": "c_9c63ff",
+      "source": "The Verge",
+      "date": "2026-05-16",
+      "time": "18:34",
+      "summary": "Les plataformes acorden pagar compensacions per l'addicció dels estudiants a les xarxes socials."
     },
     {
-      "title": "Musk vs. Altman setmana 3: Musk i Altman s’intercanvien crítiques sobre la credibilitat. Ara el jurat triarà un costat.",
-      "link_id": "c_a87a64",
-      "source": "MIT Technology Review",
-      "date": "2026-05-15",
-      "time": "23:39",
-      "summary": "El judici entre Elon Musk i Sam Altman avança; el jurat decidirà la responsabilitat de l'empresa d'IA."
-    },
-    {
-      "title": "OpenAI integra Codex al seu app mòbil, permetent programar des de qualsevol dispositiu amb accés remot.",
-      "link_id": "c_fadf73",
-      "source": "Digital Trends",
-      "date": "2026-05-15",
-      "time": "08:05",
-      "summary": "OpenAI integra Codex al seu app mòbil, permetent programar des de qualsevol dispositiu amb accés remot."
-    },
-    {
-      "title": "X, un bastió de l'odi, afirma que reduirà el contingut d'odi al Regne Unit.",
-      "link_id": "c_80a803",
+      "title": "OpenAI llança ChatGPT per a finances personals, permet connectar comptes bancaris",
+      "link_id": "c_2dd7cd",
       "source": "Engadget",
-      "date": "2026-05-15",
-      "time": "14:50",
-      "summary": "X promet revisar i eliminar més ràpidament les publicacions d'odi i terrorisme segons les noves promeses a Ofcom."
+      "date": "2026-05-16",
+      "time": "16:00",
+      "summary": "ChatGPT ofereix consells de pressupost i gestió d'inversions enllaçant els teus comptes bancaris."
     },
     {
-      "title": "Noves dades d'accidents mostren el lent progrés dels robotaxi de Tesla.",
-      "link_id": "c_c877eb",
+      "title": "Els centres de dades d'IA provoquen un augment irreversible del 76% del preu de l'electricitat als EUA",
+      "link_id": "c_bcf83e",
+      "source": "Tom's Hardware",
+      "date": "2026-05-16",
+      "time": "12:02",
+      "summary": "Els centres d'IA fan pujar el cost de l'electricitat, exigint que les empreses paguin la seva infraestructura."
+    },
+    {
+      "title": "Gemini Intelligence té requisits estrictes i el teu telèfon pot no complir-los",
+      "link_id": "c_5f7f1f",
+      "source": "Digital Trends",
+      "date": "2026-05-16",
+      "time": "08:02",
+      "summary": "Molts telèfons no satisfaran les exigències d'Intel·ligència Gemini per a IA avançada."
+    },
+    {
+      "title": "Respostes del Mini Crossword del NYT per al diumenge 17 de maig",
+      "link_id": "c_7555d1",
+      "source": "CNET",
+      "date": "2026-05-17",
+      "time": "04:03",
+      "summary": "Descobreix les solucions del crucigrama mini del NYT del diumenge."
+    },
+    {
+      "title": "Pistes i respostes de NYT Connections: Edició Esports per al 17 de maig",
+      "link_id": "c_85fa2d",
+      "source": "CNET",
+      "date": "2026-05-17",
+      "time": "03:58",
+      "summary": "Ajuda per resoldre el trencaclosques NYT Connections d'esports del 17 de maig."
+    },
+    {
+      "title": "El telèfon Trump comença a enviar-se aquesta setmana després de 9 mesos de retard",
+      "link_id": "c_1fa7ee",
+      "source": "CNET",
+      "date": "2026-05-17",
+      "time": "00:20",
+      "summary": "El nou telèfon Trump ja està disponible després d'un llarg retard de nou mesos."
+    },
+    {
+      "title": "Euphoria Temporada 3, Episodi 6: Data i hora de llançament a HBO Max",
+      "link_id": "c_c58e24",
+      "source": "CNET",
+      "date": "2026-05-16",
+      "time": "23:01",
+      "summary": "L'episodi 6 de la tercera temporada d'Euphoria estarà disponible a HBO Max."
+    },
+    {
+      "title": "El risc empresarial que ningú modela: la IA substitueix els experts de què necessita aprendre",
+      "link_id": "c_55ee52",
+      "source": "VentureBeat",
+      "date": "2026-05-16",
+      "time": "21:05",
+      "summary": "Les empreses ignoren el perill que la IA suprimeix els seus propis experts."
+    },
+    {
+      "title": "Què llegir aquest cap de setmana: Llums celestials i Si la destrucció és el nostre destí",
+      "link_id": "c_695471",
       "source": "Engadget",
-      "date": "2026-05-15",
-      "time": "21:50",
-      "summary": "Dues col·lisions des de juliol 2025 revelen problemes de seguretat en els robotaxi de Tesla, encara en fase de prova."
-    },
-    {
-      "title": "Google retalla silenciosament l'emmagatzematge gratuït a 5 GB sense número de telèfon.",
-      "link_id": "c_9e341e",
-      "source": "PCWorld",
-      "date": "2026-05-15",
-      "time": "16:16",
-      "summary": "Els nous comptes de Google només obtindran 5 GB gratuïts a menys que es verifiquin amb número de telèfon."
-    },
-    {
-      "title": "Els preus de l'electricitat pujen un 76 % a la xarxa més gran d'Amèrica, i un regulador assenyala culpables.",
-      "link_id": "c_09eda0",
-      "source": "TechCrunch",
-      "date": "2026-05-15",
-      "time": "15:45",
-      "summary": "L'augment del 76 % dels preus elèctrics destaca problemes de la infraestructura de la xarxa davant la demanda d'IA."
-    },
-    {
-      "title": "EE. UU. ordenen als viatgers del Air Force One que abandonin regals, pins i telèfons de descart després del viatge a Xina.",
-      "link_id": "c_62fb1a",
-      "source": "TechCrunch",
-      "date": "2026-05-15",
-      "time": "15:42",
-      "summary": "Després del viatge a Xina, el govern americà demana eliminar objectes personals per motius de seguretat."
-    },
-    {
-      "title": "Runway, nascuda ajudant cineastes, ara vol superar Google en IA.",
-      "link_id": "c_c5e15a",
-      "source": "TechCrunch",
-      "date": "2026-05-15",
-      "time": "14:00",
-      "summary": "La startup Runway busca superar Google en tecnologia d'intel·ligència artificial per a la creació de contingut visual."
-    },
-    {
-      "title": "L'escriptura amb IA arriba a un límit.",
-      "link_id": "c_e45a03",
-      "source": "Axios",
-      "date": "2026-05-15",
-      "time": "09:00",
-      "summary": "Segons Graphite, aproximadament el 50 % dels articles en línia són generats per IA, sense augment significatiu recent."
+      "date": "2026-05-16",
+      "time": "21:00",
+      "summary": "Recomanacions de lectura sobre llums celestials i temes de destrucció per al cap de setmana."
     }
   ]
 }

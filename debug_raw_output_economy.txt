@@ -1,88 +1,32 @@
 {
-  "generated_at": "2026-05-16T09:18",
+  "generated_at": "2026-05-17T09:34",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Els titans de la tecnologia haurien de contestar el telèfon — i la resta de nosaltres també",
-      "link_id": "c_ec1e8a",
+      "title": "El “AI slop” interminable tensiona els programes de recompenses per a hackers corporatius",
+      "link_id": "c_130db0",
       "source": "Financial Times",
-      "date": "2026-05-16",
+      "date": "2026-05-17",
       "time": "04:00",
-      "summary": "Les grans empreses tecnològiques han de ser més transparents amb els clients i col·laboradors."
+      "summary": "Les sol·licituds massives d'IA falses sobrecarreguen els programes de recompenses, obligant les empreses a revisar les polítiques."
     },
     {
-      "title": "El boom de la IA podria posar fi a l'opció de des-equitització",
-      "link_id": "c_450ca3",
+      "title": "Grups d'IA xinesos es posen al davant dels rivals americans en la cursa de generació de vídeo",
+      "link_id": "c_cb44f9",
       "source": "Financial Times",
-      "date": "2026-05-16",
+      "date": "2026-05-17",
       "time": "04:00",
-      "summary": "L'augment de la IA podria reduir la necessitat d'emissions d'accions per a les empreses."
+      "summary": "Les empreses xineses superen les americanes en qualitat de vídeo IA, canviant l'ecosistema publicitari global."
     },
     {
-      "title": "Fi del corredor hipotecari?",
-      "link_id": "c_7f9439",
-      "source": "Financial Times",
+      "title": "L'IPO espectacular de Cerebras impulsa l'expectació per SpaceX i OpenAI, però exclou les empreses més petites",
+      "link_id": "c_b22c5f",
+      "source": "CNBC Technology",
       "date": "2026-05-16",
-      "time": "04:00",
-      "summary": "Les noves plataformes digitals amenacen el model tradicional dels intermediaris hipotecaris."
-    },
-    {
-      "title": "Per què l'OPV de l'aplicació de bicicletes Lime no és una mala aposta",
-      "link_id": "c_ca6dc0",
-      "source": "Financial Times",
-      "date": "2026-05-16",
-      "time": "04:00",
-      "summary": "L'OPV de Lime mostra valor sostenible i creixement en mobilitat urbana."
-    },
-    {
-      "title": "Trump va promocionar Palantir a Truth Social després d'adquirir accions, segons els registres",
-      "link_id": "c_562688",
-      "source": "CNBC Technology",
-      "date": "2026-05-15",
-      "time": "20:28",
-      "summary": "Trump impulsa Palantir a les xarxes socials després d'una compra significativa d'accions."
-    },
-    {
-      "title": "Què cal saber sobre Cerebras, competidor de Nvidia, després d'una OPV explosiva",
-      "link_id": "c_087b6c",
-      "source": "CNBC Technology",
-      "date": "2026-05-15",
-      "time": "20:05",
-      "summary": "Cerebras destaca per chips especialitzats, tot i la volatilitat post-OPV."
-    },
-    {
-      "title": "Les accions de Cerebras cauen un 10% el primer dia complet de negociació després d'un debut espectacular",
-      "link_id": "c_40ff95",
-      "source": "CNBC Technology",
-      "date": "2026-05-15",
-      "time": "20:05",
-      "summary": "Després del debut, el preu de Cerebras cau, reflectint incerteses del mercat."
-    },
-    {
-      "title": "El principal coll d'ampolla en l'expansió de la IA impulsa l'ETF DRAM a rècords",
-      "link_id": "c_7588ee",
-      "source": "CNBC Technology",
-      "date": "2026-05-15",
-      "time": "17:02",
-      "summary": "L'ETF DRAM arriba a nous màxims gràcies a la demanda d'IA."
-    },
-    {
-      "title": "Operacions de directors: el director financer de Softcat compra accions abans de l'impuls de la IA",
-      "link_id": "c_dbfc0",
-      "source": "Financial Times",
-      "date": "2026-05-15",
-      "time": "17:00",
-      "summary": "El director financer de Softcat aposta per l'IA comprant accions abans del creixement."
-    },
-    {
-      "title": "On el debut monstruós de Cerebras la situa entre les majors OPV tecnològiques",
-      "link_id": "c_6ce82d",
-      "source": "CNBC Technology",
-      "date": "2026-05-15",
-      "time": "16:36",
-      "summary": "El debut de Cerebras la posiciona entre les OPV més grans del sector tecnològic."
+      "time": "12:00",
+      "summary": "L'IPO de Cerebras atrau inversors cap a grans jugadors, deixant fora les startups d'IA emergents."
     }
   ]
 }
