@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-05-17T09:34",
+  "generated_at": "2026-05-18T10:47",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Snap, YouTube i TikTok resolen una demanda per danys als estudiants",
-      "link_id": "c_9c63ff",
-      "source": "The Verge",
-      "date": "2026-05-16",
-      "time": "18:34",
-      "summary": "Les plataformes acorden pagar compensacions per l'addicció dels estudiants a les xarxes socials."
-    },
-    {
-      "title": "OpenAI llança ChatGPT per a finances personals, permet connectar comptes bancaris",
-      "link_id": "c_2dd7cd",
-      "source": "Engadget",
-      "date": "2026-05-16",
-      "time": "16:00",
-      "summary": "ChatGPT ofereix consells de pressupost i gestió d'inversions enllaçant els teus comptes bancaris."
-    },
-    {
-      "title": "Els centres de dades d'IA provoquen un augment irreversible del 76% del preu de l'electricitat als EUA",
-      "link_id": "c_bcf83e",
-      "source": "Tom's Hardware",
-      "date": "2026-05-16",
-      "time": "12:02",
-      "summary": "Els centres d'IA fan pujar el cost de l'electricitat, exigint que les empreses paguin la seva infraestructura."
-    },
-    {
-      "title": "Gemini Intelligence té requisits estrictes i el teu telèfon pot no complir-los",
-      "link_id": "c_5f7f1f",
+      "title": "El renaixement de Siri a iOS 27 podria oferir una funció d'autoeliminació per als teus xats d'IA",
+      "link_id": "c_b826fd",
       "source": "Digital Trends",
-      "date": "2026-05-16",
-      "time": "08:02",
-      "summary": "Molts telèfons no satisfaran les exigències d'Intel·ligència Gemini per a IA avançada."
-    },
-    {
-      "title": "Respostes del Mini Crossword del NYT per al diumenge 17 de maig",
-      "link_id": "c_7555d1",
-      "source": "CNET",
       "date": "2026-05-17",
-      "time": "04:03",
-      "summary": "Descobreix les solucions del crucigrama mini del NYT del diumenge."
+      "time": "23:34",
+      "summary": "Apple prepara una actualització de Siri amb xats que s'esborren automàticament per protegir la privadesa."
     },
     {
-      "title": "Pistes i respostes de NYT Connections: Edició Esports per al 17 de maig",
-      "link_id": "c_85fa2d",
-      "source": "CNET",
-      "date": "2026-05-17",
-      "time": "03:58",
-      "summary": "Ajuda per resoldre el trencaclosques NYT Connections d'esports del 17 de maig."
+      "title": "El tancament del Kindle d'Amazon impulsa els usuaris cap al jailbreak",
+      "link_id": "c_39f6be",
+      "source": "Android Authority",
+      "date": "2026-05-18",
+      "time": "08:47",
+      "summary": "Els propietaris del Kindle busquen solucions per evitar l'obsolescència forçada."
     },
     {
-      "title": "El telèfon Trump comença a enviar-se aquesta setmana després de 9 mesos de retard",
-      "link_id": "c_1fa7ee",
-      "source": "CNET",
-      "date": "2026-05-17",
-      "time": "00:20",
-      "summary": "El nou telèfon Trump ja està disponible després d'un llarg retard de nou mesos."
-    },
-    {
-      "title": "Euphoria Temporada 3, Episodi 6: Data i hora de llançament a HBO Max",
-      "link_id": "c_c58e24",
-      "source": "CNET",
-      "date": "2026-05-16",
-      "time": "23:01",
-      "summary": "L'episodi 6 de la tercera temporada d'Euphoria estarà disponible a HBO Max."
-    },
-    {
-      "title": "El risc empresarial que ningú modela: la IA substitueix els experts de què necessita aprendre",
-      "link_id": "c_55ee52",
-      "source": "VentureBeat",
-      "date": "2026-05-16",
-      "time": "21:05",
-      "summary": "Les empreses ignoren el perill que la IA suprimeix els seus propis experts."
-    },
-    {
-      "title": "Què llegir aquest cap de setmana: Llums celestials i Si la destrucció és el nostre destí",
-      "link_id": "c_695471",
+      "title": "Microsoft elimina la funció de Teams que reunia els assistents en una sala virtual",
+      "link_id": "c_df5938",
       "source": "Engadget",
-      "date": "2026-05-16",
-      "time": "21:00",
-      "summary": "Recomanacions de lectura sobre llums celestials i temes de destrucció per al cap de setmana."
+      "date": "2026-05-18",
+      "time": "08:09",
+      "summary": "La companyia simplifica Teams, deixant enrere el mode 'Together' per a una experiència més clara."
+    },
+    {
+      "title": "Kenya adverteix que el centre d'IA consumiria la meitat de l'electricitat del país",
+      "link_id": "c_022ee3",
+      "source": "Bloomberg Technology",
+      "date": "2026-05-18",
+      "time": "08:30",
+      "summary": "Kenya adverteix que el centre d'IA consumiria la meitat de l'electricitat del país."
+    },
+    {
+      "title": "ASML s'associa amb Tata Electronics per avançar els plans de xips a l'Índia",
+      "link_id": "c_5eb702",
+      "source": "Bloomberg Technology",
+      "date": "2026-05-18",
+      "time": "16:02",
+      "summary": "La col·laboració busca portar equips avançats de fabricació de semiconductors a l'Índia."
+    },
+    {
+      "title": "La IA podria inclinar el mercat laboral a favor dels treballadors més grans",
+      "link_id": "c_59d5c3",
+      "source": "Bloomberg Technology",
+      "date": "2026-05-18",
+      "time": "15:00",
+      "summary": "Estudis mostren que l'IA pot reduir la discriminació d'edat en les contractacions."
+    },
+    {
+      "title": "El boom energètic de la Xina podria donar-li avantatge en IA",
+      "link_id": "c_5c7f14",
+      "source": "Bloomberg Technology",
+      "date": "2026-05-17",
+      "time": "12:04",
+      "summary": "Inversions massives en energia reforcen la capacitat d'IA de la Xina."
+    },
+    {
+      "title": "Elon Musk afirma que vol iniciar l'IPO de SpaceX 'pròximament'",
+      "link_id": "c_6fb645",
+      "source": "Bloomberg Technology",
+      "date": "2026-05-18",
+      "time": "08:18",
+      "summary": "Musk indica que SpaceX podria cotitzar a borsa en les properes setmanes."
+    },
+    {
+      "title": "OpenAI ofereix ChatGPT Plus als ciutadans de Malta durant un any",
+      "link_id": "c_8f3354",
+      "source": "Bloomberg Technology",
+      "date": "2026-05-18",
+      "time": "09:14",
+      "summary": "Els maltesos podran provar la versió premium de ChatGPT sense cost addicional."
+    },
+    {
+      "title": "Utah demana als llocs pornogràfics que retirin la 'P' dels VPNs, i és culpa seva que no ho puguin",
+      "link_id": "c_41301d",
+      "source": "The Register",
+      "date": "2026-05-18",
+      "time": "08:30",
+      "summary": "L'estat pressiona les plataformes per eliminar contingut explícit dels serveis VPN."
     }
   ]
 }

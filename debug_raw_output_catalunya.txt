@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T07:34",
+  "generated_at": "2026-05-18T09:00",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
@@ -9,13 +9,8 @@
       "articles_found": 3
     },
     {
-      "name": "RAC1",
-      "url": "https://www.rac1.cat/rss/home.xml",
-      "articles_found": 1
-    },
-    {
-      "name": "La Vanguardia (en català)",
-      "url": "https://www.lavanguardia.com/rss/encatala.xml",
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/barcelona.feed?type=rss",
       "articles_found": 1
     },
     {
@@ -24,9 +19,9 @@
       "articles_found": 2
     },
     {
-      "name": "IB3 Notícies",
-      "url": "https://ib3.org/feed/",
-      "articles_found": 1
+      "name": "La Vanguardia (en català)",
+      "url": "https://www.lavanguardia.com/rss/encatala.xml",
+      "articles_found": 2
     },
     {
       "name": "Lleida Diari",
@@ -34,19 +29,43 @@
       "articles_found": 1
     },
     {
-      "name": "Via Empresa",
-      "url": "https://www.viaempresa.cat/uploads/feeds/feed_via-empresa-2024_ca.xml",
+      "name": "Segre",
+      "url": "https://www.segre.com/ca/rss/home.xml",
       "articles_found": 1
     }
   ],
   "articles": [
+    {
+      "title": "Pagar per Bizum als comerços físics, una realitat des d’aquest dilluns",
+      "link_id": "c_363bfd",
+      "source": "El Punt Avui",
+      "date": "2026-05-18",
+      "time": "10:23",
+      "summary": "Bizum arrenca a les botigues, simplificant pagaments i reduint l'ús de targetes en el comerç local."
+    },
+    {
+      "title": "La IA entra de ple a la Generalitat: el Govern formarà 250.000 empleats públics",
+      "link_id": "c_4ca331",
+      "source": "Metadata",
+      "date": "2026-05-18",
+      "time": "08:34",
+      "summary": "El govern impulsa una formació massiva en IA per millorar serveis públics i augmentar l'eficiència administrativa."
+    },
     {
       "title": "Logística amb IA: la nova revolució al SIL Barcelona",
       "link_id": "c_865c9d",
       "source": "Ara.cat",
       "date": "2026-05-13",
       "time": "21:59",
-      "summary": "La IA transforma la logística del SIL, impulsant eficiència i sostenibilitat a la fira de Barcelona."
+      "summary": "La IA transforma la logística al SIL, optimitzant cadenes de subministrament i reduint costos operatius."
+    },
+    {
+      "title": "80 dies sense internet a l'Iran",
+      "link_id": "c_e93a4f",
+      "source": "Ara.cat",
+      "date": "2026-05-18",
+      "time": "05:00",
+      "summary": "L'Iran manté una censura digital prolongada, deixant milions sense accés a informació i comunicació."
     },
     {
       "title": "El model energètic d'Osona que impressiona a Europa",
@@ -54,23 +73,15 @@
       "source": "Ara.cat",
       "date": "2026-05-17",
       "time": "05:45",
-      "summary": "Osona lidera amb energia pública i participació ciutadana, model sostenible reconegut a nivell europeu."
+      "summary": "Osona destaca amb energia pública i participació ciutadana, oferint un model sostenible replicable a Europa."
     },
     {
-      "title": "A mig gas i amb dubtes entre el comerç: Bizum arriba a botigues i restaurants",
-      "link_id": "c_518486",
-      "source": "Ara.cat",
-      "date": "2026-05-16",
-      "time": "06:00",
-      "summary": "BizumPay arrenca a comerços, oferint pagament instantani i competint amb targetes tradicionals."
-    },
-    {
-      "title": "Els neandertals també anaven al dentista: troben la prova més antiga d’un tractament dental de fa 60.000 anys",
-      "link_id": "c_57e241",
-      "source": "RAC1",
-      "date": "2026-05-16",
-      "time": "13:38",
-      "summary": "Descobriment mostra que neandertals tractaven càries fa 60.000 anys, revelant avanç tecnològic prehistòric."
+      "title": "Óscar López: “Espanya és avui l’epicentre de la revolució ètica de la IA”",
+      "link_id": "c_b444cf",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-05-17",
+      "time": "08:28",
+      "summary": "Espanya lidera el debat ètic sobre IA, impulsant regulacions que protegeixen drets i transparència."
     },
     {
       "title": "La part fosca de la IA",
@@ -78,7 +89,7 @@
       "source": "La Vanguardia (en català)",
       "date": "2026-05-17",
       "time": "07:20",
-      "summary": "Debat sobre riscos de la IA, advertint sobre possibles amenaces a llibertats democràtiques."
+      "summary": "S'alerta sobre riscos de vigilància i pèrdua de llibertats, exigint controls rigorosos a la IA."
     },
     {
       "title": "El 95% de la ciutadania creu que els menors estan desprotegits a Internet i reclama més control digital",
@@ -86,23 +97,7 @@
       "source": "Metadata",
       "date": "2026-05-13",
       "time": "16:05",
-      "summary": "Enquesta revela que la gran majoria de menors es sent insegura a internet, demanant més control."
-    },
-    {
-      "title": "L’habitatge i la IA marcaran l’edició més urbana i social de l’Smart City Expo",
-      "link_id": "c_276069",
-      "source": "Metadata",
-      "date": "2026-05-14",
-      "time": "12:10",
-      "summary": "Smart City Expo destaca solucions IA per millorar habitatge i sostenibilitat urbana a Barcelona."
-    },
-    {
-      "title": "Augmenten els casos de ‘deepfakes’ sexuals amb menors",
-      "link_id": "c_792eea",
-      "source": "IB3 Notícies",
-      "date": "2026-05-16",
-      "time": "12:48",
-      "summary": "Augmenten els deepfakes sexuals amb menors, alertant sobre riscos d’abusos digitals i necessitat de denúncia."
+      "summary": "La població demana mesures de seguretat online per protegir infants contra abús i desinformació digital."
     },
     {
       "title": "Confirmat: l’aprenentatge digital genera fatiga mental als universitaris",
@@ -110,15 +105,15 @@
       "source": "Lleida Diari",
       "date": "2026-05-16",
       "time": "19:14",
-      "summary": "Estudi revela que l’aprenentatge en línia genera fatiga mental significativa entre estudiants universitaris."
+      "summary": "Estudi revela que l'educació en línia incrementa l'estrès i la fatiga mental entre estudiants universitaris."
     },
     {
-      "title": "Veolia impulsa un centre d'innovació a Granollers per coordinar les actuacions digitals a Catalunya",
-      "link_id": "c_d8ad4b",
-      "source": "Via Empresa",
-      "date": "2026-05-15",
-      "time": "14:38",
-      "summary": "Veolia llança hub digital a Granollers per predir inundacions i millorar resiliència urbana."
+      "title": "Lleida dobla en tres anys el nombre de plantes solars d’autoconsum",
+      "link_id": "c_8180eb",
+      "source": "Segre",
+      "date": "2026-05-18",
+      "time": "09:47",
+      "summary": "Lleida multiplica les instal·lacions solars, reduint la factura energètica i impulsant la sostenibilitat local."
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T07:34",
+  "generated_at": "2026-05-18T09:00",
   "id": "podcasts",
   "title": "Podcasts en català sobre tecnologia",
   "sources_checked": [],
@@ -10,7 +10,7 @@
       "source": "Mossega la poma",
       "date": "2026-05-15",
       "time": "08:23",
-      "summary": "Descobreix com la IA facilita entrevistes i gestiona contingut complex en projectes creatius."
+      "summary": "Exploració de com la IA pot organitzar entrevistes i gestionar contingut complex en processos creatius."
     },
     {
       "title": "Polymarket és un problema, les pantalles no – programa 663",
@@ -18,7 +18,7 @@
       "source": "Mossega la poma",
       "date": "2026-05-09",
       "time": "08:26",
-      "summary": "Analitzem Polymarket i debatim si les pantalles representen un risc real per a menors."
+      "summary": "Debat sobre Polymarket i el debat de les pantalles com a possible perill per a menors."
     },
     {
       "title": "L' Altra Ràdio - Els Premis Nacionals de Comunicació, Ràdio Associació i Sonor",
@@ -26,7 +26,7 @@
       "source": "L'altra ràdio",
       "date": "2026-05-14",
       "time": "07:33",
-      "summary": "Es revelen els guanyadors i la importància dels Premis Nacionals de Comunicació 2025."
+      "summary": "Cobertura dels Premis Nacionals de Comunicació 2025 i reconeixements a la excel·lència catalana."
     },
     {
       "title": "L' Altra Ràdio - El DMTforum 2026: la gran trobada del sector català de les telecomunicacions",
@@ -34,7 +34,7 @@
       "source": "L'altra ràdio",
       "date": "2026-05-07",
       "time": "07:33",
-      "summary": "Presentem el DMTforum 2026, trobada clau per al sector català de telecomunicacions."
+      "summary": "Informe sobre el DMTforum 2026, trobada clau del sector de telecomunicacions a Barcelona."
     },
     {
       "title": "El gòTIC - Tenim una missió! del 13/5/2026",
@@ -42,7 +42,7 @@
       "source": "El Gòtic",
       "date": "2026-05-12",
       "time": "16:29",
-      "summary": "El gòTIC impulsa recursos digitals per afrontar reptes de la ciutadania digital."
+      "summary": "El gòTIC comparteix recursos i estratègies per afrontar reptes de la ciutadania digital a Tàrrega."
     },
     {
       "title": "L’històric cercador Ask Jeeves tanca",
@@ -50,7 +50,15 @@
       "source": "Societat de la Informació",
       "date": "2026-05-05",
       "time": "10:05",
-      "summary": "Ask Jeeves tanca després de tres dècades, marcant el final d’un cercador pioner."
+      "summary": "L'històric cercador Ask Jeeves tanca després de tres dècades d'innovació en consultes naturals."
+    },
+    {
+      "title": "No atribueixis mai a la malícia allò que pot ser explicat per l'estupidesa",
+      "link_id": "c_5bf154",
+      "source": "Foc a Terra",
+      "date": "2026-05-18",
+      "time": "04:00",
+      "summary": "Anàlisi de la sanció CNMV a Elías i Piqué, i reflexió sobre Polymarket i la malícia."
     },
     {
       "title": "Més palanques que el mecànic de Las Vegas",
@@ -58,7 +66,7 @@
       "source": "Foc a Terra",
       "date": "2026-05-11",
       "time": "04:00",
-      "summary": "Explorem estratègies financeres i errors de gestió que afecten empreses com el mecànic de Las Vegas."
+      "summary": "Entrevista amb Eduard Romeu, expert en cash‑flow i anàlisi de resultats financers."
     },
     {
       "title": "Foc you, Tim Apple",
@@ -66,7 +74,7 @@
       "source": "Foc a Terra",
       "date": "2026-05-04",
       "time": "04:00",
-      "summary": "Repassem les contribucions i falles de Tim Apple durant quinze anys de lideratge a Apple."
+      "summary": "Revisió de les contribucions de Tim Apple a Apple durant quinze anys de lideratge."
     },
     {
       "title": "WordPress 7.0, sense Real Time Collaboration",
@@ -74,7 +82,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-05-12",
       "time": "00:00",
-      "summary": "Anuncien que la col·laboració en temps real arribarà a WordPress 7.1, no a la versió 7.0."
+      "summary": "Actualització sobre la implementació del Real Time Collaboration a WordPress 7.1 i reptes de rendiment."
     },
     {
       "title": "L’API de presència",
@@ -82,7 +90,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-05-05",
       "time": "00:00",
-      "summary": "L’API de presència afegeix indicadors visuals d’editors actius al tauler de WordPress."
+      "summary": "Presentació de l'API de presència que mostra editors actius i avatars al tauler d'administració."
     },
     {
       "title": "Capítol 64: \"Obrir una gelateria és un dels negocis més rendibles a hores d'ara a la ciutat de Barcelona”",
@@ -90,7 +98,7 @@
       "source": "RAC&GO",
       "date": "2026-05-05",
       "time": "06:19",
-      "summary": "Quatre amics obren una gelateria a Barcelona, mostrant com emprendre amb èxit en el sector gastronòmic."
+      "summary": "Història de quatre amics que obren una gelateria a Barcelona, destacant l'emprenedoria local."
     }
   ]
 }

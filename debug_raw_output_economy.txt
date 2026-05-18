@@ -1,32 +1,56 @@
 {
-  "generated_at": "2026-05-17T09:34",
+  "generated_at": "2026-05-18T10:47",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "El “AI slop” interminable tensiona els programes de recompenses per a hackers corporatius",
-      "link_id": "c_130db0",
+      "title": "Les pors d'una vaga de Samsung disminueixen després d'una sentència judicial",
+      "link_id": "c_c4221e",
       "source": "Financial Times",
-      "date": "2026-05-17",
-      "time": "04:00",
-      "summary": "Les sol·licituds massives d'IA falses sobrecarreguen els programes de recompenses, obligant les empreses a revisar les polítiques."
+      "date": "2026-05-18",
+      "time": "05:13",
+      "summary": "Després de la sentència, les unions peren menys pressió, impulsant una recuperació parcial de les accions de Samsung."
     },
     {
-      "title": "Grups d'IA xinesos es posen al davant dels rivals americans en la cursa de generació de vídeo",
-      "link_id": "c_cb44f9",
-      "source": "Financial Times",
-      "date": "2026-05-17",
-      "time": "04:00",
-      "summary": "Les empreses xineses superen les americanes en qualitat de vídeo IA, canviant l'ecosistema publicitari global."
-    },
-    {
-      "title": "L'IPO espectacular de Cerebras impulsa l'expectació per SpaceX i OpenAI, però exclou les empreses més petites",
-      "link_id": "c_b22c5f",
+      "title": "Els alts preus de l'energia podrien desviar la cursa d'IA d'Europa amb EUA i Xina",
+      "link_id": "c_ee29e8",
       "source": "CNBC Technology",
-      "date": "2026-05-16",
-      "time": "12:00",
-      "summary": "L'IPO de Cerebras atrau inversors cap a grans jugadors, deixant fora les startups d'IA emergents."
+      "date": "2026-05-18",
+      "time": "05:00",
+      "summary": "Els costos energètics elevats amenacen la inversió en IA europea, deixant EUA i Xina amb avantatge competitiu."
+    },
+    {
+      "title": "Anthropic informarà al supervisor financer mundial sobre vulnerabilitats cibernètiques revelades per Mythos",
+      "link_id": "c_23837e",
+      "source": "Financial Times",
+      "date": "2026-05-18",
+      "time": "04:00",
+      "summary": "Anthropic exposarà les falles de seguretat de Mythos al FSB, buscant regulacions més estrictes per a IA."
+    },
+    {
+      "title": "El destí de l'IPO de 1 000 milers de dòlars d'OpenAI es decidirà en una sala de jurats d'Oakland",
+      "link_id": "c_89eb9a",
+      "source": "Financial Times",
+      "date": "2026-05-18",
+      "time": "04:00",
+      "summary": "Un jurat d'Oakland determinarà si l'IPO d'OpenAI supera els obstacles legals i financers."
+    },
+    {
+      "title": "Les escoles de negocis van més enllà dels fonaments per ensenyar col·laboració amb IA",
+      "link_id": "c_bb0df6",
+      "source": "Financial Times",
+      "date": "2026-05-18",
+      "time": "03:30",
+      "summary": "Les escoles de negocis integren projectes d'IA per desenvolupar habilitats col·laboratives i resolució de problemes complexos."
+    },
+    {
+      "title": "Publicis comprarà una empresa de dades nord-americana per 2,2 mils de milions de dòlars, reforçant la seva aposta per el màrqueting d'IA",
+      "link_id": "c_a54fb1",
+      "source": "Financial Times",
+      "date": "2026-05-17",
+      "time": "19:36",
+      "summary": "Publicis amplia la seva cartera de dades, impulsant solucions d'anàlisi IA per a marques globals."
     }
   ]
 }
