@@ -1,56 +1,88 @@
 {
-  "generated_at": "2026-05-18T10:47",
+  "generated_at": "2026-05-19T09:00",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Les pors d'una vaga de Samsung disminueixen després d'una sentència judicial",
-      "link_id": "c_c4221e",
-      "source": "Financial Times",
-      "date": "2026-05-18",
-      "time": "05:13",
-      "summary": "Després de la sentència, les unions peren menys pressió, impulsant una recuperació parcial de les accions de Samsung."
+      "title": "Els inversors tecnològics van adorar aquesta temporada de resultats, però la guerra d’Iran pressiona les empreses que impulsen l’auge de la IA",
+      "link_id": "c_187047",
+      "source": "CNBC Technology",
+      "date": "2026-05-19",
+      "time": "05:32",
+      "summary": "Resultats forts però la guerra d’Iran eleva costos i riscos per a les empreses que alimenten la intel·ligència artificial."
     },
     {
-      "title": "Els alts preus de l'energia podrien desviar la cursa d'IA d'Europa amb EUA i Xina",
-      "link_id": "c_ee29e8",
+      "title": "Standard Chartered eliminarà gairebé 8.000 llocs de treball a mesura que augmenta l’ús de la IA",
+      "link_id": "c_b99ab9",
+      "source": "Financial Times",
+      "date": "2026-05-19",
+      "time": "05:31",
+      "summary": "El banc reduirà plantilla per automatitzar processos, buscant creixement sostenible amb menys cost laboral."
+    },
+    {
+      "title": "Mega-fusió de 420.000 milions de dòlars per al domini de la IA de la pròxima era",
+      "link_id": "c_9287c6",
+      "source": "Financial Times",
+      "date": "2026-05-19",
+      "time": "04:00",
+      "summary": "La fusió crearà un gegant energètic que dominarà el mercat de centres de dades per a IA."
+    },
+    {
+      "title": "La start-up de drons Helsing prepara una oferta conjunta per al projecte de satèl·lit militar",
+      "link_id": "c_cefc7e",
+      "source": "Financial Times",
+      "date": "2026-05-19",
+      "time": "04:00",
+      "summary": "Helsing i OHB col·laboraran per llançar una constel·lació satel·lit per a vigilància militar basada en IA."
+    },
+    {
+      "title": "Demis Hassabis de Google DeepMind esdevé un dels primers inversors d’Anthropic",
+      "link_id": "c_94b50a",
+      "source": "Financial Times",
+      "date": "2026-05-19",
+      "time": "04:00",
+      "summary": "Hassabis aposta per Anthropic, impulsant finançament i influència en el sector emergent d’IA."
+    },
+    {
+      "title": "Les Big Four publiquen més ofertes per a especialistes en IA que per a auditors",
+      "link_id": "c_390f16",
+      "source": "Financial Times",
+      "date": "2026-05-19",
+      "time": "04:00",
+      "summary": "Les firmes de consultoria busquen talent IA per satisfer la demanda, deixant de banda les auditories tradicionals."
+    },
+    {
+      "title": "Google impulsa xips amb el grup d’IA al núvol recolzat per Blackstone",
+      "link_id": "c_caa3f3",
+      "source": "Financial Times",
+      "date": "2026-05-19",
+      "time": "02:18",
+      "summary": "Google aposta per xips avançats amb suport de Blackstone, apuntant a ampliar capacitat de núvol IA."
+    },
+    {
+      "title": "Google I/O: la mostra d’IA d’Alphabet és l’oportunitat per impressionar Wall Street",
+      "link_id": "c_690a78",
+      "source": "CNBC Technology",
+      "date": "2026-05-19",
+      "time": "01:04",
+      "summary": "L’esdeveniment I/O presenta novetats d’IA d’Alphabet, buscant convèncer inversors amb innovació."
+    },
+    {
+      "title": "El CEO d’Intel afirma que el negoci de fàbriques avança amb l’interès creixent dels clients",
+      "link_id": "c_0df858",
       "source": "CNBC Technology",
       "date": "2026-05-18",
-      "time": "05:00",
-      "summary": "Els costos energètics elevats amenacen la inversió en IA europea, deixant EUA i Xina amb avantatge competitiu."
+      "time": "22:44",
+      "summary": "Intel veu augment de demanda per serveis de fosa, impulsat per clients que volen xips personalitzats."
     },
     {
-      "title": "Anthropic informarà al supervisor financer mundial sobre vulnerabilitats cibernètiques revelades per Mythos",
-      "link_id": "c_23837e",
+      "title": "El megadeal nord-americà desencadenarà una disputa sobre el cost de l’auge de la IA",
+      "link_id": "c_92b826",
       "source": "Financial Times",
       "date": "2026-05-18",
-      "time": "04:00",
-      "summary": "Anthropic exposarà les falles de seguretat de Mythos al FSB, buscant regulacions més estrictes per a IA."
-    },
-    {
-      "title": "El destí de l'IPO de 1 000 milers de dòlars d'OpenAI es decidirà en una sala de jurats d'Oakland",
-      "link_id": "c_89eb9a",
-      "source": "Financial Times",
-      "date": "2026-05-18",
-      "time": "04:00",
-      "summary": "Un jurat d'Oakland determinarà si l'IPO d'OpenAI supera els obstacles legals i financers."
-    },
-    {
-      "title": "Les escoles de negocis van més enllà dels fonaments per ensenyar col·laboració amb IA",
-      "link_id": "c_bb0df6",
-      "source": "Financial Times",
-      "date": "2026-05-18",
-      "time": "03:30",
-      "summary": "Les escoles de negocis integren projectes d'IA per desenvolupar habilitats col·laboratives i resolució de problemes complexos."
-    },
-    {
-      "title": "Publicis comprarà una empresa de dades nord-americana per 2,2 mils de milions de dòlars, reforçant la seva aposta per el màrqueting d'IA",
-      "link_id": "c_a54fb1",
-      "source": "Financial Times",
-      "date": "2026-05-17",
-      "time": "19:36",
-      "summary": "Publicis amplia la seva cartera de dades, impulsant solucions d'anàlisi IA per a marques globals."
+      "time": "22:33",
+      "summary": "El gran acord podria elevar preus d’infraestructura IA, generant controvèrsia sobre la seva sostenibilitat."
     }
   ]
 }

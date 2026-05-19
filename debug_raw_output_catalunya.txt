@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T09:00",
+  "generated_at": "2026-05-19T09:00",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
@@ -9,63 +9,44 @@
       "articles_found": 3
     },
     {
-      "name": "El Punt Avui",
-      "url": "https://www.elpuntavui.cat/barcelona.feed?type=rss",
+      "name": "RAC1",
+      "url": "https://www.rac1.cat/rss/home.xml",
       "articles_found": 1
     },
     {
-      "name": "Metadata",
+      "name": "MetaData",
       "url": "https://www.metadata.cat/sindica",
-      "articles_found": 2
-    },
-    {
-      "name": "La Vanguardia (en català)",
-      "url": "https://www.lavanguardia.com/rss/encatala.xml",
-      "articles_found": 2
-    },
-    {
-      "name": "Lleida Diari",
-      "url": "https://www.lleidadiari.cat/feed/",
       "articles_found": 1
+    },
+    {
+      "name": "El Periódico",
+      "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
+      "articles_found": 2
     },
     {
       "name": "Segre",
       "url": "https://www.segre.com/ca/rss/home.xml",
       "articles_found": 1
+    },
+    {
+      "name": "La Vanguardia (en català)",
+      "url": "https://www.lavanguardia.com/rss/encatala.xml",
+      "articles_found": 1
+    },
+    {
+      "name": "Via Empresa",
+      "url": "https://www.viaempresa.cat/uploads/feeds/feed_via-empresa-2024_ca.xml",
+      "articles_found": 1
     }
   ],
   "articles": [
     {
-      "title": "Pagar per Bizum als comerços físics, una realitat des d’aquest dilluns",
-      "link_id": "c_363bfd",
-      "source": "El Punt Avui",
-      "date": "2026-05-18",
-      "time": "10:23",
-      "summary": "Bizum arrenca a les botigues, simplificant pagaments i reduint l'ús de targetes en el comerç local."
-    },
-    {
-      "title": "La IA entra de ple a la Generalitat: el Govern formarà 250.000 empleats públics",
-      "link_id": "c_4ca331",
-      "source": "Metadata",
-      "date": "2026-05-18",
-      "time": "08:34",
-      "summary": "El govern impulsa una formació massiva en IA per millorar serveis públics i augmentar l'eficiència administrativa."
-    },
-    {
-      "title": "Logística amb IA: la nova revolució al SIL Barcelona",
-      "link_id": "c_865c9d",
-      "source": "Ara.cat",
-      "date": "2026-05-13",
-      "time": "21:59",
-      "summary": "La IA transforma la logística al SIL, optimitzant cadenes de subministrament i reduint costos operatius."
-    },
-    {
-      "title": "80 dies sense internet a l'Iran",
-      "link_id": "c_e93a4f",
+      "title": "Musk perd el duel judicial de titans contra Sam Altman per la intel·ligència artificial",
+      "link_id": "c_c785c2",
       "source": "Ara.cat",
       "date": "2026-05-18",
-      "time": "05:00",
-      "summary": "L'Iran manté una censura digital prolongada, deixant milions sense accés a informació i comunicació."
+      "time": "18:42",
+      "summary": "Musk perd la batalla judicial contra Altman, qüestionant el futur de les IPO d'OpenAI."
     },
     {
       "title": "El model energètic d'Osona que impressiona a Europa",
@@ -73,47 +54,71 @@
       "source": "Ara.cat",
       "date": "2026-05-17",
       "time": "05:45",
-      "summary": "Osona destaca amb energia pública i participació ciutadana, oferint un model sostenible replicable a Europa."
+      "summary": "El projecte Nova Energia Osona, model públic i participatiu, destaca entre finalistes europeus d'energia sostenible."
     },
     {
-      "title": "Óscar López: “Espanya és avui l’epicentre de la revolució ètica de la IA”",
-      "link_id": "c_b444cf",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-05-17",
-      "time": "08:28",
-      "summary": "Espanya lidera el debat ètic sobre IA, impulsant regulacions que protegeixen drets i transparència."
-    },
-    {
-      "title": "La part fosca de la IA",
-      "link_id": "c_007289",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-05-17",
-      "time": "07:20",
-      "summary": "S'alerta sobre riscos de vigilància i pèrdua de llibertats, exigint controls rigorosos a la IA."
-    },
-    {
-      "title": "El 95% de la ciutadania creu que els menors estan desprotegits a Internet i reclama més control digital",
-      "link_id": "c_65ef3e",
-      "source": "Metadata",
-      "date": "2026-05-13",
-      "time": "16:05",
-      "summary": "La població demana mesures de seguretat online per protegir infants contra abús i desinformació digital."
-    },
-    {
-      "title": "Confirmat: l’aprenentatge digital genera fatiga mental als universitaris",
-      "link_id": "c_be3416",
-      "source": "Lleida Diari",
-      "date": "2026-05-16",
-      "time": "19:14",
-      "summary": "Estudi revela que l'educació en línia incrementa l'estrès i la fatiga mental entre estudiants universitaris."
-    },
-    {
-      "title": "Lleida dobla en tres anys el nombre de plantes solars d’autoconsum",
-      "link_id": "c_8180eb",
-      "source": "Segre",
+      "title": "L'Agència Internacional de l'Energia avisa: el matalàs de petroli s'esgotarà en unes setmanes",
+      "link_id": "c_829695",
+      "source": "Ara.cat",
       "date": "2026-05-18",
-      "time": "09:47",
-      "summary": "Lleida multiplica les instal·lacions solars, reduint la factura energètica i impulsant la sostenibilitat local."
+      "time": "11:45",
+      "summary": "L'AIE alerta que les reserves comercials de petroli s'esgotaran en setmanes, incitant a una transició urgent."
+    },
+    {
+      "title": "Arriben els pagaments amb Bizum als comerços tot i els recels dels botiguers: \"Pot ser més car\"",
+      "link_id": "c_1592dc",
+      "source": "RAC1",
+      "date": "2026-05-18",
+      "time": "18:01",
+      "summary": "Bizum arrenca a les botigues, oferint una alternativa de pagament digital més àgil i segura."
+    },
+    {
+      "title": "La IA entra de ple a la Generalitat: el Govern formarà 250.000 empleats públics",
+      "link_id": "c_4ca331",
+      "source": "MetaData",
+      "date": "2026-05-18",
+      "time": "08:34",
+      "summary": "La Generalitat invertirà 5 milions per formar 250.000 empleats públics en IA, impulsant una administració més eficient."
+    },
+    {
+      "title": "L’Agència de Ciberseguretat de Catalunya adverteix: no comparteixis les teves dades personals amb la IA",
+      "link_id": "c_22cea6",
+      "source": "El Periódico",
+      "date": "2026-05-18",
+      "time": "11:08",
+      "summary": "L'Agència de Ciberseguretat de Catalunya recomana no compartir dades personals amb la IA per protegir la privacitat."
+    },
+    {
+      "title": "Reconeixement facial dels ossos al Pirineu català amb càmeres i IA per fer-los seguiment",
+      "link_id": "c_51ac42",
+      "source": "Segre",
+      "date": "2026-05-19",
+      "time": "09:14",
+      "summary": "Un nou sistema d'IA rastrea animals al Pirineu, millorant la conservació mitjançant reconeixement facial d'ossos."
+    },
+    {
+      "title": "Google i SpaceX negocien llançar centres de dades d’IA a l’espai",
+      "link_id": "c_471918",
+      "source": "El Periódico",
+      "date": "2026-05-15",
+      "time": "11:29",
+      "summary": "Google i SpaceX negocien llançar centres de dades d'IA a l'espai, una frontera emergent per al sector."
+    },
+    {
+      "title": "Els mòduls europeus de les missions Artemis 3 i 4 ja són a Cap Canaveral, impulsant la presència catalana a l'espai",
+      "link_id": "c_49c4b2",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-05-18",
+      "time": "09:03",
+      "summary": "Els mòduls europeus de les missions Artemis 3 i 4 arriben a Cap Canaveral, impulsant la presència catalana a l'espai."
+    },
+    {
+      "title": "Eurecat estrena una infraestructura d'emulació quàntica pionera a Catalunya i oberta a empreses",
+      "link_id": "c_0e5ad6",
+      "source": "Via Empresa",
+      "date": "2026-05-18",
+      "time": "12:15",
+      "summary": "Eurecat llança el QuantIA Lab, infraestructura quàntica pionera a Catalunya, per accelerar la recerca i la innovació empresarial."
     }
   ]
 }
