@@ -1,11 +1,16 @@
 {
-  "generated_at": "2026-05-19T09:00",
+  "generated_at": "2026-05-20T09:00",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
     {
       "name": "Ara.cat",
       "url": "https://www.ara.cat/rss/",
+      "articles_found": 1
+    },
+    {
+      "name": "El Periódico",
+      "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
       "articles_found": 3
     },
     {
@@ -16,61 +21,35 @@
     {
       "name": "MetaData",
       "url": "https://www.metadata.cat/sindica",
-      "articles_found": 1
-    },
-    {
-      "name": "El Periódico",
-      "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
-      "articles_found": 2
-    },
-    {
-      "name": "Segre",
-      "url": "https://www.segre.com/ca/rss/home.xml",
-      "articles_found": 1
-    },
-    {
-      "name": "La Vanguardia (en català)",
-      "url": "https://www.lavanguardia.com/rss/encatala.xml",
-      "articles_found": 1
+      "articles_found": 3
     },
     {
       "name": "Via Empresa",
       "url": "https://www.viaempresa.cat/uploads/feeds/feed_via-empresa-2024_ca.xml",
       "articles_found": 1
+    },
+    {
+      "name": "324.cat",
+      "url": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0",
+      "articles_found": 1
     }
   ],
   "articles": [
     {
-      "title": "Musk perd el duel judicial de titans contra Sam Altman per la intel·ligència artificial",
-      "link_id": "c_c785c2",
-      "source": "Ara.cat",
-      "date": "2026-05-18",
-      "time": "18:42",
-      "summary": "Musk perd la batalla judicial contra Altman, qüestionant el futur de les IPO d'OpenAI."
-    },
-    {
-      "title": "El model energètic d'Osona que impressiona a Europa",
-      "link_id": "c_a41a6c",
-      "source": "Ara.cat",
-      "date": "2026-05-17",
-      "time": "05:45",
-      "summary": "El projecte Nova Energia Osona, model públic i participatiu, destaca entre finalistes europeus d'energia sostenible."
-    },
-    {
-      "title": "L'Agència Internacional de l'Energia avisa: el matalàs de petroli s'esgotarà en unes setmanes",
-      "link_id": "c_829695",
-      "source": "Ara.cat",
-      "date": "2026-05-18",
-      "time": "11:45",
-      "summary": "L'AIE alerta que les reserves comercials de petroli s'esgotaran en setmanes, incitant a una transició urgent."
-    },
-    {
-      "title": "Arriben els pagaments amb Bizum als comerços tot i els recels dels botiguers: \"Pot ser més car\"",
-      "link_id": "c_1592dc",
+      "title": "La intel·ligència artificial amenaça un de cada quatre llocs de treball: les dones d'entre 35 i 54 anys seran les més afectades",
+      "link_id": "c_96ab3f",
       "source": "RAC1",
-      "date": "2026-05-18",
-      "time": "18:01",
-      "summary": "Bizum arrenca a les botigues, oferint una alternativa de pagament digital més àgil i segura."
+      "date": "2026-05-20",
+      "time": "07:51",
+      "summary": "La IA podria afectar un de cada quatre treballs, amb les dones entre 35 i 54 anys les més vulnerables."
+    },
+    {
+      "title": "El Barcelona Supercomputing Center crea el primer laboratori europeu d'art i ciència",
+      "link_id": "c_fe9626",
+      "source": "MetaData",
+      "date": "2026-05-20",
+      "time": "09:20",
+      "summary": "El BSC llança el Creative Intelligence Lab, un laboratori que uneix art, IA i supercomputació per beneficis socials."
     },
     {
       "title": "La IA entra de ple a la Generalitat: el Govern formarà 250.000 empleats públics",
@@ -78,23 +57,23 @@
       "source": "MetaData",
       "date": "2026-05-18",
       "time": "08:34",
-      "summary": "La Generalitat invertirà 5 milions per formar 250.000 empleats públics en IA, impulsant una administració més eficient."
+      "summary": "El Govern invertirà 5 milions d’euros per formar 250.000 empleats públics en IA i agilitzar l’administració."
     },
     {
-      "title": "L’Agència de Ciberseguretat de Catalunya adverteix: no comparteixis les teves dades personals amb la IA",
-      "link_id": "c_22cea6",
+      "title": "El model energètic d'Osona que impressiona a Europa",
+      "link_id": "c_a41a6c",
+      "source": "Ara.cat",
+      "date": "2026-05-17",
+      "time": "05:45",
+      "summary": "Osona destaca amb un model energètic públic i participatiu, reconegut entre els millors d’Europa."
+    },
+    {
+      "title": "Dels mòbils a la factura d’electricitat: així és com la IA ja està encarint la teva vida",
+      "link_id": "c_3087d1",
       "source": "El Periódico",
-      "date": "2026-05-18",
-      "time": "11:08",
-      "summary": "L'Agència de Ciberseguretat de Catalunya recomana no compartir dades personals amb la IA per protegir la privacitat."
-    },
-    {
-      "title": "Reconeixement facial dels ossos al Pirineu català amb càmeres i IA per fer-los seguiment",
-      "link_id": "c_51ac42",
-      "source": "Segre",
-      "date": "2026-05-19",
-      "time": "09:14",
-      "summary": "Un nou sistema d'IA rastrea animals al Pirineu, millorant la conservació mitjançant reconeixement facial d'ossos."
+      "date": "2026-05-20",
+      "time": "06:01",
+      "summary": "La IA encareix la vida: des del mòbil fins a la factura d’electricitat, augmentant les despeses familiars."
     },
     {
       "title": "Google i SpaceX negocien llançar centres de dades d’IA a l’espai",
@@ -102,23 +81,39 @@
       "source": "El Periódico",
       "date": "2026-05-15",
       "time": "11:29",
-      "summary": "Google i SpaceX negocien llançar centres de dades d'IA a l'espai, una frontera emergent per al sector."
+      "summary": "Google i SpaceX estudien enviar centres de dades d’IA a l’espai, una nova frontera tecnològica."
     },
     {
-      "title": "Els mòduls europeus de les missions Artemis 3 i 4 ja són a Cap Canaveral, impulsant la presència catalana a l'espai",
-      "link_id": "c_49c4b2",
-      "source": "La Vanguardia (en català)",
+      "title": "Els festivals catalans entren a l’era de les dades en temps real",
+      "link_id": "c_67a818",
+      "source": "MetaData",
       "date": "2026-05-18",
-      "time": "09:03",
-      "summary": "Els mòduls europeus de les missions Artemis 3 i 4 arriben a Cap Canaveral, impulsant la presència catalana a l'espai."
+      "time": "15:35",
+      "summary": "Els festivals usen dades en temps real per gestionar aglomeracions i millorar l’experiència del públic."
     },
     {
-      "title": "Eurecat estrena una infraestructura d'emulació quàntica pionera a Catalunya i oberta a empreses",
-      "link_id": "c_0e5ad6",
+      "title": "Benviro, una alternativa biodegradable, innovadora (i catalana) als plàstics",
+      "link_id": "c_bcedb0",
       "source": "Via Empresa",
-      "date": "2026-05-18",
-      "time": "12:15",
-      "summary": "Eurecat llança el QuantIA Lab, infraestructura quàntica pionera a Catalunya, per accelerar la recerca i la innovació empresarial."
+      "date": "2026-05-20",
+      "time": "04:55",
+      "summary": "Benviro desenvolupa bioplàstics biodegradables a partir de residus orgànics, reduint la contaminació plàstica."
+    },
+    {
+      "title": "La plataforma 3Cat rep el Premi Nacional de Comunicació Digital 2025",
+      "link_id": "c_69d1c3",
+      "source": "324.cat",
+      "date": "2026-05-20",
+      "time": "08:45",
+      "summary": "3Cat és guardonada amb el Premi Nacional de Comunicació Digital 2025 per la seva innovació."
+    },
+    {
+      "title": "La Generalitat destina cinc milions d’euros a la formació en IA de fins a 250.000 treballadors públics",
+      "link_id": "c_dc474e",
+      "source": "El Periódico",
+      "date": "2026-05-16",
+      "time": "07:00",
+      "summary": "La Generalitat destina cinc milions per formar 250.000 treballadors públics en IA i impulsar la digitalització."
     }
   ]
 }
