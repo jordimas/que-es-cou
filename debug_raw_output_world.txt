@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-05-20T10:00",
+  "generated_at": "2026-05-21T10:35",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "«Ask YouTube» porta la cerca conversacional impulsada per IA als vídeos i afegeix Gemini Omni a Shorts",
-      "link_id": "c_ea6a3b",
+      "title": "En l'IPO de SpaceX, Elon Musk és un factor de risc",
+      "link_id": "c_9eeede",
+      "source": "The Verge",
+      "date": "2026-05-21",
+      "time": "03:42",
+      "summary": "L'IPO de SpaceX destaca el risc associat a Elon Musk i les seves decisions estratègiques."
+    },
+    {
+      "title": "SpaceX va incloure el mode ‘Spicy’ de Grok com a risc en la sol·licitud d'IPO",
+      "link_id": "c_da0853",
+      "source": "Wired",
+      "date": "2026-05-21",
+      "time": "00:43",
+      "summary": "SpaceX declara el mode ‘Spicy’ de Grok com a possible problema legal en la seva IPO."
+    },
+    {
+      "title": "Elon Musk: SpaceX sol·licita una IPO monumental al Nasdaq",
+      "link_id": "c_7b6d55",
+      "source": "CNET",
+      "date": "2026-05-20",
+      "time": "23:09",
+      "summary": "SpaceX sol·licita una oferta pública inicial a Nasdaq, buscant una valoració de gairebé 2 bilions."
+    },
+    {
+      "title": "La sol·licitud d'IPO de SpaceX està plena d'apostes d'IA, somnis de Starship i Elon Musk al centre",
+      "link_id": "c_b8bb44",
       "source": "TechCrunch",
       "date": "2026-05-20",
-      "time": "05:45",
-      "summary": "Google introdueix una cerca de vídeo basada en IA i una nova funció Gemini Omni per Shorts."
+      "time": "23:03",
+      "summary": "La sol·licitud d'IPO de SpaceX inclou inversions massives en IA i projectes com Starship."
     },
     {
-      "title": "Wear OS 7 seguirà les entregues i els resultats esportius al teu canell",
-      "link_id": "c_74af27",
-      "source": "The Verge",
-      "date": "2026-05-19",
-      "time": "23:24",
-      "summary": "La nova versió de Wear OS ofereix actualitzacions en temps real d'entregues i puntuacions esportives."
+      "title": "OpenAI, creador de ChatGPT, podria cotitzar aviat en un gran moviment de mercat",
+      "link_id": "c_0e613e",
+      "source": "CNET",
+      "date": "2026-05-20",
+      "time": "21:58",
+      "summary": "OpenAI podria convertir-se en empresa cotitzada, impulsant el seu creixement i influència global."
     },
     {
-      "title": "Totes les notícies que podries haver perdut del Google I/O 2026",
-      "link_id": "c_11e8e4",
+      "title": "OpenAI es prepara per presentar una IPO en les properes setmanes",
+      "link_id": "c_e69984",
+      "source": "NYT Technology",
+      "date": "2026-05-20",
+      "time": "18:41",
+      "summary": "OpenAI es prepara per presentar la documentació d'IPO en les properes setmanes."
+    },
+    {
+      "title": "OpenAI avança cap a una IPO que podria ser al setembre",
+      "link_id": "c_b32453",
+      "source": "TechCrunch",
+      "date": "2026-05-20",
+      "time": "17:24",
+      "summary": "OpenAI avança cap a una IPO prevista per al setembre, després d'una victòria legal."
+    },
+    {
+      "title": "Segons informes, Anthropic està a punt d'obtenir el seu primer trimestre rendible",
+      "link_id": "c_d45e13",
       "source": "Engadget",
-      "date": "2026-05-19",
-      "time": "18:07",
-      "summary": "Resum de les novetats de Google I/O, incloent Gemini, Smart Glasses i noves funcions d'IA."
+      "date": "2026-05-21",
+      "time": "08:01",
+      "summary": "Anthropic preveu el seu primer trimestre amb beneficis, superant les expectatives anteriors."
     },
     {
-      "title": "Amb Gemini 3.5 Flash, Google aposta la seva propera ona d'IA en agents, no en xatbots",
-      "link_id": "c_fd8ee6",
+      "title": "Anthropic afirma que està a punt d'assolir el seu primer trimestre profit",
+      "link_id": "c_e9be38",
       "source": "TechCrunch",
-      "date": "2026-05-19",
-      "time": "17:51",
-      "summary": "Gemini 3.5 Flash ofereix agents d'IA més ràpids i eficients que els xatbots tradicionals."
+      "date": "2026-05-21",
+      "time": "00:21",
+      "summary": "Anthropic anuncia que el proper trimestre serà el primer amb beneficis registrats."
     },
     {
-      "title": "Google afirma que Gemini 3.5 Flash pot reduir els costos d'IA empresarial més d'un milió de dòlars anuals",
-      "link_id": "c_ff46db",
-      "source": "VentureBeat",
-      "date": "2026-05-19",
-      "time": "17:45",
-      "summary": "L'empresa destaca estalvis superiors a mil milions de dòlars gràcies a l'eficiència del model."
-    },
-    {
-      "title": "Elon Musk va dir que Sam Altman ‘va robar’ una ONG, però el judici va mostrar que tenia objectius similars",
-      "link_id": "c_8070e3",
-      "source": "TechCrunch",
-      "date": "2026-05-19",
-      "time": "20:11",
-      "summary": "El judici revela que les acusacions de Musk no són fonamentades i que comparteix metes amb Altman."
-    },
-    {
-      "title": "Elon Musk perd una demanda de 150 mil milions de dòlars contra OpenAI i Sam Altman",
-      "link_id": "c_067da4",
-      "source": "NYT Technology",
-      "date": "2026-05-19",
-      "time": "22:26",
-      "summary": "El jurat descarta les reclamacions de Musk, permetent a OpenAI continuar amb el seu creixement."
-    },
-    {
-      "title": "Meta comença a acomiadar 8.000 empleats enmig de la transformació d'IA",
-      "link_id": "c_480d60",
-      "source": "NYT Technology",
-      "date": "2026-05-19",
-      "time": "20:00",
-      "summary": "L'empresa redueix la plantilla per centrar-se en el desenvolupament d'intel·ligència artificial."
-    },
-    {
-      "title": "Meta inicia 8.000 retallades d'ocupació a Singapur",
-      "link_id": "c_366580",
-      "source": "Bloomberg Technology",
-      "date": "2026-05-19",
-      "time": "23:39",
-      "summary": "L'operació forma part d'una reestructuració global per impulsar la inversió en IA."
-    },
-    {
-      "title": "OpenAI adopta l'estàndard C2PA i el SynthID de Google per facilitar la identificació d'imatges generades per IA",
-      "link_id": "c_8b3431",
-      "source": "The Next Web",
-      "date": "2026-05-19",
-      "time": "22:51",
-      "summary": "Les noves eines ajuden a distingir contingut real d'imatges creades per intel·ligència artificial."
+      "title": "Airbnb millora les apps iOS i Android amb tres millores clau per al teu proper viatge",
+      "link_id": "c_59c099",
+      "source": "CNET",
+      "date": "2026-05-20",
+      "time": "22:25",
+      "summary": "Airbnb afegeix reserves d'hotels, lloguer de cotxes i servei de bagatges a l'app."
     }
   ]
 }

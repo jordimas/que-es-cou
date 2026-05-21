@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T10:30",
+  "generated_at": "2026-05-21T09:00",
   "id": "events",
   "title": "Trobades",
   "sources_checked": [],
@@ -10,7 +10,23 @@
       "source": "WordPress BCN",
       "date": "2026-05-14",
       "time": "17:25",
-      "summary": "Taller pràctic per resoldre dubtes reals de WordPress, incloent seguretat, rendiment i WooCommerce."
+      "summary": "Sessió pràctica per resoldre dubtes reals sobre WordPress, plugins i seguretat."
+    },
+    {
+      "title": "AI Imprint: Get an AI that thinks like You",
+      "link_id": "c_f60af1",
+      "source": "AI Professionals Barcelona",
+      "date": "2026-05-21",
+      "time": "00:49",
+      "summary": "Descobreix com crear una IA personalitzada que reflecteixi el teu estil de pensament."
+    },
+    {
+      "title": "Your AI Book Coach: The Personal Development Shortcut",
+      "link_id": "c_b20106",
+      "source": "AI Professionals Barcelona",
+      "date": "2026-05-20",
+      "time": "15:38",
+      "summary": "Aprèn les claus dels llibres de desenvolupament personal sense llegir-los completament."
     },
     {
       "title": "Networking for AI Professionals around the world - June 8",
@@ -18,7 +34,7 @@
       "source": "AI Professionals Barcelona",
       "date": "2026-05-12",
       "time": "15:31",
-      "summary": "Sessió virtual gratuïta per connectar professionals d'IA, compartir projectes i explorar oportunitats internacionals."
+      "summary": "Trobada virtual per connectar professionals d'IA globalment i compartir oportunitats."
     },
     {
       "title": "Kaggle 5-Day AI Agents Intensive - Vibe Coding Course",
@@ -26,7 +42,7 @@
       "source": "AI Professionals Barcelona",
       "date": "2026-05-15",
       "time": "02:16",
-      "summary": "Curs intensiu de cinc dies amb Google i Kaggle, enfocant agents d'IA i pràctiques avançades."
+      "summary": "Curs intensiu de cinc dies sobre agents d'IA amb suport de Google i Kaggle."
     },
     {
       "title": "Python Meetup May",
@@ -34,7 +50,7 @@
       "source": "PyBCN",
       "date": "2026-05-13",
       "time": "09:20",
-      "summary": "Trobada amb dues xerrades sobre Apache Airflow i l'ús d'Atomica per a simulacions epidèmiques."
+      "summary": "Dos xerrades sobre Airflow i l'ús d'Atomica per combatre epidèmies."
     },
     {
       "title": "Connecting the World: Scalable Geospatial Pipelines with GigaSpatial",
@@ -42,7 +58,7 @@
       "source": "Free Software Barcelona",
       "date": "2026-05-14",
       "time": "08:09",
-      "summary": "Presentació de GigaSpatial, biblioteca oberta per a pipelines geoespacials escalables, impulsada per UNICEF."
+      "summary": "Explora com GigaSpatial facilita dades geoespacials a gran escala per projectes globals."
     }
   ]
 }

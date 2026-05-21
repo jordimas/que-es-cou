@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T10:00",
+  "generated_at": "2026-05-21T09:00",
   "id": "podcasts",
   "title": "Podcasts en català sobre tecnologia",
   "sources_checked": [],
@@ -10,7 +10,7 @@
       "source": "Mossega la poma",
       "date": "2026-05-15",
       "time": "08:23",
-      "summary": "Exploració de com la IA pot organitzar entrevistes i gestionar contingut complex en entorns creatius."
+      "summary": "Explora com la IA pot organitzar entrevistes i gestionar contingut complex en entorns creatius."
     },
     {
       "title": "Polymarket és un problema, les pantalles no – programa 663",
@@ -18,30 +18,30 @@
       "source": "Mossega la poma",
       "date": "2026-05-09",
       "time": "08:26",
-      "summary": "Debat sobre Polymarket i la influència de les pantalles en la seguretat dels menors a l’aula."
+      "summary": "Debat sobre Polymarket i els riscos de les pantalles per a menors dins i fora de l’aula."
     },
     {
       "title": "L' Altra Ràdio - Els Premis Nacionals de Comunicació, Ràdio Associació i Sonor",
       "link_id": "c_c770d6",
       "source": "L'altra ràdio",
       "date": "2026-05-14",
-      "time": "14:33",
-      "summary": "Anàlisi dels Premis Nacionals de Comunicació 2025 i el reconeixement a la excel·lència catalana."
+      "time": "07:33",
+      "summary": "Premis Nacionals de Comunicació 2025 es lliuraran a Sabadell, reconeixent l’excel·lència catalana."
     },
     {
       "title": "L' Altra Ràdio - El DMTforum 2026: la gran trobada del sector català de les telecomunicacions",
       "link_id": "c_243e4c",
       "source": "L'altra ràdio",
       "date": "2026-05-07",
-      "time": "14:33",
-      "summary": "Presentació del DMTforum 2026, trobada clau per al sector de telecomunicacions a Catalunya."
+      "time": "07:33",
+      "summary": "DMTforum 2026 celebra el Dia Mundial de les Telecomunicacions amb conferències a Barcelona."
     },
     {
       "title": "El gòTIC - Tenim una missió! del 20/5/2026",
       "link_id": "c_594649",
       "source": "El Gòtic",
       "date": "2026-05-19",
-      "time": "23:29",
+      "time": "16:29",
       "summary": "Gòtic comparteix recursos digitals per afrontar reptes de la ciutadania digital a Tàrrega."
     },
     {
@@ -49,16 +49,8 @@
       "link_id": "c_b5a814",
       "source": "El Gòtic",
       "date": "2026-05-12",
-      "time": "23:29",
-      "summary": "Segona entrega del programa Gòtic, continuant la missió d’impulsar la transformació digital."
-    },
-    {
-      "title": "L’històric cercador Ask Jeeves tanca",
-      "link_id": "c_fc02b6",
-      "source": "Societat de la Informació",
-      "date": "2026-05-05",
-      "time": "10:05",
-      "summary": "Clausura del cercador historic Ask Jeeves, reflexió sobre l’evolució de les consultes en línia."
+      "time": "16:29",
+      "summary": "Segona entrega del programa Gòtic amb recursos per a la ciutadania digital a Tàrrega."
     },
     {
       "title": "No atribueixis mai a la malícia allò que pot ser explicat per l'estupidesa",
@@ -74,7 +66,7 @@
       "source": "Foc a Terra",
       "date": "2026-05-11",
       "time": "04:00",
-      "summary": "Entrevista amb Eduard Romeu, expert en cash‑flow i anàlisi de resultats empresarials."
+      "summary": "Entrevista amb Eduard Romeu sobre gestió de cash‑flow i estratègies financeres en entorns bancaris."
     },
     {
       "title": "Tot el que portarà WordPress 7.0",
@@ -82,7 +74,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-05-19",
       "time": "00:00",
-      "summary": "Revisió de les novetats i funcionalitats que portarà WordPress 7.0 al 20 de maig."
+      "summary": "Repassa les novetats més destacades de WordPress 7.0 que arribaran el 20 de maig."
     },
     {
       "title": "WordPress 7.0, sense Real Time Collaboration",
@@ -90,7 +82,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-05-12",
       "time": "00:00",
-      "summary": "Explicació del retard del Real Time Collaboration fins a WordPress 7.1 per qüestions de rendiment."
+      "summary": "Explica per què la col·laboració en temps real s’ha ajornat fins a la versió 7.1."
     },
     {
       "title": "Capítol 65: Ja no em farà por anar al dentista",
@@ -98,7 +90,7 @@
       "source": "RAC&GO",
       "date": "2026-05-19",
       "time": "06:00",
-      "summary": "Entrevista amb Josep Ruano sobre la innovació tecnològica que redueix visites i errors dentals."
+      "summary": "Presenta la solució tecnològica de Bite Right que redueix visites i errors en clíniques dentals."
     }
   ]
 }

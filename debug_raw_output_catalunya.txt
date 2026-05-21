@@ -1,22 +1,12 @@
 {
-  "generated_at": "2026-05-20T09:00",
+  "generated_at": "2026-05-21T08:35",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
     {
-      "name": "Ara.cat",
-      "url": "https://www.ara.cat/rss/",
-      "articles_found": 1
-    },
-    {
-      "name": "El Periódico",
-      "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
-      "articles_found": 3
-    },
-    {
-      "name": "RAC1",
-      "url": "https://www.rac1.cat/rss/home.xml",
-      "articles_found": 1
+      "name": "Via Empresa",
+      "url": "https://www.viaempresa.cat/uploads/feeds/feed_via-empresa-2024_ca.xml",
+      "articles_found": 2
     },
     {
       "name": "MetaData",
@@ -24,96 +14,101 @@
       "articles_found": 3
     },
     {
-      "name": "Via Empresa",
-      "url": "https://www.viaempresa.cat/uploads/feeds/feed_via-empresa-2024_ca.xml",
+      "name": "El Periódico",
+      "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
       "articles_found": 1
     },
     {
-      "name": "324.cat",
-      "url": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0",
-      "articles_found": 1
+      "name": "Segre",
+      "url": "https://www.segre.com/ca/rss/home.xml",
+      "articles_found": 2
+    },
+    {
+      "name": "El Nacional",
+      "url": "https://www.elnacional.cat/uploads/feeds/feed_ca.xml",
+      "articles_found": 2
     }
   ],
   "articles": [
     {
-      "title": "La intel·ligència artificial amenaça un de cada quatre llocs de treball: les dones d'entre 35 i 54 anys seran les més afectades",
-      "link_id": "c_96ab3f",
-      "source": "RAC1",
-      "date": "2026-05-20",
-      "time": "07:51",
-      "summary": "La IA podria afectar un de cada quatre treballs, amb les dones entre 35 i 54 anys les més vulnerables."
+      "title": "Denuncies a Meta, TikTok i Google per \"desprotecció\" davant les estafes financeres",
+      "link_id": "c_506094",
+      "source": "Via Empresa",
+      "date": "2026-05-21",
+      "time": "09:57",
+      "summary": "Consumidors europeus denuncien plataformes per fraus financers, pressionant reguladors a protegir usuaris."
     },
     {
-      "title": "El Barcelona Supercomputing Center crea el primer laboratori europeu d'art i ciència",
+      "title": "Google redissenya el seu cercador després de 25 anys per convertir-lo en una plataforma d’IA",
+      "link_id": "c_a9e959",
+      "source": "MetaData",
+      "date": "2026-05-20",
+      "time": "15:44",
+      "summary": "Google integra Gemini al cercador, transformant la cerca en una interacció conversacional basada en IA."
+    },
+    {
+      "title": "El Barcelona Supercomputing Center crea el primer laboratori europeu que uneix art, IA i supercomputació",
       "link_id": "c_fe9626",
       "source": "MetaData",
       "date": "2026-05-20",
       "time": "09:20",
-      "summary": "El BSC llança el Creative Intelligence Lab, un laboratori que uneix art, IA i supercomputació per beneficis socials."
+      "summary": "El BSC llança un laboratori d’art i IA que tradueix creativitat en solucions industrials."
     },
     {
-      "title": "La IA entra de ple a la Generalitat: el Govern formarà 250.000 empleats públics",
-      "link_id": "c_4ca331",
-      "source": "MetaData",
-      "date": "2026-05-18",
-      "time": "08:34",
-      "summary": "El Govern invertirà 5 milions d’euros per formar 250.000 empleats públics en IA i agilitzar l’administració."
-    },
-    {
-      "title": "El model energètic d'Osona que impressiona a Europa",
-      "link_id": "c_a41a6c",
-      "source": "Ara.cat",
-      "date": "2026-05-17",
-      "time": "05:45",
-      "summary": "Osona destaca amb un model energètic públic i participatiu, reconegut entre els millors d’Europa."
-    },
-    {
-      "title": "Dels mòbils a la factura d’electricitat: així és com la IA ja està encarint la teva vida",
-      "link_id": "c_3087d1",
-      "source": "El Periódico",
-      "date": "2026-05-20",
-      "time": "06:01",
-      "summary": "La IA encareix la vida: des del mòbil fins a la factura d’electricitat, augmentant les despeses familiars."
-    },
-    {
-      "title": "Google i SpaceX negocien llançar centres de dades d’IA a l’espai",
-      "link_id": "c_471918",
-      "source": "El Periódico",
-      "date": "2026-05-15",
-      "time": "11:29",
-      "summary": "Google i SpaceX estudien enviar centres de dades d’IA a l’espai, una nova frontera tecnològica."
-    },
-    {
-      "title": "Els festivals catalans entren a l’era de les dades en temps real",
-      "link_id": "c_67a818",
-      "source": "MetaData",
-      "date": "2026-05-18",
-      "time": "15:35",
-      "summary": "Els festivals usen dades en temps real per gestionar aglomeracions i millorar l’experiència del públic."
-    },
-    {
-      "title": "Benviro, una alternativa biodegradable, innovadora (i catalana) als plàstics",
-      "link_id": "c_bcedb0",
+      "title": "Barcelona, cinquè major ecosistema de startups de la Unió Europea el 2026",
+      "link_id": "c_dda325",
       "source": "Via Empresa",
-      "date": "2026-05-20",
-      "time": "04:55",
-      "summary": "Benviro desenvolupa bioplàstics biodegradables a partir de residus orgànics, reduint la contaminació plàstica."
+      "date": "2026-05-21",
+      "time": "09:38",
+      "summary": "Barcelona consolida el seu lideratge com a cinquè hub europeu de startups, generant milers de llocs."
     },
     {
-      "title": "La plataforma 3Cat rep el Premi Nacional de Comunicació Digital 2025",
-      "link_id": "c_69d1c3",
-      "source": "324.cat",
-      "date": "2026-05-20",
-      "time": "08:45",
-      "summary": "3Cat és guardonada amb el Premi Nacional de Comunicació Digital 2025 per la seva innovació."
+      "title": "La IA sacseja el mercat laboral català: el 26% dels llocs de treball canviaran i impactarà especialment les dones",
+      "link_id": "c_d5e4fe",
+      "source": "MetaData",
+      "date": "2026-05-19",
+      "time": "16:19",
+      "summary": "La IA canviarà el 26% dels llocs de treball a Catalunya, afectant especialment les dones."
     },
     {
-      "title": "La Generalitat destina cinc milions d’euros a la formació en IA de fins a 250.000 treballadors públics",
-      "link_id": "c_dc474e",
+      "title": "L’Agència de Ciberseguretat de Catalunya adverteix: no comparteixis les teves dades personals amb la IA",
+      "link_id": "c_22cea6",
       "source": "El Periódico",
-      "date": "2026-05-16",
-      "time": "07:00",
-      "summary": "La Generalitat destina cinc milions per formar 250.000 treballadors públics en IA i impulsar la digitalització."
+      "date": "2026-05-18",
+      "time": "11:08",
+      "summary": "L’Agència de Ciberseguretat alerta contra compartir dades personals amb IA per evitar riscos de privacitat."
+    },
+    {
+      "title": "IA en càmeres de vigilància per agilitzar la resposta policial",
+      "link_id": "c_72e109",
+      "source": "Segre",
+      "date": "2026-05-21",
+      "time": "05:36",
+      "summary": "Setanta càmeres amb IA milloraran la resposta policial a Barcelona, agilitzant intervencions."
+    },
+    {
+      "title": "El repte d’una il·luminació pública, eficient i menys contaminant",
+      "link_id": "c_5305f4",
+      "source": "Segre",
+      "date": "2026-05-21",
+      "time": "05:36",
+      "summary": "El Simposi Nacional d’Enllumenat impulsa llums públiques eficients per reduir contaminació a Catalunya."
+    },
+    {
+      "title": "Google presenta Gemini Spark, una IA que controla el teu ordinador i està al teu servei en tot moment",
+      "link_id": "c_2a035b",
+      "source": "El Nacional",
+      "date": "2026-05-20",
+      "time": "20:00",
+      "summary": "Gemini Spark ofereix una IA personal que controla el teu ordinador, augmentant productivitat i seguretat."
+    },
+    {
+      "title": "Meta acomiadarà avui 8.000 treballadors, tot i que els oferirà una interessant indemnització",
+      "link_id": "c_82c0a1",
+      "source": "El Nacional",
+      "date": "2026-05-20",
+      "time": "22:15",
+      "summary": "Meta acomiada 8.000 treballadors, però ofereix indemnitzacions per suavitzar l’impacte econòmic."
     }
   ]
 }
