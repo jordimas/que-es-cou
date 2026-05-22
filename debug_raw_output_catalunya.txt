@@ -1,16 +1,11 @@
 {
-  "generated_at": "2026-05-21T08:35",
+  "generated_at": "2026-05-22T12:00",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
     {
-      "name": "Via Empresa",
-      "url": "https://www.viaempresa.cat/uploads/feeds/feed_via-empresa-2024_ca.xml",
-      "articles_found": 2
-    },
-    {
-      "name": "MetaData",
-      "url": "https://www.metadata.cat/sindica",
+      "name": "Ara.cat",
+      "url": "https://www.ara.cat/rss/",
       "articles_found": 3
     },
     {
@@ -19,32 +14,45 @@
       "articles_found": 1
     },
     {
-      "name": "Segre",
-      "url": "https://www.segre.com/ca/rss/home.xml",
-      "articles_found": 2
+      "name": "Lleida Diari",
+      "url": "https://www.lleidadiari.cat/feed/",
+      "articles_found": 1
     },
     {
-      "name": "El Nacional",
-      "url": "https://www.elnacional.cat/uploads/feeds/feed_ca.xml",
-      "articles_found": 2
+      "name": "Segre",
+      "url": "https://www.segre.com/ca/rss/home.xml",
+      "articles_found": 1
+    },
+    {
+      "name": "MetaData",
+      "url": "https://www.metadata.cat/sindica",
+      "articles_found": 3
     }
   ],
   "articles": [
     {
-      "title": "Denuncies a Meta, TikTok i Google per \"desprotecció\" davant les estafes financeres",
-      "link_id": "c_506094",
-      "source": "Via Empresa",
+      "title": "Google fa un lífting radical al cercador, 25 anys després",
+      "link_id": "c_9d4fdd",
+      "source": "Ara.cat",
       "date": "2026-05-21",
-      "time": "09:57",
-      "summary": "Consumidors europeus denuncien plataformes per fraus financers, pressionant reguladors a protegir usuaris."
+      "time": "16:22",
+      "summary": "Google transforma el cercador amb IA Gemini 3.5, oferint respostes conversacionals i funcionalitats multimèdia avançades."
     },
     {
-      "title": "Google redissenya el seu cercador després de 25 anys per convertir-lo en una plataforma d’IA",
-      "link_id": "c_a9e959",
-      "source": "MetaData",
+      "title": "Michelin es desfà definitivament de les estrelles verdes: Catalunya en perdrà 15 a partir del novembre",
+      "link_id": "c_aa2705",
+      "source": "Ara.cat",
       "date": "2026-05-20",
-      "time": "15:44",
-      "summary": "Google integra Gemini al cercador, transformant la cerca en una interacció conversacional basada en IA."
+      "time": "11:53",
+      "summary": "La Guia Michelin elimina les Estrelles Verdes a Catalunya, reduint reconeixements de sostenibilitat a quinze restaurants."
+    },
+    {
+      "title": "La catalana de microxips Ideaded s'expandeix amb l'entrada al capital del govern espanyol",
+      "link_id": "c_bcd52c",
+      "source": "Ara.cat",
+      "date": "2026-05-21",
+      "time": "16:07",
+      "summary": "Ideaded rep 9,5 milions d'euros del govern per ampliar la seva fàbrica de microxips a Viladecans, impulsant la producció local."
     },
     {
       "title": "El Barcelona Supercomputing Center crea el primer laboratori europeu que uneix art, IA i supercomputació",
@@ -52,15 +60,7 @@
       "source": "MetaData",
       "date": "2026-05-20",
       "time": "09:20",
-      "summary": "El BSC llança un laboratori d’art i IA que tradueix creativitat en solucions industrials."
-    },
-    {
-      "title": "Barcelona, cinquè major ecosistema de startups de la Unió Europea el 2026",
-      "link_id": "c_dda325",
-      "source": "Via Empresa",
-      "date": "2026-05-21",
-      "time": "09:38",
-      "summary": "Barcelona consolida el seu lideratge com a cinquè hub europeu de startups, generant milers de llocs."
+      "summary": "El BSC llança el Creative Intelligence Lab, combinant art i IA per crear solucions tecnològiques amb impacte industrial i social."
     },
     {
       "title": "La IA sacseja el mercat laboral català: el 26% dels llocs de treball canviaran i impactarà especialment les dones",
@@ -68,7 +68,15 @@
       "source": "MetaData",
       "date": "2026-05-19",
       "time": "16:19",
-      "summary": "La IA canviarà el 26% dels llocs de treball a Catalunya, afectant especialment les dones."
+      "summary": "Estudi de la Cambra de Comerç indica que el 26% dels treballs a Catalunya canviaran per IA, impactant les dones."
+    },
+    {
+      "title": "Opinió - Ruth Cuscó : La IA a la sanitat: el repte no és la tecnologia, sinó les dades",
+      "link_id": "c_c024d6",
+      "source": "MetaData",
+      "date": "2026-05-21",
+      "time": "10:00",
+      "summary": "Ruth Cuscó advoca que el veritable repte de la IA a la sanitat són les dades, no la tecnologia."
     },
     {
       "title": "L’Agència de Ciberseguretat de Catalunya adverteix: no comparteixis les teves dades personals amb la IA",
@@ -76,39 +84,23 @@
       "source": "El Periódico",
       "date": "2026-05-18",
       "time": "11:08",
-      "summary": "L’Agència de Ciberseguretat alerta contra compartir dades personals amb IA per evitar riscos de privacitat."
+      "summary": "L'Agència de Ciberseguretat de Catalunya insta a no compartir dades personals amb IA per evitar riscos de privacitat."
     },
     {
-      "title": "IA en càmeres de vigilància per agilitzar la resposta policial",
-      "link_id": "c_72e109",
-      "source": "Segre",
+      "title": "Denuncien Google, Meta i TikTok per “desprotecció” davant fraus financers",
+      "link_id": "c_78e309",
+      "source": "Lleida Diari",
       "date": "2026-05-21",
-      "time": "05:36",
-      "summary": "Setanta càmeres amb IA milloraran la resposta policial a Barcelona, agilitzant intervencions."
+      "time": "05:26",
+      "summary": "Una coalició europea denuncia Google, Meta i TikTok per la falta de protecció contra fraus financers a les xarxes socials."
     },
     {
-      "title": "El repte d’una il·luminació pública, eficient i menys contaminant",
-      "link_id": "c_5305f4",
+      "title": "Problemes per activar carregadors elèctrics cedits per la Diputació de Lleida",
+      "link_id": "c_89e63d",
       "source": "Segre",
-      "date": "2026-05-21",
+      "date": "2026-05-22",
       "time": "05:36",
-      "summary": "El Simposi Nacional d’Enllumenat impulsa llums públiques eficients per reduir contaminació a Catalunya."
-    },
-    {
-      "title": "Google presenta Gemini Spark, una IA que controla el teu ordinador i està al teu servei en tot moment",
-      "link_id": "c_2a035b",
-      "source": "El Nacional",
-      "date": "2026-05-20",
-      "time": "20:00",
-      "summary": "Gemini Spark ofereix una IA personal que controla el teu ordinador, augmentant productivitat i seguretat."
-    },
-    {
-      "title": "Meta acomiadarà avui 8.000 treballadors, tot i que els oferirà una interessant indemnització",
-      "link_id": "c_82c0a1",
-      "source": "El Nacional",
-      "date": "2026-05-20",
-      "time": "22:15",
-      "summary": "Meta acomiada 8.000 treballadors, però ofereix indemnitzacions per suavitzar l’impacte econòmic."
+      "summary": "Alcaldes critiquen la lentitud de les companyies per legalitzar carregadors elèctrics, deixant només 20 de 84 operatius."
     }
   ]
 }

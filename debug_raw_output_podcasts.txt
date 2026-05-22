@@ -1,24 +1,16 @@
 {
-  "generated_at": "2026-05-21T09:00",
+  "generated_at": "2026-05-22T09:00",
   "id": "podcasts",
   "title": "Podcasts en català sobre tecnologia",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Exemples d’ús de la IA en processos creatius: organitzar hores d’entrevistes i contingut complex – programa 664",
-      "link_id": "c_1aec83",
-      "source": "Mossega la poma",
-      "date": "2026-05-15",
-      "time": "08:23",
-      "summary": "Explora com la IA pot organitzar entrevistes i gestionar contingut complex en entorns creatius."
-    },
-    {
-      "title": "Polymarket és un problema, les pantalles no – programa 663",
-      "link_id": "c_122341",
-      "source": "Mossega la poma",
-      "date": "2026-05-09",
-      "time": "08:26",
-      "summary": "Debat sobre Polymarket i els riscos de les pantalles per a menors dins i fora de l’aula."
+      "title": "L' Altra Ràdio - El projecte Erica, la ciència ciutadana i la protecció del medi ambient",
+      "link_id": "c_7f29fd",
+      "source": "L'altra ràdio",
+      "date": "2026-05-21",
+      "time": "07:33",
+      "summary": "Explora com la ciència ciutadana impulsa la protecció ambiental a través del projecte Erica."
     },
     {
       "title": "L' Altra Ràdio - Els Premis Nacionals de Comunicació, Ràdio Associació i Sonor",
@@ -26,7 +18,7 @@
       "source": "L'altra ràdio",
       "date": "2026-05-14",
       "time": "07:33",
-      "summary": "Premis Nacionals de Comunicació 2025 es lliuraran a Sabadell, reconeixent l’excel·lència catalana."
+      "summary": "Detalls sobre la cerimònia i els guanyadors dels Premis Nacionals de Comunicació 2025 a Catalunya."
     },
     {
       "title": "L' Altra Ràdio - El DMTforum 2026: la gran trobada del sector català de les telecomunicacions",
@@ -34,7 +26,7 @@
       "source": "L'altra ràdio",
       "date": "2026-05-07",
       "time": "07:33",
-      "summary": "DMTforum 2026 celebra el Dia Mundial de les Telecomunicacions amb conferències a Barcelona."
+      "summary": "Presentació del DMTforum 2026, trobada clau per al sector de telecomunicacions català."
     },
     {
       "title": "El gòTIC - Tenim una missió! del 20/5/2026",
@@ -42,7 +34,7 @@
       "source": "El Gòtic",
       "date": "2026-05-19",
       "time": "16:29",
-      "summary": "Gòtic comparteix recursos digitals per afrontar reptes de la ciutadania digital a Tàrrega."
+      "summary": "Recull recursos digitals per a la ciutadania, enfocats a desafiaments i preguntes tecnològiques."
     },
     {
       "title": "El gòTIC - Tenim una missió! del 13/5/2026",
@@ -50,7 +42,7 @@
       "source": "El Gòtic",
       "date": "2026-05-12",
       "time": "16:29",
-      "summary": "Segona entrega del programa Gòtic amb recursos per a la ciutadania digital a Tàrrega."
+      "summary": "Segona entrega de missions digitals, oferint estratègies per a la transformació digital ciutadana."
     },
     {
       "title": "No atribueixis mai a la malícia allò que pot ser explicat per l'estupidesa",
@@ -61,12 +53,12 @@
       "summary": "Anàlisi de la sanció CNMV i el paper de Polymarket en la difusió de rumors financers."
     },
     {
-      "title": "Més palanques que el mecànic de Las Vegas",
+      "title": "Més palanques que el mecànic de Las Vegas, amb Eduard Romeu",
       "link_id": "c_8a088f",
       "source": "Foc a Terra",
       "date": "2026-05-11",
       "time": "04:00",
-      "summary": "Entrevista amb Eduard Romeu sobre gestió de cash‑flow i estratègies financeres en entorns bancaris."
+      "summary": "Entrevista amb Eduard Romeu sobre gestió de flux de caixa i desafiaments bancaris actuals."
     },
     {
       "title": "Tot el que portarà WordPress 7.0",
@@ -74,7 +66,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-05-19",
       "time": "00:00",
-      "summary": "Repassa les novetats més destacades de WordPress 7.0 que arribaran el 20 de maig."
+      "summary": "Repassa les novetats més rellevants de WordPress 7.0 programades per al 20 de maig."
     },
     {
       "title": "WordPress 7.0, sense Real Time Collaboration",
@@ -82,7 +74,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-05-12",
       "time": "00:00",
-      "summary": "Explica per què la col·laboració en temps real s’ha ajornat fins a la versió 7.1."
+      "summary": "Explica per què la col·laboració en temps real s'ajornarà a la versió 7.1 per rendiment."
     },
     {
       "title": "Capítol 65: Ja no em farà por anar al dentista",
@@ -90,7 +82,7 @@
       "source": "RAC&GO",
       "date": "2026-05-19",
       "time": "06:00",
-      "summary": "Presenta la solució tecnològica de Bite Right que redueix visites i errors en clíniques dentals."
+      "summary": "Descobreix la solució dental de Bite Right que redueix visites i errors mèdics en clíniques."
     }
   ]
 }

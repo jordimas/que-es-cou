@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T09:00",
+  "generated_at": "2026-05-22T08:23",
   "id": "events",
   "title": "Trobades",
   "sources_checked": [],
@@ -10,15 +10,15 @@
       "source": "WordPress BCN",
       "date": "2026-05-14",
       "time": "17:25",
-      "summary": "Sessió pràctica per resoldre dubtes reals sobre WordPress, plugins i seguretat."
+      "summary": "Sessió pràctica per resoldre dubtes reals sobre WordPress, plugins, temes i rendiment, amb participació comunitària."
     },
     {
-      "title": "AI Imprint: Get an AI that thinks like You",
-      "link_id": "c_f60af1",
+      "title": "AI Imprint - Bonus VIP Session",
+      "link_id": "c_b81f15",
       "source": "AI Professionals Barcelona",
       "date": "2026-05-21",
-      "time": "00:49",
-      "summary": "Descobreix com crear una IA personalitzada que reflecteixi el teu estil de pensament."
+      "time": "19:47",
+      "summary": "Sessió VIP de 60 minuts on com transformar AI Imprint en infraestructura empresarial, amb Rich Schefren."
     },
     {
       "title": "Your AI Book Coach: The Personal Development Shortcut",
@@ -26,7 +26,7 @@
       "source": "AI Professionals Barcelona",
       "date": "2026-05-20",
       "time": "15:38",
-      "summary": "Aprèn les claus dels llibres de desenvolupament personal sense llegir-los completament."
+      "summary": "Taller que ensenya a extreure valor de llibres de desenvolupament personal sense llegir-los completament."
     },
     {
       "title": "Networking for AI Professionals around the world - June 8",
@@ -34,7 +34,7 @@
       "source": "AI Professionals Barcelona",
       "date": "2026-05-12",
       "time": "15:31",
-      "summary": "Trobada virtual per connectar professionals d'IA globalment i compartir oportunitats."
+      "summary": "Esdeveniment en línia gratuït de 1,5 hores per connectar professionals d'IA globalment i compartir idees."
     },
     {
       "title": "Kaggle 5-Day AI Agents Intensive - Vibe Coding Course",
@@ -42,23 +42,7 @@
       "source": "AI Professionals Barcelona",
       "date": "2026-05-15",
       "time": "02:16",
-      "summary": "Curs intensiu de cinc dies sobre agents d'IA amb suport de Google i Kaggle."
-    },
-    {
-      "title": "Python Meetup May",
-      "link_id": "c_661e78",
-      "source": "PyBCN",
-      "date": "2026-05-13",
-      "time": "09:20",
-      "summary": "Dos xerrades sobre Airflow i l'ús d'Atomica per combatre epidèmies."
-    },
-    {
-      "title": "Connecting the World: Scalable Geospatial Pipelines with GigaSpatial",
-      "link_id": "c_a7eccf",
-      "source": "Free Software Barcelona",
-      "date": "2026-05-14",
-      "time": "08:09",
-      "summary": "Explora com GigaSpatial facilita dades geoespacials a gran escala per projectes globals."
+      "summary": "Curs intensiu de cinc dies amb Google i Kaggle, inclou AMAs i entrenaments profunds d'IA."
     }
   ]
 }

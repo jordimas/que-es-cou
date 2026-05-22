@@ -1,1 +1,88 @@
-{"generated_at":"2026-05-21T10:40","id":"economy","title":"Notícies econòmiques del món","sources_checked":[],"articles":[{"title":"Anthropic avança cap al primer trimestre rendible","link_id":"c_4e45ce","source":"Financial Times","date":"2026-05-21","time":"00:23","summary":"L'empresa d'IA apunta a beneficis després d'anys de pèrdues, impulsada per nous contractes."},{"title":"Anthropic apuntarà a 10,9 mil milions de dòlars d’ingressos al segon trimestre, segons una font","link_id":"c_f81333","source":"CNBC Technology","date":"2026-05-20","time":"23:25","summary":"Els ingressos previstos superen les expectatives, mostrant el creixement ràpid del sector d'IA."},{"title":"OpenAI presentarà confidencialment la sol·licitud d'IPO tan aviat com divendres, segons una font","link_id":"c_711659","source":"CNBC Technology","date":"2026-05-20","time":"17:35","summary":"OpenAI busca capitalitzar l'interès del mercat amb una oferta pública confidencial imminent."},{"title":"OpenAI prepara la sol·licitud d'IPO per cotitzar tan aviat com setembre","link_id":"c_7b5270","source":"Financial Times","date":"2026-05-20","time":"17:21","summary":"L'empresa planeja l'IPO per aprofitar l'escalada de la demanda d'IA a setembre."},{"title":"AMD invertirà 10 mil milions de dòlars en la indústria d'IA de Taiwan per avançar els xips d'alta gamma","link_id":"c_55a16c","source":"CNBC Technology","date":"2026-05-21","time":"08:12","summary":"AMD aposta per col·laboracions taiwaneses per millorar el rendiment dels xips d'IA avançats."},{"title":"Les accions de SoftBank Group pujaran un 20 % gràcies als guanys de Nvidia que impulsen l'IA","link_id":"c_a5aed3","source":"CNBC Technology","date":"2026-05-21","time":"07:24","summary":"Els guanys de Nvidia impulsen la confiança dels inversors, elevant les accions de SoftBank."},{"title":"Nvidia afirma haver ‘cedit en gran part’ el mercat xinès de xips d'IA a Huawei","link_id":"c_5da8cd","source":"CNBC Technology","date":"2026-05-21","time":"05:03","summary":"Nvidia reconeix la dominació de Huawei al mercat xinès, canviant la seva estratègia."},{"title":"La bogeria de l'IA fa que aquestes accions europees guanyin més del 100 % aquest any","link_id":"c_3614a2","source":"CNBC Technology","date":"2026-05-21","time":"05:00","summary":"L'augment massiu d'inversions en IA impulsa el valor de les empreses europees."},{"title":"L'era del programari de les grans tecnologies ha acabat, afirma l'inversor James Anderson","link_id":"c_3262ff","source":"Financial Times","date":"2026-05-21","time":"04:00","summary":"Els grans inversors veuen la fi del model de programari com a motor principal."},{"title":"Samsung arriba a un acord d'última hora per evitar una vaga per les riqueses de l'IA","link_id":"c_48ea2f","source":"Financial Times","date":"2026-05-21","time":"03:01","summary":"Samsung evita una vaga que podria paralitzar la producció d'IA amb un acord urgent."}]}
+{
+  "generated_at": "2026-05-22T10:23",
+  "id": "economy",
+  "title": "Notícies econòmiques del món",
+  "sources_checked": [],
+  "articles": [
+    {
+      "title": "Spotify puja un 13% després d’anunciar un acord de música IA amb UMG",
+      "link_id": "c_02835b",
+      "source": "CNBC Technology",
+      "date": "2026-05-21",
+      "time": "20:02",
+      "summary": "L’acord impulsa nous ingressos i reforça la posició de Spotify en el mercat musical digital."
+    },
+    {
+      "title": "Spotify apunta a superfans de gran despesa amb música generada per IA",
+      "link_id": "c_d9b714",
+      "source": "Financial Times",
+      "date": "2026-05-21",
+      "time": "15:45",
+      "summary": "L’empresa busca augmentar les subscripcions premium oferint contingut exclusiu creat per intel·ligència artificial."
+    },
+    {
+      "title": "Les accions de Lenovo pujen gairebé un 20% per guanys rècord i ingressos d’IA duplicats",
+      "link_id": "c_942ebc",
+      "source": "CNBC Technology",
+      "date": "2026-05-22",
+      "time": "07:51",
+      "summary": "Els resultats mostren la forta demanda de solucions d’intel·ligència artificial en el sector tecnològic."
+    },
+    {
+      "title": "La indústria de les criptomonedes es prepara per a l’amenaça de la computació quàntica",
+      "link_id": "c_22cb10",
+      "source": "Financial Times",
+      "date": "2026-05-22",
+      "time": "04:00",
+      "summary": "Experts adverteixen que els ordinadors quàntics podrien trencar la seguretat dels protocols blockchain."
+    },
+    {
+      "title": "Les accions quàntiques s’enlairen amb el pla dels EUA de finançament de 2 000 milions de dòlars",
+      "link_id": "c_68fe19",
+      "source": "CNBC Technology",
+      "date": "2026-05-21",
+      "time": "21:28",
+      "summary": "El govern nord-americà busca accelerar la investigació i la comercialització de tecnologies quàntiques."
+    },
+    {
+      "title": "Anthropic i Microsoft negocien un acord de xips d’IA després d’una inversió de 5 000 milions de dòlars",
+      "link_id": "c_0417fc",
+      "source": "CNBC Technology",
+      "date": "2026-05-21",
+      "time": "19:53",
+      "summary": "L’aliança podria impulsar el desenvolupament de processadors especialitzats per models d’intel·ligència artificial."
+    },
+    {
+      "title": "Oura, fabricant del anell intel·ligent, presenta sol·licitud confidencial per a una OPI",
+      "link_id": "c_913ddd",
+      "source": "CNBC Technology",
+      "date": "2026-05-21",
+      "time": "19:13",
+      "summary": "L’empresa busca capital per expandir el seu ecosistema de salut digital i wearables."
+    },
+    {
+      "title": "Nvidia afirma que ha cedit majoritàriament el mercat xinès de xips d’IA a Huawei",
+      "link_id": "c_5da8cd",
+      "source": "CNBC Technology",
+      "date": "2026-05-21",
+      "time": "15:29",
+      "summary": "La decisió reflecteix les tensions geopolítiques i la competència intensificada en tecnologia avançada."
+    },
+    {
+      "title": "Bloom Energy puja un 12% després d’associar-se amb una startup europea d’infraestructura d’IA en un acord de 2,6 mils milions de dòlars",
+      "link_id": "c_cbcf93",
+      "source": "CNBC Technology",
+      "date": "2026-05-21",
+      "time": "15:16",
+      "summary": "La col·laboració permetrà desplegar cèl·lules de combustible més eficients per a centres de dades."
+    },
+    {
+      "title": "Sis conclusions de la visió planetària de 200 000 paraules d’en Musk",
+      "link_id": "c_3c537c",
+      "source": "Financial Times",
+      "date": "2026-05-21",
+      "time": "15:03",
+      "summary": "Musk detalla els seus plans per colonitzar Mart i impulsar tecnologies d’energia sostenible."
+    }
+  ]
+}

@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-05-21T10:35",
+  "generated_at": "2026-05-22T10:23",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "En l'IPO de SpaceX, Elon Musk és un factor de risc",
-      "link_id": "c_9eeede",
-      "source": "The Verge",
+      "title": "Spotify and Universal Music agree deal to let subscribers create AI remixes",
+      "link_id": "c_4ca2e8",
+      "source": "The Guardian Tech",
       "date": "2026-05-21",
-      "time": "03:42",
-      "summary": "L'IPO de SpaceX destaca el risc associat a Elon Musk i les seves decisions estratègiques."
+      "time": "20:24",
+      "summary": "Spotify i Universal Music permeten als subscriptors crear remescles i versions de cançons amb IA."
     },
     {
-      "title": "SpaceX va incloure el mode ‘Spicy’ de Grok com a risc en la sol·licitud d'IPO",
-      "link_id": "c_da0853",
-      "source": "Wired",
-      "date": "2026-05-21",
-      "time": "00:43",
-      "summary": "SpaceX declara el mode ‘Spicy’ de Grok com a possible problema legal en la seva IPO."
-    },
-    {
-      "title": "Elon Musk: SpaceX sol·licita una IPO monumental al Nasdaq",
-      "link_id": "c_7b6d55",
-      "source": "CNET",
-      "date": "2026-05-20",
-      "time": "23:09",
-      "summary": "SpaceX sol·licita una oferta pública inicial a Nasdaq, buscant una valoració de gairebé 2 bilions."
-    },
-    {
-      "title": "La sol·licitud d'IPO de SpaceX està plena d'apostes d'IA, somnis de Starship i Elon Musk al centre",
-      "link_id": "c_b8bb44",
+      "title": "Waymo expands pause to four cities as robotaxis keep driving into floods",
+      "link_id": "c_14628a",
       "source": "TechCrunch",
-      "date": "2026-05-20",
-      "time": "23:03",
-      "summary": "La sol·licitud d'IPO de SpaceX inclou inversions massives en IA i projectes com Starship."
+      "date": "2026-05-22",
+      "time": "00:37",
+      "summary": "Waymo suspèn el servei de robotaxi a quatre ciutats per evitar conduir en inundacions."
     },
     {
-      "title": "OpenAI, creador de ChatGPT, podria cotitzar aviat en un gran moviment de mercat",
-      "link_id": "c_0e613e",
-      "source": "CNET",
-      "date": "2026-05-20",
-      "time": "21:58",
-      "summary": "OpenAI podria convertir-se en empresa cotitzada, impulsant el seu creixement i influència global."
-    },
-    {
-      "title": "OpenAI es prepara per presentar una IPO en les properes setmanes",
-      "link_id": "c_e69984",
-      "source": "NYT Technology",
-      "date": "2026-05-20",
-      "time": "18:41",
-      "summary": "OpenAI es prepara per presentar la documentació d'IPO en les properes setmanes."
-    },
-    {
-      "title": "OpenAI avança cap a una IPO que podria ser al setembre",
-      "link_id": "c_b32453",
+      "title": "SpaceX scrubs first Starship V3 launch just before liftoff",
+      "link_id": "c_e53623",
       "source": "TechCrunch",
-      "date": "2026-05-20",
-      "time": "17:24",
-      "summary": "OpenAI avança cap a una IPO prevista per al setembre, després d'una victòria legal."
+      "date": "2026-05-22",
+      "time": "00:07",
+      "summary": "SpaceX cancel·la el llançament del Starship V3 poc abans del decollatge."
     },
     {
-      "title": "Segons informes, Anthropic està a punt d'obtenir el seu primer trimestre rendible",
-      "link_id": "c_d45e13",
-      "source": "Engadget",
-      "date": "2026-05-21",
-      "time": "08:01",
-      "summary": "Anthropic preveu el seu primer trimestre amb beneficis, superant les expectatives anteriors."
-    },
-    {
-      "title": "Anthropic afirma que està a punt d'assolir el seu primer trimestre profit",
-      "link_id": "c_e9be38",
+      "title": "Trump delays AI security executive order, saying language ‘could have been a blocker’",
+      "link_id": "c_471886",
       "source": "TechCrunch",
       "date": "2026-05-21",
-      "time": "00:21",
-      "summary": "Anthropic anuncia que el proper trimestre serà el primer amb beneficis registrats."
+      "time": "17:30",
+      "summary": "Trump posposa l'ordre executiva de seguretat d'IA per qüestions de redacció."
     },
     {
-      "title": "Airbnb millora les apps iOS i Android amb tres millores clau per al teu proper viatge",
-      "link_id": "c_59c099",
-      "source": "CNET",
-      "date": "2026-05-20",
-      "time": "22:25",
-      "summary": "Airbnb afegeix reserves d'hotels, lloguer de cotxes i servei de bagatges a l'app."
+      "title": "StanChart CEO Apologizes for ‘Lower-Value’ Comments After Outcry",
+      "link_id": "c_54e7dc",
+      "source": "Bloomberg Technology",
+      "date": "2026-05-22",
+      "time": "07:55",
+      "summary": "El CEO de StanChart demana disculpes per comentaris sobre la IA i el treball de menor valor."
+    },
+    {
+      "title": "EU-Anthropic Talks Over Mythos Concerns Are Stalled, Spain Says",
+      "link_id": "c_117e3c",
+      "source": "Bloomberg Technology",
+      "date": "2026-05-22",
+      "time": "07:27",
+      "summary": "Les negociacions UE-Anthropic sobre vulnerabilitats del model Mythos estan bloquejades, segons Espanya."
+    },
+    {
+      "title": "Chinese Brands Snap Up Record 15% of Europe’s Electric-Car Sales",
+      "link_id": "c_c455c1",
+      "source": "Bloomberg Technology",
+      "date": "2026-05-22",
+      "time": "06:15",
+      "summary": "Marques xineses representen un rècord del 15% de les vendes d'electrics a Europa."
+    },
+    {
+      "title": "Vuchot on Why Luxury Travel Is Resilient in Asia",
+      "link_id": "c_e94aa0",
+      "source": "Bloomberg Technology",
+      "date": "2026-05-22",
+      "time": "06:03",
+      "summary": "El viatge de luxe es manté fort a Àsia malgrat riscos geopolítics i escassetat de combustible."
+    },
+    {
+      "title": "Insilico on Applying AI to Transform Drug Discovery",
+      "link_id": "c_a86910",
+      "source": "Bloomberg Technology",
+      "date": "2026-05-22",
+      "time": "06:01",
+      "summary": "Insilico usa IA per revolucionar el descobriment de medicaments i la recerca de longevitat."
+    },
+    {
+      "title": "AI Capex Drives Memory Demand and Asia Tech Outlook",
+      "link_id": "c_ff283f",
+      "source": "Bloomberg Technology",
+      "date": "2026-05-22",
+      "time": "06:01",
+      "summary": "La inversió en IA impulsa la demanda de memòria i la perspectiva tecnològica d'Àsia."
     }
   ]
 }
