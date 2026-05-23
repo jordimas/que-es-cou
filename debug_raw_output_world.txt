@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-05-22T10:23",
+  "generated_at": "2026-05-23T09:33",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Spotify and Universal Music agree deal to let subscribers create AI remixes",
-      "link_id": "c_4ca2e8",
-      "source": "The Guardian Tech",
-      "date": "2026-05-21",
-      "time": "20:24",
-      "summary": "Spotify i Universal Music permeten als subscriptors crear remescles i versions de cançons amb IA."
-    },
-    {
-      "title": "Waymo expands pause to four cities as robotaxis keep driving into floods",
+      "title": "Waymo amplia la pausa a quatre ciutats mentre els robotaxi continuen conduint en inundacions",
       "link_id": "c_14628a",
       "source": "TechCrunch",
       "date": "2026-05-22",
       "time": "00:37",
-      "summary": "Waymo suspèn el servei de robotaxi a quatre ciutats per evitar conduir en inundacions."
+      "summary": "Waymo suspèn el servei de robotaxi a Atlanta i San Antonio per evitar conduir per carreteres inundades."
     },
     {
-      "title": "SpaceX scrubs first Starship V3 launch just before liftoff",
-      "link_id": "c_e53623",
+      "title": "Waymo suspèn la conducció per autopista per motius de seguretat",
+      "link_id": "c_5d4602",
+      "source": "The Verge",
+      "date": "2026-05-22",
+      "time": "16:17",
+      "summary": "Waymo ha aturat els robotaxi a les autopistes per prevenir conducció en zones inundades."
+    },
+    {
+      "title": "Waymo interromp els robotaxi en cinc ciutats dels EUA després que els cotxes entrin en carreteres inundades",
+      "link_id": "c_353a51",
+      "source": "Bloomberg Technology",
+      "date": "2026-05-22",
+      "time": "16:10",
+      "summary": "Waymo interromp els robotaxi en cinc ciutats dels EUA a causa de carreteres inundades."
+    },
+    {
+      "title": "Waymo suspèn el servei en sis ciutats després que els cotxes entrin en zones inundades",
+      "link_id": "c_433400",
+      "source": "NYT Technology",
+      "date": "2026-05-22",
+      "time": "21:24",
+      "summary": "Waymo suspèn el servei en sis ciutats després que els cotxes entrin en zones inundades."
+    },
+    {
+      "title": "Meta llança discretament una nova app similar a Reddit anomenada Forum",
+      "link_id": "c_5dd6a1",
       "source": "TechCrunch",
       "date": "2026-05-22",
-      "time": "00:07",
-      "summary": "SpaceX cancel·la el llançament del Starship V3 poc abans del decollatge."
+      "time": "14:24",
+      "summary": "Meta llança Forum, una app dedicada a discussions profundes i comunitats d’interès."
     },
     {
-      "title": "Trump delays AI security executive order, saying language ‘could have been a blocker’",
-      "link_id": "c_471886",
-      "source": "TechCrunch",
-      "date": "2026-05-21",
-      "time": "17:30",
-      "summary": "Trump posposa l'ordre executiva de seguretat d'IA per qüestions de redacció."
-    },
-    {
-      "title": "StanChart CEO Apologizes for ‘Lower-Value’ Comments After Outcry",
-      "link_id": "c_54e7dc",
-      "source": "Bloomberg Technology",
+      "title": "Forum de Meta combina elements de Reddit, Facebook i la IA de Google",
+      "link_id": "c_4e0e58",
+      "source": "The Verge",
       "date": "2026-05-22",
-      "time": "07:55",
-      "summary": "El CEO de StanChart demana disculpes per comentaris sobre la IA i el treball de menor valor."
+      "time": "17:27",
+      "summary": "Meta presenta Forum, una app que trasllada Facebook Groups a una plataforma amb xatbot IA."
     },
     {
-      "title": "EU-Anthropic Talks Over Mythos Concerns Are Stalled, Spain Says",
-      "link_id": "c_117e3c",
-      "source": "Bloomberg Technology",
+      "title": "Meta ha llançat dues noves apps per a iPhone aquest mes",
+      "link_id": "c_82cd0c",
+      "source": "9to5Mac",
       "date": "2026-05-22",
-      "time": "07:27",
-      "summary": "Les negociacions UE-Anthropic sobre vulnerabilitats del model Mythos estan bloquejades, segons Espanya."
+      "time": "13:08",
+      "summary": "Meta llança una nova app per a iPhone centrada en les funcionalitats de grups de Facebook."
     },
     {
-      "title": "Chinese Brands Snap Up Record 15% of Europe’s Electric-Car Sales",
-      "link_id": "c_c455c1",
-      "source": "Bloomberg Technology",
+      "title": "Forum és la nova app de Facebook Groups de Meta i s’assembla molt a Reddit",
+      "link_id": "c_37f098",
+      "source": "The Next Web",
       "date": "2026-05-22",
-      "time": "06:15",
-      "summary": "Marques xineses representen un rècord del 15% de les vendes d'electrics a Europa."
+      "time": "15:24",
+      "summary": "Forum transforma Facebook Groups en un hub independent amb cerca IA i funcionalitat similar a Reddit."
     },
     {
-      "title": "Vuchot on Why Luxury Travel Is Resilient in Asia",
-      "link_id": "c_e94aa0",
-      "source": "Bloomberg Technology",
+      "title": "Forum és l’app dedicada de Meta per agrupar els teus Facebook Groups en un sol feed",
+      "link_id": "c_f9c06e",
+      "source": "CNET",
       "date": "2026-05-22",
-      "time": "06:03",
-      "summary": "El viatge de luxe es manté fort a Àsia malgrat riscos geopolítics i escassetat de combustible."
+      "time": "18:12",
+      "summary": "Meta llança discretament Forum, una app independent que mostra els grups de Facebook en un feed dedicat."
     },
     {
-      "title": "Insilico on Applying AI to Transform Drug Discovery",
-      "link_id": "c_a86910",
-      "source": "Bloomberg Technology",
+      "title": "Les AI Overviews de Google estan tan confoses que no reconeixen les teves cerques (Actualització)",
+      "link_id": "c_fca095",
+      "source": "Android Authority",
       "date": "2026-05-22",
-      "time": "06:01",
-      "summary": "Insilico usa IA per revolucionar el descobriment de medicaments i la recerca de longevitat."
-    },
-    {
-      "title": "AI Capex Drives Memory Demand and Asia Tech Outlook",
-      "link_id": "c_ff283f",
-      "source": "Bloomberg Technology",
-      "date": "2026-05-22",
-      "time": "06:01",
-      "summary": "La inversió en IA impulsa la demanda de memòria i la perspectiva tecnològica d'Àsia."
+      "time": "19:08",
+      "summary": "Les AI Overviews de Google es confonen i no reconeixen les cerques dels usuaris."
     }
   ]
 }

@@ -1,24 +1,16 @@
 {
-  "generated_at": "2026-05-22T08:23",
+  "generated_at": "2026-05-23T07:33",
   "id": "events",
   "title": "Trobades",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Preguntas, respuestas y soluciones para tu web WordPress por JuanKa Díaz",
-      "link_id": "c_44aeec",
-      "source": "WordPress BCN",
-      "date": "2026-05-14",
-      "time": "17:25",
-      "summary": "Sessió pràctica per resoldre dubtes reals sobre WordPress, plugins, temes i rendiment, amb participació comunitària."
-    },
-    {
-      "title": "AI Imprint - Bonus VIP Session",
-      "link_id": "c_b81f15",
-      "source": "AI Professionals Barcelona",
-      "date": "2026-05-21",
-      "time": "19:47",
-      "summary": "Sessió VIP de 60 minuts on com transformar AI Imprint en infraestructura empresarial, amb Rich Schefren."
+      "title": "Expanded Voices: Exploring Voice Identity and Latent Spaces with AI",
+      "link_id": "c_99dd05",
+      "source": "GDG Barcelona",
+      "date": "2026-05-22",
+      "time": "14:34",
+      "summary": "Descobreix com la IA transforma la identitat vocal i els espais latents en una exposició interactiva."
     },
     {
       "title": "Your AI Book Coach: The Personal Development Shortcut",
@@ -26,7 +18,7 @@
       "source": "AI Professionals Barcelona",
       "date": "2026-05-20",
       "time": "15:38",
-      "summary": "Taller que ensenya a extreure valor de llibres de desenvolupament personal sense llegir-los completament."
+      "summary": "Aprèn a extreure coneixements clau de llibres de desenvolupament personal amb assistència d'IA."
     },
     {
       "title": "Networking for AI Professionals around the world - June 8",
@@ -34,7 +26,7 @@
       "source": "AI Professionals Barcelona",
       "date": "2026-05-12",
       "time": "15:31",
-      "summary": "Esdeveniment en línia gratuït de 1,5 hores per connectar professionals d'IA globalment i compartir idees."
+      "summary": "Connecta amb professionals d'IA globalment en sessions de networking virtual i xerrades breus."
     },
     {
       "title": "Kaggle 5-Day AI Agents Intensive - Vibe Coding Course",
@@ -42,7 +34,7 @@
       "source": "AI Professionals Barcelona",
       "date": "2026-05-15",
       "time": "02:16",
-      "summary": "Curs intensiu de cinc dies amb Google i Kaggle, inclou AMAs i entrenaments profunds d'IA."
+      "summary": "Intensiu de cinc dies sobre agents d'IA amb instruccions de Google i Kaggle, inclou AMAs i pràctiques."
     }
   ]
 }

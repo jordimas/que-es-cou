@@ -1,16 +1,40 @@
 {
-  "generated_at": "2026-05-22T09:00",
+  "generated_at": "2026-05-23T07:33",
   "id": "podcasts",
   "title": "Podcasts en català sobre tecnologia",
   "sources_checked": [],
   "articles": [
+    {
+      "title": "Cuques de llum i la necessitat de conservar els llibres originals en paper – Programa 665",
+      "link_id": "c_8d82ce",
+      "source": "Mossega la poma",
+      "date": "2026-05-22",
+      "time": "07:37",
+      "summary": "Explora com la tecnologia de llum transforma la conservació de llibres antics i la seva digitalització."
+    },
+    {
+      "title": "Exemples d’ús de la IA en processos creatius: organitzar hores d’entrevistes i contingut complex – programa 664",
+      "link_id": "c_1aec83",
+      "source": "Mossega la poma",
+      "date": "2026-05-15",
+      "time": "08:23",
+      "summary": "Mostra exemples pràctics d'IA per agilitzar entrevistes i gestionar contingut complex en entorns creatius."
+    },
+    {
+      "title": "Polymarket és un problema, les pantalles no – programa 663",
+      "link_id": "c_122341",
+      "source": "Mossega la poma",
+      "date": "2026-05-09",
+      "time": "08:26",
+      "summary": "Analitza el risc de les apostes descontrolades a Polymarket i l'impacte de les pantalles en menors."
+    },
     {
       "title": "L' Altra Ràdio - El projecte Erica, la ciència ciutadana i la protecció del medi ambient",
       "link_id": "c_7f29fd",
       "source": "L'altra ràdio",
       "date": "2026-05-21",
       "time": "07:33",
-      "summary": "Explora com la ciència ciutadana impulsa la protecció ambiental a través del projecte Erica."
+      "summary": "Descobreix com el projecte Erica impulsa la ciència ciutadana per a una acció climàtica col·lectiva."
     },
     {
       "title": "L' Altra Ràdio - Els Premis Nacionals de Comunicació, Ràdio Associació i Sonor",
@@ -18,15 +42,7 @@
       "source": "L'altra ràdio",
       "date": "2026-05-14",
       "time": "07:33",
-      "summary": "Detalls sobre la cerimònia i els guanyadors dels Premis Nacionals de Comunicació 2025 a Catalunya."
-    },
-    {
-      "title": "L' Altra Ràdio - El DMTforum 2026: la gran trobada del sector català de les telecomunicacions",
-      "link_id": "c_243e4c",
-      "source": "L'altra ràdio",
-      "date": "2026-05-07",
-      "time": "07:33",
-      "summary": "Presentació del DMTforum 2026, trobada clau per al sector de telecomunicacions català."
+      "summary": "Revisa els guanyadors i la importància dels Premis Nacionals de Comunicació per a la cultura catalana."
     },
     {
       "title": "El gòTIC - Tenim una missió! del 20/5/2026",
@@ -34,7 +50,7 @@
       "source": "El Gòtic",
       "date": "2026-05-19",
       "time": "16:29",
-      "summary": "Recull recursos digitals per a la ciutadania, enfocats a desafiaments i preguntes tecnològiques."
+      "summary": "Presenta recursos digitals per afrontar reptes de la ciutadania digital i fomentar la participació local."
     },
     {
       "title": "El gòTIC - Tenim una missió! del 13/5/2026",
@@ -42,7 +58,7 @@
       "source": "El Gòtic",
       "date": "2026-05-12",
       "time": "16:29",
-      "summary": "Segona entrega de missions digitals, oferint estratègies per a la transformació digital ciutadana."
+      "summary": "Ofereix estratègies i eines per a la transformació digital de la comunitat de Tàrrega."
     },
     {
       "title": "No atribueixis mai a la malícia allò que pot ser explicat per l'estupidesa",
@@ -50,7 +66,7 @@
       "source": "Foc a Terra",
       "date": "2026-05-18",
       "time": "04:00",
-      "summary": "Anàlisi de la sanció CNMV i el paper de Polymarket en la difusió de rumors financers."
+      "summary": "Analitza la relació entre la malícia, l'estupidesa i la regulació financera en el mercat."
     },
     {
       "title": "Més palanques que el mecànic de Las Vegas, amb Eduard Romeu",
@@ -58,7 +74,7 @@
       "source": "Foc a Terra",
       "date": "2026-05-11",
       "time": "04:00",
-      "summary": "Entrevista amb Eduard Romeu sobre gestió de flux de caixa i desafiaments bancaris actuals."
+      "summary": "Entrevista a Eduard Romeu sobre estratègies de cash‑flow i gestió econòmica en empreses."
     },
     {
       "title": "Tot el que portarà WordPress 7.0",
@@ -66,7 +82,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-05-19",
       "time": "00:00",
-      "summary": "Repassa les novetats més rellevants de WordPress 7.0 programades per al 20 de maig."
+      "summary": "Repassa les novetats clau de WordPress 7.0 i el seu impacte en desenvolupadors."
     },
     {
       "title": "WordPress 7.0, sense Real Time Collaboration",
@@ -74,7 +90,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-05-12",
       "time": "00:00",
-      "summary": "Explica per què la col·laboració en temps real s'ajornarà a la versió 7.1 per rendiment."
+      "summary": "Explica per què la col·laboració en temps real s'implementarà a la versió 7.1, no a la 7.0."
     },
     {
       "title": "Capítol 65: Ja no em farà por anar al dentista",
@@ -82,7 +98,7 @@
       "source": "RAC&GO",
       "date": "2026-05-19",
       "time": "06:00",
-      "summary": "Descobreix la solució dental de Bite Right que redueix visites i errors mèdics en clíniques."
+      "summary": "Presenta una solució tecnològica catalana que redueix visites al dentista i minimitza errors mèdics."
     }
   ]
 }
