@@ -1,88 +1,24 @@
 {
-  "generated_at": "2026-05-23T09:33",
+  "generated_at": "2026-05-24T07:50",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Prepareu-vos a triar bandos en la gran competició d'IPO de les grans tecnologies",
-      "link_id": "c_dc5062",
-      "source": "Financial Times",
-      "date": "2026-05-23",
-      "time": "04:00",
-      "summary": "Les grans tecnologies lluiten per atraure inversors en una competició d'IPO que podria redefinir el sector."
-    },
-    {
-      "title": "Com la IA ha canviat les fusions i adquisicions",
-      "link_id": "c_b109d6",
-      "source": "Financial Times",
-      "date": "2026-05-23",
-      "time": "04:00",
-      "summary": "La IA impulsa noves estratègies i valors en les operacions de fusió, canviant el panorama empresarial."
-    },
-    {
-      "title": "La nova cursa d'armes en potència informàtica",
-      "link_id": "c_15c6c8",
-      "source": "Financial Times",
-      "date": "2026-05-23",
-      "time": "04:00",
-      "summary": "Països i corporacions competeixen per superpotència computacional, accelerant la carrera d'armes tecnològiques."
-    },
-    {
-      "title": "SpaceX llança el vol de prova del Starship en un segon intent",
-      "link_id": "c_8fabda",
+      "title": "El nou responsable de tecnologia responsable de Microsoft sobre com humanitzar el desenvolupament d'IA d'alta velocitat",
+      "link_id": "c_f99e5d",
       "source": "CNBC Technology",
       "date": "2026-05-23",
-      "time": "01:28",
-      "summary": "SpaceX intenta nou llançament del Starship, mostrant avanços i desafiaments en la seva ruta cap a l'IPO."
+      "time": "13:00",
+      "summary": "Microsoft designa una nova directora per garantir que l'IA ràpida es desenvolupi de manera ètica i centrada en les persones."
     },
     {
-      "title": "SpaceX llança el Starship redissenyat en una prova pre-IPO exitosa",
-      "link_id": "c_62b3ff",
+      "title": "Les OPI de SpaceX, OpenAI i Anthropic posaran a prova els límits del boom de la IA",
+      "link_id": "c_bf4c75",
       "source": "Financial Times",
       "date": "2026-05-23",
-      "time": "00:30",
-      "summary": "El Starship redissenyat supera la prova pre-IPO, reforçant la confiança dels inversors en el projecte espacial."
-    },
-    {
-      "title": "L'augment de les accions de Qualcomm mostra que els inversors 'es desperten' davant l'explosió dels dispositius d'IA",
-      "link_id": "c_aa6282",
-      "source": "CNBC Technology",
-      "date": "2026-05-22",
-      "time": "20:52",
-      "summary": "L'augment de Qualcomm indica que el mercat veu un creixement massiu dels dispositius alimentats per IA."
-    },
-    {
-      "title": "Les accions de Reddit cauen gairebé un 6% després que Meta llanci una aplicació independent per a fòrums en línia",
-      "link_id": "c_98b8e1",
-      "source": "CNBC Technology",
-      "date": "2026-05-22",
-      "time": "20:17",
-      "summary": "Meta llança una app independent, provocant una caiguda significativa del valor de les accions de Reddit."
-    },
-    {
-      "title": "Cap a l'infinit i més enllà, amb l'IPO de SpaceX",
-      "link_id": "c_ce4b8e",
-      "source": "Financial Times",
-      "date": "2026-05-22",
-      "time": "16:08",
-      "summary": "L'IPO de SpaceX promet oportunitats infinities per a inversors, tot i incerteses reguladores."
-    },
-    {
-      "title": "GitHub de Microsoft estava posicionat per guanyar la cursa de programació IA, però les interrupcions ho van impedir",
-      "link_id": "c_7b40a1",
-      "source": "CNBC Technology",
-      "date": "2026-05-22",
-      "time": "15:39",
-      "summary": "Malgrat la posició dominant, les interrupcions de GitHub han minvat el lideratge de Microsoft en IA."
-    },
-    {
-      "title": "Descarrega Tecnològica: El que podríeu haver perdut en els guanys de Nvidia — una oportunitat de 200 mil milions de dòlars i computació d'edge",
-      "link_id": "c_41b012",
-      "source": "CNBC Technology",
-      "date": "2026-05-22",
-      "time": "14:00",
-      "summary": "Nvidia revela una oportunitat de 200 mil milions i impulsa la computació d'edge com a futur clau."
+      "time": "08:00",
+      "summary": "Les ofertes públiques d'aquestes empreses podrien redefinir la inversió en intel·ligència artificial a nivell global."
     }
   ]
 }

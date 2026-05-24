@@ -1,251 +1,55 @@
 {
-  "generated_at": "2026-05-23T09:33",
+  "generated_at": "2026-05-24T07:55",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
     {
       "name": "Ara.cat",
       "url": "https://www.ara.cat/rss/",
+      "articles_found": 3
+    },
+    {
+      "name": "MetaData",
+      "url": "https://www.metadata.cat/sindica",
       "articles_found": 2
     },
     {
-      "name": "El Periódico",
-      "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
+      "name": "Via Empresa",
+      "url": "https://www.viaempresa.cat/uploads/feeds/feed_via-empresa-2024_ca.xml",
+      "articles_found": 2
+    },
+    {
+      "name": "VilaWeb",
+      "url": "https://www.vilaweb.cat/feed/",
+      "articles_found": 1
+    },
+    {
+      "name": "Segre",
+      "url": "https://www.segre.com/ca/rss/home.xml",
       "articles_found": 1
     },
     {
       "name": "RAC1",
       "url": "https://www.rac1.cat/rss/home.xml",
       "articles_found": 1
-    },
-    {
-      "name": "La Vanguardia (en català)",
-      "url": "https://www.lavanguardia.com/rss/encatala.xml",
-      "articles_found": 0
-    },
-    {
-      "name": "VilaWeb",
-      "url": "https://www.vilaweb.cat/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "NacióDigital",
-      "url": "https://www.naciodigital.cat/rss/tecnologia",
-      "articles_found": 0
-    },
-    {
-      "name": "324.cat",
-      "url": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0",
-      "articles_found": 0
-    },
-    {
-      "name": "Softcatalà",
-      "url": "https://www.softcatala.org/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "El Nacional.cat",
-      "url": "https://www.elnacional.cat/uploads/feeds/feed_ca.xml",
-      "articles_found": 1
-    },
-    {
-      "name": "El Mon.cat",
-      "url": "https://www.elmon.cat/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "El Mon.cat Tecnologia",
-      "url": "https://elmon.cat/tecnologia/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "El Mon.cat Societat",
-      "url": "https://elmon.cat/societat/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "Betevé",
-      "url": "https://beteve.cat/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "El Punt Avui",
-      "url": "https://www.elpuntavui.cat/barcelona.feed?type=rss",
-      "articles_found": 0
-    },
-    {
-      "name": "Segre",
-      "url": "https://www.segre.com/ca/rss/home.xml",
-      "articles_found": 0
-    },
-    {
-      "name": "Regio7",
-      "url": "https://www.regio7.cat/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Diari d'Andorra",
-      "url": "https://www.diariandorra.ad/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Bon Dia Andorra",
-      "url": "https://www.bondia.ad/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Altaveu",
-      "url": "https://www.altaveu.com/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Nuvol",
-      "url": "https://www.nuvol.com/feed",
-      "articles_found": 0
-    },
-    {
-      "name": "Diari Mes",
-      "url": "https://www.diarimes.com/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Directe.cat",
-      "url": "https://www.directe.cat/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Cugat.cat",
-      "url": "https://www.cugat.cat/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "CatalunyaPress",
-      "url": "https://www.catalunyapress.cat/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Tot Barcelona",
-      "url": "https://www.totbarcelona.cat/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "e-notícies",
-      "url": "https://www.e-noticies.cat/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Lleida Diari",
-      "url": "https://www.lleidadiari.cat/feed/",
-      "articles_found": 1
-    },
-    {
-      "name": "Catorze",
-      "url": "https://www.catorze.cat/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Xarxanet",
-      "url": "https://www.xarxanet.org/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Bondia",
-      "url": "https://www.bondia.cat/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "MetaData",
-      "url": "https://www.metadata.cat/sindica",
-      "articles_found": 3
-    },
-    {
-      "name": "El Temps",
-      "url": "https://www.eltemps.cat/sindica",
-      "articles_found": 0
-    },
-    {
-      "name": "Àpunt",
-      "url": "https://www.apuntmedia.es/rss/",
-      "articles_found": 0
-    },
-    {
-      "name": "El Periòdic d'Ontinyent",
-      "url": "https://www.elperiodicvalencia.com/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Saó",
-      "url": "https://www.revistasao.cat/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "Diari de Balears",
-      "url": "https://www.diaridebalears.cat/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "IB3 Notícies",
-      "url": "https://ib3.org/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "Ara Balears",
-      "url": "https://www.arabalears.cat/rss/",
-      "articles_found": 0
-    },
-    {
-      "name": "Manacor Comarcal",
-      "url": "https://manacorcomarcal.com/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Via Empresa",
-      "url": "https://www.viaempresa.cat/uploads/feeds/feed_via-empresa-2024_ca.xml",
-      "articles_found": 1
-    },
-    {
-      "name": "Lúdica",
-      "url": "https://ludica.cat/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "Accent Obert",
-      "url": "https://accentobert.cat/feed/",
-      "articles_found": 0
     }
   ],
   "articles": [
+    {
+      "title": "La IA prepara l'assalt a Wall Street",
+      "link_id": "c_b7c2ac",
+      "source": "Ara.cat",
+      "date": "2026-05-24",
+      "time": "07:50",
+      "summary": "SpaceX busca la major oferta pública, impulsant la borsa amb IA i potencials beneficis per inversors catalans."
+    },
     {
       "title": "Michelin es desfà definitivament de les estrelles verdes: Catalunya en perdrà 15 a partir del novembre",
       "link_id": "c_aa2705",
       "source": "Ara.cat",
       "date": "2026-05-20",
-      "time": "11:53",
-      "summary": "La Guia Michelin elimina les Estrelles Verdes, deixant 15 restaurants catalans sense reconeixement sostenible a partir de novembre."
-    },
-    {
-      "title": "Escàndol al món literari: una intel·ligència artificial podria haver guanyat el premi Commonwealth",
-      "link_id": "c_80e852",
-      "source": "Ara.cat",
-      "date": "2026-05-19",
-      "time": "14:07",
-      "summary": "Una IA podria haver guanyat el premi Commonwealth, generant debat ètic sobre la intel·ligència artificial en la literatura."
-    },
-    {
-      "title": "Google redissenya el seu cercador després de 25 anys per convertir-lo en una plataforma d’IA",
-      "link_id": "c_a9e959",
-      "source": "MetaData",
-      "date": "2026-05-20",
-      "time": "15:44",
-      "summary": "Google redissenya el cercador amb Gemini, convertint-lo en una plataforma d’IA que transforma les consultes d’usuari."
-    },
-    {
-      "title": "SpaceX sortirà a borsa i farà que Elon Musk sigui encara més milionari",
-      "link_id": "c_d72ff7",
-      "source": "El Nacional.cat",
-      "date": "2026-05-22",
-      "time": "22:00",
-      "summary": "SpaceX prepara la seva sortida a borsa, prometent fer Elon Musk el primer trilionari del món."
+      "time": "13:53",
+      "summary": "Catalunya perd 15 estrelles verdes, afectant restaurants sostenibles i la reputació ecològica regional."
     },
     {
       "title": "El Barcelona Supercomputing Center crea el primer laboratori europeu que uneix art, IA i supercomputació",
@@ -253,31 +57,15 @@
       "source": "MetaData",
       "date": "2026-05-20",
       "time": "09:20",
-      "summary": "El BSC llança el Creative Intelligence Lab, un laboratori europeu que uneix art, IA i supercomputació per a la societat."
+      "summary": "El BSC llança el Creative Intelligence Lab, un pont entre art i IA per a solucions industrials."
     },
     {
-      "title": "El cervell invisible que mou Barcelona: així funciona el centre que controla els semàfors, els túnels i el trànsit les 24 hores del dia",
-      "link_id": "c_3b4c82",
-      "source": "RAC1",
+      "title": "La FP per al curs vinent: 5.000 places noves i un algoritme per assignar estudis",
+      "link_id": "c_aee344",
+      "source": "Ara.cat",
       "date": "2026-05-22",
-      "time": "16:26",
-      "summary": "Barcelona controla el trànsit 24 hores amb un centre que optimitza semàfors i túnels per reduir embussos."
-    },
-    {
-      "title": "L’Agència de Ciberseguretat de Catalunya adverteix: no comparteixis les teves dades personals amb la IA",
-      "link_id": "c_22cea6",
-      "source": "El Periódico",
-      "date": "2026-05-18",
-      "time": "11:08",
-      "summary": "L’Agència de Ciberseguretat de Catalunya alerta sobre els riscos de compartir dades personals amb la IA."
-    },
-    {
-      "title": "GuardIA: nova eina d’intel·ligència artificial a les Urgències de Lleida",
-      "link_id": "c_b9f9f5",
-      "source": "Lleida Diari",
-      "date": "2026-05-22",
-      "time": "10:22",
-      "summary": "GuardIA, nova IA a les urgències de Lleida, ajuda els metges a orientar diagnòstics i decisions clíniques."
+      "time": "18:52",
+      "summary": "Quasi 5.000 noves places de FP s’obren, reforçant la formació tècnica per a la demanda laboral."
     },
     {
       "title": "Les exportacions de productes d'alta tecnologia cauen un 7,3%, als 2.732 milions d'euros",
@@ -285,7 +73,23 @@
       "source": "Via Empresa",
       "date": "2026-05-22",
       "time": "11:06",
-      "summary": "Les exportacions catalanes de productes d’alta tecnologia cauen un 7,3%, afectant especialment el sector farmacèutic."
+      "summary": "Les exportacions catalanes d’alta tecnologia cauen un 7,3%, principalment per la baixa en farmacèutics."
+    },
+    {
+      "title": "Ignacio Zunzunegui (Revolut): \"Volem que Barcelona sigui el nostre hub tecnològic a Europa\"",
+      "link_id": "c_5afd5e",
+      "source": "Via Empresa",
+      "date": "2026-05-24",
+      "time": "04:55",
+      "summary": "Revolut vol fer de Barcelona un hub europeu, atraient milers de clients i inversió tecnològica."
+    },
+    {
+      "title": "El Regne Unit s’apunta a l’energia solar als balcons, mentre als Països Catalans continua sense implantar-se",
+      "link_id": "c_f0156b",
+      "source": "VilaWeb",
+      "date": "2026-05-23",
+      "time": "21:40",
+      "summary": "El Regne Unit impulsa energia solar a balcons; Catalunya encara sense normativa clara per a aquest model."
     },
     {
       "title": "La IA sacseja el mercat laboral català: el 26% dels llocs de treball canviaran i impactarà especialment les dones",
@@ -293,7 +97,23 @@
       "source": "MetaData",
       "date": "2026-05-19",
       "time": "16:19",
-      "summary": "Un estudi alerta que la IA canviarà el 26% dels llocs de treball a Catalunya, impactant més les dones."
+      "summary": "Un estudi alerta que la IA canviarà el 26% dels llocs de treball, afectant especialment les dones."
+    },
+    {
+      "title": "IA i competències en la formació",
+      "link_id": "c_b45121",
+      "source": "Segre",
+      "date": "2026-05-24",
+      "time": "05:37",
+      "summary": "Es destaca la necessitat d’habilitats d’IA duradores en l’educació per a aprenentatge integral."
+    },
+    {
+      "title": "El nou mapa interactiu que et diu si a la terrassa del bar de Barcelona on vols anar toca el sol o hi fa ombra",
+      "link_id": "c_899122",
+      "source": "RAC1",
+      "date": "2026-05-21",
+      "time": "20:21",
+      "summary": "Mapa interactiu indica sol i ombra a terrasses de Barcelona, ajudant a planificar espais d’estiu."
     }
   ]
 }

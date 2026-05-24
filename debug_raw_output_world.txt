@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-05-23T09:33",
+  "generated_at": "2026-05-24T09:50",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Waymo amplia la pausa a quatre ciutats mentre els robotaxi continuen conduint en inundacions",
-      "link_id": "c_14628a",
-      "source": "TechCrunch",
-      "date": "2026-05-22",
-      "time": "00:37",
-      "summary": "Waymo suspèn el servei de robotaxi a Atlanta i San Antonio per evitar conduir per carreteres inundades."
-    },
-    {
-      "title": "Waymo suspèn la conducció per autopista per motius de seguretat",
-      "link_id": "c_5d4602",
-      "source": "The Verge",
-      "date": "2026-05-22",
-      "time": "16:17",
-      "summary": "Waymo ha aturat els robotaxi a les autopistes per prevenir conducció en zones inundades."
-    },
-    {
-      "title": "Waymo interromp els robotaxi en cinc ciutats dels EUA després que els cotxes entrin en carreteres inundades",
-      "link_id": "c_353a51",
-      "source": "Bloomberg Technology",
-      "date": "2026-05-22",
-      "time": "16:10",
-      "summary": "Waymo interromp els robotaxi en cinc ciutats dels EUA a causa de carreteres inundades."
-    },
-    {
-      "title": "Waymo suspèn el servei en sis ciutats després que els cotxes entrin en zones inundades",
-      "link_id": "c_433400",
-      "source": "NYT Technology",
-      "date": "2026-05-22",
-      "time": "21:24",
-      "summary": "Waymo suspèn el servei en sis ciutats després que els cotxes entrin en zones inundades."
-    },
-    {
-      "title": "Meta llança discretament una nova app similar a Reddit anomenada Forum",
+      "title": "Meta llança silenciosament una nova aplicació similar a Reddit anomenada Forum",
       "link_id": "c_5dd6a1",
       "source": "TechCrunch",
       "date": "2026-05-22",
       "time": "14:24",
-      "summary": "Meta llança Forum, una app dedicada a discussions profundes i comunitats d’interès."
+      "summary": "Meta introdueix Forum, una nova plataforma per a discussions profundes, competint amb Reddit i grups de Facebook."
     },
     {
-      "title": "Forum de Meta combina elements de Reddit, Facebook i la IA de Google",
-      "link_id": "c_4e0e58",
+      "title": "És hora de canviar a Bing? Cercar paraules com ‘disregard’ o ‘ignore’ trenca les Visions d'IA a la cerca de Google",
+      "link_id": "c_d0f5b9",
+      "source": "TechRadar",
+      "date": "2026-05-23",
+      "time": "12:30",
+      "summary": "Google falla en gestionar paraules com ‘disregard’, provocant respostes inesperades i confusió en les seves AI Overviews."
+    },
+    {
+      "title": "SpaceX va llançar Starship V3 tres setmanes abans de la seva OPI. El propulsor va explotar.",
+      "link_id": "c_c73e7c",
+      "source": "The Next Web",
+      "date": "2026-05-23",
+      "time": "09:56",
+      "summary": "SpaceX prova Starship V3 abans de l'OPI, però l'explosió del propulsor posa en dubte la seguretat del vehicle."
+    },
+    {
+      "title": "SpaceX Starship es llança amb èxit i torna a la Terra",
+      "link_id": "c_86c402",
+      "source": "Bloomberg",
+      "date": "2026-05-23",
+      "time": "00:07",
+      "summary": "El coet Starship de SpaceX completa una missió orbital i torna a la Terra, mostrant avenços en la tecnologia espacial."
+    },
+    {
+      "title": "SpaceX llança Starship V3 per primera vegada, però perd el propulsor al tornar",
+      "link_id": "c_ee162a",
+      "source": "TechCrunch",
+      "date": "2026-05-22",
+      "time": "22:55",
+      "summary": "El primer vol de Starship V3 arriba a l'espai, però el propulsor es destrueix al retorn, evidenciant reptes tècnics."
+    },
+    {
+      "title": "La cerca d'IA de Google està tan trencada que pot ‘disregard’ el que cerques",
+      "link_id": "c_77fe31",
       "source": "The Verge",
       "date": "2026-05-22",
-      "time": "17:27",
-      "summary": "Meta presenta Forum, una app que trasllada Facebook Groups a una plataforma amb xatbot IA."
+      "time": "16:39",
+      "summary": "La cerca d'IA de Google interpreta erròniament ‘disregard’, fent que les respostes siguin incoherents i inútils."
     },
     {
-      "title": "Meta ha llançat dues noves apps per a iPhone aquest mes",
-      "link_id": "c_82cd0c",
-      "source": "9to5Mac",
-      "date": "2026-05-22",
-      "time": "13:08",
-      "summary": "Meta llança una nova app per a iPhone centrada en les funcionalitats de grups de Facebook."
-    },
-    {
-      "title": "Forum és la nova app de Facebook Groups de Meta i s’assembla molt a Reddit",
-      "link_id": "c_37f098",
-      "source": "The Next Web",
-      "date": "2026-05-22",
-      "time": "15:24",
-      "summary": "Forum transforma Facebook Groups en un hub independent amb cerca IA i funcionalitat similar a Reddit."
-    },
-    {
-      "title": "Forum és l’app dedicada de Meta per agrupar els teus Facebook Groups en un sol feed",
+      "title": "Forum és l'aplicació dedicada de Meta per reunir els teus grups de Facebook en un sol feed",
       "link_id": "c_f9c06e",
       "source": "CNET",
       "date": "2026-05-22",
       "time": "18:12",
-      "summary": "Meta llança discretament Forum, una app independent que mostra els grups de Facebook en un feed dedicat."
+      "summary": "Forum consolida els grups de Facebook en una única aplicació, millorant la interacció i la privacitat dels usuaris."
     },
     {
-      "title": "Les AI Overviews de Google estan tan confoses que no reconeixen les teves cerques (Actualització)",
-      "link_id": "c_fca095",
-      "source": "Android Authority",
+      "title": "Forum de Meta combina Reddit, Facebook i la Visió d'IA de Google",
+      "link_id": "c_4e0e58",
+      "source": "The Verge",
       "date": "2026-05-22",
-      "time": "19:08",
-      "summary": "Les AI Overviews de Google es confonen i no reconeixen les cerques dels usuaris."
+      "time": "13:27",
+      "summary": "Forum combina elements de Reddit, Facebook i la IA de Google, oferint una nova experiència de debat en línia."
+    },
+    {
+      "title": "Les Visions d'IA de Google trenquen el diccionari quan uses paraules com ‘disregard’",
+      "link_id": "c_fa1423",
+      "source": "9to5Google",
+      "date": "2026-05-22",
+      "time": "16:30",
+      "summary": "Les AI Overviews de Google es desestabilitzen amb paraules com ‘disregard’, revelant limitacions del seu motor de llenguatge."
+    },
+    {
+      "title": "Ja no pots cercar a Google la paraula ‘disregard’",
+      "link_id": "c_bae054",
+      "source": "TechCrunch",
+      "date": "2026-05-22",
+      "time": "16:16",
+      "summary": "Google ha eliminat la capacitat de cercar la paraula ‘disregard’, afectant usuaris i desenvolupadors que depenien d'aquest terme."
     }
   ]
 }
