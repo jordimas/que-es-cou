@@ -1,111 +1,55 @@
 {
-  "generated_at": "2026-05-24T07:55",
+  "generated_at": "2026-05-25T09:00",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
     {
-      "name": "Ara.cat",
-      "url": "https://www.ara.cat/rss/",
+      "name": "El Periódico",
+      "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
+      "articles_found": 1
+    },
+    {
+      "name": "RAC1",
+      "url": "https://www.rac1.cat/rss/home.xml",
+      "articles_found": 2
+    },
+    {
+      "name": "La Vanguardia (en català)",
+      "url": "https://www.lavanguardia.com/rss/encatala.xml",
+      "articles_found": 1
+    },
+    {
+      "name": "El Nacional",
+      "url": "https://www.elnacional.cat/uploads/feeds/feed_ca.xml",
+      "articles_found": 1
+    },
+    {
+      "name": "Via Empresa",
+      "url": "https://www.viaempresa.cat/uploads/feeds/feed_via-empresa-2024_ca.xml",
       "articles_found": 3
     },
     {
       "name": "MetaData",
       "url": "https://www.metadata.cat/sindica",
       "articles_found": 2
-    },
-    {
-      "name": "Via Empresa",
-      "url": "https://www.viaempresa.cat/uploads/feeds/feed_via-empresa-2024_ca.xml",
-      "articles_found": 2
-    },
-    {
-      "name": "VilaWeb",
-      "url": "https://www.vilaweb.cat/feed/",
-      "articles_found": 1
-    },
-    {
-      "name": "Segre",
-      "url": "https://www.segre.com/ca/rss/home.xml",
-      "articles_found": 1
-    },
-    {
-      "name": "RAC1",
-      "url": "https://www.rac1.cat/rss/home.xml",
-      "articles_found": 1
     }
   ],
   "articles": [
     {
-      "title": "La IA prepara l'assalt a Wall Street",
-      "link_id": "c_b7c2ac",
-      "source": "Ara.cat",
+      "title": "Pèrdues milionàries i amb Musk d’amo absolut: els secrets de SpaceX revelats a la sol·licitud per a la sortida més gran a borsa de la història",
+      "link_id": "c_ccbc4e",
+      "source": "El Periódico",
+      "date": "2026-05-21",
+      "time": "11:50",
+      "summary": "SpaceX sol·licita cotitzar, prometent la més gran sortida borsària de la història i potencials milions d’ingressos."
+    },
+    {
+      "title": "Una estudiant sorda de la UPF aconsegueix fer ràdio per primer cop gràcies a una IA: \"Fins ara era un privilegi dels que hi podeu sentir\"",
+      "link_id": "c_a29b97",
+      "source": "RAC1",
       "date": "2026-05-24",
-      "time": "07:50",
-      "summary": "SpaceX busca la major oferta pública, impulsant la borsa amb IA i potencials beneficis per inversors catalans."
-    },
-    {
-      "title": "Michelin es desfà definitivament de les estrelles verdes: Catalunya en perdrà 15 a partir del novembre",
-      "link_id": "c_aa2705",
-      "source": "Ara.cat",
-      "date": "2026-05-20",
-      "time": "13:53",
-      "summary": "Catalunya perd 15 estrelles verdes, afectant restaurants sostenibles i la reputació ecològica regional."
-    },
-    {
-      "title": "El Barcelona Supercomputing Center crea el primer laboratori europeu que uneix art, IA i supercomputació",
-      "link_id": "c_fe9626",
-      "source": "MetaData",
-      "date": "2026-05-20",
-      "time": "09:20",
-      "summary": "El BSC llança el Creative Intelligence Lab, un pont entre art i IA per a solucions industrials."
-    },
-    {
-      "title": "La FP per al curs vinent: 5.000 places noves i un algoritme per assignar estudis",
-      "link_id": "c_aee344",
-      "source": "Ara.cat",
-      "date": "2026-05-22",
-      "time": "18:52",
-      "summary": "Quasi 5.000 noves places de FP s’obren, reforçant la formació tècnica per a la demanda laboral."
-    },
-    {
-      "title": "Les exportacions de productes d'alta tecnologia cauen un 7,3%, als 2.732 milions d'euros",
-      "link_id": "c_9f7e1c",
-      "source": "Via Empresa",
-      "date": "2026-05-22",
-      "time": "11:06",
-      "summary": "Les exportacions catalanes d’alta tecnologia cauen un 7,3%, principalment per la baixa en farmacèutics."
-    },
-    {
-      "title": "Ignacio Zunzunegui (Revolut): \"Volem que Barcelona sigui el nostre hub tecnològic a Europa\"",
-      "link_id": "c_5afd5e",
-      "source": "Via Empresa",
-      "date": "2026-05-24",
-      "time": "04:55",
-      "summary": "Revolut vol fer de Barcelona un hub europeu, atraient milers de clients i inversió tecnològica."
-    },
-    {
-      "title": "El Regne Unit s’apunta a l’energia solar als balcons, mentre als Països Catalans continua sense implantar-se",
-      "link_id": "c_f0156b",
-      "source": "VilaWeb",
-      "date": "2026-05-23",
-      "time": "21:40",
-      "summary": "El Regne Unit impulsa energia solar a balcons; Catalunya encara sense normativa clara per a aquest model."
-    },
-    {
-      "title": "La IA sacseja el mercat laboral català: el 26% dels llocs de treball canviaran i impactarà especialment les dones",
-      "link_id": "c_d5e4fe",
-      "source": "MetaData",
-      "date": "2026-05-19",
-      "time": "16:19",
-      "summary": "Un estudi alerta que la IA canviarà el 26% dels llocs de treball, afectant especialment les dones."
-    },
-    {
-      "title": "IA i competències en la formació",
-      "link_id": "c_b45121",
-      "source": "Segre",
-      "date": "2026-05-24",
-      "time": "05:37",
-      "summary": "Es destaca la necessitat d’habilitats d’IA duradores en l’educació per a aprenentatge integral."
+      "time": "19:16",
+      "summary": "Una estudiant sorda de la UPF utilitza IA per crear i participar en programes de ràdio, obrint noves oportunitats."
     },
     {
       "title": "El nou mapa interactiu que et diu si a la terrassa del bar de Barcelona on vols anar toca el sol o hi fa ombra",
@@ -113,7 +57,63 @@
       "source": "RAC1",
       "date": "2026-05-21",
       "time": "20:21",
-      "summary": "Mapa interactiu indica sol i ombra a terrasses de Barcelona, ajudant a planificar espais d’estiu."
+      "summary": "Nou mapa interactiu indica hores de sol i ombra a terrasses barcelonines, ajudant a escollir el millor moment per gaudir."
+    },
+    {
+      "title": "La IA s’enlaira a Espanya amb 450 empreses i 3.300 milions d’inversió",
+      "link_id": "c_43e1d4",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-05-24",
+      "time": "07:30",
+      "summary": "Espanya acull 450 empreses d’IA amb 3.300 milions d’inversió, reforçant el seu lideratge tecnològic europeu."
+    },
+    {
+      "title": "Descobreixen una \"bretxa atòmica\" invisible que amenaça els xips del futur",
+      "link_id": "c_9ad4fe",
+      "source": "El Nacional",
+      "date": "2026-05-24",
+      "time": "18:00",
+      "summary": "Investigadors descobreixen una bretxa atòmica invisible que podria comprometre la fabricació futura de xips avançats."
+    },
+    {
+      "title": "El forat de seguretat que preocupa el sector tecnològic mundial",
+      "link_id": "c_947170",
+      "source": "Via Empresa",
+      "date": "2026-05-25",
+      "time": "04:55",
+      "summary": "Nou forat de seguretat exposa vulnerabilitats en xips, amenaçant la infraestructura digital global."
+    },
+    {
+      "title": "Educació superior i intel·ligència artificial: el repte del nou aprenentatge",
+      "link_id": "c_0bb9b3",
+      "source": "Via Empresa",
+      "date": "2026-05-25",
+      "time": "04:55",
+      "summary": "El repte de la IA a la universitat impulsa noves metodologies d’aprenentatge i requereix dades de qualitat."
+    },
+    {
+      "title": "El DES 2026 reflexiona sobre la \"nova etapa digital\" que afronten les pimes",
+      "link_id": "c_021d5c",
+      "source": "Via Empresa",
+      "date": "2026-05-25",
+      "time": "09:56",
+      "summary": "El DES 2026 reunirá 15.000 professionals per impulsar la digitalització com a clau competitiva de les pimes."
+    },
+    {
+      "title": "Opinió - Ruth Cuscó : La IA a la sanitat: el repte no és la tecnologia, sinó les dades",
+      "link_id": "c_c024d6",
+      "source": "MetaData",
+      "date": "2026-05-21",
+      "time": "10:00",
+      "summary": "La IA pot transformar la sanitat, però la manca de dades fiables impedeix la seva implementació a gran escala."
+    },
+    {
+      "title": "Pòdcasts, IA i audiències connectades: així serà el MAC 2026",
+      "link_id": "c_31031e",
+      "source": "MetaData",
+      "date": "2026-05-22",
+      "time": "10:10",
+      "summary": "El MAC 2026 destaca com els podcasts i la IA redefiniran l’audiència i el format dels continguts digitals."
     }
   ]
 }

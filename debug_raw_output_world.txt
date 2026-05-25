@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-05-24T09:50",
+  "generated_at": "2026-05-25T10:59",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Meta llança silenciosament una nova aplicació similar a Reddit anomenada Forum",
-      "link_id": "c_5dd6a1",
+      "title": "Cerca un nou ordinador? Estalvia centenars amb aquestes ofertes d'escriptori del Memorial Day",
+      "link_id": "c_41f389",
+      "source": "ZDNet",
+      "date": "2026-05-25",
+      "time": "02:37",
+      "summary": "Descomptes massius en ordinadors d'escriptori per al cap de setmana del Memorial Day."
+    },
+    {
+      "title": "Ofertes tecnològiques del Memorial Day: Sony, Anker i Beats (2026)",
+      "link_id": "c_02667e",
+      "source": "Wired",
+      "date": "2026-05-24",
+      "time": "15:55",
+      "summary": "Ofertes tecnològiques del Memorial Day inclouen auriculars Sony, carregadors Anker i Beats."
+    },
+    {
+      "title": "Les millors ofertes del Memorial Day per comprar aquest cap de setmana",
+      "link_id": "c_b75a5d",
+      "source": "The Verge",
+      "date": "2026-05-24",
+      "time": "15:28",
+      "summary": "Les millors ofertes del Memorial Day per a altaveus i llums solars aquest cap de setmana."
+    },
+    {
+      "title": "Tots naveguen la seguretat de la IA en temps real — fins i tot Google",
+      "link_id": "c_f898bd",
       "source": "TechCrunch",
-      "date": "2026-05-22",
-      "time": "14:24",
-      "summary": "Meta introdueix Forum, una nova plataforma per a discussions profundes, competint amb Reddit i grups de Facebook."
+      "date": "2026-05-24",
+      "time": "21:39",
+      "summary": "Google i altres empreses gestionen la seguretat de la IA en temps real per evitar vulnerabilitats."
     },
     {
-      "title": "És hora de canviar a Bing? Cercar paraules com ‘disregard’ o ‘ignore’ trenca les Visions d'IA a la cerca de Google",
-      "link_id": "c_d0f5b9",
-      "source": "TechRadar",
-      "date": "2026-05-23",
-      "time": "12:30",
-      "summary": "Google falla en gestionar paraules com ‘disregard’, provocant respostes inesperades i confusió en les seves AI Overviews."
-    },
-    {
-      "title": "SpaceX va llançar Starship V3 tres setmanes abans de la seva OPI. El propulsor va explotar.",
-      "link_id": "c_c73e7c",
+      "title": "La bretxa de seguretat de la IA que ningú vol admetre ja existeix",
+      "link_id": "c_de9483",
       "source": "The Next Web",
-      "date": "2026-05-23",
-      "time": "09:56",
-      "summary": "SpaceX prova Starship V3 abans de l'OPI, però l'explosió del propulsor posa en dubte la seguretat del vehicle."
+      "date": "2026-05-24",
+      "time": "19:20",
+      "summary": "Experts adverteixen que la IA ja està explotant vulnerabilitats sense que les empreses ho reconeguin."
     },
     {
-      "title": "SpaceX Starship es llança amb èxit i torna a la Terra",
-      "link_id": "c_86c402",
-      "source": "Bloomberg",
-      "date": "2026-05-23",
-      "time": "00:07",
-      "summary": "El coet Starship de SpaceX completa una missió orbital i torna a la Terra, mostrant avenços en la tecnologia espacial."
+      "title": "Un institut del Regne Unit caça els perills amagats en la IA",
+      "link_id": "c_1a3935",
+      "source": "NYT Technology",
+      "date": "2026-05-24",
+      "time": "09:01",
+      "summary": "Un institut britànic liderat per antics d'OpenAI i Google busca detectar riscos emergents de la IA."
     },
     {
-      "title": "SpaceX llança Starship V3 per primera vegada, però perd el propulsor al tornar",
-      "link_id": "c_ee162a",
-      "source": "TechCrunch",
-      "date": "2026-05-22",
-      "time": "22:55",
-      "summary": "El primer vol de Starship V3 arriba a l'espai, però el propulsor es destrueix al retorn, evidenciant reptes tècnics."
+      "title": "iOS 27 podria facilitar molt la gestió dels teus AirPods",
+      "link_id": "c_22eaba",
+      "source": "Digital Trends",
+      "date": "2026-05-24",
+      "time": "15:28",
+      "summary": "iOS 27 simplificarà la configuració dels AirPods, reduint els passos per a l'usuari."
     },
     {
-      "title": "La cerca d'IA de Google està tan trencada que pot ‘disregard’ el que cerques",
-      "link_id": "c_77fe31",
-      "source": "The Verge",
-      "date": "2026-05-22",
-      "time": "16:39",
-      "summary": "La cerca d'IA de Google interpreta erròniament ‘disregard’, fent que les respostes siguin incoherents i inútils."
+      "title": "Informe: iOS 27 reformarà la interfície de configuració dels AirPods",
+      "link_id": "c_2376d0",
+      "source": "9to5Mac",
+      "date": "2026-05-24",
+      "time": "14:12",
+      "summary": "Apple redissenyarà la interfície d'Ajusts d'AirPods a iOS 27 per a una gestió més clara."
     },
     {
-      "title": "Forum és l'aplicació dedicada de Meta per reunir els teus grups de Facebook en un sol feed",
-      "link_id": "c_f9c06e",
-      "source": "CNET",
-      "date": "2026-05-22",
-      "time": "18:12",
-      "summary": "Forum consolida els grups de Facebook en una única aplicació, millorant la interacció i la privacitat dels usuaris."
+      "title": "watchOS 27 afegirà aquestes noves funcions al teu Apple Watch",
+      "link_id": "c_fb7450",
+      "source": "9to5Mac",
+      "date": "2026-05-24",
+      "time": "18:53",
+      "summary": "watchOS 27 introduirà noves funcions, com millores de salut i optimitzacions de rendiment."
     },
     {
-      "title": "Forum de Meta combina Reddit, Facebook i la Visió d'IA de Google",
-      "link_id": "c_4e0e58",
-      "source": "The Verge",
-      "date": "2026-05-22",
-      "time": "13:27",
-      "summary": "Forum combina elements de Reddit, Facebook i la IA de Google, oferint una nova experiència de debat en línia."
-    },
-    {
-      "title": "Les Visions d'IA de Google trenquen el diccionari quan uses paraules com ‘disregard’",
-      "link_id": "c_fa1423",
-      "source": "9to5Google",
-      "date": "2026-05-22",
-      "time": "16:30",
-      "summary": "Les AI Overviews de Google es desestabilitzen amb paraules com ‘disregard’, revelant limitacions del seu motor de llenguatge."
-    },
-    {
-      "title": "Ja no pots cercar a Google la paraula ‘disregard’",
-      "link_id": "c_bae054",
-      "source": "TechCrunch",
-      "date": "2026-05-22",
-      "time": "16:16",
-      "summary": "Google ha eliminat la capacitat de cercar la paraula ‘disregard’, afectant usuaris i desenvolupadors que depenien d'aquest terme."
+      "title": "Sembla que watchOS 27 només polirà l'experiència del teu Apple Watch",
+      "link_id": "c_c00042",
+      "source": "Digital Trends",
+      "date": "2026-05-24",
+      "time": "16:44",
+      "summary": "watchOS 27 només polirà l'experiència de l'Apple Watch sense afegir característiques innovadores."
     }
   ]
 }

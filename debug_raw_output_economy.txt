@@ -1,24 +1,48 @@
 {
-  "generated_at": "2026-05-24T07:50",
+  "generated_at": "2026-05-25T10:59",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "El nou responsable de tecnologia responsable de Microsoft sobre com humanitzar el desenvolupament d'IA d'alta velocitat",
-      "link_id": "c_f99e5d",
-      "source": "CNBC Technology",
-      "date": "2026-05-23",
-      "time": "13:00",
-      "summary": "Microsoft designa una nova directora per garantir que l'IA ràpida es desenvolupi de manera ètica i centrada en les persones."
+      "title": "No només SpaceX: les grans tecnologies també dominen els mercats d’obligacions",
+      "link_id": "c_281724",
+      "source": "Financial Times",
+      "date": "2026-05-25",
+      "time": "04:00",
+      "summary": "Les empreses tecnològiques busquen finançament en bons, ampliant la seva influència sobre els mercats globals."
     },
     {
-      "title": "Les OPI de SpaceX, OpenAI i Anthropic posaran a prova els límits del boom de la IA",
+      "title": "Doneu la benvinguda al hob invisible",
+      "link_id": "c_71cbcd",
+      "source": "Financial Times",
+      "date": "2026-05-25",
+      "time": "04:00",
+      "summary": "Un nou dispositiu de cuina, gairebé invisible, promet revolucionar la preparació d’aliments a casa."
+    },
+    {
+      "title": "Les gegants tecnològiques necessiten supervisió per protegir la seguretat nacional",
+      "link_id": "c_660800",
+      "source": "Financial Times",
+      "date": "2026-05-25",
+      "time": "04:00",
+      "summary": "Autoritats proposen regulacions per evitar que les empreses d’IA comprometin la seguretat del país."
+    },
+    {
+      "title": "Els robotaxi han de ser provats en trànsit real",
+      "link_id": "c_8773b3",
+      "source": "Financial Times",
+      "date": "2026-05-25",
+      "time": "04:00",
+      "summary": "Proves en entorns urbans són clau per validar la seguretat i viabilitat dels robotaxi."
+    },
+    {
+      "title": "Les OPI de SpaceX, OpenAI i Anthropic posen a prova els límits del boom de la IA",
       "link_id": "c_bf4c75",
       "source": "Financial Times",
-      "date": "2026-05-23",
-      "time": "08:00",
-      "summary": "Les ofertes públiques d'aquestes empreses podrien redefinir la inversió en intel·ligència artificial a nivell global."
+      "date": "2026-05-24",
+      "time": "17:00",
+      "summary": "Les ofertes públiques d’aquestes companyies mostren com la IA impulsa grans inversions de capital."
     }
   ]
 }
