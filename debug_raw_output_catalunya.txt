@@ -1,16 +1,11 @@
 {
-  "generated_at": "2026-05-25T09:00",
+  "generated_at": "2026-05-26T10:00",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
     {
-      "name": "El Periódico",
-      "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
-      "articles_found": 1
-    },
-    {
-      "name": "RAC1",
-      "url": "https://www.rac1.cat/rss/home.xml",
+      "name": "Ara.cat",
+      "url": "https://www.ara.cat/rss/",
       "articles_found": 2
     },
     {
@@ -19,9 +14,9 @@
       "articles_found": 1
     },
     {
-      "name": "El Nacional",
-      "url": "https://www.elnacional.cat/uploads/feeds/feed_ca.xml",
-      "articles_found": 1
+      "name": "Segre",
+      "url": "https://www.segre.com/ca/rss/home.xml",
+      "articles_found": 2
     },
     {
       "name": "Via Empresa",
@@ -29,83 +24,101 @@
       "articles_found": 3
     },
     {
+      "name": "Àpunt",
+      "url": "https://www.apuntmedia.es/rss/",
+      "articles_found": 1
+    },
+    {
+      "name": "El Periódico",
+      "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
+      "articles_found": 1
+    },
+    {
       "name": "MetaData",
       "url": "https://www.metadata.cat/sindica",
-      "articles_found": 2
+      "articles_found": 1
     }
   ],
   "articles": [
+    {
+      "title": "\"Hem identificat solars a Catalunya per resoldre el problema de l'habitatge en vint anys\"",
+      "link_id": "c_3dc6ac",
+      "source": "Ara.cat",
+      "date": "2026-05-26",
+      "time": "06:00",
+      "summary": "Solars identificats a Catalunya podrien reduir la crisi d'habitatge en vint anys, impulsant una nova urbanisme sostenible."
+    },
+    {
+      "title": "L'SX3 obre 'Fantàstix': una nova experiència inmersiva per a infants i famílies",
+      "link_id": "c_d4670d",
+      "source": "Ara.cat",
+      "date": "2026-05-24",
+      "time": "15:09",
+      "summary": "SX3 llança Fantàstix, espai immersiu que fomenta la imaginació infantil i la participació activa de les famílies."
+    },
+    {
+      "title": "El Papa, contra els tecnooligarques",
+      "link_id": "c_625884",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-05-26",
+      "time": "06:00",
+      "summary": "El Papa alerta sobre la IA, advertint que pot esdevenir una amenaça moral i tecnològica per a la societat."
+    },
+    {
+      "title": "Els pantans emmagatzemen energia equivalent al 60% del consum de llum a Lleida a l’any",
+      "link_id": "c_d40bf1",
+      "source": "Segre",
+      "date": "2026-05-26",
+      "time": "05:36",
+      "summary": "Els pantans del Segre emmagatzemen energia suficient per cobrir el 60% del consum anual d'electricitat a Lleida."
+    },
+    {
+      "title": "Neix un nou sindicat de mestres a Catalunya: SMIP",
+      "link_id": "c_51fda7",
+      "source": "Segre",
+      "date": "2026-05-25",
+      "time": "11:06",
+      "summary": "Neix SMIP, nou sindicat de mestres que defensa la dignitat docent i reclama millores laborals a tot Catalunya."
+    },
+    {
+      "title": "La IA no té cara (i això no elimina el biaix)",
+      "link_id": "c_303a3a",
+      "source": "Via Empresa",
+      "date": "2026-05-26",
+      "time": "04:55",
+      "summary": "Estudis mostren que la IA sense supervisió pot perpetuar biaixos, afectant decisions de contractació i finançament."
+    },
+    {
+      "title": "El govern espanyol obre expedients a Polymarket i Kalshi i ordena el bloqueig dels portals",
+      "link_id": "c_c2d41d",
+      "source": "Via Empresa",
+      "date": "2026-05-26",
+      "time": "10:17",
+      "summary": "El govern espanyol inicia expedients contra Polymarket i Kalshi, buscant bloquejar jocs d'apostes il·legals en línia."
+    },
+    {
+      "title": "Neuhera, una alternativa catalana als fàrmacs per tractar el TDAH infantil",
+      "link_id": "c_c0e7d2",
+      "source": "Via Empresa",
+      "date": "2026-05-26",
+      "time": "04:55",
+      "summary": "Neuhera desenvolupa videojoc immersiu per tractar el TDAH infantil, oferint una alternativa no farmacològica innovadora."
+    },
+    {
+      "title": "La Diputació reunix 94 ajuntaments en unes jornades que impulsen la implantació de la IA en l'administració local",
+      "link_id": "c_6fba00",
+      "source": "Àpunt",
+      "date": "2026-05-25",
+      "time": "18:26",
+      "summary": "La Diputació organitza jornades per impulsar la IA a 94 ajuntaments, escoltant necessitats locals per digitalitzar serveis."
+    },
     {
       "title": "Pèrdues milionàries i amb Musk d’amo absolut: els secrets de SpaceX revelats a la sol·licitud per a la sortida més gran a borsa de la història",
       "link_id": "c_ccbc4e",
       "source": "El Periódico",
       "date": "2026-05-21",
       "time": "11:50",
-      "summary": "SpaceX sol·licita cotitzar, prometent la més gran sortida borsària de la història i potencials milions d’ingressos."
-    },
-    {
-      "title": "Una estudiant sorda de la UPF aconsegueix fer ràdio per primer cop gràcies a una IA: \"Fins ara era un privilegi dels que hi podeu sentir\"",
-      "link_id": "c_a29b97",
-      "source": "RAC1",
-      "date": "2026-05-24",
-      "time": "19:16",
-      "summary": "Una estudiant sorda de la UPF utilitza IA per crear i participar en programes de ràdio, obrint noves oportunitats."
-    },
-    {
-      "title": "El nou mapa interactiu que et diu si a la terrassa del bar de Barcelona on vols anar toca el sol o hi fa ombra",
-      "link_id": "c_899122",
-      "source": "RAC1",
-      "date": "2026-05-21",
-      "time": "20:21",
-      "summary": "Nou mapa interactiu indica hores de sol i ombra a terrasses barcelonines, ajudant a escollir el millor moment per gaudir."
-    },
-    {
-      "title": "La IA s’enlaira a Espanya amb 450 empreses i 3.300 milions d’inversió",
-      "link_id": "c_43e1d4",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-05-24",
-      "time": "07:30",
-      "summary": "Espanya acull 450 empreses d’IA amb 3.300 milions d’inversió, reforçant el seu lideratge tecnològic europeu."
-    },
-    {
-      "title": "Descobreixen una \"bretxa atòmica\" invisible que amenaça els xips del futur",
-      "link_id": "c_9ad4fe",
-      "source": "El Nacional",
-      "date": "2026-05-24",
-      "time": "18:00",
-      "summary": "Investigadors descobreixen una bretxa atòmica invisible que podria comprometre la fabricació futura de xips avançats."
-    },
-    {
-      "title": "El forat de seguretat que preocupa el sector tecnològic mundial",
-      "link_id": "c_947170",
-      "source": "Via Empresa",
-      "date": "2026-05-25",
-      "time": "04:55",
-      "summary": "Nou forat de seguretat exposa vulnerabilitats en xips, amenaçant la infraestructura digital global."
-    },
-    {
-      "title": "Educació superior i intel·ligència artificial: el repte del nou aprenentatge",
-      "link_id": "c_0bb9b3",
-      "source": "Via Empresa",
-      "date": "2026-05-25",
-      "time": "04:55",
-      "summary": "El repte de la IA a la universitat impulsa noves metodologies d’aprenentatge i requereix dades de qualitat."
-    },
-    {
-      "title": "El DES 2026 reflexiona sobre la \"nova etapa digital\" que afronten les pimes",
-      "link_id": "c_021d5c",
-      "source": "Via Empresa",
-      "date": "2026-05-25",
-      "time": "09:56",
-      "summary": "El DES 2026 reunirá 15.000 professionals per impulsar la digitalització com a clau competitiva de les pimes."
-    },
-    {
-      "title": "Opinió - Ruth Cuscó : La IA a la sanitat: el repte no és la tecnologia, sinó les dades",
-      "link_id": "c_c024d6",
-      "source": "MetaData",
-      "date": "2026-05-21",
-      "time": "10:00",
-      "summary": "La IA pot transformar la sanitat, però la manca de dades fiables impedeix la seva implementació a gran escala."
+      "summary": "SpaceX prepara la seva major sortida a borsa, amb potencial per convertir Elon Musk en el primer trilionari mundial."
     },
     {
       "title": "Pòdcasts, IA i audiències connectades: així serà el MAC 2026",
@@ -113,7 +126,7 @@
       "source": "MetaData",
       "date": "2026-05-22",
       "time": "10:10",
-      "summary": "El MAC 2026 destaca com els podcasts i la IA redefiniran l’audiència i el format dels continguts digitals."
+      "summary": "El MAC 2026 destaca com la IA transforma els pòdcasts, connectant audiències amb continguts personalitzats i interactius."
     }
   ]
 }

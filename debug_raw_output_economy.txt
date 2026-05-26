@@ -1,48 +1,72 @@
 {
-  "generated_at": "2026-05-25T10:59",
+  "generated_at": "2026-05-26T08:34",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "No només SpaceX: les grans tecnologies també dominen els mercats d’obligacions",
-      "link_id": "c_281724",
+      "title": "IA i el valent nou món de les negociacions",
+      "link_id": "c_4f6599",
       "source": "Financial Times",
-      "date": "2026-05-25",
+      "date": "2026-05-26",
       "time": "04:00",
-      "summary": "Les empreses tecnològiques busquen finançament en bons, ampliant la seva influència sobre els mercats globals."
+      "summary": "Les empreses competeixen per controlar energia, xarxes de fibra i capacitat de càlcul en les fusions."
     },
     {
-      "title": "Doneu la benvinguda al hob invisible",
-      "link_id": "c_71cbcd",
+      "title": "SpaceX conduirà un Cybertruck a través de les normes de govern corporatiu",
+      "link_id": "c_bb939d",
       "source": "Financial Times",
-      "date": "2026-05-25",
+      "date": "2026-05-26",
       "time": "04:00",
-      "summary": "Un nou dispositiu de cuina, gairebé invisible, promet revolucionar la preparació d’aliments a casa."
+      "summary": "Musk busca flexibilitat en la IPO, reduint la responsabilitat del consell."
     },
     {
-      "title": "Les gegants tecnològiques necessiten supervisió per protegir la seguretat nacional",
-      "link_id": "c_660800",
+      "title": "Les històries d'IA no són inevitablement 'no art'",
+      "link_id": "c_055098",
       "source": "Financial Times",
-      "date": "2026-05-25",
+      "date": "2026-05-26",
       "time": "04:00",
-      "summary": "Autoritats proposen regulacions per evitar que les empreses d’IA comprometin la seguretat del país."
+      "summary": "Defensa la creativitat humana, advertint que l'IA no ha de substituir l'art."
     },
     {
-      "title": "Els robotaxi han de ser provats en trànsit real",
-      "link_id": "c_8773b3",
+      "title": "El director de Spotify defensa la música generada per IA",
+      "link_id": "c_5c2ca3",
       "source": "Financial Times",
-      "date": "2026-05-25",
+      "date": "2026-05-26",
       "time": "04:00",
-      "summary": "Proves en entorns urbans són clau per validar la seguretat i viabilitat dels robotaxi."
+      "summary": "Spotify i Universal permeten covers i remescles controlats per IA als subscriptors."
     },
     {
-      "title": "Les OPI de SpaceX, OpenAI i Anthropic posen a prova els límits del boom de la IA",
-      "link_id": "c_bf4c75",
+      "title": "Convocatòria d'inscripcions: els principals hubs de start-ups d'Europa 2027",
+      "link_id": "c_6cf4c1",
       "source": "Financial Times",
-      "date": "2026-05-24",
-      "time": "17:00",
-      "summary": "Les ofertes públiques d’aquestes companyies mostren com la IA impulsa grans inversions de capital."
+      "date": "2026-05-26",
+      "time": "04:00",
+      "summary": "Incubadores i acceleradors europeus poden participar en la quarta edició del rànquing."
+    },
+    {
+      "title": "Apple té una bretxa d'innovació. El seu nou CEO la cobrirà?",
+      "link_id": "c_17137a",
+      "source": "Financial Times",
+      "date": "2026-05-26",
+      "time": "04:00",
+      "summary": "El nou CEO, John Ternus, ha d'impulsar la innovació per recuperar el lideratge."
+    },
+    {
+      "title": "L'avanç depredador de la fixació de preus per vigilància",
+      "link_id": "c_87b5f5",
+      "source": "Financial Times",
+      "date": "2026-05-26",
+      "time": "04:00",
+      "summary": "L'ús de dades personals per maximitzar beneficis planteja qüestions legals i ètiques."
+    },
+    {
+      "title": "El Papa Lleó diu que la IA 'ha de ser desarmada'",
+      "link_id": "c_10957d",
+      "source": "Financial Times",
+      "date": "2026-05-25",
+      "time": "12:45",
+      "summary": "El Vaticà alerta sobre el perill d'una revolució tecnològica guiada pel profit."
     }
   ]
 }
