@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-05-26T10:34",
+  "generated_at": "2026-05-27T10:45",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Ferrari presenta la Luce, un cotxe elèctric de cinc places co-dissenyat amb Jony Ive",
-      "link_id": "c_bc046f",
-      "source": "The Next Web",
-      "date": "2026-05-26",
-      "time": "07:17",
-      "summary": "Ferrari presenta la Luce, combinant tecnologia elèctrica avançada amb l'estètica distintiva de Jony Ive."
-    },
-    {
-      "title": "Ferrari revela un EV de 640.000 $ co-dissenyat per Jony Ive",
-      "link_id": "c_744a34",
-      "source": "MacRumors",
-      "date": "2026-05-26",
-      "time": "02:18",
-      "summary": "Un EV de 640.000 $ co-dissenyat per Jony Ive destaca per rendiment i elegància futurista."
-    },
-    {
-      "title": "El primer EV de Ferrari ja és aquí, i la Luce pot ser el cotxe més controvertit de la marca",
-      "link_id": "c_ab7091",
-      "source": "Digital Trends",
-      "date": "2026-05-25",
-      "time": "22:15",
-      "summary": "La Luce, primer cotxe elèctric de Ferrari, trenca expectatives amb potència i disseny provocador."
-    },
-    {
-      "title": "Ferrari revela el seu primer EV amb l'ajuda de disseny de Jony Ive",
-      "link_id": "c_c5acdf",
-      "source": "The Verge",
-      "date": "2026-05-25",
-      "time": "21:33",
-      "summary": "Ferrari llança el seu primer vehicle elèctric, amb la influència de disseny de Jony Ive."
-    },
-    {
-      "title": "Finalment arriba la Ferrari Luce elèctrica",
-      "link_id": "c_47201e",
+      "title": "El Papa Lleó ensenyà als tecnòlegs sobre Tolkien",
+      "link_id": "c_079599",
       "source": "Wired",
-      "date": "2026-05-25",
-      "time": "21:03",
-      "summary": "La Ferrari Luce elèctrica arriba al mercat, prometent rendiment d'alt nivell i estil icònic."
-    },
-    {
-      "title": "L'EV Luce debut amb cabina dissenyada per Jony Ive i elements de disseny recognoscibles",
-      "link_id": "c_f096a0",
-      "source": "9to5Mac",
-      "date": "2026-05-25",
-      "time": "20:14",
-      "summary": "L'EV Luce debut amb cabina dissenyada per Jony Ive i elements de disseny recognoscibles."
-    },
-    {
-      "title": "Ferrari Luce es revela com el primer cotxe de la col·laboració amb Jony Ive, destacant l'electrificació",
-      "link_id": "c_77c2b3",
-      "source": "Engadget",
-      "date": "2026-05-25",
-      "time": "20:10",
-      "summary": "Ferrari Luce es revela com el primer cotxe de la col·laboració amb Jony Ive, destacant l'electrificació."
-    },
-    {
-      "title": "El Papa Lleó adverteix que l'explosió d'IA pot donar massa poder al Gran Tech i als seus dirigents",
-      "link_id": "c_039aa7",
-      "source": "The Register",
       "date": "2026-05-26",
-      "time": "02:10",
-      "summary": "El Papa Lleó alerta sobre el risc que l'IA concedeixi un poder excessiu a les grans tecnologies."
+      "time": "23:19",
+      "summary": "L'encíclica critica l'ús descontrolat de la IA i defensa una regulació ètica."
     },
     {
-      "title": "Amb la febre de la IA augmentant a Silicon Valley, el Papa Lleó té algunes paraules",
-      "link_id": "c_6c1b97",
-      "source": "NYT Technology",
-      "date": "2026-05-25",
-      "time": "18:35",
-      "summary": "En plena onada d'IA a Silicon Valley, el Papa Lleó ofereix una crida a la responsabilitat ètica."
+      "title": "Els sindicats de Samsung van aprovar un acord que donarà $400.000 de bonificacions als treballadors de xips",
+      "link_id": "c_711a09",
+      "source": "Engadget",
+      "date": "2026-05-27",
+      "time": "05:39",
+      "summary": "L'acord evita una vaga i garanteix grans bonificacions per a la plantilla de xips."
     },
     {
-      "title": "L'encíclica IA del Papa no tracta realment sobre IA",
-      "link_id": "c_a2c64b",
-      "source": "TechCrunch",
-      "date": "2026-05-25",
-      "time": "15:09",
-      "summary": "L'encíclica del Papa sobre IA destaca la necessitat de regular la tecnologia per protegir la humanitat."
+      "title": "Spotify ara permet transmetre articles de revistes narrats",
+      "link_id": "c_e56a1d",
+      "source": "Wired",
+      "date": "2026-05-26",
+      "time": "14:38",
+      "summary": "Els usuaris premium poden escoltar articles de revistes sense llegir-los, ampliant el catàleg d'àudio."
+    },
+    {
+      "title": "Apple treballa en una funció anti-robo per a iPhone que bloqueja el dispositiu automàticament",
+      "link_id": "c_ea089b",
+      "source": "9to5Mac",
+      "date": "2026-05-26",
+      "time": "23:29",
+      "summary": "La funció detecta moviments bruscos i bloqueja el telèfon per evitar robatoris."
+    },
+    {
+      "title": "La NASA tria Blue Origin de Jeff Bezos per a la primera de tres missions lunars sense tripulació",
+      "link_id": "c_576132",
+      "source": "The Guardian Tech",
+      "date": "2026-05-26",
+      "time": "20:14",
+      "summary": "Blue Origin liderarà la primera missió lunar no tripulada, marcant un pas cap a bases a la Lluna."
+    },
+    {
+      "title": "The Download: desmunint el pànic per la pèrdua d'ocupació per IA",
+      "link_id": "c_ea3dee",
+      "source": "MIT Technology Review",
+      "date": "2026-05-26",
+      "time": "12:10",
+      "summary": "L'article analitza la veritable magnitud de la crisi laboral provocada per la IA."
+    },
+    {
+      "title": "American Airlines obté Wi‑Fi de Starlink",
+      "link_id": "c_f97432",
+      "source": "The Verge",
+      "date": "2026-05-26",
+      "time": "12:07",
+      "summary": "Starlink proporcionarà connexió a internet a més de 500 avions d'American Airlines."
+    },
+    {
+      "title": "El inesperat competidor MacBook Neo de Microsoft podria ser un portàtil econòmic desconegut",
+      "link_id": "c_746bdc",
+      "source": "TechRadar",
+      "date": "2026-05-26",
+      "time": "19:35",
+      "summary": "El portàtil ofereix rendiment decent a un preu molt baix, competint amb Apple."
+    },
+    {
+      "title": "Els models d'IA tenen un problema de favoritisme religiós, i una nova investigació ho revela",
+      "link_id": "c_5d994c",
+      "source": "Digital Trends",
+      "date": "2026-05-27",
+      "time": "05:50",
+      "summary": "Estudis mostren que els grans models d'IA prefereixen certes religions en les respostes."
+    },
+    {
+      "title": "Google Health Premium s'uneix a AI Pro amb el correu setmanal redissenyat",
+      "link_id": "c_acdb9c",
+      "source": "9to5Google",
+      "date": "2026-05-27",
+      "time": "01:04",
+      "summary": "Google Health ara inclou funcions d'IA i un disseny de correu més eficient."
     }
   ]
 }

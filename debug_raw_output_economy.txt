@@ -1,72 +1,88 @@
 {
-  "generated_at": "2026-05-26T08:34",
+  "generated_at": "2026-05-27T09:00",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "IA i el valent nou món de les negociacions",
-      "link_id": "c_4f6599",
-      "source": "Financial Times",
-      "date": "2026-05-26",
-      "time": "04:00",
-      "summary": "Les empreses competeixen per controlar energia, xarxes de fibra i capacitat de càlcul en les fusions."
+      "title": "SK Hynix arriba a una valoració de 1 bilió de dòlars amb l'auge de la IA",
+      "link_id": "c_5395ca",
+      "source": "CNBC Technology",
+      "date": "2026-05-27",
+      "time": "07:21",
+      "summary": "L'augment de la demanda d'IA impulsa les accions de SK Hynix, situant-la entre les majors del sector."
     },
     {
-      "title": "SpaceX conduirà un Cybertruck a través de les normes de govern corporatiu",
-      "link_id": "c_bb939d",
+      "title": "Treballadors de Samsung rebran un bonus de 400.000 dòlars després d'un acord per compartir els beneficis de la IA",
+      "link_id": "c_0b7661",
       "source": "Financial Times",
-      "date": "2026-05-26",
-      "time": "04:00",
-      "summary": "Musk busca flexibilitat en la IPO, reduint la responsabilitat del consell."
+      "date": "2026-05-27",
+      "time": "07:02",
+      "summary": "El bonificació reconeix la contribució dels treballadors al desenvolupament i benefici de les tecnologies d'IA."
     },
     {
-      "title": "Les històries d'IA no són inevitablement 'no art'",
-      "link_id": "c_055098",
+      "title": "L'inversor britànic de programari Hg tanca el seu primer acord de compra des de la 'SaaSpocalypse'",
+      "link_id": "c_db6ec3",
       "source": "Financial Times",
-      "date": "2026-05-26",
+      "date": "2026-05-27",
       "time": "04:00",
-      "summary": "Defensa la creativitat humana, advertint que l'IA no ha de substituir l'art."
+      "summary": "Hg aposta per la compra d'empreses de programari, marcant un retorn d'activitat després de caigudes del mercat."
     },
     {
-      "title": "El director de Spotify defensa la música generada per IA",
-      "link_id": "c_5c2ca3",
+      "title": "KPMG busca disruptors d'IA de Silicon Valley per al model de les Quatre Grans",
+      "link_id": "c_2360b1",
       "source": "Financial Times",
-      "date": "2026-05-26",
+      "date": "2026-05-27",
       "time": "04:00",
-      "summary": "Spotify i Universal permeten covers i remescles controlats per IA als subscriptors."
+      "summary": "KPMG busca startups d'IA que podrien desafiar el seu model tradicional, considerant inversions i aliances."
     },
     {
-      "title": "Convocatòria d'inscripcions: els principals hubs de start-ups d'Europa 2027",
-      "link_id": "c_6cf4c1",
+      "title": "Xina renova la xarxa de vigilància més gran del món amb IA avançada",
+      "link_id": "c_ebb8d3",
       "source": "Financial Times",
-      "date": "2026-05-26",
+      "date": "2026-05-27",
       "time": "04:00",
-      "summary": "Incubadores i acceleradors europeus poden participar en la quarta edició del rànquing."
+      "summary": "Xina modernitza la vigilància amb IA avançada, ampliant el control sobre la població i les ciutats."
     },
     {
-      "title": "Apple té una bretxa d'innovació. El seu nou CEO la cobrirà?",
-      "link_id": "c_17137a",
+      "title": "AI Labs: Elon Musk vol IA a l'espai",
+      "link_id": "c_ad4dc0",
       "source": "Financial Times",
-      "date": "2026-05-26",
+      "date": "2026-05-27",
       "time": "04:00",
-      "summary": "El nou CEO, John Ternus, ha d'impulsar la innovació per recuperar el lideratge."
+      "summary": "Musk impulsa projectes d'IA espacial, buscant integrar intel·ligència artificial en futures missions interplanetàries."
     },
     {
-      "title": "L'avanç depredador de la fixació de preus per vigilància",
-      "link_id": "c_87b5f5",
-      "source": "Financial Times",
+      "title": "Micron arriba per primera vegada a una capitalització de 1 bilió de dòlars amb un augment del 19% de les seves accions",
+      "link_id": "c_1fc51a",
+      "source": "CNBC Technology",
       "date": "2026-05-26",
-      "time": "04:00",
-      "summary": "L'ús de dades personals per maximitzar beneficis planteja qüestions legals i ètiques."
+      "time": "20:02",
+      "summary": "Micron supera la marca del bilió gràcies a la forta demanda de memòria per a aplicacions d'IA."
     },
     {
-      "title": "El Papa Lleó diu que la IA 'ha de ser desarmada'",
-      "link_id": "c_10957d",
+      "title": "ETF de fabricants de xips aprofita l'entusiasme per la IA i aconsegueix la valoració de 10.000 milions de dòlars més ràpida del registre",
+      "link_id": "c_8fc88c",
       "source": "Financial Times",
-      "date": "2026-05-25",
-      "time": "12:45",
-      "summary": "El Vaticà alerta sobre el perill d'una revolució tecnològica guiada pel profit."
+      "date": "2026-05-26",
+      "time": "17:17",
+      "summary": "L'ETF de xips atrau inversors amb l'expectativa d'un creixement continu impulsat per la IA."
+    },
+    {
+      "title": "Firma d'advocats britànica Pinsent Masons rebuda una advertència judicial per un error d'IA",
+      "link_id": "c_7ec65a",
+      "source": "Financial Times",
+      "date": "2026-05-26",
+      "time": "15:17",
+      "summary": "El tribunal sanciona Pinsent Masons per confiar excessivament en IA, destacant riscos legals."
+    },
+    {
+      "title": "American Airlines tria Starlink de SpaceX per al Wi‑Fi a bord en més de 500 avions",
+      "link_id": "c_5d5170",
+      "source": "CNBC Technology",
+      "date": "2026-05-26",
+      "time": "15:03",
+      "summary": "American Airlines millora la connectivitat a bord, oferint Wi‑Fi d'alta velocitat amb la tecnologia Starlink."
     }
   ]
 }

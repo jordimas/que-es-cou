@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T08:34",
+  "generated_at": "2026-05-27T08:40",
   "id": "videos",
   "title": "Vídeos en català sobre tecnologia",
   "sources_checked": [],
@@ -10,7 +10,7 @@
       "source": "Pixelats",
       "date": "2026-05-20",
       "time": "10:00",
-      "summary": "Enfrontament inesperat entre Pixelats i Bread & Fred, humor i acció en un duel animat."
+      "summary": "Un duel entre Pixelats i Bread & Fred, amb humor i acció que sorprèn els fans del canal."
     },
     {
       "title": "Els Putxinel·lis - Capítol 9 - El pla de pa sucat amb oli",
@@ -18,7 +18,15 @@
       "source": "Pixelats",
       "date": "2026-05-20",
       "time": "10:00",
-      "summary": "Novè capítol de la sèrie, revelant un pla culinari enginyós i ple de girs inesperats."
+      "summary": "El novè capítol dels Putxinel·lis explora un pla de pa sucat amb oli, plena de girs inesperats."
+    },
+    {
+      "title": "Presentació de l'esdeveniment Gaming en Femení",
+      "link_id": "c_731b12",
+      "source": "Gaming.cat",
+      "date": "2026-05-26",
+      "time": "19:43",
+      "summary": "L'esdeveniment Gaming en Femení es presenta amb entrevistes i demostracions que impulsen la inclusió gamer."
     }
   ]
 }
