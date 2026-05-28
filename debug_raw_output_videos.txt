@@ -1,16 +1,32 @@
 {
-  "generated_at": "2026-05-27T08:40",
+  "generated_at": "2026-05-28T08:44",
   "id": "videos",
   "title": "Vídeos en català sobre tecnologia",
   "sources_checked": [],
   "articles": [
+    {
+      "title": "Pixelats vs. The Legend of Zelda: A Link to the Past!! 🔗🗝️",
+      "link_id": "c_47d76f",
+      "source": "Pixelats",
+      "date": "2026-05-27",
+      "time": "10:00",
+      "summary": "Exploració divertida del clàssic Zelda amb humor i comentaris en català, ideal per nostàlgics i nous jugadors."
+    },
+    {
+      "title": "Els Putxinel·lis - Capítol 10 - Dinàmiques de poder",
+      "link_id": "c_6c56c9",
+      "source": "Pixelats",
+      "date": "2026-05-27",
+      "time": "10:00",
+      "summary": "Novena entrega de la sèrie animada, analitzant les tensions de poder amb tocs satírics i reflexius."
+    },
     {
       "title": "Pixelats vs. Bread & Fred!! 🐧🧗‍♂️",
       "link_id": "c_6bc9b9",
       "source": "Pixelats",
       "date": "2026-05-20",
       "time": "10:00",
-      "summary": "Un duel entre Pixelats i Bread & Fred, amb humor i acció que sorprèn els fans del canal."
+      "summary": "Desafiament entre dos personatges extravagants, amb estratègia i diversió per a la comunitat gamer catalana."
     },
     {
       "title": "Els Putxinel·lis - Capítol 9 - El pla de pa sucat amb oli",
@@ -18,7 +34,7 @@
       "source": "Pixelats",
       "date": "2026-05-20",
       "time": "10:00",
-      "summary": "El novè capítol dels Putxinel·lis explora un pla de pa sucat amb oli, plena de girs inesperats."
+      "summary": "Setena entrega que revela un pla culinari absurd, combinant crítica social i humor surrealista."
     },
     {
       "title": "Presentació de l'esdeveniment Gaming en Femení",
@@ -26,7 +42,15 @@
       "source": "Gaming.cat",
       "date": "2026-05-26",
       "time": "19:43",
-      "summary": "L'esdeveniment Gaming en Femení es presenta amb entrevistes i demostracions que impulsen la inclusió gamer."
+      "summary": "Llançament oficial d'un esdeveniment inclusiu, destacant jocs i creadors femenins en català."
+    },
+    {
+      "title": "Pixelats vs. The Legend of Zelda: A Link to the Past!! 🔗🗝️",
+      "link_id": "c_47d76f",
+      "source": "Pixelats",
+      "date": "2026-05-27",
+      "time": "10:00",
+      "summary": "Exploració divertida del clàssic Zelda amb humor i comentaris en català, ideal per nostàlgics i nous jugadors."
     }
   ]
 }

@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-05-27T09:00",
+  "generated_at": "2026-05-28T08:44",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "SK Hynix arriba a una valoració de 1 bilió de dòlars amb l'auge de la IA",
+      "title": "Fabricants de xips de memòria aprofiten l'auge de la IA per unir-se al club del trilió",
+      "link_id": "c_ad4965",
+      "source": "Financial Times",
+      "date": "2026-05-27",
+      "time": "11:12",
+      "summary": "El creixement de la IA impulsa la capitalització de les empreses de memòria, marcant un nou rècord de valor."
+    },
+    {
+      "title": "SK Hynix arriba a una valoració de 1 bilió gràcies a l'auge de la IA que impulsa les accions de xips sud-coreanes",
       "link_id": "c_5395ca",
       "source": "CNBC Technology",
       "date": "2026-05-27",
       "time": "07:21",
-      "summary": "L'augment de la demanda d'IA impulsa les accions de SK Hynix, situant-la entre les majors del sector."
+      "summary": "L'augment de la IA eleva les accions sud-coreanes, portant SK Hynix al límit del trilió de dòlars."
     },
     {
-      "title": "Treballadors de Samsung rebran un bonus de 400.000 dòlars després d'un acord per compartir els beneficis de la IA",
-      "link_id": "c_0b7661",
+      "title": "L'auge de la IA pressiona la tecnologia òptica i Huawei fa un retorn en xips",
+      "link_id": "c_81dba1",
       "source": "Financial Times",
-      "date": "2026-05-27",
-      "time": "07:02",
-      "summary": "El bonificació reconeix la contribució dels treballadors al desenvolupament i benefici de les tecnologies d'IA."
+      "date": "2026-05-28",
+      "time": "06:20",
+      "summary": "La demanda d'IA estreny la cadena de subministrament òptic, mentre Huawei recupera presència en xips."
     },
     {
-      "title": "L'inversor britànic de programari Hg tanca el seu primer acord de compra des de la 'SaaSpocalypse'",
-      "link_id": "c_db6ec3",
+      "title": "Semiconductors: supercicle o superbombolla?",
+      "link_id": "c_4a1ac5",
       "source": "Financial Times",
-      "date": "2026-05-27",
+      "date": "2026-05-28",
+      "time": "05:30",
+      "summary": "Analistes debaten si el sector viu un creixement sostingut o una bombolla inflada per la IA."
+    },
+    {
+      "title": "Les accions de xips apunten a guanys màxims des de l'era puntocom impulsats per la demanda d'IA",
+      "link_id": "c_43075e",
+      "source": "Financial Times",
+      "date": "2026-05-28",
       "time": "04:00",
-      "summary": "Hg aposta per la compra d'empreses de programari, marcant un retorn d'activitat després de caigudes del mercat."
+      "summary": "Les accions de xips experimenten pujades històriques gràcies a la necessitat creixent d'intel·ligència artificial."
     },
     {
-      "title": "KPMG busca disruptors d'IA de Silicon Valley per al model de les Quatre Grans",
-      "link_id": "c_2360b1",
+      "title": "Kirkland & Ellis invertirà 500 milions per desenvolupar la seva pròpia tecnologia d'IA",
+      "link_id": "c_9de5f9",
       "source": "Financial Times",
-      "date": "2026-05-27",
+      "date": "2026-05-28",
       "time": "04:00",
-      "summary": "KPMG busca startups d'IA que podrien desafiar el seu model tradicional, considerant inversions i aliances."
+      "summary": "Kirkland & Ellis aposta per l'autonomia tecnològica, destinant mig milió de dòlars a IA interna."
     },
     {
-      "title": "Xina renova la xarxa de vigilància més gran del món amb IA avançada",
-      "link_id": "c_ebb8d3",
+      "title": "Com tancar la bretxa de responsabilitat de la IA",
+      "link_id": "c_1fecab",
       "source": "Financial Times",
-      "date": "2026-05-27",
+      "date": "2026-05-28",
       "time": "04:00",
-      "summary": "Xina modernitza la vigilància amb IA avançada, ampliant el control sobre la població i les ciutats."
+      "summary": "Proposa regulacions per tancar buits legals que permeten l'ús irresponsable de sistemes d'IA."
     },
     {
-      "title": "AI Labs: Elon Musk vol IA a l'espai",
-      "link_id": "c_ad4dc0",
-      "source": "Financial Times",
-      "date": "2026-05-27",
-      "time": "04:00",
-      "summary": "Musk impulsa projectes d'IA espacial, buscant integrar intel·ligència artificial en futures missions interplanetàries."
-    },
-    {
-      "title": "Micron arriba per primera vegada a una capitalització de 1 bilió de dòlars amb un augment del 19% de les seves accions",
-      "link_id": "c_1fc51a",
+      "title": "Mark Zuckerberg afirma que un negoci de computació al núvol de Meta és 'definitivament sobre la taula'",
+      "link_id": "c_691617",
       "source": "CNBC Technology",
-      "date": "2026-05-26",
-      "time": "20:02",
-      "summary": "Micron supera la marca del bilió gràcies a la forta demanda de memòria per a aplicacions d'IA."
+      "date": "2026-05-28",
+      "time": "00:13",
+      "summary": "Zuckerberg indica que Meta podria entrar al mercat del núvol si disposa de capacitat excedent."
     },
     {
-      "title": "ETF de fabricants de xips aprofita l'entusiasme per la IA i aconsegueix la valoració de 10.000 milions de dòlars més ràpida del registre",
-      "link_id": "c_8fc88c",
-      "source": "Financial Times",
-      "date": "2026-05-26",
-      "time": "17:17",
-      "summary": "L'ETF de xips atrau inversors amb l'expectativa d'un creixement continu impulsat per la IA."
-    },
-    {
-      "title": "Firma d'advocats britànica Pinsent Masons rebuda una advertència judicial per un error d'IA",
-      "link_id": "c_7ec65a",
-      "source": "Financial Times",
-      "date": "2026-05-26",
-      "time": "15:17",
-      "summary": "El tribunal sanciona Pinsent Masons per confiar excessivament en IA, destacant riscos legals."
-    },
-    {
-      "title": "American Airlines tria Starlink de SpaceX per al Wi‑Fi a bord en més de 500 avions",
-      "link_id": "c_5d5170",
+      "title": "Signos consolida la seva presència en la tendència de pèrdua de pes impulsada per GLP-1 amb seguiment de dades de salut IA",
+      "link_id": "c_848d07",
       "source": "CNBC Technology",
-      "date": "2026-05-26",
-      "time": "15:03",
-      "summary": "American Airlines millora la connectivitat a bord, oferint Wi‑Fi d'alta velocitat amb la tecnologia Starlink."
+      "date": "2026-05-27",
+      "time": "23:44",
+      "summary": "Signos combina IA i GLP-1 per oferir solucions personalitzades de pèrdua de pes amb dades en temps real."
+    },
+    {
+      "title": "Salesforce supera les expectatives de guanys i ingressos, però les previsions anuals són modestes",
+      "link_id": "c_b4499c",
+      "source": "CNBC Technology",
+      "date": "2026-05-27",
+      "time": "22:22",
+      "summary": "Salesforce supera les expectatives, però les seves projeccions anuals mostren prudència davant incerteses del mercat."
     }
   ]
 }

@@ -1,1 +1,48 @@
-{"generated_at":"2026-05-27T09:00","id":"podcasts","title":"Podcasts en català sobre tecnologia","sources_checked":[],"articles":[{"title":"Cuques de llum i la necessitat de conservar els llibres originals en paper – Programa 665","link_id":"c_8d82ce","source":"Mossega la poma","date":"2026-05-22","time":"07:37","summary":"Explora la història de les cuques de llum i la importància de preservar llibres originals en format paper."},{"title":"Exemples d’ús de la IA en processos creatius: organitzar hores d’entrevistes i contingut complex – programa 664","link_id":"c_1aec83","source":"Mossega la poma","date":"2026-05-15","time":"08:23","summary":"Descobreix com la IA transforma processos creatius, des d’entrevistes fins a gestió de contingut complex."},{"title":"L' Altra Ràdio - El projecte Erica, la ciència ciutadana i la protecció del medi ambient","link_id":"c_7f29fd","source":"L'altra ràdio","date":"2026-05-21","time":"07:33","summary":"Projecte Erica impulsa la ciència ciutadana per monitoritzar el medi ambient i fomentar acció climàtica."},{"title":"L' Altra Ràdio - Els Premis Nacionals de Comunicació, Ràdio Associació i Sonor","link_id":"c_c770d6","source":"L'altra ràdio","date":"2026-05-14","time":"07:33","summary":"Revisa els guanyadors i la importància dels Premis Nacionals de Comunicació per la cultura catalana."},{"title":"El gòTIC - Tenim una missió! del 27/5/2026","link_id":"c_992079","source":"El Gòtic","date":"2026-05-26","time":"16:29","summary":"Compartim recursos digitals per afrontar reptes de la ciutadania i potenciar la inclusió tecnològica."},{"title":"El gòTIC - Tenim una missió! del 20/5/2026","link_id":"c_594649","source":"El Gòtic","date":"2026-05-19","time":"16:29","summary":"Explorem estratègies per a la transformació digital ciutadana i solucions a problemes socials."},{"title":"El gòTIC - Tenim una missió! del 13/5/2026","link_id":"c_b5a814","source":"El Gòtic","date":"2026-05-12","time":"16:29","summary":"Presentem iniciatives locals que enforteixen la competència digital i la participació comunitària."},{"title":"El NO-GOci de la música, amb Arnau Tordera d'Obeses","link_id":"c_f3e521","source":"Foc a Terra","date":"2026-05-25","time":"04:00","summary":"Entrevista amb Arnau Tordera sobre la fusió entre rock català i innovació musical experimental."},{"title":"No atribueixis mai a la malícia allò que pot ser explicat per l'estupidesa","link_id":"c_5bf154","source":"Foc a Terra","date":"2026-05-18","time":"04:00","summary":"Anàlisi de casos de manipulació financera i ètica en el món de les criptomonedes i rumors."},{"title":"WordPress 7.0: Louis «Armstrong»","link_id":"c_9a1799","source":"WordPress Pòdcast","date":"2026-05-26","time":"00:00","summary":"Descobreix les novetats de WordPress 7.0, incloent la integració d’intel·ligència artificial."},{"title":"Tot el que portarà WordPress 7.0","link_id":"c_a4f0c1","source":"WordPress Pòdcast","date":"2026-05-19","time":"00:00","summary":"Repàs complet de les funcionalitats i millores que portarà la versió 7.0 de WordPress."},{"title":"Capítol 65: Ja no em farà por anar al dentista","link_id":"c_a85b81","source":"RAC&GO","date":"2026-05-19","time":"06:00","summary":"Conversa amb Josep Ruano sobre la tecnologia dental que redueix visites i errors mèdics en clíniques."}]}
+{
+  "generated_at": "2026-05-28T09:00",
+  "id": "podcasts",
+  "title": "Podcasts en català sobre tecnologia",
+  "sources_checked": [],
+  "articles": [
+    {
+      "title": "Cuques de llum i la necessitat de conservar els llibres originals en paper – Programa 665",
+      "link_id": "c_8d82ce",
+      "source": "Mossega la poma",
+      "date": "2026-05-22",
+      "time": "07:37",
+      "summary": "Explora com la tecnologia de les cuques de llum transforma la preservació del patrimoni impremt"
+    },
+    {
+      "title": "Exemples d’ús de la IA en processos creatius: organitzar hores d’entrevistes i contingut complex – programa 664",
+      "link_id": "c_1aec83",
+      "source": "Mossega la poma",
+      "date": "2026-05-15",
+      "time": "08:23",
+      "summary": "Mostra aplicacions pràctiques d'IA per agilitzar entrevistes i gestionar contingut complex en equips creatius"
+    },
+    {
+      "title": "El NO-GOci de la música, amb Arnau Tordera d'Obeses",
+      "link_id": "c_f3e521",
+      "source": "Foc a Terra",
+      "date": "2026-05-25",
+      "time": "04:00",
+      "summary": "Analitza la crítica a la música comercial i promou el retorn del rock català autèntic"
+    },
+    {
+      "title": "No atribueixis mai a la malícia allò que pot ser explicat per l'estupidesa",
+      "link_id": "c_5bf154",
+      "source": "Foc a Terra",
+      "date": "2026-05-18",
+      "time": "04:00",
+      "summary": "Debatre la tendència a culpabilitzar malícia versus estupidesa en escàndols financers i mediàtics"
+    },
+    {
+      "title": "Capítol 65: Ja no em farà por anar al dentista",
+      "link_id": "c_a85b81",
+      "source": "RAC&GO",
+      "date": "2026-05-19",
+      "time": "06:00",
+      "summary": "Presenta una solució tecnològica que redueix visites i errors dentals, millorant l'experiència del pacient"
+    }
+  ]
+}

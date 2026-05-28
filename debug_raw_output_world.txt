@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-05-27T10:45",
+  "generated_at": "2026-05-28T10:44",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "El Papa Lleó ensenyà als tecnòlegs sobre Tolkien",
-      "link_id": "c_079599",
-      "source": "Wired",
-      "date": "2026-05-26",
-      "time": "23:19",
-      "summary": "L'encíclica critica l'ús descontrolat de la IA i defensa una regulació ètica."
-    },
-    {
-      "title": "Els sindicats de Samsung van aprovar un acord que donarà $400.000 de bonificacions als treballadors de xips",
-      "link_id": "c_711a09",
-      "source": "Engadget",
-      "date": "2026-05-27",
-      "time": "05:39",
-      "summary": "L'acord evita una vaga i garanteix grans bonificacions per a la plantilla de xips."
-    },
-    {
-      "title": "Spotify ara permet transmetre articles de revistes narrats",
-      "link_id": "c_e56a1d",
-      "source": "Wired",
-      "date": "2026-05-26",
-      "time": "14:38",
-      "summary": "Els usuaris premium poden escoltar articles de revistes sense llegir-los, ampliant el catàleg d'àudio."
-    },
-    {
-      "title": "Apple treballa en una funció anti-robo per a iPhone que bloqueja el dispositiu automàticament",
-      "link_id": "c_ea089b",
-      "source": "9to5Mac",
-      "date": "2026-05-26",
-      "time": "23:29",
-      "summary": "La funció detecta moviments bruscos i bloqueja el telèfon per evitar robatoris."
-    },
-    {
-      "title": "La NASA tria Blue Origin de Jeff Bezos per a la primera de tres missions lunars sense tripulació",
-      "link_id": "c_576132",
-      "source": "The Guardian Tech",
-      "date": "2026-05-26",
-      "time": "20:14",
-      "summary": "Blue Origin liderarà la primera missió lunar no tripulada, marcant un pas cap a bases a la Lluna."
-    },
-    {
-      "title": "The Download: desmunint el pànic per la pèrdua d'ocupació per IA",
-      "link_id": "c_ea3dee",
-      "source": "MIT Technology Review",
-      "date": "2026-05-26",
-      "time": "12:10",
-      "summary": "L'article analitza la veritable magnitud de la crisi laboral provocada per la IA."
-    },
-    {
-      "title": "American Airlines obté Wi‑Fi de Starlink",
-      "link_id": "c_f97432",
+      "title": "Un empleat de Google presumptament va utilitzar informació interna per guanyar 1,2 milions de dòlars a Polymarket",
+      "link_id": "c_f6be59",
       "source": "The Verge",
-      "date": "2026-05-26",
-      "time": "12:07",
-      "summary": "Starlink proporcionarà connexió a internet a més de 500 avions d'American Airlines."
-    },
-    {
-      "title": "El inesperat competidor MacBook Neo de Microsoft podria ser un portàtil econòmic desconegut",
-      "link_id": "c_746bdc",
-      "source": "TechRadar",
-      "date": "2026-05-26",
-      "time": "19:35",
-      "summary": "El portàtil ofereix rendiment decent a un preu molt baix, competint amb Apple."
-    },
-    {
-      "title": "Els models d'IA tenen un problema de favoritisme religiós, i una nova investigació ho revela",
-      "link_id": "c_5d994c",
-      "source": "Digital Trends",
       "date": "2026-05-27",
-      "time": "05:50",
-      "summary": "Estudis mostren que els grans models d'IA prefereixen certes religions en les respostes."
+      "time": "18:30",
+      "summary": "Un empleat de Google va aprofitar dades per apostar a Polymarket, guanyant 1,2 milions de dòlars en prediccions de cerca."
     },
     {
-      "title": "Google Health Premium s'uneix a AI Pro amb el correu setmanal redissenyat",
-      "link_id": "c_acdb9c",
-      "source": "9to5Google",
+      "title": "El telèfon plegable més luxós del món ja és aquí per al 1%",
+      "link_id": "c_362be3",
+      "source": "CNET",
+      "date": "2026-05-28",
+      "time": "07:00",
+      "summary": "El nou telèfon plegable Vertu AlphaFold combina luxe extrem i IA, costant fins a 46.800 dòlars per la versió d’or."
+    },
+    {
+      "title": "Meta posa avantatges darrere de parets de pagament: nous nivells de subscripció a Facebook, Instagram i WhatsApp",
+      "link_id": "c_162296",
+      "source": "CNET",
+      "date": "2026-05-28",
+      "time": "01:53",
+      "summary": "Meta introdueix subscripcions de pagament per Facebook, Instagram i WhatsApp, oferint funcions exclusives i eines d’IA per a usuaris."
+    },
+    {
+      "title": "«Això no és llibertat»: ira, ansietat i llàgrimes mentre Internet a l’Iran torna a encendre’s",
+      "link_id": "c_21db1c",
+      "source": "The Guardian Tech",
+      "date": "2026-05-28",
+      "time": "04:00",
+      "summary": "Després de 88 dies de blackout, l’Internet a l’Iran torna parcialment, però els usuaris expressen frustració i por."
+    },
+    {
+      "title": "Google facilita trobar els llocs que realment t’interessen a la cerca d’IA",
+      "link_id": "c_57c9db",
+      "source": "Android Authority",
       "date": "2026-05-27",
-      "time": "01:04",
-      "summary": "Google Health ara inclou funcions d'IA i un disseny de correu més eficient."
+      "time": "20:50",
+      "summary": "Google afina el seu motor d’IA per prioritzar resultats de fonts preferides, millorant la rellevància de les cerques."
+    },
+    {
+      "title": "YouTube ara permet crear un «feed personalitzat» sobre el que vulguis",
+      "link_id": "c_02fbe7",
+      "source": "Android Authority",
+      "date": "2026-05-27",
+      "time": "19:45",
+      "summary": "YouTube permet crear feeds personalitzats basats en temes escollits, oferint una alternativa a l’algoritme tradicional."
+    },
+    {
+      "title": "Samsung prova el Galaxy Watch 8 per evitar la pèrdua muscular amb GLP‑1 com Ozempic",
+      "link_id": "c_831fdb",
+      "source": "Engadget",
+      "date": "2026-05-28",
+      "time": "07:07",
+      "summary": "Samsung col·labora amb experts per usar el Galaxy Watch 8 en monitoritzar músculs de pacients que prenen GLP‑1."
+    },
+    {
+      "title": "L’edat d’or dels jocs portàtils ja ha acabat",
+      "link_id": "c_6f69ba",
+      "source": "The Verge",
+      "date": "2026-05-28",
+      "time": "02:30",
+      "summary": "Els jocs portàtils han perdut popularitat després que el Steam Deck popularitzés els videojocs de PC."
+    },
+    {
+      "title": "Per què l’IA de Google no sap escriure Google (ni res més)",
+      "link_id": "c_58dfe1",
+      "source": "TechCrunch",
+      "date": "2026-05-28",
+      "time": "00:17",
+      "summary": "L’IA de Google mostra problemes d’ortografia, fallant fins i tot en escriure el seu propi nom."
+    },
+    {
+      "title": "Illinois aprova la llei de seguretat d’IA més forta d’Amèrica",
+      "link_id": "c_f666b3",
+      "source": "Wired",
+      "date": "2026-05-28",
+      "time": "00:10",
+      "summary": "Illinois aprova una llei que imposa estrictes requisits de seguretat per a empreses d’IA com OpenAI i Anthropic."
     }
   ]
 }
