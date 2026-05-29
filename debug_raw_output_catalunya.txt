@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T09:00",
+  "generated_at": "2026-05-29T09:00",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
@@ -9,71 +9,71 @@
       "articles_found": 3
     },
     {
-      "name": "MetaData",
-      "url": "https://www.metadata.cat/sindica",
-      "articles_found": 2
+      "name": "324.cat",
+      "url": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0",
+      "articles_found": 1
+    },
+    {
+      "name": "Cugat.cat",
+      "url": "https://www.cugat.cat/feed/",
+      "articles_found": 1
     },
     {
       "name": "La Vanguardia (en català)",
       "url": "https://www.lavanguardia.com/rss/encatala.xml",
-      "articles_found": 2
-    },
-    {
-      "name": "VilaWeb",
-      "url": "https://www.vilaweb.cat/feed/",
       "articles_found": 1
     },
     {
-      "name": "Segre",
-      "url": "https://www.segre.com/ca/rss/home.xml",
-      "articles_found": 1
+      "name": "MetaData",
+      "url": "https://www.metadata.cat/sindica",
+      "articles_found": 3
     },
     {
-      "name": "Via Empresa",
-      "url": "https://www.viaempresa.cat/uploads/feeds/feed_via-empresa-2024_ca.xml",
+      "name": "El Periódico",
+      "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
       "articles_found": 1
     }
   ],
   "articles": [
     {
-      "title": "Barcelona supera els 135.000 professionals digitals el 2025",
-      "link_id": "c_e7feac",
+      "title": "Una enorme bola de foc: explota un coet de Blue Origin mentre feia proves a terra",
+      "link_id": "c_45d943",
+      "source": "324.cat",
+      "date": "2026-05-29",
+      "time": "08:58",
+      "summary": "Explosió d’un coet Blue Origin a Barcelona, sense ferits, qüestiona la seguretat de les proves espacials."
+    },
+    {
+      "title": "Un tercer ordinador quàntic aterra a Barcelona per liderar la revolució tecnològica d’Europa",
+      "link_id": "c_361f0d",
       "source": "Ara.cat",
-      "date": "2026-05-27",
-      "time": "12:02",
-      "summary": "Barcelona supera 135.000 professionals TIC, impulsant l'economia digital i la innovació a la ciutat."
-    },
-    {
-      "title": "El centre tecnològic i2CAT inverteix 10 milions d'euros en una nova seu al Pier01",
-      "link_id": "c_678a91",
-      "source": "Ara.cat",
-      "date": "2026-05-27",
-      "time": "12:47",
-      "summary": "i2CAT inaugura seu de 2.000 m² al Pier01, reforçant la recerca tecnològica catalana."
-    },
-    {
-      "title": "Brussel·les vol limitar els serveis dels satèl·lits d'Elon Musk i Amazon a la UE",
-      "link_id": "c_5cb674",
-      "source": "Ara.cat",
-      "date": "2026-05-27",
-      "time": "12:29",
-      "summary": "Brussel·les proposa restringir serveis satel·litals d'Elon Musk i Amazon per afavorir empreses europees."
-    },
-    {
-      "title": "El govern espanyol aprova la seva primera llei d’IA: prohibició dels ‘deepfakes’ sexuals i multes de fins a 35 milions",
-      "link_id": "c_b3d0cf",
-      "source": "MetaData",
-      "date": "2026-05-27",
-      "time": "09:18",
-      "summary": "Espanya aprova la primera llei d'IA, prohibint deepfakes sexuals i imposant multes multimilionàries."
-    },
-    {
-      "title": "Templus inaugura un nou campus de centres de dades de 10 MW a Barcelona i es converteix en el principal operador de ‘colocation’ de Catalunya",
-      "link_id": "c_5b97b7",
-      "source": "MetaData",
       "date": "2026-05-28",
-      "time": "08:12",
-      "summary": "Templus llança campus de centres de dades de 10 MW a Barcelona, liderant la colocation catalana."
+      "time": "12:39",
+      "summary": "El tercer ordinador quàntic del BSC augmenta la capacitat de càlcul d’Europa, impulsant la recerca catalana."
+    },
+    {
+      "title": "Fluidra nomena Juan Graham nou director financer",
+      "link_id": "c_9dcc70",
+      "source": "Cugat.cat",
+      "date": "2026-05-29",
+      "time": "04:00",
+      "summary": "Fluidra nomena Juan Graham com a nou director financer, reforçant la gestió financera de la multinacional catalana."
+    },
+    {
+      "title": "Dues noves tècniques permeten detectar l'Alzheimer molt abans dels símptomes",
+      "link_id": "c_039099",
+      "source": "Ara.cat",
+      "date": "2026-05-29",
+      "time": "05:00",
+      "summary": "Novetats diagnòstiques prometen detectar l’Alzheimer molt abans dels símptomes, millorant el tractament precoç."
+    },
+    {
+      "title": "Endesa invertirà 264,5 M€ a la seva xarxa de distribució a Catalunya el 2026",
+      "link_id": "c_ed1eb5",
+      "source": "Ara.cat",
+      "date": "2026-05-29",
+      "time": "07:00",
+      "summary": "Endesa destina 264,5 milions d’euros a la xarxa elèctrica catalana, reforçant la infraestructura energètica."
     },
     {
       "title": "La IA ja és a la sanitat: hi estem preparats?",
@@ -81,39 +81,39 @@
       "source": "La Vanguardia (en català)",
       "date": "2026-05-28",
       "time": "00:35",
-      "summary": "La IA entra a la sanitat, però la formació del personal és clau per al seu èxit."
+      "summary": "La IA entra a la sanitat catalana, però la manca de formació limita el seu impacte real."
     },
     {
-      "title": "Indra designa Josep Maria Recasens com a nou conseller delegat",
-      "link_id": "c_d90497",
-      "source": "La Vanguardia (en català)",
+      "title": "El govern espanyol aprova la seva primera llei d’IA: prohibició dels ‘deepfakes’ sexuals i multes de fins a 35 milions",
+      "link_id": "c_b3d0cf",
+      "source": "MetaData",
       "date": "2026-05-27",
-      "time": "06:00",
-      "summary": "Indra nomena Josep Maria Recasens com a nou conseller delegat, reforçant la direcció estratègica."
+      "time": "09:18",
+      "summary": "Espanya aprova la primera llei d’IA, prohibint deepfakes sexuals i imposant multes multimilionàries."
     },
     {
-      "title": "El Consell de Seguretat Nuclear espanyol avala la construcció del magatzem temporal de residus de Vandellòs I",
-      "link_id": "c_79f412",
-      "source": "VilaWeb",
-      "date": "2026-05-27",
-      "time": "18:11",
-      "summary": "El Consell de Seguretat Nuclear autoritza el magatzem temporal de residus radioactius a Vandellòs I."
+      "title": "i2CAT trasllada la seva seu al Tech Barcelona per duplicar els projectes amb empreses i reforçar el seu paper en la IA i el 6G",
+      "link_id": "c_778ab1",
+      "source": "MetaData",
+      "date": "2026-05-29",
+      "time": "10:35",
+      "summary": "i2CAT muda la seu al Tech Barcelona, duplicant projectes amb empreses i reforçant la IA i el 6G."
     },
     {
-      "title": "Proven a Lleida un robot que ajuda a gestionar les emocions de nens i adolescents",
-      "link_id": "c_fc18e3",
-      "source": "Segre",
-      "date": "2026-05-27",
-      "time": "17:56",
-      "summary": "Un robot a Lleida ajuda nens i adolescents a gestionar emocions, prevenint el bullying escolar."
-    },
-    {
-      "title": "Catalunya impartirà el primer grau en tecnologies i direcció d'empreses agroalimentàries",
-      "link_id": "c_a1767c",
-      "source": "Via Empresa",
+      "title": "La salut digital catalana acumula 419 empreses i supera els 650 milions d'euros de volum de negoci",
+      "link_id": "c_1222c0",
+      "source": "MetaData",
       "date": "2026-05-28",
-      "time": "08:05",
-      "summary": "La UPC i la UB ofereixen el primer grau en tecnologies i direcció d'empreses agroalimentàries a Catalunya."
+      "time": "15:45",
+      "summary": "La salut digital catalana supera 419 empreses i 650 milions d’euros, consolidant-se com a hub europeu."
+    },
+    {
+      "title": "Logística d’última milla que transforma les ciutats des de la inclusió i la sostenibilitat",
+      "link_id": "c_9845d8",
+      "source": "El Periódico",
+      "date": "2026-05-27",
+      "time": "09:02",
+      "summary": "Noves regulacions impulsen la logística d’última mil·la sostenible, reduint congestió i contaminació urbana."
     }
   ]
 }

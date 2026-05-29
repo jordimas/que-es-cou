@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T09:00",
+  "generated_at": "2026-05-29T10:00",
   "id": "podcasts",
   "title": "Podcasts en català sobre tecnologia",
   "sources_checked": [],
@@ -10,7 +10,7 @@
       "source": "Mossega la poma",
       "date": "2026-05-22",
       "time": "07:37",
-      "summary": "Explora com la tecnologia de les cuques de llum transforma la preservació del patrimoni impremt"
+      "summary": "Explora com les cuques de llum il·luminen la preservació del paper i el valor cultural dels llibres originals."
     },
     {
       "title": "Exemples d’ús de la IA en processos creatius: organitzar hores d’entrevistes i contingut complex – programa 664",
@@ -18,7 +18,47 @@
       "source": "Mossega la poma",
       "date": "2026-05-15",
       "time": "08:23",
-      "summary": "Mostra aplicacions pràctiques d'IA per agilitzar entrevistes i gestionar contingut complex en equips creatius"
+      "summary": "Mostra aplicacions pràctiques d'IA per agilitzar entrevistes i gestionar contingut creatiu amb eines com ChatGPT."
+    },
+    {
+      "title": "L' Altra Ràdio - La informàtica a la perifèria pot localitzar objectes amb una precisió de centímetres",
+      "link_id": "c_5e7cc2",
+      "source": "L'altra ràdio",
+      "date": "2026-05-28",
+      "time": "07:33",
+      "summary": "Descobreix com l'edge computing del BSC permet rastrejar objectes amb precisió centimètrica en entorns industrials."
+    },
+    {
+      "title": "L' Altra Ràdio - El projecte Erica, la ciència ciutadana i la protecció del medi ambient",
+      "link_id": "c_7f29fd",
+      "source": "L'altra ràdio",
+      "date": "2026-05-21",
+      "time": "07:33",
+      "summary": "Erica empodera ciutadans per monitoritzar el medi ambient, fomentant acció climàtica basada en dades obertes."
+    },
+    {
+      "title": "L' Altra Ràdio - Els Premis Nacionals de Comunicació, Ràdio Associació i Sonor",
+      "link_id": "c_c770d6",
+      "source": "L'altra ràdio",
+      "date": "2026-05-14",
+      "time": "07:33",
+      "summary": "Revisa els guanyadors i tendències dels Premis Nacionals de Comunicació 2025, destacant la innovació catalana."
+    },
+    {
+      "title": "El gòTIC - Tenim una missió! del 27/5/2026",
+      "link_id": "c_992079",
+      "source": "El Gòtic",
+      "date": "2026-05-26",
+      "time": "16:29",
+      "summary": "Explora recursos digitals del gòTIC per afrontar reptes de la ciutadania digital i fomentar la inclusió."
+    },
+    {
+      "title": "El gòTIC - Tenim una missió! del 20/5/2026",
+      "link_id": "c_594649",
+      "source": "El Gòtic",
+      "date": "2026-05-19",
+      "time": "16:29",
+      "summary": "Presenta iniciatives del gòTIC centrades en educació digital i suport a la comunitat local."
     },
     {
       "title": "El NO-GOci de la música, amb Arnau Tordera d'Obeses",
@@ -26,7 +66,7 @@
       "source": "Foc a Terra",
       "date": "2026-05-25",
       "time": "04:00",
-      "summary": "Analitza la crítica a la música comercial i promou el retorn del rock català autèntic"
+      "summary": "Arnau Tordera transforma el cor cantant en una experiència sonora única, fusionant metal i tradició catalana."
     },
     {
       "title": "No atribueixis mai a la malícia allò que pot ser explicat per l'estupidesa",
@@ -34,7 +74,23 @@
       "source": "Foc a Terra",
       "date": "2026-05-18",
       "time": "04:00",
-      "summary": "Debatre la tendència a culpabilitzar malícia versus estupidesa en escàndols financers i mediàtics"
+      "summary": "Analitza casos de manipulació financera i la influència de rumors, destacant la importància del pensament crític."
+    },
+    {
+      "title": "WordPress 7.0: Louis «Armstrong»",
+      "link_id": "c_9a1799",
+      "source": "WordPress Pòdcast",
+      "date": "2026-05-26",
+      "time": "00:00",
+      "summary": "Descobreix les novetats de WordPress 7.0, incloent IA integrada i millores de rendiment per desenvolupadors."
+    },
+    {
+      "title": "Tot el que portarà WordPress 7.0",
+      "link_id": "c_a4f0c1",
+      "source": "WordPress Pòdcast",
+      "date": "2026-05-19",
+      "time": "00:00",
+      "summary": "Repàs complet de les funcionalitats de WordPress 7.0, amb èmfasi en característiques avançades i limitacions."
     },
     {
       "title": "Capítol 65: Ja no em farà por anar al dentista",
@@ -42,7 +98,7 @@
       "source": "RAC&GO",
       "date": "2026-05-19",
       "time": "06:00",
-      "summary": "Presenta una solució tecnològica que redueix visites i errors dentals, millorant l'experiència del pacient"
+      "summary": "Bite Right presenta una eina tecnològica que optimitza procediments dentals, reduint visites i errors mèdics."
     }
   ]
 }

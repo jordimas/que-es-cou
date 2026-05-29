@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T08:44",
+  "generated_at": "2026-05-29T08:43",
   "id": "videos",
   "title": "Vídeos en català sobre tecnologia",
   "sources_checked": [],
@@ -10,7 +10,7 @@
       "source": "Pixelats",
       "date": "2026-05-27",
       "time": "10:00",
-      "summary": "Exploració divertida del clàssic Zelda amb humor i comentaris en català, ideal per nostàlgics i nous jugadors."
+      "summary": "Exploració èpica del clàssic Zelda amb humor i referències locals."
     },
     {
       "title": "Els Putxinel·lis - Capítol 10 - Dinàmiques de poder",
@@ -18,7 +18,7 @@
       "source": "Pixelats",
       "date": "2026-05-27",
       "time": "10:00",
-      "summary": "Novena entrega de la sèrie animada, analitzant les tensions de poder amb tocs satírics i reflexius."
+      "summary": "Capítol 10 de Putxinel·lis revela noves dinàmiques de poder entre personatges."
     },
     {
       "title": "Pixelats vs. Bread & Fred!! 🐧🧗‍♂️",
@@ -26,7 +26,7 @@
       "source": "Pixelats",
       "date": "2026-05-20",
       "time": "10:00",
-      "summary": "Desafiament entre dos personatges extravagants, amb estratègia i diversió per a la comunitat gamer catalana."
+      "summary": "Pixelats enfronta Bread & Fred en una partida plena d'absurditat i diversió."
     },
     {
       "title": "Els Putxinel·lis - Capítol 9 - El pla de pa sucat amb oli",
@@ -34,7 +34,15 @@
       "source": "Pixelats",
       "date": "2026-05-20",
       "time": "10:00",
-      "summary": "Setena entrega que revela un pla culinari absurd, combinant crítica social i humor surrealista."
+      "summary": "Capítol 9 mostra un pla de pa sucat amb oli, humorístic i inesperat."
+    },
+    {
+      "title": "Club del Videojoc - Warhammer 40.000: Squad Command",
+      "link_id": "c_42456b",
+      "source": "Gaming.cat",
+      "date": "2026-05-28",
+      "time": "12:00",
+      "summary": "Warhammer 40k Squad Command es revisa amb estratègia i acció intensiva."
     },
     {
       "title": "Presentació de l'esdeveniment Gaming en Femení",
@@ -42,15 +50,15 @@
       "source": "Gaming.cat",
       "date": "2026-05-26",
       "time": "19:43",
-      "summary": "Llançament oficial d'un esdeveniment inclusiu, destacant jocs i creadors femenins en català."
+      "summary": "Presentació del esdeveniment Gaming en Femení destaca la inclusió i jocs locals."
     },
     {
-      "title": "Pixelats vs. The Legend of Zelda: A Link to the Past!! 🔗🗝️",
-      "link_id": "c_47d76f",
-      "source": "Pixelats",
-      "date": "2026-05-27",
-      "time": "10:00",
-      "summary": "Exploració divertida del clàssic Zelda amb humor i comentaris en català, ideal per nostàlgics i nous jugadors."
+      "title": "🎙️Lúdica #55 - El llegat mitològic (amb Anton Planells)",
+      "link_id": "c_bbc05b",
+      "source": "Lúdica (Vídeos)",
+      "date": "2026-05-28",
+      "time": "17:11",
+      "summary": "Lúdica #55 explora el llegat mitològic amb Anton Planells, entrellaçant història i joc."
     }
   ]
 }
