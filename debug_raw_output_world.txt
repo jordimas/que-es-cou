@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-05-29T10:00",
+  "generated_at": "2026-05-30T09:00",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Claude Opus 4.8 aprèn a dir les tres paraules més difícils de la IA: “No ho sé”",
-      "link_id": "c_bc3bc7",
-      "source": "PCWorld",
-      "date": "2026-05-28",
-      "time": "19:36",
-      "summary": "El model Claude Opus 4.8 mostra més honestedat i admet incerteses."
+      "title": "SpaceX rep 6,45 mil milions de dòlars en contractes de la Space Force abans de l'IPO",
+      "link_id": "c_d6df63",
+      "source": "TechCrunch",
+      "date": "2026-05-29",
+      "time": "22:21",
+      "summary": "Els contractes reforcen la dependència de SpaceX en projectes governamentals."
     },
     {
-      "title": "Oura Ring 5 és 40% més petit i té el disseny més resistent a ratllades",
-      "link_id": "c_b5b42b",
+      "title": "SpaceX obté un contracte de 4 mil milions per construir satèl·lits de seguiment de míssils ‘Golden Dome’",
+      "link_id": "c_21a1a0",
+      "source": "The Verge",
+      "date": "2026-05-29",
+      "time": "21:48",
+      "summary": "El projecte reforçarà la capacitat de detecció de l'estratègia militar nord-americana."
+    },
+    {
+      "title": "SpaceX guanya un contracte de 4 mil milions per als satèl·lits US Golden Dome",
+      "link_id": "c_76df15",
+      "source": "Bloomberg Technology",
+      "date": "2026-05-29",
+      "time": "18:48",
+      "summary": "El contracte impulsa el programa de defensa espacial dels EUA."
+    },
+    {
+      "title": "SpaceX redueix l'objectiu de valoració per a l'IPO",
+      "link_id": "c_6f503d",
+      "source": "Bloomberg Technology",
+      "date": "2026-05-29",
+      "time": "17:29",
+      "summary": "L'empresa busca una valoració més realista abans de la sortida a borsa."
+    },
+    {
+      "title": "SpaceX reduiria l'objectiu de valoració de l'IPO a 1,8 trilions de dòlars",
+      "link_id": "c_f3f93d",
+      "source": "Bloomberg Technology",
+      "date": "2026-05-29",
+      "time": "17:23",
+      "summary": "La nova xifra reflecteix les expectatives del mercat per a la companyia."
+    },
+    {
+      "title": "Què hi ha darrere l'explosió del coet de Blue Origin?",
+      "link_id": "c_dc4458",
+      "source": "Bloomberg Technology",
+      "date": "2026-05-29",
+      "time": "15:01",
+      "summary": "L'explosió revela problemes de disseny i retards en el programa New Glenn."
+    },
+    {
+      "title": "El massiu coet New Glenn de Blue Origin explota en una flama durant les proves",
+      "link_id": "c_f9c7ad",
+      "source": "TechRadar",
+      "date": "2026-05-29",
+      "time": "09:59",
+      "summary": "L'incident posa en dubte la viabilitat del llançament orbital de Blue Origin."
+    },
+    {
+      "title": "Shift netejarà la teva llar gratuïtament, però gravarà les tasques per entrenar robots",
+      "link_id": "c_fe7775",
       "source": "Digital Trends",
-      "date": "2026-05-28",
-      "time": "15:57",
-      "summary": "El nou anell Oura és més petit, més dur i ofereix millor bateria."
+      "date": "2026-05-30",
+      "time": "00:33",
+      "summary": "El servei ofereix neteja sense cost a canvi de dades per a IA."
     },
     {
-      "title": "El coet New Glenn de Blue Origin explota a la plataforma de llançament",
-      "link_id": "c_62c643",
-      "source": "Engadget",
+      "title": "Meta considera convertir-se en un hiperescalador",
+      "link_id": "c_df521f",
+      "source": "Computerworld",
       "date": "2026-05-29",
-      "time": "04:11",
-      "summary": "L'explosió del coet New Glenn suposa un gran revés per a Blue Origin."
+      "time": "16:02",
+      "summary": "Meta podria entrar al mercat del núvol per diversificar els seus ingressos."
     },
     {
-      "title": "Un empleat de Google acusat d'utilitzar dades internes per manipular apostes a Polymarket",
-      "link_id": "c_0d3cd0",
-      "source": "The Guardian Tech",
-      "date": "2026-05-28",
-      "time": "11:27",
-      "summary": "L'empleat va aprofitar informació privilegiada per guanyar més d'1 milió de dòlars."
-    },
-    {
-      "title": "Google podria haver solucionat el problema que esgotava els límits d'ús de Gemini",
-      "link_id": "c_b2a14d",
-      "source": "Android Authority",
+      "title": "Meta considera convertir-se en un hiperescalador",
+      "link_id": "c_e9c4d4",
+      "source": "NetworkWorld",
       "date": "2026-05-29",
-      "time": "08:43",
-      "summary": "Google ha arreglat la limitació que esgotava l'ús de Gemini."
-    },
-    {
-      "title": "Aquest econòmic dispositiu Android giratori és divertit, però em fa mal a les mans",
-      "link_id": "c_41238b",
-      "source": "Android Authority",
-      "date": "2026-05-29",
-      "time": "08:30",
-      "summary": "El dispositiu és assequible i divertit, però el seu disseny causa incomoditat."
-    },
-    {
-      "title": "Califòrnia demanda 23andMe per la filtració de dades de 2023 que va afectar 7 milions d'usuaris",
-      "link_id": "c_72786b",
-      "source": "Engadget",
-      "date": "2026-05-29",
-      "time": "07:59",
-      "summary": "L'estat acusa 23andMe per una gran violació de privacitat que va afectar milions."
-    },
-    {
-      "title": "ChatGPT desenvolupa una sèrie de noves funcions per a usuaris d'Android",
-      "link_id": "c_952f6f",
-      "source": "Android Authority",
-      "date": "2026-05-29",
-      "time": "07:47",
-      "summary": "ChatGPT afegeix funcions per millorar l'experiència en dispositius Android."
-    },
-    {
-      "title": "El Galaxy Z Fold 8 podria ser totalment sense plecs",
-      "link_id": "c_075668",
-      "source": "Android Authority",
-      "date": "2026-05-29",
-      "time": "07:29",
-      "summary": "El nou plegable promet una pantalla sense les típics plecs visibles."
-    },
-    {
-      "title": "Des de la renovació de Siri fins a noves eines: com Apple podria rivalitzar amb Gemini a iOS 27",
-      "link_id": "c_2c35ce",
-      "source": "Android Authority",
-      "date": "2026-05-29",
-      "time": "07:03",
-      "summary": "Apple planeja millorar Siri i integrar Gemini per competir en IA."
+      "time": "15:58",
+      "summary": "L'empresa valora oferir serveis de núvol competint amb Amazon i Google."
     }
   ]
 }

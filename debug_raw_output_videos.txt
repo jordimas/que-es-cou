@@ -1,16 +1,24 @@
 {
-  "generated_at": "2026-05-29T08:43",
+  "generated_at": "2026-05-30T07:42",
   "id": "videos",
   "title": "Vídeos en català sobre tecnologia",
   "sources_checked": [],
   "articles": [
+    {
+      "title": "les amigues d'internet, amb ANDREA GUMES",
+      "link_id": "c_31e400",
+      "source": "Albert Lloreta",
+      "date": "2026-05-29",
+      "time": "08:55",
+      "summary": "Debat sobre la presència femenina en línia i reptes digitals actuals."
+    },
     {
       "title": "Pixelats vs. The Legend of Zelda: A Link to the Past!! 🔗🗝️",
       "link_id": "c_47d76f",
       "source": "Pixelats",
       "date": "2026-05-27",
       "time": "10:00",
-      "summary": "Exploració èpica del clàssic Zelda amb humor i referències locals."
+      "summary": "Exploració divertida del clàssic Zelda amb humor i estratègia de Pixelats."
     },
     {
       "title": "Els Putxinel·lis - Capítol 10 - Dinàmiques de poder",
@@ -18,7 +26,7 @@
       "source": "Pixelats",
       "date": "2026-05-27",
       "time": "10:00",
-      "summary": "Capítol 10 de Putxinel·lis revela noves dinàmiques de poder entre personatges."
+      "summary": "Novetat del capítol 10, analitzant les tensions i maniobres de poder."
     },
     {
       "title": "Pixelats vs. Bread & Fred!! 🐧🧗‍♂️",
@@ -26,7 +34,7 @@
       "source": "Pixelats",
       "date": "2026-05-20",
       "time": "10:00",
-      "summary": "Pixelats enfronta Bread & Fred en una partida plena d'absurditat i diversió."
+      "summary": "Enfrontament surreal entre Bread i Fred, ple de rialles i sorpreses."
     },
     {
       "title": "Els Putxinel·lis - Capítol 9 - El pla de pa sucat amb oli",
@@ -34,7 +42,7 @@
       "source": "Pixelats",
       "date": "2026-05-20",
       "time": "10:00",
-      "summary": "Capítol 9 mostra un pla de pa sucat amb oli, humorístic i inesperat."
+      "summary": "Capítol 9 revela un pla culinari estrany i intrigant per als personatges."
     },
     {
       "title": "Club del Videojoc - Warhammer 40.000: Squad Command",
@@ -42,7 +50,7 @@
       "source": "Gaming.cat",
       "date": "2026-05-28",
       "time": "12:00",
-      "summary": "Warhammer 40k Squad Command es revisa amb estratègia i acció intensiva."
+      "summary": "Anàlisi tàctica del nou mode Squad Command i estratègies clau."
     },
     {
       "title": "Presentació de l'esdeveniment Gaming en Femení",
@@ -50,7 +58,7 @@
       "source": "Gaming.cat",
       "date": "2026-05-26",
       "time": "19:43",
-      "summary": "Presentació del esdeveniment Gaming en Femení destaca la inclusió i jocs locals."
+      "summary": "Detalls de l'esdeveniment que promou la inclusió femenina al gaming."
     },
     {
       "title": "🎙️Lúdica #55 - El llegat mitològic (amb Anton Planells)",
@@ -58,7 +66,7 @@
       "source": "Lúdica (Vídeos)",
       "date": "2026-05-28",
       "time": "17:11",
-      "summary": "Lúdica #55 explora el llegat mitològic amb Anton Planells, entrellaçant història i joc."
+      "summary": "Conversació sobre com la mitologia influeix en el disseny de jocs."
     }
   ]
 }
