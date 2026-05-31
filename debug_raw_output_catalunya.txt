@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T09:00",
+  "generated_at": "2026-05-31T09:00",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
@@ -9,13 +9,18 @@
       "articles_found": 3
     },
     {
-      "name": "El Periódico",
-      "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
-      "articles_found": 0
+      "name": "MetaData",
+      "url": "https://www.metadata.cat/sindica",
+      "articles_found": 3
     },
     {
       "name": "RAC1",
       "url": "https://www.rac1.cat/rss/home.xml",
+      "articles_found": 1
+    },
+    {
+      "name": "324.cat",
+      "url": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0",
       "articles_found": 1
     },
     {
@@ -24,174 +29,9 @@
       "articles_found": 1
     },
     {
-      "name": "VilaWeb",
-      "url": "https://www.vilaweb.cat/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "NacióDigital",
-      "url": "https://www.naciodigital.cat/rss/tecnologia",
-      "articles_found": 0
-    },
-    {
-      "name": "324.cat",
-      "url": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0",
-      "articles_found": 1
-    },
-    {
-      "name": "Softcatalà",
-      "url": "https://www.softcatala.org/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "El Nacional.cat",
-      "url": "https://www.elnacional.cat/uploads/feeds/feed_ca.xml",
-      "articles_found": 0
-    },
-    {
-      "name": "El Mon.cat",
-      "url": "https://www.elmon.cat/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "El Mon.cat Tecnologia",
-      "url": "https://elmon.cat/tecnologia/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "El Mon.cat Societat",
-      "url": "https://elmon.cat/societat/feed/",
-      "articles_found": 0
-    },
-    {
       "name": "Betevé",
       "url": "https://beteve.cat/feed/",
       "articles_found": 1
-    },
-    {
-      "name": "El Punt Avui",
-      "url": "https://www.elpuntavui.cat/barcelona.feed?type=rss",
-      "articles_found": 0
-    },
-    {
-      "name": "Segre",
-      "url": "https://www.segre.com/ca/rss/home.xml",
-      "articles_found": 0
-    },
-    {
-      "name": "Regio7",
-      "url": "https://www.regio7.cat/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Diari d'Andorra",
-      "url": "https://www.diariandorra.ad/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Bon Dia Andorra",
-      "url": "https://www.bondia.ad/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Altaveu",
-      "url": "https://www.altaveu.com/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Nuvol",
-      "url": "https://www.nuvol.com/feed",
-      "articles_found": 0
-    },
-    {
-      "name": "Diari Mes",
-      "url": "https://www.diarimes.com/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Directe.cat",
-      "url": "https://www.directe.cat/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Cugat.cat",
-      "url": "https://www.cugat.cat/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "CatalunyaPress",
-      "url": "https://www.catalunyapress.cat/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Tot Barcelona",
-      "url": "https://www.totbarcelona.cat/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "e-notícies",
-      "url": "https://www.e-noticies.cat/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Lleida Diari",
-      "url": "https://www.lleidadiari.cat/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "Catorze",
-      "url": "https://www.catorze.cat/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Xarxanet",
-      "url": "https://www.xarxanet.org/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Bondia",
-      "url": "https://www.bondia.cat/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "MetaData",
-      "url": "https://www.metadata.cat/sindica",
-      "articles_found": 3
-    },
-    {
-      "name": "El Temps",
-      "url": "https://www.eltemps.cat/sindica",
-      "articles_found": 0
-    },
-    {
-      "name": "Àpunt",
-      "url": "https://www.apuntmedia.es/rss/",
-      "articles_found": 0
-    },
-    {
-      "name": "IB3 Notícies",
-      "url": "https://ib3.org/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "Manacor Comarcal",
-      "url": "https://manacorcomarcal.com/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Via Empresa",
-      "url": "https://www.viaempresa.cat/uploads/feeds/feed_via-empresa-2024_ca.xml",
-      "articles_found": 0
-    },
-    {
-      "name": "Lúdica",
-      "url": "https://ludica.cat/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "Accent Obert",
-      "url": "https://accentobert.cat/feed/",
-      "articles_found": 0
     }
   ],
   "articles": [
@@ -201,23 +41,15 @@
       "source": "Ara.cat",
       "date": "2026-05-28",
       "time": "12:39",
-      "summary": "Barcelona consolida la seva posició europea amb el nou ordinador quàntic, impulsant recerca i innovació avançada."
+      "summary": "Barcelona llança el tercer ordinador quàntic, impulsant la recerca europea i la supercomputació híbrida."
     },
     {
-      "title": "Explosió brutal d'un coet de Blue Origin durant una prova de llançament",
-      "link_id": "c_452f75",
-      "source": "RAC1",
-      "date": "2026-05-29",
-      "time": "09:07",
-      "summary": "Una prova de Blue Origin acaba en explosió, posant en alerta la seguretat dels llançaments espacials."
-    },
-    {
-      "title": "Endesa invertirà 264,5 M€ a la seva xarxa de distribució a Catalunya el 2026",
-      "link_id": "c_ed1eb5",
+      "title": "El Govern amplia fins als 40 anys l'edat per accedir a préstecs d'emancipació",
+      "link_id": "c_1eddfd",
       "source": "Ara.cat",
       "date": "2026-05-29",
-      "time": "07:00",
-      "summary": "Endesa destina més de 260 milions d'euros per reforçar la xarxa elèctrica catalana i millorar el subministrament."
+      "time": "09:22",
+      "summary": "El Govern amplia l'edat límit a 40 anys per accedir a préstecs d'emancipació, afavorint joves compradors."
     },
     {
       "title": "Brussel·les autoritza el mecanisme antiapagades espanyol amb ajudes milionàries a les elèctriques",
@@ -225,55 +57,63 @@
       "source": "Ara.cat",
       "date": "2026-05-29",
       "time": "17:08",
-      "summary": "La UE finança milers de milions per garantir estabilitat del subministrament elèctric espanyol i evitar apagades."
-    },
-    {
-      "title": "El govern espanyol aprova la seva primera llei d’IA: prohibició dels ‘deepfakes’ sexuals i multes de fins a 35 milions",
-      "link_id": "c_b3d0cf",
-      "source": "MetaData",
-      "date": "2026-05-27",
-      "time": "07:18",
-      "summary": "Nova llei d'IA prohibeix deepfakes sexuals i imposa multes, reforçant la protecció digital dels ciutadans."
+      "summary": "Brussel·les autoritza ajudes milionàries a les elèctriques per garantir estabilitat i evitar apagades."
     },
     {
       "title": "La nova eina catalana que vol predir inundacions gairebé en temps real",
       "link_id": "c_7d17c5",
       "source": "MetaData",
       "date": "2026-05-29",
-      "time": "10:15",
-      "summary": "L'eina combina dades històriques i IA per alertar anticipadament sobre inundacions, salvant vides i béns."
+      "time": "12:15",
+      "summary": "L'ACA i el BSC desenvolupen una plataforma que preveu inundacions en temps quasi real, protegint ciutats."
     },
     {
-      "title": "El talent TIC ja representa el 6,5% de l’ocupació a Barcelona i supera els 135.000 professionals",
-      "link_id": "c_88b3b3",
+      "title": "La salut digital catalana acumula 419 empreses i supera els 650 milions d’euros de volum de negoci",
+      "link_id": "c_1222c0",
+      "source": "MetaData",
+      "date": "2026-05-28",
+      "time": "15:45",
+      "summary": "La salut digital catalana supera 650 milions d'euros, amb 419 empreses impulsant IA i telemedicina."
+    },
+    {
+      "title": "El govern espanyol aprova la seva primera llei d’IA: prohibició dels ‘deepfakes’ sexuals i multes de fins a 35 milions",
+      "link_id": "c_b3d0cf",
       "source": "MetaData",
       "date": "2026-05-27",
-      "time": "10:58",
-      "summary": "El sector TIC impulsa l'economia barcelonina, amb més de 135.000 professionals i creixement continu."
+      "time": "09:18",
+      "summary": "Espanya aprova la primera llei d'IA, prohibint deepfakes sexuals i imposant multes fins a 35 milions."
     },
     {
-      "title": "Un nou sistema pioner permet netejar els grafits dels trens en només 15 minuts",
-      "link_id": "c_a89c76",
+      "title": "Anna Romeu, psicòloga: \"Un fill adolescent pot amagar aplicacions o esborrar l'historial, però la clau és que hi hagi confiança amb els pares sense por al càstig\"",
+      "link_id": "c_0538bb",
+      "source": "RAC1",
+      "date": "2026-05-30",
+      "time": "08:00",
+      "summary": "Anna Romeu alerta sobre l'ús ocult d'aplicacions per adolescents, subratllant la necessitat de confiança parental."
+    },
+    {
+      "title": "La banca privada s'avança al BCE i aviat llançarà una moneda digital per fer pagaments",
+      "link_id": "c_056058",
+      "source": "324.cat",
+      "date": "2026-05-31",
+      "time": "07:27",
+      "summary": "La banca privada catalana prepara una stablecoin vinculada a l'euro, avançant cap a pagaments digitals."
+    },
+    {
+      "title": "Sobirania digital europea, però de quina Europa?",
+      "link_id": "c_6e160d",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-05-31",
+      "time": "07:54",
+      "summary": "Debat sobre sobirania digital europea planteja una Europa tecnològicament independent de EE. UU. i Xina."
+    },
+    {
+      "title": "Més calor aquest diumenge, abans de l’arribada d’un petit respir",
+      "link_id": "c_6d8789",
       "source": "Betevé",
       "date": "2026-05-30",
-      "time": "07:19",
-      "summary": "El nou mètode elimina ràpidament pintades dels trens, reduint temps d'espera i costos de manteniment."
-    },
-    {
-      "title": "Cirurgia abans de néixer pionera a Europa: operen a Barcelona un fetus amb els budells per fora",
-      "link_id": "c_519d1f",
-      "source": "324.cat",
-      "date": "2026-05-28",
-      "time": "14:00",
-      "summary": "Primera operació fetal a Barcelona obre noves possibilitats per tractar malformacions greus abans del naixement."
-    },
-    {
-      "title": "Les ciutats es construeixen en l'espai públic",
-      "link_id": "c_fdd8cf",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-05-29",
-      "time": "00:35",
-      "summary": "El text destaca la importància de l'espai públic per a la cohesió social i la qualitat de vida urbana."
+      "time": "15:52",
+      "summary": "Previsió indica calor intens aquest diumenge a Barcelona, amb un petit respir esperat a la setmana."
     }
   ]
 }

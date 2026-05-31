@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-05-30T09:00",
+  "generated_at": "2026-05-31T10:16",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "SpaceX rep 6,45 mil milions de dòlars en contractes de la Space Force abans de l'IPO",
-      "link_id": "c_d6df63",
+      "title": "Meta està desenvolupant un penjoll d'IA, segons informes",
+      "link_id": "c_70af12",
       "source": "TechCrunch",
-      "date": "2026-05-29",
-      "time": "22:21",
-      "summary": "Els contractes reforcen la dependència de SpaceX en projectes governamentals."
+      "date": "2026-05-30",
+      "time": "15:59",
+      "summary": "El dispositiu busca integrar assistència d'IA personal a la roba, però planteja qüestions de privacitat."
     },
     {
-      "title": "SpaceX obté un contracte de 4 mil milions per construir satèl·lits de seguiment de míssils ‘Golden Dome’",
-      "link_id": "c_21a1a0",
-      "source": "The Verge",
-      "date": "2026-05-29",
-      "time": "21:48",
-      "summary": "El projecte reforçarà la capacitat de detecció de l'estratègia militar nord-americana."
-    },
-    {
-      "title": "SpaceX guanya un contracte de 4 mil milions per als satèl·lits US Golden Dome",
-      "link_id": "c_76df15",
-      "source": "Bloomberg Technology",
-      "date": "2026-05-29",
-      "time": "18:48",
-      "summary": "El contracte impulsa el programa de defensa espacial dels EUA."
-    },
-    {
-      "title": "SpaceX redueix l'objectiu de valoració per a l'IPO",
-      "link_id": "c_6f503d",
-      "source": "Bloomberg Technology",
-      "date": "2026-05-29",
-      "time": "17:29",
-      "summary": "L'empresa busca una valoració més realista abans de la sortida a borsa."
-    },
-    {
-      "title": "SpaceX reduiria l'objectiu de valoració de l'IPO a 1,8 trilions de dòlars",
-      "link_id": "c_f3f93d",
-      "source": "Bloomberg Technology",
-      "date": "2026-05-29",
-      "time": "17:23",
-      "summary": "La nova xifra reflecteix les expectatives del mercat per a la companyia."
-    },
-    {
-      "title": "Què hi ha darrere l'explosió del coet de Blue Origin?",
-      "link_id": "c_dc4458",
-      "source": "Bloomberg Technology",
-      "date": "2026-05-29",
-      "time": "15:01",
-      "summary": "L'explosió revela problemes de disseny i retards en el programa New Glenn."
-    },
-    {
-      "title": "El massiu coet New Glenn de Blue Origin explota en una flama durant les proves",
-      "link_id": "c_f9c7ad",
-      "source": "TechRadar",
-      "date": "2026-05-29",
-      "time": "09:59",
-      "summary": "L'incident posa en dubte la viabilitat del llançament orbital de Blue Origin."
-    },
-    {
-      "title": "Shift netejarà la teva llar gratuïtament, però gravarà les tasques per entrenar robots",
-      "link_id": "c_fe7775",
+      "title": "Després de les ulleres intel·ligents, Meta vol que portis el seu penjoll d'IA que escolta tot",
+      "link_id": "c_b0d029",
       "source": "Digital Trends",
       "date": "2026-05-30",
-      "time": "00:33",
-      "summary": "El servei ofereix neteja sense cost a canvi de dades per a IA."
+      "time": "12:31",
+      "summary": "El penjoll captura àudio constant per a assistència, generant preocupació sobre vigilància constant."
     },
     {
-      "title": "Meta considera convertir-se en un hiperescalador",
-      "link_id": "c_df521f",
-      "source": "Computerworld",
-      "date": "2026-05-29",
-      "time": "16:02",
-      "summary": "Meta podria entrar al mercat del núvol per diversificar els seus ingressos."
+      "title": "Meta construeix un penjoll d'IA i planeja una subscripció empresarial Wearables for Work",
+      "link_id": "c_1c07a1",
+      "source": "The Next Web",
+      "date": "2026-05-30",
+      "time": "16:36",
+      "summary": "El penjoll podria ser una eina corporativa per a tasques automatitzades, ampliant l'ecosistema d'IoT empresarial."
     },
     {
-      "title": "Meta considera convertir-se en un hiperescalador",
-      "link_id": "c_e9c4d4",
-      "source": "NetworkWorld",
-      "date": "2026-05-29",
-      "time": "15:58",
-      "summary": "L'empresa valora oferir serveis de núvol competint amb Amazon i Google."
+      "title": "SoftBank anuncia una inversió de fins a 75 000 milions d'euros per a centres de dades a França",
+      "link_id": "c_74c2fe",
+      "source": "TechCrunch",
+      "date": "2026-05-30",
+      "time": "21:45",
+      "summary": "L'objectiu és crear una infraestructura d'IA massiva a Europa, impulsant la competitivitat tecnològica francesa."
+    },
+    {
+      "title": "SoftBank planeja una inversió de fins a 75 000 milions d'euros en centres d'IA a França",
+      "link_id": "c_93831d",
+      "source": "Bloomberg",
+      "date": "2026-05-30",
+      "time": "18:55",
+      "summary": "L'inversió reforçarà la capacitat de càlcul d'IA del país, atraient empreses globals."
+    },
+    {
+      "title": "El geni de Netflix crea una aplicació per reduir les factures d'IA i la publica com a codi obert",
+      "link_id": "c_2ab588",
+      "source": "The Register",
+      "date": "2026-05-31",
+      "time": "07:00",
+      "summary": "L'eina ajuda empreses a optimitzar l'ús d'IA, reduint costos energètics i de computació."
+    },
+    {
+      "title": "Converteix fitxers de vídeo massius en clips compartibles en minuts amb VideoProc per 36 $",
+      "link_id": "c_974ce8",
+      "source": "PCWorld",
+      "date": "2026-05-31",
+      "time": "08:00",
+      "summary": "VideoProc simplifica l'edició ràpida, permetent crear fragments curts sense necessitat de programari avançat."
+    },
+    {
+      "title": "Obté una llicència completa de MS Office sense subscripció abans que acabi l'oferta de 30 $",
+      "link_id": "c_00ef43",
+      "source": "PCWorld",
+      "date": "2026-05-31",
+      "time": "08:00",
+      "summary": "L'oferta permet accedir a les aplicacions d'Office per un pagament únic, ideal per a freelancers."
+    },
+    {
+      "title": "Show HN: Komi-learn – memòria contínua i auto-millora per a agents de programació",
+      "link_id": "c_f7fd70",
+      "source": "Hacker News",
+      "date": "2026-05-31",
+      "time": "05:11",
+      "summary": "Komi-learn permet que els agents d'IA recordin tasques anteriors i s'adaptin millor a nous projectes."
+    },
+    {
+      "title": "Pistes i respostes d'NYT Strands per al 31 de maig #819",
+      "link_id": "c_d9cafa",
+      "source": "CNET",
+      "date": "2026-05-31",
+      "time": "04:40",
+      "summary": "El trencaclosques combina enginy i cultura, oferint pistes per resoldre l'enigma diari."
     }
   ]
 }

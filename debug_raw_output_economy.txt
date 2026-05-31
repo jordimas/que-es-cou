@@ -1,88 +1,64 @@
 {
-  "generated_at": "2026-05-30T09:42",
+  "generated_at": "2026-05-31T10:16",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Hauria la IA de robar la teva feina?",
-      "link_id": "c_12d2da",
-      "source": "The Economist",
-      "date": "2026-05-30",
+      "title": "Una startup vinculada a Trump planeja posar robots humanoides a l'exèrcit",
+      "link_id": "c_636a91",
+      "source": "CNBC Technology",
+      "date": "2026-05-31",
+      "time": "06:12",
+      "summary": "Startup de la família Trump vol desplegar robots avançats per missions militars, generant debat ètic i de seguretat."
+    },
+    {
+      "title": "Com l'exèrcit d'Iran aprofita ChatGPT",
+      "link_id": "c_4b6b46",
+      "source": "Financial Times",
+      "date": "2026-05-31",
       "time": "04:00",
-      "summary": "Explora les implicacions ètiques de la IA al mercat laboral i les preocupacions dels treballadors."
+      "summary": "Iran utilitza ChatGPT per crear malware i coordinar atacs cibernètics, augmentant la seva capacitat d'espionatge."
     },
     {
-      "title": "Les accions de Dell pujaren un 39% després del creixement de vendes més ràpid des del 2018",
-      "link_id": "c_2f1ef0",
-      "source": "CNBC Technology",
-      "date": "2026-05-29",
-      "time": "23:06",
-      "summary": "Dell registra un augment històric de vendes de servidors impulsat per la demanda d'IA."
+      "title": "Fabricant de ràdios resistents al bloqueig busca venda de més de 3.000 milions de dòlars",
+      "link_id": "c_423dfc",
+      "source": "Financial Times",
+      "date": "2026-05-31",
+      "time": "04:00",
+      "summary": "Empresa de ràdios busca venedor per valor superior a 3.000 milions, impulsada per la demanda militar."
     },
     {
-      "title": "Jim Cramer afirma que el trimestre espectacular de Dell impulsa una setmana clau per a les accions d'IA",
-      "link_id": "c_825d1e",
-      "source": "CNBC Technology",
-      "date": "2026-05-29",
-      "time": "22:18",
-      "summary": "Cramer destaca com els resultats de Dell reforcen la confiança en les empreses d'IA."
+      "title": "La IA ja és aquí. Què vols d'ella?",
+      "link_id": "c_e1e63f",
+      "source": "Financial Times",
+      "date": "2026-05-31",
+      "time": "04:00",
+      "summary": "Experts demanen definir usos ètics de la IA mentre la tecnologia es difon en tots els sectors."
     },
     {
-      "title": "Les accions de programari tancen el millor mes des del 2001 mentre disminueix la 'SaaSpocalipsi'",
-      "link_id": "c_c0e9dd",
-      "source": "CNBC Technology",
-      "date": "2026-05-29",
-      "time": "21:14",
-      "summary": "El sector de programari es recupera gràcies a l'interès renovat per solucions d'IA."
-    },
-    {
-      "title": "Les accions de Dell s'enlairen un 32% en el seu millor dia gràcies al creixement del servidor d'IA",
-      "link_id": "c_6aaba2",
-      "source": "CNBC Technology",
-      "date": "2026-05-29",
-      "time": "20:10",
-      "summary": "Dell experimenta un augment del 757% en ingressos de servidors d'IA respecte a l'any anterior."
-    },
-    {
-      "title": "Les accions de SentinelOne caiguen un 8% mentre l'empresa redueix personal per impulsar inversions en IA",
-      "link_id": "c_2ae24b",
-      "source": "CNBC Technology",
-      "date": "2026-05-29",
-      "time": "20:09",
-      "summary": "SentinelOne talla empleats per reforçar el seu enfocament en tecnologies d'IA de ciberseguretat."
+      "title": "SoftBank promet 75.000 milions d'euros per construir la major instal·lació d'IA d'Europa a França",
+      "link_id": "c_91916c",
+      "source": "Financial Times",
+      "date": "2026-05-30",
+      "time": "18:39",
+      "summary": "SoftBank inverteix 75.000 milions d'euros a França per crear un centre d'IA que lideri Europa."
     },
     {
       "title": "Tokens o humans? El nou dilema corporatiu",
       "link_id": "c_1e692d",
       "source": "CNBC Technology",
-      "date": "2026-05-29",
-      "time": "18:41",
-      "summary": "Les empreses equilibren costos entre automatització basada en IA i manteniment de personal humà."
+      "date": "2026-05-30",
+      "time": "12:16",
+      "summary": "Les empreses equilibren costos entre tokens digitals i contractes laborals, redefinint la gestió de recursos."
     },
     {
-      "title": "Els resultats espectaculars de Dell demostren que no és moment d'anar contra la tendència de l'IA",
-      "link_id": "c_d4bc5d",
+      "title": "Meta ha tingut dificultats per vendre més que anuncis. Serà diferent amb la IA?",
+      "link_id": "c_6493ec",
       "source": "CNBC Technology",
-      "date": "2026-05-29",
-      "time": "17:47",
-      "summary": "Dell mostra que seguir la corrent de l'IA pot generar rendiments excepcionals."
-    },
-    {
-      "title": "Jim Cramer declara que Nvidia és el guanyador clar del trimestre monstruós de Dell",
-      "link_id": "c_105e16",
-      "source": "CNBC Technology",
-      "date": "2026-05-29",
-      "time": "16:19",
-      "summary": "Cramer veu Nvidia beneficiada per la forta demanda de servidors d'IA de Dell."
-    },
-    {
-      "title": "Nvidia inverteix milers de milions en tecnologia emergent que podria transformar la indústria de IA",
-      "link_id": "c_7edd9a",
-      "source": "CNBC Technology",
-      "date": "2026-05-29",
-      "time": "15:39",
-      "summary": "Nvidia aposta per la fotònica per millorar l'eficiència del processament d'IA."
+      "date": "2026-05-30",
+      "time": "12:00",
+      "summary": "Meta intenta diversificar més enllà dels anuncis, però la IA planteja nous reptes de monetització."
     }
   ]
 }

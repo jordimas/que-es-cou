@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-05-30T07:42",
+  "generated_at": "2026-05-31T09:00",
   "id": "podcasts",
   "title": "Podcasts en català sobre tecnologia",
   "sources_checked": [],
   "articles": [
+    {
+      "title": "“What a time to be alive” – programa 666",
+      "link_id": "c_5b9998",
+      "source": "Mossega la poma",
+      "date": "2026-05-30",
+      "time": "08:24",
+      "summary": "Debat sobre IA, ètica papal i expectatives empresarials en un context tecnològic actual."
+    },
     {
       "title": "Cuques de llum i la necessitat de conservar els llibres originals en paper – Programa 665",
       "link_id": "c_8d82ce",
       "source": "Mossega la poma",
       "date": "2026-05-22",
       "time": "07:37",
-      "summary": "Explora les cuques de llum i defensa la preservació dels llibres impresos davant la digitalització."
-    },
-    {
-      "title": "Exemples d’ús de la IA en processos creatius: organitzar hores d’entrevistes i contingut complex – programa 664",
-      "link_id": "c_1aec83",
-      "source": "Mossega la poma",
-      "date": "2026-05-15",
-      "time": "08:23",
-      "summary": "Mostra com la IA facilita entrevistes, gestiona contingut complex i impulsa la creativitat col·laborativa."
+      "summary": "Exploració del projecte Gutenberg i la importància de preservar llibres originals en paper."
     },
     {
       "title": "L' Altra Ràdio - La informàtica a la perifèria pot localitzar objectes amb una precisió de centímetres",
@@ -26,7 +26,7 @@
       "source": "L'altra ràdio",
       "date": "2026-05-28",
       "time": "07:33",
-      "summary": "Descobreix l'edge computing del BSC que localitza objectes amb precisió centimètrica en temps real."
+      "summary": "Near By Computing mostra com l'edge computing localitza objectes amb precisió centimètrica en temps real."
     },
     {
       "title": "L' Altra Ràdio - El projecte Erica, la ciència ciutadana i la protecció del medi ambient",
@@ -34,7 +34,7 @@
       "source": "L'altra ràdio",
       "date": "2026-05-21",
       "time": "07:33",
-      "summary": "Erica empodera ciutadans amb ciència col·laborativa per monitoritzar i protegir el medi ambient."
+      "summary": "Erica impulsa la ciència ciutadana per fomentar acció climàtica i protecció ambiental a través de la participació."
     },
     {
       "title": "El gòTIC - Tenim una missió! del 27/5/2026",
@@ -42,7 +42,7 @@
       "source": "El Gòtic",
       "date": "2026-05-26",
       "time": "16:29",
-      "summary": "Presenta recursos digitals per afrontar reptes de la ciutadania i fomentar la inclusió tecnològica."
+      "summary": "Recursos digitals per afrontar reptes de la ciutadania digital, compartits per l'Ajuntament de Tàrrega."
     },
     {
       "title": "El gòTIC - Tenim una missió! del 20/5/2026",
@@ -50,7 +50,7 @@
       "source": "El Gòtic",
       "date": "2026-05-19",
       "time": "16:29",
-      "summary": "Compartim estratègies per a la transformació digital ciutadana i resolució de problemes socials."
+      "summary": "Segona entrega de missions digitals, enfocada a solucions col·laboratives per a la comunitat local."
     },
     {
       "title": "El NO-GOci de la música, amb Arnau Tordera d'Obeses",
@@ -58,7 +58,7 @@
       "source": "Foc a Terra",
       "date": "2026-05-25",
       "time": "04:00",
-      "summary": "Arnau Tordera explora la fusió entre rock català i tradicions religioses en una proposta provocadora."
+      "summary": "Arnau Tordera transforma el Virolai en versió metal, revitalitzant el rock català amb humor."
     },
     {
       "title": "No atribueixis mai a la malícia allò que pot ser explicat per l'estupidesa",
@@ -66,7 +66,7 @@
       "source": "Foc a Terra",
       "date": "2026-05-18",
       "time": "04:00",
-      "summary": "Analitza com la estupidesa, més que la malícia, impulsa decisions financeres irresponsables."
+      "summary": "Anàlisi de la sanció CNMV i el paper de Polymarket en la difusió de rumors financers."
     },
     {
       "title": "WordPress 7.0: Louis «Armstrong»",
@@ -74,7 +74,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-05-26",
       "time": "00:00",
-      "summary": "Descobreix les novetats de WordPress 7.0, incloent IA integrada per millorar l'experiència d'usuari."
+      "summary": "Llançament de WordPress 7.0 amb integració d'IA, destacant noves funcionalitats per desenvolupadors."
     },
     {
       "title": "Tot el que portarà WordPress 7.0",
@@ -82,7 +82,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-05-19",
       "time": "00:00",
-      "summary": "Repassa les funcionalitats clau de la versió 7.0 i el seu impacte en desenvolupadors catalans."
+      "summary": "Revisió de les novetats de WordPress 7.0, incloent millores excloses i expectatives d'ús."
     },
     {
       "title": "Capítol 65: Ja no em farà por anar al dentista",
@@ -90,7 +90,7 @@
       "source": "RAC&GO",
       "date": "2026-05-19",
       "time": "06:00",
-      "summary": "Bite Right presenta una eina tecnològica que optimitza procediments dentals i redueix el dolor del pacient."
+      "summary": "Bite Right presenta tecnologia que optimitza procediments dentals, reduint visites i errors mèdics."
     }
   ]
 }
