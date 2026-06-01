@@ -1,12 +1,82 @@
 {
-  "generated_at": "2026-05-31T09:00",
+  "generated_at": "2026-06-01T12:00",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
     {
       "name": "Ara.cat",
       "url": "https://www.ara.cat/rss/",
-      "articles_found": 3
+      "articles_found": 1
+    },
+    {
+      "name": "El Periódico",
+      "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
+      "articles_found": 1
+    },
+    {
+      "name": "RAC1",
+      "url": "https://www.rac1.cat/rss/home.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "La Vanguardia (en català)",
+      "url": "https://www.lavanguardia.com/rss/encatala.xml",
+      "articles_found": 2
+    },
+    {
+      "name": "VilaWeb",
+      "url": "https://www.vilaweb.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "NacióDigital",
+      "url": "https://www.naciodigital.cat/rss/tecnologia",
+      "articles_found": 0
+    },
+    {
+      "name": "324.cat",
+      "url": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0",
+      "articles_found": 0
+    },
+    {
+      "name": "Cugat.cat",
+      "url": "https://www.cugat.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "CatalunyaPress",
+      "url": "https://www.catalunyapress.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Tot Barcelona",
+      "url": "https://www.totbarcelona.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "e-notícies",
+      "url": "https://www.e-noticies.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Lleida Diari",
+      "url": "https://www.lleidadiari.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "Catorze",
+      "url": "https://www.catorze.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Xarxanet",
+      "url": "https://www.xarxanet.org/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Bondia",
+      "url": "https://www.bondia.cat/?feed=rss2",
+      "articles_found": 0
     },
     {
       "name": "MetaData",
@@ -14,50 +84,125 @@
       "articles_found": 3
     },
     {
-      "name": "RAC1",
-      "url": "https://www.rac1.cat/rss/home.xml",
+      "name": "El Temps",
+      "url": "https://www.eltemps.cat/sindica",
+      "articles_found": 0
+    },
+    {
+      "name": "Àpunt",
+      "url": "https://www.apuntmedia.es/rss/",
+      "articles_found": 0
+    },
+    {
+      "name": "El Periòdic d'Ontinyent",
+      "url": "https://www.elperiodicvalencia.com/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Saó",
+      "url": "https://www.revistasao.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "Diari de Balears",
+      "url": "https://www.diaridebalears.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "IB3 Notícies",
+      "url": "https://ib3.org/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "Ara Balears",
+      "url": "https://www.arabalears.cat/rss/",
+      "articles_found": 0
+    },
+    {
+      "name": "Manacor Comarcal",
+      "url": "https://manacorcomarcal.com/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Via Empresa",
+      "url": "https://www.viaempresa.cat/uploads/feeds/feed_via-empresa-2024_ca.xml",
+      "articles_found": 2
+    },
+    {
+      "name": "Lúdica",
+      "url": "https://ludica.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "Accent Obert",
+      "url": "https://accentobert.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "Segre",
+      "url": "https://www.segre.com/ca/rss/home.xml",
       "articles_found": 1
     },
     {
-      "name": "324.cat",
-      "url": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0",
-      "articles_found": 1
+      "name": "Regio7",
+      "url": "https://www.regio7.cat/?feed=rss2",
+      "articles_found": 0
     },
     {
-      "name": "La Vanguardia (en català)",
-      "url": "https://www.lavanguardia.com/rss/encatala.xml",
-      "articles_found": 1
+      "name": "Diari d'Andorra",
+      "url": "https://www.diariandorra.ad/?feed=rss2",
+      "articles_found": 0
     },
     {
-      "name": "Betevé",
-      "url": "https://beteve.cat/feed/",
-      "articles_found": 1
+      "name": "Bon Dia Andorra",
+      "url": "https://www.bondia.ad/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Altaveu",
+      "url": "https://www.altaveu.com/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Nuvol",
+      "url": "https://www.nuvol.com/feed",
+      "articles_found": 0
+    },
+    {
+      "name": "Diari Mes",
+      "url": "https://www.diarimes.com/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Directe.cat",
+      "url": "https://www.directe.cat/?feed=rss2",
+      "articles_found": 0
     }
   ],
   "articles": [
     {
-      "title": "Un tercer ordinador quàntic aterra a Barcelona per liderar la revolució tecnològica d’Europa",
-      "link_id": "c_361f0d",
-      "source": "Ara.cat",
+      "title": "Fluidra compra la plataforma de gestió de dades de piscines Datapool",
+      "link_id": "c_aba83f",
+      "source": "Via Empresa",
+      "date": "2026-06-01",
+      "time": "12:11",
+      "summary": "Fluidra adquireix Datapool per optimitzar gestió de piscines i reduir costos operatius amb dades en temps real."
+    },
+    {
+      "title": "Catalunya concentra més de la meitat dels ingressos del videojoc mòbil a l'Estat, de 722 milions",
+      "link_id": "c_e02966",
+      "source": "Via Empresa",
+      "date": "2026-06-01",
+      "time": "10:27",
+      "summary": "Catalunya lidera el mercat mundial del videojoc mòbil, generant més de la meitat dels ingressos globals."
+    },
+    {
+      "title": "El superordinador de Barcelona fa un salt amb la inauguració d’un tercer ordinador quàntic de 9,8 milions d’euros",
+      "link_id": "c_63c32b",
+      "source": "El Periódico",
       "date": "2026-05-28",
-      "time": "12:39",
-      "summary": "Barcelona llança el tercer ordinador quàntic, impulsant la recerca europea i la supercomputació híbrida."
-    },
-    {
-      "title": "El Govern amplia fins als 40 anys l'edat per accedir a préstecs d'emancipació",
-      "link_id": "c_1eddfd",
-      "source": "Ara.cat",
-      "date": "2026-05-29",
-      "time": "09:22",
-      "summary": "El Govern amplia l'edat límit a 40 anys per accedir a préstecs d'emancipació, afavorint joves compradors."
-    },
-    {
-      "title": "Brussel·les autoritza el mecanisme antiapagades espanyol amb ajudes milionàries a les elèctriques",
-      "link_id": "c_046828",
-      "source": "Ara.cat",
-      "date": "2026-05-29",
-      "time": "17:08",
-      "summary": "Brussel·les autoritza ajudes milionàries a les elèctriques per garantir estabilitat i evitar apagades."
+      "time": "13:00",
+      "summary": "Barcelona inaugura el tercer ordinador quàntic, impulsant la recerca europea en computació avançada."
     },
     {
       "title": "La nova eina catalana que vol predir inundacions gairebé en temps real",
@@ -65,7 +210,7 @@
       "source": "MetaData",
       "date": "2026-05-29",
       "time": "12:15",
-      "summary": "L'ACA i el BSC desenvolupen una plataforma que preveu inundacions en temps quasi real, protegint ciutats."
+      "summary": "L'ACA i el BSC desenvolupen una plataforma que avisa de possibles inundacions amb precisió quasi en temps real."
     },
     {
       "title": "La salut digital catalana acumula 419 empreses i supera els 650 milions d’euros de volum de negoci",
@@ -73,47 +218,47 @@
       "source": "MetaData",
       "date": "2026-05-28",
       "time": "15:45",
-      "summary": "La salut digital catalana supera 650 milions d'euros, amb 419 empreses impulsant IA i telemedicina."
+      "summary": "La salut digital catalana supera els 650 milions d'euros, amb 419 empreses que impulsen innovació en IA i telemedicina."
     },
     {
-      "title": "El govern espanyol aprova la seva primera llei d’IA: prohibició dels ‘deepfakes’ sexuals i multes de fins a 35 milions",
-      "link_id": "c_b3d0cf",
+      "title": "Els Premis Emprenedors Digitals 2026 reivindiquen la força de l’ecosistema tecnològic català",
+      "link_id": "c_0dc0bd",
       "source": "MetaData",
-      "date": "2026-05-27",
-      "time": "09:18",
-      "summary": "Espanya aprova la primera llei d'IA, prohibint deepfakes sexuals i imposant multes fins a 35 milions."
+      "date": "2026-06-01",
+      "time": "09:29",
+      "summary": "Els Premis Emprenedors Digitals 2026 reconeixen projectes catalans en IA, robòtica i sostenibilitat, reforçant l'ecosistema."
     },
     {
-      "title": "Anna Romeu, psicòloga: \"Un fill adolescent pot amagar aplicacions o esborrar l'historial, però la clau és que hi hagi confiança amb els pares sense por al càstig\"",
-      "link_id": "c_0538bb",
-      "source": "RAC1",
+      "title": "El BCE avisa de la bombolla de la IA: \"Els beneficis podrien deceure\"",
+      "link_id": "c_c7836f",
+      "source": "Ara.cat",
       "date": "2026-05-30",
-      "time": "08:00",
-      "summary": "Anna Romeu alerta sobre l'ús ocult d'aplicacions per adolescents, subratllant la necessitat de confiança parental."
+      "time": "17:00",
+      "summary": "El BCE alerta sobre una possible bombolla financera de la IA, advertint de riscos per al sector bancari europeu."
     },
     {
-      "title": "La banca privada s'avança al BCE i aviat llançarà una moneda digital per fer pagaments",
-      "link_id": "c_056058",
-      "source": "324.cat",
-      "date": "2026-05-31",
-      "time": "07:27",
-      "summary": "La banca privada catalana prepara una stablecoin vinculada a l'euro, avançant cap a pagaments digitals."
-    },
-    {
-      "title": "Sobirania digital europea, però de quina Europa?",
-      "link_id": "c_6e160d",
+      "title": "La intel·ligència artificial amenaçala ciberseguretat a velocitat mai vista",
+      "link_id": "c_84568f",
       "source": "La Vanguardia (en català)",
-      "date": "2026-05-31",
-      "time": "07:54",
-      "summary": "Debat sobre sobirania digital europea planteja una Europa tecnològicament independent de EE. UU. i Xina."
+      "date": "2026-06-01",
+      "time": "07:14",
+      "summary": "Experts adverteixen que la IA pot ser més fàcil d'utilitzar per atacar que per defensar, creant nous reptes."
     },
     {
-      "title": "Més calor aquest diumenge, abans de l’arribada d’un petit respir",
-      "link_id": "c_6d8789",
-      "source": "Betevé",
-      "date": "2026-05-30",
-      "time": "15:52",
-      "summary": "Previsió indica calor intens aquest diumenge a Barcelona, amb un petit respir esperat a la setmana."
+      "title": "La Xina acapara el 60% de les vendes de cotxes elèctrics al món",
+      "link_id": "c_6de16b",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-06-01",
+      "time": "06:37",
+      "summary": "La Xina domina el 60% del mercat mundial de cotxes elèctrics, pressionant les marques europees a reinventar-se."
+    },
+    {
+      "title": "Criptomonedes com a salari: experts adverteixen dels riscos laborals i fiscals",
+      "link_id": "c_1dabe6",
+      "source": "Segre",
+      "date": "2026-06-01",
+      "time": "11:24",
+      "summary": "Experts adverteixen que pagar salaris en criptomonedes exposa els treballadors a volatilitat i incerteses fiscals."
     }
   ]
 }

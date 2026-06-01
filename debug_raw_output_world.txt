@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-05-31T10:16",
+  "generated_at": "2026-06-01T12:23",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Meta està desenvolupant un penjoll d'IA, segons informes",
-      "link_id": "c_70af12",
-      "source": "TechCrunch",
-      "date": "2026-05-30",
-      "time": "15:59",
-      "summary": "El dispositiu busca integrar assistència d'IA personal a la roba, però planteja qüestions de privacitat."
+      "title": "NVIDIA presenta un nou xip que desafia Apple i Qualcomm",
+      "link_id": "c_cfc371",
+      "source": "Tom's Hardware",
+      "date": "2026-06-01",
+      "time": "09:26",
+      "summary": "El xip RTX Spark porta IA avançada a portàtils, promet rendiment superior i eficiència energètica."
     },
     {
-      "title": "Després de les ulleres intel·ligents, Meta vol que portis el seu penjoll d'IA que escolta tot",
-      "link_id": "c_b0d029",
-      "source": "Digital Trends",
-      "date": "2026-05-30",
-      "time": "12:31",
-      "summary": "El penjoll captura àudio constant per a assistència, generant preocupació sobre vigilància constant."
+      "title": "Dell XPS 13 apunta al MacBook Neo amb processador Wildcat Lake",
+      "link_id": "c_d2899d",
+      "source": "ZDNet",
+      "date": "2026-06-01",
+      "time": "09:00",
+      "summary": "L'XPS 13 ofereix pantalla OLED, preu estudiantil de 599 $, competint directament amb Apple."
     },
     {
-      "title": "Meta construeix un penjoll d'IA i planeja una subscripció empresarial Wearables for Work",
-      "link_id": "c_1c07a1",
+      "title": "Nvidia nombra Anthropic i OpenAI com a primers usuaris del xip Vera",
+      "link_id": "c_7f2f6f",
       "source": "The Next Web",
-      "date": "2026-05-30",
-      "time": "16:36",
-      "summary": "El penjoll podria ser una eina corporativa per a tasques automatitzades, ampliant l'ecosistema d'IoT empresarial."
+      "date": "2026-06-01",
+      "time": "07:36",
+      "summary": "El xip Vera suporta IA d'alt rendiment, reforçant la infraestructura de centres de dades."
     },
     {
-      "title": "SoftBank anuncia una inversió de fins a 75 000 milions d'euros per a centres de dades a França",
-      "link_id": "c_74c2fe",
-      "source": "TechCrunch",
-      "date": "2026-05-30",
-      "time": "21:45",
-      "summary": "L'objectiu és crear una infraestructura d'IA massiva a Europa, impulsant la competitivitat tecnològica francesa."
-    },
-    {
-      "title": "SoftBank planeja una inversió de fins a 75 000 milions d'euros en centres d'IA a França",
-      "link_id": "c_93831d",
-      "source": "Bloomberg",
-      "date": "2026-05-30",
-      "time": "18:55",
-      "summary": "L'inversió reforçarà la capacitat de càlcul d'IA del país, atraient empreses globals."
-    },
-    {
-      "title": "El geni de Netflix crea una aplicació per reduir les factures d'IA i la publica com a codi obert",
-      "link_id": "c_2ab588",
-      "source": "The Register",
-      "date": "2026-05-31",
-      "time": "07:00",
-      "summary": "L'eina ajuda empreses a optimitzar l'ús d'IA, reduint costos energètics i de computació."
-    },
-    {
-      "title": "Converteix fitxers de vídeo massius en clips compartibles en minuts amb VideoProc per 36 $",
-      "link_id": "c_974ce8",
-      "source": "PCWorld",
-      "date": "2026-05-31",
-      "time": "08:00",
-      "summary": "VideoProc simplifica l'edició ràpida, permetent crear fragments curts sense necessitat de programari avançat."
-    },
-    {
-      "title": "Obté una llicència completa de MS Office sense subscripció abans que acabi l'oferta de 30 $",
-      "link_id": "c_00ef43",
-      "source": "PCWorld",
-      "date": "2026-05-31",
-      "time": "08:00",
-      "summary": "L'oferta permet accedir a les aplicacions d'Office per un pagament únic, ideal per a freelancers."
-    },
-    {
-      "title": "Show HN: Komi-learn – memòria contínua i auto-millora per a agents de programació",
-      "link_id": "c_f7fd70",
-      "source": "Hacker News",
-      "date": "2026-05-31",
-      "time": "05:11",
-      "summary": "Komi-learn permet que els agents d'IA recordin tasques anteriors i s'adaptin millor a nous projectes."
-    },
-    {
-      "title": "Pistes i respostes d'NYT Strands per al 31 de maig #819",
-      "link_id": "c_d9cafa",
+      "title": "Les ulleres intel·ligents d'Apple es retarden fins a finals de 2027",
+      "link_id": "c_3b5400",
       "source": "CNET",
       "date": "2026-05-31",
-      "time": "04:40",
-      "summary": "El trencaclosques combina enginy i cultura, oferint pistes per resoldre l'enigma diari."
+      "time": "21:45",
+      "summary": "El llançament es posposa per perfeccionar la tecnologia i superar desafiaments de producció."
+    },
+    {
+      "title": "Unastella, startup sud-coreana de coets, recull 24 M $",
+      "link_id": "c_254cf3",
+      "source": "TechCrunch",
+      "date": "2026-06-01",
+      "time": "10:00",
+      "summary": "L'empresa desenvolupa llançadors i motors propis per a missions espacials independents."
+    },
+    {
+      "title": "Erin Brockovich denuncia la falta de transparència dels centres de dades",
+      "link_id": "c_00e34b",
+      "source": "TechCrunch",
+      "date": "2026-05-31",
+      "time": "21:05",
+      "summary": "L'activista denuncia pràctiques opaces i demana regulació per protegir la privacitat."
+    },
+    {
+      "title": "Fundadors negres aconsegueixen finançament trimestral màxim des del 2022",
+      "link_id": "c_c7f5ca",
+      "source": "TechCrunch",
+      "date": "2026-05-31",
+      "time": "15:00",
+      "summary": "Malgrat l'augment, encara hi ha barreres d'accés a xarxes i recursos inicials."
+    },
+    {
+      "title": "Debat sobre la psicopatia de la IA: quin és el veritable problema?",
+      "link_id": "c_3317aa",
+      "source": "TechCrunch",
+      "date": "2026-05-31",
+      "time": "15:30",
+      "summary": "Experts discuteixen si els CEOs són més propensos a patir trastorns d'IA."
+    },
+    {
+      "title": "La veritat dolorosa sobre el Covid llarg",
+      "link_id": "c_5d676a",
+      "source": "Wired",
+      "date": "2026-06-01",
+      "time": "10:00",
+      "summary": "Noves investigacions apunten a tractaments potencials, però la discussió encara és limitada."
+    },
+    {
+      "title": "Els llocs web ara poden espiar-te a través del disc dur",
+      "link_id": "c_19a84b",
+      "source": "Wired",
+      "date": "2026-06-01",
+      "time": "09:30",
+      "summary": "La tècnica FROST permet mesurar l'activitat SSD des del navegador amb JavaScript."
     }
   ]
 }
