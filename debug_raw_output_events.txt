@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T10:23",
+  "generated_at": "2026-06-02T09:30",
   "id": "events",
   "title": "Trobades",
   "sources_checked": [],
@@ -10,7 +10,7 @@
       "source": "GDG Barcelona",
       "date": "2026-05-22",
       "time": "14:34",
-      "summary": "Descobreix com la IA pot transformar la identitat vocal i explorar espais latents en aquesta presentació interactiva."
+      "summary": "Descobreix com la IA pot transformar la identitat vocal i crear nous espais sonors en l'exposició Expanded Voices."
     },
     {
       "title": "Beyond Chatbots: What Claude Code & Cowork Can Do For Your Business [1 of 2]",
@@ -18,7 +18,7 @@
       "source": "AI Professionals Barcelona",
       "date": "2026-05-31",
       "time": "20:35",
-      "summary": "Aprèn a crear SOPs intel·ligents amb Claude Code, automatitzant processos sense necessitat de programació."
+      "summary": "Aprèn a automatitzar processos empresarials amb Claude Code, convertint SOPs manuals en eines intel·ligents sense programació."
     },
     {
       "title": "Beyond Chatbots: What Claude Code & Cowork Can Do For Your Business [2 of 2]",
@@ -26,7 +26,7 @@
       "source": "AI Professionals Barcelona",
       "date": "2026-06-01",
       "time": "00:03",
-      "summary": "Construeix un agent autònom que gestiona la incorporació de clients, enviant correus i creant carpetes automàticament."
+      "summary": "Construeix un agent autònom que gestiona la incorporació de clients, enviant correus i creant tasques automàticament."
     },
     {
       "title": "BuildStream and KDE",
@@ -34,7 +34,7 @@
       "source": "Free Software Barcelona",
       "date": "2026-05-31",
       "time": "08:49",
-      "summary": "Explora BuildStream per construir sistemes operatius i descobreix la seva integració amb KDE."
+      "summary": "Explora BuildStream com a eina per construir sistemes operatius i contribucions KDE, amb demostracions pràctiques."
     }
   ]
 }

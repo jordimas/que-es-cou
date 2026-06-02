@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T12:00",
+  "generated_at": "2026-06-02T09:11",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
@@ -16,12 +16,12 @@
     {
       "name": "RAC1",
       "url": "https://www.rac1.cat/rss/home.xml",
-      "articles_found": 0
+      "articles_found": 2
     },
     {
       "name": "La Vanguardia (en català)",
       "url": "https://www.lavanguardia.com/rss/encatala.xml",
-      "articles_found": 2
+      "articles_found": 0
     },
     {
       "name": "VilaWeb",
@@ -36,6 +36,81 @@
     {
       "name": "324.cat",
       "url": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0",
+      "articles_found": 0
+    },
+    {
+      "name": "Softcatalà",
+      "url": "https://www.softcatala.org/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "El Nacional.cat",
+      "url": "https://www.elnacional.cat/uploads/feeds/feed_ca.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "El Mon.cat",
+      "url": "https://www.elmon.cat/feed/",
+      "articles_found": 1
+    },
+    {
+      "name": "El Mon.cat Tecnologia",
+      "url": "https://elmon.cat/tecnologia/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "El Mon.cat Societat",
+      "url": "https://elmon.cat/societat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "Betevé",
+      "url": "https://beteve.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/barcelona.feed?type=rss",
+      "articles_found": 0
+    },
+    {
+      "name": "Segre",
+      "url": "https://www.segre.com/ca/rss/home.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "Regio7",
+      "url": "https://www.regio7.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Diari d'Andorra",
+      "url": "https://www.diariandorra.ad/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Bon Dia Andorra",
+      "url": "https://www.bondia.ad/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Altaveu",
+      "url": "https://www.altaveu.com/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Nuvol",
+      "url": "https://www.nuvol.com/feed",
+      "articles_found": 0
+    },
+    {
+      "name": "Diari Mes",
+      "url": "https://www.diarimes.com/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Directe.cat",
+      "url": "https://www.directe.cat/?feed=rss2",
       "articles_found": 0
     },
     {
@@ -126,7 +201,7 @@
     {
       "name": "Via Empresa",
       "url": "https://www.viaempresa.cat/uploads/feeds/feed_via-empresa-2024_ca.xml",
-      "articles_found": 2
+      "articles_found": 0
     },
     {
       "name": "Lúdica",
@@ -137,72 +212,64 @@
       "name": "Accent Obert",
       "url": "https://accentobert.cat/feed/",
       "articles_found": 0
-    },
-    {
-      "name": "Segre",
-      "url": "https://www.segre.com/ca/rss/home.xml",
-      "articles_found": 1
-    },
-    {
-      "name": "Regio7",
-      "url": "https://www.regio7.cat/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Diari d'Andorra",
-      "url": "https://www.diariandorra.ad/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Bon Dia Andorra",
-      "url": "https://www.bondia.ad/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Altaveu",
-      "url": "https://www.altaveu.com/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Nuvol",
-      "url": "https://www.nuvol.com/feed",
-      "articles_found": 0
-    },
-    {
-      "name": "Diari Mes",
-      "url": "https://www.diarimes.com/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Directe.cat",
-      "url": "https://www.directe.cat/?feed=rss2",
-      "articles_found": 0
     }
   ],
   "articles": [
     {
-      "title": "Fluidra compra la plataforma de gestió de dades de piscines Datapool",
-      "link_id": "c_aba83f",
-      "source": "Via Empresa",
-      "date": "2026-06-01",
-      "time": "12:11",
-      "summary": "Fluidra adquireix Datapool per optimitzar gestió de piscines i reduir costos operatius amb dades en temps real."
+      "title": "Barcelona incorpora el seu tercer ordinador quàntic i reforça la seva aposta per la sobirania tecnològica europea",
+      "link_id": "c_2e5f0a",
+      "source": "MetaData",
+      "date": "2026-06-02",
+      "time": "08:50",
+      "summary": "Barcelona consolida la seva posició com a pionera europea amb el tercer ordinador quàntic integrat al MareNostrum 5."
     },
     {
-      "title": "Catalunya concentra més de la meitat dels ingressos del videojoc mòbil a l'Estat, de 722 milions",
-      "link_id": "c_e02966",
-      "source": "Via Empresa",
+      "title": "Catalunya lidera el videojoc mòbil a l’Estat en un mercat que ja mou més de 91.000 milions d’euros",
+      "link_id": "c_ba4267",
+      "source": "MetaData",
       "date": "2026-06-01",
-      "time": "10:27",
-      "summary": "Catalunya lidera el mercat mundial del videojoc mòbil, generant més de la meitat dels ingressos globals."
+      "time": "16:10",
+      "summary": "Catalunya esdevé hub clau del videojoc mòbil, generant més de la meitat dels ingressos globals del sector."
     },
     {
-      "title": "El superordinador de Barcelona fa un salt amb la inauguració d’un tercer ordinador quàntic de 9,8 milions d’euros",
-      "link_id": "c_63c32b",
+      "title": "\"Tenim un robot humanoide amigable i que parla\"",
+      "link_id": "c_f52307",
+      "source": "Ara.cat",
+      "date": "2026-06-01",
+      "time": "05:00",
+      "summary": "Un robot humanoide amigable, desenvolupat a Barcelona, pot interactuar i aprendre del comportament humà."
+    },
+    {
+      "title": "Fluidra adquireix Datapool per a liderar la digitalització i eficiència en el sector de les piscines",
+      "link_id": "c_8874d9",
+      "source": "El Mon.cat",
+      "date": "2026-06-01",
+      "time": "15:51",
+      "summary": "Fluidra compra Datapool per digitalitzar piscines, millorant eficiència energètica i reduint consum d’aigua."
+    },
+    {
+      "title": "El Gelocatil deixa de ser català: la farmacèutica Ferrer ven aquest fàrmac a la francesa Cooper",
+      "link_id": "c_0c46c9",
+      "source": "RAC1",
+      "date": "2026-06-01",
+      "time": "20:00",
+      "summary": "Ferrer ven Gelocatil, deixant el mercat català i enfocant-se en tractaments de malalties rares."
+    },
+    {
+      "title": "El mòbil que ha conquerit Leticia Dolera s'ha gestat a Barcelona: \"No venem mòbils, venem temps\", diuen els creadors",
+      "link_id": "c_a02344",
+      "source": "RAC1",
+      "date": "2026-06-01",
+      "time": "17:36",
+      "summary": "Balance Phone, dissenyat a Barcelona, elimina continguts addictius, reduint tres hores d'ús diari."
+    },
+    {
+      "title": "Anthropic frega el bilió de dòlars i desbanca OpenAI com la start-up’ més valuosa del món",
+      "link_id": "c_e66d29",
       "source": "El Periódico",
-      "date": "2026-05-28",
-      "time": "13:00",
-      "summary": "Barcelona inaugura el tercer ordinador quàntic, impulsant la recerca europea en computació avançada."
+      "date": "2026-05-29",
+      "time": "10:21",
+      "summary": "Anthropic supera el bilió de dòlars, convertint-se en la start-up d'IA més valuosa del món."
     },
     {
       "title": "La nova eina catalana que vol predir inundacions gairebé en temps real",
@@ -210,55 +277,7 @@
       "source": "MetaData",
       "date": "2026-05-29",
       "time": "12:15",
-      "summary": "L'ACA i el BSC desenvolupen una plataforma que avisa de possibles inundacions amb precisió quasi en temps real."
-    },
-    {
-      "title": "La salut digital catalana acumula 419 empreses i supera els 650 milions d’euros de volum de negoci",
-      "link_id": "c_1222c0",
-      "source": "MetaData",
-      "date": "2026-05-28",
-      "time": "15:45",
-      "summary": "La salut digital catalana supera els 650 milions d'euros, amb 419 empreses que impulsen innovació en IA i telemedicina."
-    },
-    {
-      "title": "Els Premis Emprenedors Digitals 2026 reivindiquen la força de l’ecosistema tecnològic català",
-      "link_id": "c_0dc0bd",
-      "source": "MetaData",
-      "date": "2026-06-01",
-      "time": "09:29",
-      "summary": "Els Premis Emprenedors Digitals 2026 reconeixen projectes catalans en IA, robòtica i sostenibilitat, reforçant l'ecosistema."
-    },
-    {
-      "title": "El BCE avisa de la bombolla de la IA: \"Els beneficis podrien deceure\"",
-      "link_id": "c_c7836f",
-      "source": "Ara.cat",
-      "date": "2026-05-30",
-      "time": "17:00",
-      "summary": "El BCE alerta sobre una possible bombolla financera de la IA, advertint de riscos per al sector bancari europeu."
-    },
-    {
-      "title": "La intel·ligència artificial amenaçala ciberseguretat a velocitat mai vista",
-      "link_id": "c_84568f",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-06-01",
-      "time": "07:14",
-      "summary": "Experts adverteixen que la IA pot ser més fàcil d'utilitzar per atacar que per defensar, creant nous reptes."
-    },
-    {
-      "title": "La Xina acapara el 60% de les vendes de cotxes elèctrics al món",
-      "link_id": "c_6de16b",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-06-01",
-      "time": "06:37",
-      "summary": "La Xina domina el 60% del mercat mundial de cotxes elèctrics, pressionant les marques europees a reinventar-se."
-    },
-    {
-      "title": "Criptomonedes com a salari: experts adverteixen dels riscos laborals i fiscals",
-      "link_id": "c_1dabe6",
-      "source": "Segre",
-      "date": "2026-06-01",
-      "time": "11:24",
-      "summary": "Experts adverteixen que pagar salaris en criptomonedes exposa els treballadors a volatilitat i incerteses fiscals."
+      "summary": "L'ACA i el BSC desenvolupen una plataforma que anticipa inundacions amb dades de 30 anys."
     }
   ]
 }

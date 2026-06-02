@@ -5,253 +5,237 @@
     <link>https://jordimas.github.io/que-es-cou/</link>
     <description>Notícies de tecnologia en català, actualitzades cada 4 hores.</description>
     <language>ca</language>
-    <lastBuildDate>2026-06-01T12:23</lastBuildDate>
+    <lastBuildDate>2026-06-02T11:11</lastBuildDate>
     <atom:link href="https://jordimas.github.io/que-es-cou/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>NVIDIA presenta un nou xip que desafia Apple i Qualcomm</title>
-      <link>https://www.androidauthority.com/nvidia-rtx-spark-unveiled-3673035/</link>
-      <guid isPermaLink="true">https://www.androidauthority.com/nvidia-rtx-spark-unveiled-3673035/</guid>
-      <description>El xip RTX Spark porta IA avançada a portàtils, promet rendiment superior i eficiència energètica.</description>
+      <title>Anthropic supera OpenAI en la cursa d'alta aposta per a les riqueses de la OPI</title>
+      <link>https://www.bloomberg.com/news/articles/2026-06-01/anthropic-s-first-mover-ipo-edge-set-to-widen-lead-over-openai</link>
+      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-06-01/anthropic-s-first-mover-ipo-edge-set-to-widen-lead-over-openai</guid>
+      <description>Anthropic avança sobre OpenAI, buscant liderar el mercat d'IA amb una OPI imminent.</description>
+      <author>Bloomberg Technology</author>
+      <pubDate>2026-06-01</pubDate>
+    </item>
+    <item>
+      <title>Nvidia perssegueix el mercat de CPU de 200 000 milions de dòlars amb PCs d'agents d'IA de Microsoft, Dell i HP</title>
+      <link>https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/</guid>
+      <description>Nvidia apunta al mercat de CPU amb ordinadors d'IA de Microsoft, Dell i HP, valorats en 200 000 milions.</description>
+      <author>TechCrunch</author>
+      <pubDate>2026-06-01</pubDate>
+    </item>
+    <item>
+      <title>Anthropic presenta confidencialment una oferta pública inicial al mercat borsari dels EUA</title>
+      <link>https://www.theguardian.com/technology/2026/jun/01/anthropic-ai-ipo</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/jun/01/anthropic-ai-ipo</guid>
+      <description>Anthropic presenta confidencialment la seva OPI als EUA, buscant finançament per a models d'IA avançats.</description>
+      <author>The Guardian Tech</author>
+      <pubDate>2026-06-01</pubDate>
+    </item>
+    <item>
+      <title>Anthropic presenta la OPI — el creador de Claude competeix amb OpenAI i SpaceX a Wall Street</title>
+      <link>https://www.wired.com/story/anthropic-files-s1-ipo-sec/</link>
+      <guid isPermaLink="true">https://www.wired.com/story/anthropic-files-s1-ipo-sec/</guid>
+      <description>Claude, creat per Anthropic, competeix amb OpenAI i SpaceX per atraure inversors a Wall Street.</description>
+      <author>Wired</author>
+      <pubDate>2026-06-01</pubDate>
+    </item>
+    <item>
+      <title>Anthropic ha presentat oficialment la sol·licitud per a cotitzar en borsa</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/941016/anthropic-has-officially-filed-to-go-public</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/941016/anthropic-has-officially-filed-to-go-public</guid>
+      <description>Anthropic ha formalitzat la sol·licitud per cotitzar, marcant un pas clau en el sector d'IA.</description>
+      <author>The Verge</author>
+      <pubDate>2026-06-01</pubDate>
+    </item>
+    <item>
+      <title>Anthropic presenta la sol·licitud per a cotitzar — i què rep cada empresa independentment</title>
+      <link>https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/</guid>
+      <description>Anthropic busca una OPI, destacant que totes les empreses reben beneficis independents del seu tamany.</description>
+      <author>TechCrunch</author>
+      <pubDate>2026-06-01</pubDate>
+    </item>
+    <item>
+      <title>Els nous superxips Grace Blackwell de Nvidia arriben oficialment als PC amb portàtils RTX Spark</title>
+      <link>https://www.theregister.com/systems/2026/06/01/nvidia-recasts-gb10-superchip-in-bid-for-high-end-pc-market/5249068</link>
+      <guid isPermaLink="true">https://www.theregister.com/systems/2026/06/01/nvidia-recasts-gb10-superchip-in-bid-for-high-end-pc-market/5249068</guid>
+      <description>Els nous superxips Grace Blackwell de Nvidia s'integren en portàtils RTX Spark, millorant rendiment d'IA.</description>
+      <author>The Register</author>
+      <pubDate>2026-06-01</pubDate>
+    </item>
+    <item>
+      <title>Nvidia llança un ‘superxip’ que aporta poder d'IA a portàtils i PC</title>
+      <link>https://www.theguardian.com/technology/2026/jun/01/nvidia-launches-chip-ai-laptops-pc-rtx-spark-microsoft-windows</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/jun/01/nvidia-launches-chip-ai-laptops-pc-rtx-spark-microsoft-windows</guid>
+      <description>Nvidia llança un superxip que porta capacitats d'IA avançada a ordinadors personals.</description>
+      <author>Bloomberg Technology</author>
+      <pubDate>2026-06-01</pubDate>
+    </item>
+    <item>
+      <title>NVIDIA anuncia el superxip RTX Spark per a portàtils i escriptoris</title>
+      <link>https://www.phoronix.com/news/NVIDIA-RTX-Spark</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/NVIDIA-RTX-Spark</guid>
+      <description>El superxip RTX Spark ofereix potència d'IA per a portàtils i escriptoris, impulsant noves aplicacions.</description>
+      <author>Phoronix</author>
+      <pubDate>2026-06-01</pubDate>
+    </item>
+    <item>
+      <title>Nvidia presenta el superxip RTX Spark per a portàtils i PC d'escriptori a Computex 2026 — la nova plataforma promet convertir Windows en un sistema operatiu d'IA agentic</title>
+      <link>https://www.tomshardware.com/laptops/nvidia-unveils-rtx-spark-superchip-at-computex-2026-new-platform-promises-to-turn-windows-into-an-agentic-ai-os-with-arm-cpu-blackwell-gpu-and-128gb-unified-memory</link>
+      <guid isPermaLink="true">https://www.tomshardware.com/laptops/nvidia-unveils-rtx-spark-superchip-at-computex-2026-new-platform-promises-to-turn-windows-into-an-agentic-ai-os-with-arm-cpu-blackwell-gpu-and-128gb-unified-memory</guid>
+      <description>RTX Spark de Nvidia promet transformar Windows en un sistema operatiu amb IA agentica per a tots els usuaris.</description>
       <author>Tom's Hardware</author>
       <pubDate>2026-06-01</pubDate>
     </item>
     <item>
-      <title>Dell XPS 13 apunta al MacBook Neo amb processador Wildcat Lake</title>
-      <link>https://www.zdnet.com/article/why-i-use-wireless-security-cameras-at-home-versus-wired/</link>
-      <guid isPermaLink="true">https://www.zdnet.com/article/why-i-use-wireless-security-cameras-at-home-versus-wired/</guid>
-      <description>L'XPS 13 ofereix pantalla OLED, preu estudiantil de 599 $, competint directament amb Apple.</description>
-      <author>ZDNet</author>
-      <pubDate>2026-06-01</pubDate>
-    </item>
-    <item>
-      <title>Nvidia nombra Anthropic i OpenAI com a primers usuaris del xip Vera</title>
-      <link>https://thenextweb.com/news/nvidia-vera-chip-anthropic-openai</link>
-      <guid isPermaLink="true">https://thenextweb.com/news/nvidia-vera-chip-anthropic-openai</guid>
-      <description>El xip Vera suporta IA d'alt rendiment, reforçant la infraestructura de centres de dades.</description>
-      <author>The Next Web</author>
-      <pubDate>2026-06-01</pubDate>
-    </item>
-    <item>
-      <title>Les ulleres intel·ligents d'Apple es retarden fins a finals de 2027</title>
-      <link>https://www.cnet.com/tech/apples-smart-glasses-reportedly-delayed-until-late-2027/</link>
-      <guid isPermaLink="true">https://www.cnet.com/tech/apples-smart-glasses-reportedly-delayed-until-late-2027/</guid>
-      <description>El llançament es posposa per perfeccionar la tecnologia i superar desafiaments de producció.</description>
-      <author>CNET</author>
-      <pubDate>2026-05-31</pubDate>
-    </item>
-    <item>
-      <title>Unastella, startup sud-coreana de coets, recull 24 M $</title>
-      <link>https://techcrunch.com/2026/06/01/unastella-a-south-korean-rocket-startup-that-launched-from-home-raises-24m/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/01/unastella-a-south-korean-rocket-startup-that-launched-from-home-raises-24m/</guid>
-      <description>L'empresa desenvolupa llançadors i motors propis per a missions espacials independents.</description>
-      <author>TechCrunch</author>
-      <pubDate>2026-06-01</pubDate>
-    </item>
-    <item>
-      <title>Erin Brockovich denuncia la falta de transparència dels centres de dades</title>
-      <link>https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/</guid>
-      <description>L'activista denuncia pràctiques opaces i demana regulació per protegir la privacitat.</description>
-      <author>TechCrunch</author>
-      <pubDate>2026-05-31</pubDate>
-    </item>
-    <item>
-      <title>Fundadors negres aconsegueixen finançament trimestral màxim des del 2022</title>
-      <link>https://techcrunch.com/2026/05/31/black-founders-raise-highest-amount-of-quarterly-funding-since-2022-but-theres-a-catch/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/05/31/black-founders-raise-highest-amount-of-quarterly-funding-since-2022-but-theres-a-catch/</guid>
-      <description>Malgrat l'augment, encara hi ha barreres d'accés a xarxes i recursos inicials.</description>
-      <author>TechCrunch</author>
-      <pubDate>2026-05-31</pubDate>
-    </item>
-    <item>
-      <title>Debat sobre la psicopatia de la IA: quin és el veritable problema?</title>
-      <link>https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/</guid>
-      <description>Experts discuteixen si els CEOs són més propensos a patir trastorns d'IA.</description>
-      <author>TechCrunch</author>
-      <pubDate>2026-05-31</pubDate>
-    </item>
-    <item>
-      <title>La veritat dolorosa sobre el Covid llarg</title>
-      <link>https://www.wired.com/story/the-painful-truth-about-long-covid/</link>
-      <guid isPermaLink="true">https://www.wired.com/story/the-painful-truth-about-long-covid/</guid>
-      <description>Noves investigacions apunten a tractaments potencials, però la discussió encara és limitada.</description>
-      <author>Wired</author>
-      <pubDate>2026-06-01</pubDate>
-    </item>
-    <item>
-      <title>Els llocs web ara poden espiar-te a través del disc dur</title>
-      <link>https://www.wired.com/story/websites-can-now-spy-on-you-through-your-hard-drive/</link>
-      <guid isPermaLink="true">https://www.wired.com/story/websites-can-now-spy-on-you-through-your-hard-drive/</guid>
-      <description>La tècnica FROST permet mesurar l'activitat SSD des del navegador amb JavaScript.</description>
-      <author>Wired</author>
-      <pubDate>2026-06-01</pubDate>
-    </item>
-    <item>
-      <title>Nvidia presenta el 'superxip' per a PC en un repte a Apple i Intel</title>
-      <link>https://www.ft.com/content/58f984fd-d90b-4e8e-95b0-987a97c4a522</link>
-      <guid isPermaLink="true">https://www.ft.com/content/58f984fd-d90b-4e8e-95b0-987a97c4a522</guid>
-      <description>Nvidia llança un xip PC basat en ARM, competint directament amb Apple i Intel en rendiment IA.</description>
+      <title>Alphabet ven 80 000 milions de dòlars en accions per finançar la seva despesa d'IA</title>
+      <link>https://www.ft.com/content/341f151b-f472-4530-8579-d4b803519257</link>
+      <guid isPermaLink="true">https://www.ft.com/content/341f151b-f472-4530-8579-d4b803519257</guid>
+      <description>Alphabet busca finançar la seva expansió d'IA venent accions per un valor de 80 000 milions de dòlars.</description>
       <author>Financial Times</author>
       <pubDate>2026-06-01</pubDate>
     </item>
     <item>
-      <title>El grup de capital privat francès Ardian avalua una 'gigafàbrica' d'IA de 5 000 milions d'euros a les afores de París</title>
-      <link>https://www.ft.com/content/6756ca48-212a-40f6-bf8f-c07d21bd856c</link>
-      <guid isPermaLink="true">https://www.ft.com/content/6756ca48-212a-40f6-bf8f-c07d21bd856c</guid>
-      <description>Ardian impulsa una fàbrica d'IA de gran escala a prop de París, reforçant la infraestructura europea.</description>
-      <author>Financial Times</author>
-      <pubDate>2026-06-01</pubDate>
-    </item>
-    <item>
-      <title>Empresa d'IA de 5 000 milions de dòlars, recolzada per Nvidia, anuncia una gran expansió a Londres</title>
-      <link>https://www.cnbc.com/2026/06/01/nvidia-backed-runway-london-expansion.html</link>
-      <guid isPermaLink="true">https://www.cnbc.com/2026/06/01/nvidia-backed-runway-london-expansion.html</guid>
-      <description>L'empresa d'IA recolzada per Nvidia amplia la seva presència a Londres amb noves instal·lacions.</description>
+      <title>Alphabet planeja recaptar 80 000 milions de dòlars amb vendes d'accions per impulsar l'IA</title>
+      <link>https://www.cnbc.com/2026/06/01/alphabet-to-raise-80-billion-from-stock-sales-to-fund-ai-buildout.html</link>
+      <guid isPermaLink="true">https://www.cnbc.com/2026/06/01/alphabet-to-raise-80-billion-from-stock-sales-to-fund-ai-buildout.html</guid>
+      <description>L'empresa pretén recaptar 80 000 milions venent accions per impulsar projectes d'intel·ligència artificial.</description>
       <author>CNBC Technology</author>
       <pubDate>2026-06-01</pubDate>
     </item>
     <item>
-      <title>Nvidia tria Unitree per a la plataforma de robots humanoides mentre la startup xinesa apunta a una OPI</title>
-      <link>https://www.cnbc.com/2026/06/01/nvidia-unitree-humanoid-robotics-system-researchers.html</link>
-      <guid isPermaLink="true">https://www.cnbc.com/2026/06/01/nvidia-unitree-humanoid-robotics-system-researchers.html</guid>
-      <description>Nvidia col·labora amb Unitree per desenvolupar robots humanoides, mentre la startup busca cotitzar en borsa.</description>
+      <title>Les accions de HPE pujaren un 37 % gràcies a la gran demanda d'infraestructura d'IA</title>
+      <link>https://www.ft.com/content/3ddf001d-d7f6-40f1-8fe4-1cc577868da0</link>
+      <guid isPermaLink="true">https://www.ft.com/content/3ddf001d-d7f6-40f1-8fe4-1cc577868da0</guid>
+      <description>La demanda d'infraestructura d'IA impulsa un augment del 37 % en el preu de les accions de HPE.</description>
+      <author>Financial Times</author>
+      <pubDate>2026-06-01</pubDate>
+    </item>
+    <item>
+      <title>HPE s'enlaira un 30 % després del millor resultat des del 2018</title>
+      <link>https://www.cnbc.com/2026/06/01/hpe-stock-earnings-q2.html</link>
+      <guid isPermaLink="true">https://www.cnbc.com/2026/06/01/hpe-stock-earnings-q2.html</guid>
+      <description>Després del millor resultat des del 2018, HPE experimenta un augment del 30 % en les seves accions.</description>
       <author>CNBC Technology</author>
       <pubDate>2026-06-01</pubDate>
     </item>
     <item>
-      <title>IA i PIB real: quina magnitud i a quina velocitat?</title>
-      <link>https://www.ft.com/content/e9079a98-fcdb-4041-960c-cf84cf3e1b7c</link>
-      <guid isPermaLink="true">https://www.ft.com/content/e9079a98-fcdb-4041-960c-cf84cf3e1b7c</guid>
-      <description>Analitza com l'IA pot augmentar el PIB real i la velocitat del creixement econòmic.</description>
+      <title>Anthropic presenta confidencialment el prospecte d'IPO a la SEC, preparant Wall Street per a un acord d'IA històric</title>
+      <link>https://www.cnbc.com/2026/06/01/anthropic-ipo-s1-prospectus.html</link>
+      <guid isPermaLink="true">https://www.cnbc.com/2026/06/01/anthropic-ipo-s1-prospectus.html</guid>
+      <description>Anthropic presenta confidencialment el seu prospecte d'IPO, indicant una possible operació d'IA sense precedents.</description>
+      <author>CNBC Technology</author>
+      <pubDate>2026-06-01</pubDate>
+    </item>
+    <item>
+      <title>Anthropic oferirà a la UE accés al seu avançat model Mythos</title>
+      <link>https://www.cnbc.com/2026/06/01/anthropic-eu-ai-mythos-access-advanced-model.html</link>
+      <guid isPermaLink="true">https://www.cnbc.com/2026/06/01/anthropic-eu-ai-mythos-access-advanced-model.html</guid>
+      <description>Anthropic permetrà a la Unió Europea utilitzar el model avançat Mythos per a aplicacions d'IA.</description>
+      <author>CNBC Technology</author>
+      <pubDate>2026-06-01</pubDate>
+    </item>
+    <item>
+      <title>Anthropic sol·licita una oferta pública inicial de gran magnitud</title>
+      <link>https://www.ft.com/content/4f82f41c-24e7-4323-899a-17a04badd29e</link>
+      <guid isPermaLink="true">https://www.ft.com/content/4f82f41c-24e7-4323-899a-17a04badd29e</guid>
+      <description>Anthropic demana una oferta pública inicial, buscant capital per expandir les seves tecnologies d'IA.</description>
       <author>Financial Times</author>
       <pubDate>2026-06-01</pubDate>
     </item>
     <item>
-      <title>Intel busca avançar en la cursa de la IA</title>
-      <link>https://www.ft.com/content/1f12cfe2-d1b8-4987-bc39-83aa4e04b6f4</link>
-      <guid isPermaLink="true">https://www.ft.com/content/1f12cfe2-d1b8-4987-bc39-83aa4e04b6f4</guid>
-      <description>Intel vol millorar les seves capacitats d'IA per recuperar lideratge en el mercat de xips.</description>
+      <title>Anthropic ofereix a la UE accés a Mythos</title>
+      <link>https://www.ft.com/content/f88d62e3-5b67-4aed-ad69-6f38b62559b3</link>
+      <guid isPermaLink="true">https://www.ft.com/content/f88d62e3-5b67-4aed-ad69-6f38b62559b3</guid>
+      <description>Anthropic ofereix a la UE accés al model d'IA Mythos, reforçant la cooperació tecnològica.</description>
       <author>Financial Times</author>
       <pubDate>2026-06-01</pubDate>
     </item>
     <item>
-      <title>Intel apunta a un nou xip d'IA per a centres de dades abans de final d'any</title>
-      <link>https://www.ft.com/content/3ca15070-c1c7-4ec2-9598-e36b7de47bc0</link>
-      <guid isPermaLink="true">https://www.ft.com/content/3ca15070-c1c7-4ec2-9598-e36b7de47bc0</guid>
-      <description>Intel planeja llançar un nou xip d'IA per a centres de dades abans del final de l'any.</description>
+      <title>Tencent s'acosta al llançament d'un agent d'IA per a l'aplicació més utilitzada a la Xina</title>
+      <link>https://www.ft.com/content/0030504e-6f65-445c-9379-7b75924051c6</link>
+      <guid isPermaLink="true">https://www.ft.com/content/0030504e-6f65-445c-9379-7b75924051c6</guid>
+      <description>Tencent avança cap al llançament d'un agent d'IA integrat a WeChat, la seva app més popular.</description>
       <author>Financial Times</author>
-      <pubDate>2026-06-01</pubDate>
+      <pubDate>2026-06-02</pubDate>
     </item>
     <item>
-      <title>Operació Jailbreak: lliçons d'Ucraïna sobre com fer que les armes es comuniquin</title>
-      <link>https://www.ft.com/content/1699e348-02d5-491a-9924-1d5914d540f7</link>
-      <guid isPermaLink="true">https://www.ft.com/content/1699e348-02d5-491a-9924-1d5914d540f7</guid>
-      <description>Operació Jailbreak mostra com la IA pot millorar la interoperabilitat d'armes en conflictes moderns.</description>
+      <title>Acabarà mai la caiguda del preu de les accions de consultoria informàtica?</title>
+      <link>https://www.ft.com/content/17bf8aa3-c5f7-4cd3-a67e-8de580509525</link>
+      <guid isPermaLink="true">https://www.ft.com/content/17bf8aa3-c5f7-4cd3-a67e-8de580509525</guid>
+      <description>Analistes dubten si la caiguda del preu de les accions de consultoria IT s'aturarà aviat.</description>
       <author>Financial Times</author>
-      <pubDate>2026-05-31</pubDate>
+      <pubDate>2026-06-02</pubDate>
     </item>
     <item>
-      <title>Fluidra compra la plataforma de gestió de dades de piscines Datapool</title>
-      <link>https://www.viaempresa.cat/empresa/fluidra-compra-plataforma-gestio-dades-piscines-datapool_2235658_102.html</link>
-      <guid isPermaLink="true">https://www.viaempresa.cat/empresa/fluidra-compra-plataforma-gestio-dades-piscines-datapool_2235658_102.html</guid>
-      <description>Fluidra adquireix Datapool per optimitzar gestió de piscines i reduir costos operatius amb dades en temps real.</description>
-      <author>Via Empresa</author>
+      <title>Barcelona incorpora el seu tercer ordinador quàntic i reforça la seva aposta per la sobirania tecnològica europea</title>
+      <link>https://www.metadata.cat/noticia/6348/barcelona-tercer-ordinador-quantic-aposta-sobirania-tecnologica</link>
+      <guid isPermaLink="true">https://www.metadata.cat/noticia/6348/barcelona-tercer-ordinador-quantic-aposta-sobirania-tecnologica</guid>
+      <description>Barcelona consolida la seva posició com a pionera europea amb el tercer ordinador quàntic integrat al MareNostrum 5.</description>
+      <author>MetaData</author>
+      <pubDate>2026-06-02</pubDate>
+    </item>
+    <item>
+      <title>Catalunya lidera el videojoc mòbil a l’Estat en un mercat que ja mou més de 91.000 milions d’euros</title>
+      <link>https://www.metadata.cat/noticia/6346/catalunya-lidera-videojoc-mobil-estat-mercat-91000-milions-euros</link>
+      <guid isPermaLink="true">https://www.metadata.cat/noticia/6346/catalunya-lidera-videojoc-mobil-estat-mercat-91000-milions-euros</guid>
+      <description>Catalunya esdevé hub clau del videojoc mòbil, generant més de la meitat dels ingressos globals del sector.</description>
+      <author>MetaData</author>
       <pubDate>2026-06-01</pubDate>
     </item>
     <item>
-      <title>Catalunya concentra més de la meitat dels ingressos del videojoc mòbil a l'Estat, de 722 milions</title>
-      <link>https://www.viaempresa.cat/economia/catalunya-concentra-mes-meitat-ingressos-videojoc-mobil-estat-722-milions_2235641_102.html</link>
-      <guid isPermaLink="true">https://www.viaempresa.cat/economia/catalunya-concentra-mes-meitat-ingressos-videojoc-mobil-estat-722-milions_2235641_102.html</guid>
-      <description>Catalunya lidera el mercat mundial del videojoc mòbil, generant més de la meitat dels ingressos globals.</description>
-      <author>Via Empresa</author>
+      <title>"Tenim un robot humanoide amigable i que parla"</title>
+      <link>https://www.ara.cat/ciencia-medi-ambient/neurociencia/robot-humanoide-amigable-parla_128_5751882.html</link>
+      <guid isPermaLink="true">https://www.ara.cat/ciencia-medi-ambient/neurociencia/robot-humanoide-amigable-parla_128_5751882.html</guid>
+      <description>Un robot humanoide amigable, desenvolupat a Barcelona, pot interactuar i aprendre del comportament humà.</description>
+      <author>Ara.cat</author>
       <pubDate>2026-06-01</pubDate>
     </item>
     <item>
-      <title>El superordinador de Barcelona fa un salt amb la inauguració d’un tercer ordinador quàntic de 9,8 milions d’euros</title>
-      <link>https://www.elperiodico.cat/ca/tecnologia/20260528/bsc-inaugura-tercer-ordinador-quantic-barcelona-ciencia-130712615?utm_source=rss-noticias&amp;amp;utm_medium=feed&amp;amp;utm_campaign=tecnologia</link>
-      <guid isPermaLink="true">https://www.elperiodico.cat/ca/tecnologia/20260528/bsc-inaugura-tercer-ordinador-quantic-barcelona-ciencia-130712615?utm_source=rss-noticias&amp;amp;utm_medium=feed&amp;amp;utm_campaign=tecnologia</guid>
-      <description>Barcelona inaugura el tercer ordinador quàntic, impulsant la recerca europea en computació avançada.</description>
+      <title>Fluidra adquireix Datapool per a liderar la digitalització i eficiència en el sector de les piscines</title>
+      <link>https://elmon.cat/general/fluidra-adquireix-datapool-per-a-liderar-la-digitalitzacio-i-eficiencia-en-el-sector-de-les-piscines-1158958/</link>
+      <guid isPermaLink="true">https://elmon.cat/general/fluidra-adquireix-datapool-per-a-liderar-la-digitalitzacio-i-eficiencia-en-el-sector-de-les-piscines-1158958/</guid>
+      <description>Fluidra compra Datapool per digitalitzar piscines, millorant eficiència energètica i reduint consum d’aigua.</description>
+      <author>El Mon.cat</author>
+      <pubDate>2026-06-01</pubDate>
+    </item>
+    <item>
+      <title>El Gelocatil deixa de ser català: la farmacèutica Ferrer ven aquest fàrmac a la francesa Cooper</title>
+      <link>https://www.rac1.cat/economia/20260601/349677/gelocatil-deixa-catala-farmaceutica-ferrer-ven-francesa-cooper-consumer-health.html</link>
+      <guid isPermaLink="true">https://www.rac1.cat/economia/20260601/349677/gelocatil-deixa-catala-farmaceutica-ferrer-ven-francesa-cooper-consumer-health.html</guid>
+      <description>Ferrer ven Gelocatil, deixant el mercat català i enfocant-se en tractaments de malalties rares.</description>
+      <author>RAC1</author>
+      <pubDate>2026-06-01</pubDate>
+    </item>
+    <item>
+      <title>El mòbil que ha conquerit Leticia Dolera s'ha gestat a Barcelona: "No venem mòbils, venem temps", diuen els creadors</title>
+      <link>https://www.rac1.cat/tecnologia/20260601/349187/mobil-conquerit-leticia-dolera-gestat-barcelona-venem-mobils-venem-diuen-creadors-lv.html</link>
+      <guid isPermaLink="true">https://www.rac1.cat/tecnologia/20260601/349187/mobil-conquerit-leticia-dolera-gestat-barcelona-venem-mobils-venem-diuen-creadors-lv.html</guid>
+      <description>Balance Phone, dissenyat a Barcelona, elimina continguts addictius, reduint tres hores d'ús diari.</description>
+      <author>RAC1</author>
+      <pubDate>2026-06-01</pubDate>
+    </item>
+    <item>
+      <title>Anthropic frega el bilió de dòlars i desbanca OpenAI com la start-up’ més valuosa del món</title>
+      <link>https://www.elperiodico.cat/ca/tecnologia/20260529/anthropic-voreja-bilio-dolars-desbanca-openai-empresa-emergent-valoracio-mon-chatgpt-spacex-borsa-claude-mythos-130786086?utm_source=rss-noticias&amp;amp;utm_medium=feed&amp;amp;utm_campaign=tecnologia</link>
+      <guid isPermaLink="true">https://www.elperiodico.cat/ca/tecnologia/20260529/anthropic-voreja-bilio-dolars-desbanca-openai-empresa-emergent-valoracio-mon-chatgpt-spacex-borsa-claude-mythos-130786086?utm_source=rss-noticias&amp;amp;utm_medium=feed&amp;amp;utm_campaign=tecnologia</guid>
+      <description>Anthropic supera el bilió de dòlars, convertint-se en la start-up d'IA més valuosa del món.</description>
       <author>El Periódico</author>
-      <pubDate>2026-05-28</pubDate>
+      <pubDate>2026-05-29</pubDate>
     </item>
     <item>
       <title>La nova eina catalana que vol predir inundacions gairebé en temps real</title>
       <link>https://www.metadata.cat/noticia/6343/eina-catalana-predir-inundacions-temps-real</link>
       <guid isPermaLink="true">https://www.metadata.cat/noticia/6343/eina-catalana-predir-inundacions-temps-real</guid>
-      <description>L'ACA i el BSC desenvolupen una plataforma que avisa de possibles inundacions amb precisió quasi en temps real.</description>
+      <description>L'ACA i el BSC desenvolupen una plataforma que anticipa inundacions amb dades de 30 anys.</description>
       <author>MetaData</author>
       <pubDate>2026-05-29</pubDate>
-    </item>
-    <item>
-      <title>La salut digital catalana acumula 419 empreses i supera els 650 milions d’euros de volum de negoci</title>
-      <link>https://www.metadata.cat/noticia/6340/salut-digital-catalana-419-empreses-650-milions-euros-volum-negoci</link>
-      <guid isPermaLink="true">https://www.metadata.cat/noticia/6340/salut-digital-catalana-419-empreses-650-milions-euros-volum-negoci</guid>
-      <description>La salut digital catalana supera els 650 milions d'euros, amb 419 empreses que impulsen innovació en IA i telemedicina.</description>
-      <author>MetaData</author>
-      <pubDate>2026-05-28</pubDate>
-    </item>
-    <item>
-      <title>Els Premis Emprenedors Digitals 2026 reivindiquen la força de l’ecosistema tecnològic català</title>
-      <link>https://www.metadata.cat/noticia/6344/premis-emprenedors-digitals-2026-forca-ecosistema-catalunya</link>
-      <guid isPermaLink="true">https://www.metadata.cat/noticia/6344/premis-emprenedors-digitals-2026-forca-ecosistema-catalunya</guid>
-      <description>Els Premis Emprenedors Digitals 2026 reconeixen projectes catalans en IA, robòtica i sostenibilitat, reforçant l'ecosistema.</description>
-      <author>MetaData</author>
-      <pubDate>2026-06-01</pubDate>
-    </item>
-    <item>
-      <title>El BCE avisa de la bombolla de la IA: "Els beneficis podrien deceure"</title>
-      <link>https://www.ara.cat/economia/mercats/bce-avisa-bombolla-ia-beneficis-podrien-decebre_1_5751229.html</link>
-      <guid isPermaLink="true">https://www.ara.cat/economia/mercats/bce-avisa-bombolla-ia-beneficis-podrien-decebre_1_5751229.html</guid>
-      <description>El BCE alerta sobre una possible bombolla financera de la IA, advertint de riscos per al sector bancari europeu.</description>
-      <author>Ara.cat</author>
-      <pubDate>2026-05-30</pubDate>
-    </item>
-    <item>
-      <title>La intel·ligència artificial amenaçala ciberseguretat a velocitat mai vista</title>
-      <link>https://www.lavanguardia.com/encatala/20260601/11552400/intel-ligencia-artificial-amenacala-ciberseguretat-velocitat-mai-vista.html</link>
-      <guid isPermaLink="true">https://www.lavanguardia.com/encatala/20260601/11552400/intel-ligencia-artificial-amenacala-ciberseguretat-velocitat-mai-vista.html</guid>
-      <description>Experts adverteixen que la IA pot ser més fàcil d'utilitzar per atacar que per defensar, creant nous reptes.</description>
-      <author>La Vanguardia (en català)</author>
-      <pubDate>2026-06-01</pubDate>
-    </item>
-    <item>
-      <title>La Xina acapara el 60% de les vendes de cotxes elèctrics al món</title>
-      <link>https://www.lavanguardia.com/encatala/20260601/11552496/xina-acapara-60-les-vendes-cotxes-electrics-mon.html</link>
-      <guid isPermaLink="true">https://www.lavanguardia.com/encatala/20260601/11552496/xina-acapara-60-les-vendes-cotxes-electrics-mon.html</guid>
-      <description>La Xina domina el 60% del mercat mundial de cotxes elèctrics, pressionant les marques europees a reinventar-se.</description>
-      <author>La Vanguardia (en català)</author>
-      <pubDate>2026-06-01</pubDate>
-    </item>
-    <item>
-      <title>Criptomonedes com a salari: experts adverteixen dels riscos laborals i fiscals</title>
-      <link>https://www.segre.com/ca/societat/260601/criptomonedes-com-salari-experts-adverteixen-dels-riscos-laborals-i-fiscals_1225635.html</link>
-      <guid isPermaLink="true">https://www.segre.com/ca/societat/260601/criptomonedes-com-salari-experts-adverteixen-dels-riscos-laborals-i-fiscals_1225635.html</guid>
-      <description>Experts adverteixen que pagar salaris en criptomonedes exposa els treballadors a volatilitat i incerteses fiscals.</description>
-      <author>Segre</author>
-      <pubDate>2026-06-01</pubDate>
-    </item>
-    <item>
-      <title>“What a time to be alive” – programa 666</title>
-      <link>https://mossegalapoma.cat/what-a-time-to-be-alive-programa-666/</link>
-      <guid isPermaLink="true">https://mossegalapoma.cat/what-a-time-to-be-alive-programa-666/</guid>
-      <description>Debat sobre IA, ètica papal i expectatives empresarials en un context tecnològic actual.</description>
-      <author>Mossega la poma</author>
-      <pubDate>2026-05-30</pubDate>
-    </item>
-    <item>
-      <title>Cuques de llum i la necessitat de conservar els llibres originals en paper – Programa 665</title>
-      <link>https://mossegalapoma.cat/cuques-de-llum-i-la-necessitat-de-conservar-els-llibres-originals-en-paper-programa-665/</link>
-      <guid isPermaLink="true">https://mossegalapoma.cat/cuques-de-llum-i-la-necessitat-de-conservar-els-llibres-originals-en-paper-programa-665/</guid>
-      <description>Exploració del projecte Gutenberg i la importància de preservar llibres impresos davant la digitalització.</description>
-      <author>Mossega la poma</author>
-      <pubDate>2026-05-22</pubDate>
     </item>
     <item>
       <title>L' Altra Ràdio - La informàtica a la perifèria pot localitzar objectes amb una precisió de centímetres</title>
       <link>https://podcasts.cat/36/34126152/</link>
       <guid isPermaLink="true">https://podcasts.cat/36/34126152/</guid>
-      <description>Near By Computing mostra com l'edge computing localitza objectes amb precisió centimètrica en entorns industrials.</description>
+      <description>Explora com el Near By Computing del BSC porta l'edge computing a localitzar objectes amb centímetres de precisió.</description>
       <author>L'altra ràdio</author>
       <pubDate>2026-05-28</pubDate>
     </item>
@@ -259,7 +243,7 @@
       <title>L' Altra Ràdio - El projecte Erica, la ciència ciutadana i la protecció del medi ambient</title>
       <link>https://podcasts.cat/36/34102687/</link>
       <guid isPermaLink="true">https://podcasts.cat/36/34102687/</guid>
-      <description>Erica impulsa la ciència ciutadana per a accions climàtiques, connectant ciutadans i monitoratge ambiental.</description>
+      <description>Erica mobilitza ciutadans per monitoritzar el medi ambient, combinant ciència ciutadana i acció climàtica col·lectiva.</description>
       <author>L'altra ràdio</author>
       <pubDate>2026-05-21</pubDate>
     </item>
@@ -267,7 +251,7 @@
       <title>El gòTIC - Tenim una missió! del 27/5/2026</title>
       <link>https://podcasts.cat/191/34120760/</link>
       <guid isPermaLink="true">https://podcasts.cat/191/34120760/</guid>
-      <description>Iniciativa digital del B. de Tàrrega ofereix recursos per afrontar reptes de la ciutadania digital actual.</description>
+      <description>El gòTIC comparteix recursos i estratègies per afrontar reptes de la ciutadania digital a Tàrrega.</description>
       <author>El Gòtic</author>
       <pubDate>2026-05-26</pubDate>
     </item>
@@ -275,7 +259,7 @@
       <title>El gòTIC - Tenim una missió! del 20/5/2026</title>
       <link>https://podcasts.cat/191/34097330/</link>
       <guid isPermaLink="true">https://podcasts.cat/191/34097330/</guid>
-      <description>Segona entrega del programa digital del B. de Tàrrega, centrada en estratègies per a la inclusió tecnològica.</description>
+      <description>Segona missió del gòTIC: noves eines per potenciar la participació digital i la inclusió ciutadana.</description>
       <author>El Gòtic</author>
       <pubDate>2026-05-19</pubDate>
     </item>
@@ -283,7 +267,7 @@
       <title>Desglossem la factura de la IA</title>
       <link>https://rss.com/podcasts/focaterra/2866676</link>
       <guid isPermaLink="true">https://rss.com/podcasts/focaterra/2866676</guid>
-      <description>Anàlisi detallada dels costos energètics de la IA i el seu impacte en recursos hídrics.</description>
+      <description>Analitzem l'impacte econòmic i mediambiental de la intel·ligència artificial en centres de dades.</description>
       <author>Foc a Terra</author>
       <pubDate>2026-06-01</pubDate>
     </item>
@@ -291,23 +275,23 @@
       <title>El NO-GOci de la música, amb Arnau Tordera d'Obeses</title>
       <link>https://rss.com/podcasts/focaterra/2841192</link>
       <guid isPermaLink="true">https://rss.com/podcasts/focaterra/2841192</guid>
-      <description>Entrevista amb Arnau Tordera sobre la fusió del rock català i la innovació sonora experimental.</description>
+      <description>Arnau Tordera trenca esquemes amb el seu rock català, fusionant tradició i experimentació sonora.</description>
       <author>Foc a Terra</author>
       <pubDate>2026-05-25</pubDate>
     </item>
     <item>
-      <title>No atribueixis mai a la malícia allò que pot ser explicat per l'estupidesa</title>
-      <link>https://rss.com/podcasts/focaterra/2830728</link>
-      <guid isPermaLink="true">https://rss.com/podcasts/focaterra/2830728</guid>
-      <description>Discussió sobre regulació financera, rumors de mercat i ètica en la monetització de la informació.</description>
-      <author>Foc a Terra</author>
-      <pubDate>2026-05-18</pubDate>
+      <title>WordPress fa 23 anys</title>
+      <link>https://www.wppodcast.cat/podcast/wordpress-fa-23-anys/</link>
+      <guid isPermaLink="true">https://www.wppodcast.cat/podcast/wordpress-fa-23-anys/</guid>
+      <description>Celebració dels 23 anys de WordPress, reflexionant sobre la seva evolució i comunitat global.</description>
+      <author>WordPress Pòdcast</author>
+      <pubDate>2026-06-02</pubDate>
     </item>
     <item>
       <title>WordPress 7.0: Louis «Armstrong»</title>
       <link>https://www.wppodcast.cat/podcast/wordpress-7-0-louis-armstrong/</link>
       <guid isPermaLink="true">https://www.wppodcast.cat/podcast/wordpress-7-0-louis-armstrong/</guid>
-      <description>Presentació de WordPress 7.0, destacant novetats i integració de la intel·ligència artificial.</description>
+      <description>WordPress 7.0 introdueix IA, millorant l'edició i personalització de continguts per a creadors.</description>
       <author>WordPress Pòdcast</author>
       <pubDate>2026-05-26</pubDate>
     </item>
@@ -315,15 +299,23 @@
       <title>Tot el que portarà WordPress 7.0</title>
       <link>https://www.wppodcast.cat/podcast/tot-el-que-portara-wordpress-7-0/</link>
       <guid isPermaLink="true">https://www.wppodcast.cat/podcast/tot-el-que-portara-wordpress-7-0/</guid>
-      <description>Revisió de les funcionalitats clau de la versió 7.0 i les seves implicacions per a desenvolupadors.</description>
+      <description>Revisió de novetats de WordPress 7.0, incloent millores de seguretat i funcionalitats avançades.</description>
       <author>WordPress Pòdcast</author>
       <pubDate>2026-05-19</pubDate>
+    </item>
+    <item>
+      <title>Capítol 66: Un mòbil sense coloraines que no t'enganxi hores i hores</title>
+      <link>https://traffic.omny.fm/d/clips/47dc05c7-7279-4c6f-9b31-ae74013297d9/d3709a08-7df4-4359-85b0-af0f00b8b4b3/2d679d35-35b0-494b-9be3-b45900b9f644/audio.mp3?dist=RSS</link>
+      <guid isPermaLink="true">https://traffic.omny.fm/d/clips/47dc05c7-7279-4c6f-9b31-ae74013297d9/d3709a08-7df4-4359-85b0-af0f00b8b4b3/2d679d35-35b0-494b-9be3-b45900b9f644/audio.mp3?dist=RSS</guid>
+      <description>Descobreix el primer mòbil català sense xarxes socials, dissenyat per reduir distraccions i fomentar la concentració.</description>
+      <author>RAC&amp;GO</author>
+      <pubDate>2026-06-02</pubDate>
     </item>
     <item>
       <title>Capítol 65: Ja no em farà por anar al dentista</title>
       <link>https://traffic.omny.fm/d/clips/47dc05c7-7279-4c6f-9b31-ae74013297d9/d3709a08-7df4-4359-85b0-af0f00b8b4b3/c60f587f-bc4f-425f-b984-b44e00f1218e/audio.mp3?dist=RSS</link>
       <guid isPermaLink="true">https://traffic.omny.fm/d/clips/47dc05c7-7279-4c6f-9b31-ae74013297d9/d3709a08-7df4-4359-85b0-af0f00b8b4b3/c60f587f-bc4f-425f-b984-b44e00f1218e/audio.mp3?dist=RSS</guid>
-      <description>Bite Right ofereix tecnologia que optimitza procediments dentals, reduint visites i errors mèdics.</description>
+      <description>Bite Right revoluciona les clíniques dentals amb tecnologia que minimitza errors i visita al dentista.</description>
       <author>RAC&amp;GO</author>
       <pubDate>2026-05-19</pubDate>
     </item>
@@ -331,7 +323,7 @@
       <title>Expanded Voices: Exploring Voice Identity and Latent Spaces with AI</title>
       <link>https://www.meetup.com/gdg-barcelona/events/314908910/</link>
       <guid isPermaLink="true">https://www.meetup.com/gdg-barcelona/events/314908910/</guid>
-      <description>Descobreix com la IA pot transformar la identitat vocal i explorar espais latents en aquesta presentació interactiva.</description>
+      <description>Descobreix com la IA pot transformar la identitat vocal i crear nous espais sonors en l'exposició Expanded Voices.</description>
       <author>GDG Barcelona</author>
       <pubDate>2026-05-22</pubDate>
     </item>
@@ -339,7 +331,7 @@
       <title>Beyond Chatbots: What Claude Code &amp; Cowork Can Do For Your Business [1 of 2]</title>
       <link>https://www.meetup.com/ai-professionals-barcelona/events/315043744/</link>
       <guid isPermaLink="true">https://www.meetup.com/ai-professionals-barcelona/events/315043744/</guid>
-      <description>Aprèn a crear SOPs intel·ligents amb Claude Code, automatitzant processos sense necessitat de programació.</description>
+      <description>Aprèn a automatitzar processos empresarials amb Claude Code, convertint SOPs manuals en eines intel·ligents sense programació.</description>
       <author>AI Professionals Barcelona</author>
       <pubDate>2026-05-31</pubDate>
     </item>
@@ -347,7 +339,7 @@
       <title>Beyond Chatbots: What Claude Code &amp; Cowork Can Do For Your Business [2 of 2]</title>
       <link>https://www.meetup.com/ai-professionals-barcelona/events/315045983/</link>
       <guid isPermaLink="true">https://www.meetup.com/ai-professionals-barcelona/events/315045983/</guid>
-      <description>Construeix un agent autònom que gestiona la incorporació de clients, enviant correus i creant carpetes automàticament.</description>
+      <description>Construeix un agent autònom que gestiona la incorporació de clients, enviant correus i creant tasques automàticament.</description>
       <author>AI Professionals Barcelona</author>
       <pubDate>2026-06-01</pubDate>
     </item>
@@ -355,7 +347,7 @@
       <title>BuildStream and KDE</title>
       <link>https://www.meetup.com/barcelona-free-software/events/315035231/</link>
       <guid isPermaLink="true">https://www.meetup.com/barcelona-free-software/events/315035231/</guid>
-      <description>Explora BuildStream per construir sistemes operatius i descobreix la seva integració amb KDE.</description>
+      <description>Explora BuildStream com a eina per construir sistemes operatius i contribucions KDE, amb demostracions pràctiques.</description>
       <author>Free Software Barcelona</author>
       <pubDate>2026-05-31</pubDate>
     </item>
@@ -363,7 +355,7 @@
       <title>les amigues d'internet, amb ANDREA GUMES</title>
       <link>https://www.youtube.com/watch?v=p5js2dhqha0</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=p5js2dhqha0</guid>
-      <description>Exploració de les amistats digitals amb Andrea Gumes, reflexionant sobre la cultura en línia.</description>
+      <description>Exploració de la presència femenina en línia i el seu impacte cultural.</description>
       <author>Albert Lloreta</author>
       <pubDate>2026-05-29</pubDate>
     </item>
@@ -371,7 +363,7 @@
       <title>A què hem estat jugant aquest maig</title>
       <link>https://www.youtube.com/watch?v=ngtn56Oj9cA</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=ngtn56Oj9cA</guid>
-      <description>Recapitulació dels jocs provats al maig, destacant novetats i experiències locals.</description>
+      <description>Recull de les novetats videojocals del maig, destacant títols locals i internacionals.</description>
       <author>Catalunya PlayStation</author>
       <pubDate>2026-05-31</pubDate>
     </item>
@@ -379,7 +371,7 @@
       <title>Pixelats vs. The Legend of Zelda: A Link to the Past!! 🔗🗝️</title>
       <link>https://www.youtube.com/watch?v=KmiV2LvkZ48</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=KmiV2LvkZ48</guid>
-      <description>Anàlisi del clàssic Zelda en format retro, amb comentaris i estratègies.</description>
+      <description>Anàlisi del clàssic Zelda amb humor i estratègia en format cooperatiu.</description>
       <author>Pixelats</author>
       <pubDate>2026-05-27</pubDate>
     </item>
@@ -387,7 +379,7 @@
       <title>Els Putxinel·lis - Capítol 10 - Dinàmiques de poder</title>
       <link>https://www.youtube.com/watch?v=NAml8vjYtQA</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=NAml8vjYtQA</guid>
-      <description>Debat sobre el poder i les dinàmiques socials al capítol 10 de Putxinel·lis.</description>
+      <description>Novetat del capítol 10, explorant les tensions de poder dins la trama.</description>
       <author>Pixelats</author>
       <pubDate>2026-05-27</pubDate>
     </item>
@@ -395,7 +387,7 @@
       <title>Pixelats vs. Bread &amp; Fred!! 🐧🧗‍♂️</title>
       <link>https://www.youtube.com/watch?v=g4NdEx9E9-0</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=g4NdEx9E9-0</guid>
-      <description>Comparació entre Bread i Fred, mostrant humor i jugabilitat en un duel inesperat.</description>
+      <description>Comparativa entre dos jocs indie, ressaltant mecàniques i estètica singular.</description>
       <author>Pixelats</author>
       <pubDate>2026-05-20</pubDate>
     </item>
@@ -403,7 +395,7 @@
       <title>Els Putxinel·lis - Capítol 9 - El pla de pa sucat amb oli</title>
       <link>https://www.youtube.com/watch?v=T-bGwBANvlU</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=T-bGwBANvlU</guid>
-      <description>Exploració del pla gastronòmic amb oli, revelant tensions i humor al capítol 9.</description>
+      <description>Capítol 9 revela una trama absurda amb humor polític i social.</description>
       <author>Pixelats</author>
       <pubDate>2026-05-20</pubDate>
     </item>
@@ -411,7 +403,7 @@
       <title>Club del Videojoc - Warhammer 40.000: Squad Command</title>
       <link>https://www.youtube.com/watch?v=cJLCgVJFb6k</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=cJLCgVJFb6k</guid>
-      <description>Partida intensiva de Warhammer 40k, enfocada en tàctiques de Squad Command.</description>
+      <description>Partida intensiva de Warhammer 40k, enfocada en tàctiques d'equip.</description>
       <author>Gaming.cat</author>
       <pubDate>2026-05-28</pubDate>
     </item>
@@ -419,7 +411,7 @@
       <title>Presentació de l'esdeveniment Gaming en Femení</title>
       <link>https://www.youtube.com/watch?v=UOHqGX4Ulto</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=UOHqGX4Ulto</guid>
-      <description>Presentació del esdeveniment femení de gaming, impulsant la inclusió i diversitat.</description>
+      <description>Llançament de l'esdeveniment que promou la inclusió femenina al gaming.</description>
       <author>Gaming.cat</author>
       <pubDate>2026-05-26</pubDate>
     </item>
@@ -427,9 +419,17 @@
       <title>🎙️Lúdica #55 - El llegat mitològic (amb Anton Planells)</title>
       <link>https://www.youtube.com/watch?v=ZeCFOA1AzeQ</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=ZeCFOA1AzeQ</guid>
-      <description>Discussió del llegat mitològic amb Anton Planells, connectant història i videojocs.</description>
+      <description>Entrevista sobre com la mitologia influeix en el disseny de jocs.</description>
       <author>Lúdica (Vídeos)</author>
       <pubDate>2026-05-28</pubDate>
+    </item>
+    <item>
+      <title>🎙️Lúdica #54 - L’ecosistema Steam</title>
+      <link>https://www.youtube.com/watch?v=7-Nza7bs9q0</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=7-Nza7bs9q0</guid>
+      <description>Debat sobre l'evolució de Steam i les seves oportunitats per a creadors catalans.</description>
+      <author>Lúdica (Vídeos)</author>
+      <pubDate>2026-05-01</pubDate>
     </item>
   </channel>
 </rss>

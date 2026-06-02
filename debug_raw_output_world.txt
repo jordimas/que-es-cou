@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-06-01T12:23",
+  "generated_at": "2026-06-02T11:11",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "NVIDIA presenta un nou xip que desafia Apple i Qualcomm",
-      "link_id": "c_cfc371",
+      "title": "Anthropic supera OpenAI en la cursa d'alta aposta per a les riqueses de la OPI",
+      "link_id": "c_00f629",
+      "source": "Bloomberg Technology",
+      "date": "2026-06-01",
+      "time": "21:55",
+      "summary": "Anthropic avança sobre OpenAI, buscant liderar el mercat d'IA amb una OPI imminent."
+    },
+    {
+      "title": "Nvidia perssegueix el mercat de CPU de 200 000 milions de dòlars amb PCs d'agents d'IA de Microsoft, Dell i HP",
+      "link_id": "c_f5035d",
+      "source": "TechCrunch",
+      "date": "2026-06-01",
+      "time": "21:35",
+      "summary": "Nvidia apunta al mercat de CPU amb ordinadors d'IA de Microsoft, Dell i HP, valorats en 200 000 milions."
+    },
+    {
+      "title": "Anthropic presenta confidencialment una oferta pública inicial al mercat borsari dels EUA",
+      "link_id": "c_3fb551",
+      "source": "The Guardian Tech",
+      "date": "2026-06-01",
+      "time": "18:12",
+      "summary": "Anthropic presenta confidencialment la seva OPI als EUA, buscant finançament per a models d'IA avançats."
+    },
+    {
+      "title": "Anthropic presenta la OPI — el creador de Claude competeix amb OpenAI i SpaceX a Wall Street",
+      "link_id": "c_05c1b1",
+      "source": "Wired",
+      "date": "2026-06-01",
+      "time": "17:17",
+      "summary": "Claude, creat per Anthropic, competeix amb OpenAI i SpaceX per atraure inversors a Wall Street."
+    },
+    {
+      "title": "Anthropic ha presentat oficialment la sol·licitud per a cotitzar en borsa",
+      "link_id": "c_26789e",
+      "source": "The Verge",
+      "date": "2026-06-01",
+      "time": "16:40",
+      "summary": "Anthropic ha formalitzat la sol·licitud per cotitzar, marcant un pas clau en el sector d'IA."
+    },
+    {
+      "title": "Anthropic presenta la sol·licitud per a cotitzar — i què rep cada empresa independentment",
+      "link_id": "c_d5e1b0",
+      "source": "TechCrunch",
+      "date": "2026-06-01",
+      "time": "16:36",
+      "summary": "Anthropic busca una OPI, destacant que totes les empreses reben beneficis independents del seu tamany."
+    },
+    {
+      "title": "Els nous superxips Grace Blackwell de Nvidia arriben oficialment als PC amb portàtils RTX Spark",
+      "link_id": "c_c2d07e",
+      "source": "The Register",
+      "date": "2026-06-01",
+      "time": "11:45",
+      "summary": "Els nous superxips Grace Blackwell de Nvidia s'integren en portàtils RTX Spark, millorant rendiment d'IA."
+    },
+    {
+      "title": "Nvidia llança un ‘superxip’ que aporta poder d'IA a portàtils i PC",
+      "link_id": "c_028f3a",
+      "source": "Bloomberg Technology",
+      "date": "2026-06-01",
+      "time": "11:01",
+      "summary": "Nvidia llança un superxip que porta capacitats d'IA avançada a ordinadors personals."
+    },
+    {
+      "title": "NVIDIA anuncia el superxip RTX Spark per a portàtils i escriptoris",
+      "link_id": "c_7273dc",
+      "source": "Phoronix",
+      "date": "2026-06-01",
+      "time": "09:33",
+      "summary": "El superxip RTX Spark ofereix potència d'IA per a portàtils i escriptoris, impulsant noves aplicacions."
+    },
+    {
+      "title": "Nvidia presenta el superxip RTX Spark per a portàtils i PC d'escriptori a Computex 2026 — la nova plataforma promet convertir Windows en un sistema operatiu d'IA agentic",
+      "link_id": "c_bb7bc9",
       "source": "Tom's Hardware",
       "date": "2026-06-01",
-      "time": "09:26",
-      "summary": "El xip RTX Spark porta IA avançada a portàtils, promet rendiment superior i eficiència energètica."
-    },
-    {
-      "title": "Dell XPS 13 apunta al MacBook Neo amb processador Wildcat Lake",
-      "link_id": "c_d2899d",
-      "source": "ZDNet",
-      "date": "2026-06-01",
-      "time": "09:00",
-      "summary": "L'XPS 13 ofereix pantalla OLED, preu estudiantil de 599 $, competint directament amb Apple."
-    },
-    {
-      "title": "Nvidia nombra Anthropic i OpenAI com a primers usuaris del xip Vera",
-      "link_id": "c_7f2f6f",
-      "source": "The Next Web",
-      "date": "2026-06-01",
-      "time": "07:36",
-      "summary": "El xip Vera suporta IA d'alt rendiment, reforçant la infraestructura de centres de dades."
-    },
-    {
-      "title": "Les ulleres intel·ligents d'Apple es retarden fins a finals de 2027",
-      "link_id": "c_3b5400",
-      "source": "CNET",
-      "date": "2026-05-31",
-      "time": "21:45",
-      "summary": "El llançament es posposa per perfeccionar la tecnologia i superar desafiaments de producció."
-    },
-    {
-      "title": "Unastella, startup sud-coreana de coets, recull 24 M $",
-      "link_id": "c_254cf3",
-      "source": "TechCrunch",
-      "date": "2026-06-01",
-      "time": "10:00",
-      "summary": "L'empresa desenvolupa llançadors i motors propis per a missions espacials independents."
-    },
-    {
-      "title": "Erin Brockovich denuncia la falta de transparència dels centres de dades",
-      "link_id": "c_00e34b",
-      "source": "TechCrunch",
-      "date": "2026-05-31",
-      "time": "21:05",
-      "summary": "L'activista denuncia pràctiques opaces i demana regulació per protegir la privacitat."
-    },
-    {
-      "title": "Fundadors negres aconsegueixen finançament trimestral màxim des del 2022",
-      "link_id": "c_c7f5ca",
-      "source": "TechCrunch",
-      "date": "2026-05-31",
-      "time": "15:00",
-      "summary": "Malgrat l'augment, encara hi ha barreres d'accés a xarxes i recursos inicials."
-    },
-    {
-      "title": "Debat sobre la psicopatia de la IA: quin és el veritable problema?",
-      "link_id": "c_3317aa",
-      "source": "TechCrunch",
-      "date": "2026-05-31",
-      "time": "15:30",
-      "summary": "Experts discuteixen si els CEOs són més propensos a patir trastorns d'IA."
-    },
-    {
-      "title": "La veritat dolorosa sobre el Covid llarg",
-      "link_id": "c_5d676a",
-      "source": "Wired",
-      "date": "2026-06-01",
-      "time": "10:00",
-      "summary": "Noves investigacions apunten a tractaments potencials, però la discussió encara és limitada."
-    },
-    {
-      "title": "Els llocs web ara poden espiar-te a través del disc dur",
-      "link_id": "c_19a84b",
-      "source": "Wired",
-      "date": "2026-06-01",
-      "time": "09:30",
-      "summary": "La tècnica FROST permet mesurar l'activitat SSD des del navegador amb JavaScript."
+      "time": "04:52",
+      "summary": "RTX Spark de Nvidia promet transformar Windows en un sistema operatiu amb IA agentica per a tots els usuaris."
     }
   ]
 }
