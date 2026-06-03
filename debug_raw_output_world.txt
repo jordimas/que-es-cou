@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-06-02T11:11",
+  "generated_at": "2026-06-03T10:47",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Anthropic supera OpenAI en la cursa d'alta aposta per a les riqueses de la OPI",
-      "link_id": "c_00f629",
-      "source": "Bloomberg Technology",
-      "date": "2026-06-01",
-      "time": "21:55",
-      "summary": "Anthropic avança sobre OpenAI, buscant liderar el mercat d'IA amb una OPI imminent."
-    },
-    {
-      "title": "Nvidia perssegueix el mercat de CPU de 200 000 milions de dòlars amb PCs d'agents d'IA de Microsoft, Dell i HP",
-      "link_id": "c_f5035d",
+      "title": "Trump signa una ordre executiva més estreta sobre la supervisió de la IA",
+      "link_id": "c_a9acc9",
       "source": "TechCrunch",
-      "date": "2026-06-01",
-      "time": "21:35",
-      "summary": "Nvidia apunta al mercat de CPU amb ordinadors d'IA de Microsoft, Dell i HP, valorats en 200 000 milions."
+      "date": "2026-06-02",
+      "time": "16:23",
+      "summary": "L'ordre limita la revisió a una base voluntària i redueix les exigències per a les empreses d'IA."
     },
     {
-      "title": "Anthropic presenta confidencialment una oferta pública inicial al mercat borsari dels EUA",
-      "link_id": "c_3fb551",
-      "source": "The Guardian Tech",
-      "date": "2026-06-01",
-      "time": "18:12",
-      "summary": "Anthropic presenta confidencialment la seva OPI als EUA, buscant finançament per a models d'IA avançats."
+      "title": "Google will let websites opt-out of AI Mode & Overviews in Search",
+      "link_id": "c_95fef7",
+      "source": "9to5Google",
+      "date": "2026-06-03",
+      "time": "05:10",
+      "summary": "Els editors podran bloquejar l'ús dels seus continguts en resums d'IA i en funcions de cerca avançada."
     },
     {
-      "title": "Anthropic presenta la OPI — el creador de Claude competeix amb OpenAI i SpaceX a Wall Street",
-      "link_id": "c_05c1b1",
-      "source": "Wired",
-      "date": "2026-06-01",
-      "time": "17:17",
-      "summary": "Claude, creat per Anthropic, competeix amb OpenAI i SpaceX per atraure inversors a Wall Street."
-    },
-    {
-      "title": "Anthropic ha presentat oficialment la sol·licitud per a cotitzar en borsa",
-      "link_id": "c_26789e",
-      "source": "The Verge",
-      "date": "2026-06-01",
-      "time": "16:40",
-      "summary": "Anthropic ha formalitzat la sol·licitud per cotitzar, marcant un pas clau en el sector d'IA."
-    },
-    {
-      "title": "Anthropic presenta la sol·licitud per a cotitzar — i què rep cada empresa independentment",
-      "link_id": "c_d5e1b0",
+      "title": "Dates del Prime Day d'Amazon 2026 anunciades, evitant conflictes amb esdeveniments majors",
+      "link_id": "c_2b19d8",
       "source": "TechCrunch",
-      "date": "2026-06-01",
-      "time": "16:36",
-      "summary": "Anthropic busca una OPI, destacant que totes les empreses reben beneficis independents del seu tamany."
+      "date": "2026-06-02",
+      "time": "15:05",
+      "summary": "Amazon avançarà el Prime Day al 23‑26 de juny per evitar superposicions amb la Copa del Món i altres esdeveniments."
     },
     {
-      "title": "Els nous superxips Grace Blackwell de Nvidia arriben oficialment als PC amb portàtils RTX Spark",
-      "link_id": "c_c2d07e",
+      "title": "Microsoft llança Scout, un assistent personal inspirat en OpenClaw",
+      "link_id": "c_4bd775",
+      "source": "TechCrunch",
+      "date": "2026-06-02",
+      "time": "18:02",
+      "summary": "Scout és un agent d'IA autònom que ajuda a gestionar tasques dins de Microsoft 365 amb identitat pròpia."
+    },
+    {
+      "title": "Google llança detecció de trucades falses per combatre estafes amb deepfake",
+      "link_id": "c_5eef0c",
+      "source": "CNET",
+      "date": "2026-06-02",
+      "time": "22:45",
+      "summary": "La nova funció verifica la identitat del trucant per evitar enganys basats en IA i suplantació."
+    },
+    {
+      "title": "Legisladors del Regne Unit demanen l'eliminació del contracte Palantir amb el NHS",
+      "link_id": "c_3d3bfe",
       "source": "The Register",
-      "date": "2026-06-01",
-      "time": "11:45",
-      "summary": "Els nous superxips Grace Blackwell de Nvidia s'integren en portàtils RTX Spark, millorant rendiment d'IA."
+      "date": "2026-06-03",
+      "time": "10:10",
+      "summary": "Els parlamentaris critiquen la dependència del NHS en Palantir per qüestions de privacitat i seguretat."
     },
     {
-      "title": "Nvidia llança un ‘superxip’ que aporta poder d'IA a portàtils i PC",
-      "link_id": "c_028f3a",
-      "source": "Bloomberg Technology",
-      "date": "2026-06-01",
-      "time": "11:01",
-      "summary": "Nvidia llança un superxip que porta capacitats d'IA avançada a ordinadors personals."
+      "title": "Projecte Solara de Microsoft pretén portar la IA fora del PC cap al món real",
+      "link_id": "c_df442b",
+      "source": "TechRadar",
+      "date": "2026-06-02",
+      "time": "22:07",
+      "summary": "Solara introdueix agents d'IA que operen en dispositius com targetes d'accés i altres entorns físics."
     },
     {
-      "title": "NVIDIA anuncia el superxip RTX Spark per a portàtils i escriptoris",
-      "link_id": "c_7273dc",
-      "source": "Phoronix",
-      "date": "2026-06-01",
-      "time": "09:33",
-      "summary": "El superxip RTX Spark ofereix potència d'IA per a portàtils i escriptoris, impulsant noves aplicacions."
+      "title": "Guia ràpida de suspensió per bicicletes de muntanya (2026)",
+      "link_id": "c_7adceb",
+      "source": "Wired",
+      "date": "2026-06-03",
+      "time": "10:38",
+      "summary": "Aprèn com funcionen la forquilla i l'amortidor per millorar el rendiment i la comoditat."
     },
     {
-      "title": "Nvidia presenta el superxip RTX Spark per a portàtils i PC d'escriptori a Computex 2026 — la nova plataforma promet convertir Windows en un sistema operatiu d'IA agentic",
-      "link_id": "c_bb7bc9",
-      "source": "Tom's Hardware",
-      "date": "2026-06-01",
-      "time": "04:52",
-      "summary": "RTX Spark de Nvidia promet transformar Windows en un sistema operatiu amb IA agentica per a tots els usuaris."
+      "title": "El làser privat més gran del món s'ha encès",
+      "link_id": "c_34b146",
+      "source": "TechCrunch",
+      "date": "2026-06-03",
+      "time": "10:00",
+      "summary": "La startup Xcimer ha activat el làser més gran propietat privada, impulsant la fusió nuclear."
+    },
+    {
+      "title": "Google afronta un problema d'aigua amb la IA i proposa una solució",
+      "link_id": "c_638d49",
+      "source": "The Verge",
+      "date": "2026-06-03",
+      "time": "09:00",
+      "summary": "Google anuncia cinc compromisos per augmentar i restaurar l'aigua en les comunitats locals afectades."
     }
   ]
 }

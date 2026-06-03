@@ -1,16 +1,32 @@
 {
-  "generated_at": "2026-06-02T10:00",
+  "generated_at": "2026-06-03T10:47",
   "id": "podcasts",
   "title": "Podcasts en català sobre tecnologia",
   "sources_checked": [],
   "articles": [
+    {
+      "title": "“What a time to be alive” – programa 666",
+      "link_id": "c_5b9998",
+      "source": "Mossega la poma",
+      "date": "2026-05-30",
+      "time": "08:24",
+      "summary": "Debat sobre IA, ètica papal i expectatives empresarials en un context tecnològic actual."
+    },
+    {
+      "title": "Cuques de llum i la necessitat de conservar els llibres originals en paper – Programa 665",
+      "link_id": "c_8d82ce",
+      "source": "Mossega la poma",
+      "date": "2026-05-22",
+      "time": "07:37",
+      "summary": "Exploració del projecte Gutenberg i la importància de preservar llibres impresos davant la digitalització."
+    },
     {
       "title": "L' Altra Ràdio - La informàtica a la perifèria pot localitzar objectes amb una precisió de centímetres",
       "link_id": "c_5e7cc2",
       "source": "L'altra ràdio",
       "date": "2026-05-28",
       "time": "07:33",
-      "summary": "Explora com el Near By Computing del BSC porta l'edge computing a localitzar objectes amb centímetres de precisió."
+      "summary": "Near By Computing mostra com l'edge computing localitza objectes amb precisió centimètrica en entorns industrials."
     },
     {
       "title": "L' Altra Ràdio - El projecte Erica, la ciència ciutadana i la protecció del medi ambient",
@@ -18,7 +34,15 @@
       "source": "L'altra ràdio",
       "date": "2026-05-21",
       "time": "07:33",
-      "summary": "Erica mobilitza ciutadans per monitoritzar el medi ambient, combinant ciència ciutadana i acció climàtica col·lectiva."
+      "summary": "Erica impulsa la ciència ciutadana per monitoritzar el medi ambient i fomentar l'acció climàtica col·lectiva."
+    },
+    {
+      "title": "El gòTIC - Tenim una missió! del 3/6/2026",
+      "link_id": "c_1d3e0a",
+      "source": "El Gòtic",
+      "date": "2026-06-02",
+      "time": "16:29",
+      "summary": "Recursos digitals per a la ciutadania, enfocats a resoldre reptes de la transformació digital local."
     },
     {
       "title": "El gòTIC - Tenim una missió! del 27/5/2026",
@@ -26,7 +50,7 @@
       "source": "El Gòtic",
       "date": "2026-05-26",
       "time": "16:29",
-      "summary": "El gòTIC comparteix recursos i estratègies per afrontar reptes de la ciutadania digital a Tàrrega."
+      "summary": "Iniciatives per a la inclusió digital i la participació ciutadana en projectes d'educació tecnològica."
     },
     {
       "title": "El gòTIC - Tenim una missió! del 20/5/2026",
@@ -34,7 +58,7 @@
       "source": "El Gòtic",
       "date": "2026-05-19",
       "time": "16:29",
-      "summary": "Segona missió del gòTIC: noves eines per potenciar la participació digital i la inclusió ciutadana."
+      "summary": "Estratègies per a la gestió de dades públiques i la millora de serveis digitals municipals."
     },
     {
       "title": "Desglossem la factura de la IA",
@@ -42,7 +66,7 @@
       "source": "Foc a Terra",
       "date": "2026-06-01",
       "time": "04:00",
-      "summary": "Analitzem l'impacte econòmic i mediambiental de la intel·ligència artificial en centres de dades."
+      "summary": "Anàlisi del cost energètic de la IA i el seu impacte en recursos hídrics i infraestructures."
     },
     {
       "title": "El NO-GOci de la música, amb Arnau Tordera d'Obeses",
@@ -50,7 +74,7 @@
       "source": "Foc a Terra",
       "date": "2026-05-25",
       "time": "04:00",
-      "summary": "Arnau Tordera trenca esquemes amb el seu rock català, fusionant tradició i experimentació sonora."
+      "summary": "Entrevista amb Arnau Tordera sobre la fusió entre música tradicional catalana i estètica metal."
     },
     {
       "title": "WordPress fa 23 anys",
@@ -58,7 +82,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-06-02",
       "time": "00:00",
-      "summary": "Celebració dels 23 anys de WordPress, reflexionant sobre la seva evolució i comunitat global."
+      "summary": "Reflexió sobre el creixement de WordPress des del 2003 i la seva influència en el web actual."
     },
     {
       "title": "WordPress 7.0: Louis «Armstrong»",
@@ -66,15 +90,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-05-26",
       "time": "00:00",
-      "summary": "WordPress 7.0 introdueix IA, millorant l'edició i personalització de continguts per a creadors."
-    },
-    {
-      "title": "Tot el que portarà WordPress 7.0",
-      "link_id": "c_a4f0c1",
-      "source": "WordPress Pòdcast",
-      "date": "2026-05-19",
-      "time": "00:00",
-      "summary": "Revisió de novetats de WordPress 7.0, incloent millores de seguretat i funcionalitats avançades."
+      "summary": "Presentació de la versió 7.0 amb integració d'IA i noves funcionalitats per a desenvolupadors."
     },
     {
       "title": "Capítol 66: Un mòbil sense coloraines que no t'enganxi hores i hores",
@@ -82,15 +98,7 @@
       "source": "RAC&GO",
       "date": "2026-06-02",
       "time": "06:00",
-      "summary": "Descobreix el primer mòbil català sense xarxes socials, dissenyat per reduir distraccions i fomentar la concentració."
-    },
-    {
-      "title": "Capítol 65: Ja no em farà por anar al dentista",
-      "link_id": "c_a85b81",
-      "source": "RAC&GO",
-      "date": "2026-05-19",
-      "time": "06:00",
-      "summary": "Bite Right revoluciona les clíniques dentals amb tecnologia que minimitza errors i visita al dentista."
+      "summary": "Descobriment d'un telèfon minimalista sense xarxes socials, dissenyat per reduir la dependència digital."
     }
   ]
 }

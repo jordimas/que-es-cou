@@ -1,1 +1,88 @@
-{"generated_at":"2026-06-02T09:30","id":"economy","title":"Notícies econòmiques del món","sources_checked":[],"articles":[{"title":"Alphabet ven 80 000 milions de dòlars en accions per finançar la seva despesa d'IA","link_id":"c_0d6eab","source":"Financial Times","date":"2026-06-01","time":"23:22","summary":"Alphabet busca finançar la seva expansió d'IA venent accions per un valor de 80 000 milions de dòlars."},{"title":"Alphabet planeja recaptar 80 000 milions de dòlars amb vendes d'accions per impulsar l'IA","link_id":"c_228aa1","source":"CNBC Technology","date":"2026-06-01","time":"22:27","summary":"L'empresa pretén recaptar 80 000 milions venent accions per impulsar projectes d'intel·ligència artificial."},{"title":"Les accions de HPE pujaren un 37 % gràcies a la gran demanda d'infraestructura d'IA","link_id":"c_2d0b52","source":"Financial Times","date":"2026-06-01","time":"21:48","summary":"La demanda d'infraestructura d'IA impulsa un augment del 37 % en el preu de les accions de HPE."},{"title":"HPE s'enlaira un 30 % després del millor resultat des del 2018","link_id":"c_9f6d03","source":"CNBC Technology","date":"2026-06-01","time":"21:30","summary":"Després del millor resultat des del 2018, HPE experimenta un augment del 30 % en les seves accions."},{"title":"Anthropic presenta confidencialment el prospecte d'IPO a la SEC, preparant Wall Street per a un acord d'IA històric","link_id":"c_e9e782","source":"CNBC Technology","date":"2026-06-01","time":"18:33","summary":"Anthropic presenta confidencialment el seu prospecte d'IPO, indicant una possible operació d'IA sense precedents."},{"title":"Anthropic oferirà a la UE accés al seu avançat model Mythos","link_id":"c_c87fca","source":"CNBC Technology","date":"2026-06-01","time":"18:05","summary":"Anthropic permetrà a la Unió Europea utilitzar el model avançat Mythos per a aplicacions d'IA."},{"title":"Anthropic sol·licita una oferta pública inicial de gran magnitud","link_id":"c_0ca7e9","source":"Financial Times","date":"2026-06-01","time":"17:34","summary":"Anthropic demana una oferta pública inicial, buscant capital per expandir les seves tecnologies d'IA."},{"title":"Anthropic ofereix a la UE accés a Mythos","link_id":"c_ae1c7f","source":"Financial Times","date":"2026-06-01","time":"12:11","summary":"Anthropic ofereix a la UE accés al model d'IA Mythos, reforçant la cooperació tecnològica."},{"title":"Tencent s'acosta al llançament d'un agent d'IA per a l'aplicació més utilitzada a la Xina","link_id":"c_9afd62","source":"Financial Times","date":"2026-06-02","time":"08:52","summary":"Tencent avança cap al llançament d'un agent d'IA integrat a WeChat, la seva app més popular."},{"title":"Acabarà mai la caiguda del preu de les accions de consultoria informàtica?","link_id":"c_089f6f","source":"Financial Times","date":"2026-06-02","time":"04:00","summary":"Analistes dubten si la caiguda del preu de les accions de consultoria IT s'aturarà aviat."}]}
+{
+  "generated_at": "2026-06-03T12:47",
+  "id": "economy",
+  "title": "Notícies econòmiques del món",
+  "sources_checked": [],
+  "articles": [
+    {
+      "title": "HPE s'enlaira 19 % després d'unes guanys excepcionals dilluns, tancant el seu millor dia",
+      "link_id": "c_cdc9a2",
+      "source": "CNBC Technology",
+      "date": "2026-06-02",
+      "time": "20:13",
+      "summary": "Després d'unes guanys excepcionals, HPE registra un augment del 19 % i tanca el seu millor dia."
+    },
+    {
+      "title": "Anthropic ampliarà l'accés a Mythos a més de quinze països",
+      "link_id": "c_92143b",
+      "source": "Financial Times",
+      "date": "2026-06-02",
+      "time": "18:16",
+      "summary": "Anthropic amplia l'accés a la seva IA Mythos, arribant a més de quinze països per impulsar la seguretat."
+    },
+    {
+      "title": "Anthropic amplia Mythos a 150 organitzacions addicionals en més de quinze països",
+      "link_id": "c_ca28c3",
+      "source": "CNBC Technology",
+      "date": "2026-06-02",
+      "time": "16:00",
+      "summary": "L'extensió a 150 organitzacions reforça la presència global d'Mythos, millorant la col·laboració en IA."
+    },
+    {
+      "title": "Com Dell, ara HPE s'enlaira gràcies a una gran pujada de les seves previsions. Sí, el negoci és tan bo",
+      "link_id": "c_827f83",
+      "source": "CNBC Technology",
+      "date": "2026-06-02",
+      "time": "14:15",
+      "summary": "HPE augmenta les seves previsions, impulsada per la demanda d'infraestructura d'IA, superant les expectatives del sector."
+    },
+    {
+      "title": "Alphabet planeja recaptar 80 000 milions de dòlars mitjançant vendes d'accions per finançar l'expansió d'IA",
+      "link_id": "c_228aa1",
+      "source": "CNBC Technology",
+      "date": "2026-06-02",
+      "time": "11:38",
+      "summary": "Alphabet busca finançar la seva estratègia d'IA amb una venda massiva d'accions, apuntant a liderar el mercat."
+    },
+    {
+      "title": "El CEO de Perplexity afirma que una única mètrica decidirà qui guanyarà la cursa de la IA",
+      "link_id": "c_9b4806",
+      "source": "CNBC Technology",
+      "date": "2026-06-03",
+      "time": "08:45",
+      "summary": "Perplexity defineix una mètrica clau per mesurar l'eficiència energètica per usuari en la IA."
+    },
+    {
+      "title": "Microsoft presenta nous models d'IA per reduir la dependència d'OpenAI i baixar costos per a desenvolupadors",
+      "link_id": "c_4f8c0e",
+      "source": "CNBC Technology",
+      "date": "2026-06-03",
+      "time": "05:47",
+      "summary": "Microsoft llança models generatius que reduiran costos i dependència d'OpenAI, facilitant el desenvolupament d'aplicacions IA."
+    },
+    {
+      "title": "Les ambicions d'IA del Big Tech representen una prova de poder clau per a Europa",
+      "link_id": "c_4e1851",
+      "source": "CNBC Technology",
+      "date": "2026-06-03",
+      "time": "05:03",
+      "summary": "Les grans empreses tecnològiques busquen dominar l'IA, plantejant un desafiament de poder per a Europa."
+    },
+    {
+      "title": "Els inversors aposten que els robots humanoides transformaran la indústria i les llars durant la propera dècada",
+      "link_id": "c_28c9c7",
+      "source": "CNBC Technology",
+      "date": "2026-06-03",
+      "time": "05:00",
+      "summary": "Els inversors preveuen que els robots humanoides revolucionaran la producció i la vida domèstica en deu anys."
+    },
+    {
+      "title": "Dins de la proposta d'Alexandr Wang per revitalitzar l'avantatge d'IA de Meta",
+      "link_id": "c_fffdbc",
+      "source": "Financial Times",
+      "date": "2026-06-03",
+      "time": "04:00",
+      "summary": "Alexandr Wang intenta recuperar l'avantatge d'IA de Meta amb una nova estratègia d'innovació."
+    }
+  ]
+}

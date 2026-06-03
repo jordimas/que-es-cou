@@ -1,16 +1,26 @@
 {
-  "generated_at": "2026-06-02T09:11",
+  "generated_at": "2026-06-03T12:00",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
     {
       "name": "Ara.cat",
       "url": "https://www.ara.cat/rss/",
+      "articles_found": 2
+    },
+    {
+      "name": "Via Empresa",
+      "url": "https://www.viaempresa.cat/uploads/feeds/feed_via-empresa-2024_ca.xml",
       "articles_found": 1
     },
     {
-      "name": "El Periódico",
-      "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
+      "name": "MetaData",
+      "url": "https://www.metadata.cat/sindica",
+      "articles_found": 3
+    },
+    {
+      "name": "Lleida Diari",
+      "url": "https://www.lleidadiari.cat/feed/",
       "articles_found": 1
     },
     {
@@ -19,209 +29,43 @@
       "articles_found": 2
     },
     {
-      "name": "La Vanguardia (en català)",
-      "url": "https://www.lavanguardia.com/rss/encatala.xml",
-      "articles_found": 0
-    },
-    {
-      "name": "VilaWeb",
-      "url": "https://www.vilaweb.cat/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "NacióDigital",
-      "url": "https://www.naciodigital.cat/rss/tecnologia",
-      "articles_found": 0
-    },
-    {
-      "name": "324.cat",
-      "url": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0",
-      "articles_found": 0
-    },
-    {
-      "name": "Softcatalà",
-      "url": "https://www.softcatala.org/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "El Nacional.cat",
-      "url": "https://www.elnacional.cat/uploads/feeds/feed_ca.xml",
-      "articles_found": 0
-    },
-    {
-      "name": "El Mon.cat",
-      "url": "https://www.elmon.cat/feed/",
+      "name": "El Periódico",
+      "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
       "articles_found": 1
-    },
-    {
-      "name": "El Mon.cat Tecnologia",
-      "url": "https://elmon.cat/tecnologia/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "El Mon.cat Societat",
-      "url": "https://elmon.cat/societat/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "Betevé",
-      "url": "https://beteve.cat/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "El Punt Avui",
-      "url": "https://www.elpuntavui.cat/barcelona.feed?type=rss",
-      "articles_found": 0
-    },
-    {
-      "name": "Segre",
-      "url": "https://www.segre.com/ca/rss/home.xml",
-      "articles_found": 0
-    },
-    {
-      "name": "Regio7",
-      "url": "https://www.regio7.cat/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Diari d'Andorra",
-      "url": "https://www.diariandorra.ad/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Bon Dia Andorra",
-      "url": "https://www.bondia.ad/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Altaveu",
-      "url": "https://www.altaveu.com/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Nuvol",
-      "url": "https://www.nuvol.com/feed",
-      "articles_found": 0
-    },
-    {
-      "name": "Diari Mes",
-      "url": "https://www.diarimes.com/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Directe.cat",
-      "url": "https://www.directe.cat/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Cugat.cat",
-      "url": "https://www.cugat.cat/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "CatalunyaPress",
-      "url": "https://www.catalunyapress.cat/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Tot Barcelona",
-      "url": "https://www.totbarcelona.cat/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "e-notícies",
-      "url": "https://www.e-noticies.cat/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Lleida Diari",
-      "url": "https://www.lleidadiari.cat/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "Catorze",
-      "url": "https://www.catorze.cat/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Xarxanet",
-      "url": "https://www.xarxanet.org/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Bondia",
-      "url": "https://www.bondia.cat/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "MetaData",
-      "url": "https://www.metadata.cat/sindica",
-      "articles_found": 3
-    },
-    {
-      "name": "El Temps",
-      "url": "https://www.eltemps.cat/sindica",
-      "articles_found": 0
-    },
-    {
-      "name": "Àpunt",
-      "url": "https://www.apuntmedia.es/rss/",
-      "articles_found": 0
-    },
-    {
-      "name": "El Periòdic d'Ontinyent",
-      "url": "https://www.elperiodicvalencia.com/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Saó",
-      "url": "https://www.revistasao.cat/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "Diari de Balears",
-      "url": "https://www.diaridebalears.cat/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "IB3 Notícies",
-      "url": "https://ib3.org/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "Ara Balears",
-      "url": "https://www.arabalears.cat/rss/",
-      "articles_found": 0
-    },
-    {
-      "name": "Manacor Comarcal",
-      "url": "https://manacorcomarcal.com/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Via Empresa",
-      "url": "https://www.viaempresa.cat/uploads/feeds/feed_via-empresa-2024_ca.xml",
-      "articles_found": 0
-    },
-    {
-      "name": "Lúdica",
-      "url": "https://ludica.cat/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "Accent Obert",
-      "url": "https://accentobert.cat/feed/",
-      "articles_found": 0
     }
   ],
   "articles": [
+    {
+      "title": "Preacord a Ficosa: l'ERO acabarà amb 105 acomiadaments i diverses garanties per als treballadors",
+      "link_id": "c_959226",
+      "source": "Ara.cat",
+      "date": "2026-06-03",
+      "time": "09:43",
+      "summary": "Acord reduïda a 105 acomiadaments, prioritzant baixes voluntàries i garanties per als treballadors afectats."
+    },
+    {
+      "title": "Factorial es consolida entre les scaleups d'IA més valuoses d'Europa amb 2.500 milions de valoració",
+      "link_id": "c_968bef",
+      "source": "Via Empresa",
+      "date": "2026-06-03",
+      "time": "10:21",
+      "summary": "Factorial atrau 150 milions d'euros, impulsant la seva valoració a 2.500 milions i expandint-se a Alemanya."
+    },
+    {
+      "title": "WhatsApp deixarà de dependre del número de telèfon: així canviarà la privacitat de més de 2.000 milions d’usuaris",
+      "link_id": "c_97ea68",
+      "source": "MetaData",
+      "date": "2026-06-03",
+      "time": "11:32",
+      "summary": "WhatsApp introduirà noms d'usuari, millorant la privacitat però obrint noves vulnerabilitats d'suplantació."
+    },
     {
       "title": "Barcelona incorpora el seu tercer ordinador quàntic i reforça la seva aposta per la sobirania tecnològica europea",
       "link_id": "c_2e5f0a",
       "source": "MetaData",
       "date": "2026-06-02",
       "time": "08:50",
-      "summary": "Barcelona consolida la seva posició com a pionera europea amb el tercer ordinador quàntic integrat al MareNostrum 5."
+      "summary": "Barcelona llança el tercer ordinador quàntic, reforçant la sobirania tecnològica europea amb EuroQCS-Spain."
     },
     {
       "title": "Catalunya lidera el videojoc mòbil a l’Estat en un mercat que ja mou més de 91.000 milions d’euros",
@@ -229,31 +73,31 @@
       "source": "MetaData",
       "date": "2026-06-01",
       "time": "16:10",
-      "summary": "Catalunya esdevé hub clau del videojoc mòbil, generant més de la meitat dels ingressos globals del sector."
+      "summary": "Catalunya lidera el mercat del videojoc mòbil a Espanya, generant més de 91.000 milions d'euros."
     },
     {
-      "title": "\"Tenim un robot humanoide amigable i que parla\"",
-      "link_id": "c_f52307",
-      "source": "Ara.cat",
-      "date": "2026-06-01",
-      "time": "05:00",
-      "summary": "Un robot humanoide amigable, desenvolupat a Barcelona, pot interactuar i aprendre del comportament humà."
+      "title": "Lleida estrena 80 noves ambulàncies i reforça el transport sanitari",
+      "link_id": "c_d596a3",
+      "source": "Lleida Diari",
+      "date": "2026-06-03",
+      "time": "10:45",
+      "summary": "Lleida desplega 80 noves ambulàncies, millorant l'atenció d'emergències amb una inversió de 121,8 milions."
     },
     {
-      "title": "Fluidra adquireix Datapool per a liderar la digitalització i eficiència en el sector de les piscines",
-      "link_id": "c_8874d9",
-      "source": "El Mon.cat",
-      "date": "2026-06-01",
-      "time": "15:51",
-      "summary": "Fluidra compra Datapool per digitalitzar piscines, millorant eficiència energètica i reduint consum d’aigua."
-    },
-    {
-      "title": "El Gelocatil deixa de ser català: la farmacèutica Ferrer ven aquest fàrmac a la francesa Cooper",
-      "link_id": "c_0c46c9",
+      "title": "David Cortés, l'usuari frustrat de Rodalies que ha creat una eina utilitzada per milers de persones: \"Donem informació útil en temps real\"",
+      "link_id": "c_ee29b1",
       "source": "RAC1",
-      "date": "2026-06-01",
-      "time": "20:00",
-      "summary": "Ferrer ven Gelocatil, deixant el mercat català i enfocant-se en tractaments de malalties rares."
+      "date": "2026-06-02",
+      "time": "16:33",
+      "summary": "Transporta’m, creat per un usuari frustrat, ofereix informació en temps real a milers de viatgers de Rodalies."
+    },
+    {
+      "title": "El Govern rebutja les acusacions contra el seu projecte de telecomunicacions vinculat a Huawei: «No hi renunciarem»",
+      "link_id": "c_f56935",
+      "source": "El Periódico",
+      "date": "2026-06-03",
+      "time": "11:15",
+      "summary": "El Govern descarta renunciar a col·laboració amb Huawei, defensant la continuïtat del projecte de telecomunicacions."
     },
     {
       "title": "El mòbil que ha conquerit Leticia Dolera s'ha gestat a Barcelona: \"No venem mòbils, venem temps\", diuen els creadors",
@@ -261,23 +105,15 @@
       "source": "RAC1",
       "date": "2026-06-01",
       "time": "17:36",
-      "summary": "Balance Phone, dissenyat a Barcelona, elimina continguts addictius, reduint tres hores d'ús diari."
+      "summary": "Balance Phone, dissenyat a Barcelona, elimina continguts addictius, reduint tres hores diàries d'ús."
     },
     {
-      "title": "Anthropic frega el bilió de dòlars i desbanca OpenAI com la start-up’ més valuosa del món",
-      "link_id": "c_e66d29",
-      "source": "El Periódico",
-      "date": "2026-05-29",
-      "time": "10:21",
-      "summary": "Anthropic supera el bilió de dòlars, convertint-se en la start-up d'IA més valuosa del món."
-    },
-    {
-      "title": "La nova eina catalana que vol predir inundacions gairebé en temps real",
-      "link_id": "c_7d17c5",
-      "source": "MetaData",
-      "date": "2026-05-29",
-      "time": "12:15",
-      "summary": "L'ACA i el BSC desenvolupen una plataforma que anticipa inundacions amb dades de 30 anys."
+      "title": "La intel·ligència artificial (IA) i l'absurd",
+      "link_id": "c_cf8401",
+      "source": "Ara.cat",
+      "date": "2026-05-31",
+      "time": "06:00",
+      "summary": "L'IA genera incertesa laboral i social, provocant debats sobre la pèrdua massiva de llocs de treball."
     }
   ]
 }
