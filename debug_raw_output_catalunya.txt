@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-06-03T12:00",
+  "generated_at": "2026-06-04T12:00",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
+    {
+      "name": "MetaData",
+      "url": "https://www.metadata.cat/sindica",
+      "articles_found": 1
+    },
+    {
+      "name": "La Vanguardia (en català)",
+      "url": "https://www.lavanguardia.com/rss/encatala.xml",
+      "articles_found": 2
+    },
     {
       "name": "Ara.cat",
       "url": "https://www.ara.cat/rss/",
@@ -14,74 +24,66 @@
       "articles_found": 1
     },
     {
-      "name": "MetaData",
-      "url": "https://www.metadata.cat/sindica",
-      "articles_found": 3
-    },
-    {
-      "name": "Lleida Diari",
-      "url": "https://www.lleidadiari.cat/feed/",
+      "name": "Betevé",
+      "url": "https://beteve.cat/feed/",
       "articles_found": 1
     },
     {
       "name": "RAC1",
       "url": "https://www.rac1.cat/rss/home.xml",
-      "articles_found": 2
+      "articles_found": 1
     },
     {
       "name": "El Periódico",
       "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
       "articles_found": 1
+    },
+    {
+      "name": "Tot Barcelona",
+      "url": "https://www.totbarcelona.cat/feed/",
+      "articles_found": 1
     }
   ],
   "articles": [
     {
-      "title": "Preacord a Ficosa: l'ERO acabarà amb 105 acomiadaments i diverses garanties per als treballadors",
-      "link_id": "c_959226",
+      "title": "La IA consumirà tanta aigua com 1.300 milions de persones abans del 2030",
+      "link_id": "c_318785",
+      "source": "MetaData",
+      "date": "2026-06-04",
+      "time": "08:45",
+      "summary": "L'ONU alerta que la IA pot consumir tanta aigua com 1.300 milions de persones abans del 2030."
+    },
+    {
+      "title": "Murtra (Telefónica) demana “acció publicoprivada” perquè la IA europea sigui una realitat",
+      "link_id": "c_0980c2",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-06-04",
+      "time": "07:26",
+      "summary": "Murtra denuncia les grans vulnerabilitats tecnològiques d'Europa i demana acció pública‑privada urgent."
+    },
+    {
+      "title": "Musk aspira a elevar SpaceX fins als 1,8 bilions amb la sortida a la borsa",
+      "link_id": "c_20ed3d",
       "source": "Ara.cat",
-      "date": "2026-06-03",
-      "time": "09:43",
-      "summary": "Acord reduïda a 105 acomiadaments, prioritzant baixes voluntàries i garanties per als treballadors afectats."
+      "date": "2026-06-04",
+      "time": "08:44",
+      "summary": "Musk vol portar SpaceX a la borsa, buscant una OPI de 1,8 bilions d'euros."
     },
     {
-      "title": "Factorial es consolida entre les scaleups d'IA més valuoses d'Europa amb 2.500 milions de valoració",
-      "link_id": "c_968bef",
+      "title": "Sennia, la plataforma catalana que vol acabar amb el 'burnout' dels professors",
+      "link_id": "c_fb369d",
       "source": "Via Empresa",
-      "date": "2026-06-03",
-      "time": "10:21",
-      "summary": "Factorial atrau 150 milions d'euros, impulsant la seva valoració a 2.500 milions i expandint-se a Alemanya."
+      "date": "2026-06-04",
+      "time": "04:55",
+      "summary": "Sennia usa IA per reduir la càrrega administrativa i evitar el burnout dels professors."
     },
     {
-      "title": "WhatsApp deixarà de dependre del número de telèfon: així canviarà la privacitat de més de 2.000 milions d’usuaris",
-      "link_id": "c_97ea68",
-      "source": "MetaData",
-      "date": "2026-06-03",
-      "time": "11:32",
-      "summary": "WhatsApp introduirà noms d'usuari, millorant la privacitat però obrint noves vulnerabilitats d'suplantació."
-    },
-    {
-      "title": "Barcelona incorpora el seu tercer ordinador quàntic i reforça la seva aposta per la sobirania tecnològica europea",
-      "link_id": "c_2e5f0a",
-      "source": "MetaData",
-      "date": "2026-06-02",
-      "time": "08:50",
-      "summary": "Barcelona llança el tercer ordinador quàntic, reforçant la sobirania tecnològica europea amb EuroQCS-Spain."
-    },
-    {
-      "title": "Catalunya lidera el videojoc mòbil a l’Estat en un mercat que ja mou més de 91.000 milions d’euros",
-      "link_id": "c_ba4267",
-      "source": "MetaData",
-      "date": "2026-06-01",
-      "time": "16:10",
-      "summary": "Catalunya lidera el mercat del videojoc mòbil a Espanya, generant més de 91.000 milions d'euros."
-    },
-    {
-      "title": "Lleida estrena 80 noves ambulàncies i reforça el transport sanitari",
-      "link_id": "c_d596a3",
-      "source": "Lleida Diari",
-      "date": "2026-06-03",
-      "time": "10:45",
-      "summary": "Lleida desplega 80 noves ambulàncies, millorant l'atenció d'emergències amb una inversió de 121,8 milions."
+      "title": "Barcelona eliminarà les bicis compartides el 2027 pel “desgavell i mal ús” que en fan els usuaris",
+      "link_id": "c_7f0920",
+      "source": "Betevé",
+      "date": "2026-06-04",
+      "time": "07:38",
+      "summary": "Barcelona eliminarà les bicicletes compartides el 2027 per combatre el desgavell i l'ús indegut."
     },
     {
       "title": "David Cortés, l'usuari frustrat de Rodalies que ha creat una eina utilitzada per milers de persones: \"Donem informació útil en temps real\"",
@@ -89,7 +91,23 @@
       "source": "RAC1",
       "date": "2026-06-02",
       "time": "16:33",
-      "summary": "Transporta’m, creat per un usuari frustrat, ofereix informació en temps real a milers de viatgers de Rodalies."
+      "summary": "Transporta’m, l'eina de Cortés, ofereix informació de rodalies en temps real a milers d'usuaris."
+    },
+    {
+      "title": "Martorell ja fabrica cotxes 100% elèctrics",
+      "link_id": "c_897c16",
+      "source": "Ara.cat",
+      "date": "2026-06-03",
+      "time": "17:31",
+      "summary": "La fàbrica de Martorell comença la producció en sèrie de cotxes 100% elèctrics, impulsant la descarbonització."
+    },
+    {
+      "title": "La UE vol excloure els gegants de Silicon Valley de les dades sensibles",
+      "link_id": "c_634697",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-06-04",
+      "time": "07:27",
+      "summary": "La UE vol prohibir l'accés de les grans empreses de Silicon Valley a dades sensibles europees."
     },
     {
       "title": "El Govern rebutja les acusacions contra el seu projecte de telecomunicacions vinculat a Huawei: «No hi renunciarem»",
@@ -97,23 +115,15 @@
       "source": "El Periódico",
       "date": "2026-06-03",
       "time": "11:15",
-      "summary": "El Govern descarta renunciar a col·laboració amb Huawei, defensant la continuïtat del projecte de telecomunicacions."
+      "summary": "El Govern descarta renunciar al projecte de telecomunicacions amb Huawei, defensant la continuïtat del pacte."
     },
     {
-      "title": "El mòbil que ha conquerit Leticia Dolera s'ha gestat a Barcelona: \"No venem mòbils, venem temps\", diuen els creadors",
-      "link_id": "c_a02344",
-      "source": "RAC1",
-      "date": "2026-06-01",
-      "time": "17:36",
-      "summary": "Balance Phone, dissenyat a Barcelona, elimina continguts addictius, reduint tres hores diàries d'ús."
-    },
-    {
-      "title": "La intel·ligència artificial (IA) i l'absurd",
-      "link_id": "c_cf8401",
-      "source": "Ara.cat",
-      "date": "2026-05-31",
-      "time": "06:00",
-      "summary": "L'IA genera incertesa laboral i social, provocant debats sobre la pèrdua massiva de llocs de treball."
+      "title": "Barcelona estrena una nova ruta transatlàntica",
+      "link_id": "c_3a11c3",
+      "source": "Tot Barcelona",
+      "date": "2026-06-03",
+      "time": "13:11",
+      "summary": "Barcelona llança una ruta directa a Lima, augmentant les connexions transatlàntiques i el turisme."
     }
   ]
 }

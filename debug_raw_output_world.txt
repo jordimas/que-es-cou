@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-06-03T10:47",
+  "generated_at": "2026-06-04T10:52",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Trump signa una ordre executiva més estreta sobre la supervisió de la IA",
-      "link_id": "c_a9acc9",
-      "source": "TechCrunch",
-      "date": "2026-06-02",
-      "time": "16:23",
-      "summary": "L'ordre limita la revisió a una base voluntària i redueix les exigències per a les empreses d'IA."
-    },
-    {
-      "title": "Google will let websites opt-out of AI Mode & Overviews in Search",
-      "link_id": "c_95fef7",
-      "source": "9to5Google",
+      "title": "Els llocs web de mitjans del Regne Unit obtenen el poder de bloquejar Google que utilitza els seus articles en la cerca d'IA",
+      "link_id": "c_22b267",
+      "source": "The Guardian Tech",
       "date": "2026-06-03",
-      "time": "05:10",
-      "summary": "Els editors podran bloquejar l'ús dels seus continguts en resums d'IA i en funcions de cerca avançada."
+      "time": "08:43",
+      "summary": "Les editorials britàniques podran impedir que Google mostri fragments dels seus articles en resultats d'IA."
     },
     {
-      "title": "Dates del Prime Day d'Amazon 2026 anunciades, evitant conflictes amb esdeveniments majors",
-      "link_id": "c_2b19d8",
-      "source": "TechCrunch",
-      "date": "2026-06-02",
-      "time": "15:05",
-      "summary": "Amazon avançarà el Prime Day al 23‑26 de juny per evitar superposicions amb la Copa del Món i altres esdeveniments."
+      "title": "SpaceX intenta recaptar 75 000 milions de dòlars en una OPI històrica",
+      "link_id": "c_e2c768",
+      "source": "Bloomberg Technology",
+      "date": "2026-06-04",
+      "time": "05:41",
+      "summary": "SpaceX busca finançar el seu creixement amb una oferta pública sense precedents."
     },
     {
-      "title": "Microsoft llança Scout, un assistent personal inspirat en OpenClaw",
-      "link_id": "c_4bd775",
-      "source": "TechCrunch",
-      "date": "2026-06-02",
-      "time": "18:02",
-      "summary": "Scout és un agent d'IA autònom que ajuda a gestionar tasques dins de Microsoft 365 amb identitat pròpia."
-    },
-    {
-      "title": "Google llança detecció de trucades falses per combatre estafes amb deepfake",
-      "link_id": "c_5eef0c",
-      "source": "CNET",
-      "date": "2026-06-02",
-      "time": "22:45",
-      "summary": "La nova funció verifica la identitat del trucant per evitar enganys basats en IA i suplantació."
-    },
-    {
-      "title": "Legisladors del Regne Unit demanen l'eliminació del contracte Palantir amb el NHS",
-      "link_id": "c_3d3bfe",
-      "source": "The Register",
-      "date": "2026-06-03",
-      "time": "10:10",
-      "summary": "Els parlamentaris critiquen la dependència del NHS en Palantir per qüestions de privacitat i seguretat."
-    },
-    {
-      "title": "Projecte Solara de Microsoft pretén portar la IA fora del PC cap al món real",
-      "link_id": "c_df442b",
-      "source": "TechRadar",
-      "date": "2026-06-02",
-      "time": "22:07",
-      "summary": "Solara introdueix agents d'IA que operen en dispositius com targetes d'accés i altres entorns físics."
-    },
-    {
-      "title": "Guia ràpida de suspensió per bicicletes de muntanya (2026)",
-      "link_id": "c_7adceb",
-      "source": "Wired",
-      "date": "2026-06-03",
-      "time": "10:38",
-      "summary": "Aprèn com funcionen la forquilla i l'amortidor per millorar el rendiment i la comoditat."
-    },
-    {
-      "title": "El làser privat més gran del món s'ha encès",
-      "link_id": "c_34b146",
-      "source": "TechCrunch",
-      "date": "2026-06-03",
-      "time": "10:00",
-      "summary": "La startup Xcimer ha activat el làser més gran propietat privada, impulsant la fusió nuclear."
-    },
-    {
-      "title": "Google afronta un problema d'aigua amb la IA i proposa una solució",
-      "link_id": "c_638d49",
+      "title": "Apple introdueix la verificació d'edat a Texas aquesta setmana",
+      "link_id": "c_caf44a",
       "source": "The Verge",
       "date": "2026-06-03",
-      "time": "09:00",
-      "summary": "Google anuncia cinc compromisos per augmentar i restaurar l'aigua en les comunitats locals afectades."
+      "time": "21:49",
+      "summary": "Apple obliga als usuaris texans a confirmar la seva edat abans d'utilitzar l'App Store."
+    },
+    {
+      "title": "Amazon mostrarà imatges de productes generades per IA quan compres productes reals",
+      "link_id": "c_fe70de",
+      "source": "CNET",
+      "date": "2026-06-03",
+      "time": "23:19",
+      "summary": "Amazon genera imatges fictícies amb IA per a productes que encara no existeixen."
+    },
+    {
+      "title": "Hackers enganyaren la IA d'Instagram per prendre el control de comptes de gran perfil",
+      "link_id": "c_7c1b1a",
+      "source": "CNET",
+      "date": "2026-06-02",
+      "time": "12:00",
+      "summary": "Un defecte en el xat d'Instagram va permetre a hackers accedir a comptes importants."
+    },
+    {
+      "title": "Nintendo redissenya la Switch 2 perquè puguis substituir la bateria tu mateix",
+      "link_id": "c_ede16a",
+      "source": "Digital Trends",
+      "date": "2026-06-04",
+      "time": "07:20",
+      "summary": "La nova Switch 2 complirà la normativa europea que exige bateries reemplaçables."
+    },
+    {
+      "title": "Microsoft presenta Scout, un agent d'IA autònom basat en OpenClaw",
+      "link_id": "c_0c1d50",
+      "source": "Computerworld",
+      "date": "2026-06-02",
+      "time": "18:15",
+      "summary": "Scout pot executar tasques automàticament dins de les aplicacions de Microsoft 365."
+    },
+    {
+      "title": "Qui és Elon Musk i quin és el seu patrimoni?",
+      "link_id": "c_036b66",
+      "source": "BBC Technology",
+      "date": "2026-06-04",
+      "time": "08:35",
+      "summary": "Musk lidera diverses empreses i controla una fortuna que supera els 200 000 milions."
+    },
+    {
+      "title": "Bombolla d'IA: 'Quelcom a observar', afirma Huynh de BNP",
+      "link_id": "c_61904c",
+      "source": "Bloomberg Technology",
+      "date": "2026-06-04",
+      "time": "08:25",
+      "summary": "Huynh alerta que la demanda d'IA podria quedar limitada per la disponibilitat de tokens."
+    },
+    {
+      "title": "El CEO de Goldman Sachs, David Solomon, sobre dirigir un banc en l'era de la IA",
+      "link_id": "c_a751c0",
+      "source": "Bloomberg Technology",
+      "date": "2026-06-04",
+      "time": "08:00",
+      "summary": "Solomon explica com la IA transforma les operacions i el model de negoci bancari."
     }
   ]
 }

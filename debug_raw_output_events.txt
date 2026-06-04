@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T10:47",
+  "generated_at": "2026-06-04T09:00",
   "id": "events",
   "title": "Trobades",
   "sources_checked": [],
@@ -10,7 +10,7 @@
       "source": "GDG Barcelona",
       "date": "2026-05-22",
       "time": "14:34",
-      "summary": "Exploració de la intel·ligència artificial per transformar timbre vocal, mostrant demostrações en viu i discussió accessible."
+      "summary": "Descobreix com la IA transforma la identitat vocal i els espais latents en una exposició innovadora."
     },
     {
       "title": "Beyond Chatbots: What Claude Code & Cowork Can Do For Your Business [1 of 2]",
@@ -18,7 +18,7 @@
       "source": "AI Professionals Barcelona",
       "date": "2026-05-31",
       "time": "20:35",
-      "summary": "Aprèn a crear eines IA que automatitzen processos empresarials sense codi, millorant l'eficiència i la replicabilitat."
+      "summary": "Aprèn a crear SOPs intel·ligents amb Claude Code, sense programació, per automatitzar processos empresarials."
     },
     {
       "title": "Beyond Chatbots: What Claude Code & Cowork Can Do For Your Business [2 of 2]",
@@ -26,7 +26,23 @@
       "source": "AI Professionals Barcelona",
       "date": "2026-06-01",
       "time": "00:03",
-      "summary": "Construeix un agent autònom que gestiona la incorporació de clients, enviant correus i iniciant tasques automàticament."
+      "summary": "Construeix un agent autònom que gestiona la incorporació de clients, enviant correus i organitzant tasques."
+    },
+    {
+      "title": "Networking for AI Professionals around the world - July 7",
+      "link_id": "c_5bd7d0",
+      "source": "AI Professionals Barcelona",
+      "date": "2026-06-03",
+      "time": "16:50",
+      "summary": "Sessió virtual gratuïta per connectar professionals d'IA globalment, fomentant col·laboracions i oportunitats locals."
+    },
+    {
+      "title": "Networking for AI Professionals around the world - August 13",
+      "link_id": "c_6c3dc6",
+      "source": "AI Professionals Barcelona",
+      "date": "2026-06-03",
+      "time": "18:11",
+      "summary": "Reuneix experts d'IA en trobada en línia, impulsant xarxes internacionals i projectes conjunts."
     },
     {
       "title": "BuildStream and KDE",
@@ -34,7 +50,7 @@
       "source": "Free Software Barcelona",
       "date": "2026-05-31",
       "time": "08:49",
-      "summary": "Descobreix BuildStream, la eina KDE per compilar sistemes operatius, i com contribuir al seu desenvolupament."
+      "summary": "Aleix Pol explica BuildStream com a eina per construir sistemes operatius i integrar-lo amb KDE."
     }
   ]
 }

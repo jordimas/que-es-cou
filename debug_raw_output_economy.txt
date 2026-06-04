@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-06-03T12:47",
+  "generated_at": "2026-06-04T10:52",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "HPE s'enlaira 19 % després d'unes guanys excepcionals dilluns, tancant el seu millor dia",
-      "link_id": "c_cdc9a2",
+      "title": "Europa presenta paquet de sobirania tecnològica davant de creixents preocupacions per la dependència de la tecnologia nord-americana: 'Volem assegurar que ningú tingui un botó d'aturada'",
+      "link_id": "c_51fd70",
       "source": "CNBC Technology",
-      "date": "2026-06-02",
-      "time": "20:13",
-      "summary": "Després d'unes guanys excepcionals, HPE registra un augment del 19 % i tanca el seu millor dia."
+      "date": "2026-06-04",
+      "time": "06:46",
+      "summary": "El paquet busca reduir la dependència tecnològica i garantir la seguretat digital europea."
     },
     {
-      "title": "Anthropic ampliarà l'accés a Mythos a més de quinze països",
-      "link_id": "c_92143b",
+      "title": "El moviment de CPU de Nvidia i la consolidació dels fabricants xinesos de vehicles elèctrics",
+      "link_id": "c_3c350e",
       "source": "Financial Times",
-      "date": "2026-06-02",
-      "time": "18:16",
-      "summary": "Anthropic amplia l'accés a la seva IA Mythos, arribant a més de quinze països per impulsar la seguretat."
+      "date": "2026-06-04",
+      "time": "06:13",
+      "summary": "Nvidia aposta per processadors per competir amb Intel, mentre la Xina reforça la seva indústria d'EV."
     },
     {
-      "title": "Anthropic amplia Mythos a 150 organitzacions addicionals en més de quinze països",
-      "link_id": "c_ca28c3",
-      "source": "CNBC Technology",
-      "date": "2026-06-02",
-      "time": "16:00",
-      "summary": "L'extensió a 150 organitzacions reforça la presència global d'Mythos, millorant la col·laboració en IA."
-    },
-    {
-      "title": "Com Dell, ara HPE s'enlaira gràcies a una gran pujada de les seves previsions. Sí, el negoci és tan bo",
-      "link_id": "c_827f83",
-      "source": "CNBC Technology",
-      "date": "2026-06-02",
-      "time": "14:15",
-      "summary": "HPE augmenta les seves previsions, impulsada per la demanda d'infraestructura d'IA, superant les expectatives del sector."
-    },
-    {
-      "title": "Alphabet planeja recaptar 80 000 milions de dòlars mitjançant vendes d'accions per finançar l'expansió d'IA",
-      "link_id": "c_228aa1",
-      "source": "CNBC Technology",
-      "date": "2026-06-02",
-      "time": "11:38",
-      "summary": "Alphabet busca finançar la seva estratègia d'IA amb una venda massiva d'accions, apuntant a liderar el mercat."
-    },
-    {
-      "title": "El CEO de Perplexity afirma que una única mètrica decidirà qui guanyarà la cursa de la IA",
-      "link_id": "c_9b4806",
-      "source": "CNBC Technology",
-      "date": "2026-06-03",
-      "time": "08:45",
-      "summary": "Perplexity defineix una mètrica clau per mesurar l'eficiència energètica per usuari en la IA."
-    },
-    {
-      "title": "Microsoft presenta nous models d'IA per reduir la dependència d'OpenAI i baixar costos per a desenvolupadors",
-      "link_id": "c_4f8c0e",
-      "source": "CNBC Technology",
-      "date": "2026-06-03",
-      "time": "05:47",
-      "summary": "Microsoft llança models generatius que reduiran costos i dependència d'OpenAI, facilitant el desenvolupament d'aplicacions IA."
-    },
-    {
-      "title": "Les ambicions d'IA del Big Tech representen una prova de poder clau per a Europa",
-      "link_id": "c_4e1851",
-      "source": "CNBC Technology",
-      "date": "2026-06-03",
-      "time": "05:03",
-      "summary": "Les grans empreses tecnològiques busquen dominar l'IA, plantejant un desafiament de poder per a Europa."
-    },
-    {
-      "title": "Els inversors aposten que els robots humanoides transformaran la indústria i les llars durant la propera dècada",
-      "link_id": "c_28c9c7",
-      "source": "CNBC Technology",
-      "date": "2026-06-03",
-      "time": "05:00",
-      "summary": "Els inversors preveuen que els robots humanoides revolucionaran la producció i la vida domèstica en deu anys."
-    },
-    {
-      "title": "Dins de la proposta d'Alexandr Wang per revitalitzar l'avantatge d'IA de Meta",
-      "link_id": "c_fffdbc",
+      "title": "Accelerant els negocis",
+      "link_id": "c_c27065",
       "source": "Financial Times",
-      "date": "2026-06-03",
+      "date": "2026-06-04",
+      "time": "04:13",
+      "summary": "Les empreses adopten tecnologies emergents per accelerar el creixement i la innovació."
+    },
+    {
+      "title": "Kirkland & Ellis i Palantir desenvoluparan una eina d'IA per ajudar les firmes de capital privat",
+      "link_id": "c_05ee97",
+      "source": "Financial Times",
+      "date": "2026-06-04",
       "time": "04:00",
-      "summary": "Alexandr Wang intenta recuperar l'avantatge d'IA de Meta amb una nova estratègia d'innovació."
+      "summary": "L'eina d'IA ajudarà a optimitzar inversions i a identificar oportunitats per a fons de capital privat."
+    },
+    {
+      "title": "El risc de ciberseguretat d'IA encapçala les amenaces bancàries, segons el regulador del Regne Unit",
+      "link_id": "c_f50945",
+      "source": "Financial Times",
+      "date": "2026-06-04",
+      "time": "04:00",
+      "summary": "El regulador adverteix que les vulnerabilitats d'IA podrien comprometre la seguretat dels bancs."
+    },
+    {
+      "title": "Les accions indígenes perden davant rivals asiàtics en la recerca mundial de guanyadors d'IA",
+      "link_id": "c_44cbd8",
+      "source": "Financial Times",
+      "date": "2026-06-04",
+      "time": "04:00",
+      "summary": "Els inversors prefereixen empreses asiàtiques amb avançaments d'IA, deixant a l'Índia enrere."
+    },
+    {
+      "title": "Nvidia porta la batalla d'IA del centre de dades al portàtil",
+      "link_id": "c_63c811",
+      "source": "Financial Times",
+      "date": "2026-06-04",
+      "time": "04:00",
+      "summary": "Nvidia busca portar la potència d'IA als ordinadors portàtils per a usuaris finals."
+    },
+    {
+      "title": "La cursa incansable d'Anthropic cap al cim",
+      "link_id": "c_37ba59",
+      "source": "Financial Times",
+      "date": "2026-06-04",
+      "time": "04:00",
+      "summary": "Anthropic intensifica el desenvolupament d'IA avançada per superar la competència del sector."
+    },
+    {
+      "title": "El boom d'IA de 110 000 milions d'euros a França posa a prova les ambicions tecnològiques de Macron",
+      "link_id": "c_dcd2ca",
+      "source": "Financial Times",
+      "date": "2026-06-04",
+      "time": "04:00",
+      "summary": "El gran projecte de centres de dades a França genera controvèrsia per l'impacte ambiental i social."
+    },
+    {
+      "title": "Enginyers d'Amazon a Seattle critiquen l'empresa per construir centres de dades d'IA mentre acomiada 30 000 treballadors",
+      "link_id": "c_e2c6af",
+      "source": "CNBC Technology",
+      "date": "2026-06-04",
+      "time": "01:54",
+      "summary": "Els enginyers denuncien la contradicció entre la inversió massiva en IA i els acomiadaments massius."
     }
   ]
 }
