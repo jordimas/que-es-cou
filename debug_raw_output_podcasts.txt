@@ -1,96 +1,104 @@
 {
-  "generated_at": "2026-06-04T09:00",
+  "generated_at": "2026-06-05T11:02",
   "id": "podcasts",
   "title": "Podcasts en català sobre tecnologia",
   "sources_checked": [],
   "articles": [
     {
-      "title": "“What a time to be alive” – programa 666",
+      "title": "«What a time to be alive» – programa 666",
       "link_id": "c_5b9998",
       "source": "Mossega la poma",
       "date": "2026-05-30",
-      "time": "08:24",
-      "summary": "Debat sobre IA, ètica i expectatives empresarials, amb la col·laboració de la UPC i Josep Ruano."
+      "time": "10:24",
+      "summary": "Debat sobre IA i ètica papal, amb la col·laboració de la UPC i Josep Ruano."
     },
     {
       "title": "Cuques de llum i la necessitat de conservar els llibres originals en paper – Programa 665",
       "link_id": "c_8d82ce",
       "source": "Mossega la poma",
       "date": "2026-05-22",
-      "time": "07:37",
-      "summary": "Exploració del projecte Gutenberg i la importància de preservar llibres originals en paper davant la digitalització."
+      "time": "09:37",
+      "summary": "Exploració de les cuques de llum i la importància de preservar llibres originals en paper."
+    },
+    {
+      "title": "L'altra ràdio – Nou ordinador quàntic al Barcelona Supercomputing Center",
+      "link_id": "c_679bc1",
+      "source": "L'altra ràdio",
+      "date": "2026-06-05",
+      "time": "00:58",
+      "summary": "Presentació del tercer ordinador quàntic EuroQCS-Spain, impulsant el superordinador MareNostrum 5."
     },
     {
       "title": "L' Altra Ràdio - La informàtica a la perifèria pot localitzar objectes amb una precisió de centímetres",
       "link_id": "c_5e7cc2",
       "source": "L'altra ràdio",
       "date": "2026-05-28",
-      "time": "07:33",
-      "summary": "Entrevista sobre Near By Computing i com l'edge computing localitza objectes amb precisió centimètrica en temps real."
+      "time": "16:33",
+      "summary": "Near By Computing mostra com l'edge computing localitza objectes amb precisió centimètrica en temps real."
     },
     {
       "title": "L' Altra Ràdio - El projecte Erica, la ciència ciutadana i la protecció del medi ambient",
       "link_id": "c_7f29fd",
       "source": "L'altra ràdio",
       "date": "2026-05-21",
-      "time": "07:33",
-      "summary": "Discussió del projecte Erica, ciència ciutadana per impulsar acció climàtica i compromís ambiental col·lectiu."
+      "time": "16:33",
+      "summary": "Projecte Erica empodera ciutadans amb ciència ciutadana per protegir el medi ambient."
     },
     {
       "title": "El gòTIC - Tenim una missió! del 3/6/2026",
       "link_id": "c_1d3e0a",
       "source": "El Gòtic",
-      "date": "2026-06-02",
-      "time": "16:29",
-      "summary": "Recull de recursos digitals per afrontar reptes de la ciutadania digital, amb enfocament comunitari i educatiu."
+      "date": "2026-06-04",
+      "time": "01:29",
+      "summary": "El gòTIC impulsa recursos digitals per afrontar reptes de la ciutadania digital."
     },
     {
       "title": "El gòTIC - Tenim una missió! del 27/5/2026",
       "link_id": "c_992079",
       "source": "El Gòtic",
-      "date": "2026-05-26",
-      "time": "16:29",
-      "summary": "Segona entrega de missions digitals, oferint estratègies i eines per a la participació ciutadana en tecnologia."
+      "date": "2026-05-28",
+      "time": "01:29",
+      "summary": "Segona missió del gòTIC comparteix estratègies per a la transformació digital local."
     },
     {
       "title": "Desglossem la factura de la IA",
       "link_id": "c_deb241",
       "source": "Foc a Terra",
       "date": "2026-06-01",
-      "time": "04:00",
-      "summary": "Anàlisi detallada del cost energètic de la IA i impacte ambiental de centres de dades."
+      "time": "06:00",
+      "summary": "Anàlisi detallada del cost energètic de la intel·ligència artificial i impacte mediambiental."
     },
     {
       "title": "El NO-GOci de la música, amb Arnau Tordera d'Obeses",
       "link_id": "c_f3e521",
       "source": "Foc a Terra",
       "date": "2026-05-25",
-      "time": "04:00",
-      "summary": "Entrevista amb Arnau Tordera sobre la fusió entre rock català i temes religiosos, provocant controvèrsia."
+      "time": "06:00",
+      "summary": "Entrevista amb Arnau Tordera sobre la música experimental i la crítica al rock convencional."
     },
     {
       "title": "WordPress fa 23 anys",
       "link_id": "c_74ae56",
       "source": "WordPress Pòdcast",
       "date": "2026-06-02",
-      "time": "00:00",
-      "summary": "Celebració dels 23 anys de WordPress, revisant la seva evolució i influència en el desenvolupament web."
+      "time": "02:00",
+      "summary": "Celebració dels 23 anys de WordPress, recordant el llançament del 2003."
     },
     {
       "title": "WordPress 7.0: Louis «Armstrong»",
       "link_id": "c_9a1799",
       "source": "WordPress Pòdcast",
       "date": "2026-05-26",
-      "time": "00:00",
-      "summary": "Anàlisi de la versió 7.0, destacant la integració d'IA i les noves funcionalitats per creadors."
+      "time": "02:00",
+      "summary": "Llançament de WordPress 7.0 amb integració d'IA, superant desafiaments tècnics."
     },
     {
       "title": "Capítol 66: Un mòbil sense coloraines que no t'enganxi hores i hores",
       "link_id": "c_43141f",
       "source": "RAC&GO",
       "date": "2026-06-02",
-      "time": "06:00",
-      "summary": "Presentació d'un telèfon minimalista sense xarxes socials, promogut per emprenedors catalans com a alternativa saludable."
+      "time": "08:00",
+      "summary": "Nou mòbil minimalista elimina distraccions digitals, enfocant-se en funcions bàsiques."
     }
   ]
 }

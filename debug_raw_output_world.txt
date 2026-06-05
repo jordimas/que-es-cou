@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-06-04T10:52",
+  "generated_at": "2026-06-05T13:02",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Els llocs web de mitjans del Regne Unit obtenen el poder de bloquejar Google que utilitza els seus articles en la cerca d'IA",
-      "link_id": "c_22b267",
-      "source": "The Guardian Tech",
-      "date": "2026-06-03",
-      "time": "08:43",
-      "summary": "Les editorials britàniques podran impedir que Google mostri fragments dels seus articles en resultats d'IA."
-    },
-    {
-      "title": "SpaceX intenta recaptar 75 000 milions de dòlars en una OPI històrica",
-      "link_id": "c_e2c768",
-      "source": "Bloomberg Technology",
-      "date": "2026-06-04",
-      "time": "05:41",
-      "summary": "SpaceX busca finançar el seu creixement amb una oferta pública sense precedents."
-    },
-    {
-      "title": "Apple introdueix la verificació d'edat a Texas aquesta setmana",
-      "link_id": "c_caf44a",
-      "source": "The Verge",
-      "date": "2026-06-03",
-      "time": "21:49",
-      "summary": "Apple obliga als usuaris texans a confirmar la seva edat abans d'utilitzar l'App Store."
-    },
-    {
-      "title": "Amazon mostrarà imatges de productes generades per IA quan compres productes reals",
-      "link_id": "c_fe70de",
-      "source": "CNET",
-      "date": "2026-06-03",
-      "time": "23:19",
-      "summary": "Amazon genera imatges fictícies amb IA per a productes que encara no existeixen."
-    },
-    {
-      "title": "Hackers enganyaren la IA d'Instagram per prendre el control de comptes de gran perfil",
-      "link_id": "c_7c1b1a",
-      "source": "CNET",
-      "date": "2026-06-02",
-      "time": "12:00",
-      "summary": "Un defecte en el xat d'Instagram va permetre a hackers accedir a comptes importants."
-    },
-    {
-      "title": "Nintendo redissenya la Switch 2 perquè puguis substituir la bateria tu mateix",
-      "link_id": "c_ede16a",
+      "title": "Cash App acaba de llançar una vareta per a pagaments perquè escanejar i tocar amb el telèfon és avorrit.",
+      "link_id": "c_dfd942",
       "source": "Digital Trends",
-      "date": "2026-06-04",
-      "time": "07:20",
-      "summary": "La nova Switch 2 complirà la normativa europea que exige bateries reemplaçables."
+      "date": "2026-06-05",
+      "time": "02:09",
+      "summary": "La vareta NFC permet pagaments instantanis sense treure la targeta, reduint el temps de compra."
     },
     {
-      "title": "Microsoft presenta Scout, un agent d'IA autònom basat en OpenClaw",
-      "link_id": "c_0c1d50",
-      "source": "Computerworld",
-      "date": "2026-06-02",
-      "time": "18:15",
-      "summary": "Scout pot executar tasques automàticament dins de les aplicacions de Microsoft 365."
+      "title": "Cash App llança una vareta de pagament quan Apple Pay no és prou màgica.",
+      "link_id": "c_01ddbb",
+      "source": "9to5Mac",
+      "date": "2026-06-04",
+      "time": "16:20",
+      "summary": "La vareta de pagament ofereix una experiència sense friccions per a usuaris d'Apple Pay."
     },
     {
-      "title": "Qui és Elon Musk i quin és el seu patrimoni?",
-      "link_id": "c_036b66",
-      "source": "BBC Technology",
+      "title": "Cash App llança una vareta per a pagar amb un toc.",
+      "link_id": "c_ad9604",
+      "source": "TechCrunch",
       "date": "2026-06-04",
-      "time": "08:35",
-      "summary": "Musk lidera diverses empreses i controla una fortuna que supera els 200 000 milions."
+      "time": "16:00",
+      "summary": "Una vareta compacta NFC facilita el pagament amb un simple toc al terminal."
     },
     {
-      "title": "Bombolla d'IA: 'Quelcom a observar', afirma Huynh de BNP",
-      "link_id": "c_61904c",
-      "source": "Bloomberg Technology",
+      "title": "Cash App crea una vareta màgica per a pagar amb un toc.",
+      "link_id": "c_d60b0c",
+      "source": "The Verge",
       "date": "2026-06-04",
-      "time": "08:25",
-      "summary": "Huynh alerta que la demanda d'IA podria quedar limitada per la disponibilitat de tokens."
+      "time": "16:00",
+      "summary": "La vareta NFC simplifica les transaccions, evitant l'ús del telèfon."
     },
     {
-      "title": "El CEO de Goldman Sachs, David Solomon, sobre dirigir un banc en l'era de la IA",
-      "link_id": "c_a751c0",
-      "source": "Bloomberg Technology",
+      "title": "Meta acusada de preparar funcions de reconeixement facial per a ulleres intel·ligents d'IA.",
+      "link_id": "c_9305cf",
+      "source": "The Register",
+      "date": "2026-06-05",
+      "time": "01:12",
+      "summary": "Meta desenvolupa tecnologia facial per a les seves ulleres d'IA, generant controvèrsia de privacitat."
+    },
+    {
+      "title": "Wired troba codi d'una funció de reconeixement facial no publicada a l'app d'IA de Meta.",
+      "link_id": "c_db2310",
+      "source": "Engadget",
       "date": "2026-06-04",
-      "time": "08:00",
-      "summary": "Solomon explica com la IA transforma les operacions i el model de negoci bancari."
+      "time": "20:36",
+      "summary": "Wired descobreix codi ocult que podria permetre reconeixement facial sense consentiment."
+    },
+    {
+      "title": "Valve afirma que està preparada per llançar la Steam Machine aquest estiu.",
+      "link_id": "c_47f1d6",
+      "source": "The Verge",
+      "date": "2026-06-04",
+      "time": "22:48",
+      "summary": "La nova Steam Machine promet portar jocs de PC a la sala d'estar aquest estiu."
+    },
+    {
+      "title": "Valve diu que està preparada per llançar la Steam Machine aquest estiu.",
+      "link_id": "c_30603e",
+      "source": "TechCrunch",
+      "date": "2026-06-04",
+      "time": "19:33",
+      "summary": "Valve prepara el llançament de la Steam Machine, ampliant l'ecosistema de jocs a la llar."
+    },
+    {
+      "title": "Apple aprova Poke com el primer agent d'IA a la seva plataforma Messages for Business.",
+      "link_id": "c_8ef014",
+      "source": "TechCrunch",
+      "date": "2026-06-04",
+      "time": "19:20",
+      "summary": "Poke, l'agent d'IA, s'integra a Messages for Business per a respostes automàtiques."
+    },
+    {
+      "title": "L'app Missatges d'Apple al iPhone ara té un agent d'IA de tercera part.",
+      "link_id": "c_1400d7",
+      "source": "9to5Mac",
+      "date": "2026-06-04",
+      "time": "17:18",
+      "summary": "L'app Missatges incorpora un agent d'IA de tercers, ampliant les funcionalitats del xat."
     }
   ]
 }

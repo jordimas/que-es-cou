@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-06-04T10:52",
+  "generated_at": "2026-06-05T13:02",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Europa presenta paquet de sobirania tecnològica davant de creixents preocupacions per la dependència de la tecnologia nord-americana: 'Volem assegurar que ningú tingui un botó d'aturada'",
-      "link_id": "c_51fd70",
+      "title": "El dissenyador de xips Raspberry Pi puja un quart per millores de rendibilitat",
+      "link_id": "c_5266b1",
+      "source": "Financial Times",
+      "date": "2026-06-05",
+      "time": "09:25",
+      "summary": "Raspberry Pi augmenta les vendes gràcies a noves estratègies de rendibilitat que milloren els marges."
+    },
+    {
+      "title": "Xina recluta més talent d'IA dels EUA mentre mira cap a la pròxima 'superaplicació'",
+      "link_id": "c_96b6dc",
+      "source": "CNBC Technology",
+      "date": "2026-06-05",
+      "time": "07:50",
+      "summary": "Xina intensifica la carrera d'IA reclutant experts americans, buscant liderar la propera gran aplicació."
+    },
+    {
+      "title": "El lloc de seguiment Food Watch: Corea del Sud obsessa la visita del CEO de Nvidia, Jensen Huang",
+      "link_id": "c_393dc0",
+      "source": "CNBC Technology",
+      "date": "2026-06-05",
+      "time": "04:40",
+      "summary": "Corea del Sud segueix obsessivament cada moviment de Jensen Huang, esperant beneficis de la seva visita."
+    },
+    {
+      "title": "Quin valor està generant realment la IA?",
+      "link_id": "c_3b7c91",
+      "source": "Financial Times",
+      "date": "2026-06-05",
+      "time": "04:00",
+      "summary": "Analitzem si la IA aporta beneficis reals o només genera expectatives inflades en el mercat."
+    },
+    {
+      "title": "Podcast: gestió del canvi en una era de disrupció de la IA",
+      "link_id": "c_7c4cfa",
+      "source": "Financial Times",
+      "date": "2026-06-05",
+      "time": "04:00",
+      "summary": "Explorem com les empreses poden adaptar-se al canvi constant provocat per la intel·ligència artificial."
+    },
+    {
+      "title": "Fons de cobertura aposten contra les accions de centres de trucades mentre creix la amenaça de la IA",
+      "link_id": "c_d308ca",
+      "source": "Financial Times",
+      "date": "2026-06-05",
+      "time": "04:00",
+      "summary": "Els fons veuen la IA com a risc per a centres de trucades i redueixen les seves inversions."
+    },
+    {
+      "title": "Humanoides porten la destrucció creativa de la IA al taller",
+      "link_id": "c_43e83f",
+      "source": "Financial Times",
+      "date": "2026-06-05",
+      "time": "04:00",
+      "summary": "Humanoides automatitzen tasques, canviant la dinàmica laboral i augmentant la productivitat a les fàbriques."
+    },
+    {
+      "title": "Warren convida el CEO de Nvidia, Jensen Huang, a una audiència del Senat sobre les vendes de xips d'IA a la Xina",
+      "link_id": "c_0bcdcf",
+      "source": "CNBC Technology",
+      "date": "2026-06-05",
+      "time": "00:58",
+      "summary": "Warren pressiona Nvidia per a regular les exportacions de xips d'IA a la Xina, destacant riscos de seguretat."
+    },
+    {
+      "title": "El CEO de CrowdStrike afirma que les pors de seguretat de la IA impulsaran el creixement en els propers trimestres",
+      "link_id": "c_fa4dbc",
       "source": "CNBC Technology",
       "date": "2026-06-04",
-      "time": "06:46",
-      "summary": "El paquet busca reduir la dependència tecnològica i garantir la seguretat digital europea."
+      "time": "22:37",
+      "summary": "CrowdStrike preveu que les preocupacions de seguretat impulsaran la demanda de solucions IA en el futur proper."
     },
     {
-      "title": "El moviment de CPU de Nvidia i la consolidació dels fabricants xinesos de vehicles elèctrics",
-      "link_id": "c_3c350e",
-      "source": "Financial Times",
-      "date": "2026-06-04",
-      "time": "06:13",
-      "summary": "Nvidia aposta per processadors per competir amb Intel, mentre la Xina reforça la seva indústria d'EV."
-    },
-    {
-      "title": "Accelerant els negocis",
-      "link_id": "c_c27065",
-      "source": "Financial Times",
-      "date": "2026-06-04",
-      "time": "04:13",
-      "summary": "Les empreses adopten tecnologies emergents per accelerar el creixement i la innovació."
-    },
-    {
-      "title": "Kirkland & Ellis i Palantir desenvoluparan una eina d'IA per ajudar les firmes de capital privat",
-      "link_id": "c_05ee97",
-      "source": "Financial Times",
-      "date": "2026-06-04",
-      "time": "04:00",
-      "summary": "L'eina d'IA ajudarà a optimitzar inversions i a identificar oportunitats per a fons de capital privat."
-    },
-    {
-      "title": "El risc de ciberseguretat d'IA encapçala les amenaces bancàries, segons el regulador del Regne Unit",
-      "link_id": "c_f50945",
-      "source": "Financial Times",
-      "date": "2026-06-04",
-      "time": "04:00",
-      "summary": "El regulador adverteix que les vulnerabilitats d'IA podrien comprometre la seguretat dels bancs."
-    },
-    {
-      "title": "Les accions indígenes perden davant rivals asiàtics en la recerca mundial de guanyadors d'IA",
-      "link_id": "c_44cbd8",
-      "source": "Financial Times",
-      "date": "2026-06-04",
-      "time": "04:00",
-      "summary": "Els inversors prefereixen empreses asiàtiques amb avançaments d'IA, deixant a l'Índia enrere."
-    },
-    {
-      "title": "Nvidia porta la batalla d'IA del centre de dades al portàtil",
-      "link_id": "c_63c811",
-      "source": "Financial Times",
-      "date": "2026-06-04",
-      "time": "04:00",
-      "summary": "Nvidia busca portar la potència d'IA als ordinadors portàtils per a usuaris finals."
-    },
-    {
-      "title": "La cursa incansable d'Anthropic cap al cim",
-      "link_id": "c_37ba59",
-      "source": "Financial Times",
-      "date": "2026-06-04",
-      "time": "04:00",
-      "summary": "Anthropic intensifica el desenvolupament d'IA avançada per superar la competència del sector."
-    },
-    {
-      "title": "El boom d'IA de 110 000 milions d'euros a França posa a prova les ambicions tecnològiques de Macron",
-      "link_id": "c_dcd2ca",
-      "source": "Financial Times",
-      "date": "2026-06-04",
-      "time": "04:00",
-      "summary": "El gran projecte de centres de dades a França genera controvèrsia per l'impacte ambiental i social."
-    },
-    {
-      "title": "Enginyers d'Amazon a Seattle critiquen l'empresa per construir centres de dades d'IA mentre acomiada 30 000 treballadors",
-      "link_id": "c_e2c6af",
+      "title": "L'empresa quàntica de Honeywell s'ofereix públicament. Què han de saber els inversors sobre l'OPV",
+      "link_id": "c_461a97",
       "source": "CNBC Technology",
       "date": "2026-06-04",
-      "time": "01:54",
-      "summary": "Els enginyers denuncien la contradicció entre la inversió massiva en IA i els acomiadaments massius."
+      "time": "20:55",
+      "summary": "L'OPV de Honeywell ofereix accés a la computació quàntica, atraient inversors buscant tecnologies emergents."
     }
   ]
 }
