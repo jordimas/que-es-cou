@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-06-05T13:02",
+  "generated_at": "2026-06-06T09:47",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Cash App acaba de llançar una vareta per a pagaments perquè escanejar i tocar amb el telèfon és avorrit.",
-      "link_id": "c_dfd942",
-      "source": "Digital Trends",
+      "title": "Jensen Huang domina l'escenari de Seül amb una nit de teatre de carrer",
+      "link_id": "c_df73f7",
+      "source": "Bloomberg Technology",
+      "date": "2026-06-06",
+      "time": "07:19",
+      "summary": "El CEO de Nvidia presenta un espectacle urbà a Seül, mostrant la seva visió tecnològica."
+    },
+    {
+      "title": "Com veure la final de la Copa del Món ‘66 en color de forma gratuïta",
+      "link_id": "c_b53da4",
+      "source": "TechRadar",
+      "date": "2026-06-06",
+      "time": "07:00",
+      "summary": "Guia per transmetre la final de 1966 amb colors vius sense cost."
+    },
+    {
+      "title": "Les comunitats del Regne Unit paguen per aquest delicte: Openreach col·labora amb una empresa de reciclatge de metall",
+      "link_id": "c_a9660e",
+      "source": "TechRadar",
+      "date": "2026-06-06",
+      "time": "06:20",
+      "summary": "Openreach i un reciclatge de metall combaten el robatori de cables de 4 000 milions d'euros anuals."
+    },
+    {
+      "title": "Respostes del Mini Crucigrama del NYT d'avui per al dissabte 6 de juny",
+      "link_id": "c_0ffe7d",
+      "source": "CNET",
+      "date": "2026-06-06",
+      "time": "02:43",
+      "summary": "Llista de solucions del mini crucigrama del NYT publicades el 6‑6‑2026."
+    },
+    {
+      "title": "Google Messages evita respostes intel·ligents accidentals amb ‘Toca per esbossar’",
+      "link_id": "c_673874",
+      "source": "9to5Google",
+      "date": "2026-06-06",
+      "time": "02:15",
+      "summary": "Nova funció que impedeix enviar respostes automàtiques per error."
+    },
+    {
+      "title": "SpaceX signa un acord de 30 000 milions amb Google per a potència informàtica d'IA",
+      "link_id": "c_a4ad2d",
+      "source": "NYT Technology",
+      "date": "2026-06-06",
+      "time": "00:44",
+      "summary": "Google pagarà 920 milions de dòlars al mes a SpaceX per recursos d'IA."
+    },
+    {
+      "title": "L'IPO de SpaceX serà la més gran mai vista amb accions a 135 $",
+      "link_id": "c_2270a6",
+      "source": "NYT Technology",
       "date": "2026-06-05",
-      "time": "02:09",
-      "summary": "La vareta NFC permet pagaments instantanis sense treure la targeta, reduint el temps de compra."
+      "time": "13:41",
+      "summary": "SpaceX planeja una oferta pública que superarà qualsevol anterior."
     },
     {
-      "title": "Cash App llança una vareta de pagament quan Apple Pay no és prou màgica.",
-      "link_id": "c_01ddbb",
-      "source": "9to5Mac",
-      "date": "2026-06-04",
-      "time": "16:20",
-      "summary": "La vareta de pagament ofereix una experiència sense friccions per a usuaris d'Apple Pay."
-    },
-    {
-      "title": "Cash App llança una vareta per a pagar amb un toc.",
-      "link_id": "c_ad9604",
+      "title": "Reid Hoffman abandona el consell de Microsoft per dedicar-se a Manus",
+      "link_id": "c_5c0a8f",
       "source": "TechCrunch",
-      "date": "2026-06-04",
-      "time": "16:00",
-      "summary": "Una vareta compacta NFC facilita el pagament amb un simple toc al terminal."
-    },
-    {
-      "title": "Cash App crea una vareta màgica per a pagar amb un toc.",
-      "link_id": "c_d60b0c",
-      "source": "The Verge",
-      "date": "2026-06-04",
-      "time": "16:00",
-      "summary": "La vareta NFC simplifica les transaccions, evitant l'ús del telèfon."
-    },
-    {
-      "title": "Meta acusada de preparar funcions de reconeixement facial per a ulleres intel·ligents d'IA.",
-      "link_id": "c_9305cf",
-      "source": "The Register",
       "date": "2026-06-05",
-      "time": "01:12",
-      "summary": "Meta desenvolupa tecnologia facial per a les seves ulleres d'IA, generant controvèrsia de privacitat."
+      "time": "22:35",
+      "summary": "L'empleat de LinkedIn deixa Microsoft per liderar la startup d'IA medicinal."
     },
     {
-      "title": "Wired troba codi d'una funció de reconeixement facial no publicada a l'app d'IA de Meta.",
-      "link_id": "c_db2310",
-      "source": "Engadget",
-      "date": "2026-06-04",
-      "time": "20:36",
-      "summary": "Wired descobreix codi ocult que podria permetre reconeixement facial sense consentiment."
+      "title": "La NASA demana a l'equip de l'ISS refugiar-se temporalment per reparar una fuita",
+      "link_id": "c_c04bff",
+      "source": "CNET",
+      "date": "2026-06-05",
+      "time": "20:46",
+      "summary": "Quatre astronautes es van traslladar a la nau Dragon per seguretat."
     },
     {
-      "title": "Valve afirma que està preparada per llançar la Steam Machine aquest estiu.",
-      "link_id": "c_47f1d6",
-      "source": "The Verge",
-      "date": "2026-06-04",
-      "time": "22:48",
-      "summary": "La nova Steam Machine promet portar jocs de PC a la sala d'estar aquest estiu."
-    },
-    {
-      "title": "Valve diu que està preparada per llançar la Steam Machine aquest estiu.",
-      "link_id": "c_30603e",
-      "source": "TechCrunch",
-      "date": "2026-06-04",
-      "time": "19:33",
-      "summary": "Valve prepara el llançament de la Steam Machine, ampliant l'ecosistema de jocs a la llar."
-    },
-    {
-      "title": "Apple aprova Poke com el primer agent d'IA a la seva plataforma Messages for Business.",
-      "link_id": "c_8ef014",
-      "source": "TechCrunch",
-      "date": "2026-06-04",
-      "time": "19:20",
-      "summary": "Poke, l'agent d'IA, s'integra a Messages for Business per a respostes automàtiques."
-    },
-    {
-      "title": "L'app Missatges d'Apple al iPhone ara té un agent d'IA de tercera part.",
-      "link_id": "c_1400d7",
-      "source": "9to5Mac",
-      "date": "2026-06-04",
-      "time": "17:18",
-      "summary": "L'app Missatges incorpora un agent d'IA de tercers, ampliant les funcionalitats del xat."
+      "title": "Wall Street Week | AI-era Internet, Spaceport Investment, Bolivia’s Investability",
+      "link_id": "c_f18641",
+      "source": "Bloomberg Technology",
+      "date": "2026-06-05",
+      "time": "23:15",
+      "summary": "Anàlisi del mercat amb l'impacte de la IA i les inversions en espai."
     }
   ]
 }

@@ -1,37 +1,12 @@
 {
-  "generated_at": "2026-06-05T11:05",
+  "generated_at": "2026-06-06T12:00",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
     {
       "name": "Ara.cat",
       "url": "https://www.ara.cat/rss/",
-      "articles_found": 2
-    },
-    {
-      "name": "El Periódico",
-      "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
-      "articles_found": 1
-    },
-    {
-      "name": "RAC1",
-      "url": "https://www.rac1.cat/rss/home.xml",
-      "articles_found": 0
-    },
-    {
-      "name": "La Vanguardia (en català)",
-      "url": "https://www.lavanguardia.com/rss/encatala.xml",
-      "articles_found": 2
-    },
-    {
-      "name": "VilaWeb",
-      "url": "https://www.vilaweb.cat/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "NacióDigital",
-      "url": "https://www.naciodigital.cat/rss/tecnologia",
-      "articles_found": 0
+      "articles_found": 3
     },
     {
       "name": "324.cat",
@@ -39,39 +14,14 @@
       "articles_found": 1
     },
     {
-      "name": "Softcatalà",
-      "url": "https://www.softcatala.org/feed/",
-      "articles_found": 0
-    },
-    {
       "name": "El Nacional.cat",
       "url": "https://www.elnacional.cat/uploads/feeds/feed_ca.xml",
-      "articles_found": 0
+      "articles_found": 1
     },
     {
-      "name": "El Mon.cat",
-      "url": "https://www.elmon.cat/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "El Mon.cat Tecnologia",
-      "url": "https://elmon.cat/tecnologia/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "El Mon.cat Societat",
-      "url": "https://elmon.cat/societat/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "Betevé",
-      "url": "https://beteve.cat/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "El Punt Avui",
-      "url": "https://www.elpuntavui.cat/barcelona.feed?type=rss",
-      "articles_found": 0
+      "name": "El Periódico",
+      "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
+      "articles_found": 1
     },
     {
       "name": "Segre",
@@ -79,165 +29,32 @@
       "articles_found": 1
     },
     {
-      "name": "Regio7",
-      "url": "https://www.regio7.cat/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Diari d'Andorra",
-      "url": "https://www.diariandorra.ad/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Bon Dia Andorra",
-      "url": "https://www.bondia.ad/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Altaveu",
-      "url": "https://www.altaveu.com/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Nuvol",
-      "url": "https://www.nuvol.com/feed",
-      "articles_found": 0
-    },
-    {
-      "name": "Diari Mes",
-      "url": "https://www.diarimes.com/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Directe.cat",
-      "url": "https://www.directe.cat/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Cugat.cat",
-      "url": "https://www.cugat.cat/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "CatalunyaPress",
-      "url": "https://www.catalunyapress.cat/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Tot Barcelona",
-      "url": "https://www.totbarcelona.cat/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "e-notícies",
-      "url": "https://www.e-noticies.cat/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Lleida Diari",
-      "url": "https://www.lleidadiari.cat/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "Catorze",
-      "url": "https://www.catorze.cat/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Xarxanet",
-      "url": "https://www.xarxanet.org/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Bondia",
-      "url": "https://www.bondia.cat/?feed=rss2",
-      "articles_found": 0
-    },
-    {
       "name": "MetaData",
       "url": "https://www.metadata.cat/sindica",
-      "articles_found": 1
-    },
-    {
-      "name": "El Temps",
-      "url": "https://www.eltemps.cat/sindica",
-      "articles_found": 0
-    },
-    {
-      "name": "Àpunt",
-      "url": "https://www.apuntmedia.es/rss/",
-      "articles_found": 0
-    },
-    {
-      "name": "El Periòdic d'Ontinyent",
-      "url": "https://www.elperiodicvalencia.com/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Saó",
-      "url": "https://www.revistasao.cat/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "Diari de Balears",
-      "url": "https://www.diaridebalears.cat/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "IB3 Notícies",
-      "url": "https://ib3.org/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "Ara Balears",
-      "url": "https://www.arabalears.cat/rss/",
-      "articles_found": 0
-    },
-    {
-      "name": "Manacor Comarcal",
-      "url": "https://manacorcomarcal.com/?feed=rss2",
-      "articles_found": 0
-    },
-    {
-      "name": "Via Empresa",
-      "url": "https://www.viaempresa.cat/uploads/feeds/feed_via-empresa-2024_ca.xml",
-      "articles_found": 3
+      "articles_found": 2
     },
     {
       "name": "Lúdica",
       "url": "https://ludica.cat/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "Accent Obert",
-      "url": "https://accentobert.cat/feed/",
-      "articles_found": 0
+      "articles_found": 1
     }
   ],
   "articles": [
     {
-      "title": "La IA consumirà tanta aigua com 1.300 milions de persones abans de 2030",
-      "link_id": "c_318785",
-      "source": "MetaData",
-      "date": "2026-06-04",
-      "time": "08:45",
-      "summary": "L'IA podria consumir l'equivalent d'aigua de 1.300 milions de persones abans del 2030, segons l'ONU."
+      "title": "Anthropic demana una pausa global de la IA",
+      "link_id": "c_8c0c3a",
+      "source": "324.cat",
+      "date": "2026-06-05",
+      "time": "20:32",
+      "summary": "Anthropic demana una pausa global de la IA per evitar riscos de control, alertant la comunitat tecnològica."
     },
     {
-      "title": "SpaceX ultima la sortida a borsa més gran de la història amb els mercats eufòrics",
-      "link_id": "c_6014af",
-      "source": "La Vanguardia (en català)",
+      "title": "Alarma a l'Estació Espacial: una fuita d'aire obliga els astronautes a refugiar-se mentre la reparen",
+      "link_id": "c_9fd2f4",
+      "source": "El Nacional.cat",
       "date": "2026-06-05",
-      "time": "08:00",
-      "summary": "SpaceX busca 1,8 bilions d'euros en la seva OPI, la més gran mai vista, impulsant el sector espacial."
-    },
-    {
-      "title": "Anthropic demana una pausa mundial en el desenvolupament de la IA",
-      "link_id": "c_f892a7",
-      "source": "El Periódico",
-      "date": "2026-06-05",
-      "time": "10:06",
-      "summary": "Anthropic insta a frenar la IA globalment, alertant sobre riscos ètics i socials del seu ràpid avanç."
+      "time": "17:45",
+      "summary": "Una fuita d'aire a l'Estació Espacial Internacional obliga els astronautes a refugiar-se, posant en alerta la seguretat orbital."
     },
     {
       "title": "Per què limitar el temps de pantalla ja no és suficient per protegir els menors?",
@@ -245,23 +62,7 @@
       "source": "Ara.cat",
       "date": "2026-06-04",
       "time": "05:00",
-      "summary": "Limitar hores d'ús no resol el problema; cal abordar l'educació digital i la qualitat del temps en línia."
-    },
-    {
-      "title": "Barcelona suprimirà les bicicletes compartides que es lloguen a través del mòbil \"pel mal ús\"",
-      "link_id": "c_496046",
-      "source": "324.cat",
-      "date": "2026-06-04",
-      "time": "12:09",
-      "summary": "La ciutat prohibirà les bicicletes dlogar via app per mal ús, afectant milers d'usuaris i la mobilitat urbana."
-    },
-    {
-      "title": "Eurecat integra robòtica i IA per transformar la indústria de Ponent",
-      "link_id": "c_6a57f5",
-      "source": "Segre",
-      "date": "2026-06-05",
-      "time": "09:38",
-      "summary": "Eurecat combina IA i robòtica per compensar la manca de mà d'obra i modernitzar la indústria del Ponent."
+      "summary": "Limitar el temps de pantalla ja no protegeix els menors; cal abordar l'ús responsable i la salut digital."
     },
     {
       "title": "Premis Innovacat 2026: deu edicions i nous horitzons",
@@ -269,31 +70,55 @@
       "source": "Ara.cat",
       "date": "2026-06-01",
       "time": "21:59",
-      "summary": "Innovacat amplia la seva cobertura a tota Catalunya, impulsant empreses locals amb 60.000 euros de premis."
+      "summary": "Els Premis Innovacat s'obren a tot Catalunya, impulsant empreses locals amb 60.000 euros de dotació."
     },
     {
-      "title": "La UPC impulsa noves empreses tecnològiques amb un programa que connecta innovació, patents i inversió",
-      "link_id": "c_9c42d9",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-06-04",
-      "time": "10:25",
-      "summary": "El programa Next Frontier Founders de la UPC finança startups catalanes, vinculant innovació, patents i capital."
-    },
-    {
-      "title": "La startup catalana Macadam guanya el vertical Consumer del South Summit Madrid 2026",
-      "link_id": "c_3a707b",
-      "source": "Via Empresa",
+      "title": "El català entra com a llengua oficial a l'escola pública de Zúric",
+      "link_id": "c_3feb7e",
+      "source": "Ara.cat",
       "date": "2026-06-05",
-      "time": "10:51",
-      "summary": "Macadam destaca amb una app que recompensa caminar, guanyant el premi Consumer al South Summit 2026."
+      "time": "13:33",
+      "summary": "El cantó suís de Zúric incorpora el català com a llengua oficial, reforçant la identitat cultural dels estudiants."
     },
     {
-      "title": "Ona Therapeutics aixeca 74,2 milions en una ronda sèrie B",
-      "link_id": "c_15b1c1",
-      "source": "Via Empresa",
+      "title": "El Govern rebutja les acusacions contra el seu projecte de telecomunicacions vinculat a Huawei: «No hi renunciarem»",
+      "link_id": "c_f56935",
+      "source": "El Periódico",
+      "date": "2026-06-03",
+      "time": "11:15",
+      "summary": "El Govern descarta renunciar a Huawei, defensant la continuïtat del projecte de telecomunicacions catalan."
+    },
+    {
+      "title": "Eurecat integra robòtica i IA per transformar la indústria de Ponent",
+      "link_id": "c_6a57f5",
+      "source": "Segre",
+      "date": "2026-06-05",
+      "time": "09:38",
+      "summary": "Eurecat combina robòtica i IA per modernitzar la indústria del Ponent, afrontant la manca de mà d'obra."
+    },
+    {
+      "title": "La IA consumirà tanta aigua com 1.300 milions de persones abans de 2030",
+      "link_id": "c_318785",
+      "source": "MetaData",
       "date": "2026-06-04",
-      "time": "14:14",
-      "summary": "Ona Therapeutics recull 74,2 milions d'euros per desenvolupar fàrmacs contra càncer de mama i colorectal."
+      "time": "08:45",
+      "summary": "L'IA podria consumir tant aigua com 1.300 milions de persones abans del 2030, segons l'ONU."
+    },
+    {
+      "title": "Les teves xarxes socials en català, en menys d’un minut",
+      "link_id": "c_9731d0",
+      "source": "MetaData",
+      "date": "2026-06-01",
+      "time": "11:45",
+      "summary": "Configura el català a les xarxes socials en un minut, reforçant la presència digital de la llengua."
+    },
+    {
+      "title": "Gaming en femení: una iniciativa itinerant per visibilitzar les dones del sector del videojoc",
+      "link_id": "c_dec19f",
+      "source": "Lúdica",
+      "date": "2026-06-01",
+      "time": "18:00",
+      "summary": "Gaming en femení recorre Catalunya mostrant el paper de les dones al sector del videojoc i inspirant noves creadors."
     }
   ]
 }
