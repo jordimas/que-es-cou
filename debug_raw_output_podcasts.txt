@@ -1,48 +1,40 @@
 {
-  "generated_at": "2026-06-06T08:00",
+  "generated_at": "2026-06-07T12:00",
   "id": "podcasts",
   "title": "Podcasts en català sobre tecnologia",
   "sources_checked": [],
   "articles": [
     {
-      "title": "«What a time to be alive» – programa 666",
-      "link_id": "c_5b9998",
-      "source": "Mossega la poma",
-      "date": "2026-05-30",
-      "time": "08:24",
-      "summary": "Debat sobre IA, encíclica papal i exigències empresarials en tecnologia emergent."
-    },
-    {
       "title": "L'altra ràdio – Nou ordinador quàntic al Barcelona Supercomputing Center",
       "link_id": "c_679bc1",
       "source": "L'altra ràdio",
       "date": "2026-06-04",
-      "time": "15:58",
-      "summary": "Descobrim l'EuroQCS‑Spain i el seu impacte en el superordinador MareNostrum 5."
+      "time": "22:58",
+      "summary": "Descobreix com l'EuroQCS‑Spain impulsa la recerca amb computació quàntica a Espanya."
     },
     {
       "title": "L' Altra Ràdio - La informàtica a la perifèria pot localitzar objectes amb una precisió de centímetres",
       "link_id": "c_5e7cc2",
       "source": "L'altra ràdio",
       "date": "2026-05-28",
-      "time": "07:33",
+      "time": "14:33",
       "summary": "Near By Computing mostra com l'edge computing localitza objectes amb precisió centimètrica en temps real."
     },
     {
       "title": "El gòTIC - Tenim una missió! del 3/6/2026",
       "link_id": "c_1d3e0a",
       "source": "El Gòtic",
-      "date": "2026-06-02",
-      "time": "16:29",
-      "summary": "Recursos digitals per a la ciutadania, enfocats a resoldre reptes tecnològics locals."
+      "date": "2026-06-03",
+      "time": "23:29",
+      "summary": "El gòTIC comparteix recursos digitals per afrontar reptes de la ciutadania i fomentar la innovació."
     },
     {
       "title": "El gòTIC - Tenim una missió! del 27/5/2026",
       "link_id": "c_992079",
       "source": "El Gòtic",
-      "date": "2026-05-26",
-      "time": "16:29",
-      "summary": "Segona entrega de missions digitals, impulsant la participació ciutadana en tecnologia."
+      "date": "2026-05-27",
+      "time": "23:29",
+      "summary": "Segona entrega del gòTIC, enfocada a solucions tecnològiques per a la comunitat local."
     },
     {
       "title": "Una comissió parlamentària dóna suport a l’aixecament de la immunitat d’un eurodiputat involucrat en el Huawei-Gate",
@@ -50,7 +42,7 @@
       "source": "Societat de la Informació",
       "date": "2026-06-05",
       "time": "11:50",
-      "summary": "Política europea i investigació Huawei es troben en debat sobre immunitat parlamentària."
+      "summary": "El Parlament europeu avala l'aixecament d'immunitat, intensificant l'enquesta sobre la influència de Huawei."
     },
     {
       "title": "Desglossem la factura de la IA",
@@ -58,7 +50,7 @@
       "source": "Foc a Terra",
       "date": "2026-06-01",
       "time": "04:00",
-      "summary": "Anàlisi de costos energètics de la IA i impacte en recursos hídrics."
+      "summary": "Anàlisi crítica del cost energètic i mediambiental de la intel·ligència artificial."
     },
     {
       "title": "El NO-GOci de la música, amb Arnau Tordera d'Obeses",
@@ -66,7 +58,7 @@
       "source": "Foc a Terra",
       "date": "2026-05-25",
       "time": "04:00",
-      "summary": "Entrevista a Arnau Tordera sobre música experimental i crítica al rock tradicional."
+      "summary": "Entrevista que explora la fusió entre rock català i tecnologia sonora innovadora."
     },
     {
       "title": "WordPress fa 23 anys",
@@ -82,7 +74,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-05-26",
       "time": "00:00",
-      "summary": "Llançament de WordPress 7.0 amb integració d'IA i noves funcionalitats avançades."
+      "summary": "Llançament de WordPress 7.0 amb IA integrada, marcant una nova era per a creadors."
     },
     {
       "title": "Capítol 66: Un mòbil sense coloraines que no t'enganxi hores i hores",
@@ -90,7 +82,7 @@
       "source": "RAC&GO",
       "date": "2026-06-02",
       "time": "06:00",
-      "summary": "Presentació d'un telèfon minimalista que elimina distraccions digitals per a més productivitat."
+      "summary": "Descobreix el primer telèfon minimalista que elimina distraccions digitals per a una vida més tranquil·la."
     }
   ]
 }

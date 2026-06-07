@@ -1,26 +1,11 @@
 {
-  "generated_at": "2026-06-06T12:00",
+  "generated_at": "2026-06-07T08:30",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
     {
-      "name": "Ara.cat",
-      "url": "https://www.ara.cat/rss/",
-      "articles_found": 3
-    },
-    {
-      "name": "324.cat",
-      "url": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0",
-      "articles_found": 1
-    },
-    {
-      "name": "El Nacional.cat",
-      "url": "https://www.elnacional.cat/uploads/feeds/feed_ca.xml",
-      "articles_found": 1
-    },
-    {
-      "name": "El Periódico",
-      "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
+      "name": "MetaData",
+      "url": "https://www.metadata.cat/sindica",
       "articles_found": 1
     },
     {
@@ -29,32 +14,74 @@
       "articles_found": 1
     },
     {
-      "name": "MetaData",
-      "url": "https://www.metadata.cat/sindica",
-      "articles_found": 2
+      "name": "La Vanguardia (en català)",
+      "url": "https://www.lavanguardia.com/rss/encatala.xml",
+      "articles_found": 3
     },
     {
-      "name": "Lúdica",
-      "url": "https://ludica.cat/feed/",
+      "name": "324.cat",
+      "url": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0",
+      "articles_found": 1
+    },
+    {
+      "name": "Ara.cat",
+      "url": "https://www.ara.cat/rss/",
+      "articles_found": 3
+    },
+    {
+      "name": "El Periódico",
+      "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
       "articles_found": 1
     }
   ],
   "articles": [
     {
-      "title": "Anthropic demana una pausa global de la IA",
-      "link_id": "c_8c0c3a",
-      "source": "324.cat",
-      "date": "2026-06-05",
-      "time": "20:32",
-      "summary": "Anthropic demana una pausa global de la IA per evitar riscos de control, alertant la comunitat tecnològica."
+      "title": "La IA consumirà tanta aigua com 1.300 milions de persones abans de 2030",
+      "link_id": "c_318785",
+      "source": "MetaData",
+      "date": "2026-06-04",
+      "time": "08:45",
+      "summary": "L'IA podria consumir tant aigua com 1.300 milions de persones abans del 2030, alerta la ONU."
     },
     {
-      "title": "Alarma a l'Estació Espacial: una fuita d'aire obliga els astronautes a refugiar-se mentre la reparen",
-      "link_id": "c_9fd2f4",
-      "source": "El Nacional.cat",
-      "date": "2026-06-05",
-      "time": "17:45",
-      "summary": "Una fuita d'aire a l'Estació Espacial Internacional obliga els astronautes a refugiar-se, posant en alerta la seguretat orbital."
+      "title": "UrgèncIA a la universitat: Els centres educatius veuen la intel·ligència artificial com una eina que obliga a canviar el tipus de docència",
+      "link_id": "c_6ce7be",
+      "source": "Segre",
+      "date": "2026-06-07",
+      "time": "09:36",
+      "summary": "Universitat de Lleida introdueix guies d'ús responsable d'IA per evitar abusos acadèmics entre estudiants."
+    },
+    {
+      "title": "El SIL canvia d’etapa i posa el focus en la innovació logística",
+      "link_id": "c_76e45c",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-06-06",
+      "time": "09:29",
+      "summary": "El SIL 2026 atrau 15.423 visitants internacionals, mostrant la nova era de la logística intel·ligent."
+    },
+    {
+      "title": "La multinacional suïssa Givaudan adquireix la majoria d’Eurofragance",
+      "link_id": "c_9f62bb",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-06-06",
+      "time": "09:14",
+      "summary": "Givaudan compra Eurofragance, reforçant la presència de la indústria catalana de fragàncies al mercat global."
+    },
+    {
+      "title": "Un cotxe amb trets de bala permet als Mossos desmantellar un gran centre de distribució d'haixix",
+      "link_id": "c_b13810",
+      "source": "324.cat",
+      "date": "2026-06-06",
+      "time": "16:01",
+      "summary": "Un vehicle abandonat, presumptament utilitzat en un narcoassalt, va conduir a la desarticulació d'un gran centre de droga."
+    },
+    {
+      "title": "La IA erosiona els llocs de treball digitals per als júnior",
+      "link_id": "c_c27c94",
+      "source": "Ara.cat",
+      "date": "2026-06-06",
+      "time": "17:00",
+      "summary": "La IA redueix un 27% les ofertes per a treballadors digitals júnior, amenaçant la nova generació professional."
     },
     {
       "title": "Per què limitar el temps de pantalla ja no és suficient per protegir els menors?",
@@ -62,63 +89,31 @@
       "source": "Ara.cat",
       "date": "2026-06-04",
       "time": "05:00",
-      "summary": "Limitar el temps de pantalla ja no protegeix els menors; cal abordar l'ús responsable i la salut digital."
+      "summary": "Limitar hores de pantalla ja no protegeix els menors; cal abordar l'impacte psicològic i educatiu de les xarxes."
     },
     {
-      "title": "Premis Innovacat 2026: deu edicions i nous horitzons",
-      "link_id": "c_bc53e7",
+      "title": "Editen per primer cop amb precisió embrions humans",
+      "link_id": "c_c479cb",
       "source": "Ara.cat",
-      "date": "2026-06-01",
-      "time": "21:59",
-      "summary": "Els Premis Innovacat s'obren a tot Catalunya, impulsant empreses locals amb 60.000 euros de dotació."
+      "date": "2026-06-06",
+      "time": "06:00",
+      "summary": "Editen embryos humans amb precisió sense precedents, obrint debat ètic sobre modificacions genètiques i futurs nadons."
     },
     {
-      "title": "El català entra com a llengua oficial a l'escola pública de Zúric",
-      "link_id": "c_3feb7e",
-      "source": "Ara.cat",
-      "date": "2026-06-05",
-      "time": "13:33",
-      "summary": "El cantó suís de Zúric incorpora el català com a llengua oficial, reforçant la identitat cultural dels estudiants."
-    },
-    {
-      "title": "El Govern rebutja les acusacions contra el seu projecte de telecomunicacions vinculat a Huawei: «No hi renunciarem»",
-      "link_id": "c_f56935",
+      "title": "Anthropic demana una pausa mundial en el desenvolupament de la IA",
+      "link_id": "c_f892a7",
       "source": "El Periódico",
-      "date": "2026-06-03",
-      "time": "11:15",
-      "summary": "El Govern descarta renunciar a Huawei, defensant la continuïtat del projecte de telecomunicacions catalan."
-    },
-    {
-      "title": "Eurecat integra robòtica i IA per transformar la indústria de Ponent",
-      "link_id": "c_6a57f5",
-      "source": "Segre",
       "date": "2026-06-05",
-      "time": "09:38",
-      "summary": "Eurecat combina robòtica i IA per modernitzar la indústria del Ponent, afrontant la manca de mà d'obra."
+      "time": "10:06",
+      "summary": "Anthropic demana una pausa mundial en el desenvolupament d'IA per evitar riscos socials i ambientals."
     },
     {
-      "title": "La IA consumirà tanta aigua com 1.300 milions de persones abans de 2030",
-      "link_id": "c_318785",
-      "source": "MetaData",
-      "date": "2026-06-04",
-      "time": "08:45",
-      "summary": "L'IA podria consumir tant aigua com 1.300 milions de persones abans del 2030, segons l'ONU."
-    },
-    {
-      "title": "Les teves xarxes socials en català, en menys d’un minut",
-      "link_id": "c_9731d0",
-      "source": "MetaData",
-      "date": "2026-06-01",
-      "time": "11:45",
-      "summary": "Configura el català a les xarxes socials en un minut, reforçant la presència digital de la llengua."
-    },
-    {
-      "title": "Gaming en femení: una iniciativa itinerant per visibilitzar les dones del sector del videojoc",
-      "link_id": "c_dec19f",
-      "source": "Lúdica",
-      "date": "2026-06-01",
-      "time": "18:00",
-      "summary": "Gaming en femení recorre Catalunya mostrant el paper de les dones al sector del videojoc i inspirant noves creadors."
+      "title": "Alumnes amb més bones notes però més mal preparats: l’efecte ChatGPT",
+      "link_id": "c_570fa4",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-06-07",
+      "time": "09:20",
+      "summary": "Estudi revela que l'efecte ChatGPT eleva notes però deixa els estudiants mal preparats per al món real."
     }
   ]
 }

@@ -1,88 +1,40 @@
 {
-  "generated_at": "2026-06-06T09:47",
+  "generated_at": "2026-06-07T10:25",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "SpaceX signa un acord de 30.000 milions de dòlars per llogar capacitat informàtica a Google",
-      "link_id": "c_e15b77",
+      "title": "OpenAI planeja la major revisió de ChatGPT des del seu llançament",
+      "link_id": "c_046a57",
       "source": "Financial Times",
-      "date": "2026-06-05",
-      "time": "21:21",
-      "summary": "L'acord impulsa la col·laboració entre l'espai i el núvol, reforçant la infraestructura d'IA de Google."
-    },
-    {
-      "title": "Les accions de Meta cauen després d'informar que l'empresa podria recaptar desenes de milers de milions per finançar la IA",
-      "link_id": "c_fec31f",
-      "source": "CNBC Technology",
-      "date": "2026-06-05",
-      "time": "20:22",
-      "summary": "Meta busca finançar la seva estratègia d'IA amb una ampliació de capital que podria superar els 10.000 milions."
-    },
-    {
-      "title": "Les prohibicions a les xarxes socials per a adolescents podrien reforçar el control de les grans tecnologies, alerta un executiu de Bluesky",
-      "link_id": "c_3f847f",
-      "source": "CNBC Technology",
-      "date": "2026-06-06",
-      "time": "05:00",
-      "summary": "Les restriccions per a adolescents podrien consolidar el domini de les grans plataformes tecnològiques."
-    },
-    {
-      "title": "Pot la IA salvar l'ànima d'una empresa?",
-      "link_id": "c_b64fbd",
-      "source": "Financial Times",
-      "date": "2026-06-06",
+      "date": "2026-06-07",
       "time": "04:00",
-      "summary": "Exploren com la IA podria preservar la cultura i valors interns d'una empresa en crisi."
+      "summary": "OpenAI busca reinventar ChatGPT per augmentar ingressos i atraure inversors abans d'una possible OPI."
     },
     {
-      "title": "La policia d'Anglaterra i Gal·les es veu ordenada a interrompre l'ús de la IA en declaracions judicials",
-      "link_id": "c_bc7cf4",
+      "title": "La OTAN supera per un graó l'enemic d'estil rus en una simulació d'atac cibernètic",
+      "link_id": "c_604888",
+      "source": "Financial Times",
+      "date": "2026-06-07",
+      "time": "04:00",
+      "summary": "La simulació mostra la capacitat de la OTAN per contrarestar tàctiques russes i reforçar la defensa cibernètica europea."
+    },
+    {
+      "title": "Ja hauríem d'estar millorant en intel·ligència artificial",
+      "link_id": "c_6301e5",
+      "source": "Financial Times",
+      "date": "2026-06-07",
+      "time": "03:00",
+      "summary": "Els errors recents revelen que la indústria d'IA encara lluita per assolir la maduresa esperada."
+    },
+    {
+      "title": "El que sabem del pla per oferir una participació accionària en IA als americans",
+      "link_id": "c_f69a75",
       "source": "Financial Times",
       "date": "2026-06-06",
-      "time": "04:00",
-      "summary": "Les autoritats volen evitar biaixos judicials, imposant una pausa a l'ús de la IA en testimonis."
-    },
-    {
-      "title": "Amazon presenta el seu darrer robot d'emmagatzematge mentre les grans tecnologies continuen amb acomiadaments per IA",
-      "link_id": "c_74418a",
-      "source": "CNBC Technology",
-      "date": "2026-06-05",
-      "time": "22:53",
-      "summary": "El nou robot augmenta l'eficiència logística mentre les empreses tecnològiques redueixen plantilla per IA."
-    },
-    {
-      "title": "Marvell Technology i Flex s'incorporen a l'índex S&P 500, substituint Pool i Campbell's",
-      "link_id": "c_c86000",
-      "source": "CNBC Technology",
-      "date": "2026-06-05",
-      "time": "21:36",
-      "summary": "L'entrada al S&P 500 destaca la creixent influència del sector de semiconductors."
-    },
-    {
-      "title": "L'administració Trump i OpenAI discuteixen una possible participació governamental en l'startup d'IA",
-      "link_id": "c_09424e",
-      "source": "CNBC Technology",
-      "date": "2026-06-05",
-      "time": "21:12",
-      "summary": "Una possible participació pública podria canviar la dinàmica de finançament i regulació de l'IA."
-    },
-    {
-      "title": "Mythos ha rejuvenit el sector de la ciberseguretat; els guanys posen a prova el recent augment",
-      "link_id": "c_4d7978",
-      "source": "CNBC Technology",
-      "date": "2026-06-05",
-      "time": "20:25",
-      "summary": "Mythos impulsa noves solucions, però els resultats financers mostren incerteses en el mercat."
-    },
-    {
-      "title": "El model routing optimitza costos, permetent a les empreses assignar el model adequat a cada tasca",
-      "link_id": "c_d06bd1",
-      "source": "CNBC Technology",
-      "date": "2026-06-05",
-      "time": "18:24",
-      "summary": "El model routing optimitza costos, permetent a les empreses assignar el model adequat a cada tasca."
+      "time": "21:18",
+      "summary": "El projecte preveu un fons similar al de la riquesa soberana per tranquil·litzar el públic sobre IA."
     }
   ]
 }
