@@ -1,40 +1,80 @@
 {
-  "generated_at": "2026-06-07T10:25",
+  "generated_at": "2026-06-08T11:30",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "OpenAI planeja la major revisió de ChatGPT des del seu llançament",
-      "link_id": "c_046a57",
+      "title": "La start-up britànica d'IA PhysicsX arriba a una valoració de 2,4 mil milions de dòlars després d'un acord liderat per Temasek",
+      "link_id": "c_c83da8",
       "source": "Financial Times",
-      "date": "2026-06-07",
+      "date": "2026-06-08",
+      "time": "05:00",
+      "summary": "PhysicsX, impulsada per Temasek, atrau inversors amb una valoració històrica, reforçant el lideratge britànic en IA."
+    },
+    {
+      "title": "No hem d'atorgar personalitat jurídica als agents d'IA",
+      "link_id": "c_c995d1",
+      "source": "Financial Times",
+      "date": "2026-06-08",
       "time": "04:00",
-      "summary": "OpenAI busca reinventar ChatGPT per augmentar ingressos i atraure inversors abans d'una possible OPI."
+      "summary": "Denunciar la personalitat jurídica per IA evita responsabilitats excessives i protegeix els drets humans davant la tecnologia."
     },
     {
-      "title": "La OTAN supera per un graó l'enemic d'estil rus en una simulació d'atac cibernètic",
-      "link_id": "c_604888",
+      "title": "Les noves capacitats d'espionatge d'IA provoquen l'alerta de càmeres de Putin",
+      "link_id": "c_793e46",
       "source": "Financial Times",
-      "date": "2026-06-07",
+      "date": "2026-06-08",
       "time": "04:00",
-      "summary": "La simulació mostra la capacitat de la OTAN per contrarestar tàctiques russes i reforçar la defensa cibernètica europea."
+      "summary": "L'ús d'IA per vigilància a Rússia genera por internacional després d'un incident que va exposar la presidència iraniana."
     },
     {
-      "title": "Ja hauríem d'estar millorant en intel·ligència artificial",
-      "link_id": "c_6301e5",
+      "title": "Els acords de compra de programari cauen al nivell més baix des de la pandèmia després de la caiguda de l'IA",
+      "link_id": "c_91a066",
+      "source": "Financial Times",
+      "date": "2026-06-08",
+      "time": "04:00",
+      "summary": "Les compres de programari cauen dràsticament, reflectint la incertesa del mercat després de la caiguda de les valoracions d'IA."
+    },
+    {
+      "title": "Xips, vaixells i armes: Corea del Sud prospera gràcies a la cursa d'IA i al conflicte global",
+      "link_id": "c_91a713",
+      "source": "Financial Times",
+      "date": "2026-06-08",
+      "time": "00:03",
+      "summary": "Corea del Sud capitalitza la demanda d'IA i tensions geopolítiques, impulsant creixement en sectors de defensa i tecnologia."
+    },
+    {
+      "title": "Estem al començament d'un nou supercicle d'inversions?",
+      "link_id": "c_490387",
       "source": "Financial Times",
       "date": "2026-06-07",
-      "time": "03:00",
-      "summary": "Els errors recents revelen que la indústria d'IA encara lluita per assolir la maduresa esperada."
+      "time": "12:00",
+      "summary": "Experts preveuen un nou cicle d'inversions massives, impulsat per IA, energia neta i despesa militar."
     },
     {
-      "title": "El que sabem del pla per oferir una participació accionària en IA als americans",
-      "link_id": "c_f69a75",
+      "title": "L'ascens imminent del populisme anti-IA",
+      "link_id": "c_49beb9",
       "source": "Financial Times",
-      "date": "2026-06-06",
-      "time": "21:18",
-      "summary": "El projecte preveu un fons similar al de la riquesa soberana per tranquil·litzar el públic sobre IA."
+      "date": "2026-06-07",
+      "time": "11:00",
+      "summary": "L'augment del populisme anti-IA podria traduir-se en regulacions restrictives i resistència pública a la innovació."
+    },
+    {
+      "title": "Walmart assegura als treballadors que l'IA millorarà les seves feines, no les robarà",
+      "link_id": "c_000dd1",
+      "source": "Financial Times",
+      "date": "2026-06-07",
+      "time": "10:00",
+      "summary": "Walmart assegura que l'IA augmentarà la productivitat i crearà oportunitats, contrarestant temors de desocupació."
+    },
+    {
+      "title": "L'Intel·ligència Artificial escaparà aviat del control humà?",
+      "link_id": "c_11789b",
+      "source": "The Economist",
+      "date": "2026-06-07",
+      "time": "14:15",
+      "summary": "L'IA podria superar el control humà, plantejant desafiaments ètics i de seguretat per a la societat."
     }
   ]
 }

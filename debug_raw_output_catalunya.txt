@@ -1,22 +1,27 @@
 {
-  "generated_at": "2026-06-07T08:30",
+  "generated_at": "2026-06-08T09:30",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
     {
+      "name": "Betevé",
+      "url": "https://beteve.cat/feed/",
+      "articles_found": 1
+    },
+    {
+      "name": "El Periódico",
+      "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
+      "articles_found": 3
+    },
+    {
       "name": "MetaData",
       "url": "https://www.metadata.cat/sindica",
-      "articles_found": 1
+      "articles_found": 2
     },
     {
       "name": "Segre",
       "url": "https://www.segre.com/ca/rss/home.xml",
-      "articles_found": 1
-    },
-    {
-      "name": "La Vanguardia (en català)",
-      "url": "https://www.lavanguardia.com/rss/encatala.xml",
-      "articles_found": 3
+      "articles_found": 2
     },
     {
       "name": "324.cat",
@@ -24,80 +29,19 @@
       "articles_found": 1
     },
     {
-      "name": "Ara.cat",
-      "url": "https://www.ara.cat/rss/",
-      "articles_found": 3
-    },
-    {
-      "name": "El Periódico",
-      "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
+      "name": "RAC1",
+      "url": "https://www.rac1.cat/rss/home.xml",
       "articles_found": 1
     }
   ],
   "articles": [
     {
-      "title": "La IA consumirà tanta aigua com 1.300 milions de persones abans de 2030",
-      "link_id": "c_318785",
-      "source": "MetaData",
-      "date": "2026-06-04",
-      "time": "08:45",
-      "summary": "L'IA podria consumir tant aigua com 1.300 milions de persones abans del 2030, alerta la ONU."
-    },
-    {
-      "title": "UrgèncIA a la universitat: Els centres educatius veuen la intel·ligència artificial com una eina que obliga a canviar el tipus de docència",
-      "link_id": "c_6ce7be",
-      "source": "Segre",
-      "date": "2026-06-07",
-      "time": "09:36",
-      "summary": "Universitat de Lleida introdueix guies d'ús responsable d'IA per evitar abusos acadèmics entre estudiants."
-    },
-    {
-      "title": "El SIL canvia d’etapa i posa el focus en la innovació logística",
-      "link_id": "c_76e45c",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-06-06",
-      "time": "09:29",
-      "summary": "El SIL 2026 atrau 15.423 visitants internacionals, mostrant la nova era de la logística intel·ligent."
-    },
-    {
-      "title": "La multinacional suïssa Givaudan adquireix la majoria d’Eurofragance",
-      "link_id": "c_9f62bb",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-06-06",
-      "time": "09:14",
-      "summary": "Givaudan compra Eurofragance, reforçant la presència de la indústria catalana de fragàncies al mercat global."
-    },
-    {
-      "title": "Un cotxe amb trets de bala permet als Mossos desmantellar un gran centre de distribució d'haixix",
-      "link_id": "c_b13810",
-      "source": "324.cat",
-      "date": "2026-06-06",
-      "time": "16:01",
-      "summary": "Un vehicle abandonat, presumptament utilitzat en un narcoassalt, va conduir a la desarticulació d'un gran centre de droga."
-    },
-    {
-      "title": "La IA erosiona els llocs de treball digitals per als júnior",
-      "link_id": "c_c27c94",
-      "source": "Ara.cat",
-      "date": "2026-06-06",
-      "time": "17:00",
-      "summary": "La IA redueix un 27% les ofertes per a treballadors digitals júnior, amenaçant la nova generació professional."
-    },
-    {
-      "title": "Per què limitar el temps de pantalla ja no és suficient per protegir els menors?",
-      "link_id": "c_de0901",
-      "source": "Ara.cat",
-      "date": "2026-06-04",
-      "time": "05:00",
-      "summary": "Limitar hores de pantalla ja no protegeix els menors; cal abordar l'impacte psicològic i educatiu de les xarxes."
-    },
-    {
-      "title": "Editen per primer cop amb precisió embrions humans",
-      "link_id": "c_c479cb",
-      "source": "Ara.cat",
-      "date": "2026-06-06",
-      "time": "06:00",
-      "summary": "Editen embryos humans amb precisió sense precedents, obrint debat ètic sobre modificacions genètiques i futurs nadons."
+      "title": "Laia Corbella, nova directora general de la Mobile World Capital",
+      "link_id": "c_bda60e",
+      "source": "Betevé",
+      "date": "2026-06-08",
+      "time": "08:37",
+      "summary": "Laia Corbella impulsa l'ecosistema digital barceloní cap a la innovació."
     },
     {
       "title": "Anthropic demana una pausa mundial en el desenvolupament de la IA",
@@ -105,15 +49,71 @@
       "source": "El Periódico",
       "date": "2026-06-05",
       "time": "10:06",
-      "summary": "Anthropic demana una pausa mundial en el desenvolupament d'IA per evitar riscos socials i ambientals."
+      "summary": "Anthropic demana una pausa mundial, advertint riscos ètics i socials creixents."
     },
     {
-      "title": "Alumnes amb més bones notes però més mal preparats: l’efecte ChatGPT",
-      "link_id": "c_570fa4",
-      "source": "La Vanguardia (en català)",
+      "title": "«Un problema enorme»: L’ONU adverteix que la IA dispararà la contaminació i consumirà energia",
+      "link_id": "c_05ae92",
+      "source": "El Periódico",
+      "date": "2026-06-03",
+      "time": "16:00",
+      "summary": "L'ONU alerta que la IA augmentarà la contaminació i el consum energètic, exigint regulacions immediates."
+    },
+    {
+      "title": "Unes ulleres per detectar-los a tots: Meta ja està afegint reconeixement facial a les seves smart glasses",
+      "link_id": "c_05aa83",
+      "source": "El Periódico",
+      "date": "2026-06-05",
+      "time": "11:17",
+      "summary": "Meta afegeix reconeixement facial a les smart glasses, generant controvèrsia per la privacitat dels usuaris."
+    },
+    {
+      "title": "Dues emprenedores catalanes, reconegudes als Premis de la UE a les Dones Innovadores 2026",
+      "link_id": "c_24e594",
+      "source": "MetaData",
+      "date": "2026-06-08",
+      "time": "10:09",
+      "summary": "Dues emprenedores catalanes són premiades a la UE per innovacions en salut i tecnologia, impulsant la diversitat."
+    },
+    {
+      "title": "La IA consumirà tanta aigua com 1.300 milions de persones abans de 2030",
+      "link_id": "c_318785",
+      "source": "MetaData",
+      "date": "2026-06-04",
+      "time": "08:45",
+      "summary": "Un informe de l'ONU indica que la IA consumirá tanta aigua com 1.300 milions de persones abans de 2030."
+    },
+    {
+      "title": "Patinets elèctrics a Lleida",
+      "link_id": "c_440261",
+      "source": "Segre",
+      "date": "2026-06-08",
+      "time": "10:07",
+      "summary": "Les patinets elèctrics proliferen per les voreres de Lleida, provocant riscos per vianants i sol·licitant regulació."
+    },
+    {
+      "title": "Immersió digital en el km 0 pallarès: Una consultora tecnològica crea una experiència turística de tres dies",
+      "link_id": "c_9014e3",
+      "source": "Segre",
       "date": "2026-06-07",
-      "time": "09:20",
-      "summary": "Estudi revela que l'efecte ChatGPT eleva notes però deixa els estudiants mal preparats per al món real."
+      "time": "05:34",
+      "summary": "Immersió digital al km 0 pallarès ofereix una experiència turística basada en productors locals i tecnologia interactiva."
+    },
+    {
+      "title": "\"Rutes\", la nova app per descobrir l'arquitectura catalana a peu de carrer",
+      "link_id": "c_ebe509",
+      "source": "324.cat",
+      "date": "2026-06-08",
+      "time": "06:55",
+      "summary": "L'app “Rutes” permet descobrir arquitectura catalana a peu, personalitzant itineraris per a turistes i residents."
+    },
+    {
+      "title": "Marco Bermúdez, CEO de 14 anys: \"Quan tinc temps mort a l'escola, penso idees de negoci per aplicar-les a casa\"",
+      "link_id": "c_8b5426",
+      "source": "RAC1",
+      "date": "2026-06-03",
+      "time": "13:00",
+      "summary": "Marco Bermúdez lidera SmartBridge amb IA per dissenyar ponts, inspirant joves emprenedors."
     }
   ]
 }

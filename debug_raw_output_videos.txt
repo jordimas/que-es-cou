@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T08:30",
+  "generated_at": "2026-06-08T09:25",
   "id": "videos",
   "title": "Vídeos en català sobre tecnologia",
   "sources_checked": [],
@@ -10,7 +10,7 @@
       "source": "Albert Lloreta",
       "date": "2026-05-29",
       "time": "08:55",
-      "summary": "Exploració de la cultura digital femenina i el seu impacte en les xarxes socials."
+      "summary": "Exploració de la cultura digital femenina i el seu impacte en la societat actual."
     },
     {
       "title": "A què hem estat jugant aquest maig",
@@ -18,7 +18,7 @@
       "source": "Catalunya PlayStation",
       "date": "2026-05-31",
       "time": "18:00",
-      "summary": "Revisió dels llançaments de videojocs més esperats al mes de maig, amb anàlisis locals."
+      "summary": "Recull de les novetats lúdico-tecnològiques del maig, destacant tendències i experiències locals."
     },
     {
       "title": "Pixelats vs. The Legend of Zelda: A Link to the Past!! 🔗🗝️",
@@ -26,7 +26,7 @@
       "source": "Pixelats",
       "date": "2026-05-27",
       "time": "10:00",
-      "summary": "Partida clàssica de Zelda amb comentaris en català i estratègies per a novells."
+      "summary": "Anàlisi del repte clàssic, amb estratègies i humor per a jugadors catalans."
     },
     {
       "title": "Els Putxinel·lis - Capítol 10 - Dinàmiques de poder",
@@ -34,31 +34,7 @@
       "source": "Pixelats",
       "date": "2026-05-27",
       "time": "10:00",
-      "summary": "Novè capítol de la sèrie, analitzant les tensions i jugades de poder entre personatges."
-    },
-    {
-      "title": "Pixelats vs. Bread & Fred!! 🐧🧗‍♂️",
-      "link_id": "c_6bc9b9",
-      "source": "Pixelats",
-      "date": "2026-05-20",
-      "time": "10:00",
-      "summary": "Enfrontament divertit entre dos jocs indie, amb humor i consells de jugabilitat."
-    },
-    {
-      "title": "Els Putxinel·lis - Capítol 9 - El pla de pa sucat amb oli",
-      "link_id": "c_6915ec",
-      "source": "Pixelats",
-      "date": "2026-05-20",
-      "time": "10:00",
-      "summary": "Capítol 9 revela una trama absurda sobre un pla culinari i conspiracions."
-    },
-    {
-      "title": "COBERTURA State of Play JUNY 2026 (NO) E3",
-      "link_id": "c_41a62a",
-      "source": "3D Nassos",
-      "date": "2026-06-06",
-      "time": "18:13",
-      "summary": "Cobertura completa de les novetats de Play, amb anàlisi de futurs títols i consoles."
+      "summary": "Desvetlla les intrigues de poder dins la sèrie, amb tocs d'humor i crítica social."
     },
     {
       "title": "Club del Videojoc - Warhammer 40.000: Squad Command",
@@ -66,7 +42,7 @@
       "source": "Gaming.cat",
       "date": "2026-05-28",
       "time": "12:00",
-      "summary": "Anàlisi tàctica del nou Warhammer 40k, enfocant estratègies cooperatives i solites."
+      "summary": "Partida intensiva que mostra tàctiques avançades i la passió per l'univers Warhammer."
     },
     {
       "title": "Presentació de l'esdeveniment Gaming en Femení",
@@ -74,7 +50,7 @@
       "source": "Gaming.cat",
       "date": "2026-05-26",
       "time": "19:43",
-      "summary": "Detalls de l'esdeveniment dedicat a les dones gamers i les seves iniciatives."
+      "summary": "Visió de l'esdeveniment que impulsa la inclusió femenina al món del gaming."
     },
     {
       "title": "🎙️Lúdica #55 - El llegat mitològic (amb Anton Planells)",
@@ -82,7 +58,15 @@
       "source": "Lúdica (Vídeos)",
       "date": "2026-05-28",
       "time": "17:11",
-      "summary": "Entrevista sobre com la mitologia influeix en el disseny de videojocs actuals."
+      "summary": "Entrevista que explora com la mitologia influeix en el disseny de videojocs actuals."
+    },
+    {
+      "title": "Cobertura STATE OF PLAY - Juny 2026 (NO) E3",
+      "link_id": "c_41a62a",
+      "source": "3D Nassos",
+      "date": "2026-06-06",
+      "time": "18:13",
+      "summary": "Resum de les novetats de la presentació, amb enfocament en consoles i jocs emergents."
     }
   ]
 }
