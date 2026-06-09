@@ -1,80 +1,88 @@
 {
-  "generated_at": "2026-06-08T11:30",
+  "generated_at": "2026-06-09T09:00",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "La start-up britànica d'IA PhysicsX arriba a una valoració de 2,4 mil milions de dòlars després d'un acord liderat per Temasek",
-      "link_id": "c_c83da8",
+      "title": "Les empreses de “picks and shovels” guanyen amb la cursa dels centres de dades d'IA",
+      "link_id": "c_d652f8",
       "source": "Financial Times",
-      "date": "2026-06-08",
-      "time": "05:00",
-      "summary": "PhysicsX, impulsada per Temasek, atrau inversors amb una valoració històrica, reforçant el lideratge britànic en IA."
-    },
-    {
-      "title": "No hem d'atorgar personalitat jurídica als agents d'IA",
-      "link_id": "c_c995d1",
-      "source": "Financial Times",
-      "date": "2026-06-08",
+      "date": "2026-06-09",
       "time": "04:00",
-      "summary": "Denunciar la personalitat jurídica per IA evita responsabilitats excessives i protegeix els drets humans davant la tecnologia."
+      "summary": "Les empreses de serveis d'infraestructura augmenten beneficis gràcies a la demanda creixent de centres de dades d'IA."
     },
     {
-      "title": "Les noves capacitats d'espionatge d'IA provoquen l'alerta de càmeres de Putin",
-      "link_id": "c_793e46",
+      "title": "Apple presenta ‘Siri AI’ per desafiar els xatbots rivals",
+      "link_id": "c_420781",
+      "source": "Financial Times",
+      "date": "2026-06-09",
+      "time": "00:32",
+      "summary": "Apple llança Siri AI amb èmfasi en privacitat, competint directament amb altres assistents conversacionals."
+    },
+    {
+      "title": "OpenAI presenta sol·licitud per cotitzar en una oferta monumental a Wall Street",
+      "link_id": "c_68b0c0",
       "source": "Financial Times",
       "date": "2026-06-08",
+      "time": "22:23",
+      "summary": "OpenAI busca una valoració superior al trilió de dòlars amb la seva primera oferta pública."
+    },
+    {
+      "title": "OpenAI presenta confidencialment la sol·licitud d'IPO, preparant Wall Street per a un gran debut d'IA",
+      "link_id": "c_3b4958",
+      "source": "CNBC Technology",
+      "date": "2026-06-08",
+      "time": "21:39",
+      "summary": "La sol·licitud confidencial d'OpenAI indica una aposta forta per liderar el mercat d'IA."
+    },
+    {
+      "title": "Apple s'associa amb Google i Nvidia per al model d'IA més avançat",
+      "link_id": "c_aecd9e",
+      "source": "CNBC Technology",
+      "date": "2026-06-08",
+      "time": "21:12",
+      "summary": "Apple combina recursos amb Google i Nvidia per crear un model d'IA que superi els existents."
+    },
+    {
+      "title": "Corning tanca un altre acord d'IA de diversos mil milions; el pacte amb Amazon impacta l'acció",
+      "link_id": "c_51cc29",
+      "source": "CNBC Technology",
+      "date": "2026-06-08",
+      "time": "20:33",
+      "summary": "Corning subministra fibra òptica a Amazon, reforçant la infraestructura per a les seves dades d'IA."
+    },
+    {
+      "title": "Perplexity planeja una IPO el 2028 independentment del futur d'Anthropic o OpenAI, segons el CEO",
+      "link_id": "c_30d1a0",
+      "source": "CNBC Technology",
+      "date": "2026-06-09",
+      "time": "05:49",
+      "summary": "Perplexity manté el seu camí cap a l'IPO, mostrant confiança malgrat la competència d'Anthropic i OpenAI."
+    },
+    {
+      "title": "El director d'ASML adverteix la UE contra la direcció del subministrament de xips",
+      "link_id": "c_a4679c",
+      "source": "Financial Times",
+      "date": "2026-06-09",
       "time": "04:00",
-      "summary": "L'ús d'IA per vigilància a Rússia genera por internacional després d'un incident que va exposar la presidència iraniana."
+      "summary": "ASML alerta la UE que la regulació del subministrament de xips podria frenar la innovació europea."
     },
     {
-      "title": "Els acords de compra de programari cauen al nivell més baix des de la pandèmia després de la caiguda de l'IA",
-      "link_id": "c_91a066",
+      "title": "El Pentagó restaura Alibaba, Baidu i BYD a la llista negra de grups militars xinesos",
+      "link_id": "c_35714e",
       "source": "Financial Times",
-      "date": "2026-06-08",
-      "time": "04:00",
-      "summary": "Les compres de programari cauen dràsticament, reflectint la incertesa del mercat després de la caiguda de les valoracions d'IA."
+      "date": "2026-06-09",
+      "time": "02:50",
+      "summary": "El Pentagó reinclou tres empreses xineses a la llista negra, considerant-les riscos de seguretat."
     },
     {
-      "title": "Xips, vaixells i armes: Corea del Sud prospera gràcies a la cursa d'IA i al conflicte global",
-      "link_id": "c_91a713",
+      "title": "Ha perdut l'Índia la cursa de la IA? No del tot",
+      "link_id": "c_2cf289",
       "source": "Financial Times",
-      "date": "2026-06-08",
-      "time": "00:03",
-      "summary": "Corea del Sud capitalitza la demanda d'IA i tensions geopolítiques, impulsant creixement en sectors de defensa i tecnologia."
-    },
-    {
-      "title": "Estem al començament d'un nou supercicle d'inversions?",
-      "link_id": "c_490387",
-      "source": "Financial Times",
-      "date": "2026-06-07",
-      "time": "12:00",
-      "summary": "Experts preveuen un nou cicle d'inversions massives, impulsat per IA, energia neta i despesa militar."
-    },
-    {
-      "title": "L'ascens imminent del populisme anti-IA",
-      "link_id": "c_49beb9",
-      "source": "Financial Times",
-      "date": "2026-06-07",
-      "time": "11:00",
-      "summary": "L'augment del populisme anti-IA podria traduir-se en regulacions restrictives i resistència pública a la innovació."
-    },
-    {
-      "title": "Walmart assegura als treballadors que l'IA millorarà les seves feines, no les robarà",
-      "link_id": "c_000dd1",
-      "source": "Financial Times",
-      "date": "2026-06-07",
-      "time": "10:00",
-      "summary": "Walmart assegura que l'IA augmentarà la productivitat i crearà oportunitats, contrarestant temors de desocupació."
-    },
-    {
-      "title": "L'Intel·ligència Artificial escaparà aviat del control humà?",
-      "link_id": "c_11789b",
-      "source": "The Economist",
-      "date": "2026-06-07",
-      "time": "14:15",
-      "summary": "L'IA podria superar el control humà, plantejant desafiaments ètics i de seguretat per a la societat."
+      "date": "2026-06-09",
+      "time": "01:30",
+      "summary": "L'Índia encara manté progrés en IA, tot i desafiaments de finançament i talent."
     }
   ]
 }

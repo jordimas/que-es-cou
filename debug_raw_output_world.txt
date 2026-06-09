@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-06-08T11:25",
+  "generated_at": "2026-06-09T08:32",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Apple WWDC 2026 en directe: Siri, iOS 27, Apple Intelligence i tot el que esperem",
-      "link_id": "c_bc094b",
-      "source": "TechRadar",
-      "date": "2026-06-08",
-      "time": "09:17",
-      "summary": "L'esdeveniment mostrarà noves funcions d'IA i actualitzacions de Siri per a tots els usuaris."
+      "title": "9to5Mac Diari: 8 de juny de 2026 – Resum del WWDC 2026",
+      "link_id": "c_66c8f7",
+      "source": "9to5Mac",
+      "date": "2026-06-09",
+      "time": "02:51",
+      "summary": "Cobertura diària dels principals anuncis d'Apple, incloent Siri AI i el nou iOS 27."
     },
     {
-      "title": "Xbox celebra 25 anys amb una edició especial de Series X de color verd translúcid",
-      "link_id": "c_347e94",
-      "source": "Digital Trends",
-      "date": "2026-06-07",
-      "time": "22:00",
-      "summary": "L'edició limitada combina disseny retro amb rendiment modern per als fans de Xbox."
+      "title": "visionOS 27 presenta un nou entorn Thórsmörk",
+      "link_id": "c_b95bb6",
+      "source": "9to5Mac",
+      "date": "2026-06-09",
+      "time": "02:46",
+      "summary": "Apple introdueix un paisatge inspirat en Islàndia per a la realitat augmentada."
     },
     {
-      "title": "Every game confirmed for day-one Game Pass release at Xbox Games Showcase 2026",
-      "link_id": "c_6732e2",
-      "source": "Digital Trends",
-      "date": "2026-06-08",
-      "time": "09:10",
-      "summary": "La llista revela títols exclusius que arribaran a Game Pass el primer dia del llançament."
+      "title": "iOS 27 permet eliminar el widget Reproduint ara de la pantalla de bloqueig",
+      "link_id": "c_05e490",
+      "source": "9to5Mac",
+      "date": "2026-06-09",
+      "time": "02:03",
+      "summary": "Nou gest per netejar la pantalla de bloqueig i reduir distraccions."
     },
     {
-      "title": "You can now pre-order Halo: Campaign Evolved, and it’s arriving sooner than you think",
-      "link_id": "c_c3e5f2",
-      "source": "Digital Trends",
-      "date": "2026-06-08",
-      "time": "07:43",
-      "summary": "El remake promet gràfics millorats i una nova campanya per als aficionats a Halo."
+      "title": "Els principals anuncis del WWDC 2026 d'Apple: Siri, beta d'iOS 27 i més",
+      "link_id": "c_b0d637",
+      "source": "ZDNet",
+      "date": "2026-06-09",
+      "time": "01:41",
+      "summary": "Resum dels canvis clau que marcaran l'ecosistema Apple aquest any."
     },
     {
-      "title": "ChatGPT is eyeing a major “super app” overhaul that wants to do real work for you",
-      "link_id": "c_e31dc7",
-      "source": "Digital Trends",
-      "date": "2026-06-07",
-      "time": "17:48",
-      "summary": "ChatGPT vol integrar eines d'empresa i productivitat per ampliar el seu abast més enllà del xat."
+      "title": "El nou Siri AI d'Apple té costos ocults que els usuaris avançats han de conèixer",
+      "link_id": "c_57ed09",
+      "source": "ZDNet",
+      "date": "2026-06-09",
+      "time": "01:39",
+      "summary": "Descobreix les limitacions i tarifes addicionals del nou assistent intel·ligent."
     },
     {
-      "title": "Linux 7.1-rc7 publicat: estable, esperem el diumenge següent",
-      "link_id": "c_98ba31",
-      "source": "Phoronix",
-      "date": "2026-06-08",
-      "time": "00:26",
-      "summary": "La nova versió ofereix estabilitat millorada i prepara noves funcionalitats per a la comunitat Linux."
+      "title": "macOS 27 Golden Gate permet redimensionar la finestra de duplicació d'iPhone",
+      "link_id": "c_bc2f22",
+      "source": "9to5Mac",
+      "date": "2026-06-09",
+      "time": "01:31",
+      "summary": "Nova funcionalitat per ajustar la pantalla compartida entre Mac i iPhone."
     },
     {
-      "title": "Firefox integra suport per a descodificació de vídeo Vulkan",
-      "link_id": "c_39935d",
-      "source": "Phoronix",
-      "date": "2026-06-07",
-      "time": "14:55",
-      "summary": "Aquesta actualització permet reproduir vídeos amb major eficiència gràfica en dispositius compatibles."
+      "title": "Les dues funcions més importants d'iOS 27 al WWDC no tenien res a veure amb Siri AI",
+      "link_id": "c_a2175b",
+      "source": "ZDNet",
+      "date": "2026-06-09",
+      "time": "01:27",
+      "summary": "Actualitzacions de rendiment i privadesa que superen les expectatives d'Apple."
     },
     {
-      "title": "Wayland Protocols 1.49 llançat amb millor suport Multi-GPU i Windows BT.2100",
-      "link_id": "c_69b36e",
-      "source": "Phoronix",
-      "date": "2026-06-07",
-      "time": "13:32",
-      "summary": "Les millores afavoreixen pantalles múltiples i la compatibilitat amb estàndards de televisió avançats."
+      "title": "Com descarregar la beta de desenvolupador d'iPadOS 27 ara mateix i quins models la suporten",
+      "link_id": "c_4e6cba",
+      "source": "ZDNet",
+      "date": "2026-06-09",
+      "time": "01:24",
+      "summary": "Guia pas a pas per provar les noves funcions d'iPadOS 27."
     },
     {
-      "title": "Pedaços Linux «Flatten The Pick» avançen per millorar la programació cgroup en jocs",
-      "link_id": "c_00d19b",
-      "source": "Phoronix",
-      "date": "2026-06-07",
-      "time": "11:06",
-      "summary": "Les correccions optimitzen la gestió de recursos per a una jugabilitat més fluida en Linux."
+      "title": "Tot el que Apple va anunciar al WWDC 2026 en 10 minuts",
+      "link_id": "c_59a172",
+      "source": "MacRumors",
+      "date": "2026-06-09",
+      "time": "00:46",
+      "summary": "Resum ràpid de les novetats, des de Siri AI fins a watchOS 27."
     },
     {
-      "title": "Mesa 26.2 afegeix suport VK_GOOGLE_display_timing per al mode de pantalla directa",
-      "link_id": "c_782d33",
-      "source": "Phoronix",
-      "date": "2026-06-07",
-      "time": "10:47",
-      "summary": "El suport millora la sincronització de fotogrames, reduint el retallat en aplicacions de vídeo."
+      "title": "watchOS 27 inclou una graella d'aplicacions dinàmica, nou control de gestos i més",
+      "link_id": "c_a7a8a7",
+      "source": "MacRumors",
+      "date": "2026-06-09",
+      "time": "00:16",
+      "summary": "Millores d'ús i personalització per a l'Apple Watch amb AI integrada."
     }
   ]
 }

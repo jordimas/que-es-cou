@@ -1,87 +1,69 @@
 {
-  "generated_at": "2026-06-08T09:30",
+  "generated_at": "2026-06-09T12:00",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
     {
-      "name": "Betevé",
-      "url": "https://beteve.cat/feed/",
-      "articles_found": 1
+      "name": "Ara.cat",
+      "url": "https://www.ara.cat/rss/",
+      "articles_found": 3
     },
     {
-      "name": "El Periódico",
-      "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
-      "articles_found": 3
+      "name": "El Nacional",
+      "url": "https://www.elnacional.cat/uploads/feeds/feed_ca.xml",
+      "articles_found": 1
     },
     {
       "name": "MetaData",
       "url": "https://www.metadata.cat/sindica",
-      "articles_found": 2
+      "articles_found": 1
     },
     {
       "name": "Segre",
       "url": "https://www.segre.com/ca/rss/home.xml",
-      "articles_found": 2
-    },
-    {
-      "name": "324.cat",
-      "url": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0",
-      "articles_found": 1
-    },
-    {
-      "name": "RAC1",
-      "url": "https://www.rac1.cat/rss/home.xml",
-      "articles_found": 1
+      "articles_found": 3
     }
   ],
   "articles": [
     {
-      "title": "Laia Corbella, nova directora general de la Mobile World Capital",
-      "link_id": "c_bda60e",
-      "source": "Betevé",
+      "title": "La MWCapital nomena Laia Corbella nova directora general",
+      "link_id": "c_df4a07",
+      "source": "Ara.cat",
       "date": "2026-06-08",
-      "time": "08:37",
-      "summary": "Laia Corbella impulsa l'ecosistema digital barceloní cap a la innovació."
+      "time": "09:04",
+      "summary": "Laia Corbella lidera la MWCapital, impulsant la innovació tecnològica i la internacionalització del sector digital català."
     },
     {
-      "title": "Anthropic demana una pausa mundial en el desenvolupament de la IA",
-      "link_id": "c_f892a7",
-      "source": "El Periódico",
-      "date": "2026-06-05",
-      "time": "10:06",
-      "summary": "Anthropic demana una pausa mundial, advertint riscos ètics i socials creixents."
+      "title": "Can Ruti assaja una tècnica experimental inèdita a Europa per millorar els símptomes de l'Alzheimer",
+      "link_id": "c_98cc8e",
+      "source": "Ara.cat",
+      "date": "2026-06-08",
+      "time": "09:00",
+      "summary": "Can Ruti prova una nova tècnica per reduir símptomes de l'Alzheimer, potencialment revolucionant el tractament neurodegeneratiu."
     },
     {
-      "title": "«Un problema enorme»: L’ONU adverteix que la IA dispararà la contaminació i consumirà energia",
-      "link_id": "c_05ae92",
-      "source": "El Periódico",
-      "date": "2026-06-03",
-      "time": "16:00",
-      "summary": "L'ONU alerta que la IA augmentarà la contaminació i el consum energètic, exigint regulacions immediates."
+      "title": "Ultimàtum de Starmer a Apple i a Google perquè els menors no enviïn o rebin imatges sexuals",
+      "link_id": "c_fee44d",
+      "source": "Ara.cat",
+      "date": "2026-06-08",
+      "time": "16:58",
+      "summary": "Starmer exigeix a Apple i Google mesures urgents contra la difusió d'imatges sexuals entre menors, evitant abús digitals."
     },
     {
-      "title": "Unes ulleres per detectar-los a tots: Meta ja està afegint reconeixement facial a les seves smart glasses",
-      "link_id": "c_05aa83",
-      "source": "El Periódico",
-      "date": "2026-06-05",
-      "time": "11:17",
-      "summary": "Meta afegeix reconeixement facial a les smart glasses, generant controvèrsia per la privacitat dels usuaris."
+      "title": "Apple presenta iOS 27, el nou sistema operatiu de l'iPhone arriba amb més IA que mai",
+      "link_id": "c_597fdd",
+      "source": "El Nacional",
+      "date": "2026-06-08",
+      "time": "21:18",
+      "summary": "Apple llança iOS 27 amb avançades capacitats d'intel·ligència artificial, millorant la productivitat i la privacitat dels usuaris."
     },
     {
-      "title": "Dues emprenedores catalanes, reconegudes als Premis de la UE a les Dones Innovadores 2026",
-      "link_id": "c_24e594",
+      "title": "El Barcelona Cybersecurity Congress reunirà l’ecosistema europeu de la ciberseguretat en un context d’augment de les amenaces digitals",
+      "link_id": "c_01c470",
       "source": "MetaData",
       "date": "2026-06-08",
-      "time": "10:09",
-      "summary": "Dues emprenedores catalanes són premiades a la UE per innovacions en salut i tecnologia, impulsant la diversitat."
-    },
-    {
-      "title": "La IA consumirà tanta aigua com 1.300 milions de persones abans de 2030",
-      "link_id": "c_318785",
-      "source": "MetaData",
-      "date": "2026-06-04",
-      "time": "08:45",
-      "summary": "Un informe de l'ONU indica que la IA consumirá tanta aigua com 1.300 milions de persones abans de 2030."
+      "time": "16:10",
+      "summary": "El Barcelona Cybersecurity Congress reunirà líders europeus per reforçar la seguretat digital de ciutats i empreses."
     },
     {
       "title": "Patinets elèctrics a Lleida",
@@ -89,31 +71,23 @@
       "source": "Segre",
       "date": "2026-06-08",
       "time": "10:07",
-      "summary": "Les patinets elèctrics proliferen per les voreres de Lleida, provocant riscos per vianants i sol·licitant regulació."
+      "summary": "Lleida enfronta la proliferació de patinets elèctrics amb mesures per protegir vianants i reduir accidents."
     },
     {
-      "title": "Immersió digital en el km 0 pallarès: Una consultora tecnològica crea una experiència turística de tres dies",
-      "link_id": "c_9014e3",
+      "title": "Oasi digital de pergamins medievals",
+      "link_id": "c_170288",
       "source": "Segre",
-      "date": "2026-06-07",
+      "date": "2026-06-09",
       "time": "05:34",
-      "summary": "Immersió digital al km 0 pallarès ofereix una experiència turística basada en productors locals i tecnologia interactiva."
+      "summary": "Un projecte digital preserva i tradueix pergamins medievals catalans, facilitant l'accés global al patrimoni cultural."
     },
     {
-      "title": "\"Rutes\", la nova app per descobrir l'arquitectura catalana a peu de carrer",
-      "link_id": "c_ebe509",
-      "source": "324.cat",
-      "date": "2026-06-08",
-      "time": "06:55",
-      "summary": "L'app “Rutes” permet descobrir arquitectura catalana a peu, personalitzant itineraris per a turistes i residents."
-    },
-    {
-      "title": "Marco Bermúdez, CEO de 14 anys: \"Quan tinc temps mort a l'escola, penso idees de negoci per aplicar-les a casa\"",
-      "link_id": "c_8b5426",
-      "source": "RAC1",
-      "date": "2026-06-03",
-      "time": "13:00",
-      "summary": "Marco Bermúdez lidera SmartBridge amb IA per dissenyar ponts, inspirant joves emprenedors."
+      "title": "Eurecat integra robòtica i IA per transformar la indústria de Ponent",
+      "link_id": "c_6a57f5",
+      "source": "Segre",
+      "date": "2026-06-05",
+      "time": "09:38",
+      "summary": "Eurecat combina robòtica i IA per augmentar l'autonomia industrial i afrontar la escassetat de mà d'obra."
     }
   ]
 }

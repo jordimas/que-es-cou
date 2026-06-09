@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T09:25",
+  "generated_at": "2026-06-09T08:32",
   "id": "videos",
   "title": "Vídeos en català sobre tecnologia",
   "sources_checked": [],
@@ -10,7 +10,7 @@
       "source": "Albert Lloreta",
       "date": "2026-05-29",
       "time": "08:55",
-      "summary": "Exploració de la cultura digital femenina i el seu impacte en la societat actual."
+      "summary": "Exploració de les amistats virtuals amb la creadora Andrea Gumes, reflexionant sobre la cultura online."
     },
     {
       "title": "A què hem estat jugant aquest maig",
@@ -18,7 +18,7 @@
       "source": "Catalunya PlayStation",
       "date": "2026-05-31",
       "time": "18:00",
-      "summary": "Recull de les novetats lúdico-tecnològiques del maig, destacant tendències i experiències locals."
+      "summary": "Recapitulació dels jocs provats al maig, destacant novetats i experiències de la comunitat catalana."
     },
     {
       "title": "Pixelats vs. The Legend of Zelda: A Link to the Past!! 🔗🗝️",
@@ -26,7 +26,7 @@
       "source": "Pixelats",
       "date": "2026-05-27",
       "time": "10:00",
-      "summary": "Anàlisi del repte clàssic, amb estratègies i humor per a jugadors catalans."
+      "summary": "Anàlisi del clàssic Zelda en una partida comparativa, mostrant estratègies i moments èpics."
     },
     {
       "title": "Els Putxinel·lis - Capítol 10 - Dinàmiques de poder",
@@ -34,31 +34,7 @@
       "source": "Pixelats",
       "date": "2026-05-27",
       "time": "10:00",
-      "summary": "Desvetlla les intrigues de poder dins la sèrie, amb tocs d'humor i crítica social."
-    },
-    {
-      "title": "Club del Videojoc - Warhammer 40.000: Squad Command",
-      "link_id": "c_42456b",
-      "source": "Gaming.cat",
-      "date": "2026-05-28",
-      "time": "12:00",
-      "summary": "Partida intensiva que mostra tàctiques avançades i la passió per l'univers Warhammer."
-    },
-    {
-      "title": "Presentació de l'esdeveniment Gaming en Femení",
-      "link_id": "c_731b12",
-      "source": "Gaming.cat",
-      "date": "2026-05-26",
-      "time": "19:43",
-      "summary": "Visió de l'esdeveniment que impulsa la inclusió femenina al món del gaming."
-    },
-    {
-      "title": "🎙️Lúdica #55 - El llegat mitològic (amb Anton Planells)",
-      "link_id": "c_bbc05b",
-      "source": "Lúdica (Vídeos)",
-      "date": "2026-05-28",
-      "time": "17:11",
-      "summary": "Entrevista que explora com la mitologia influeix en el disseny de videojocs actuals."
+      "summary": "Debat sobre el poder i les dinàmiques internes del grup Putxinel·lis, capítol décim."
     },
     {
       "title": "Cobertura STATE OF PLAY - Juny 2026 (NO) E3",
@@ -66,7 +42,31 @@
       "source": "3D Nassos",
       "date": "2026-06-06",
       "time": "18:13",
-      "summary": "Resum de les novetats de la presentació, amb enfocament en consoles i jocs emergents."
+      "summary": "Cobertura del State of Play de juny 2026, amb enfocament en les novetats de l'E3."
+    },
+    {
+      "title": "Club del Videojoc - Warhammer 40.000: Squad Command",
+      "link_id": "c_42456b",
+      "source": "Gaming.cat",
+      "date": "2026-05-28",
+      "time": "12:00",
+      "summary": "Partida intensiva de Warhammer 40.000: Squad Command, mostrant tàctiques i moments clau."
+    },
+    {
+      "title": "Presentació de l'esdeveniment Gaming en Femení",
+      "link_id": "c_731b12",
+      "source": "Gaming.cat",
+      "date": "2026-05-26",
+      "time": "19:43",
+      "summary": "Presentació de l'esdeveniment de videojocs per a dones, impulsant la inclusió al sector."
+    },
+    {
+      "title": "🎙️Lúdica #55 - El llegat mitològic (amb Anton Planells)",
+      "link_id": "c_bbc05b",
+      "source": "Lúdica (Vídeos)",
+      "date": "2026-05-28",
+      "time": "17:11",
+      "summary": "Entrevista amb Anton Planells sobre llegats mitològics, explorant influències en el disseny de jocs."
     }
   ]
 }

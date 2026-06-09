@@ -1,1 +1,104 @@
-{"generated_at":"2026-06-08T09:30","id":"podcasts","title":"Podcasts en català sobre tecnologia","sources_checked":[],"articles":[{"title":"L'altra ràdio – Nou ordinador quàntic al Barcelona Supercomputing Center","link_id":"c_679bc1","source":"L'altra ràdio","date":"2026-06-04","time":"15:58","summary":"Descobreix com l'EuroQCS‑Spain impulsa la recerca amb computació quàntica a Espanya."},{"title":"L' Altra Ràdio - La informàtica a la perifèria pot localitzar objectes amb una precisió de centímetres","link_id":"c_5e7cc2","source":"L'altra ràdio","date":"2026-05-28","time":"07:33","summary":"Near By Computing mostra com l'edge computing detecta objectes amb precisió centimètrica en temps real."},{"title":"El gòTIC - Tenim una missió! del 3/6/2026","link_id":"c_1d3e0a","source":"El Gòtic","date":"2026-06-02","time":"16:29","summary":"El gòTIC impulsa la ciutadania digital amb recursos i estratègies per afrontar reptes tecnològics."},{"title":"El gòTIC - Tenim una missió! del 27/5/2026","link_id":"c_992079","source":"El Gòtic","date":"2026-05-26","time":"16:29","summary":"Segona entrega del gòTIC ofereix guies pràctiques per a la transformació digital local."},{"title":"Una comissió parlamentària dóna suport a l’aixecament de la immunitat d’un eurodiputat involucrat en el Huawei‑Gate","link_id":"c_8c2892","source":"Societat de la Informació","date":"2026-06-05","time":"11:50","summary":"El Parlament europeu avalua la possible influència de Huawei en les polítiques 5G del continent."},{"title":"Les paraules de Lleó XIV sobre la IA, la selectivitat i educació abans i després de ChatGPT","link_id":"c_7647f7","source":"Internet amb Genís Roca","date":"2026-06-06","time":"19:34","summary":"Reflexions sobre com la intel·ligència artificial transforma l'educació i la selecció acadèmica actual."},{"title":"A clor obert, amb Anna Tarrés","link_id":"c_93c8cc","source":"Foc a Terra","date":"2026-06-08","time":"04:00","summary":"Anna Tarrés explica la revolució de la natació sincronitzada i el seu impacte mediàtic."},{"title":"Desglossem la factura de la IA","link_id":"c_deb241","source":"Foc a Terra","date":"2026-06-01","time":"04:00","summary":"Anàlisi crítica del cost energètic i mediambiental de les grans infraestructures d'IA."},{"title":"El NO-GOci de la música, amb Arnau Tordera d'Obeses","link_id":"c_f3e521","source":"Foc a Terra","date":"2026-05-25","time":"04:00","summary":"Arnau Tordera trenca esquemes amb un rock català que desafia les convencions religioses."},{"title":"WordPress fa 23 anys","link_id":"c_74ae56","source":"WordPress Pòdcast","date":"2026-06-02","time":"00:00","summary":"Celebració dels 23 anys de WordPress i la seva evolució des de la versió 0.70."},{"title":"WordPress 7.0: Louis «Armstrong»","link_id":"c_9a1799","source":"WordPress Pòdcast","date":"2026-05-26","time":"00:00","summary":"Llançament de WordPress 7.0 amb integració d'IA, marcant una nova era per a creadors."},{"title":"Capítol 66: Un mòbil sense coloraines que no t'enganxi hores i hores","link_id":"c_43141f","source":"RAC&GO","date":"2026-06-02","time":"06:00","summary":"Descobreix el telèfon minimalista que elimina distraccions digitals i promou una vida més lenta."}]}
+{
+  "generated_at": "2026-06-09T09:00",
+  "id": "podcasts",
+  "title": "Podcasts en català sobre tecnologia",
+  "sources_checked": [],
+  "articles": [
+    {
+      "title": "«What a time to be alive» – programa 666",
+      "link_id": "c_5b9998",
+      "source": "Mossega la poma",
+      "date": "2026-05-30",
+      "time": "08:24",
+      "summary": "Debatem IA i ètica empresarial, amb referències a l'encíclica papal i col·laboració UPC."
+    },
+    {
+      "title": "L'altra ràdio – Nou ordinador quàntic al Barcelona Supercomputing Center",
+      "link_id": "c_679bc1",
+      "source": "L'altra ràdio",
+      "date": "2026-06-04",
+      "time": "15:58",
+      "summary": "Descobrim l'EuroQCS‑Spain, tercer ordinador quàntic que impulsa el projecte MareNostrum 5 a Europa."
+    },
+    {
+      "title": "L' Altra Ràdio - La informàtica a la perifèria pot localitzar objectes amb una precisió de centímetres",
+      "link_id": "c_5e7cc2",
+      "source": "L'altra ràdio",
+      "date": "2026-05-28",
+      "time": "07:33",
+      "summary": "Near By Computing mostra com l'edge computing detecta objectes amb centímetres de precisió en temps real."
+    },
+    {
+      "title": "El gòTIC - Tenim una missió! del 3/6/2026",
+      "link_id": "c_1d3e0a",
+      "source": "El Gòtic",
+      "date": "2026-06-02",
+      "time": "16:29",
+      "summary": "Ajuntament de Tàrrega impulsa recursos digitals per a la ciutadania, abordant reptes tecnològics actuals."
+    },
+    {
+      "title": "El gòTIC - Tenim una missió! del 27/5/2026",
+      "link_id": "c_992079",
+      "source": "El Gòtic",
+      "date": "2026-05-26",
+      "time": "16:29",
+      "summary": "Segona entrega del projecte digital, enfocada en estratègies per a la inclusió i seguretat en línia."
+    },
+    {
+      "title": "Una comissió parlamentària dóna suport a l’aixecament de la immunitat d’un eurodiputat involucrat en el Huawei‑Gate",
+      "link_id": "c_8c2892",
+      "source": "Societat de la Informació",
+      "date": "2026-06-05",
+      "time": "11:50",
+      "summary": "Parlament europeu avala investigació sobre influència de Huawei en 5G, qüestionant la immunitat dels diputats."
+    },
+    {
+      "title": "Les paraules de Lleó XIV sobre la IA, la selectivitat i educació abans i després de ChatGPT",
+      "link_id": "c_7647f7",
+      "source": "Internet amb Genís Roca",
+      "date": "2026-06-06",
+      "time": "19:34",
+      "summary": "Analitzem la visió històrica del rei sobre IA i com transforma l'educació i la selecció acadèmica."
+    },
+    {
+      "title": "A clor obert, amb Anna Tarrés",
+      "link_id": "c_93c8cc",
+      "source": "Foc a Terra",
+      "date": "2026-06-08",
+      "time": "04:00",
+      "summary": "Entrevista amb la llegenda de la natació sincronitzada, explorant el seu impacte cultural i esportiu."
+    },
+    {
+      "title": "Desglossem la factura de la IA",
+      "link_id": "c_deb241",
+      "source": "Foc a Terra",
+      "date": "2026-06-01",
+      "time": "04:00",
+      "summary": "Examinem costos energètics de centres de dades IA i la seva pressió sobre recursos hídrics."
+    },
+    {
+      "title": "WordPress fa 23 anys",
+      "link_id": "c_74ae56",
+      "source": "WordPress Pòdcast",
+      "date": "2026-06-02",
+      "time": "00:00",
+      "summary": "Celebració del 23è aniversari de WordPress, reflexionant sobre la seva evolució i comunitat global."
+    },
+    {
+      "title": "WordPress 7.0: Louis «Armstrong»",
+      "link_id": "c_9a1799",
+      "source": "WordPress Pòdcast",
+      "date": "2026-05-26",
+      "time": "00:00",
+      "summary": "Llançament de WordPress 7.0 amb IA integrada, marcant una nova era per a desenvolupadors."
+    },
+    {
+      "title": "Capítol 66: Un mòbil sense coloraines que no t'enganxi hores i hores",
+      "link_id": "c_43141f",
+      "source": "RAC&GO",
+      "date": "2026-06-02",
+      "time": "06:00",
+      "summary": "Presentem un telèfon minimalista, sense xarxes socials, que fomenta la productivitat i el benestar digital."
+    }
+  ]
+}
