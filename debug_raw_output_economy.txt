@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-06-09T09:00",
+  "generated_at": "2026-06-10T08:51",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Les empreses de “picks and shovels” guanyen amb la cursa dels centres de dades d'IA",
-      "link_id": "c_d652f8",
+      "title": "Com les ambicions d'IPO de SpaceX depenen del camí de la Starship cap a Mart",
+      "link_id": "c_e63a71",
       "source": "Financial Times",
-      "date": "2026-06-09",
+      "date": "2026-06-10",
       "time": "04:00",
-      "summary": "Les empreses de serveis d'infraestructura augmenten beneficis gràcies a la demanda creixent de centres de dades d'IA."
+      "summary": "L'èxit de l'IPO depèn de la capacitat de Starship per viatjar i colonitzar Mart."
     },
     {
-      "title": "Apple presenta ‘Siri AI’ per desafiar els xatbots rivals",
-      "link_id": "c_420781",
-      "source": "Financial Times",
-      "date": "2026-06-09",
-      "time": "00:32",
-      "summary": "Apple llança Siri AI amb èmfasi en privacitat, competint directament amb altres assistents conversacionals."
-    },
-    {
-      "title": "OpenAI presenta sol·licitud per cotitzar en una oferta monumental a Wall Street",
-      "link_id": "c_68b0c0",
-      "source": "Financial Times",
-      "date": "2026-06-08",
-      "time": "22:23",
-      "summary": "OpenAI busca una valoració superior al trilió de dòlars amb la seva primera oferta pública."
-    },
-    {
-      "title": "OpenAI presenta confidencialment la sol·licitud d'IPO, preparant Wall Street per a un gran debut d'IA",
-      "link_id": "c_3b4958",
-      "source": "CNBC Technology",
-      "date": "2026-06-08",
-      "time": "21:39",
-      "summary": "La sol·licitud confidencial d'OpenAI indica una aposta forta per liderar el mercat d'IA."
-    },
-    {
-      "title": "Apple s'associa amb Google i Nvidia per al model d'IA més avançat",
-      "link_id": "c_aecd9e",
-      "source": "CNBC Technology",
-      "date": "2026-06-08",
-      "time": "21:12",
-      "summary": "Apple combina recursos amb Google i Nvidia per crear un model d'IA que superi els existents."
-    },
-    {
-      "title": "Corning tanca un altre acord d'IA de diversos mil milions; el pacte amb Amazon impacta l'acció",
-      "link_id": "c_51cc29",
-      "source": "CNBC Technology",
-      "date": "2026-06-08",
-      "time": "20:33",
-      "summary": "Corning subministra fibra òptica a Amazon, reforçant la infraestructura per a les seves dades d'IA."
-    },
-    {
-      "title": "Perplexity planeja una IPO el 2028 independentment del futur d'Anthropic o OpenAI, segons el CEO",
-      "link_id": "c_30d1a0",
+      "title": "Explicació de l'IPO de SpaceX: el preu està fixat, però l'assignació minorista encara és incerta",
+      "link_id": "c_c19544",
       "source": "CNBC Technology",
       "date": "2026-06-09",
-      "time": "05:49",
-      "summary": "Perplexity manté el seu camí cap a l'IPO, mostrant confiança malgrat la competència d'Anthropic i OpenAI."
+      "time": "20:43",
+      "summary": "Preu fixat, però la distribució per inversors particulars encara és incerta i pot afectar la demanda."
     },
     {
-      "title": "El director d'ASML adverteix la UE contra la direcció del subministrament de xips",
-      "link_id": "c_a4679c",
+      "title": "Més enllà del 'Silicon Roundabout': el proper repte per a la tecnologia del Regne Unit",
+      "link_id": "c_628599",
+      "source": "CNBC Technology",
+      "date": "2026-06-10",
+      "time": "05:30",
+      "summary": "El Regne Unit busca superar la saturació de Londres amb nous hubs tecnològics al sud."
+    },
+    {
+      "title": "Beijing intensifica l'espionatge d'IA per igualar els EUA en tecnologia, segons una empresa de ciberseguretat",
+      "link_id": "c_0bd46d",
+      "source": "CNBC Technology",
+      "date": "2026-06-10",
+      "time": "05:02",
+      "summary": "Beijing intensifica l'espionatge d'IA, augmentant la pressió sobre les empreses tecnològiques occidentals."
+    },
+    {
+      "title": "Mercedes s'associa amb la startup de defensa de drons Tytan",
+      "link_id": "c_174e2c",
       "source": "Financial Times",
-      "date": "2026-06-09",
+      "date": "2026-06-10",
       "time": "04:00",
-      "summary": "ASML alerta la UE que la regulació del subministrament de xips podria frenar la innovació europea."
+      "summary": "Mercedes col·labora amb Tytan per desenvolupar drons defensius, reforçant la seguretat a Europa."
     },
     {
-      "title": "El Pentagó restaura Alibaba, Baidu i BYD a la llista negra de grups militars xinesos",
-      "link_id": "c_35714e",
+      "title": "El BCE actua per controlar els 'misils autoguiats' de Revolut a Europa",
+      "link_id": "c_38fcd5",
       "source": "Financial Times",
-      "date": "2026-06-09",
-      "time": "02:50",
-      "summary": "El Pentagó reinclou tres empreses xineses a la llista negra, considerant-les riscos de seguretat."
+      "date": "2026-06-10",
+      "time": "04:00",
+      "summary": "El BCE busca regular Revolut per evitar riscos financers derivats de productes d'inversió autoguiats."
     },
     {
-      "title": "Ha perdut l'Índia la cursa de la IA? No del tot",
-      "link_id": "c_2cf289",
+      "title": "El mercat borsari dels EUA deixarà de reduir-se per primera vegada en 23 anys",
+      "link_id": "c_55ec75",
+      "source": "Financial Times",
+      "date": "2026-06-10",
+      "time": "04:00",
+      "summary": "Després de 23 anys, el mercat americà mostra signes de estabilització i creixement."
+    },
+    {
+      "title": "Apollo i Blackstone recapturen 35.000 milions de dòlars per finançar xips d'Anthropic",
+      "link_id": "c_01bc80",
       "source": "Financial Times",
       "date": "2026-06-09",
-      "time": "01:30",
-      "summary": "L'Índia encara manté progrés en IA, tot i desafiaments de finançament i talent."
+      "time": "23:53",
+      "summary": "Apollo i Blackstone inverteixen massivament en xips per impulsar el creixement d'Anthropic."
+    },
+    {
+      "title": "El CEO d'Entergy refuta la por que els centres de dades d'IA augmentin les factures elèctriques",
+      "link_id": "c_596168",
+      "source": "CNBC Technology",
+      "date": "2026-06-09",
+      "time": "22:49",
+      "summary": "Entergy destaca beneficis locals dels centres d'IA, contrarestant les preocupacions de costos energètics."
+    },
+    {
+      "title": "Les accions de Super Micro cauen per plans de finançament de 7.000 milions, tot i promoure comandes d'IA",
+      "link_id": "c_7ec482",
+      "source": "CNBC Technology",
+      "date": "2026-06-09",
+      "time": "22:29",
+      "summary": "Malgrat el finançament de 7.000 milions, les accions de Super Micro cauen per incerteses del mercat."
     }
   ]
 }

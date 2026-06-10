@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T09:00",
+  "generated_at": "2026-06-10T09:00",
   "id": "podcasts",
   "title": "Podcasts en català sobre tecnologia",
   "sources_checked": [],
@@ -10,7 +10,7 @@
       "source": "Mossega la poma",
       "date": "2026-05-30",
       "time": "08:24",
-      "summary": "Debatem IA i ètica empresarial, amb referències a l'encíclica papal i col·laboració UPC."
+      "summary": "Anàlisi de l'impacte de la IA i les polítiques d'inversió empresarial."
     },
     {
       "title": "L'altra ràdio – Nou ordinador quàntic al Barcelona Supercomputing Center",
@@ -18,7 +18,7 @@
       "source": "L'altra ràdio",
       "date": "2026-06-04",
       "time": "15:58",
-      "summary": "Descobrim l'EuroQCS‑Spain, tercer ordinador quàntic que impulsa el projecte MareNostrum 5 a Europa."
+      "summary": "Descobriment del tercer ordinador quàntic del BSC i el seu paper global."
     },
     {
       "title": "L' Altra Ràdio - La informàtica a la perifèria pot localitzar objectes amb una precisió de centímetres",
@@ -26,7 +26,15 @@
       "source": "L'altra ràdio",
       "date": "2026-05-28",
       "time": "07:33",
-      "summary": "Near By Computing mostra com l'edge computing detecta objectes amb centímetres de precisió en temps real."
+      "summary": "Near By Computing mostra com l'edge computing localitza objectes amb precisió centimètrica."
+    },
+    {
+      "title": "El gòTIC - Tenim una missió! del 10/6/2026",
+      "link_id": "c_4849bb",
+      "source": "El Gòtic",
+      "date": "2026-06-09",
+      "time": "16:30",
+      "summary": "Presentació del nou superordinador quàntic i les seves aplicacions científiques."
     },
     {
       "title": "El gòTIC - Tenim una missió! del 3/6/2026",
@@ -34,7 +42,7 @@
       "source": "El Gòtic",
       "date": "2026-06-02",
       "time": "16:29",
-      "summary": "Ajuntament de Tàrrega impulsa recursos digitals per a la ciutadania, abordant reptes tecnològics actuals."
+      "summary": "Explicació de la missió digital del gòTIC per a la ciutadania."
     },
     {
       "title": "El gòTIC - Tenim una missió! del 27/5/2026",
@@ -42,15 +50,15 @@
       "source": "El Gòtic",
       "date": "2026-05-26",
       "time": "16:29",
-      "summary": "Segona entrega del projecte digital, enfocada en estratègies per a la inclusió i seguretat en línia."
+      "summary": "Resum de la missió del gòTIC del 27 de maig, enfocada a recursos digitals."
     },
     {
-      "title": "Una comissió parlamentària dóna suport a l’aixecament de la immunitat d’un eurodiputat involucrat en el Huawei‑Gate",
+      "title": "Una comissió parlamentària dóna suport a l’aixecament de la immunitat d’un eurodiputat involucrat en el Huawei-Gate",
       "link_id": "c_8c2892",
       "source": "Societat de la Informació",
       "date": "2026-06-05",
       "time": "11:50",
-      "summary": "Parlament europeu avala investigació sobre influència de Huawei en 5G, qüestionant la immunitat dels diputats."
+      "summary": "Debat sobre la immunitat parlamentària i la influència de Huawei al 5G europeu."
     },
     {
       "title": "Les paraules de Lleó XIV sobre la IA, la selectivitat i educació abans i després de ChatGPT",
@@ -58,7 +66,7 @@
       "source": "Internet amb Genís Roca",
       "date": "2026-06-06",
       "time": "19:34",
-      "summary": "Analitzem la visió històrica del rei sobre IA i com transforma l'educació i la selecció acadèmica."
+      "summary": "Reflexió sobre la visió històrica de Lleó XIV respecte a IA i educació."
     },
     {
       "title": "A clor obert, amb Anna Tarrés",
@@ -66,7 +74,7 @@
       "source": "Foc a Terra",
       "date": "2026-06-08",
       "time": "04:00",
-      "summary": "Entrevista amb la llegenda de la natació sincronitzada, explorant el seu impacte cultural i esportiu."
+      "summary": "Conversa amb Anna Tarrés sobre la transformació de la natació sincronitzada."
     },
     {
       "title": "Desglossem la factura de la IA",
@@ -74,7 +82,7 @@
       "source": "Foc a Terra",
       "date": "2026-06-01",
       "time": "04:00",
-      "summary": "Examinem costos energètics de centres de dades IA i la seva pressió sobre recursos hídrics."
+      "summary": "Anàlisi crítica del consum d'aigua per a centres de dades d'IA."
     },
     {
       "title": "WordPress fa 23 anys",
@@ -82,15 +90,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-06-02",
       "time": "00:00",
-      "summary": "Celebració del 23è aniversari de WordPress, reflexionant sobre la seva evolució i comunitat global."
-    },
-    {
-      "title": "WordPress 7.0: Louis «Armstrong»",
-      "link_id": "c_9a1799",
-      "source": "WordPress Pòdcast",
-      "date": "2026-05-26",
-      "time": "00:00",
-      "summary": "Llançament de WordPress 7.0 amb IA integrada, marcant una nova era per a desenvolupadors."
+      "summary": "Celebració dels 23 anys de WordPress i la seva evolució constant."
     },
     {
       "title": "Capítol 66: Un mòbil sense coloraines que no t'enganxi hores i hores",
@@ -98,7 +98,7 @@
       "source": "RAC&GO",
       "date": "2026-06-02",
       "time": "06:00",
-      "summary": "Presentem un telèfon minimalista, sense xarxes socials, que fomenta la productivitat i el benestar digital."
+      "summary": "Exploració d'un telèfon minimalista sense xarxes socials i el seu impacte en l'ús."
     }
   ]
 }

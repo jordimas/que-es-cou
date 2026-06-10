@@ -1,93 +1,284 @@
 {
-  "generated_at": "2026-06-09T12:00",
+  "generated_at": "2026-06-10T10:00",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
     {
       "name": "Ara.cat",
       "url": "https://www.ara.cat/rss/",
+      "articles_found": 2
+    },
+    {
+      "name": "El Periódico",
+      "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "RAC1",
+      "url": "https://www.rac1.cat/rss/home.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "La Vanguardia (en català)",
+      "url": "https://www.lavanguardia.com/rss/encatala.xml",
+      "articles_found": 2
+    },
+    {
+      "name": "VilaWeb",
+      "url": "https://www.vilaweb.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "NacióDigital",
+      "url": "https://www.naciodigital.cat/rss/tecnologia",
+      "articles_found": 0
+    },
+    {
+      "name": "324.cat",
+      "url": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0",
+      "articles_found": 1
+    },
+    {
+      "name": "Softcatalà",
+      "url": "https://www.softcatala.org/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "El Nacional.cat",
+      "url": "https://www.elnacional.cat/uploads/feeds/feed_ca.xml",
       "articles_found": 3
     },
     {
-      "name": "El Nacional",
-      "url": "https://www.elnacional.cat/uploads/feeds/feed_ca.xml",
-      "articles_found": 1
+      "name": "El Mon.cat",
+      "url": "https://www.elmon.cat/feed/",
+      "articles_found": 0
     },
     {
-      "name": "MetaData",
-      "url": "https://www.metadata.cat/sindica",
-      "articles_found": 1
+      "name": "El Mon.cat Tecnologia",
+      "url": "https://elmon.cat/tecnologia/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "El Mon.cat Societat",
+      "url": "https://elmon.cat/societat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "Betevé",
+      "url": "https://beteve.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/barcelona.feed?type=rss",
+      "articles_found": 0
     },
     {
       "name": "Segre",
       "url": "https://www.segre.com/ca/rss/home.xml",
-      "articles_found": 3
+      "articles_found": 0
+    },
+    {
+      "name": "Regio7",
+      "url": "https://www.regio7.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Diari d'Andorra",
+      "url": "https://www.diariandorra.ad/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Bon Dia Andorra",
+      "url": "https://www.bondia.ad/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Altaveu",
+      "url": "https://www.altaveu.com/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Nuvol",
+      "url": "https://www.nuvol.com/feed",
+      "articles_found": 0
+    },
+    {
+      "name": "Diari Mes",
+      "url": "https://www.diarimes.com/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Directe.cat",
+      "url": "https://www.directe.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Cugat.cat",
+      "url": "https://www.cugat.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "CatalunyaPress",
+      "url": "https://www.catalunyapress.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Tot Barcelona",
+      "url": "https://www.totbarcelona.cat/feed/",
+      "articles_found": 1
+    },
+    {
+      "name": "e-notícies",
+      "url": "https://www.e-noticies.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Lleida Diari",
+      "url": "https://www.lleidadiari.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "Catorze",
+      "url": "https://www.catorze.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Xarxanet",
+      "url": "https://www.xarxanet.org/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Bondia",
+      "url": "https://www.bondia.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "MetaData",
+      "url": "https://www.metadata.cat/sindica",
+      "articles_found": 0
+    },
+    {
+      "name": "El Temps",
+      "url": "https://www.eltemps.cat/sindica",
+      "articles_found": 0
+    },
+    {
+      "name": "Àpunt",
+      "url": "https://www.apuntmedia.es/rss/",
+      "articles_found": 0
+    },
+    {
+      "name": "El Periòdic d'Ontinyent",
+      "url": "https://www.elperiodicvalencia.com/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Saó",
+      "url": "https://www.revistasao.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "Diari de Balears",
+      "url": "https://www.diaridebalears.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "IB3 Notícies",
+      "url": "https://ib3.org/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "Ara Balears",
+      "url": "https://www.arabalears.cat/rss/",
+      "articles_found": 0
+    },
+    {
+      "name": "Via Empresa",
+      "url": "https://www.viaempresa.cat/uploads/feeds/feed_via-empresa-2024_ca.xml",
+      "articles_found": 1
     }
   ],
   "articles": [
     {
-      "title": "La MWCapital nomena Laia Corbella nova directora general",
-      "link_id": "c_df4a07",
-      "source": "Ara.cat",
-      "date": "2026-06-08",
-      "time": "09:04",
-      "summary": "Laia Corbella lidera la MWCapital, impulsant la innovació tecnològica i la internacionalització del sector digital català."
-    },
-    {
-      "title": "Can Ruti assaja una tècnica experimental inèdita a Europa per millorar els símptomes de l'Alzheimer",
-      "link_id": "c_98cc8e",
-      "source": "Ara.cat",
-      "date": "2026-06-08",
-      "time": "09:00",
-      "summary": "Can Ruti prova una nova tècnica per reduir símptomes de l'Alzheimer, potencialment revolucionant el tractament neurodegeneratiu."
-    },
-    {
-      "title": "Ultimàtum de Starmer a Apple i a Google perquè els menors no enviïn o rebin imatges sexuals",
-      "link_id": "c_fee44d",
-      "source": "Ara.cat",
-      "date": "2026-06-08",
-      "time": "16:58",
-      "summary": "Starmer exigeix a Apple i Google mesures urgents contra la difusió d'imatges sexuals entre menors, evitant abús digitals."
-    },
-    {
-      "title": "Apple presenta iOS 27, el nou sistema operatiu de l'iPhone arriba amb més IA que mai",
-      "link_id": "c_597fdd",
-      "source": "El Nacional",
-      "date": "2026-06-08",
-      "time": "21:18",
-      "summary": "Apple llança iOS 27 amb avançades capacitats d'intel·ligència artificial, millorant la productivitat i la privacitat dels usuaris."
-    },
-    {
-      "title": "El Barcelona Cybersecurity Congress reunirà l’ecosistema europeu de la ciberseguretat en un context d’augment de les amenaces digitals",
-      "link_id": "c_01c470",
-      "source": "MetaData",
-      "date": "2026-06-08",
-      "time": "16:10",
-      "summary": "El Barcelona Cybersecurity Congress reunirà líders europeus per reforçar la seguretat digital de ciutats i empreses."
-    },
-    {
-      "title": "Patinets elèctrics a Lleida",
-      "link_id": "c_440261",
-      "source": "Segre",
-      "date": "2026-06-08",
-      "time": "10:07",
-      "summary": "Lleida enfronta la proliferació de patinets elèctrics amb mesures per protegir vianants i reduir accidents."
-    },
-    {
-      "title": "Oasi digital de pergamins medievals",
-      "link_id": "c_170288",
-      "source": "Segre",
+      "title": "Adif i Rodalies culpen Siemens de l'aturada total d'aquest dimarts i anuncien accions legals",
+      "link_id": "c_d59e52",
+      "source": "324.cat",
       "date": "2026-06-09",
-      "time": "05:34",
-      "summary": "Un projecte digital preserva i tradueix pergamins medievals catalans, facilitant l'accés global al patrimoni cultural."
+      "time": "18:23",
+      "summary": "S'han assignat responsabilitats a Siemens per la doble aturada de trens, amb possibles accions legals contra l'empresa."
     },
     {
-      "title": "Eurecat integra robòtica i IA per transformar la indústria de Ponent",
-      "link_id": "c_6a57f5",
-      "source": "Segre",
-      "date": "2026-06-05",
-      "time": "09:38",
-      "summary": "Eurecat combina robòtica i IA per augmentar l'autonomia industrial i afrontar la escassetat de mà d'obra."
+      "title": "El Mobile World Congress xifra en 588 M€ l'impacte econòmic de l'edició d'aquest any",
+      "link_id": "c_8d8440",
+      "source": "Ara.cat",
+      "date": "2026-06-09",
+      "time": "12:32",
+      "summary": "L'MWC genera 588 milions d'euros i 14.016 llocs de feina parcial, impulsant l'economia barcelonina."
+    },
+    {
+      "title": "El Govern eleva a 35 M€ el préstec a Openchip per mantenir el projecte català de microprocessadors",
+      "link_id": "c_255413",
+      "source": "Ara.cat",
+      "date": "2026-06-09",
+      "time": "16:32",
+      "summary": "El finançament garanteix la continuïtat del projecte de microprocessadors, reforçant la indústria tecnològica catalana."
+    },
+    {
+      "title": "Tecnologia i natura es donen la mà: així es protegeixen els boscos de Catalunya des de l'aire",
+      "link_id": "c_8e96ce",
+      "source": "El Nacional.cat",
+      "date": "2026-06-10",
+      "time": "05:00",
+      "summary": "Drones i sensors monitoren els boscos, permetent una gestió forestal més eficient i sostenible."
+    },
+    {
+      "title": "Europa regularà les ulleres intel·ligents tipus Ray-Ban Meta per risc de vigilància massiva",
+      "link_id": "c_0a97b7",
+      "source": "El Nacional.cat",
+      "date": "2026-06-09",
+      "time": "18:00",
+      "summary": "Nou reglament europeu limitarà l'ús de reconeixement facial en ulleres intel·ligents per protegir la privacitat."
+    },
+    {
+      "title": "Lidl posa a la venda una bicicleta elèctrica Crivit per moure't per la ciutat sense dependre tant del cotxe",
+      "link_id": "c_fd72ff",
+      "source": "El Nacional.cat",
+      "date": "2026-06-09",
+      "time": "18:00",
+      "summary": "La bicicleta Crivit ofereix una alternativa ecològica i assequible per desplaçar-se per Barcelona."
+    },
+    {
+      "title": "Catalunya explora una innovadora via terapèutica en cirurgia contra l’alzheimer",
+      "link_id": "c_da59a8",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-06-09",
+      "time": "09:40",
+      "summary": "Can Ruti investiga derivar proteïnes tòxiques cap al sistema limfàtic, obrint noves opcions per al tractament."
+    },
+    {
+      "title": "OpenAI s’afegeix a SpaceX i Anthropic en l’onada de sortides a borsa de la IA",
+      "link_id": "c_f4c1ce",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-06-10",
+      "time": "08:47",
+      "summary": "OpenAI entra al sector espacial, impulsant la competència i l'innovació en tecnologies d'intel·ligència artificial."
+    },
+    {
+      "title": "El port de Barcelona i Shanghai reforcen la seva aliança amb la signatura d’un acord estratègic",
+      "link_id": "c_584ae4",
+      "source": "Tot Barcelona",
+      "date": "2026-06-09",
+      "time": "09:50",
+      "summary": "El nou acord estratègic afavoreix el comerç i la col·laboració logística entre Barcelona i Shanghai."
+    },
+    {
+      "title": "El Barcelona Cybersecurity Congress 2026 reunirà l'ecosistema europeu de la ciberseguretat",
+      "link_id": "c_25c4e8",
+      "source": "Via Empresa",
+      "date": "2026-06-08",
+      "time": "11:43",
+      "summary": "El congrés atraurà experts i empreses per reforçar la seguretat digital a Europa i a Catalunya."
     }
   ]
 }

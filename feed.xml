@@ -5,237 +5,253 @@
     <link>https://jordimas.github.io/que-es-cou/</link>
     <description>Notícies de tecnologia en català, actualitzades cada 4 hores.</description>
     <language>ca</language>
-    <lastBuildDate>2026-06-09T08:32</lastBuildDate>
+    <lastBuildDate>2026-06-10T10:51</lastBuildDate>
     <atom:link href="https://jordimas.github.io/que-es-cou/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>9to5Mac Diari: 8 de juny de 2026 – Resum del WWDC 2026</title>
-      <link>https://9to5mac.com/2026/06/08/daily-june-8-2026/</link>
-      <guid isPermaLink="true">https://9to5mac.com/2026/06/08/daily-june-8-2026/</guid>
-      <description>Cobertura diària dels principals anuncis d'Apple, incloent Siri AI i el nou iOS 27.</description>
+      <title>Siri IA podria mostrar recordatoris de pausa si les converses s'allarguen</title>
+      <link>https://9to5mac.com/2026/06/09/siri-ai-might-display-break-reminders-if-conversations-go-on-for-too-long/</link>
+      <guid isPermaLink="true">https://9to5mac.com/2026/06/09/siri-ai-might-display-break-reminders-if-conversations-go-on-for-too-long/</guid>
+      <description>iOS 27 afegeix recordatoris de pausa que Siri mostra després de converses llargues.</description>
+      <author>9to5Mac</author>
+      <pubDate>2026-06-10</pubDate>
+    </item>
+    <item>
+      <title>Apple reforça les directrius de revisió d'aplicacions contra les que no aporten valor a l'App Store</title>
+      <link>https://9to5mac.com/2026/06/09/apple-tightens-app-review-guidelines-against-apps-that-do-not-add-value-to-the-app-store/</link>
+      <guid isPermaLink="true">https://9to5mac.com/2026/06/09/apple-tightens-app-review-guidelines-against-apps-that-do-not-add-value-to-the-app-store/</guid>
+      <description>Apple actualitza les directrius de l'App Store per eliminar aplicacions que no aporten valor.</description>
       <author>9to5Mac</author>
       <pubDate>2026-06-09</pubDate>
     </item>
     <item>
-      <title>visionOS 27 presenta un nou entorn Thórsmörk</title>
-      <link>https://9to5mac.com/2026/06/08/visionos-27-features-a-new-thorsmork-environment/</link>
-      <guid isPermaLink="true">https://9to5mac.com/2026/06/08/visionos-27-features-a-new-thorsmork-environment/</guid>
-      <description>Apple introdueix un paisatge inspirat en Islàndia per a la realitat augmentada.</description>
-      <author>9to5Mac</author>
+      <title>Anthropic publica una versió segura del model AI Claude Mythos</title>
+      <link>https://www.theguardian.com/technology/2026/jun/09/anthropic-claude-mythos-ai-model</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/jun/09/anthropic-claude-mythos-ai-model</guid>
+      <description>Anthropic llança Fable 5, versió segura del seu potent model Mythos, després de restriccions per seguretat.</description>
+      <author>The Guardian Tech</author>
       <pubDate>2026-06-09</pubDate>
     </item>
     <item>
-      <title>iOS 27 permet eliminar el widget Reproduint ara de la pantalla de bloqueig</title>
-      <link>https://9to5mac.com/2026/06/08/ios-27-will-let-you-swipe-away-the-now-playing-widget-from-the-lock-screen/</link>
-      <guid isPermaLink="true">https://9to5mac.com/2026/06/08/ios-27-will-let-you-swipe-away-the-now-playing-widget-from-the-lock-screen/</guid>
-      <description>Nou gest per netejar la pantalla de bloqueig i reduir distraccions.</description>
-      <author>9to5Mac</author>
-      <pubDate>2026-06-09</pubDate>
-    </item>
-    <item>
-      <title>Els principals anuncis del WWDC 2026 d'Apple: Siri, beta d'iOS 27 i més</title>
-      <link>https://www.zdnet.com/article/apple-wwdc-live-blog-06-08-2026/</link>
-      <guid isPermaLink="true">https://www.zdnet.com/article/apple-wwdc-live-blog-06-08-2026/</guid>
-      <description>Resum dels canvis clau que marcaran l'ecosistema Apple aquest any.</description>
-      <author>ZDNet</author>
-      <pubDate>2026-06-09</pubDate>
-    </item>
-    <item>
-      <title>El nou Siri AI d'Apple té costos ocults que els usuaris avançats han de conèixer</title>
-      <link>https://www.zdnet.com/article/the-new-siri-ai-could-cost-you-heres-why/</link>
-      <guid isPermaLink="true">https://www.zdnet.com/article/the-new-siri-ai-could-cost-you-heres-why/</guid>
-      <description>Descobreix les limitacions i tarifes addicionals del nou assistent intel·ligent.</description>
-      <author>ZDNet</author>
-      <pubDate>2026-06-09</pubDate>
-    </item>
-    <item>
-      <title>macOS 27 Golden Gate permet redimensionar la finestra de duplicació d'iPhone</title>
-      <link>https://9to5mac.com/2026/06/08/macos-27-golden-gate-will-let-you-resize-the-iphone-mirroring-window/</link>
-      <guid isPermaLink="true">https://9to5mac.com/2026/06/08/macos-27-golden-gate-will-let-you-resize-the-iphone-mirroring-window/</guid>
-      <description>Nova funcionalitat per ajustar la pantalla compartida entre Mac i iPhone.</description>
-      <author>9to5Mac</author>
-      <pubDate>2026-06-09</pubDate>
-    </item>
-    <item>
-      <title>Les dues funcions més importants d'iOS 27 al WWDC no tenien res a veure amb Siri AI</title>
-      <link>https://www.zdnet.com/article/ios-27-connectivity-upgrades/</link>
-      <guid isPermaLink="true">https://www.zdnet.com/article/ios-27-connectivity-upgrades/</guid>
-      <description>Actualitzacions de rendiment i privadesa que superen les expectatives d'Apple.</description>
-      <author>ZDNet</author>
-      <pubDate>2026-06-09</pubDate>
-    </item>
-    <item>
-      <title>Com descarregar la beta de desenvolupador d'iPadOS 27 ara mateix i quins models la suporten</title>
-      <link>https://www.zdnet.com/article/how-to-download-ipados-27-developer-beta/</link>
-      <guid isPermaLink="true">https://www.zdnet.com/article/how-to-download-ipados-27-developer-beta/</guid>
-      <description>Guia pas a pas per provar les noves funcions d'iPadOS 27.</description>
-      <author>ZDNet</author>
-      <pubDate>2026-06-09</pubDate>
-    </item>
-    <item>
-      <title>Tot el que Apple va anunciar al WWDC 2026 en 10 minuts</title>
-      <link>https://www.macrumors.com/2026/06/08/wwdc-2026-recap/</link>
-      <guid isPermaLink="true">https://www.macrumors.com/2026/06/08/wwdc-2026-recap/</guid>
-      <description>Resum ràpid de les novetats, des de Siri AI fins a watchOS 27.</description>
+      <title>El nou Siri IA d'Apple és més que un assistent intel·ligent: una nova capa d'aplicacions empresarials</title>
+      <link>https://venturebeat.com/technology/apples-new-siri-ai-is-more-than-just-a-smarter-assistant-its-a-new-enterprise-app-layer</link>
+      <guid isPermaLink="true">https://venturebeat.com/technology/apples-new-siri-ai-is-more-than-just-a-smarter-assistant-its-a-new-enterprise-app-layer</guid>
+      <description>Apple transforma Siri en una interfície AI de sistema per a empreses, integrant-lo a tots els dispositius.</description>
       <author>MacRumors</author>
       <pubDate>2026-06-09</pubDate>
     </item>
     <item>
-      <title>watchOS 27 inclou una graella d'aplicacions dinàmica, nou control de gestos i més</title>
-      <link>https://www.macrumors.com/2026/06/08/watchos-27-features-dynamic-app-grid-new-and-more/</link>
-      <guid isPermaLink="true">https://www.macrumors.com/2026/06/08/watchos-27-features-dynamic-app-grid-new-and-more/</guid>
-      <description>Millores d'ús i personalització per a l'Apple Watch amb AI integrada.</description>
-      <author>MacRumors</author>
+      <title>Fable 5 d'Anthropic pot crear videojocs divertits amb només un clic</title>
+      <link>https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/</guid>
+      <description>Claude Fable 5 d'Anthropic atrau els programadors web amb les seves capacitats avançades.</description>
+      <author>TechCrunch</author>
       <pubDate>2026-06-09</pubDate>
     </item>
     <item>
-      <title>Les empreses de “picks and shovels” guanyen amb la cursa dels centres de dades d'IA</title>
-      <link>https://www.ft.com/content/5ede9d4d-3989-49b5-a282-4722c8d8fc59</link>
-      <guid isPermaLink="true">https://www.ft.com/content/5ede9d4d-3989-49b5-a282-4722c8d8fc59</guid>
-      <description>Les empreses de serveis d'infraestructura augmenten beneficis gràcies a la demanda creixent de centres de dades d'IA.</description>
-      <author>Financial Times</author>
+      <title>L'AI Fable d'Anthropic porta les capacitats del model Mythos no publicat a usuaris normals</title>
+      <link>https://www.engadget.com/2190934/anthropic-fable-ai-brings-the-capabilities-of-its-unreleased-mythos-model-to-regular-users/</link>
+      <guid isPermaLink="true">https://www.engadget.com/2190934/anthropic-fable-ai-brings-the-capabilities-of-its-unreleased-mythos-model-to-regular-users/</guid>
+      <description>Els subscriptors de Claude poden provar el model Fable 5 fins al 22 de juny sense costos.</description>
+      <author>Engadget</author>
       <pubDate>2026-06-09</pubDate>
     </item>
     <item>
-      <title>Apple presenta ‘Siri AI’ per desafiar els xatbots rivals</title>
-      <link>https://www.ft.com/content/28205edf-baeb-4b97-a89d-e9f4838ff6ff</link>
-      <guid isPermaLink="true">https://www.ft.com/content/28205edf-baeb-4b97-a89d-e9f4838ff6ff</guid>
-      <description>Apple llança Siri AI amb èmfasi en privacitat, competint directament amb altres assistents conversacionals.</description>
-      <author>Financial Times</author>
+      <title>El model AI de Claude, considerat massa perillós, és finalment públic, però hi ha una limitació</title>
+      <link>https://www.pcworld.com/article/3161065/claude-too-dangerous-ai-model-is-finally-public-but-theres-a-catch.html</link>
+      <guid isPermaLink="true">https://www.pcworld.com/article/3161065/claude-too-dangerous-ai-model-is-finally-public-but-theres-a-catch.html</guid>
+      <description>El model Claude considerat perillós ara és accessible públicament, però amb límits d'ús.</description>
+      <author>PCWorld</author>
       <pubDate>2026-06-09</pubDate>
     </item>
     <item>
-      <title>OpenAI presenta sol·licitud per cotitzar en una oferta monumental a Wall Street</title>
-      <link>https://www.ft.com/content/a347e00a-2952-41ad-9f12-88c01ba199d6</link>
-      <guid isPermaLink="true">https://www.ft.com/content/a347e00a-2952-41ad-9f12-88c01ba199d6</guid>
-      <description>OpenAI busca una valoració superior al trilió de dòlars amb la seva primera oferta pública.</description>
-      <author>Financial Times</author>
-      <pubDate>2026-06-08</pubDate>
+      <title>WWDC 2026: Tot el anunciat sobre Siri IA, iOS 27, Apple Intelligence i més</title>
+      <link>https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/</guid>
+      <description>Apple presenta una Siri millorada amb integració d'IA per a una experiència més avançada.</description>
+      <author>TechCrunch</author>
+      <pubDate>2026-06-09</pubDate>
     </item>
     <item>
-      <title>OpenAI presenta confidencialment la sol·licitud d'IPO, preparant Wall Street per a un gran debut d'IA</title>
-      <link>https://www.cnbc.com/2026/06/08/openai-confidentially-files-for-ipo-prepping-wall-street-for-ai-debut.html</link>
-      <guid isPermaLink="true">https://www.cnbc.com/2026/06/08/openai-confidentially-files-for-ipo-prepping-wall-street-for-ai-debut.html</guid>
-      <description>La sol·licitud confidencial d'OpenAI indica una aposta forta per liderar el mercat d'IA.</description>
+      <title>Anthropic porta Mythos a les masses amb Claude Fable 5, el seu model més potent disponible</title>
+      <link>https://venturebeat.com/technology/anthropic-brings-mythos-to-the-masses-with-claude-fable-5-its-most-powerful-generally-available-model-ever</link>
+      <guid isPermaLink="true">https://venturebeat.com/technology/anthropic-brings-mythos-to-the-masses-with-claude-fable-5-its-most-powerful-generally-available-model-ever</guid>
+      <description>Anthropic llança Claude Fable 5 i Claude Mythos 5, primer llançament ampli del model Mythos.</description>
+      <author>VentureBeat</author>
+      <pubDate>2026-06-09</pubDate>
+    </item>
+    <item>
+      <title>Anthropic ofereix una actualització Mythos per a socis cibernètics i una versió segura per a la resta</title>
+      <link>https://www.wired.com/story/anthropic-releases-claude-fable-5-mythos-5/</link>
+      <guid isPermaLink="true">https://www.wired.com/story/anthropic-releases-claude-fable-5-mythos-5/</guid>
+      <description>Anthropic ofereix Claude Mythos 5 a organitzacions de confiança i Claude Fable 5 al públic, sense riscos de ciberatacs.</description>
+      <author>Wired</author>
+      <pubDate>2026-06-09</pubDate>
+    </item>
+    <item>
+      <title>Com les ambicions d'IPO de SpaceX depenen del camí de la Starship cap a Mart</title>
+      <link>https://www.ft.com/content/03a05a0c-e581-4161-a11a-daf425fe9766</link>
+      <guid isPermaLink="true">https://www.ft.com/content/03a05a0c-e581-4161-a11a-daf425fe9766</guid>
+      <description>L'èxit de l'IPO depèn de la capacitat de Starship per viatjar i colonitzar Mart.</description>
+      <author>Financial Times</author>
+      <pubDate>2026-06-10</pubDate>
+    </item>
+    <item>
+      <title>Explicació de l'IPO de SpaceX: el preu està fixat, però l'assignació minorista encara és incerta</title>
+      <link>https://www.cnbc.com/2026/06/09/spacex-ipo-explained-stock-price-date.html</link>
+      <guid isPermaLink="true">https://www.cnbc.com/2026/06/09/spacex-ipo-explained-stock-price-date.html</guid>
+      <description>Preu fixat, però la distribució per inversors particulars encara és incerta i pot afectar la demanda.</description>
       <author>CNBC Technology</author>
-      <pubDate>2026-06-08</pubDate>
-    </item>
-    <item>
-      <title>Apple s'associa amb Google i Nvidia per al model d'IA més avançat</title>
-      <link>https://www.cnbc.com/2026/06/08/apple-google-nvidia-ai-chips.html</link>
-      <guid isPermaLink="true">https://www.cnbc.com/2026/06/08/apple-google-nvidia-ai-chips.html</guid>
-      <description>Apple combina recursos amb Google i Nvidia per crear un model d'IA que superi els existents.</description>
-      <author>CNBC Technology</author>
-      <pubDate>2026-06-08</pubDate>
-    </item>
-    <item>
-      <title>Corning tanca un altre acord d'IA de diversos mil milions; el pacte amb Amazon impacta l'acció</title>
-      <link>https://www.cnbc.com/2026/06/08/corning-strikes-another-big-ai-deal-what-the-new-amazon-pact-means-for-the-stock.html</link>
-      <guid isPermaLink="true">https://www.cnbc.com/2026/06/08/corning-strikes-another-big-ai-deal-what-the-new-amazon-pact-means-for-the-stock.html</guid>
-      <description>Corning subministra fibra òptica a Amazon, reforçant la infraestructura per a les seves dades d'IA.</description>
-      <author>CNBC Technology</author>
-      <pubDate>2026-06-08</pubDate>
-    </item>
-    <item>
-      <title>Perplexity planeja una IPO el 2028 independentment del futur d'Anthropic o OpenAI, segons el CEO</title>
-      <link>https://www.cnbc.com/2026/06/09/perplexity-ipo-2028-as-anthropic-openai-prepare-listings.html</link>
-      <guid isPermaLink="true">https://www.cnbc.com/2026/06/09/perplexity-ipo-2028-as-anthropic-openai-prepare-listings.html</guid>
-      <description>Perplexity manté el seu camí cap a l'IPO, mostrant confiança malgrat la competència d'Anthropic i OpenAI.</description>
-      <author>CNBC Technology</author>
       <pubDate>2026-06-09</pubDate>
     </item>
     <item>
-      <title>El director d'ASML adverteix la UE contra la direcció del subministrament de xips</title>
-      <link>https://www.ft.com/content/ae7e66f1-1174-4812-b848-d6efd4f9379d</link>
-      <guid isPermaLink="true">https://www.ft.com/content/ae7e66f1-1174-4812-b848-d6efd4f9379d</guid>
-      <description>ASML alerta la UE que la regulació del subministrament de xips podria frenar la innovació europea.</description>
+      <title>Més enllà del 'Silicon Roundabout': el proper repte per a la tecnologia del Regne Unit</title>
+      <link>https://www.cnbc.com/2026/06/10/beyond-silicon-roundabout-the-next-challenge-for-uk-tech.html</link>
+      <guid isPermaLink="true">https://www.cnbc.com/2026/06/10/beyond-silicon-roundabout-the-next-challenge-for-uk-tech.html</guid>
+      <description>El Regne Unit busca superar la saturació de Londres amb nous hubs tecnològics al sud.</description>
+      <author>CNBC Technology</author>
+      <pubDate>2026-06-10</pubDate>
+    </item>
+    <item>
+      <title>Beijing intensifica l'espionatge d'IA per igualar els EUA en tecnologia, segons una empresa de ciberseguretat</title>
+      <link>https://www.cnbc.com/2026/06/10/crowdstrike-warns-of-increasing-chinese-ai-cyberattacks-on-us-tech.html</link>
+      <guid isPermaLink="true">https://www.cnbc.com/2026/06/10/crowdstrike-warns-of-increasing-chinese-ai-cyberattacks-on-us-tech.html</guid>
+      <description>Beijing intensifica l'espionatge d'IA, augmentant la pressió sobre les empreses tecnològiques occidentals.</description>
+      <author>CNBC Technology</author>
+      <pubDate>2026-06-10</pubDate>
+    </item>
+    <item>
+      <title>Mercedes s'associa amb la startup de defensa de drons Tytan</title>
+      <link>https://www.ft.com/content/72d99e4b-2345-40ba-bfc4-cd68b9e11e55</link>
+      <guid isPermaLink="true">https://www.ft.com/content/72d99e4b-2345-40ba-bfc4-cd68b9e11e55</guid>
+      <description>Mercedes col·labora amb Tytan per desenvolupar drons defensius, reforçant la seguretat a Europa.</description>
+      <author>Financial Times</author>
+      <pubDate>2026-06-10</pubDate>
+    </item>
+    <item>
+      <title>El BCE actua per controlar els 'misils autoguiats' de Revolut a Europa</title>
+      <link>https://www.ft.com/content/7cc86162-f68c-4772-b7ce-9c72dfb15f05</link>
+      <guid isPermaLink="true">https://www.ft.com/content/7cc86162-f68c-4772-b7ce-9c72dfb15f05</guid>
+      <description>El BCE busca regular Revolut per evitar riscos financers derivats de productes d'inversió autoguiats.</description>
+      <author>Financial Times</author>
+      <pubDate>2026-06-10</pubDate>
+    </item>
+    <item>
+      <title>El mercat borsari dels EUA deixarà de reduir-se per primera vegada en 23 anys</title>
+      <link>https://www.ft.com/content/f7dae4e1-d650-45ab-ac97-043c7a965d24</link>
+      <guid isPermaLink="true">https://www.ft.com/content/f7dae4e1-d650-45ab-ac97-043c7a965d24</guid>
+      <description>Després de 23 anys, el mercat americà mostra signes de estabilització i creixement.</description>
+      <author>Financial Times</author>
+      <pubDate>2026-06-10</pubDate>
+    </item>
+    <item>
+      <title>Apollo i Blackstone recapturen 35.000 milions de dòlars per finançar xips d'Anthropic</title>
+      <link>https://www.ft.com/content/c49e0eff-0776-4103-8eaf-1b049fbf9d3f</link>
+      <guid isPermaLink="true">https://www.ft.com/content/c49e0eff-0776-4103-8eaf-1b049fbf9d3f</guid>
+      <description>Apollo i Blackstone inverteixen massivament en xips per impulsar el creixement d'Anthropic.</description>
       <author>Financial Times</author>
       <pubDate>2026-06-09</pubDate>
     </item>
     <item>
-      <title>El Pentagó restaura Alibaba, Baidu i BYD a la llista negra de grups militars xinesos</title>
-      <link>https://www.ft.com/content/0689d87b-8ad3-4b7c-87e3-e06f07891a17</link>
-      <guid isPermaLink="true">https://www.ft.com/content/0689d87b-8ad3-4b7c-87e3-e06f07891a17</guid>
-      <description>El Pentagó reinclou tres empreses xineses a la llista negra, considerant-les riscos de seguretat.</description>
-      <author>Financial Times</author>
+      <title>El CEO d'Entergy refuta la por que els centres de dades d'IA augmentin les factures elèctriques</title>
+      <link>https://www.cnbc.com/2026/06/09/entergy-ceo-pushes-back-fears-ai-data-centers-drive-up-electricity-bills.html</link>
+      <guid isPermaLink="true">https://www.cnbc.com/2026/06/09/entergy-ceo-pushes-back-fears-ai-data-centers-drive-up-electricity-bills.html</guid>
+      <description>Entergy destaca beneficis locals dels centres d'IA, contrarestant les preocupacions de costos energètics.</description>
+      <author>CNBC Technology</author>
       <pubDate>2026-06-09</pubDate>
     </item>
     <item>
-      <title>Ha perdut l'Índia la cursa de la IA? No del tot</title>
-      <link>https://www.ft.com/content/1f456605-4d56-40d3-a3f7-16ad75045f27</link>
-      <guid isPermaLink="true">https://www.ft.com/content/1f456605-4d56-40d3-a3f7-16ad75045f27</guid>
-      <description>L'Índia encara manté progrés en IA, tot i desafiaments de finançament i talent.</description>
-      <author>Financial Times</author>
+      <title>Les accions de Super Micro cauen per plans de finançament de 7.000 milions, tot i promoure comandes d'IA</title>
+      <link>https://www.cnbc.com/2026/06/09/super-micro-stock-tumbles-on-7-billion-financing-plans.html</link>
+      <guid isPermaLink="true">https://www.cnbc.com/2026/06/09/super-micro-stock-tumbles-on-7-billion-financing-plans.html</guid>
+      <description>Malgrat el finançament de 7.000 milions, les accions de Super Micro cauen per incerteses del mercat.</description>
+      <author>CNBC Technology</author>
       <pubDate>2026-06-09</pubDate>
     </item>
     <item>
-      <title>La MWCapital nomena Laia Corbella nova directora general</title>
-      <link>https://www.ara.cat/economia/tecnologia/mwcapital-nomenara-laia-corbella-nova-directora-general_1_5761716.html</link>
-      <guid isPermaLink="true">https://www.ara.cat/economia/tecnologia/mwcapital-nomenara-laia-corbella-nova-directora-general_1_5761716.html</guid>
-      <description>Laia Corbella lidera la MWCapital, impulsant la innovació tecnològica i la internacionalització del sector digital català.</description>
+      <title>Adif i Rodalies culpen Siemens de l'aturada total d'aquest dimarts i anuncien accions legals</title>
+      <link>https://www.3cat.cat/3catinfo/adif-culpa-siemens-de-laturada-total-a-rodalies-daquest-dimarts-i-anuncia-accions-legals/noticia/3414293/</link>
+      <guid isPermaLink="true">https://www.3cat.cat/3catinfo/adif-culpa-siemens-de-laturada-total-a-rodalies-daquest-dimarts-i-anuncia-accions-legals/noticia/3414293/</guid>
+      <description>S'han assignat responsabilitats a Siemens per la doble aturada de trens, amb possibles accions legals contra l'empresa.</description>
+      <author>324.cat</author>
+      <pubDate>2026-06-09</pubDate>
+    </item>
+    <item>
+      <title>El Mobile World Congress xifra en 588 M€ l'impacte econòmic de l'edició d'aquest any</title>
+      <link>https://www.ara.cat/economia/tecnologia/mobile-world-congress-xifra-588-m-l-impacte-economic-l-edicio-d-aquest-any_1_5762936.html</link>
+      <guid isPermaLink="true">https://www.ara.cat/economia/tecnologia/mobile-world-congress-xifra-588-m-l-impacte-economic-l-edicio-d-aquest-any_1_5762936.html</guid>
+      <description>L'MWC genera 588 milions d'euros i 14.016 llocs de feina parcial, impulsant l'economia barcelonina.</description>
       <author>Ara.cat</author>
-      <pubDate>2026-06-08</pubDate>
-    </item>
-    <item>
-      <title>Can Ruti assaja una tècnica experimental inèdita a Europa per millorar els símptomes de l'Alzheimer</title>
-      <link>https://www.ara.cat/societat/salut/can-ruti-assaja-tecnica-experimental-inedita-europa-millorar-simptomes-l-alzheimer_1_5758588.html</link>
-      <guid isPermaLink="true">https://www.ara.cat/societat/salut/can-ruti-assaja-tecnica-experimental-inedita-europa-millorar-simptomes-l-alzheimer_1_5758588.html</guid>
-      <description>Can Ruti prova una nova tècnica per reduir símptomes de l'Alzheimer, potencialment revolucionant el tractament neurodegeneratiu.</description>
-      <author>Ara.cat</author>
-      <pubDate>2026-06-08</pubDate>
-    </item>
-    <item>
-      <title>Ultimàtum de Starmer a Apple i a Google perquè els menors no enviïn o rebin imatges sexuals</title>
-      <link>https://www.ara.cat/societat/ultimatum-starmer-apple-google-perque-menors-no-enviin-rebin-imatges-sexuals_1_5762171.html</link>
-      <guid isPermaLink="true">https://www.ara.cat/societat/ultimatum-starmer-apple-google-perque-menors-no-enviin-rebin-imatges-sexuals_1_5762171.html</guid>
-      <description>Starmer exigeix a Apple i Google mesures urgents contra la difusió d'imatges sexuals entre menors, evitant abús digitals.</description>
-      <author>Ara.cat</author>
-      <pubDate>2026-06-08</pubDate>
-    </item>
-    <item>
-      <title>Apple presenta iOS 27, el nou sistema operatiu de l'iPhone arriba amb més IA que mai</title>
-      <link>https://www.elnacional.cat/ca/tecnologia/apple-presenta-ios-27-nou-sistema-operatiu-iphone-arriba-mes-ia-mai_1651925_102.html</link>
-      <guid isPermaLink="true">https://www.elnacional.cat/ca/tecnologia/apple-presenta-ios-27-nou-sistema-operatiu-iphone-arriba-mes-ia-mai_1651925_102.html</guid>
-      <description>Apple llança iOS 27 amb avançades capacitats d'intel·ligència artificial, millorant la productivitat i la privacitat dels usuaris.</description>
-      <author>El Nacional</author>
-      <pubDate>2026-06-08</pubDate>
-    </item>
-    <item>
-      <title>El Barcelona Cybersecurity Congress reunirà l’ecosistema europeu de la ciberseguretat en un context d’augment de les amenaces digitals</title>
-      <link>https://www.metadata.cat/noticia/6360/barcelona-cybersecurity-congress-ecosistema-europeu-ciberseguretat-amenaces-digitals</link>
-      <guid isPermaLink="true">https://www.metadata.cat/noticia/6360/barcelona-cybersecurity-congress-ecosistema-europeu-ciberseguretat-amenaces-digitals</guid>
-      <description>El Barcelona Cybersecurity Congress reunirà líders europeus per reforçar la seguretat digital de ciutats i empreses.</description>
-      <author>MetaData</author>
-      <pubDate>2026-06-08</pubDate>
-    </item>
-    <item>
-      <title>Patinets elèctrics a Lleida</title>
-      <link>https://www.segre.com/ca/opinio/carta-director/260608/patinets-electrics-lleida_1233937.html</link>
-      <guid isPermaLink="true">https://www.segre.com/ca/opinio/carta-director/260608/patinets-electrics-lleida_1233937.html</guid>
-      <description>Lleida enfronta la proliferació de patinets elèctrics amb mesures per protegir vianants i reduir accidents.</description>
-      <author>Segre</author>
-      <pubDate>2026-06-08</pubDate>
-    </item>
-    <item>
-      <title>Oasi digital de pergamins medievals</title>
-      <link>https://www.segre.com/ca/cultura/260609/oasi-digital-pergamins-medievals_1235169.html</link>
-      <guid isPermaLink="true">https://www.segre.com/ca/cultura/260609/oasi-digital-pergamins-medievals_1235169.html</guid>
-      <description>Un projecte digital preserva i tradueix pergamins medievals catalans, facilitant l'accés global al patrimoni cultural.</description>
-      <author>Segre</author>
       <pubDate>2026-06-09</pubDate>
     </item>
     <item>
-      <title>Eurecat integra robòtica i IA per transformar la indústria de Ponent</title>
-      <link>https://www.segre.com/ca/vint-dos/260605/eurecat-integra-robotica-i-ia-per-transformar-industria-ponent_1231415.html</link>
-      <guid isPermaLink="true">https://www.segre.com/ca/vint-dos/260605/eurecat-integra-robotica-i-ia-per-transformar-industria-ponent_1231415.html</guid>
-      <description>Eurecat combina robòtica i IA per augmentar l'autonomia industrial i afrontar la escassetat de mà d'obra.</description>
-      <author>Segre</author>
-      <pubDate>2026-06-05</pubDate>
+      <title>El Govern eleva a 35 M€ el préstec a Openchip per mantenir el projecte català de microprocessadors</title>
+      <link>https://www.ara.cat/economia/tecnologia/govern-eleva-35-m-prestec-openchip-mantenir-projecte-catala-microprocessadors_1_5763272.html</link>
+      <guid isPermaLink="true">https://www.ara.cat/economia/tecnologia/govern-eleva-35-m-prestec-openchip-mantenir-projecte-catala-microprocessadors_1_5763272.html</guid>
+      <description>El finançament garanteix la continuïtat del projecte de microprocessadors, reforçant la indústria tecnològica catalana.</description>
+      <author>Ara.cat</author>
+      <pubDate>2026-06-09</pubDate>
+    </item>
+    <item>
+      <title>Tecnologia i natura es donen la mà: així es protegeixen els boscos de Catalunya des de l'aire</title>
+      <link>https://www.elnacional.cat/ca/sostenibilitat/tecnologia-natura-ma-protegeixen-boscos-catalunya-aire_1651832_102.html</link>
+      <guid isPermaLink="true">https://www.elnacional.cat/ca/sostenibilitat/tecnologia-natura-ma-protegeixen-boscos-catalunya-aire_1651832_102.html</guid>
+      <description>Drones i sensors monitoren els boscos, permetent una gestió forestal més eficient i sostenible.</description>
+      <author>El Nacional.cat</author>
+      <pubDate>2026-06-10</pubDate>
+    </item>
+    <item>
+      <title>Europa regularà les ulleres intel·ligents tipus Ray-Ban Meta per risc de vigilància massiva</title>
+      <link>https://www.elnacional.cat/ca/tecnologia/europa-regulara-ulleres-intelligents-tipus-ray-ban-meta-risc-vigilancia-massiva_1652603_102.html</link>
+      <guid isPermaLink="true">https://www.elnacional.cat/ca/tecnologia/europa-regulara-ulleres-intelligents-tipus-ray-ban-meta-risc-vigilancia-massiva_1652603_102.html</guid>
+      <description>Nou reglament europeu limitarà l'ús de reconeixement facial en ulleres intel·ligents per protegir la privacitat.</description>
+      <author>El Nacional.cat</author>
+      <pubDate>2026-06-09</pubDate>
+    </item>
+    <item>
+      <title>Lidl posa a la venda una bicicleta elèctrica Crivit per moure't per la ciutat sense dependre tant del cotxe</title>
+      <link>https://www.elnacional.cat/ca/consum/lidl-posa-venda-bicicleta-electrica-crivit-moure-ciutat-sense-dependre-tant-cotxe_1652645_102.html</link>
+      <guid isPermaLink="true">https://www.elnacional.cat/ca/consum/lidl-posa-venda-bicicleta-electrica-crivit-moure-ciutat-sense-dependre-tant-cotxe_1652645_102.html</guid>
+      <description>La bicicleta Crivit ofereix una alternativa ecològica i assequible per desplaçar-se per Barcelona.</description>
+      <author>El Nacional.cat</author>
+      <pubDate>2026-06-09</pubDate>
+    </item>
+    <item>
+      <title>Catalunya explora una innovadora via terapèutica en cirurgia contra l’alzheimer</title>
+      <link>https://www.lavanguardia.com/encatala/20260609/11559738/catalunya-explora-innovadora-via-terapeutica-cirurgia-l-alzheimer.html</link>
+      <guid isPermaLink="true">https://www.lavanguardia.com/encatala/20260609/11559738/catalunya-explora-innovadora-via-terapeutica-cirurgia-l-alzheimer.html</guid>
+      <description>Can Ruti investiga derivar proteïnes tòxiques cap al sistema limfàtic, obrint noves opcions per al tractament.</description>
+      <author>La Vanguardia (en català)</author>
+      <pubDate>2026-06-09</pubDate>
+    </item>
+    <item>
+      <title>OpenAI s’afegeix a SpaceX i Anthropic en l’onada de sortides a borsa de la IA</title>
+      <link>https://www.lavanguardia.com/encatala/20260610/11560792/openai-s-afegeix-spacex-i-anthropic-l-onada-sortides-borsa-ia.html</link>
+      <guid isPermaLink="true">https://www.lavanguardia.com/encatala/20260610/11560792/openai-s-afegeix-spacex-i-anthropic-l-onada-sortides-borsa-ia.html</guid>
+      <description>OpenAI entra al sector espacial, impulsant la competència i l'innovació en tecnologies d'intel·ligència artificial.</description>
+      <author>La Vanguardia (en català)</author>
+      <pubDate>2026-06-10</pubDate>
+    </item>
+    <item>
+      <title>El port de Barcelona i Shanghai reforcen la seva aliança amb la signatura d’un acord estratègic</title>
+      <link>https://www.totbarcelona.cat/economia/el-ports-de-barcelona-i-shanghai-reforcen-la-seva-alianca-amb-la-signatura-dun-acord-estrategic-719798/</link>
+      <guid isPermaLink="true">https://www.totbarcelona.cat/economia/el-ports-de-barcelona-i-shanghai-reforcen-la-seva-alianca-amb-la-signatura-dun-acord-estrategic-719798/</guid>
+      <description>El nou acord estratègic afavoreix el comerç i la col·laboració logística entre Barcelona i Shanghai.</description>
+      <author>Tot Barcelona</author>
+      <pubDate>2026-06-09</pubDate>
+    </item>
+    <item>
+      <title>El Barcelona Cybersecurity Congress 2026 reunirà l'ecosistema europeu de la ciberseguretat</title>
+      <link>https://www.viaempresa.cat/economia/barcelona-cybersecurity-congress-2026-reunira-ecosistema-europeu-ciberseguretat_2236052_102.html</link>
+      <guid isPermaLink="true">https://www.viaempresa.cat/economia/barcelona-cybersecurity-congress-2026-reunira-ecosistema-europeu-ciberseguretat_2236052_102.html</guid>
+      <description>El congrés atraurà experts i empreses per reforçar la seguretat digital a Europa i a Catalunya.</description>
+      <author>Via Empresa</author>
+      <pubDate>2026-06-08</pubDate>
     </item>
     <item>
       <title>«What a time to be alive» – programa 666</title>
       <link>https://mossegalapoma.cat/what-a-time-to-be-alive-programa-666/</link>
       <guid isPermaLink="true">https://mossegalapoma.cat/what-a-time-to-be-alive-programa-666/</guid>
-      <description>Debatem IA i ètica empresarial, amb referències a l'encíclica papal i col·laboració UPC.</description>
+      <description>Anàlisi de l'impacte de la IA i les polítiques d'inversió empresarial.</description>
       <author>Mossega la poma</author>
       <pubDate>2026-05-30</pubDate>
     </item>
@@ -243,7 +259,7 @@
       <title>L'altra ràdio – Nou ordinador quàntic al Barcelona Supercomputing Center</title>
       <link>https://podcasts.cat/36/34150770/</link>
       <guid isPermaLink="true">https://podcasts.cat/36/34150770/</guid>
-      <description>Descobrim l'EuroQCS‑Spain, tercer ordinador quàntic que impulsa el projecte MareNostrum 5 a Europa.</description>
+      <description>Descobriment del tercer ordinador quàntic del BSC i el seu paper global.</description>
       <author>L'altra ràdio</author>
       <pubDate>2026-06-04</pubDate>
     </item>
@@ -251,15 +267,23 @@
       <title>L' Altra Ràdio - La informàtica a la perifèria pot localitzar objectes amb una precisió de centímetres</title>
       <link>https://podcasts.cat/36/34126152/</link>
       <guid isPermaLink="true">https://podcasts.cat/36/34126152/</guid>
-      <description>Near By Computing mostra com l'edge computing detecta objectes amb centímetres de precisió en temps real.</description>
+      <description>Near By Computing mostra com l'edge computing localitza objectes amb precisió centimètrica.</description>
       <author>L'altra ràdio</author>
       <pubDate>2026-05-28</pubDate>
+    </item>
+    <item>
+      <title>El gòTIC - Tenim una missió! del 10/6/2026</title>
+      <link>https://podcasts.cat/191/34167527/</link>
+      <guid isPermaLink="true">https://podcasts.cat/191/34167527/</guid>
+      <description>Presentació del nou superordinador quàntic i les seves aplicacions científiques.</description>
+      <author>El Gòtic</author>
+      <pubDate>2026-06-09</pubDate>
     </item>
     <item>
       <title>El gòTIC - Tenim una missió! del 3/6/2026</title>
       <link>https://podcasts.cat/191/34144175/</link>
       <guid isPermaLink="true">https://podcasts.cat/191/34144175/</guid>
-      <description>Ajuntament de Tàrrega impulsa recursos digitals per a la ciutadania, abordant reptes tecnològics actuals.</description>
+      <description>Explicació de la missió digital del gòTIC per a la ciutadania.</description>
       <author>El Gòtic</author>
       <pubDate>2026-06-02</pubDate>
     </item>
@@ -267,15 +291,15 @@
       <title>El gòTIC - Tenim una missió! del 27/5/2026</title>
       <link>https://podcasts.cat/191/34120760/</link>
       <guid isPermaLink="true">https://podcasts.cat/191/34120760/</guid>
-      <description>Segona entrega del projecte digital, enfocada en estratègies per a la inclusió i seguretat en línia.</description>
+      <description>Resum de la missió del gòTIC del 27 de maig, enfocada a recursos digitals.</description>
       <author>El Gòtic</author>
       <pubDate>2026-05-26</pubDate>
     </item>
     <item>
-      <title>Una comissió parlamentària dóna suport a l’aixecament de la immunitat d’un eurodiputat involucrat en el Huawei‑Gate</title>
+      <title>Una comissió parlamentària dóna suport a l’aixecament de la immunitat d’un eurodiputat involucrat en el Huawei-Gate</title>
       <link>https://www.societatdelainformacio.com/podcast/una-comissio-parlamentaria-dona-suport-a-laixecament-de-la-immunitat-dun-eurodiputat-involucrat-en-el-huawei-gate/</link>
       <guid isPermaLink="true">https://www.societatdelainformacio.com/podcast/una-comissio-parlamentaria-dona-suport-a-laixecament-de-la-immunitat-dun-eurodiputat-involucrat-en-el-huawei-gate/</guid>
-      <description>Parlament europeu avala investigació sobre influència de Huawei en 5G, qüestionant la immunitat dels diputats.</description>
+      <description>Debat sobre la immunitat parlamentària i la influència de Huawei al 5G europeu.</description>
       <author>Societat de la Informació</author>
       <pubDate>2026-06-05</pubDate>
     </item>
@@ -283,7 +307,7 @@
       <title>Les paraules de Lleó XIV sobre la IA, la selectivitat i educació abans i després de ChatGPT</title>
       <link>https://podcasts.cat/247/34158105/</link>
       <guid isPermaLink="true">https://podcasts.cat/247/34158105/</guid>
-      <description>Analitzem la visió històrica del rei sobre IA i com transforma l'educació i la selecció acadèmica.</description>
+      <description>Reflexió sobre la visió històrica de Lleó XIV respecte a IA i educació.</description>
       <author>Internet amb Genís Roca</author>
       <pubDate>2026-06-06</pubDate>
     </item>
@@ -291,7 +315,7 @@
       <title>A clor obert, amb Anna Tarrés</title>
       <link>https://rss.com/podcasts/focaterra/2883360</link>
       <guid isPermaLink="true">https://rss.com/podcasts/focaterra/2883360</guid>
-      <description>Entrevista amb la llegenda de la natació sincronitzada, explorant el seu impacte cultural i esportiu.</description>
+      <description>Conversa amb Anna Tarrés sobre la transformació de la natació sincronitzada.</description>
       <author>Foc a Terra</author>
       <pubDate>2026-06-08</pubDate>
     </item>
@@ -299,7 +323,7 @@
       <title>Desglossem la factura de la IA</title>
       <link>https://rss.com/podcasts/focaterra/2866676</link>
       <guid isPermaLink="true">https://rss.com/podcasts/focaterra/2866676</guid>
-      <description>Examinem costos energètics de centres de dades IA i la seva pressió sobre recursos hídrics.</description>
+      <description>Anàlisi crítica del consum d'aigua per a centres de dades d'IA.</description>
       <author>Foc a Terra</author>
       <pubDate>2026-06-01</pubDate>
     </item>
@@ -307,23 +331,15 @@
       <title>WordPress fa 23 anys</title>
       <link>https://www.wppodcast.cat/podcast/wordpress-fa-23-anys/</link>
       <guid isPermaLink="true">https://www.wppodcast.cat/podcast/wordpress-fa-23-anys/</guid>
-      <description>Celebració del 23è aniversari de WordPress, reflexionant sobre la seva evolució i comunitat global.</description>
+      <description>Celebració dels 23 anys de WordPress i la seva evolució constant.</description>
       <author>WordPress Pòdcast</author>
       <pubDate>2026-06-02</pubDate>
-    </item>
-    <item>
-      <title>WordPress 7.0: Louis «Armstrong»</title>
-      <link>https://www.wppodcast.cat/podcast/wordpress-7-0-louis-armstrong/</link>
-      <guid isPermaLink="true">https://www.wppodcast.cat/podcast/wordpress-7-0-louis-armstrong/</guid>
-      <description>Llançament de WordPress 7.0 amb IA integrada, marcant una nova era per a desenvolupadors.</description>
-      <author>WordPress Pòdcast</author>
-      <pubDate>2026-05-26</pubDate>
     </item>
     <item>
       <title>Capítol 66: Un mòbil sense coloraines que no t'enganxi hores i hores</title>
       <link>https://traffic.omny.fm/d/clips/47dc05c7-7279-4c6f-9b31-ae74013297d9/d3709a08-7df4-4359-85b0-af0f00b8b4b3/2d679d35-35b0-494b-9be3-b45900b9f644/audio.mp3?dist=RSS</link>
       <guid isPermaLink="true">https://traffic.omny.fm/d/clips/47dc05c7-7279-4c6f-9b31-ae74013297d9/d3709a08-7df4-4359-85b0-af0f00b8b4b3/2d679d35-35b0-494b-9be3-b45900b9f644/audio.mp3?dist=RSS</guid>
-      <description>Presentem un telèfon minimalista, sense xarxes socials, que fomenta la productivitat i el benestar digital.</description>
+      <description>Exploració d'un telèfon minimalista sense xarxes socials i el seu impacte en l'ús.</description>
       <author>RAC&amp;GO</author>
       <pubDate>2026-06-02</pubDate>
     </item>
@@ -331,7 +347,7 @@
       <title>Building Inclusive AI Experiences with Sign Language and GenAI</title>
       <link>https://www.meetup.com/gdg-barcelona/events/315103021/</link>
       <guid isPermaLink="true">https://www.meetup.com/gdg-barcelona/events/315103021/</guid>
-      <description>Explora com la IA i la signatura gestual poden fer les apps més accessibles per a tots.</description>
+      <description>Descobreix com la IA i la visió per computadora poden transformar la comunicació per a persones sordes.</description>
       <author>GDG Barcelona</author>
       <pubDate>2026-06-04</pubDate>
     </item>
@@ -339,7 +355,7 @@
       <title>Beyond Chatbots: What Claude Code &amp; Cowork Can Do For Your Business [1 of 2]</title>
       <link>https://www.meetup.com/ai-professionals-barcelona/events/315043744/</link>
       <guid isPermaLink="true">https://www.meetup.com/ai-professionals-barcelona/events/315043744/</guid>
-      <description>Aprèn a crear una eina IA que transforma processos empresarials en SOPs automatitzats sense programar.</description>
+      <description>Aprèn a automatitzar processos empresarials amb IA sense programar, millorant eficiència i escalabilitat.</description>
       <author>AI Professionals Barcelona</author>
       <pubDate>2026-05-31</pubDate>
     </item>
@@ -347,7 +363,7 @@
       <title>Beyond Chatbots: What Claude Code &amp; Cowork Can Do For Your Business [2 of 2]</title>
       <link>https://www.meetup.com/ai-professionals-barcelona/events/315045983/</link>
       <guid isPermaLink="true">https://www.meetup.com/ai-professionals-barcelona/events/315045983/</guid>
-      <description>Descobreix com desenvolupar un agent autònom que gestiona l’onboarding de clients mentre dorms.</description>
+      <description>Implementa agents autònoms que gestionen la incorporació de clients, reduint tasques manuals.</description>
       <author>AI Professionals Barcelona</author>
       <pubDate>2026-06-01</pubDate>
     </item>
@@ -355,7 +371,7 @@
       <title>Networking for AI Professionals around the world - July 7</title>
       <link>https://www.meetup.com/ai-professionals-barcelona/events/315088780/</link>
       <guid isPermaLink="true">https://www.meetup.com/ai-professionals-barcelona/events/315088780/</guid>
-      <description>Participa en una sessió gratuïta en línia per connectar amb professionals d'IA de tot el món.</description>
+      <description>Connecta amb experts globals d'IA en sessions petites per compartir idees i oportunitats.</description>
       <author>AI Professionals Barcelona</author>
       <pubDate>2026-06-03</pubDate>
     </item>
@@ -363,7 +379,7 @@
       <title>Networking for AI Professionals around the world - August 13</title>
       <link>https://www.meetup.com/ai-professionals-barcelona/events/315090139/</link>
       <guid isPermaLink="true">https://www.meetup.com/ai-professionals-barcelona/events/315090139/</guid>
-      <description>Uneix-te a la trobada virtual per ampliar la teva xarxa global d'experts en intel·ligència artificial.</description>
+      <description>Participa en trobada internacional d'IA per ampliar la teva xarxa i col·laboracions.</description>
       <author>AI Professionals Barcelona</author>
       <pubDate>2026-06-03</pubDate>
     </item>
@@ -371,7 +387,7 @@
       <title>BuildStream and KDE</title>
       <link>https://www.meetup.com/barcelona-free-software/events/315035231/</link>
       <guid isPermaLink="true">https://www.meetup.com/barcelona-free-software/events/315035231/</guid>
-      <description>Descobreix com BuildStream simplifica la construcció de sistemes operatius i la integració amb KDE.</description>
+      <description>Explora BuildStream com a eina per crear sistemes operatius i contribuir al projecte KDE.</description>
       <author>Free Software Barcelona</author>
       <pubDate>2026-05-31</pubDate>
     </item>
@@ -379,7 +395,7 @@
       <title>les amigues d'internet, amb ANDREA GUMES</title>
       <link>https://www.youtube.com/watch?v=p5js2dhqha0</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=p5js2dhqha0</guid>
-      <description>Exploració de les amistats virtuals amb la creadora Andrea Gumes, reflexionant sobre la cultura online.</description>
+      <description>Explora la influència de les amigues digitals i el seu impacte social amb Andrea Gumes.</description>
       <author>Albert Lloreta</author>
       <pubDate>2026-05-29</pubDate>
     </item>
@@ -387,7 +403,7 @@
       <title>A què hem estat jugant aquest maig</title>
       <link>https://www.youtube.com/watch?v=ngtn56Oj9cA</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=ngtn56Oj9cA</guid>
-      <description>Recapitulació dels jocs provats al maig, destacant novetats i experiències de la comunitat catalana.</description>
+      <description>Revisió dels jocs més destacats del maig, amb anàlisis i recomanacions per a jugadors catalans.</description>
       <author>Catalunya PlayStation</author>
       <pubDate>2026-05-31</pubDate>
     </item>
@@ -395,7 +411,7 @@
       <title>Pixelats vs. The Legend of Zelda: A Link to the Past!! 🔗🗝️</title>
       <link>https://www.youtube.com/watch?v=KmiV2LvkZ48</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=KmiV2LvkZ48</guid>
-      <description>Anàlisi del clàssic Zelda en una partida comparativa, mostrant estratègies i moments èpics.</description>
+      <description>Comparativa entre Pixelats i Zelda, mostrant estratègies i moments èpics del clàssic.</description>
       <author>Pixelats</author>
       <pubDate>2026-05-27</pubDate>
     </item>
@@ -403,7 +419,7 @@
       <title>Els Putxinel·lis - Capítol 10 - Dinàmiques de poder</title>
       <link>https://www.youtube.com/watch?v=NAml8vjYtQA</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=NAml8vjYtQA</guid>
-      <description>Debat sobre el poder i les dinàmiques internes del grup Putxinel·lis, capítol décim.</description>
+      <description>Novena entrega de la sèrie, revelant dinàmiques de poder i gir inesperat en la trama.</description>
       <author>Pixelats</author>
       <pubDate>2026-05-27</pubDate>
     </item>
@@ -411,7 +427,7 @@
       <title>Cobertura STATE OF PLAY - Juny 2026 (NO) E3</title>
       <link>https://www.youtube.com/watch?v=-rLfqomIhIs</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=-rLfqomIhIs</guid>
-      <description>Cobertura del State of Play de juny 2026, amb enfocament en les novetats de l'E3.</description>
+      <description>Anàlisi exhaustiva del State of Play de juny, destacant novetats i futurs llançaments de videojocs.</description>
       <author>3D Nassos</author>
       <pubDate>2026-06-06</pubDate>
     </item>
@@ -419,7 +435,7 @@
       <title>Club del Videojoc - Warhammer 40.000: Squad Command</title>
       <link>https://www.youtube.com/watch?v=cJLCgVJFb6k</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=cJLCgVJFb6k</guid>
-      <description>Partida intensiva de Warhammer 40.000: Squad Command, mostrant tàctiques i moments clau.</description>
+      <description>Partida intensiva de Warhammer 40k, estratègies clau i moments èpics en Squad Command.</description>
       <author>Gaming.cat</author>
       <pubDate>2026-05-28</pubDate>
     </item>
@@ -427,15 +443,23 @@
       <title>Presentació de l'esdeveniment Gaming en Femení</title>
       <link>https://www.youtube.com/watch?v=UOHqGX4Ulto</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=UOHqGX4Ulto</guid>
-      <description>Presentació de l'esdeveniment de videojocs per a dones, impulsant la inclusió al sector.</description>
+      <description>Llançament oficial del esdeveniment, promou la inclusió femenina en la comunitat gamer catalana.</description>
       <author>Gaming.cat</author>
       <pubDate>2026-05-26</pubDate>
+    </item>
+    <item>
+      <title>🔴 [NTH] Nintendo Direct en català! (09/06/26) 🔴</title>
+      <link>https://www.youtube.com/watch?v=bhtFYxRVp9k</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=bhtFYxRVp9k</guid>
+      <description>Cobertura en directe del Nintendo Direct, amb anàlisi de novetats i expectatives per a la Switch.</description>
+      <author>Nintenhype.cat</author>
+      <pubDate>2026-06-09</pubDate>
     </item>
     <item>
       <title>🎙️Lúdica #55 - El llegat mitològic (amb Anton Planells)</title>
       <link>https://www.youtube.com/watch?v=ZeCFOA1AzeQ</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=ZeCFOA1AzeQ</guid>
-      <description>Entrevista amb Anton Planells sobre llegats mitològics, explorant influències en el disseny de jocs.</description>
+      <description>Entrevista a Anton Planells sobre llegats mitològics i la seva influència en el disseny de jocs.</description>
       <author>Lúdica (Vídeos)</author>
       <pubDate>2026-05-28</pubDate>
     </item>

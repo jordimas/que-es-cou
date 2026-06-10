@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-06-09T08:32",
+  "generated_at": "2026-06-10T10:51",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "9to5Mac Diari: 8 de juny de 2026 – Resum del WWDC 2026",
-      "link_id": "c_66c8f7",
+      "title": "Siri IA podria mostrar recordatoris de pausa si les converses s'allarguen",
+      "link_id": "c_fb7b71",
+      "source": "9to5Mac",
+      "date": "2026-06-10",
+      "time": "01:49",
+      "summary": "iOS 27 afegeix recordatoris de pausa que Siri mostra després de converses llargues."
+    },
+    {
+      "title": "Apple reforça les directrius de revisió d'aplicacions contra les que no aporten valor a l'App Store",
+      "link_id": "c_651586",
       "source": "9to5Mac",
       "date": "2026-06-09",
-      "time": "02:51",
-      "summary": "Cobertura diària dels principals anuncis d'Apple, incloent Siri AI i el nou iOS 27."
+      "time": "23:54",
+      "summary": "Apple actualitza les directrius de l'App Store per eliminar aplicacions que no aporten valor."
     },
     {
-      "title": "visionOS 27 presenta un nou entorn Thórsmörk",
-      "link_id": "c_b95bb6",
-      "source": "9to5Mac",
+      "title": "Anthropic publica una versió segura del model AI Claude Mythos",
+      "link_id": "c_06035f",
+      "source": "The Guardian Tech",
       "date": "2026-06-09",
-      "time": "02:46",
-      "summary": "Apple introdueix un paisatge inspirat en Islàndia per a la realitat augmentada."
+      "time": "22:28",
+      "summary": "Anthropic llança Fable 5, versió segura del seu potent model Mythos, després de restriccions per seguretat."
     },
     {
-      "title": "iOS 27 permet eliminar el widget Reproduint ara de la pantalla de bloqueig",
-      "link_id": "c_05e490",
-      "source": "9to5Mac",
-      "date": "2026-06-09",
-      "time": "02:03",
-      "summary": "Nou gest per netejar la pantalla de bloqueig i reduir distraccions."
-    },
-    {
-      "title": "Els principals anuncis del WWDC 2026 d'Apple: Siri, beta d'iOS 27 i més",
-      "link_id": "c_b0d637",
-      "source": "ZDNet",
-      "date": "2026-06-09",
-      "time": "01:41",
-      "summary": "Resum dels canvis clau que marcaran l'ecosistema Apple aquest any."
-    },
-    {
-      "title": "El nou Siri AI d'Apple té costos ocults que els usuaris avançats han de conèixer",
-      "link_id": "c_57ed09",
-      "source": "ZDNet",
-      "date": "2026-06-09",
-      "time": "01:39",
-      "summary": "Descobreix les limitacions i tarifes addicionals del nou assistent intel·ligent."
-    },
-    {
-      "title": "macOS 27 Golden Gate permet redimensionar la finestra de duplicació d'iPhone",
-      "link_id": "c_bc2f22",
-      "source": "9to5Mac",
-      "date": "2026-06-09",
-      "time": "01:31",
-      "summary": "Nova funcionalitat per ajustar la pantalla compartida entre Mac i iPhone."
-    },
-    {
-      "title": "Les dues funcions més importants d'iOS 27 al WWDC no tenien res a veure amb Siri AI",
-      "link_id": "c_a2175b",
-      "source": "ZDNet",
-      "date": "2026-06-09",
-      "time": "01:27",
-      "summary": "Actualitzacions de rendiment i privadesa que superen les expectatives d'Apple."
-    },
-    {
-      "title": "Com descarregar la beta de desenvolupador d'iPadOS 27 ara mateix i quins models la suporten",
-      "link_id": "c_4e6cba",
-      "source": "ZDNet",
-      "date": "2026-06-09",
-      "time": "01:24",
-      "summary": "Guia pas a pas per provar les noves funcions d'iPadOS 27."
-    },
-    {
-      "title": "Tot el que Apple va anunciar al WWDC 2026 en 10 minuts",
-      "link_id": "c_59a172",
+      "title": "El nou Siri IA d'Apple és més que un assistent intel·ligent: una nova capa d'aplicacions empresarials",
+      "link_id": "c_232161",
       "source": "MacRumors",
       "date": "2026-06-09",
-      "time": "00:46",
-      "summary": "Resum ràpid de les novetats, des de Siri AI fins a watchOS 27."
+      "time": "21:49",
+      "summary": "Apple transforma Siri en una interfície AI de sistema per a empreses, integrant-lo a tots els dispositius."
     },
     {
-      "title": "watchOS 27 inclou una graella d'aplicacions dinàmica, nou control de gestos i més",
-      "link_id": "c_a7a8a7",
-      "source": "MacRumors",
+      "title": "Fable 5 d'Anthropic pot crear videojocs divertits amb només un clic",
+      "link_id": "c_81b64f",
+      "source": "TechCrunch",
       "date": "2026-06-09",
-      "time": "00:16",
-      "summary": "Millores d'ús i personalització per a l'Apple Watch amb AI integrada."
+      "time": "20:37",
+      "summary": "Claude Fable 5 d'Anthropic atrau els programadors web amb les seves capacitats avançades."
+    },
+    {
+      "title": "L'AI Fable d'Anthropic porta les capacitats del model Mythos no publicat a usuaris normals",
+      "link_id": "c_942433",
+      "source": "Engadget",
+      "date": "2026-06-09",
+      "time": "20:23",
+      "summary": "Els subscriptors de Claude poden provar el model Fable 5 fins al 22 de juny sense costos."
+    },
+    {
+      "title": "El model AI de Claude, considerat massa perillós, és finalment públic, però hi ha una limitació",
+      "link_id": "c_b150bd",
+      "source": "PCWorld",
+      "date": "2026-06-09",
+      "time": "19:16",
+      "summary": "El model Claude considerat perillós ara és accessible públicament, però amb límits d'ús."
+    },
+    {
+      "title": "WWDC 2026: Tot el anunciat sobre Siri IA, iOS 27, Apple Intelligence i més",
+      "link_id": "c_58fc60",
+      "source": "TechCrunch",
+      "date": "2026-06-09",
+      "time": "18:04",
+      "summary": "Apple presenta una Siri millorada amb integració d'IA per a una experiència més avançada."
+    },
+    {
+      "title": "Anthropic porta Mythos a les masses amb Claude Fable 5, el seu model més potent disponible",
+      "link_id": "c_f5e847",
+      "source": "VentureBeat",
+      "date": "2026-06-09",
+      "time": "17:19",
+      "summary": "Anthropic llança Claude Fable 5 i Claude Mythos 5, primer llançament ampli del model Mythos."
+    },
+    {
+      "title": "Anthropic ofereix una actualització Mythos per a socis cibernètics i una versió segura per a la resta",
+      "link_id": "c_d343f7",
+      "source": "Wired",
+      "date": "2026-06-09",
+      "time": "17:00",
+      "summary": "Anthropic ofereix Claude Mythos 5 a organitzacions de confiança i Claude Fable 5 al públic, sense riscos de ciberatacs."
     }
   ]
 }
