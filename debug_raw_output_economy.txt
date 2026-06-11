@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-06-10T08:51",
+  "generated_at": "2026-06-11T11:14",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Com les ambicions d'IPO de SpaceX depenen del camí de la Starship cap a Mart",
-      "link_id": "c_e63a71",
-      "source": "Financial Times",
-      "date": "2026-06-10",
-      "time": "04:00",
-      "summary": "L'èxit de l'IPO depèn de la capacitat de Starship per viatjar i colonitzar Mart."
-    },
-    {
-      "title": "Explicació de l'IPO de SpaceX: el preu està fixat, però l'assignació minorista encara és incerta",
-      "link_id": "c_c19544",
+      "title": "OpenAI valora reduir preus mentre competeix amb Anthropic per atraure usuaris: WSJ",
+      "link_id": "c_695a5a",
       "source": "CNBC Technology",
-      "date": "2026-06-09",
-      "time": "20:43",
-      "summary": "Preu fixat, però la distribució per inversors particulars encara és incerta i pot afectar la demanda."
+      "date": "2026-06-11",
+      "time": "03:24",
+      "summary": "OpenAI busca reduir tarifes per retenir clients davant la creixent oferta d’Anthropic al mercat d’IA."
     },
     {
-      "title": "Més enllà del 'Silicon Roundabout': el proper repte per a la tecnologia del Regne Unit",
-      "link_id": "c_628599",
-      "source": "CNBC Technology",
-      "date": "2026-06-10",
-      "time": "05:30",
-      "summary": "El Regne Unit busca superar la saturació de Londres amb nous hubs tecnològics al sud."
-    },
-    {
-      "title": "Beijing intensifica l'espionatge d'IA per igualar els EUA en tecnologia, segons una empresa de ciberseguretat",
-      "link_id": "c_0bd46d",
-      "source": "CNBC Technology",
-      "date": "2026-06-10",
-      "time": "05:02",
-      "summary": "Beijing intensifica l'espionatge d'IA, augmentant la pressió sobre les empreses tecnològiques occidentals."
-    },
-    {
-      "title": "Mercedes s'associa amb la startup de defensa de drons Tytan",
-      "link_id": "c_174e2c",
-      "source": "Financial Times",
-      "date": "2026-06-10",
-      "time": "04:00",
-      "summary": "Mercedes col·labora amb Tytan per desenvolupar drons defensius, reforçant la seguretat a Europa."
-    },
-    {
-      "title": "El BCE actua per controlar els 'misils autoguiats' de Revolut a Europa",
-      "link_id": "c_38fcd5",
-      "source": "Financial Times",
-      "date": "2026-06-10",
-      "time": "04:00",
-      "summary": "El BCE busca regular Revolut per evitar riscos financers derivats de productes d'inversió autoguiats."
-    },
-    {
-      "title": "El mercat borsari dels EUA deixarà de reduir-se per primera vegada en 23 anys",
-      "link_id": "c_55ec75",
-      "source": "Financial Times",
-      "date": "2026-06-10",
-      "time": "04:00",
-      "summary": "Després de 23 anys, el mercat americà mostra signes de estabilització i creixement."
-    },
-    {
-      "title": "Apollo i Blackstone recapturen 35.000 milions de dòlars per finançar xips d'Anthropic",
+      "title": "Apollo i Blackstone recullen 35.000 milions de dòlars en finançament de xips per a Anthropic",
       "link_id": "c_01bc80",
       "source": "Financial Times",
-      "date": "2026-06-09",
-      "time": "23:53",
-      "summary": "Apollo i Blackstone inverteixen massivament en xips per impulsar el creixement d'Anthropic."
+      "date": "2026-06-10",
+      "time": "16:18",
+      "summary": "Apollo i Blackstone inverteixen 35.000 milions en xips per impulsar el creixement d’Anthropic en IA."
     },
     {
-      "title": "El CEO d'Entergy refuta la por que els centres de dades d'IA augmentin les factures elèctriques",
-      "link_id": "c_596168",
-      "source": "CNBC Technology",
-      "date": "2026-06-09",
-      "time": "22:49",
-      "summary": "Entergy destaca beneficis locals dels centres d'IA, contrarestant les preocupacions de costos energètics."
+      "title": "Anthropic aposta per l’era emergent de tall i picat de la IA",
+      "link_id": "c_a9da41",
+      "source": "Financial Times",
+      "date": "2026-06-10",
+      "time": "09:34",
+      "summary": "Anthropic aposta per tecnologies IA que permeten processar dades en fragments petits i ràpids."
     },
     {
-      "title": "Les accions de Super Micro cauen per plans de finançament de 7.000 milions, tot i promoure comandes d'IA",
-      "link_id": "c_7ec482",
+      "title": "Les mega-llistats d'IA són només el principi, afirma el CEO de Razer abans de l'IPO històric de SpaceX",
+      "link_id": "c_d7a5bd",
       "source": "CNBC Technology",
-      "date": "2026-06-09",
-      "time": "22:29",
-      "summary": "Malgrat el finançament de 7.000 milions, les accions de Super Micro cauen per incerteses del mercat."
+      "date": "2026-06-11",
+      "time": "08:34",
+      "summary": "Razer preveu que les grans ofertes d’IA seran només el començament abans de l’IPO de SpaceX."
+    },
+    {
+      "title": "‘Amazon de Corea del Sud’ rep multa rècord per una filtració de dades",
+      "link_id": "c_82724f",
+      "source": "Financial Times",
+      "date": "2026-06-11",
+      "time": "04:37",
+      "summary": "Coupang, anomenat l’Amazon de Corea, afronta una multa històrica per una filtració massiva de dades."
+    },
+    {
+      "title": "«Tornem a l’edat de pedra»: els espies russos desconnecten Internet",
+      "link_id": "c_ee069d",
+      "source": "Financial Times",
+      "date": "2026-06-11",
+      "time": "04:00",
+      "summary": "Els serveis d’intel·ligència russa apaguen Internet, obligant la població a recórrer a mapes i efectiu."
+    },
+    {
+      "title": "Diputats britànics d’esquerra abandonen X, però els rivals de dreta publiquen més",
+      "link_id": "c_4352cf",
+      "source": "Financial Times",
+      "date": "2026-06-11",
+      "time": "04:00",
+      "summary": "Polítics britànics d’esquerra abandonen X, mentre els conservadors augmenten la seva presència a la xarxa."
+    },
+    {
+      "title": "Quatre de cada cinc consells del Regne Unit debaten quines decisions ha de guiar la IA",
+      "link_id": "c_c39e96",
+      "source": "Financial Times",
+      "date": "2026-06-11",
+      "time": "04:00",
+      "summary": "La majoria dels consells del Regne Unit consideren delegar decisions estratègiques a sistemes d’IA."
+    },
+    {
+      "title": "Fabricants emergents de xips continuen desafiar Nvidia; ara és D-Matrix, recolzat per Microsoft",
+      "link_id": "c_9835e0",
+      "source": "CNBC Technology",
+      "date": "2026-06-11",
+      "time": "00:10",
+      "summary": "D‑Matrix, suportat per Microsoft, promet xips deu vegades més ràpids, desafia el lideratge de Nvidia."
+    },
+    {
+      "title": "Oracle invertirà 70.000 milions de dòlars en l’expansió de centres de dades l’any vinent",
+      "link_id": "c_8674a4",
+      "source": "Financial Times",
+      "date": "2026-06-10",
+      "time": "22:40",
+      "summary": "Oracle planeja destinar 70.000 milions a nous centres de dades per satisfer la demanda d’IA."
     }
   ]
 }

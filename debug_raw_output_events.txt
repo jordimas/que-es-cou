@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T10:51",
+  "generated_at": "2026-06-11T09:14",
   "id": "events",
   "title": "Trobades",
   "sources_checked": [],
@@ -10,7 +10,7 @@
       "source": "GDG Barcelona",
       "date": "2026-06-04",
       "time": "14:32",
-      "summary": "Descobreix com la IA i la visió per computadora poden transformar la comunicació per a persones sordes."
+      "summary": "Descobreix com la IA i la visió per computadora poden crear aplicacions accessibles amb llenguatge de signes."
     },
     {
       "title": "Beyond Chatbots: What Claude Code & Cowork Can Do For Your Business [1 of 2]",
@@ -18,7 +18,7 @@
       "source": "AI Professionals Barcelona",
       "date": "2026-05-31",
       "time": "20:35",
-      "summary": "Aprèn a automatitzar processos empresarials amb IA sense programar, millorant eficiència i escalabilitat."
+      "summary": "Aprèn a automatitzar processos empresarials amb Claude Code sense necessitat de programar."
     },
     {
       "title": "Beyond Chatbots: What Claude Code & Cowork Can Do For Your Business [2 of 2]",
@@ -26,7 +26,7 @@
       "source": "AI Professionals Barcelona",
       "date": "2026-06-01",
       "time": "00:03",
-      "summary": "Implementa agents autònoms que gestionen la incorporació de clients, reduint tasques manuals."
+      "summary": "Construeix un agent autònom que gestiona la incorporació de clients de manera totalment automàtica."
     },
     {
       "title": "Networking for AI Professionals around the world - July 7",
@@ -34,7 +34,7 @@
       "source": "AI Professionals Barcelona",
       "date": "2026-06-03",
       "time": "16:50",
-      "summary": "Connecta amb experts globals d'IA en sessions petites per compartir idees i oportunitats."
+      "summary": "Sessió virtual per connectar professionals d'IA globalment i compartir oportunitats de col·laboració."
     },
     {
       "title": "Networking for AI Professionals around the world - August 13",
@@ -42,7 +42,7 @@
       "source": "AI Professionals Barcelona",
       "date": "2026-06-03",
       "time": "18:11",
-      "summary": "Participa en trobada internacional d'IA per ampliar la teva xarxa i col·laboracions."
+      "summary": "Trobada en línia per ampliar xarxes i intercanviar idees entre experts d'IA internacionals."
     },
     {
       "title": "BuildStream and KDE",
@@ -50,7 +50,7 @@
       "source": "Free Software Barcelona",
       "date": "2026-05-31",
       "time": "08:49",
-      "summary": "Explora BuildStream com a eina per crear sistemes operatius i contribuir al projecte KDE."
+      "summary": "Explora BuildStream com a eina per construir sistemes operatius i contribuir al projecte KDE."
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T08:51",
+  "generated_at": "2026-06-11T09:14",
   "id": "videos",
   "title": "Vídeos en català sobre tecnologia",
   "sources_checked": [],
@@ -10,7 +10,7 @@
       "source": "Albert Lloreta",
       "date": "2026-05-29",
       "time": "08:55",
-      "summary": "Explora la influència de les amigues digitals i el seu impacte social amb Andrea Gumes."
+      "summary": "Explora la influència femenina en xarxes socials i com modelen la cultura digital actual."
     },
     {
       "title": "A què hem estat jugant aquest maig",
@@ -18,7 +18,7 @@
       "source": "Catalunya PlayStation",
       "date": "2026-05-31",
       "time": "18:00",
-      "summary": "Revisió dels jocs més destacats del maig, amb anàlisis i recomanacions per a jugadors catalans."
+      "summary": "Revisió dels llançaments més destacats de maig, amb anàlisi de mecàniques i narratives."
     },
     {
       "title": "Pixelats vs. The Legend of Zelda: A Link to the Past!! 🔗🗝️",
@@ -26,7 +26,7 @@
       "source": "Pixelats",
       "date": "2026-05-27",
       "time": "10:00",
-      "summary": "Comparativa entre Pixelats i Zelda, mostrant estratègies i moments èpics del clàssic."
+      "summary": "Comparativa entre Pixelats i Zelda, destacant estratègies i moments èpics del clàssic."
     },
     {
       "title": "Els Putxinel·lis - Capítol 10 - Dinàmiques de poder",
@@ -34,15 +34,7 @@
       "source": "Pixelats",
       "date": "2026-05-27",
       "time": "10:00",
-      "summary": "Novena entrega de la sèrie, revelant dinàmiques de poder i gir inesperat en la trama."
-    },
-    {
-      "title": "Cobertura STATE OF PLAY - Juny 2026 (NO) E3",
-      "link_id": "c_41a62a",
-      "source": "3D Nassos",
-      "date": "2026-06-06",
-      "time": "18:13",
-      "summary": "Anàlisi exhaustiva del State of Play de juny, destacant novetats i futurs llançaments de videojocs."
+      "summary": "Capítol décim mostra les tensions polítiques dins la trama, amb gir inesperat de poder."
     },
     {
       "title": "Club del Videojoc - Warhammer 40.000: Squad Command",
@@ -50,23 +42,7 @@
       "source": "Gaming.cat",
       "date": "2026-05-28",
       "time": "12:00",
-      "summary": "Partida intensiva de Warhammer 40k, estratègies clau i moments èpics en Squad Command."
-    },
-    {
-      "title": "Presentació de l'esdeveniment Gaming en Femení",
-      "link_id": "c_731b12",
-      "source": "Gaming.cat",
-      "date": "2026-05-26",
-      "time": "19:43",
-      "summary": "Llançament oficial del esdeveniment, promou la inclusió femenina en la comunitat gamer catalana."
-    },
-    {
-      "title": "🔴 [NTH] Nintendo Direct en català! (09/06/26) 🔴",
-      "link_id": "c_332f37",
-      "source": "Nintenhype.cat",
-      "date": "2026-06-09",
-      "time": "23:16",
-      "summary": "Cobertura en directe del Nintendo Direct, amb anàlisi de novetats i expectatives per a la Switch."
+      "summary": "Anàlisi tàctica del nou mode Squad Command i les seves implicacions per a jugadors."
     },
     {
       "title": "🎙️Lúdica #55 - El llegat mitològic (amb Anton Planells)",
@@ -74,7 +50,23 @@
       "source": "Lúdica (Vídeos)",
       "date": "2026-05-28",
       "time": "17:11",
-      "summary": "Entrevista a Anton Planells sobre llegats mitològics i la seva influència en el disseny de jocs."
+      "summary": "Entrevista sobre com la mitologia inspira dissenys de videojocs i narratives contemporànies."
+    },
+    {
+      "title": "🔴 [NTH] Nintendo Direct en català! (09/06/26) 🔴",
+      "link_id": "c_332f37",
+      "source": "Nintenhype.cat",
+      "date": "2026-06-09",
+      "time": "23:16",
+      "summary": "Cobertura en viu del Nintendo Direct, destacant novetats i anuncis clau per a la comunitat."
+    },
+    {
+      "title": "Cobertura STATE OF PLAY - Juny 2026 (NO) E3",
+      "link_id": "c_41a62a",
+      "source": "3D Nassos",
+      "date": "2026-06-06",
+      "time": "18:13",
+      "summary": "Resum del State of Play de juny, amb focus en nous títols i actualitzacions."
     }
   ]
 }
