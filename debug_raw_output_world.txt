@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-06-11T11:14",
+  "generated_at": "2026-06-12T11:01",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Anthropic bloqueja amb \"hello!\" i rebutja sol·licituds innocents",
-      "link_id": "c_a23970",
-      "source": "The Register",
+      "title": "L'hàbit de desplaçar-se per les xarxes socials és més perjudicial del que creus, especialment per als adolescents",
+      "link_id": "c_09ac7d",
+      "source": "Digital Trends",
+      "date": "2026-06-12",
+      "time": "08:40",
+      "summary": "Estudis mostren que l'ús excessiu de xarxes socials afecta la salut mental dels adolescents."
+    },
+    {
+      "title": "SpaceX finalitza el preu de l'IPO a 135 $ per acció en l'oferta pública més gran del món",
+      "link_id": "c_b83f33",
+      "source": "NYT Technology",
+      "date": "2026-06-12",
+      "time": "06:43",
+      "summary": "L'IPO de SpaceX recull 75 000 milions de dòlars, impulsant la valoració de l'empresa a nivells històrics."
+    },
+    {
+      "title": "Resum del WWDC 2026, iOS 27, nova Siri i més anunciat oficialment",
+      "link_id": "c_495490",
+      "source": "9to5Mac",
       "date": "2026-06-11",
-      "time": "10:30",
-      "summary": "Fable 5 de Anthropic rebutja fins i tot preguntes senzilles, bloquejant l'usuari."
+      "time": "23:19",
+      "summary": "Apple presenta Siri AI com a assistent útil, descartant la idea d'una xicota virtual."
     },
     {
-      "title": "Anthropic llança una versió segura del model d'IA Claude Mythos al públic",
-      "link_id": "c_06035f",
-      "source": "The Guardian Tech",
-      "date": "2026-06-09",
-      "time": "22:28",
-      "summary": "Anthropic fa disponible al públic una versió del model Claude Mythos amb restriccions de seguretat."
-    },
-    {
-      "title": "Anthropic vol que els governs puguin bloquejar IA perillosa",
-      "link_id": "c_f63f9c",
+      "title": "El TacticAI de Google DeepMind pot predir jugades de futbol abans que succeeixin; el Palmeiras és el primer en utilitzar-lo",
+      "link_id": "c_b94804",
       "source": "The Next Web",
-      "date": "2026-06-09",
-      "time": "22:16",
-      "summary": "L'empresa demana que les lleis permetin als governs bloquejar intel·ligència artificial perillosa."
-    },
-    {
-      "title": "Anthropic va dir que Mythos era massa perillós, però ara llança Fable 5, una IA pública amb advertències de risc",
-      "link_id": "c_bca18e",
-      "source": "TechRadar",
-      "date": "2026-06-10",
-      "time": "11:42",
-      "summary": "Després d'avisar del perill, Anthropic llança Fable 5, una IA pública amb riscos coneguts."
-    },
-    {
-      "title": "L'IPO de SpaceX és beneficiós per al sector, afirma el CEO de Voyager",
-      "link_id": "c_23f9ac",
-      "source": "Bloomberg",
       "date": "2026-06-11",
-      "time": "09:00",
-      "summary": "El CEO de Voyager afirma que l'oferta pública de SpaceX impulsarà tot el sector espacial."
+      "time": "19:55",
+      "summary": "L'IA anticipa moviments fins a vuit segons, millorant estratègies i entrenaments."
     },
     {
-      "title": "L'IPO de SpaceX podria convertir 4.400 empleats en milionaris",
-      "link_id": "c_bb25ce",
-      "source": "NYT",
+      "title": "Operatius amb base a la Xina van utilitzar ChatGPT per influir en debats sobre centres de dades d'IA i aranzels",
+      "link_id": "c_8ad2c1",
+      "source": "Axios",
       "date": "2026-06-10",
-      "time": "19:10",
-      "summary": "L'IPO de SpaceX podria generar riquesa massiva per a milers d'empleats."
+      "time": "20:00",
+      "summary": "OpenAI va bloquejar comptes vinculats a Xina que generaven campanyes de desinformació."
     },
     {
-      "title": "Em van estafar comprant GLP‑1 en línia; no sóc l'únic",
-      "link_id": "c_14e556",
+      "title": "Anthropic invertirà 150  milions de dòlars per integrar 1 000 becaris d'IA en organitzacions sense ànim de lucre; no es requereix títol",
+      "link_id": "c_7ea063",
+      "source": "The Next Web",
+      "date": "2026-06-11",
+      "time": "22:15",
+      "summary": "El programa Claude Corps ofereix salaris de 85 000 $ i beneficis per un any."
+    },
+    {
+      "title": "Equal AI ha recaptat 30  milions de dòlars per filtrar trucades telefòniques per a indis que reben 20 trucades de correu brossa setmanalment",
+      "link_id": "c_51d26d",
+      "source": "The Next Web",
+      "date": "2026-06-12",
+      "time": "07:40",
+      "summary": "L'assistent d'IA respon trucades i redueix el correu brossa a cinc per setmana."
+    },
+    {
+      "title": "Microsoft fa codi obert al marc d'avaluació d'IA per a agents empresarials",
+      "link_id": "c_3be170",
+      "source": "InfoWorld",
+      "date": "2026-06-11",
+      "time": "12:36",
+      "summary": "ASSERT transforma requisits en proves executables per validar comportaments d'agents."
+    },
+    {
+      "title": "OpenSharing de Databricks aborda la ‘taxa d'integració’ de la IA empresarial",
+      "link_id": "c_5e933a",
+      "source": "InfoWorld",
+      "date": "2026-06-11",
+      "time": "12:04",
+      "summary": "Permet compartir models i dades sense copiar-los, reduint costos i complexitat."
+    },
+    {
+      "title": "El cap de càmera d'Apple creu que la IA pot donar-te superpoders",
+      "link_id": "c_b0c45e",
       "source": "Wired",
-      "date": "2026-06-11",
-      "time": "09:00",
-      "summary": "Clients denuncien estafes en la compra de medicaments GLP‑1 en línia, amb moltes víctimes."
-    },
-    {
-      "title": "L'startup italiana Satispay planeja una ronda de finançament de 120  milions d'euros",
-      "link_id": "c_87763c",
-      "source": "Bloomberg",
-      "date": "2026-06-11",
-      "time": "08:00",
-      "summary": "Satispay busca 120  milions d'euros per expandir serveis financers i adquirir empreses."
-    },
-    {
-      "title": "L'ona d'IA alarma la Xina i demana protegir els drets dels treballadors",
-      "link_id": "c_d47dee",
-      "source": "Bloomberg",
-      "date": "2026-06-11",
-      "time": "06:19",
-      "summary": "Xinesos adverteixen que l'ús massiu d'IA podria vulnerar drets laborals."
-    },
-    {
-      "title": "Corea multa a Coupang amb un rècord de 409  milions de dòlars per una violació de dades",
-      "link_id": "c_dacf28",
-      "source": "Bloomberg",
-      "date": "2026-06-11",
-      "time": "02:07",
-      "summary": "Coupang rep una multa històrica per una gran vulnerabilitat que va exposar dades."
+      "date": "2026-06-12",
+      "time": "01:00",
+      "summary": "Apple explora funcions d'IA per millorar la qualitat d'imatge i edició."
     }
   ]
 }

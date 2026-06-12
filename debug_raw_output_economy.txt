@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-06-11T11:14",
+  "generated_at": "2026-06-12T11:01",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "OpenAI valora reduir preus mentre competeix amb Anthropic per atraure usuaris: WSJ",
-      "link_id": "c_695a5a",
+      "title": "ChatGPT supera mil milions d'usuaris mensuals tot i el deteriorament del sentiment públic cap a la IA",
+      "link_id": "c_9d1c6b",
+      "source": "CNBC Technology",
+      "date": "2026-06-12",
+      "time": "06:07",
+      "summary": "ChatGPT arriba a un milió d'usuaris mensuals, tot i creixent preocupació ètica i ambiental."
+    },
+    {
+      "title": "La revolució de la computació quàntica és més propera del que es pensa",
+      "link_id": "c_b57250",
+      "source": "Financial Times",
+      "date": "2026-06-12",
+      "time": "04:00",
+      "summary": "La computació quàntica avança ràpidament, prometent canvis disruptius en la indústria tecnològica."
+    },
+    {
+      "title": "L'organisme regulador d'assegurances dels EUA investiga riscos crediticis vinculats a centres de dades",
+      "link_id": "c_ca0939",
+      "source": "Financial Times",
+      "date": "2026-06-12",
+      "time": "04:00",
+      "summary": "Les asseguradores examinen com els centres de dades poden augmentar el risc de crèdit."
+    },
+    {
+      "title": "Informe de KPMG contenia al·lucinacions d'IA sobre els beneficis de... l'IA",
+      "link_id": "c_109171",
+      "source": "Financial Times",
+      "date": "2026-06-12",
+      "time": "04:00",
+      "summary": "KPMG presenta estudis falsos que exageren l'impacte positiu de la IA en diversos sectors."
+    },
+    {
+      "title": "Ex-soci d'Andreessen Horowitz critica la seva antiga firma i altres VC per 'infiltració política' al voltant de la IA",
+      "link_id": "c_f38e61",
       "source": "CNBC Technology",
       "date": "2026-06-11",
-      "time": "03:24",
-      "summary": "OpenAI busca reduir tarifes per retenir clients davant la creixent oferta d’Anthropic al mercat d’IA."
+      "time": "20:43",
+      "summary": "Un antic soci denuncia la influència política dels VC en la regulació de la intel·ligència artificial."
     },
     {
-      "title": "Apollo i Blackstone recullen 35.000 milions de dòlars en finançament de xips per a Anthropic",
-      "link_id": "c_01bc80",
+      "title": "Les portes del mercat públic d'IA s'estan obrint",
+      "link_id": "c_cc3def",
       "source": "Financial Times",
-      "date": "2026-06-10",
-      "time": "16:18",
-      "summary": "Apollo i Blackstone inverteixen 35.000 milions en xips per impulsar el creixement d’Anthropic en IA."
+      "date": "2026-06-11",
+      "time": "18:09",
+      "summary": "L'entrada massiva d'inversors al mercat d'IA podria transformar les finances globals."
     },
     {
-      "title": "Anthropic aposta per l’era emergent de tall i picat de la IA",
-      "link_id": "c_a9da41",
-      "source": "Financial Times",
-      "date": "2026-06-10",
-      "time": "09:34",
-      "summary": "Anthropic aposta per tecnologies IA que permeten processar dades en fragments petits i ràpids."
-    },
-    {
-      "title": "Les mega-llistats d'IA són només el principi, afirma el CEO de Razer abans de l'IPO històric de SpaceX",
-      "link_id": "c_d7a5bd",
+      "title": "Abans de l'IPO de SpaceX, Elon Musk es dirigeix als empleats d'ASML com a part de l'impuls cap a la fabricació de xips",
+      "link_id": "c_8515a5",
       "source": "CNBC Technology",
       "date": "2026-06-11",
-      "time": "08:34",
-      "summary": "Razer preveu que les grans ofertes d’IA seran només el començament abans de l’IPO de SpaceX."
+      "time": "17:24",
+      "summary": "Musk impulsa la producció de xips, buscant reduir la dependència de proveïdors externs."
     },
     {
-      "title": "‘Amazon de Corea del Sud’ rep multa rècord per una filtració de dades",
-      "link_id": "c_82724f",
-      "source": "Financial Times",
-      "date": "2026-06-11",
-      "time": "04:37",
-      "summary": "Coupang, anomenat l’Amazon de Corea, afronta una multa històrica per una filtració massiva de dades."
-    },
-    {
-      "title": "«Tornem a l’edat de pedra»: els espies russos desconnecten Internet",
-      "link_id": "c_ee069d",
-      "source": "Financial Times",
-      "date": "2026-06-11",
-      "time": "04:00",
-      "summary": "Els serveis d’intel·ligència russa apaguen Internet, obligant la població a recórrer a mapes i efectiu."
-    },
-    {
-      "title": "Diputats britànics d’esquerra abandonen X, però els rivals de dreta publiquen més",
-      "link_id": "c_4352cf",
-      "source": "Financial Times",
-      "date": "2026-06-11",
-      "time": "04:00",
-      "summary": "Polítics britànics d’esquerra abandonen X, mentre els conservadors augmenten la seva presència a la xarxa."
-    },
-    {
-      "title": "Quatre de cada cinc consells del Regne Unit debaten quines decisions ha de guiar la IA",
-      "link_id": "c_c39e96",
-      "source": "Financial Times",
-      "date": "2026-06-11",
-      "time": "04:00",
-      "summary": "La majoria dels consells del Regne Unit consideren delegar decisions estratègiques a sistemes d’IA."
-    },
-    {
-      "title": "Fabricants emergents de xips continuen desafiar Nvidia; ara és D-Matrix, recolzat per Microsoft",
-      "link_id": "c_9835e0",
+      "title": "Coinbase llança una eina que permet agents d'IA gestionar comerç i pagaments",
+      "link_id": "c_68170a",
       "source": "CNBC Technology",
       "date": "2026-06-11",
-      "time": "00:10",
-      "summary": "D‑Matrix, suportat per Microsoft, promet xips deu vegades més ràpids, desafia el lideratge de Nvidia."
+      "time": "17:00",
+      "summary": "Coinbase aposta per IA com a interfície principal en operacions financeres i pagaments."
     },
     {
-      "title": "Oracle invertirà 70.000 milions de dòlars en l’expansió de centres de dades l’any vinent",
-      "link_id": "c_8674a4",
-      "source": "Financial Times",
-      "date": "2026-06-10",
-      "time": "22:40",
-      "summary": "Oracle planeja destinar 70.000 milions a nous centres de dades per satisfer la demanda d’IA."
+      "title": "Waymo llança una subscripció premium de 29,99 $ al mes, disponible en ciutats seleccionades",
+      "link_id": "c_5f2356",
+      "source": "CNBC Technology",
+      "date": "2026-06-11",
+      "time": "16:57",
+      "summary": "Waymo ofereix una subscripció premium per conducció autònoma, ampliant el seu model de negoci."
+    },
+    {
+      "title": "OpenAI adquireix Ona per reforçar el seu assistent de codificació IA, Codex",
+      "link_id": "c_e70a37",
+      "source": "CNBC Technology",
+      "date": "2026-06-11",
+      "time": "16:26",
+      "summary": "OpenAI incorpora Ona per millorar les capacitats de programació del seu assistent Codex."
     }
   ]
 }

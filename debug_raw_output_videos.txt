@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T09:14",
+  "generated_at": "2026-06-12T09:30",
   "id": "videos",
   "title": "Vídeos en català sobre tecnologia",
   "sources_checked": [],
@@ -10,7 +10,7 @@
       "source": "Albert Lloreta",
       "date": "2026-05-29",
       "time": "08:55",
-      "summary": "Explora la influència femenina en xarxes socials i com modelen la cultura digital actual."
+      "summary": "Explora les perspectives de les dones en l'Internet amb Andrea Gumes."
     },
     {
       "title": "A què hem estat jugant aquest maig",
@@ -18,47 +18,7 @@
       "source": "Catalunya PlayStation",
       "date": "2026-05-31",
       "time": "18:00",
-      "summary": "Revisió dels llançaments més destacats de maig, amb anàlisi de mecàniques i narratives."
-    },
-    {
-      "title": "Pixelats vs. The Legend of Zelda: A Link to the Past!! 🔗🗝️",
-      "link_id": "c_47d76f",
-      "source": "Pixelats",
-      "date": "2026-05-27",
-      "time": "10:00",
-      "summary": "Comparativa entre Pixelats i Zelda, destacant estratègies i moments èpics del clàssic."
-    },
-    {
-      "title": "Els Putxinel·lis - Capítol 10 - Dinàmiques de poder",
-      "link_id": "c_6c56c9",
-      "source": "Pixelats",
-      "date": "2026-05-27",
-      "time": "10:00",
-      "summary": "Capítol décim mostra les tensions polítiques dins la trama, amb gir inesperat de poder."
-    },
-    {
-      "title": "Club del Videojoc - Warhammer 40.000: Squad Command",
-      "link_id": "c_42456b",
-      "source": "Gaming.cat",
-      "date": "2026-05-28",
-      "time": "12:00",
-      "summary": "Anàlisi tàctica del nou mode Squad Command i les seves implicacions per a jugadors."
-    },
-    {
-      "title": "🎙️Lúdica #55 - El llegat mitològic (amb Anton Planells)",
-      "link_id": "c_bbc05b",
-      "source": "Lúdica (Vídeos)",
-      "date": "2026-05-28",
-      "time": "17:11",
-      "summary": "Entrevista sobre com la mitologia inspira dissenys de videojocs i narratives contemporànies."
-    },
-    {
-      "title": "🔴 [NTH] Nintendo Direct en català! (09/06/26) 🔴",
-      "link_id": "c_332f37",
-      "source": "Nintenhype.cat",
-      "date": "2026-06-09",
-      "time": "23:16",
-      "summary": "Cobertura en viu del Nintendo Direct, destacant novetats i anuncis clau per a la comunitat."
+      "summary": "Recull dels jocs més destacats jugats al maig, amb anàlisis breus."
     },
     {
       "title": "Cobertura STATE OF PLAY - Juny 2026 (NO) E3",
@@ -66,7 +26,31 @@
       "source": "3D Nassos",
       "date": "2026-06-06",
       "time": "18:13",
-      "summary": "Resum del State of Play de juny, amb focus en nous títols i actualitzacions."
+      "summary": "Anàlisi de les novetats presentades al State of Play de juny 2026."
+    },
+    {
+      "title": "Club del Videojoc - Warhammer 40.000: Squad Command",
+      "link_id": "c_42456b",
+      "source": "Gaming.cat",
+      "date": "2026-05-28",
+      "time": "12:00",
+      "summary": "Partida intensiva de Warhammer 40k Squad Command amb estratègies avançades."
+    },
+    {
+      "title": "🔴 [NTH] Nintendo Direct en català! (09/06/26) 🔴",
+      "link_id": "c_332f37",
+      "source": "Nintenhype.cat",
+      "date": "2026-06-09",
+      "time": "23:16",
+      "summary": "Cobertura en viu del Nintendo Direct del 9 de juny, amb traducció catalana."
+    },
+    {
+      "title": "🎙️Lúdica #55 - El llegat mitològic (amb Anton Planells)",
+      "link_id": "c_bbc05b",
+      "source": "Lúdica (Vídeos)",
+      "date": "2026-05-28",
+      "time": "17:11",
+      "summary": "Entrevista sobre el llegat mitològic dels videojocs amb Anton Planells."
     }
   ]
 }

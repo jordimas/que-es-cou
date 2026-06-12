@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-06-11T09:14",
+  "generated_at": "2026-06-12T10:00",
   "id": "events",
   "title": "Trobades",
   "sources_checked": [],
   "articles": [
+    {
+      "title": "Montar un directorio de empresas en WordPress, caso real",
+      "link_id": "c_65e73d",
+      "source": "WordPress BCN",
+      "date": "2026-06-11",
+      "time": "16:43",
+      "summary": "Aprèn a integrar GeoDirectory i UsersWP per crear un directori empresarial amb accés restringit i confidencialitat."
+    },
     {
       "title": "Building Inclusive AI Experiences with Sign Language and GenAI",
       "link_id": "c_718960",
       "source": "GDG Barcelona",
       "date": "2026-06-04",
       "time": "14:32",
-      "summary": "Descobreix com la IA i la visió per computadora poden crear aplicacions accessibles amb llenguatge de signes."
-    },
-    {
-      "title": "Beyond Chatbots: What Claude Code & Cowork Can Do For Your Business [1 of 2]",
-      "link_id": "c_15eac1",
-      "source": "AI Professionals Barcelona",
-      "date": "2026-05-31",
-      "time": "20:35",
-      "summary": "Aprèn a automatitzar processos empresarials amb Claude Code sense necessitat de programar."
+      "summary": "Explora com combinar reconeixement de gestos i IA generativa per desenvolupar aplicacions mòbils inclusives per a llengua de signes."
     },
     {
       "title": "Beyond Chatbots: What Claude Code & Cowork Can Do For Your Business [2 of 2]",
@@ -26,7 +26,7 @@
       "source": "AI Professionals Barcelona",
       "date": "2026-06-01",
       "time": "00:03",
-      "summary": "Construeix un agent autònom que gestiona la incorporació de clients de manera totalment automàtica."
+      "summary": "Descobreix com Claude Code pot automatitzar tot el procés d’onboarding, des de correus fins a gestió de tasques."
     },
     {
       "title": "Networking for AI Professionals around the world - July 7",
@@ -34,7 +34,7 @@
       "source": "AI Professionals Barcelona",
       "date": "2026-06-03",
       "time": "16:50",
-      "summary": "Sessió virtual per connectar professionals d'IA globalment i compartir oportunitats de col·laboració."
+      "summary": "Sessió de networking gratuïta en línia per connectar professionals d’IA i compartir oportunitats a nivell global."
     },
     {
       "title": "Networking for AI Professionals around the world - August 13",
@@ -42,15 +42,7 @@
       "source": "AI Professionals Barcelona",
       "date": "2026-06-03",
       "time": "18:11",
-      "summary": "Trobada en línia per ampliar xarxes i intercanviar idees entre experts d'IA internacionals."
-    },
-    {
-      "title": "BuildStream and KDE",
-      "link_id": "c_0ae2c8",
-      "source": "Free Software Barcelona",
-      "date": "2026-05-31",
-      "time": "08:49",
-      "summary": "Explora BuildStream com a eina per construir sistemes operatius i contribuir al projecte KDE."
+      "summary": "Trobada virtual per ampliar xarxes d’IA, amb grups petits i intercanvi d’experiències entre experts."
     }
   ]
 }

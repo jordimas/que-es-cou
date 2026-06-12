@@ -1,12 +1,157 @@
 {
-  "generated_at": "2026-06-11T11:14",
+  "generated_at": "2026-06-12T11:01",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
     {
+      "name": "Ara.cat",
+      "url": "https://www.ara.cat/rss/",
+      "articles_found": 1
+    },
+    {
+      "name": "El Periódico",
+      "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "RAC1",
+      "url": "https://www.rac1.cat/rss/home.xml",
+      "articles_found": 1
+    },
+    {
+      "name": "La Vanguardia (en català)",
+      "url": "https://www.lavanguardia.com/rss/encatala.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "VilaWeb",
+      "url": "https://www.vilaweb.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "NacióDigital",
+      "url": "https://www.naciodigital.cat/rss/tecnologia",
+      "articles_found": 0
+    },
+    {
       "name": "324.cat",
       "url": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0",
-      "articles_found": 1
+      "articles_found": 0
+    },
+    {
+      "name": "Softcatalà",
+      "url": "https://www.softcatala.org/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "El Nacional.cat",
+      "url": "https://www.elnacional.cat/uploads/feeds/feed_ca.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "El Mon.cat",
+      "url": "https://www.elmon.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "El Mon.cat Tecnologia",
+      "url": "https://elmon.cat/tecnologia/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "El Mon.cat Societat",
+      "url": "https://elmon.cat/societat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "Betevé",
+      "url": "https://beteve.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/barcelona.feed?type=rss",
+      "articles_found": 0
+    },
+    {
+      "name": "Segre",
+      "url": "https://www.segre.com/ca/rss/home.xml",
+      "articles_found": 2
+    },
+    {
+      "name": "Regio7",
+      "url": "https://www.regio7.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Diari d'Andorra",
+      "url": "https://www.diariandorra.ad/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Bon Dia Andorra",
+      "url": "https://www.bondia.ad/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Altaveu",
+      "url": "https://www.altaveu.com/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Nuvol",
+      "url": "https://www.nuvol.com/feed",
+      "articles_found": 0
+    },
+    {
+      "name": "Diari Mes",
+      "url": "https://www.diarimes.com/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Directe.cat",
+      "url": "https://www.directe.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Cugat.cat",
+      "url": "https://www.cugat.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "CatalunyaPress",
+      "url": "https://www.catalunyapress.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Tot Barcelona",
+      "url": "https://www.totbarcelona.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "e-notícies",
+      "url": "https://www.e-noticies.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Lleida Diari",
+      "url": "https://www.lleidadiari.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "Catorze",
+      "url": "https://www.catorze.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Xarxanet",
+      "url": "https://www.xarxanet.org/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Bondia",
+      "url": "https://www.bondia.cat/?feed=rss2",
+      "articles_found": 0
     },
     {
       "name": "MetaData",
@@ -14,50 +159,85 @@
       "articles_found": 3
     },
     {
-      "name": "El Nacional.cat",
-      "url": "https://www.elnacional.cat/uploads/feeds/feed_ca.xml",
-      "articles_found": 1
+      "name": "El Temps",
+      "url": "https://www.eltemps.cat/sindica",
+      "articles_found": 0
     },
     {
-      "name": "La Vanguardia (en català)",
-      "url": "https://www.lavanguardia.com/rss/encatala.xml",
-      "articles_found": 1
+      "name": "Àpunt",
+      "url": "https://www.apuntmedia.es/rss/",
+      "articles_found": 0
     },
     {
-      "name": "Segre",
-      "url": "https://www.segre.com/ca/rss/home.xml",
-      "articles_found": 1
+      "name": "El Periòdic d'Ontinyent",
+      "url": "https://www.elperiodicvalencia.com/?feed=rss2",
+      "articles_found": 0
     },
     {
-      "name": "Ara.cat",
-      "url": "https://www.ara.cat/rss/",
-      "articles_found": 3
+      "name": "Saó",
+      "url": "https://www.revistasao.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "Diari de Balears",
+      "url": "https://www.diaridebalears.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "IB3 Notícies",
+      "url": "https://ib3.org/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "Ara Balears",
+      "url": "https://www.arabalears.cat/rss/",
+      "articles_found": 0
+    },
+    {
+      "name": "Manacor Comarcal",
+      "url": "https://manacorcomarcal.com/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Via Empresa",
+      "url": "https://www.viaempresa.cat/uploads/feeds/feed_via-empresa-2024_ca.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "Lúdica",
+      "url": "https://ludica.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "Accent Obert",
+      "url": "https://accentobert.cat/feed/",
+      "articles_found": 0
     }
   ],
   "articles": [
-    {
-      "title": "La Kings League, creada per Gerard Piqué, presenta un ERO que afectarà 41 treballadors",
-      "link_id": "c_8e064e",
-      "source": "324.cat",
-      "date": "2026-06-10",
-      "time": "21:54",
-      "summary": "La Kings League anuncia un ERO que deixarà 41 empleats sense feina, generant incertesa en el sector esportiu."
-    },
     {
       "title": "El MWC 2026 bat un nou rècord d’impacte econòmic a Barcelona amb 588 milions d’euros i 14.000 llocs de treball",
       "link_id": "c_767409",
       "source": "MetaData",
       "date": "2026-06-09",
       "time": "13:05",
-      "summary": "El MWC 2026 genera 588 milions d'euros i 14.000 llocs de treball, impulsant l'economia barcelonina."
+      "summary": "El MWC 2026 genera 588 milions d'euros i crea 14.000 llocs de treball a Barcelona."
     },
     {
-      "title": "Reportatge: Accessibles: la start-up catalana que utilitza IA per fer comprensible el món digital",
-      "link_id": "c_2af2eb",
+      "title": "Apple torna a la IA amb les promeses pendents damunt la taula",
+      "link_id": "c_6ec0ba",
+      "source": "Ara.cat",
+      "date": "2026-06-11",
+      "time": "10:27",
+      "summary": "Apple reaviva Siri amb IA, però la versió europea encara no està disponible per als usuaris."
+    },
+    {
+      "title": "Laia Corbella, escollida nova directora general de Mobile World Capital",
+      "link_id": "c_ad3753",
       "source": "MetaData",
       "date": "2026-06-10",
-      "time": "16:05",
-      "summary": "Melvin, assistent IA català, adapta continguts digitals per eliminar barreres cognitives i millorar l'accessibilitat."
+      "time": "08:24",
+      "summary": "Laia Corbella pren la direcció de Mobile World Capital, impulsant la innovació tecnològica a Barcelona."
     },
     {
       "title": "El Barcelona Cybersecurity Congress reunirà l’ecosistema europeu de la ciberseguretat en un context d’augment de les amenaces digitals",
@@ -65,55 +245,31 @@
       "source": "MetaData",
       "date": "2026-06-08",
       "time": "16:10",
-      "summary": "El Barcelona Cybersecurity Congress reunirà líders europeus per afrontar les noves amenaces digitals i protegir infraestructures."
+      "summary": "El Barcelona Cybersecurity Congress reunirà experts europeus per afrontar les creixents amenaces digitals a les ciutats."
     },
     {
-      "title": "Apple comparteix-les més de 250 novetats que arriben a iOS 27, macOS 27, iPadOS 27 i macOS 27",
-      "link_id": "c_12eb36",
-      "source": "El Nacional.cat",
-      "date": "2026-06-11",
-      "time": "11:05",
-      "summary": "Apple llança iOS 27 amb 12 funcions noves, incloent millores d'IA i personalització avançada."
+      "title": "Les pantalles reescriuen el desenvolupament del cervell: el que s'ha viscut fins als 25 anys té un impacte profund en la salut mental, segons un nou estudi",
+      "link_id": "c_6d3d25",
+      "source": "RAC1",
+      "date": "2026-06-10",
+      "time": "12:47",
+      "summary": "Estudis mostren que l'ús intensiu de pantalles afecta profundament el desenvolupament cerebral fins als 25 anys."
     },
     {
-      "title": "Catalunya explora una innovadora via terapèutica en cirurgia contra l’alzheimer",
-      "link_id": "c_da59a8",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-06-09",
-      "time": "09:40",
-      "summary": "El Centre Ruti investiga una via terapèutica que dirigeix proteïnes tòxiques cap al sistema limfàtic per combatre l'Alzheimer."
-    },
-    {
-      "title": "Degans de la Universitat de Lleida constaten una alça de l’absentisme i alumnes diuen que \"les classes cada vegada aporten menys\"",
-      "link_id": "c_322aa4",
+      "title": "Les elèctriques reobren la batalla judicial per la taxa que les obliga a pagar per les línies",
+      "link_id": "c_ca026d",
       "source": "Segre",
-      "date": "2026-06-11",
-      "time": "10:24",
-      "summary": "Estudi de la Universitat de Lleida revela augment de l'absentisme i alerta sobre l'impacte de la IA en l'aprenentatge."
+      "date": "2026-06-12",
+      "time": "05:36",
+      "summary": "Les empreses elèctriques lluiten contra la taxa imposada, defensant els drets dels consumidors catalans."
     },
     {
-      "title": "Allargar la vida de les nuclears estalviaria 280 M€ a l'any a la indústria catalana",
-      "link_id": "c_1b6db9",
-      "source": "Ara.cat",
-      "date": "2026-06-09",
-      "time": "15:03",
-      "summary": "Estudi Deloitte indica que mantenir les centrals nuclears a Catalunya costaria 280 milions d'euros anuals a la indústria."
-    },
-    {
-      "title": "La resistència tecnològica contra la invasió dels ultracossos publicitaris",
-      "link_id": "c_3e99e9",
-      "source": "Ara.cat",
-      "date": "2026-06-06",
-      "time": "18:00",
-      "summary": "El Col·legi de Periodistes ofereix un curs d'IA mentre el Papa reflexiona èticament sobre la intel·ligència artificial."
-    },
-    {
-      "title": "\"Hem perdut la paciència\": com la tecnologia afecta la nostra salut emocional",
-      "link_id": "c_45a42e",
-      "source": "Ara.cat",
-      "date": "2026-06-08",
-      "time": "07:00",
-      "summary": "L'ús constant de notificacions i la hiperproductivitat generen estrès, afectant la salut emocional de la població."
+      "title": "Infermeres debaten sobre l’ús clínic de la IA en el servei d’Urgències",
+      "link_id": "c_e32e12",
+      "source": "Segre",
+      "date": "2026-06-12",
+      "time": "05:32",
+      "summary": "Infermeres debaten l'ús clínic de la IA a urgències, buscant millorar la atenció hospitalària."
     }
   ]
 }
