@@ -1,88 +1,64 @@
 {
-  "generated_at": "2026-06-12T11:01",
+  "generated_at": "2026-06-13T10:23",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "ChatGPT supera mil milions d'usuaris mensuals tot i el deteriorament del sentiment públic cap a la IA",
-      "link_id": "c_9d1c6b",
-      "source": "CNBC Technology",
-      "date": "2026-06-12",
-      "time": "06:07",
-      "summary": "ChatGPT arriba a un milió d'usuaris mensuals, tot i creixent preocupació ètica i ambiental."
+      "title": "Anthropic suspèn els seus últims models d'IA després que EUA bloquegi l'accés a estrangers",
+      "link_id": "c_54085b",
+      "source": "Financial Times",
+      "date": "2026-06-13",
+      "time": "02:01",
+      "summary": "Anthropic limita l'ús dels seus models avançats per motius de seguretat nacional, afectant investigadors internacionals."
     },
     {
-      "title": "La revolució de la computació quàntica és més propera del que es pensa",
-      "link_id": "c_b57250",
+      "title": "Anthropic desactiva l'accés a Fable 5 i Mythos 5 per complir una directiva governamental",
+      "link_id": "c_831369",
+      "source": "CNBC Technology",
+      "date": "2026-06-13",
+      "time": "01:36",
+      "summary": "L'empresa bloqueja dos models populars per complir les restriccions d'exportació imposades pels EUA."
+    },
+    {
+      "title": "Com la IA està trastornant les inversions",
+      "link_id": "c_ce7915",
       "source": "Financial Times",
-      "date": "2026-06-12",
+      "date": "2026-06-13",
       "time": "04:00",
-      "summary": "La computació quàntica avança ràpidament, prometent canvis disruptius en la indústria tecnològica."
+      "summary": "La IA transforma les estratègies d'inversió, impulsant noves formes de diversificació i gestió de riscos."
     },
     {
-      "title": "L'organisme regulador d'assegurances dels EUA investiga riscos crediticis vinculats a centres de dades",
-      "link_id": "c_ca0939",
+      "title": "La IA revoluciona el mercat borsari",
+      "link_id": "c_99d32f",
+      "source": "Financial Times",
+      "date": "2026-06-13",
+      "time": "04:00",
+      "summary": "Els algoritmes d'IA alteren el comportament dels mercats, generant volatilitat i oportunitats per als operadors."
+    },
+    {
+      "title": "OpenAI afirma que col·labora constructivament amb els fiscals estatals sobre les seves preocupacions",
+      "link_id": "c_673312",
+      "source": "CNBC Technology",
+      "date": "2026-06-13",
+      "time": "00:29",
+      "summary": "OpenAI treballa amb fiscals per abordar temes ètics i reguladors relacionats amb la IA."
+    },
+    {
+      "title": "Policia del Regne Unit sota investigació penal per suposat ús d'IA",
+      "link_id": "c_96af6f",
       "source": "Financial Times",
       "date": "2026-06-12",
-      "time": "04:00",
-      "summary": "Les asseguradores examinen com els centres de dades poden augmentar el risc de crèdit."
+      "time": "11:28",
+      "summary": "Un oficial de policia és investigat per presumptament manipular proves amb tecnologia d'IA."
     },
     {
-      "title": "Informe de KPMG contenia al·lucinacions d'IA sobre els beneficis de... l'IA",
-      "link_id": "c_109171",
-      "source": "Financial Times",
+      "title": "The Tech Download: Arthur Mensch de Mistral sobre IA agentiva, xips i adopció empresarial",
+      "link_id": "c_5d8010",
+      "source": "CNBC Technology",
       "date": "2026-06-12",
-      "time": "04:00",
-      "summary": "KPMG presenta estudis falsos que exageren l'impacte positiu de la IA en diversos sectors."
-    },
-    {
-      "title": "Ex-soci d'Andreessen Horowitz critica la seva antiga firma i altres VC per 'infiltració política' al voltant de la IA",
-      "link_id": "c_f38e61",
-      "source": "CNBC Technology",
-      "date": "2026-06-11",
-      "time": "20:43",
-      "summary": "Un antic soci denuncia la influència política dels VC en la regulació de la intel·ligència artificial."
-    },
-    {
-      "title": "Les portes del mercat públic d'IA s'estan obrint",
-      "link_id": "c_cc3def",
-      "source": "Financial Times",
-      "date": "2026-06-11",
-      "time": "18:09",
-      "summary": "L'entrada massiva d'inversors al mercat d'IA podria transformar les finances globals."
-    },
-    {
-      "title": "Abans de l'IPO de SpaceX, Elon Musk es dirigeix als empleats d'ASML com a part de l'impuls cap a la fabricació de xips",
-      "link_id": "c_8515a5",
-      "source": "CNBC Technology",
-      "date": "2026-06-11",
-      "time": "17:24",
-      "summary": "Musk impulsa la producció de xips, buscant reduir la dependència de proveïdors externs."
-    },
-    {
-      "title": "Coinbase llança una eina que permet agents d'IA gestionar comerç i pagaments",
-      "link_id": "c_68170a",
-      "source": "CNBC Technology",
-      "date": "2026-06-11",
-      "time": "17:00",
-      "summary": "Coinbase aposta per IA com a interfície principal en operacions financeres i pagaments."
-    },
-    {
-      "title": "Waymo llança una subscripció premium de 29,99 $ al mes, disponible en ciutats seleccionades",
-      "link_id": "c_5f2356",
-      "source": "CNBC Technology",
-      "date": "2026-06-11",
-      "time": "16:57",
-      "summary": "Waymo ofereix una subscripció premium per conducció autònoma, ampliant el seu model de negoci."
-    },
-    {
-      "title": "OpenAI adquireix Ona per reforçar el seu assistent de codificació IA, Codex",
-      "link_id": "c_e70a37",
-      "source": "CNBC Technology",
-      "date": "2026-06-11",
-      "time": "16:26",
-      "summary": "OpenAI incorpora Ona per millorar les capacitats de programació del seu assistent Codex."
+      "time": "11:00",
+      "summary": "Mistral discuteix com la IA agentiva i els xips impulsen la digitalització empresarial."
     }
   ]
 }

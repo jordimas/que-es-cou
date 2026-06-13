@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-06-12T11:01",
+  "generated_at": "2026-06-13T10:00",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "L'hàbit de desplaçar-se per les xarxes socials és més perjudicial del que creus, especialment per als adolescents",
-      "link_id": "c_09ac7d",
+      "title": "SpaceX puja el primer dia després de l'IPO rècord de 75 000 M$ | The Close 12/6/2026",
+      "link_id": "c_68939d",
+      "source": "Bloomberg Technology",
+      "date": "2026-06-12",
+      "time": "22:31",
+      "summary": "SpaceX va augmentar un 11% el primer dia, consolidant el seu debut històric a la borsa."
+    },
+    {
+      "title": "El govern dels EUA obliga Anthropic a retirar els seus models d'IA més potents",
+      "link_id": "c_07dd9d",
+      "source": "Android Authority",
+      "date": "2026-06-13",
+      "time": "07:52",
+      "summary": "Anthropic ha suspès Fable 5 i Mythos 5 després d'una ordre de seguretat nacional."
+    },
+    {
+      "title": "Google demanda una xarxa xinesa de cibercriminalitat...",
+      "link_id": "c_3f3510",
+      "source": "The Next Web",
+      "date": "2026-06-12",
+      "time": "17:57",
+      "summary": "Google acusa la xarxa de crear milers de webs falses i missatges de phishing amb Gemini."
+    },
+    {
+      "title": "Apple explica per què la nova Siri IA no serà la teva parella romàntica",
+      "link_id": "c_4b7b5b",
+      "source": "TechRadar",
+      "date": "2026-06-12",
+      "time": "09:56",
+      "summary": "Apple assegura que Siri AI està dissenyada per ajudar, no per substituir relacions personals."
+    },
+    {
+      "title": "iOS 27 en pràctica: l'actualització d'iPhone que esperava",
+      "link_id": "c_324291",
       "source": "Digital Trends",
       "date": "2026-06-12",
-      "time": "08:40",
-      "summary": "Estudis mostren que l'ús excessiu de xarxes socials afecta la salut mental dels adolescents."
+      "time": "10:44",
+      "summary": "iOS 27 introdueix millores de rendiment i noves funcions d'IA per a l'iPhone."
     },
     {
-      "title": "SpaceX finalitza el preu de l'IPO a 135 $ per acció en l'oferta pública més gran del món",
-      "link_id": "c_b83f33",
-      "source": "NYT Technology",
+      "title": "La llei de vigilància dels EUA expira per primera vegada després del rebuig del candidat de Trump",
+      "link_id": "c_d22b3a",
+      "source": "TechCrunch",
       "date": "2026-06-12",
-      "time": "06:43",
-      "summary": "L'IPO de SpaceX recull 75 000 milions de dòlars, impulsant la valoració de l'empresa a nivells històrics."
+      "time": "11:43",
+      "summary": "La secció 702 del Foreign Intelligence Surveillance Act expira, marcant una pausa en la vigilància massiva."
     },
     {
-      "title": "Resum del WWDC 2026, iOS 27, nova Siri i més anunciat oficialment",
-      "link_id": "c_495490",
-      "source": "9to5Mac",
-      "date": "2026-06-11",
-      "time": "23:19",
-      "summary": "Apple presenta Siri AI com a assistent útil, descartant la idea d'una xicota virtual."
-    },
-    {
-      "title": "El TacticAI de Google DeepMind pot predir jugades de futbol abans que succeeixin; el Palmeiras és el primer en utilitzar-lo",
-      "link_id": "c_b94804",
-      "source": "The Next Web",
-      "date": "2026-06-11",
-      "time": "19:55",
-      "summary": "L'IA anticipa moviments fins a vuit segons, millorant estratègies i entrenaments."
-    },
-    {
-      "title": "Operatius amb base a la Xina van utilitzar ChatGPT per influir en debats sobre centres de dades d'IA i aranzels",
-      "link_id": "c_8ad2c1",
-      "source": "Axios",
-      "date": "2026-06-10",
-      "time": "20:00",
-      "summary": "OpenAI va bloquejar comptes vinculats a Xina que generaven campanyes de desinformació."
-    },
-    {
-      "title": "Anthropic invertirà 150  milions de dòlars per integrar 1 000 becaris d'IA en organitzacions sense ànim de lucre; no es requereix títol",
-      "link_id": "c_7ea063",
-      "source": "The Next Web",
-      "date": "2026-06-11",
-      "time": "22:15",
-      "summary": "El programa Claude Corps ofereix salaris de 85 000 $ i beneficis per un any."
-    },
-    {
-      "title": "Equal AI ha recaptat 30  milions de dòlars per filtrar trucades telefòniques per a indis que reben 20 trucades de correu brossa setmanalment",
-      "link_id": "c_51d26d",
-      "source": "The Next Web",
-      "date": "2026-06-12",
-      "time": "07:40",
-      "summary": "L'assistent d'IA respon trucades i redueix el correu brossa a cinc per setmana."
-    },
-    {
-      "title": "Microsoft fa codi obert al marc d'avaluació d'IA per a agents empresarials",
-      "link_id": "c_3be170",
-      "source": "InfoWorld",
-      "date": "2026-06-11",
-      "time": "12:36",
-      "summary": "ASSERT transforma requisits en proves executables per validar comportaments d'agents."
-    },
-    {
-      "title": "OpenSharing de Databricks aborda la ‘taxa d'integració’ de la IA empresarial",
-      "link_id": "c_5e933a",
-      "source": "InfoWorld",
-      "date": "2026-06-11",
-      "time": "12:04",
-      "summary": "Permet compartir models i dades sense copiar-los, reduint costos i complexitat."
-    },
-    {
-      "title": "El cap de càmera d'Apple creu que la IA pot donar-te superpoders",
-      "link_id": "c_b0c45e",
+      "title": "«Digueu-li que és una merda»: la nova unitat d'IA de Meta és un desastre total",
+      "link_id": "c_7eedfc",
       "source": "Wired",
       "date": "2026-06-12",
-      "time": "01:00",
-      "summary": "Apple explora funcions d'IA per millorar la qualitat d'imatge i edició."
+      "time": "21:16",
+      "summary": "Empleats de Meta denuncien una cultura d'IA caòtica i manca de direcció clara."
+    },
+    {
+      "title": "Descoberta la corretja d'Apple 'Close Your Rings' de l'edició limitada 2026",
+      "link_id": "c_adfb0e",
+      "source": "MacRumors",
+      "date": "2026-06-12",
+      "time": "20:30",
+      "summary": "Apple llança una corretja exclusiva per a l'Apple Watch, celebrant el 10è aniversari del repte."
+    },
+    {
+      "title": "Google AI Mode llança agents de cerca que gestionen informació per a tu",
+      "link_id": "c_a8efe8",
+      "source": "9to5Google",
+      "date": "2026-06-12",
+      "time": "21:30",
+      "summary": "Google AI Mode ofereix agents que recorden i organitzen informació durant les cerques en línia."
+    },
+    {
+      "title": "SpaceX va llogar Colossus 1 a Anthropic perquè no podia fer servir el centre de dades per a Grok",
+      "link_id": "c_1d59cb",
+      "source": "Bloomberg Technology",
+      "date": "2026-06-12",
+      "time": "18:30",
+      "summary": "SpaceX ha arrendat el centre de dades Colossus 1 a Anthropic per a les seves necessitats d'IA."
     }
   ]
 }
