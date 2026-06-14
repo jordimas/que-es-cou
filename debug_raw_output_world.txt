@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-06-13T10:00",
+  "generated_at": "2026-06-14T09:00",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "SpaceX puja el primer dia després de l'IPO rècord de 75 000 M$ | The Close 12/6/2026",
-      "link_id": "c_68939d",
-      "source": "Bloomberg Technology",
-      "date": "2026-06-12",
-      "time": "22:31",
-      "summary": "SpaceX va augmentar un 11% el primer dia, consolidant el seu debut històric a la borsa."
-    },
-    {
-      "title": "El govern dels EUA obliga Anthropic a retirar els seus models d'IA més potents",
-      "link_id": "c_07dd9d",
-      "source": "Android Authority",
-      "date": "2026-06-13",
-      "time": "07:52",
-      "summary": "Anthropic ha suspès Fable 5 i Mythos 5 després d'una ordre de seguretat nacional."
-    },
-    {
-      "title": "Google demanda una xarxa xinesa de cibercriminalitat...",
-      "link_id": "c_3f3510",
+      "title": "El CEO d'Amazon ha desencadenat la repressió governamental que va tancar l'IA més potent d'Anthropic",
+      "link_id": "c_05bb14",
       "source": "The Next Web",
-      "date": "2026-06-12",
-      "time": "17:57",
-      "summary": "Google acusa la xarxa de crear milers de webs falses i missatges de phishing amb Gemini."
+      "date": "2026-06-13",
+      "time": "23:26",
+      "summary": "Andy Jassy va alertar el govern, provocant la prohibició d'accés a Fable 5 i Mythos 5."
     },
     {
-      "title": "Apple explica per què la nova Siri IA no serà la teva parella romàntica",
-      "link_id": "c_4b7b5b",
-      "source": "TechRadar",
-      "date": "2026-06-12",
-      "time": "09:56",
-      "summary": "Apple assegura que Siri AI està dissenyada per ajudar, no per substituir relacions personals."
+      "title": "KPMG retira el seu informe d'IA després que UBS, el NHS i altres denunciïn que les seves afirmacions eren inventades",
+      "link_id": "c_c2468f",
+      "source": "The Next Web",
+      "date": "2026-06-13",
+      "time": "22:55",
+      "summary": "KPMG retira l'informe després que diverses entitats denunciïn informació falsa sobre elles."
     },
     {
-      "title": "iOS 27 en pràctica: l'actualització d'iPhone que esperava",
-      "link_id": "c_324291",
+      "title": "El FBI va construir secretament una ciutat falsa completa per entrenar ciberatacs",
+      "link_id": "c_191006",
       "source": "Digital Trends",
-      "date": "2026-06-12",
-      "time": "10:44",
-      "summary": "iOS 27 introdueix millores de rendiment i noves funcions d'IA per a l'iPhone."
+      "date": "2026-06-13",
+      "time": "21:14",
+      "summary": "El FBI ha creat una ciutat simulada de 22.000 peus per entrenar agents en ciberseguretat."
     },
     {
-      "title": "La llei de vigilància dels EUA expira per primera vegada després del rebuig del candidat de Trump",
-      "link_id": "c_d22b3a",
-      "source": "TechCrunch",
-      "date": "2026-06-12",
-      "time": "11:43",
-      "summary": "La secció 702 del Foreign Intelligence Surveillance Act expira, marcant una pausa en la vigilància massiva."
+      "title": "Microsoft valora separar completament Xbox mentre els marges de la divisió cauen al 3%",
+      "link_id": "c_539078",
+      "source": "The Next Web",
+      "date": "2026-06-13",
+      "time": "17:10",
+      "summary": "Microsoft estudia vendre Xbox com a empresa independent degut a marges molt baixos."
     },
     {
-      "title": "«Digueu-li que és una merda»: la nova unitat d'IA de Meta és un desastre total",
-      "link_id": "c_7eedfc",
-      "source": "Wired",
-      "date": "2026-06-12",
-      "time": "21:16",
-      "summary": "Empleats de Meta denuncien una cultura d'IA caòtica i manca de direcció clara."
-    },
-    {
-      "title": "Descoberta la corretja d'Apple 'Close Your Rings' de l'edició limitada 2026",
-      "link_id": "c_adfb0e",
-      "source": "MacRumors",
-      "date": "2026-06-12",
-      "time": "20:30",
-      "summary": "Apple llança una corretja exclusiva per a l'Apple Watch, celebrant el 10è aniversari del repte."
-    },
-    {
-      "title": "Google AI Mode llança agents de cerca que gestionen informació per a tu",
-      "link_id": "c_a8efe8",
-      "source": "9to5Google",
-      "date": "2026-06-12",
-      "time": "21:30",
-      "summary": "Google AI Mode ofereix agents que recorden i organitzen informació durant les cerques en línia."
-    },
-    {
-      "title": "SpaceX va llogar Colossus 1 a Anthropic perquè no podia fer servir el centre de dades per a Grok",
-      "link_id": "c_1d59cb",
+      "title": "L'augment de SpaceX impulsa encara més la fortuna del príncep saudita multimilionari",
+      "link_id": "c_f2c078",
       "source": "Bloomberg Technology",
-      "date": "2026-06-12",
-      "time": "18:30",
-      "summary": "SpaceX ha arrendat el centre de dades Colossus 1 a Anthropic per a les seves necessitats d'IA."
+      "date": "2026-06-14",
+      "time": "07:33",
+      "summary": "L'augment de les accions de SpaceX eleva la riquesa del príncep saudita a nous màxims."
+    },
+    {
+      "title": "Microsoft desplega eines d'IA Copilot a més de mig milió de treballadors del NHS d'Anglaterra, promet millorar serveis i reduir costos",
+      "link_id": "c_1069ff",
+      "source": "TechRadar",
+      "date": "2026-06-14",
+      "time": "07:00",
+      "summary": "Microsoft implementa Copilot a 505.000 empleats del NHS per agilitzar tasques i reduir costos."
+    },
+    {
+      "title": "El proper rellotge Ultra de Samsung podria rebre una gran millora de bateria",
+      "link_id": "c_a66c5a",
+      "source": "Digital Trends",
+      "date": "2026-06-14",
+      "time": "03:32",
+      "summary": "El proper Samsung Galaxy Watch Ultra podria incloure una bateria molt més gran per a una millor autonomia."
+    },
+    {
+      "title": "Spotify elimina desenes de milers de podcasts falsos vinculats a vendes de drogues en línia",
+      "link_id": "c_e3b6f1",
+      "source": "Digital Trends",
+      "date": "2026-06-14",
+      "time": "00:47",
+      "summary": "Spotify ha suprimit més de 57.000 episodis falsos que promocionaven farmàcies il·legals en línia."
+    },
+    {
+      "title": "iOS 27 afegeix una nova aplicació a la pantalla d'inici del teu iPhone",
+      "link_id": "c_9f558d",
+      "source": "9to5Mac",
+      "date": "2026-06-13",
+      "time": "22:53",
+      "summary": "iOS 27 introdueix una nova aplicació que apareix directament a la pantalla d'inici del iPhone."
+    },
+    {
+      "title": "Wear OS 7 sembla a punt d'arribar aviat als Pixel Watch",
+      "link_id": "c_348132",
+      "source": "Digital Trends",
+      "date": "2026-06-13",
+      "time": "22:33",
+      "summary": "Wear OS 7 porta millores que permeten el suport imminent dels nous Pixel Watch."
     }
   ]
 }

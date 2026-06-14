@@ -1,23 +1,8 @@
 {
-  "generated_at": "2026-06-13T12:00",
+  "generated_at": "2026-06-14T10:00",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
-    {
-      "name": "La Vanguardia (en català)",
-      "url": "https://www.lavanguardia.com/rss/encatala.xml",
-      "articles_found": 1
-    },
-    {
-      "name": "MetaData",
-      "url": "https://www.metadata.cat/sindica",
-      "articles_found": 2
-    },
-    {
-      "name": "324.cat",
-      "url": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0",
-      "articles_found": 1
-    },
     {
       "name": "Ara.cat",
       "url": "https://www.ara.cat/rss/",
@@ -26,40 +11,188 @@
     {
       "name": "El Periódico",
       "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
-      "articles_found": 1
+      "articles_found": 0
     },
     {
       "name": "RAC1",
       "url": "https://www.rac1.cat/rss/home.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "La Vanguardia (en català)",
+      "url": "https://www.lavanguardia.com/rss/encatala.xml",
+      "articles_found": 2
+    },
+    {
+      "name": "VilaWeb",
+      "url": "https://www.vilaweb.cat/feed/",
       "articles_found": 1
     },
     {
-      "name": "Tot Barcelona",
-      "url": "https://www.totbarcelona.cat/feed/",
-      "articles_found": 1
+      "name": "NacióDigital",
+      "url": "https://www.naciodigital.cat/rss/tecnologia",
+      "articles_found": 0
+    },
+    {
+      "name": "324.cat",
+      "url": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0",
+      "articles_found": 2
+    },
+    {
+      "name": "Softcatalà",
+      "url": "https://www.softcatala.org/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "El Nacional.cat",
+      "url": "https://www.elnacional.cat/uploads/feeds/feed_ca.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "El Mon.cat",
+      "url": "https://www.elmon.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "El Mon.cat Tecnologia",
+      "url": "https://elmon.cat/tecnologia/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "El Mon.cat Societat",
+      "url": "https://elmon.cat/societat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "Betevé",
+      "url": "https://beteve.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/barcelona.feed?type=rss",
+      "articles_found": 0
     },
     {
       "name": "Segre",
       "url": "https://www.segre.com/ca/rss/home.xml",
-      "articles_found": 1
+      "articles_found": 0
+    },
+    {
+      "name": "Regio7",
+      "url": "https://www.regio7.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Diari d'Andorra",
+      "url": "https://www.diariandorra.ad/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Bon Dia Andorra",
+      "url": "https://www.bondia.ad/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Altaveu",
+      "url": "https://www.altaveu.com/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Nuvol",
+      "url": "https://www.nuvol.com/feed",
+      "articles_found": 0
+    },
+    {
+      "name": "Diari Mes",
+      "url": "https://www.diarimes.com/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Directe.cat",
+      "url": "https://www.directe.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Cugat.cat",
+      "url": "https://www.cugat.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "CatalunyaPress",
+      "url": "https://www.catalunyapress.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Tot Barcelona",
+      "url": "https://www.totbarcelona.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "e-notícies",
+      "url": "https://www.e-noticies.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Lleida Diari",
+      "url": "https://www.lleidadiari.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "Catorze",
+      "url": "https://www.catorze.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Xarxanet",
+      "url": "https://www.xarxanet.org/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Bondia",
+      "url": "https://www.bondia.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "MetaData",
+      "url": "https://www.metadata.cat/sindica",
+      "articles_found": 2
+    },
+    {
+      "name": "El Temps",
+      "url": "https://www.eltemps.cat/sindica",
+      "articles_found": 0
+    },
+    {
+      "name": "Àpunt",
+      "url": "https://www.apuntmedia.es/rss/",
+      "articles_found": 0
     }
   ],
   "articles": [
+    {
+      "title": "Anthropic, la creadora de Claude, tanca l'accés als seus models d'IA més avançats",
+      "link_id": "c_38c3f4",
+      "source": "Ara.cat",
+      "date": "2026-06-13",
+      "time": "16:32",
+      "summary": "Claude es tanca, deixant a desenvolupadors sense accés a les versions més potents d'IA."
+    },
     {
       "title": "Musk ja és bilionari en disparar-se les accions de SpaceX més del 20%",
       "link_id": "c_826e79",
       "source": "La Vanguardia (en català)",
       "date": "2026-06-13",
       "time": "07:36",
-      "summary": "SpaceX supera rècords: la seva sortida a borsa converteix Musk en primer bilionari de la història."
+      "summary": "SpaceX supera expectations, augmentant el valor de les accions i consolidant el lideratge de Musk."
     },
     {
-      "title": "El MWC 2026 bat un nou rècord d’impacte econòmic a Barcelona amb 588 milions d’euros i 14.000 llocs de treball",
-      "link_id": "c_767409",
-      "source": "MetaData",
-      "date": "2026-06-09",
-      "time": "13:05",
-      "summary": "El MWC genera 588 milions d'euros d'impacte econòmic a Barcelona, impulsant 14.000 llocs de treball."
+      "title": "El fiasco del futur caça fa trontollar les aspiracions de la defensa europea",
+      "link_id": "c_a88cb3",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-06-14",
+      "time": "07:35",
+      "summary": "Fracàs del caça europeu posa en dubte la cooperació militar i la independència defensiva d'Europa."
     },
     {
       "title": "Mòbil als 11 anys: Unicef alerta que els joves cada cop viuen més connectats a les pantalles",
@@ -67,23 +200,15 @@
       "source": "324.cat",
       "date": "2026-06-12",
       "time": "16:07",
-      "summary": "Estudi Unicef revela que el 78% dels infants tenen mòbil abans d'entrar a l'institut."
+      "summary": "Estudi Unicef revela que el 78% dels infants tenen mòbil abans del secundari, alertant sobre l'exposició digital."
     },
     {
-      "title": "El Barcelona Cybersecurity Congress 2026 reunirà l’ecosistema europeu de la ciberseguretat en un context d’augment de les amenaces digitals",
-      "link_id": "c_01c470",
-      "source": "MetaData",
-      "date": "2026-06-08",
-      "time": "16:10",
-      "summary": "El Barcelona Cybersecurity Congress reunirà experts europeus per afrontar l'augment de les amenaces digitals."
-    },
-    {
-      "title": "Grifols Egipte eleva la inversió en el projecte fins als 460 M€",
-      "link_id": "c_99a801",
-      "source": "Ara.cat",
-      "date": "2026-06-12",
-      "time": "05:00",
-      "summary": "Grifols incrementa 180 milions d'euros a Egipte, accelerant el projecte de plasma fins al 2029."
+      "title": "Els usuaris de cotxes elèctrics planten cara a la jungla de preus de la recàrrega",
+      "link_id": "c_a60707",
+      "source": "VilaWeb",
+      "date": "2026-06-13",
+      "time": "19:40",
+      "summary": "Conductors d'electrics denuncien preus abusius de recàrrega, exigint regulació per evitar discriminació."
     },
     {
       "title": "Repensar l'energia per passar a l'acció amb l'electrificació",
@@ -91,39 +216,31 @@
       "source": "Ara.cat",
       "date": "2026-06-10",
       "time": "21:59",
-      "summary": "Setmana Europea de l'Energia promou autoconsum i recàrrega d'electrònics per reduir la petjada energètica."
+      "summary": "Setmana Europea d'Energia promou tallers i recursos per impulsar l'autoconsum i la mobilitat elèctrica."
     },
     {
-      "title": "Instagram i Facebook cauen: reporten errors a Espanya i altres països",
-      "link_id": "c_8349d0",
-      "source": "El Periódico",
-      "date": "2026-06-12",
-      "time": "16:44",
-      "summary": "Instagram i Facebook experimenten errors a Espanya, deixant milions d'usuaris sense accés a les xarxes."
+      "title": "Deepfakes: què es pot fer si algú ha manipulat un vídeo, foto o àudio nostre",
+      "link_id": "c_e52f06",
+      "source": "324.cat",
+      "date": "2026-06-14",
+      "time": "07:30",
+      "summary": "Deepfakes amenacen la reputació; experts recomanen verificació i educació per combatre manipulacions digitals."
     },
     {
-      "title": "Macrooperatiu dels Mossos d'Esquadra a Barcelona contra el tràfic d'armes de foc",
-      "link_id": "c_ed38f1",
-      "source": "RAC1",
-      "date": "2026-06-12",
-      "time": "22:25",
-      "summary": "Mossos i Guàrdia Urbana despleguen macrooperatiu a Barcelona per combatre el tràfic il·legal d'armes."
+      "title": "Apple ressuscita Siri amb IA, però Europa es queda fora del llançament",
+      "link_id": "c_3a8a3d",
+      "source": "MetaData",
+      "date": "2026-06-11",
+      "time": "09:34",
+      "summary": "Apple actualitza Siri amb IA, però la versió europea es retarda, deixant els usuaris sense noves funcions."
     },
     {
-      "title": "L’aeroport del Prat supera els 5,5 milions de passatgers al maig i manté la tendència de rècords",
-      "link_id": "c_1d8991",
-      "source": "Tot Barcelona",
+      "title": "Reportatge: La Digital Twin Economy: quan les empreses podran assajar el futur abans de prendre decisions",
+      "link_id": "c_d55a9e",
+      "source": "MetaData",
       "date": "2026-06-12",
-      "time": "13:58",
-      "summary": "L'aeroport del Prat registra 5,5 milions de passatgers al maig, superant rècords històrics."
-    },
-    {
-      "title": "Les noves oficines d’atenció ciutadana mòbils acosten els serveis públics a tres municipis del Solsonès",
-      "link_id": "c_33c862",
-      "source": "Segre",
-      "date": "2026-06-12",
-      "time": "10:57",
-      "summary": "Noves oficines mòbils d'atenció ciutadana arriben a Solsona, Torà i Sant Llorenç, reduint la bretxa digital."
+      "time": "12:14",
+      "summary": "Bessons digitals permeten a les empreses simular escenaris, reduint riscos i millorant decisions estratègiques."
     }
   ]
 }

@@ -1,64 +1,56 @@
 {
-  "generated_at": "2026-06-13T10:23",
+  "generated_at": "2026-06-14T10:45",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Anthropic suspèn els seus últims models d'IA després que EUA bloquegi l'accés a estrangers",
-      "link_id": "c_54085b",
-      "source": "Financial Times",
-      "date": "2026-06-13",
-      "time": "02:01",
-      "summary": "Anthropic limita l'ús dels seus models avançats per motius de seguretat nacional, afectant investigadors internacionals."
-    },
-    {
-      "title": "Anthropic desactiva l'accés a Fable 5 i Mythos 5 per complir una directiva governamental",
-      "link_id": "c_831369",
+      "title": "Des d'un 10% de probabilitat d'èxit fins a una capitalització de 2 bilions de dòlars: l'IPO històric de SpaceX",
+      "link_id": "c_683c2a",
       "source": "CNBC Technology",
       "date": "2026-06-13",
-      "time": "01:36",
-      "summary": "L'empresa bloqueja dos models populars per complir les restriccions d'exportació imposades pels EUA."
+      "time": "15:50",
+      "summary": "L'IPO eleva SpaceX a una valoració de 2 bilions, marcant un punt d'inflexió per al sector espacial."
     },
     {
-      "title": "Com la IA està trastornant les inversions",
-      "link_id": "c_ce7915",
+      "title": "Per què TD Securities preveu dies encara més grans per a SpaceX",
+      "link_id": "c_0debc8",
+      "source": "CNBC Technology",
+      "date": "2026-06-13",
+      "time": "15:00",
+      "summary": "TD Securities veu oportunitats creixents per SpaceX després de l'IPO, esperant més inversions i col·laboracions."
+    },
+    {
+      "title": "Com Wall Street va aconseguir l'IPO més gran de la història per a SpaceX",
+      "link_id": "c_7ba3a9",
       "source": "Financial Times",
       "date": "2026-06-13",
+      "time": "10:00",
+      "summary": "Wall Street va estructurar una operació complexa per a SpaceX, superant expectatives de finançament."
+    },
+    {
+      "title": "Wall Street absorbeix una recaptació rècord mentre la cursa d'IA s'intensifica",
+      "link_id": "c_9ab0e9",
+      "source": "Financial Times",
+      "date": "2026-06-14",
       "time": "04:00",
-      "summary": "La IA transforma les estratègies d'inversió, impulsant noves formes de diversificació i gestió de riscos."
+      "summary": "Els inversors de Wall Street han recaptat fons rècord, impulsant la competència en IA."
     },
     {
-      "title": "La IA revoluciona el mercat borsari",
-      "link_id": "c_99d32f",
+      "title": "La start-up de tecnologia de defensa Anduril demana reiniciar els controls d'exportació d'armes dels EUA",
+      "link_id": "c_321c3c",
       "source": "Financial Times",
-      "date": "2026-06-13",
+      "date": "2026-06-14",
       "time": "04:00",
-      "summary": "Els algoritmes d'IA alteren el comportament dels mercats, generant volatilitat i oportunitats per als operadors."
+      "summary": "Anduril reclama una revisió dels límits d'exportació per facilitar la producció d'armes assequibles."
     },
     {
-      "title": "OpenAI afirma que col·labora constructivament amb els fiscals estatals sobre les seves preocupacions",
-      "link_id": "c_673312",
-      "source": "CNBC Technology",
-      "date": "2026-06-13",
-      "time": "00:29",
-      "summary": "OpenAI treballa amb fiscals per abordar temes ètics i reguladors relacionats amb la IA."
-    },
-    {
-      "title": "Policia del Regne Unit sota investigació penal per suposat ús d'IA",
-      "link_id": "c_96af6f",
+      "title": "«Tot és massa tecnològic»: la Generació Z descobreix les càmeres digitals",
+      "link_id": "c_9200b3",
       "source": "Financial Times",
-      "date": "2026-06-12",
-      "time": "11:28",
-      "summary": "Un oficial de policia és investigat per presumptament manipular proves amb tecnologia d'IA."
-    },
-    {
-      "title": "The Tech Download: Arthur Mensch de Mistral sobre IA agentiva, xips i adopció empresarial",
-      "link_id": "c_5d8010",
-      "source": "CNBC Technology",
-      "date": "2026-06-12",
-      "time": "11:00",
-      "summary": "Mistral discuteix com la IA agentiva i els xips impulsen la digitalització empresarial."
+      "date": "2026-06-14",
+      "time": "01:44",
+      "summary": "La Generació Z torna a valorar les càmeres analògiques, buscant autenticitat davant la saturació digital."
     }
   ]
 }
