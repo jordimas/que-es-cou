@@ -1,56 +1,88 @@
 {
-  "generated_at": "2026-06-14T10:45",
+  "generated_at": "2026-06-15T12:00",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Des d'un 10% de probabilitat d'èxit fins a una capitalització de 2 bilions de dòlars: l'IPO històric de SpaceX",
-      "link_id": "c_683c2a",
+      "title": "SpaceX guanya un 6% en el premercat després del debut rècord. Aquí què impulsa el debat de valoració",
+      "link_id": "c_304268",
       "source": "CNBC Technology",
-      "date": "2026-06-13",
-      "time": "15:50",
-      "summary": "L'IPO eleva SpaceX a una valoració de 2 bilions, marcant un punt d'inflexió per al sector espacial."
+      "date": "2026-06-15",
+      "time": "09:15",
+      "summary": "El valor de SpaceX puja després de la seva OPI, generant debat sobre la seva avaluació estratosfèrica."
     },
     {
-      "title": "Per què TD Securities preveu dies encara més grans per a SpaceX",
-      "link_id": "c_0debc8",
+      "title": "SoftBank puja més del 10% mentre l'acord Iran‑EE. impulsa les accions tecnològiques asiàtiques",
+      "link_id": "c_228f9e",
       "source": "CNBC Technology",
-      "date": "2026-06-13",
-      "time": "15:00",
-      "summary": "TD Securities veu oportunitats creixents per SpaceX després de l'IPO, esperant més inversions i col·laboracions."
+      "date": "2026-06-15",
+      "time": "07:35",
+      "summary": "L'acord entre Iran i EUA impulsa les tecnologies asiàtiques, fent que les accions de SoftBank disparin."
     },
     {
-      "title": "Com Wall Street va aconseguir l'IPO més gran de la història per a SpaceX",
-      "link_id": "c_7ba3a9",
+      "title": "La start-up d'IA legal Legora duplicarà el seu personal",
+      "link_id": "c_df83ff",
       "source": "Financial Times",
-      "date": "2026-06-13",
-      "time": "10:00",
-      "summary": "Wall Street va estructurar una operació complexa per a SpaceX, superant expectatives de finançament."
-    },
-    {
-      "title": "Wall Street absorbeix una recaptació rècord mentre la cursa d'IA s'intensifica",
-      "link_id": "c_9ab0e9",
-      "source": "Financial Times",
-      "date": "2026-06-14",
+      "date": "2026-06-15",
       "time": "04:00",
-      "summary": "Els inversors de Wall Street han recaptat fons rècord, impulsant la competència en IA."
+      "summary": "Legora, valorada en 5,6 mrd d'USD, busca expandir-se ràpidament per capitalitzar la demanda legal d'IA."
     },
     {
-      "title": "La start-up de tecnologia de defensa Anduril demana reiniciar els controls d'exportació d'armes dels EUA",
-      "link_id": "c_321c3c",
+      "title": "Els guanys d'eficiència de la IA comporten un alt cost energètic",
+      "link_id": "c_9ed5cd",
       "source": "Financial Times",
-      "date": "2026-06-14",
+      "date": "2026-06-15",
       "time": "04:00",
-      "summary": "Anduril reclama una revisió dels límits d'exportació per facilitar la producció d'armes assequibles."
+      "summary": "Les millores d'eficiència de la IA redueixen residus, però augmenten el consum energètic global."
     },
     {
-      "title": "«Tot és massa tecnològic»: la Generació Z descobreix les càmeres digitals",
-      "link_id": "c_9200b3",
+      "title": "La IA és clau per accelerar el desenvolupament de tecnologies de bateries",
+      "link_id": "c_d482fe",
+      "source": "Financial Times",
+      "date": "2026-06-15",
+      "time": "04:00",
+      "summary": "La IA accelera el descobriment de materials per bateries, prometent càrregues més ràpides i durades més llargues."
+    },
+    {
+      "title": "Les entrevistes de treball es converteixen en proves d'IA",
+      "link_id": "c_8a3373",
+      "source": "Financial Times",
+      "date": "2026-06-15",
+      "time": "03:00",
+      "summary": "Les empreses avaluen com els candidats utilitzen eines d'IA, transformant les entrevistes en proves tecnològiques."
+    },
+    {
+      "title": "Anthropic es reacciona després que l'administració Trump congeli els seus principals models d'IA",
+      "link_id": "c_73c1c7",
       "source": "Financial Times",
       "date": "2026-06-14",
-      "time": "01:44",
-      "summary": "La Generació Z torna a valorar les càmeres analògiques, buscant autenticitat davant la saturació digital."
+      "time": "23:43",
+      "summary": "Les restriccions nord-americanes limiten l'accés a Fable i Mythos, generant incertesa per a Anthropic."
+    },
+    {
+      "title": "Un any després que Meta contractés Alexandr Wang per crear un nou model d'IA, Zuckerberg ha de vendre'l",
+      "link_id": "c_1a1a52",
+      "source": "CNBC Technology",
+      "date": "2026-06-14",
+      "time": "15:02",
+      "summary": "Després d'un any d'inversió massiva, Zuckerberg busca recuperar costos venent el model d'IA de Meta."
+    },
+    {
+      "title": "Una qualitat serà la més demandada pels cercadors d'ocupació en l'era de la IA, segons Siu",
+      "link_id": "c_fb7986",
+      "source": "CNBC Technology",
+      "date": "2026-06-14",
+      "time": "14:03",
+      "summary": "Segons Siu, la capacitat d'adaptació serà la competència clau en el mercat laboral impulsat per IA."
+    },
+    {
+      "title": "«Pot una màquina fer aquesta feina?» és la pregunta equivocada",
+      "link_id": "c_b99167",
+      "source": "Financial Times",
+      "date": "2026-06-14",
+      "time": "12:00",
+      "summary": "La pregunta real és com la IA pot complementar, no substituir, les tasques humanes."
     }
   ]
 }

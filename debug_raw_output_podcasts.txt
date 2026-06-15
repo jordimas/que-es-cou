@@ -1,16 +1,24 @@
 {
-  "generated_at": "2026-06-14T09:00",
+  "generated_at": "2026-06-15T10:56",
   "id": "podcasts",
   "title": "Podcasts en català sobre tecnologia",
   "sources_checked": [],
   "articles": [
+    {
+      "title": "La nova llei de la UE respecte a la IA i anècdotes de viatges – Programa 667",
+      "link_id": "c_9ec3ca",
+      "source": "Mossega la poma",
+      "date": "2026-06-13",
+      "time": "09:42",
+      "summary": "Debat sobre la nova llei europea d'IA i anècdotes de viatges, reflexions sobre grans corporacions tecnològiques."
+    },
     {
       "title": "L' Altra Ràdio - Radioafició: centenari Gaudí, curs a l'EETAC de Castelldefels i fira Friedrichshafen",
       "link_id": "c_12d5c3",
       "source": "L'altra ràdio",
       "date": "2026-06-11",
       "time": "14:33",
-      "summary": "Explora el centenari de Gaudí i les novetats de radioafició a l'EETAC i la fira alemanya."
+      "summary": "Commemoració del centenari de Gaudí i noves iniciatives d'operador radioaficionat a l'EETAC."
     },
     {
       "title": "L'altra ràdio – Nou ordinador quàntic al Barcelona Supercomputing Center",
@@ -18,15 +26,15 @@
       "source": "L'altra ràdio",
       "date": "2026-06-04",
       "time": "22:58",
-      "summary": "Descobreix l'EuroQCS‑Spain i com reforça el superordinador MareNostrum 5 a nivell mundial."
+      "summary": "Presentació del tercer ordinador quàntic al BSC, impulsant el projecte MareNostrum 5 a nivell mundial."
     },
     {
       "title": "El gòTIC - Tenim una missió! del 10/6/2026",
       "link_id": "c_4849bb",
       "source": "El Gòtic",
-      "date": "2026-06-10",
+      "date": "2026-06-09",
       "time": "23:30",
-      "summary": "El gòTIC comparteix recursos digitals per afrontar reptes de la ciutadania i impulsar la innovació."
+      "summary": "Recursos i estratègies per afrontar reptes digitals, impulsant la ciutadania digital a Tàrrega."
     },
     {
       "title": "El gòTIC - Tenim una missió! del 3/6/2026",
@@ -34,7 +42,7 @@
       "source": "El Gòtic",
       "date": "2026-06-02",
       "time": "23:29",
-      "summary": "Segona entrega del gòTIC, enfocada en estratègies per a la transformació digital local."
+      "summary": "Recursos i estratègies per a la ciutadania digital, reforçant la resposta a desafiaments tecnològics."
     },
     {
       "title": "Una comissió parlamentària dóna suport a l’aixecament de la immunitat d’un eurodiputat involucrat en el Huawei-Gate",
@@ -42,7 +50,7 @@
       "source": "Societat de la Informació",
       "date": "2026-06-05",
       "time": "11:50",
-      "summary": "Parla la comissió europea sobre la immunitat d’un eurodiputat implicat en l’escàndol Huawei‑Gate."
+      "summary": "Comissió parlamentària avala l'aixecament d'immunitat d'un eurodiputat implicat en el cas Huawei-Gate."
     },
     {
       "title": "Les paraules de Lleó XIV sobre la IA, la selectivitat i educació abans i després de ChatGPT",
@@ -51,6 +59,14 @@
       "date": "2026-06-07",
       "time": "02:34",
       "summary": "Lleó XIV reflexiona sobre IA, selectivitat i educació, comparant èpoques abans i després de ChatGPT."
+    },
+    {
+      "title": "Ja no mosseguem la poma",
+      "link_id": "c_4ee64a",
+      "source": "Foc a Terra",
+      "date": "2026-06-15",
+      "time": "04:00",
+      "summary": "Anàlisi de les novetats de la WWDC, incloent controls parentals i l'arribada de Siri AI."
     },
     {
       "title": "A clor obert, amb Anna Tarrés",
@@ -66,7 +82,7 @@
       "source": "Foc a Terra",
       "date": "2026-06-01",
       "time": "04:00",
-      "summary": "Anàlisi crítica del consum d’aigua dels centres de dades i la sostenibilitat de la IA."
+      "summary": "Exploració crítica del consum d'aigua dels centres de dades i la sostenibilitat de la IA."
     },
     {
       "title": "WordPress fa 23 anys",
@@ -74,7 +90,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-06-02",
       "time": "00:00",
-      "summary": "Celebració dels 23 anys de WordPress, destacant la seva evolució des de la versió 0.70."
+      "summary": "Celebració dels 23 anys de WordPress, recordant el llançament de la versió 0.70 el 27 de maig."
     },
     {
       "title": "Capítol 66: Un mòbil sense coloraines que no t'enganxi hores i hores",
@@ -82,7 +98,7 @@
       "source": "RAC&GO",
       "date": "2026-06-02",
       "time": "06:00",
-      "summary": "Presentació d’un telèfon minimalista sense xarxes socials, dissenyat per reduir la dependència digital."
+      "summary": "Descobriment d'un telèfon mòbil sense xarxes socials, dissenyat per reduir la dependència digital."
     }
   ]
 }

@@ -1,16 +1,24 @@
 {
-  "generated_at": "2026-06-14T08:42",
+  "generated_at": "2026-06-15T12:00",
   "id": "videos",
   "title": "Vídeos en català sobre tecnologia",
   "sources_checked": [],
   "articles": [
+    {
+      "title": "virtual en viu",
+      "link_id": "c_dbdf59",
+      "source": "Albert Lloreta",
+      "date": "2026-06-14",
+      "time": "12:07",
+      "summary": "Exploració en temps real de la realitat virtual, mostrant noves experiències immersives i tecnologies emergents."
+    },
     {
       "title": "A què hem estat jugant aquest maig",
       "link_id": "c_2842ec",
       "source": "Catalunya PlayStation",
       "date": "2026-05-31",
       "time": "18:00",
-      "summary": "Descobrim les novetats i curiositats dels jocs jugats al maig, amb anàlisis i opinions locals."
+      "summary": "Recapitulació dels jocs més destacats del maig, amb anàlisi de tendències i recomanacions locals."
     },
     {
       "title": "Pixelats vs. DEMOLISH FIST!! 🤜🤛",
@@ -18,7 +26,7 @@
       "source": "Pixelats",
       "date": "2026-06-12",
       "time": "10:00",
-      "summary": "Enfrontament èpic entre Pixelats i DEMOLISH FIST, amb estratègies i moments hilarants."
+      "summary": "Enfrontament èpic entre Pixelats i DEMOLISH FIST, amb estratègies i moments sorprenents."
     },
     {
       "title": "Els Putxinel·lis - Capítol 11 - Retrobaments",
@@ -26,7 +34,7 @@
       "source": "Pixelats",
       "date": "2026-06-12",
       "time": "10:00",
-      "summary": "Nou capítol de Putxinel·lis revela retrobaments inesperats i girs argumentals sorprenents."
+      "summary": "Novetat del capítol 11, on els personatges redescobreixen secrets i enfronten nous reptes."
     },
     {
       "title": "Cobertura STATE OF PLAY - Juny 2026 (NO) E3",
@@ -34,7 +42,7 @@
       "source": "3D Nassos",
       "date": "2026-06-06",
       "time": "18:13",
-      "summary": "Cobertura completa del State of Play de juny, amb anàlisis de novetats i rumors."
+      "summary": "Cobertura completa del State of Play de juny, destacant anuncis clau i futures consoles."
     },
     {
       "title": "🔴 [NTH] Nintendo Direct en català! (09/06/26) 🔴",
@@ -42,7 +50,7 @@
       "source": "Nintenhype.cat",
       "date": "2026-06-09",
       "time": "23:16",
-      "summary": "Direct de Nintendo en català mostra les novetats del Switch 2 i futurs llançaments."
+      "summary": "Anàlisi del Nintendo Direct del 9 de juny, amb novetats i opinions sobre la Switch 2."
     }
   ]
 }

@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-06-14T09:00",
+  "generated_at": "2026-06-15T12:56",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "El CEO d'Amazon ha desencadenat la repressió governamental que va tancar l'IA més potent d'Anthropic",
-      "link_id": "c_05bb14",
-      "source": "The Next Web",
-      "date": "2026-06-13",
-      "time": "23:26",
-      "summary": "Andy Jassy va alertar el govern, provocant la prohibició d'accés a Fable 5 i Mythos 5."
+      "title": "El Regne Unit imposa una prohibició generalitzada de les xarxes socials per a menors de 16 anys",
+      "link_id": "c_19ceda",
+      "source": "Wired",
+      "date": "2026-06-15",
+      "time": "09:01",
+      "summary": "La mesura busca protegir adolescents del contingut nociu i l'addicció a les xarxes socials."
     },
     {
-      "title": "KPMG retira el seu informe d'IA després que UBS, el NHS i altres denunciïn que les seves afirmacions eren inventades",
-      "link_id": "c_c2468f",
-      "source": "The Next Web",
-      "date": "2026-06-13",
-      "time": "22:55",
-      "summary": "KPMG retira l'informe després que diverses entitats denunciïn informació falsa sobre elles."
-    },
-    {
-      "title": "El FBI va construir secretament una ciutat falsa completa per entrenar ciberatacs",
-      "link_id": "c_191006",
-      "source": "Digital Trends",
-      "date": "2026-06-13",
-      "time": "21:14",
-      "summary": "El FBI ha creat una ciutat simulada de 22.000 peus per entrenar agents en ciberseguretat."
-    },
-    {
-      "title": "Microsoft valora separar completament Xbox mentre els marges de la divisió cauen al 3%",
-      "link_id": "c_539078",
-      "source": "The Next Web",
-      "date": "2026-06-13",
-      "time": "17:10",
-      "summary": "Microsoft estudia vendre Xbox com a empresa independent degut a marges molt baixos."
-    },
-    {
-      "title": "L'augment de SpaceX impulsa encara més la fortuna del príncep saudita multimilionari",
-      "link_id": "c_f2c078",
+      "title": "La prohibició d'exportació d'Anthropic intensifica les pors sobre el control nord-americà de la IA",
+      "link_id": "c_3126db",
       "source": "Bloomberg Technology",
-      "date": "2026-06-14",
-      "time": "07:33",
-      "summary": "L'augment de les accions de SpaceX eleva la riquesa del príncep saudita a nous màxims."
+      "date": "2026-06-15",
+      "time": "10:30",
+      "summary": "L'acció podria limitar l'accés global a models d'IA avançats, augmentant la tensió tecnològica."
     },
     {
-      "title": "Microsoft desplega eines d'IA Copilot a més de mig milió de treballadors del NHS d'Anglaterra, promet millorar serveis i reduir costos",
-      "link_id": "c_1069ff",
-      "source": "TechRadar",
-      "date": "2026-06-14",
-      "time": "07:00",
-      "summary": "Microsoft implementa Copilot a 505.000 empleats del NHS per agilitzar tasques i reduir costos."
-    },
-    {
-      "title": "El proper rellotge Ultra de Samsung podria rebre una gran millora de bateria",
-      "link_id": "c_a66c5a",
-      "source": "Digital Trends",
-      "date": "2026-06-14",
-      "time": "03:32",
-      "summary": "El proper Samsung Galaxy Watch Ultra podria incloure una bateria molt més gran per a una millor autonomia."
-    },
-    {
-      "title": "Spotify elimina desenes de milers de podcasts falsos vinculats a vendes de drogues en línia",
-      "link_id": "c_e3b6f1",
-      "source": "Digital Trends",
-      "date": "2026-06-14",
-      "time": "00:47",
-      "summary": "Spotify ha suprimit més de 57.000 episodis falsos que promocionaven farmàcies il·legals en línia."
-    },
-    {
-      "title": "iOS 27 afegeix una nova aplicació a la pantalla d'inici del teu iPhone",
-      "link_id": "c_9f558d",
+      "title": "Apple encara té tres funcions d'iOS 27 no anunciades en desenvolupament, segons un informe",
+      "link_id": "c_d1b650",
       "source": "9to5Mac",
-      "date": "2026-06-13",
-      "time": "22:53",
-      "summary": "iOS 27 introdueix una nova aplicació que apareix directament a la pantalla d'inici del iPhone."
+      "date": "2026-06-14",
+      "time": "14:41",
+      "summary": "Les noves funcions podrien millorar la productivitat i la interacció intel·ligent dels usuaris."
     },
     {
-      "title": "Wear OS 7 sembla a punt d'arribar aviat als Pixel Watch",
-      "link_id": "c_348132",
-      "source": "Digital Trends",
-      "date": "2026-06-13",
-      "time": "22:33",
-      "summary": "Wear OS 7 porta millores que permeten el suport imminent dels nous Pixel Watch."
+      "title": "Trump amenaça amb un aranzel del 100% a la indústria vinícola francesa per la seva taxa tecnològica",
+      "link_id": "c_beab43",
+      "source": "Engadget",
+      "date": "2026-06-15",
+      "time": "10:48",
+      "summary": "Trump vol pressionar França amb impostos per protegir la indústria americana de la competència."
+    },
+    {
+      "title": "Com Apple fa que el teu iPhone antic sigui més ràpid i duri més temps",
+      "link_id": "c_e91853",
+      "source": "Wired",
+      "date": "2026-06-15",
+      "time": "10:30",
+      "summary": "Actualitzacions de programari i optimitzacions de maquinari fan que els iPhone antics siguin més àgils."
+    },
+    {
+      "title": "Un de cada quatre partits del Mundial podria jugar-se en temperatures perilloses",
+      "link_id": "c_20de7f",
+      "source": "Wired",
+      "date": "2026-06-15",
+      "time": "10:00",
+      "summary": "Les altes temperatures podrien afectar rendiment i seguretat dels jugadors i aficionats."
+    },
+    {
+      "title": "Una estafa de criptomonedes va atacar una estrella gay d'OnlyFans, i el seu feed de X es va inundar de propaganda ‘MAGA’",
+      "link_id": "c_e80964",
+      "source": "Wired",
+      "date": "2026-06-15",
+      "time": "10:00",
+      "summary": "L'estafa combina extorsió de criptomonedes amb propaganda política per manipular la víctima."
+    },
+    {
+      "title": "Meta va contractar un proveïdor del Pentagó per prototipar reconeixement facial per a les seves ulleres",
+      "link_id": "c_d0cdaa",
+      "source": "Wired",
+      "date": "2026-06-15",
+      "time": "09:00",
+      "summary": "Meta explora tecnologia facial per millorar la interacció amb les seves ulleres intel·ligents."
+    },
+    {
+      "title": "L'X-59 de la NASA assoleix fites de velocitat i altitud abans dels primers vols supersònics silenciosos",
+      "link_id": "c_489156",
+      "source": "Engadget",
+      "date": "2026-06-14",
+      "time": "22:06",
+      "summary": "L'X-59 demostra que els avions supersònics poden volar silenciosament, reduint l'impacte sonor."
+    },
+    {
+      "title": "El FBI va construir una petita ciutat per simular ciberatacs",
+      "link_id": "c_a99cd9",
+      "source": "The Verge",
+      "date": "2026-06-14",
+      "time": "16:35",
+      "summary": "La ciutat simulada permet entrenar professionals en defensa contra ciberamenaces reals."
     }
   ]
 }
