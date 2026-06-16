@@ -1,26 +1,11 @@
 {
-  "generated_at": "2026-06-15T12:00",
+  "generated_at": "2026-06-16T10:12",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
     {
-      "name": "Ara.cat",
-      "url": "https://www.ara.cat/rss/",
-      "articles_found": 1
-    },
-    {
       "name": "El Periódico",
       "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
-      "articles_found": 1
-    },
-    {
-      "name": "El Nacional.cat",
-      "url": "https://www.elnacional.cat/uploads/feeds/feed_ca.xml",
-      "articles_found": 3
-    },
-    {
-      "name": "MetaData",
-      "url": "https://www.metadata.cat/sindica",
       "articles_found": 3
     },
     {
@@ -29,35 +14,61 @@
       "articles_found": 1
     },
     {
-      "name": "Tot Barcelona",
-      "url": "https://www.totbarcelona.cat/feed/",
+      "name": "Ara.cat",
+      "url": "https://www.ara.cat/rss/",
+      "articles_found": 3
+    },
+    {
+      "name": "MetaData",
+      "url": "https://www.metadata.cat/sindica",
+      "articles_found": 2
+    },
+    {
+      "name": "El Nacional",
+      "url": "https://www.elnacional.cat/uploads/feeds/feed_ca.xml",
       "articles_found": 1
     }
   ],
   "articles": [
     {
-      "title": "El Regne Unit prohibirà les xarxes socials als menors de 16 anys",
-      "link_id": "c_7f410f",
-      "source": "El Nacional.cat",
-      "date": "2026-06-15",
-      "time": "11:35",
-      "summary": "El Regne Unit prohibirà les xarxes socials als menors, generant debat sobre seguretat i llibertat digital a Europa."
-    },
-    {
-      "title": "SpaceX bat tots els rècords en la seva sortida a borsa i fa Elon Musk encara més ric",
-      "link_id": "c_5713a8",
-      "source": "El Nacional.cat",
-      "date": "2026-06-15",
-      "time": "10:59",
-      "summary": "SpaceX arriba a borsa amb valoració rècord, impulsant el sector espacial i augmentant la riquesa de Musk."
-    },
-    {
-      "title": "Una conversa amb el cap d’Amazon va portar els Estats Units a vetar la IA més avançada d’Anthropic",
-      "link_id": "c_f6218d",
+      "title": "El Govern aprovarà aquest dimarts la inversió de 719 milions d’euros per impulsar la gigafactoria europea d’IA a Tarragona",
+      "link_id": "c_800102",
       "source": "El Periódico",
+      "date": "2026-06-16",
+      "time": "10:22",
+      "summary": "El govern impulsa una gigafàbrica d'IA a Tarragona, prometent milers de llocs de treball i lideratge europeu."
+    },
+    {
+      "title": "La UE obligarà les aerolínies a incloure el preu de la maleta de mà a l'inici de cada reserva",
+      "link_id": "c_c075e9",
+      "source": "324.cat",
       "date": "2026-06-15",
-      "time": "10:57",
-      "summary": "EEUU restringeix els models avançats d’Anthropic, evidenciant tensions entre innovació IA i seguretat nacional."
+      "time": "21:21",
+      "summary": "La UE obliga les aerolínies a mostrar el preu de la maleta de mà des del primer clic, augmentant transparència."
+    },
+    {
+      "title": "Què en sabem, de l'acord entre els Estats Units i l'Iran, i quines són les grans incògnites?",
+      "link_id": "c_dc048e",
+      "source": "Ara.cat",
+      "date": "2026-06-15",
+      "time": "15:20",
+      "summary": "Analitza l'acord EE.UU.-Iran, destacant incerteses que podrien prolongar el conflicte i impactar l'estabilitat global."
+    },
+    {
+      "title": "Les renovables rebaixen 10 € el rebut dels espanyols durant la crisi energètica",
+      "link_id": "c_8a23b0",
+      "source": "Ara.cat",
+      "date": "2026-06-16",
+      "time": "05:00",
+      "summary": "Estudi mostra que les renovables han reduït 10 € al rebut de llum dels espanyols, alleujant la crisi energètica."
+    },
+    {
+      "title": "El Regne Unit prohibirà l'accés a les xarxes socials als menors de 16 anys",
+      "link_id": "c_1c9bcf",
+      "source": "Ara.cat",
+      "date": "2026-06-15",
+      "time": "07:34",
+      "summary": "El Regne Unit prohibirà l'accés a xarxes socials per a menors de 16 anys, buscant protegir la salut mental juvenil."
     },
     {
       "title": "Els adolescents catalans viuen més connectats que mai: augmenten l’ansietat i la violència digital",
@@ -65,55 +76,39 @@
       "source": "MetaData",
       "date": "2026-06-15",
       "time": "10:50",
-      "summary": "Estudi revela que 93% dels adolescents catalans són hiperconnectats, augmentant ansietat i violència digital."
+      "summary": "Informe revela que el 93% dels adolescents catalans són hiperconnectats, incrementant ansietat i violència digital."
     },
     {
-      "title": "El domini .cat celebra 20 anys com a referent mundial de la diversitat lingüística a internet",
-      "link_id": "c_41e5b3",
+      "title": "La IA troba infeccions crítiques abans que els metges i aconsegueix salvar 900 vides",
+      "link_id": "c_b44be5",
+      "source": "El Nacional",
+      "date": "2026-06-16",
+      "time": "10:16",
+      "summary": "Un sistema d'IA detecta sepsis precoç, salvant 900 vides a Tampa i mostrant potencial global."
+    },
+    {
+      "title": "Una conversa amb el cap d’Amazon va portar els Estats Units a vetar la IA més avançada d’Anthropic",
+      "link_id": "c_f6218d",
+      "source": "El Periódico",
+      "date": "2026-06-15",
+      "time": "10:57",
+      "summary": "EE.UU. vetan models avançats d'Anthropic, generant debat sobre seguretat nacional i limitacions d'IA."
+    },
+    {
+      "title": "Les millors aplicacions d’IA per al teu dia a dia",
+      "link_id": "c_e3fea4",
+      "source": "El Periódico",
+      "date": "2026-06-14",
+      "time": "06:00",
+      "summary": "Descobreix les aplicacions d'IA més útils per al dia a dia, des de productivitat fins a creativitat."
+    },
+    {
+      "title": "Barcelona es reivindica com la capital europea de la intel·ligència artificial",
+      "link_id": "c_3237ee",
       "source": "MetaData",
       "date": "2026-06-15",
-      "time": "09:23",
-      "summary": "El domini .cat celebra dues dècades liderant la diversitat lingüística en internet, reforçant la identitat catalana."
-    },
-    {
-      "title": "Reportatge: La Digital Twin Economy: quan les empreses podran assajar el futur abans de prendre decisions",
-      "link_id": "c_d55a9e",
-      "source": "MetaData",
-      "date": "2026-06-12",
-      "time": "12:14",
-      "summary": "Les empreses adopten bessons digitals per simular mercats, millorant decisions i reduint riscos econòmics."
-    },
-    {
-      "title": "Deepfakes: què es pot fer si algú ha manipulat un vídeo, foto o àudio nostre",
-      "link_id": "c_e52f06",
-      "source": "324.cat",
-      "date": "2026-06-14",
-      "time": "07:30",
-      "summary": "Els deepfakes amenacen la reputació, requerint noves eines de verificació per protegir la veritat digital."
-    },
-    {
-      "title": "Repensar l'energia per passar a l'acció amb l'electrificació",
-      "link_id": "c_84af7f",
-      "source": "Ara.cat",
-      "date": "2026-06-10",
-      "time": "21:59",
-      "summary": "Tallers i recursos digitals promouen l’autoconsum i la recàrrega d’evehicles, impulsant la transició energètica catalana."
-    },
-    {
-      "title": "Apple comparteix un nou anunci dels AirPods Pro 3 amb Vini Jr. com a protagonista",
-      "link_id": "c_c87a6d",
-      "source": "El Nacional.cat",
-      "date": "2026-06-14",
-      "time": "17:45",
-      "summary": "Apple llança els AirPods Pro 3 amb Vini Jr., mostrant la fusió entre música i tecnologia esportiva."
-    },
-    {
-      "title": "L’hospital Vall d’Hebron lidera un projecte revolucionari contra el càncer infantil",
-      "link_id": "c_473a47",
-      "source": "Tot Barcelona",
-      "date": "2026-06-15",
-      "time": "09:29",
-      "summary": "El VHIR encapçala el projecte PHOENIX, una nova esperança terapèutica contra el càncer infantil a Europa."
+      "time": "17:18",
+      "summary": "Barcelona es posiciona com a capital europea d'IA, atraient inversions de 11.000 milions d'euros."
     }
   ]
 }

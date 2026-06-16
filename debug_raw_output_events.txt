@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T10:56",
+  "generated_at": "2026-06-16T10:12",
   "id": "events",
   "title": "Trobades",
   "sources_checked": [],
@@ -10,7 +10,7 @@
       "source": "WordPress BCN",
       "date": "2026-06-11",
       "time": "16:43",
-      "summary": "Estudi de com integrar GeoDirectory i UsersWP per crear un directori empresarial amb accés restringit."
+      "summary": "Descobreix com combinar GeoDirectory, UsersWP i Elementor per crear un directori empresarial amb accés restringit i confidencialitat."
     },
     {
       "title": "Building Inclusive AI Experiences with Sign Language and GenAI",
@@ -18,15 +18,7 @@
       "source": "GDG Barcelona",
       "date": "2026-06-04",
       "time": "14:32",
-      "summary": "Explora com la IA generativa i la visió per computadora poden traduir llenguatge de signes a temps real."
-    },
-    {
-      "title": "Beyond Chatbots: What Claude Code & Cowork Can Do For Your Business [2 of 2]",
-      "link_id": "c_9c8d11",
-      "source": "AI Professionals Barcelona",
-      "date": "2026-06-01",
-      "time": "00:03",
-      "summary": "Demostra com crear agents autònoms que gestionin processos d’onboarding sense intervenció humana."
+      "summary": "Explora com la visió per computador i GenAI permeten apps que tradueixen llenguatge de signes en temps real a tothom."
     },
     {
       "title": "Networking for AI Professionals around the world - July 7",
@@ -34,7 +26,7 @@
       "source": "AI Professionals Barcelona",
       "date": "2026-06-03",
       "time": "16:50",
-      "summary": "Sessió virtual gratuïta per connectar professionals d’IA globalment i compartir oportunitats col·laboratives."
+      "summary": "Reuneix professionals d'IA de tot el món en sessions petites per compartir experiències i oportunitats en línia."
     },
     {
       "title": "Networking for AI Professionals around the world - August 13",
@@ -42,7 +34,7 @@
       "source": "AI Professionals Barcelona",
       "date": "2026-06-03",
       "time": "18:11",
-      "summary": "Trobada en línia per ampliar xarxes d’experts en IA i fomentar col·laboracions internacionals."
+      "summary": "Connecta't amb experts en IA i ciència de dades en grups de debat per impulsar col·laboracions internacionals."
     }
   ]
 }

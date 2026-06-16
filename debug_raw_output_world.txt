@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-06-15T12:56",
+  "generated_at": "2026-06-16T12:12",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "El Regne Unit imposa una prohibició generalitzada de les xarxes socials per a menors de 16 anys",
-      "link_id": "c_19ceda",
-      "source": "Wired",
-      "date": "2026-06-15",
-      "time": "09:01",
-      "summary": "La mesura busca protegir adolescents del contingut nociu i l'addicció a les xarxes socials."
-    },
-    {
-      "title": "La prohibició d'exportació d'Anthropic intensifica les pors sobre el control nord-americà de la IA",
-      "link_id": "c_3126db",
+      "title": "Les restriccions d'Anthropic demostren la necessitat d'una IA sobirana, afirma el CEO",
+      "link_id": "c_d0765d",
       "source": "Bloomberg Technology",
-      "date": "2026-06-15",
-      "time": "10:30",
-      "summary": "L'acció podria limitar l'accés global a models d'IA avançats, augmentant la tensió tecnològica."
+      "date": "2026-06-16",
+      "time": "06:58",
+      "summary": "El CEO destaca que les restriccions evidencien la necessitat d'independència tecnològica en IA."
     },
     {
-      "title": "Apple encara té tres funcions d'iOS 27 no anunciades en desenvolupament, segons un informe",
-      "link_id": "c_d1b650",
-      "source": "9to5Mac",
-      "date": "2026-06-14",
-      "time": "14:41",
-      "summary": "Les noves funcions podrien millorar la productivitat i la interacció intel·ligent dels usuaris."
-    },
-    {
-      "title": "Trump amenaça amb un aranzel del 100% a la indústria vinícola francesa per la seva taxa tecnològica",
-      "link_id": "c_beab43",
-      "source": "Engadget",
-      "date": "2026-06-15",
-      "time": "10:48",
-      "summary": "Trump vol pressionar França amb impostos per protegir la indústria americana de la competència."
-    },
-    {
-      "title": "Com Apple fa que el teu iPhone antic sigui més ràpid i duri més temps",
-      "link_id": "c_e91853",
-      "source": "Wired",
-      "date": "2026-06-15",
-      "time": "10:30",
-      "summary": "Actualitzacions de programari i optimitzacions de maquinari fan que els iPhone antics siguin més àgils."
-    },
-    {
-      "title": "Un de cada quatre partits del Mundial podria jugar-se en temperatures perilloses",
-      "link_id": "c_20de7f",
-      "source": "Wired",
-      "date": "2026-06-15",
-      "time": "10:00",
-      "summary": "Les altes temperatures podrien afectar rendiment i seguretat dels jugadors i aficionats."
-    },
-    {
-      "title": "Una estafa de criptomonedes va atacar una estrella gay d'OnlyFans, i el seu feed de X es va inundar de propaganda ‘MAGA’",
-      "link_id": "c_e80964",
-      "source": "Wired",
-      "date": "2026-06-15",
-      "time": "10:00",
-      "summary": "L'estafa combina extorsió de criptomonedes amb propaganda política per manipular la víctima."
-    },
-    {
-      "title": "Meta va contractar un proveïdor del Pentagó per prototipar reconeixement facial per a les seves ulleres",
-      "link_id": "c_d0cdaa",
-      "source": "Wired",
-      "date": "2026-06-15",
-      "time": "09:00",
-      "summary": "Meta explora tecnologia facial per millorar la interacció amb les seves ulleres intel·ligents."
-    },
-    {
-      "title": "L'X-59 de la NASA assoleix fites de velocitat i altitud abans dels primers vols supersònics silenciosos",
-      "link_id": "c_489156",
-      "source": "Engadget",
-      "date": "2026-06-14",
-      "time": "22:06",
-      "summary": "L'X-59 demostra que els avions supersònics poden volar silenciosament, reduint l'impacte sonor."
-    },
-    {
-      "title": "El FBI va construir una petita ciutat per simular ciberatacs",
-      "link_id": "c_a99cd9",
+      "title": "Fox vol prendre el control del teu televisor i la tecnologia interna",
+      "link_id": "c_0dc1cc",
       "source": "The Verge",
-      "date": "2026-06-14",
-      "time": "16:35",
-      "summary": "La ciutat simulada permet entrenar professionals en defensa contra ciberamenaces reals."
+      "date": "2026-06-15",
+      "time": "18:04",
+      "summary": "Fox planeja integrar la tecnologia de Roku per dominar el mercat de streaming televisiu."
+    },
+    {
+      "title": "SpaceX supera Amazon mentre continua el seu repunte post-IPO",
+      "link_id": "c_e9b74d",
+      "source": "The Next Web",
+      "date": "2026-06-16",
+      "time": "11:14",
+      "summary": "SpaceX supera Amazon en valor de mercat, impulsant la seva posició entre les empreses més valuoses."
+    },
+    {
+      "title": "El Regne Unit anuncia la prohibició de xarxes socials per a menors de 16 anys",
+      "link_id": "c_f81619",
+      "source": "NYT Technology",
+      "date": "2026-06-16",
+      "time": "00:53",
+      "summary": "El govern prohibirà l'accés a TikTok, Instagram i altres per a joves abans de 2027."
+    },
+    {
+      "title": "El projecte Jupiter d'IA genera preocupació per l'ús d'aigua al desert de Nou Mèxic; Oracle la qualifica de negligible",
+      "link_id": "c_7974dc",
+      "source": "Tom's Hardware",
+      "date": "2026-06-16",
+      "time": "12:00",
+      "summary": "Oracle assegura que l'ús d'aigua del centre de dades és insignificant comparat amb el consum local."
+    },
+    {
+      "title": "La nova política de privacitat d'Anthropic ofereix als consumidors EUA una alternativa al bloqueig de Fable",
+      "link_id": "c_a59672",
+      "source": "Computerworld",
+      "date": "2026-06-16",
+      "time": "11:34",
+      "summary": "La política permet als usuaris EUA evitar les restriccions del model Fable mitjançant noves opcions de privacitat."
+    },
+    {
+      "title": "Chrome elimina l'últim recurs que mantenia actius els bloquejadors d'anuncis Manifest V2",
+      "link_id": "c_0cfc00",
+      "source": "Digital Trends",
+      "date": "2026-06-16",
+      "time": "05:56",
+      "summary": "Amb aquesta actualització, Chrome finalitza el suport als bloquejadors d'anuncis antics, millorant la seguretat."
+    },
+    {
+      "title": "El nou mode d'IA de Facebook obté informació de les publicacions públiques",
+      "link_id": "c_5d950e",
+      "source": "The Verge",
+      "date": "2026-06-15",
+      "time": "23:15",
+      "summary": "El mode d'IA busca respostes basades en contingut públic, canviant la manera de cercar a Facebook."
+    },
+    {
+      "title": "El 85% dels equips IT diuen que tots els agents d'IA estan controlats; només el 42% sap qui els gestiona",
+      "link_id": "c_488f92",
+      "source": "VentureBeat",
+      "date": "2026-06-15",
+      "time": "19:19",
+      "summary": "Malgrat el control aparent, la majoria de les empreses desconeixen la responsabilitat dels agents d'IA."
+    },
+    {
+      "title": "Les contractacions d'IA al Regne Unit augmenten mentre les empreses busquen cuidadors per als bots",
+      "link_id": "c_f98625",
+      "source": "The Register",
+      "date": "2026-06-15",
+      "time": "13:30",
+      "summary": "Les empreses contracten experts per supervisar i mantenir els sistemes d'IA, creant nous rols professionals."
     }
   ]
 }

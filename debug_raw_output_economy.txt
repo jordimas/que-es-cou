@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-06-15T12:00",
+  "generated_at": "2026-06-16T12:12",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "SpaceX guanya un 6% en el premercat després del debut rècord. Aquí què impulsa el debat de valoració",
+      "title": "Nvidia planeja recaptar almenys 20 mil milions de dòlars en la seva primera venda de deute des del començament del boom de la IA",
+      "link_id": "c_1f0c2c",
+      "source": "CNBC Technology",
+      "date": "2026-06-15",
+      "time": "22:56",
+      "summary": "Nvidia busca finançament massiu per expandir la seva presència en el sector d'intel·ligència artificial."
+    },
+    {
+      "title": "Les accions de SpaceX pujen per segon dia després del debut espectacular",
+      "link_id": "c_460c39",
+      "source": "Financial Times",
+      "date": "2026-06-15",
+      "time": "20:39",
+      "summary": "Les accions de SpaceX continuen pujant després del debut que supera les expectatives del mercat."
+    },
+    {
+      "title": "Les accions de SpaceX augmenten un 20% el primer dia complet de negociació després del debut rècord",
       "link_id": "c_304268",
       "source": "CNBC Technology",
       "date": "2026-06-15",
-      "time": "09:15",
-      "summary": "El valor de SpaceX puja després de la seva OPI, generant debat sobre la seva avaluació estratosfèrica."
+      "time": "20:37",
+      "summary": "SpaceX registra un augment del 20% en el seu primer dia complet de negociació, destacant l'interès dels inversors."
     },
     {
-      "title": "SoftBank puja més del 10% mentre l'acord Iran‑EE. impulsa les accions tecnològiques asiàtiques",
-      "link_id": "c_228f9e",
+      "title": "El fabricant de xips Nvidia busca recaptar més de 25 mil milions de dòlars en el seu primer emissió d’obligacions des del 2021",
+      "link_id": "c_7e35a5",
+      "source": "Financial Times",
+      "date": "2026-06-15",
+      "time": "18:22",
+      "summary": "Nvidia vol captar més de 25 mil milions per reforçar la seva posició en la carrera de la IA."
+    },
+    {
+      "title": "El CEO de Qualcomm afirma que els agents d'IA substituiran les aplicacions, mentre la companyia desenvolupa 40 nous dispositius impulsats per IA",
+      "link_id": "c_ed2d52",
+      "source": "CNBC Technology",
+      "date": "2026-06-16",
+      "time": "07:57",
+      "summary": "El CEO de Qualcomm preveu que els agents d'IA substituiran les apps, impulsant una nova era de dispositius intel·ligents."
+    },
+    {
+      "title": "Més articles per a la crisi de maquinari",
+      "link_id": "c_9b558c",
+      "source": "Financial Times",
+      "date": "2026-06-16",
+      "time": "05:43",
+      "summary": "La demanda de components de maquinari augmenta, provocant escassetat i pressió sobre els proveïdors."
+    },
+    {
+      "title": "La IA impulsa els guanys més grans mai vistos del capital privat",
+      "link_id": "c_7f10d8",
+      "source": "Financial Times",
+      "date": "2026-06-16",
+      "time": "04:00",
+      "summary": "La intel·ligència artificial genera guanys històrics per al capital privat, superant expectatives anteriors."
+    },
+    {
+      "title": "El campió europeu d'IA Mistral és vulnerable a la desinformació russa, segons un estudi",
+      "link_id": "c_5a4e31",
+      "source": "Financial Times",
+      "date": "2026-06-16",
+      "time": "04:00",
+      "summary": "Un estudi mostra que Mistral és objectiu de desinformació russa, amenaçant la seva reputació."
+    },
+    {
+      "title": "Les despeses d'OpenAI van arribar a 34 mil milions de dòlars l'any passat, abans de la seva OPI prevista",
+      "link_id": "c_3087e0",
+      "source": "Financial Times",
+      "date": "2026-06-16",
+      "time": "03:28",
+      "summary": "OpenAI va gastar 34 mil milions l'any passat, reflectint l'alt cost de desenvolupar IA a gran escala."
+    },
+    {
+      "title": "Salesforce compra la plataforma d'atenció al client Fin per 3,6 mil milions de dòlars per reforçar les ofertes d'IA",
+      "link_id": "c_13241f",
       "source": "CNBC Technology",
       "date": "2026-06-15",
-      "time": "07:35",
-      "summary": "L'acord entre Iran i EUA impulsa les tecnologies asiàtiques, fent que les accions de SoftBank disparin."
-    },
-    {
-      "title": "La start-up d'IA legal Legora duplicarà el seu personal",
-      "link_id": "c_df83ff",
-      "source": "Financial Times",
-      "date": "2026-06-15",
-      "time": "04:00",
-      "summary": "Legora, valorada en 5,6 mrd d'USD, busca expandir-se ràpidament per capitalitzar la demanda legal d'IA."
-    },
-    {
-      "title": "Els guanys d'eficiència de la IA comporten un alt cost energètic",
-      "link_id": "c_9ed5cd",
-      "source": "Financial Times",
-      "date": "2026-06-15",
-      "time": "04:00",
-      "summary": "Les millores d'eficiència de la IA redueixen residus, però augmenten el consum energètic global."
-    },
-    {
-      "title": "La IA és clau per accelerar el desenvolupament de tecnologies de bateries",
-      "link_id": "c_d482fe",
-      "source": "Financial Times",
-      "date": "2026-06-15",
-      "time": "04:00",
-      "summary": "La IA accelera el descobriment de materials per bateries, prometent càrregues més ràpides i durades més llargues."
-    },
-    {
-      "title": "Les entrevistes de treball es converteixen en proves d'IA",
-      "link_id": "c_8a3373",
-      "source": "Financial Times",
-      "date": "2026-06-15",
-      "time": "03:00",
-      "summary": "Les empreses avaluen com els candidats utilitzen eines d'IA, transformant les entrevistes en proves tecnològiques."
-    },
-    {
-      "title": "Anthropic es reacciona després que l'administració Trump congeli els seus principals models d'IA",
-      "link_id": "c_73c1c7",
-      "source": "Financial Times",
-      "date": "2026-06-14",
-      "time": "23:43",
-      "summary": "Les restriccions nord-americanes limiten l'accés a Fable i Mythos, generant incertesa per a Anthropic."
-    },
-    {
-      "title": "Un any després que Meta contractés Alexandr Wang per crear un nou model d'IA, Zuckerberg ha de vendre'l",
-      "link_id": "c_1a1a52",
-      "source": "CNBC Technology",
-      "date": "2026-06-14",
-      "time": "15:02",
-      "summary": "Després d'un any d'inversió massiva, Zuckerberg busca recuperar costos venent el model d'IA de Meta."
-    },
-    {
-      "title": "Una qualitat serà la més demandada pels cercadors d'ocupació en l'era de la IA, segons Siu",
-      "link_id": "c_fb7986",
-      "source": "CNBC Technology",
-      "date": "2026-06-14",
-      "time": "14:03",
-      "summary": "Segons Siu, la capacitat d'adaptació serà la competència clau en el mercat laboral impulsat per IA."
-    },
-    {
-      "title": "«Pot una màquina fer aquesta feina?» és la pregunta equivocada",
-      "link_id": "c_b99167",
-      "source": "Financial Times",
-      "date": "2026-06-14",
-      "time": "12:00",
-      "summary": "La pregunta real és com la IA pot complementar, no substituir, les tasques humanes."
+      "time": "18:06",
+      "summary": "Salesforce adquireix Fin per ampliar les seves solucions d'atenció al client basades en IA."
     }
   ]
 }
