@@ -1,114 +1,119 @@
 {
-  "generated_at": "2026-06-16T10:12",
+  "generated_at": "2026-06-17T11:00",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
     {
-      "name": "El Periódico",
-      "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
+      "name": "MetaData",
+      "url": "https://www.metadata.cat/sindica",
       "articles_found": 3
-    },
-    {
-      "name": "324.cat",
-      "url": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0",
-      "articles_found": 1
     },
     {
       "name": "Ara.cat",
       "url": "https://www.ara.cat/rss/",
-      "articles_found": 3
-    },
-    {
-      "name": "MetaData",
-      "url": "https://www.metadata.cat/sindica",
       "articles_found": 2
     },
     {
-      "name": "El Nacional",
-      "url": "https://www.elnacional.cat/uploads/feeds/feed_ca.xml",
+      "name": "VilaWeb",
+      "url": "https://www.vilaweb.cat/feed/",
       "articles_found": 1
+    },
+    {
+      "name": "IB3 Notícies",
+      "url": "https://ib3.org/feed/",
+      "articles_found": 1
+    },
+    {
+      "name": "Cugat.cat",
+      "url": "https://www.cugat.cat/feed/",
+      "articles_found": 1
+    },
+    {
+      "name": "La Vanguardia (en català)",
+      "url": "https://www.lavanguardia.com/rss/encatala.xml",
+      "articles_found": 2
     }
   ],
   "articles": [
     {
-      "title": "El Govern aprovarà aquest dimarts la inversió de 719 milions d’euros per impulsar la gigafactoria europea d’IA a Tarragona",
-      "link_id": "c_800102",
-      "source": "El Periódico",
+      "title": "Catalunya fa un pas més per acollir una de les grans gigafactories europees d’intel·ligència artificial",
+      "link_id": "c_acba84",
+      "source": "MetaData",
       "date": "2026-06-16",
-      "time": "10:22",
-      "summary": "El govern impulsa una gigafàbrica d'IA a Tarragona, prometent milers de llocs de treball i lideratge europeu."
+      "time": "16:20",
+      "summary": "El Govern impulsa una gigafàbrica d'IA a Móra la Nova, reforçant la sobirania tecnològica catalana."
     },
     {
-      "title": "La UE obligarà les aerolínies a incloure el preu de la maleta de mà a l'inici de cada reserva",
-      "link_id": "c_c075e9",
-      "source": "324.cat",
-      "date": "2026-06-15",
-      "time": "21:21",
-      "summary": "La UE obliga les aerolínies a mostrar el preu de la maleta de mà des del primer clic, augmentant transparència."
+      "title": "La presència digital del català guanya terreny amb l’arribada als televisors Samsung",
+      "link_id": "c_faf8e0",
+      "source": "MetaData",
+      "date": "2026-06-17",
+      "time": "10:20",
+      "summary": "Samsung incorpora el català als menús dels seus Smart TV, ampliant l’accessibilitat digital per a consumidors locals."
     },
     {
-      "title": "Què en sabem, de l'acord entre els Estats Units i l'Iran, i quines són les grans incògnites?",
-      "link_id": "c_dc048e",
-      "source": "Ara.cat",
-      "date": "2026-06-15",
-      "time": "15:20",
-      "summary": "Analitza l'acord EE.UU.-Iran, destacant incerteses que podrien prolongar el conflicte i impactar l'estabilitat global."
+      "title": "Catalunya accelera l’aposta pels centres de dades per consolidar-se com a hub digital del sud d’Europa",
+      "link_id": "c_2a14a7",
+      "source": "MetaData",
+      "date": "2026-06-16",
+      "time": "12:25",
+      "summary": "Catalunya aposta per centres de dades com a infraestructura clau per al creixement de la IA i la competitivitat."
     },
     {
       "title": "Les renovables rebaixen 10 € el rebut dels espanyols durant la crisi energètica",
       "link_id": "c_8a23b0",
       "source": "Ara.cat",
       "date": "2026-06-16",
-      "time": "05:00",
-      "summary": "Estudi mostra que les renovables han reduït 10 € al rebut de llum dels espanyols, alleujant la crisi energètica."
+      "time": "07:00",
+      "summary": "Les renovables permeten als espanyols estalviar 10 € al rebut de la llum, alleujant la crisi energètica."
     },
     {
-      "title": "El Regne Unit prohibirà l'accés a les xarxes socials als menors de 16 anys",
-      "link_id": "c_1c9bcf",
+      "title": "Abans dels 14 anys, més del 86% dels joves estan registrats almenys a una xarxa social",
+      "link_id": "c_2f32c0",
       "source": "Ara.cat",
-      "date": "2026-06-15",
-      "time": "07:34",
-      "summary": "El Regne Unit prohibirà l'accés a xarxes socials per a menors de 16 anys, buscant protegir la salut mental juvenil."
+      "date": "2026-06-12",
+      "time": "12:04",
+      "summary": "Un estudi revela que el 86 % dels joves sota 14 ja són actius a xarxes socials, plantejant riscos digitals."
     },
     {
-      "title": "Els adolescents catalans viuen més connectats que mai: augmenten l’ansietat i la violència digital",
-      "link_id": "c_d4e18e",
-      "source": "MetaData",
-      "date": "2026-06-15",
-      "time": "10:50",
-      "summary": "Informe revela que el 93% dels adolescents catalans són hiperconnectats, incrementant ansietat i violència digital."
-    },
-    {
-      "title": "La IA troba infeccions crítiques abans que els metges i aconsegueix salvar 900 vides",
-      "link_id": "c_b44be5",
-      "source": "El Nacional",
+      "title": "Així és com el Regne Unit vol prohibir les xarxes socials als joves",
+      "link_id": "c_073cd9",
+      "source": "VilaWeb",
       "date": "2026-06-16",
-      "time": "10:16",
-      "summary": "Un sistema d'IA detecta sepsis precoç, salvant 900 vides a Tampa i mostrant potencial global."
+      "time": "21:40",
+      "summary": "El Regne Unit proposa prohibir les xarxes socials a menors de 16 anys, una mesura que podria inspirar regulacions europees."
     },
     {
-      "title": "Una conversa amb el cap d’Amazon va portar els Estats Units a vetar la IA més avançada d’Anthropic",
-      "link_id": "c_f6218d",
-      "source": "El Periódico",
-      "date": "2026-06-15",
-      "time": "10:57",
-      "summary": "EE.UU. vetan models avançats d'Anthropic, generant debat sobre seguretat nacional i limitacions d'IA."
+      "title": "Retards i desviaments a l’aeroport d’Eivissa per la presència d’un dron",
+      "link_id": "c_5f435e",
+      "source": "IB3 Notícies",
+      "date": "2026-06-16",
+      "time": "16:43",
+      "summary": "Un dron a l’aeroport d’Eivissa causa retards i desviaments, evidenciant vulnerabilitats en la gestió aèria."
     },
     {
-      "title": "Les millors aplicacions d’IA per al teu dia a dia",
-      "link_id": "c_e3fea4",
-      "source": "El Periódico",
-      "date": "2026-06-14",
-      "time": "06:00",
-      "summary": "Descobreix les aplicacions d'IA més útils per al dia a dia, des de productivitat fins a creativitat."
+      "title": "Les dutxes i la piscina del Complex Esportiu de Valldoreix, tancades temporalment per risc de legionel·la",
+      "link_id": "c_0a5c49",
+      "source": "Cugat.cat",
+      "date": "2026-06-17",
+      "time": "10:09",
+      "summary": "Les dutxes i la piscina del Complex Esportiu de Valldoreix es tanquen per risc de legionel·la, protegint la salut pública."
     },
     {
-      "title": "Barcelona es reivindica com la capital europea de la intel·ligència artificial",
-      "link_id": "c_3237ee",
-      "source": "MetaData",
-      "date": "2026-06-15",
-      "time": "17:18",
-      "summary": "Barcelona es posiciona com a capital europea d'IA, atraient inversions de 11.000 milions d'euros."
+      "title": "L'impacte de la IA en la investigació és superior al de la seqüenciació del genoma",
+      "link_id": "c_f57a1e",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-06-17",
+      "time": "10:07",
+      "summary": "La IA supera la seqüenciació del genoma en impacte investigatiu, accelerant descobriments en biomedicina."
+    },
+    {
+      "title": "Prova pilot de càmeres amb IA per detectar incendis a Collserola",
+      "link_id": "c_a4cd2b",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-06-17",
+      "time": "09:26",
+      "summary": "Càmeres pilot amb IA a Collserola detecten incendis en 30 segons, millorant la resposta d’emergència."
     }
   ]
 }

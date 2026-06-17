@@ -1,16 +1,24 @@
 {
-  "generated_at": "2026-06-16T10:12",
+  "generated_at": "2026-06-17T09:52",
   "id": "podcasts",
   "title": "Podcasts en català sobre tecnologia",
   "sources_checked": [],
   "articles": [
     {
-      "title": "L' Altra Ràdio - Radioafició: centenari Gaudí, curs a l'EETAC de Castelldefels i fira Friedrichshafen",
-      "link_id": "c_12d5c3",
+      "title": "La nova llei de la IA i anècdotes de viatges – Programa 667",
+      "link_id": "c_9ec3ca",
+      "source": "Mossega le poma",
+      "date": "2026-06-13",
+      "time": "09:42",
+      "summary": "Debat sobre la nova normativa europea d'IA i anècdotes de viatge tecnològic."
+    },
+    {
+      "title": "L' Altra Ràdio - Radioafició: centenari Gaudí, curs a l'EETCS de Castelldefels i fira Friedrichshafen",
+      "link_id": "c_12d5b",
       "source": "L'altra ràdio",
       "date": "2026-06-11",
       "time": "07:33",
-      "summary": "Exploren el centenari de Gaudí i un curs d'operador radioaficionat, destacant l'indicatiu especial EH100AG."
+      "summary": "Commemoració del centenari de Gaudí i formació en radioafició a l'EETAC."
     },
     {
       "title": "L'altra ràdio – Nou ordinador quàntic al Barcelona Supercomputing Center",
@@ -18,23 +26,31 @@
       "source": "L'altra ràdio",
       "date": "2026-06-04",
       "time": "15:58",
-      "summary": "Presenten l'EuroQCS‑Spain, tercer ordinador quàntic al BSC, impulsant el projecte MareNostrum 5."
+      "summary": "Presentació del superordinador quàntic EuroCS-Spain al BSC, impulsant la recerca."
     },
     {
-      "title": "El gòTIC - Tenim una missió! del 10/6/2026",
+      "title": "El gòTICH - Tenim una missió! del 17/06/2026",
+           "link_id": "c_a5d8ec",
+      "source": "El Gòtic",
+      "date": "2026-06-16",
+      "time": "16:29",
+      "summary": "Iniciatives digitals per a la ciutadania, enfocades a la transformació tecnològica."
+    },
+    {
+      "title": "El gòTICH - Tenim una missió! del 10/6/2026",
       "link_id": "c_4849bb",
       "source": "El Gòtic",
       "date": "2026-06-09",
       "time": "16:30",
-      "summary": "El gòTIC comparteix recursos digitals per a la ciutadania, amb una missió del 10 de juny."
+      "summary": "Recursos i estratègies per afrontar reptes digitals de la comunitat local."
     },
     {
-      "title": "El gòTIC - Tenim una missió! del 3/6/2026",
+      "title": "El gòTICH - Tenim una missió! del 3/6/2026",
       "link_id": "c_1d3e0a",
       "source": "El Gòtic",
       "date": "2026-06-02",
       "time": "16:29",
-      "summary": "Segona entrega del gòTIC, enfocada a la missió del 3 de juny, reforça l'educació digital."
+      "summary": "Compartim solucions tecnològiques per a la ciutadania digital del Tàrrega."
     },
     {
       "title": "Una comissió parlamentària dóna suport a l’aixecament de la immunitat d’un eurodiputat involucrat en el Huawei-Gate",
@@ -42,31 +58,7 @@
       "source": "Societat de la Informació",
       "date": "2026-06-05",
       "time": "11:50",
-      "summary": "Comissió europea avala l'aixecament d'immunitat d'un eurodiputat relacionat amb el cas Huawei‑Gate."
-    },
-    {
-      "title": "Les paraules de Lleó XIV sobre la IA, la selectivitat i educació abans i després de ChatGPT",
-      "link_id": "c_7647f7",
-      "source": "Internet amb Genís Roca",
-      "date": "2026-06-06",
-      "time": "19:34",
-      "summary": "Lleó XIV reflexiona sobre IA, selectivitat i educació, comparant èpoques abans i després de ChatGPT."
-    },
-    {
-      "title": "Ja no mosseguem la poma",
-      "link_id": "c_4ee64a",
-      "source": "Foc a Terra",
-      "date": "2026-06-15",
-      "time": "04:00",
-      "summary": "Analitzen les novetats de la WWDC, incloent controls parentals i l'arribada de Siri AI."
-    },
-    {
-      "title": "A clor obert, amb Anna Tarrés",
-      "link_id": "c_93c8cc",
-      "source": "Foc a Terra",
-      "date": "2026-06-08",
-      "time": "04:00",
-      "summary": "Entrevista amb Anna Tarrés sobre la transformació de la natació sincronitzada en esport de masses."
+      "summary": "Investigació sobre la influència de Huawei en el 5G europeu i la immunitat parlamentària."
     },
     {
       "title": "Porta la teva comunitat local al xat mundial!",
@@ -74,15 +66,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-06-16",
       "time": "00:00",
-      "summary": "WordPress impulsa la connexió global de comunitats locals via Slack, fomentant col·laboració internacional."
-    },
-    {
-      "title": "WordPress fa 23 anys",
-      "link_id": "c_74ae56",
-      "source": "WordPress Pòdcast",
-      "date": "2026-06-02",
-      "time": "00:00",
-      "summary": "Celebració dels 23 anys de WordPress, recordant el llançament de la versió 0.70 el 27 de març."
+      "summary": "Integració de comunitats locals a Slack global per potenciar col·laboració WordPress."
     },
     {
       "title": "Capítol 67: Digue’m com camines i et diré quina malaltia pots tenir",
@@ -90,15 +74,23 @@
       "source": "RAC&GO",
       "date": "2026-06-16",
       "time": "06:21",
-      "summary": "Exploren com sensors i IA poden predir malalties a partir de la manera de caminar."
+      "summary": "Estudi de la marxa humana amb IA per predir malalties neurològiques i musculars."
     },
     {
-      "title": "Capítol 66: Un mòbil sense coloraines que no t'enganxi hores i hores",
-      "link_id": "c_43141f",
-      "source": "RAC&GO",
-      "date": "2026-06-02",
-      "time": "06:00",
-      "summary": "Presenten un telèfon sense xarxes socials, dissenyat per reduir l'addicció a les aplicacions."
+      "title": "Ja no mosseguem la poma",
+      "link_id": "c_4ee64a",
+      "source": "Foc a Terra",
+      "date": "2026-06-15",
+      "time": "04:00",
+      "summary": "Anàlisi de novetats a la WWDC, incloent controls parentals i Siri AI."
+    },
+    {
+      "title": "A clor Obert, amb Anna Tarrés",
+      "link_id": "c_93c8cc",
+      "source": "Foc a Terra",
+      "date": "2026-06-08",
+      "time": "04:00",
+      "summary": "Entrevista a Anna Tarrés sobre la transformació de la natació sincronitzada."
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T10:12",
+  "generated_at": "2026-06-17T09:52",
   "id": "events",
   "title": "Trobades",
   "sources_checked": [],
@@ -10,15 +10,23 @@
       "source": "WordPress BCN",
       "date": "2026-06-11",
       "time": "16:43",
-      "summary": "Descobreix com combinar GeoDirectory, UsersWP i Elementor per crear un directori empresarial amb accés restringit i confidencialitat."
+      "summary": "Aprèn a crear i ampliar un directori d’empreses amb Elementor i plugins especialitzats."
     },
     {
-      "title": "Building Inclusive AI Experiences with Sign Language and GenAI",
-      "link_id": "c_718960",
-      "source": "GDG Barcelona",
-      "date": "2026-06-04",
-      "time": "14:32",
-      "summary": "Explora com la visió per computador i GenAI permeten apps que tradueixen llenguatge de signes en temps real a tothom."
+      "title": "Kaggle 5-Day AI Agents Intensive DAY 3 with Claude",
+      "link_id": "c_bcb3f9",
+      "source": "AI Professionals Barcelona",
+      "date": "2026-06-16",
+      "time": "23:48",
+      "summary": "Interpretació de Kaggle dia 3 amb Claude, enfocada a aplicacions empresarials d’IA."
+    },
+    {
+      "title": "Kaggle 5-Day AI Agents Intensive DAY 4 with Claude",
+      "link_id": "c_5f0906",
+      "source": "AI Professionals Barcelona",
+      "date": "2026-06-17",
+      "time": "03:20",
+      "summary": "Segona sessió del intensiu Kaggle, Claude mostra estratègies d’IA per negocis."
     },
     {
       "title": "Networking for AI Professionals around the world - July 7",
@@ -26,7 +34,7 @@
       "source": "AI Professionals Barcelona",
       "date": "2026-06-03",
       "time": "16:50",
-      "summary": "Reuneix professionals d'IA de tot el món en sessions petites per compartir experiències i oportunitats en línia."
+      "summary": "Sessió gratuïta en línia per connectar professionals d’IA a nivell global."
     },
     {
       "title": "Networking for AI Professionals around the world - August 13",
@@ -34,7 +42,7 @@
       "source": "AI Professionals Barcelona",
       "date": "2026-06-03",
       "time": "18:11",
-      "summary": "Connecta't amb experts en IA i ciència de dades en grups de debat per impulsar col·laboracions internacionals."
+      "summary": "Nou esdeveniment virtual per ampliar xarxes i col·laboracions entre experts d’IA."
     }
   ]
 }
