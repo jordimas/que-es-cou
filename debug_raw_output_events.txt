@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T09:52",
+  "generated_at": "2026-06-18T09:18",
   "id": "events",
   "title": "Trobades",
   "sources_checked": [],
@@ -10,15 +10,15 @@
       "source": "WordPress BCN",
       "date": "2026-06-11",
       "time": "16:43",
-      "summary": "Aprèn a crear i ampliar un directori d’empreses amb Elementor i plugins especialitzats."
+      "summary": "Descobreix com integrar GeoDirectory i UsersWP per crear un catàleg empresarial amb accés restringit."
     },
     {
-      "title": "Kaggle 5-Day AI Agents Intensive DAY 3 with Claude",
-      "link_id": "c_bcb3f9",
-      "source": "AI Professionals Barcelona",
-      "date": "2026-06-16",
-      "time": "23:48",
-      "summary": "Interpretació de Kaggle dia 3 amb Claude, enfocada a aplicacions empresarials d’IA."
+      "title": "Montar un directorio de empresas en WordPress, caso real",
+      "link_id": "c_5aeaa6",
+      "source": "WordPress BCN",
+      "date": "2026-06-17",
+      "time": "15:42",
+      "summary": "Aprèn a ampliar el directori amb funcionalitats avançades i acords de confidencialitat per clients."
     },
     {
       "title": "Kaggle 5-Day AI Agents Intensive DAY 4 with Claude",
@@ -26,7 +26,15 @@
       "source": "AI Professionals Barcelona",
       "date": "2026-06-17",
       "time": "03:20",
-      "summary": "Segona sessió del intensiu Kaggle, Claude mostra estratègies d’IA per negocis."
+      "summary": "Explora aplicacions pràctiques d'agents IA en negocis, amb exemples i consells de Claude."
+    },
+    {
+      "title": "Kaggle 5-Day AI Agents Intensive DAY 5 with Claude",
+      "link_id": "c_c6a235",
+      "source": "AI Professionals Barcelona",
+      "date": "2026-06-18",
+      "time": "07:40",
+      "summary": "Descobreix les últimes tècniques d'IA per a agents, enfocades a solucions empresarials."
     },
     {
       "title": "Networking for AI Professionals around the world - July 7",
@@ -34,7 +42,7 @@
       "source": "AI Professionals Barcelona",
       "date": "2026-06-03",
       "time": "16:50",
-      "summary": "Sessió gratuïta en línia per connectar professionals d’IA a nivell global."
+      "summary": "Connecta amb experts globals d'IA en sessions petites per compartir projectes i oportunitats."
     },
     {
       "title": "Networking for AI Professionals around the world - August 13",
@@ -42,7 +50,7 @@
       "source": "AI Professionals Barcelona",
       "date": "2026-06-03",
       "time": "18:11",
-      "summary": "Nou esdeveniment virtual per ampliar xarxes i col·laboracions entre experts d’IA."
+      "summary": "Participa en trobades virtuals per ampliar la teva xarxa i col·laborar en iniciatives IA."
     }
   ]
 }

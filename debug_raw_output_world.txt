@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-06-17T11:52",
+  "generated_at": "2026-06-18T12:00",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Snap finalment llança les esperades ulleres AR, Specs, i, uf, no són barates",
-      "link_id": "c_f168d6",
-      "source": "TechCrunch",
-      "date": "2026-06-16",
-      "time": "17:00",
-      "summary": "Les noves ulleres augmentades Specs de Snap arriben amb disseny sofisticat però preu elevat per al consumidor."
-    },
-    {
-      "title": "Android 17 es llança amb noves eines de multitarea mentre Google amplia les funcions Gemini",
-      "link_id": "c_8ccb23",
-      "source": "TechCrunch",
-      "date": "2026-06-16",
-      "time": "18:00",
-      "summary": "Google introdueix Android 17 amb finestres flotants i millores de seguretat per a dispositius Pixel."
-    },
-    {
-      "title": "Quan començarà la prohibició de xarxes socials i quines aplicacions s'afectaran?",
-      "link_id": "c_6597e8",
-      "source": "BBC Technology",
-      "date": "2026-06-16",
-      "time": "10:58",
-      "summary": "Les mesures prohibiran TikTok i Snapchat per a menors de 16 anys a principis de 2027."
-    },
-    {
-      "title": "SpaceX adquireix Cursor per 60.000 milions de dòlars en accions, dies després de l'IPO",
-      "link_id": "c_c8ae53",
-      "source": "TechCrunch",
-      "date": "2026-06-16",
-      "time": "11:21",
-      "summary": "SpaceX compra l'startup d'IA per reforçar les seves capacitats de programació automàtica."
-    },
-    {
-      "title": "SpaceX supera Amazon i es converteix en la cinquena empresa més valuosa del món",
-      "link_id": "c_9977f5",
-      "source": "The Guardian Tech",
-      "date": "2026-06-16",
-      "time": "18:37",
-      "summary": "Després de l'IPO, SpaceX supera Amazon en valoració, situant-se al cinquè lloc global."
-    },
-    {
-      "title": "Apple planeja AirPods amb càmeres per al 2027",
-      "link_id": "c_156cd3",
-      "source": "CNET",
-      "date": "2026-06-16",
-      "time": "23:43",
-      "summary": "Apple desenvoluparà AirPods amb càmeres integrades per millorar la interacció amb Siri."
-    },
-    {
-      "title": "El nou xip Snapdragon Reality Elite de Qualcomm apunta a ulleres intel·ligents més potents",
-      "link_id": "c_b583c6",
+      "title": "Tim Cook afirma que les despeses de RAM són 'insostenibles' i Apple pujarà els preus",
+      "link_id": "c_015fbc",
       "source": "The Verge",
-      "date": "2026-06-16",
-      "time": "17:00",
-      "summary": "Qualcomm llança un xip avançat per a ulleres de realitat augmentada amb IA millorada."
+      "date": "2026-06-17",
+      "time": "21:42",
+      "summary": "Tim Cook admet que l'augment del cost de la memòria obliga Apple a pujar els preus dels dispositius."
     },
     {
-      "title": "Qualcomm podria adquirir Tenstorrent, valorant l'empresa entre 8 i 10 mil milions de dòlars",
-      "link_id": "c_9a9bff",
-      "source": "Tom's Hardware",
-      "date": "2026-06-16",
-      "time": "12:48",
-      "summary": "Qualcomm estudia comprar l'empresa d'IA Tenstorrent per reforçar el seu portafoli de xips."
+      "title": "EUA activen el 'kill-switch' dels models d'IA Fable 5 d'Anthropic, provocant caos entre aliats globals",
+      "link_id": "c_a2d05e",
+      "source": "Wired",
+      "date": "2026-06-18",
+      "time": "06:00",
+      "summary": "Els Estats Units imposen un 'kill-switch' a Anthropic, bloquejant l'accés internacional al model Fable 5."
     },
     {
-      "title": "Intel llança la producció de risc del procés 18A-P amb un augment del 9% de rendiment",
-      "link_id": "c_6969f3",
-      "source": "Tom's Hardware",
-      "date": "2026-06-16",
-      "time": "21:00",
-      "summary": "El nou procés 18A-P d'Intel promet millores de rendiment i eficiència energètica."
+      "title": "Midjourney passa de generar imatges de gats a escàners d'ultrasons de cos complet",
+      "link_id": "c_4b1d01",
+      "source": "The Verge",
+      "date": "2026-06-18",
+      "time": "03:12",
+      "summary": "Midjourney llança un escàner d'ultrasons corporal, ampliant la seva tecnologia d'imatges generades per IA."
     },
     {
-      "title": "Apple anuncia iPhone del 20è aniversari en dues mides",
-      "link_id": "c_6326a1",
-      "source": "CNET",
-      "date": "2026-06-16",
-      "time": "20:41",
-      "summary": "Apple presentarà una edició especial de l'iPhone amb pantalla completa i xip A21."
+      "title": "El co-líder de Gemini abandona Google per unir-se a OpenAI",
+      "link_id": "c_116bb5",
+      "source": "9to5Google",
+      "date": "2026-06-18",
+      "time": "01:45",
+      "summary": "Noam Shazeer, co-líder de Gemini, abandona Google per unir-se a OpenAI, reforçant la competència en IA."
+    },
+    {
+      "title": "Android 17 es llança, però manca la funció que més esperava",
+      "link_id": "c_82ddd2",
+      "source": "Android Authority",
+      "date": "2026-06-18",
+      "time": "09:00",
+      "summary": "Android 17 es desplega, però manca la funció clau esperada pels usuaris, generant decepció."
+    },
+    {
+      "title": "Trump afirma que Apple fabricará xips amb Intel als EUA",
+      "link_id": "c_9595f9",
+      "source": "The Next Web",
+      "date": "2026-06-18",
+      "time": "07:45",
+      "summary": "Donald Trump anuncia que Apple col·laborarà amb Intel per fabricar xips als Estats Units."
+    },
+    {
+      "title": "La NASA escull l'empresa de coets d'Eric Schmidt per a una missió a Mart, iniciant una cursa amb SpaceX",
+      "link_id": "c_3b7d03",
+      "source": "TechCrunch",
+      "date": "2026-06-18",
+      "time": "06:26",
+      "summary": "NASA selecciona la companyia d'Eric Schmidt per a una missió a Mart, rivalitzant amb SpaceX."
+    },
+    {
+      "title": "Gemini per Android utilitza Bubbles per permetre multitarea i continuar xats",
+      "link_id": "c_35164b",
+      "source": "9to5Google",
+      "date": "2026-06-18",
+      "time": "02:16",
+      "summary": "Google introdueix Bubbles a Gemini, permetent multitarea i seguiment de converses en Android."
+    },
+    {
+      "title": "Com desactivar l'IA al teu Google Docs",
+      "link_id": "c_486a5a",
+      "source": "TechCrunch",
+      "date": "2026-06-18",
+      "time": "01:23",
+      "summary": "Google Docs ofereix una opció per desactivar les funcions d'IA 'Write with Gemini'."
+    },
+    {
+      "title": "Google ha finalitzat la producció del Nest Mini i Nest Audio, discontinuant ambdós altaveus",
+      "link_id": "c_783212",
+      "source": "Android Authority",
+      "date": "2026-06-17",
+      "time": "21:17",
+      "summary": "Google anuncia la fi de producció dels altaveus Nest Mini i Nest Audio, marcant el seu final."
     }
   ]
 }

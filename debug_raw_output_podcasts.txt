@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-06-17T09:52",
+  "generated_at": "2026-06-18T10:00",
   "id": "podcasts",
   "title": "Podcasts en català sobre tecnologia",
   "sources_checked": [],
   "articles": [
     {
-      "title": "La nova llei de la IA i anècdotes de viatges – Programa 667",
+      "title": "La nova llei de la UE respecte a la IA i anècdotes de viatges – Programa 667",
       "link_id": "c_9ec3ca",
-      "source": "Mossega le poma",
+      "source": "Mossega la poma",
       "date": "2026-06-13",
       "time": "09:42",
-      "summary": "Debat sobre la nova normativa europea d'IA i anècdotes de viatge tecnològic."
+      "summary": "Debat sobre la nova llei europea d'IA i anècdotes de viatges tecnològics."
     },
     {
-      "title": "L' Altra Ràdio - Radioafició: centenari Gaudí, curs a l'EETCS de Castelldefels i fira Friedrichshafen",
-      "link_id": "c_12d5b",
+      "title": "L' Altra Ràdio - Radioafició: centenari Gaudí, curs a l'EETAC de Castelldefels i fira Friedrichshafen",
+      "link_id": "c_12d5c3",
       "source": "L'altra ràdio",
       "date": "2026-06-11",
       "time": "07:33",
-      "summary": "Commemoració del centenari de Gaudí i formació en radioafició a l'EETAC."
+      "summary": "Cobertura del centenari de Gaudí i novetats en radioafició i fira tecnològica."
     },
     {
       "title": "L'altra ràdio – Nou ordinador quàntic al Barcelona Supercomputing Center",
@@ -26,31 +26,23 @@
       "source": "L'altra ràdio",
       "date": "2026-06-04",
       "time": "15:58",
-      "summary": "Presentació del superordinador quàntic EuroCS-Spain al BSC, impulsant la recerca."
+      "summary": "Presentació del tercer ordinador quàntic al BSC i impacte en el superordinador MareNostrum."
     },
     {
-      "title": "El gòTICH - Tenim una missió! del 17/06/2026",
-           "link_id": "c_a5d8ec",
+      "title": "El gòTIC - Tenim una missió! del 17/6/2026",
+      "link_id": "c_a5d8ec",
       "source": "El Gòtic",
       "date": "2026-06-16",
       "time": "16:29",
-      "summary": "Iniciatives digitals per a la ciutadania, enfocades a la transformació tecnològica."
+      "summary": "Recursos digitals per a la ciutadania, enfocats a desafiaments tecnològics actuals."
     },
     {
-      "title": "El gòTICH - Tenim una missió! del 10/6/2026",
+      "title": "El gòTIC - Tenim una missió! del 10/6/2026",
       "link_id": "c_4849bb",
       "source": "El Gòtic",
       "date": "2026-06-09",
       "time": "16:30",
-      "summary": "Recursos i estratègies per afrontar reptes digitals de la comunitat local."
-    },
-    {
-      "title": "El gòTICH - Tenim una missió! del 3/6/2026",
-      "link_id": "c_1d3e0a",
-      "source": "El Gòtic",
-      "date": "2026-06-02",
-      "time": "16:29",
-      "summary": "Compartim solucions tecnològiques per a la ciutadania digital del Tàrrega."
+      "summary": "Estratègies per a la transformació digital ciutadana i solucions innovadores."
     },
     {
       "title": "Una comissió parlamentària dóna suport a l’aixecament de la immunitat d’un eurodiputat involucrat en el Huawei-Gate",
@@ -58,23 +50,15 @@
       "source": "Societat de la Informació",
       "date": "2026-06-05",
       "time": "11:50",
-      "summary": "Investigació sobre la influència de Huawei en el 5G europeu i la immunitat parlamentària."
+      "summary": "Anàlisi de la decisió parlamentària sobre la immunitat d'un eurodiputat relacionat amb Huawei."
     },
     {
-      "title": "Porta la teva comunitat local al xat mundial!",
-      "link_id": "c_5a8be2",
-      "source": "WordPress Pòdcast",
-      "date": "2026-06-16",
-      "time": "00:00",
-      "summary": "Integració de comunitats locals a Slack global per potenciar col·laboració WordPress."
-    },
-    {
-      "title": "Capítol 67: Digue’m com camines i et diré quina malaltia pots tenir",
-      "link_id": "c_fc168d",
-      "source": "RAC&GO",
-      "date": "2026-06-16",
-      "time": "06:21",
-      "summary": "Estudi de la marxa humana amb IA per predir malalties neurològiques i musculars."
+      "title": "Les paraules de Lleó XIV sobre la IA, la selectivitat i educació abans i després de ChatGPT",
+      "link_id": "c_7647f7",
+      "source": "Internet amb Genís Roca",
+      "date": "2026-06-06",
+      "time": "19:34",
+      "summary": "Reflexió sobre IA, selectivitat i educació comparant perspectives històriques i actuals."
     },
     {
       "title": "Ja no mosseguem la poma",
@@ -82,15 +66,31 @@
       "source": "Foc a Terra",
       "date": "2026-06-15",
       "time": "04:00",
-      "summary": "Anàlisi de novetats a la WWDC, incloent controls parentals i Siri AI."
+      "summary": "Novetats de la WWDC, controls parentals i evolució d'Apple Intelligence."
     },
     {
-      "title": "A clor Obert, amb Anna Tarrés",
+      "title": "A clor obert, amb Anna Tarrés",
       "link_id": "c_93c8cc",
       "source": "Foc a Terra",
       "date": "2026-06-08",
       "time": "04:00",
-      "summary": "Entrevista a Anna Tarrés sobre la transformació de la natació sincronitzada."
+      "summary": "Entrevista a Anna Tarrés sobre la transformació de la natació sincronitzada a esport de masses."
+    },
+    {
+      "title": "Porta la teva comunitat local al xat mundial!",
+      "link_id": "c_5a8be2",
+      "source": "WordPress Pòdcast",
+      "date": "2026-06-16",
+      "time": "00:00",
+      "summary": "Integració de comunitats locals a Slack global per potenciar la col·laboració WordPress."
+    },
+    {
+      "title": "Capítol 67: Digue’m com camines i et diré quina malaltia pots tenir",
+      "link_id": "c_fc168d",
+      "source": "RAC&GO",
+      "date": "2026-06-16",
+      "time": "06:21",
+      "summary": "Tecnologia de sensors i IA per predir malalties a partir de la manera de caminar."
     }
   ]
 }

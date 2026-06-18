@@ -1,111 +1,73 @@
 {
-  "generated_at": "2026-06-17T11:00",
+  "generated_at": "2026-06-18T09:30",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
     {
-      "name": "MetaData",
-      "url": "https://www.metadata.cat/sindica",
-      "articles_found": 3
+      "name": "El Periódico",
+      "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
+      "articles_found": 1
     },
     {
       "name": "Ara.cat",
       "url": "https://www.ara.cat/rss/",
-      "articles_found": 2
-    },
-    {
-      "name": "VilaWeb",
-      "url": "https://www.vilaweb.cat/feed/",
       "articles_found": 1
     },
     {
-      "name": "IB3 Notícies",
-      "url": "https://ib3.org/feed/",
-      "articles_found": 1
-    },
-    {
-      "name": "Cugat.cat",
-      "url": "https://www.cugat.cat/feed/",
+      "name": "El Mon.cat",
+      "url": "https://www.elmon.cat/feed/",
       "articles_found": 1
     },
     {
       "name": "La Vanguardia (en català)",
       "url": "https://www.lavanguardia.com/rss/encatala.xml",
-      "articles_found": 2
+      "articles_found": 3
+    },
+    {
+      "name": "Segre",
+      "url": "https://www.segre.com/ca/rss/home.xml",
+      "articles_found": 1
+    },
+    {
+      "name": "MetaData",
+      "url": "https://www.metadata.cat/sindica",
+      "articles_found": 1
+    },
+    {
+      "name": "Lleida Diari",
+      "url": "https://www.lleidadiari.cat/feed/",
+      "articles_found": 1
+    },
+    {
+      "name": "RAC1",
+      "url": "https://www.rac1.cat/rss/home.xml",
+      "articles_found": 1
     }
   ],
   "articles": [
     {
-      "title": "Catalunya fa un pas més per acollir una de les grans gigafactories europees d’intel·ligència artificial",
-      "link_id": "c_acba84",
-      "source": "MetaData",
+      "title": "El Govern aprova la inversió de 719 milions d’euros per impulsar la gigafactoria europea d’IA a Tarragona",
+      "link_id": "c_800102",
+      "source": "El Periódico",
       "date": "2026-06-16",
-      "time": "16:20",
-      "summary": "El Govern impulsa una gigafàbrica d'IA a Móra la Nova, reforçant la sobirania tecnològica catalana."
+      "time": "10:22",
+      "summary": "El govern impulsa una gigafàbrica d'IA a Móra la Nova, reforçant la sobirania tecnològica catalana."
     },
     {
-      "title": "La presència digital del català guanya terreny amb l’arribada als televisors Samsung",
-      "link_id": "c_faf8e0",
-      "source": "MetaData",
-      "date": "2026-06-17",
-      "time": "10:20",
-      "summary": "Samsung incorpora el català als menús dels seus Smart TV, ampliant l’accessibilitat digital per a consumidors locals."
-    },
-    {
-      "title": "Catalunya accelera l’aposta pels centres de dades per consolidar-se com a hub digital del sud d’Europa",
-      "link_id": "c_2a14a7",
-      "source": "MetaData",
-      "date": "2026-06-16",
-      "time": "12:25",
-      "summary": "Catalunya aposta per centres de dades com a infraestructura clau per al creixement de la IA i la competitivitat."
-    },
-    {
-      "title": "Les renovables rebaixen 10 € el rebut dels espanyols durant la crisi energètica",
-      "link_id": "c_8a23b0",
+      "title": "Educació planteja un any sabàtic retribuït per a docents amb més de 15 anys d’experiència",
+      "link_id": "c_0bc230",
       "source": "Ara.cat",
-      "date": "2026-06-16",
-      "time": "07:00",
-      "summary": "Les renovables permeten als espanyols estalviar 10 € al rebut de la llum, alleujant la crisi energètica."
-    },
-    {
-      "title": "Abans dels 14 anys, més del 86% dels joves estan registrats almenys a una xarxa social",
-      "link_id": "c_2f32c0",
-      "source": "Ara.cat",
-      "date": "2026-06-12",
-      "time": "12:04",
-      "summary": "Un estudi revela que el 86 % dels joves sota 14 ja són actius a xarxes socials, plantejant riscos digitals."
-    },
-    {
-      "title": "Així és com el Regne Unit vol prohibir les xarxes socials als joves",
-      "link_id": "c_073cd9",
-      "source": "VilaWeb",
-      "date": "2026-06-16",
-      "time": "21:40",
-      "summary": "El Regne Unit proposa prohibir les xarxes socials a menors de 16 anys, una mesura que podria inspirar regulacions europees."
-    },
-    {
-      "title": "Retards i desviaments a l’aeroport d’Eivissa per la presència d’un dron",
-      "link_id": "c_5f435e",
-      "source": "IB3 Notícies",
-      "date": "2026-06-16",
-      "time": "16:43",
-      "summary": "Un dron a l’aeroport d’Eivissa causa retards i desviaments, evidenciant vulnerabilitats en la gestió aèria."
-    },
-    {
-      "title": "Les dutxes i la piscina del Complex Esportiu de Valldoreix, tancades temporalment per risc de legionel·la",
-      "link_id": "c_0a5c49",
-      "source": "Cugat.cat",
       "date": "2026-06-17",
-      "time": "10:09",
-      "summary": "Les dutxes i la piscina del Complex Esportiu de Valldoreix es tanquen per risc de legionel·la, protegint la salut pública."
+      "time": "13:23",
+      "summary": "Proposa un any sabàtic retribuït per docents veterans, millorant benestar i retenció del professorat."
     },
     {
-      "title": "L'impacte de la IA en la investigació és superior al de la seqüenciació del genoma",
-      "link_id": "c_f57a1e",
-      "source": "La Vanguardia (en català)",
+      "title": "Les empreses aconsegueixen estalviar fins a un 5% addicional d’energia gràcies a la intel·ligència artificial",
+      "link_id": "c_c56f47",
+      "source": "El Mon.cat",
       "date": "2026-06-17",
-      "time": "10:07",
-      "summary": "La IA supera la seqüenciació del genoma en impacte investigatiu, accelerant descobriments en biomedicina."
+      "time": "18:55",
+      "summary": "IA ajuda empreses a estalviar fins a un 5% d'energia, impulsant eficiència i sostenibilitat."
     },
     {
       "title": "Prova pilot de càmeres amb IA per detectar incendis a Collserola",
@@ -113,7 +75,55 @@
       "source": "La Vanguardia (en català)",
       "date": "2026-06-17",
       "time": "09:26",
-      "summary": "Càmeres pilot amb IA a Collserola detecten incendis en 30 segons, millorant la resposta d’emergència."
+      "summary": "Càmeres amb IA a Collserola detecten incendis en 30 segons, reforçant la seguretat forestal."
+    },
+    {
+      "title": "La IA necessita humans",
+      "link_id": "c_d1fe14",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-06-17",
+      "time": "08:29",
+      "summary": "IA es converteix en eina col·laborativa, requerint supervisió humana per a aplicacions segures."
+    },
+    {
+      "title": "Entra en funcionament el Teleport de Sant Esteve, la primera estació terrestre de satèl·lits industrial de Catalunya",
+      "link_id": "c_1d438e",
+      "source": "Segre",
+      "date": "2026-06-18",
+      "time": "08:48",
+      "summary": "Engega el Teleport de Sant Esteve, primera estació terrestre de satèl·lits industrial a Catalunya."
+    },
+    {
+      "title": "Els adolescents catalans viuen més connectats que mai: augmenten l’ansietat i la violència digital",
+      "link_id": "c_d4e18e",
+      "source": "MetaData",
+      "date": "2026-06-15",
+      "time": "10:50",
+      "summary": "Estudi revela que 93% dels joves catalans són hiperconnectats, augmentant ansietat i violència digital."
+    },
+    {
+      "title": "La IA permetrà identificar els ossos del Pirineu amb càmeres",
+      "link_id": "c_7342ee",
+      "source": "Lleida Diari",
+      "date": "2026-06-17",
+      "time": "10:32",
+      "summary": "IA identifica ossos del Pirineu amb càmeres, millorant el seguiment de la fauna i la conservació."
+    },
+    {
+      "title": "​24 tones de cola Loctite, el secret per enganxar les torres de la Sagrada Família",
+      "link_id": "c_a3b73f",
+      "source": "RAC1",
+      "date": "2026-06-18",
+      "time": "07:42",
+      "summary": "S'utilitza 24 tones de Loctite per unir les torres de la Sagrada Família, revelant una tecnologia oculta."
+    },
+    {
+      "title": "El G-7 s’uneix per vigilar la IA",
+      "link_id": "c_8e25b2",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-06-18",
+      "time": "07:53",
+      "summary": "El G-7 acorda mesures per protegir menors i regular la IA, reforçant la governança global."
     }
   ]
 }
