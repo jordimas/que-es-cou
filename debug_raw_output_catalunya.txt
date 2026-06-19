@@ -1,57 +1,63 @@
 {
-  "generated_at": "2026-06-18T09:30",
+  "generated_at": "2026-06-19T10:00",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
+    {
+      "name": "MetaData",
+      "url": "https://www.metadata.cat/sindica",
+      "articles_found": 2
+    },
+    {
+      "name": "Ara.cat",
+      "url": "https://www.ara.cat/rss/",
+      "articles_found": 2
+    },
+    {
+      "name": "VilaWeb",
+      "url": "https://www.vilaweb.cat/feed/",
+      "articles_found": 2
+    },
     {
       "name": "El Periódico",
       "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
       "articles_found": 1
     },
     {
-      "name": "Ara.cat",
-      "url": "https://www.ara.cat/rss/",
-      "articles_found": 1
-    },
-    {
-      "name": "El Mon.cat",
-      "url": "https://www.elmon.cat/feed/",
-      "articles_found": 1
-    },
-    {
       "name": "La Vanguardia (en català)",
       "url": "https://www.lavanguardia.com/rss/encatala.xml",
-      "articles_found": 3
+      "articles_found": 2
     },
     {
-      "name": "Segre",
-      "url": "https://www.segre.com/ca/rss/home.xml",
-      "articles_found": 1
-    },
-    {
-      "name": "MetaData",
-      "url": "https://www.metadata.cat/sindica",
-      "articles_found": 1
-    },
-    {
-      "name": "Lleida Diari",
-      "url": "https://www.lleidadiari.cat/feed/",
-      "articles_found": 1
-    },
-    {
-      "name": "RAC1",
-      "url": "https://www.rac1.cat/rss/home.xml",
+      "name": "El Nacional.cat",
+      "url": "https://www.elnacional.cat/uploads/feeds/feed_ca.xml",
       "articles_found": 1
     }
   ],
   "articles": [
     {
-      "title": "El Govern aprova la inversió de 719 milions d’euros per impulsar la gigafactoria europea d’IA a Tarragona",
-      "link_id": "c_800102",
-      "source": "El Periódico",
+      "title": "Barcelona atrau una inversió de 92 milions per impulsar el centre de computació quàntica més gran del sud d’Europa",
+      "link_id": "c_d0e0c1",
+      "source": "MetaData",
+      "date": "2026-06-19",
+      "time": "08:50",
+      "summary": "Barcelona atrau 92 milions d'euros per al nou centre quàntic d'OQC, creant 210 llocs i impulsant la recerca."
+    },
+    {
+      "title": "Catalunya fa un pas més per acollir una de les grans gigafactories europees d’intel·ligència artificial",
+      "link_id": "c_acba84",
+      "source": "MetaData",
       "date": "2026-06-16",
-      "time": "10:22",
-      "summary": "El govern impulsa una gigafàbrica d'IA a Móra la Nova, reforçant la sobirania tecnològica catalana."
+      "time": "16:20",
+      "summary": "El Govern aprova 719 milions d'euros per a la gigafàbrica d'IA a Móra la Nova, reforçant la sobirania tecnològica."
+    },
+    {
+      "title": "El CEEC reivindica el paper clau del sector energètic en la seva gran trobada anual",
+      "link_id": "c_17a628",
+      "source": "Ara.cat",
+      "date": "2026-06-18",
+      "time": "06:41",
+      "summary": "El CEEC destaca el paper clau del sector energètic a la Nit de l’Eficiència amb més de 750 professionals reunits."
     },
     {
       "title": "Educació planteja un any sabàtic retribuït per a docents amb més de 15 anys d’experiència",
@@ -59,63 +65,31 @@
       "source": "Ara.cat",
       "date": "2026-06-17",
       "time": "13:23",
-      "summary": "Proposa un any sabàtic retribuït per docents veterans, millorant benestar i retenció del professorat."
+      "summary": "La Conselleria proposa un any sabàtic retribuït per docents amb més de quinze anys, buscant retenir talent i motivació."
     },
     {
-      "title": "Les empreses aconsegueixen estalviar fins a un 5% addicional d’energia gràcies a la intel·ligència artificial",
-      "link_id": "c_c56f47",
-      "source": "El Mon.cat",
+      "title": "Una incidència tècnica deixa sense servei la L5 del metro entre Maragall i Horta",
+      "link_id": "c_532f05",
+      "source": "VilaWeb",
+      "date": "2026-06-19",
+      "time": "09:07",
+      "summary": "Una fallada tècnica deixa la línia L5 del metro sense servei entre Maragall i Horta, afectant milers de viatgers."
+    },
+    {
+      "title": "Una avaria deixa la Bisbal d’Empordà sense subministrament d’aigua",
+      "link_id": "c_204bb6",
+      "source": "VilaWeb",
+      "date": "2026-06-19",
+      "time": "06:50",
+      "summary": "Una avaria interromp la subministrament d’aigua a la Bisbal d’Empordà; les reparacions s'esperen a mitja tarda."
+    },
+    {
+      "title": "OpenAI, la creadora de ChatGPT, va perdre 39.000 milions de dòlars el 2025",
+      "link_id": "c_ec781a",
+      "source": "El Periódico",
       "date": "2026-06-17",
-      "time": "18:55",
-      "summary": "IA ajuda empreses a estalviar fins a un 5% d'energia, impulsant eficiència i sostenibilitat."
-    },
-    {
-      "title": "Prova pilot de càmeres amb IA per detectar incendis a Collserola",
-      "link_id": "c_a4cd2b",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-06-17",
-      "time": "09:26",
-      "summary": "Càmeres amb IA a Collserola detecten incendis en 30 segons, reforçant la seguretat forestal."
-    },
-    {
-      "title": "La IA necessita humans",
-      "link_id": "c_d1fe14",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-06-17",
-      "time": "08:29",
-      "summary": "IA es converteix en eina col·laborativa, requerint supervisió humana per a aplicacions segures."
-    },
-    {
-      "title": "Entra en funcionament el Teleport de Sant Esteve, la primera estació terrestre de satèl·lits industrial de Catalunya",
-      "link_id": "c_1d438e",
-      "source": "Segre",
-      "date": "2026-06-18",
-      "time": "08:48",
-      "summary": "Engega el Teleport de Sant Esteve, primera estació terrestre de satèl·lits industrial a Catalunya."
-    },
-    {
-      "title": "Els adolescents catalans viuen més connectats que mai: augmenten l’ansietat i la violència digital",
-      "link_id": "c_d4e18e",
-      "source": "MetaData",
-      "date": "2026-06-15",
-      "time": "10:50",
-      "summary": "Estudi revela que 93% dels joves catalans són hiperconnectats, augmentant ansietat i violència digital."
-    },
-    {
-      "title": "La IA permetrà identificar els ossos del Pirineu amb càmeres",
-      "link_id": "c_7342ee",
-      "source": "Lleida Diari",
-      "date": "2026-06-17",
-      "time": "10:32",
-      "summary": "IA identifica ossos del Pirineu amb càmeres, millorant el seguiment de la fauna i la conservació."
-    },
-    {
-      "title": "​24 tones de cola Loctite, el secret per enganxar les torres de la Sagrada Família",
-      "link_id": "c_a3b73f",
-      "source": "RAC1",
-      "date": "2026-06-18",
-      "time": "07:42",
-      "summary": "S'utilitza 24 tones de Loctite per unir les torres de la Sagrada Família, revelant una tecnologia oculta."
+      "time": "10:23",
+      "summary": "OpenAI registra pèrdues de 39.000 milions de dòlars el 2025, evidenciant la dificultat econòmica de la IA."
     },
     {
       "title": "El G-7 s’uneix per vigilar la IA",
@@ -123,7 +97,23 @@
       "source": "La Vanguardia (en català)",
       "date": "2026-06-18",
       "time": "07:53",
-      "summary": "El G-7 acorda mesures per protegir menors i regular la IA, reforçant la governança global."
+      "summary": "El G-7 es compromet a vigilar la intel·ligència artificial, prioritzant la protecció dels menors al ciberespai."
+    },
+    {
+      "title": "WhatsApp estrena el temut \"punt verd\" a la seva app: això és el que significa",
+      "link_id": "c_aa29fd",
+      "source": "El Nacional.cat",
+      "date": "2026-06-19",
+      "time": "10:53",
+      "summary": "WhatsApp introdueix la controvertida funció \"punt verd\", generant debat sobre privacitat i seguretat a les converses."
+    },
+    {
+      "title": "El G-7 es reuneix amb els patrons de la IA per fer-la segura",
+      "link_id": "c_6a91d1",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-06-17",
+      "time": "13:06",
+      "summary": "El G-7 es reuneix amb líders de IA per establir normes que assegurin una intel·ligència artificial segura."
     }
   ]
 }

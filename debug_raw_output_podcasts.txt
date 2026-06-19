@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T10:00",
+  "generated_at": "2026-06-19T10:00",
   "id": "podcasts",
   "title": "Podcasts en català sobre tecnologia",
   "sources_checked": [],
@@ -10,7 +10,15 @@
       "source": "Mossega la poma",
       "date": "2026-06-13",
       "time": "09:42",
-      "summary": "Debat sobre la nova llei europea d'IA i anècdotes de viatges tecnològics."
+      "summary": "Debat sobre la nova normativa europea d'IA i relats de viatges tecnològics."
+    },
+    {
+      "title": "L' Altra Ràdio - El retorn de la tecnologia simple",
+      "link_id": "c_53eeb1",
+      "source": "L'altra ràdio",
+      "date": "2026-06-18",
+      "time": "07:33",
+      "summary": "Exploració del ressorgiment d'antics dispositius i la seva rellevància actual."
     },
     {
       "title": "L' Altra Ràdio - Radioafició: centenari Gaudí, curs a l'EETAC de Castelldefels i fira Friedrichshafen",
@@ -18,7 +26,7 @@
       "source": "L'altra ràdio",
       "date": "2026-06-11",
       "time": "07:33",
-      "summary": "Cobertura del centenari de Gaudí i novetats en radioafició i fira tecnològica."
+      "summary": "Celebració del centenari de Gaudí i noves iniciatives d'operadors amateurs."
     },
     {
       "title": "L'altra ràdio – Nou ordinador quàntic al Barcelona Supercomputing Center",
@@ -26,7 +34,7 @@
       "source": "L'altra ràdio",
       "date": "2026-06-04",
       "time": "15:58",
-      "summary": "Presentació del tercer ordinador quàntic al BSC i impacte en el superordinador MareNostrum."
+      "summary": "Presentació del tercer ordinador quàntic europeu i el seu impacte en la recerca."
     },
     {
       "title": "El gòTIC - Tenim una missió! del 17/6/2026",
@@ -42,7 +50,7 @@
       "source": "El Gòtic",
       "date": "2026-06-09",
       "time": "16:30",
-      "summary": "Estratègies per a la transformació digital ciutadana i solucions innovadores."
+      "summary": "Guia pràctica per a la transformació digital de la comunitat local."
     },
     {
       "title": "Una comissió parlamentària dóna suport a l’aixecament de la immunitat d’un eurodiputat involucrat en el Huawei-Gate",
@@ -50,7 +58,7 @@
       "source": "Societat de la Informació",
       "date": "2026-06-05",
       "time": "11:50",
-      "summary": "Anàlisi de la decisió parlamentària sobre la immunitat d'un eurodiputat relacionat amb Huawei."
+      "summary": "Anàlisi del debat sobre immunitat parlamentària i influència de Huawei al 5G europeu."
     },
     {
       "title": "Les paraules de Lleó XIV sobre la IA, la selectivitat i educació abans i després de ChatGPT",
@@ -58,7 +66,7 @@
       "source": "Internet amb Genís Roca",
       "date": "2026-06-06",
       "time": "19:34",
-      "summary": "Reflexió sobre IA, selectivitat i educació comparant perspectives històriques i actuals."
+      "summary": "Comparació històrica de la IA i l'educació, des de Lleó XIV fins a ChatGPT."
     },
     {
       "title": "Ja no mosseguem la poma",
@@ -66,7 +74,7 @@
       "source": "Foc a Terra",
       "date": "2026-06-15",
       "time": "04:00",
-      "summary": "Novetats de la WWDC, controls parentals i evolució d'Apple Intelligence."
+      "summary": "Novetats de la WWDC, controls parentals i evolució de Siri AI a l'iPhone."
     },
     {
       "title": "A clor obert, amb Anna Tarrés",
@@ -74,7 +82,7 @@
       "source": "Foc a Terra",
       "date": "2026-06-08",
       "time": "04:00",
-      "summary": "Entrevista a Anna Tarrés sobre la transformació de la natació sincronitzada a esport de masses."
+      "summary": "Entrevista a Anna Tarrés sobre la transformació de la natació sincronitzada en esport de masses."
     },
     {
       "title": "Porta la teva comunitat local al xat mundial!",
@@ -90,7 +98,7 @@
       "source": "RAC&GO",
       "date": "2026-06-16",
       "time": "06:21",
-      "summary": "Tecnologia de sensors i IA per predir malalties a partir de la manera de caminar."
+      "summary": "Estudi de sensors i IA per predir malalties a través de la manera de caminar."
     }
   ]
 }

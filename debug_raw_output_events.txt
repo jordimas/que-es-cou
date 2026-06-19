@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T09:18",
+  "generated_at": "2026-06-19T09:58",
   "id": "events",
   "title": "Trobades",
   "sources_checked": [],
@@ -10,7 +10,7 @@
       "source": "WordPress BCN",
       "date": "2026-06-11",
       "time": "16:43",
-      "summary": "Descobreix com integrar GeoDirectory i UsersWP per crear un catàleg empresarial amb accés restringit."
+      "summary": "Descobreix com integrar GeoDirectory i UsersWP per crear un directori empresarial amb accés restringit i confidencialitat."
     },
     {
       "title": "Montar un directorio de empresas en WordPress, caso real",
@@ -18,15 +18,7 @@
       "source": "WordPress BCN",
       "date": "2026-06-17",
       "time": "15:42",
-      "summary": "Aprèn a ampliar el directori amb funcionalitats avançades i acords de confidencialitat per clients."
-    },
-    {
-      "title": "Kaggle 5-Day AI Agents Intensive DAY 4 with Claude",
-      "link_id": "c_5f0906",
-      "source": "AI Professionals Barcelona",
-      "date": "2026-06-17",
-      "time": "03:20",
-      "summary": "Explora aplicacions pràctiques d'agents IA en negocis, amb exemples i consells de Claude."
+      "summary": "Aprèn les claus per ampliar el directori amb funcionalitats avançades i gestió d’usuaris registrats."
     },
     {
       "title": "Kaggle 5-Day AI Agents Intensive DAY 5 with Claude",
@@ -34,23 +26,7 @@
       "source": "AI Professionals Barcelona",
       "date": "2026-06-18",
       "time": "07:40",
-      "summary": "Descobreix les últimes tècniques d'IA per a agents, enfocades a solucions empresarials."
-    },
-    {
-      "title": "Networking for AI Professionals around the world - July 7",
-      "link_id": "c_5bd7d0",
-      "source": "AI Professionals Barcelona",
-      "date": "2026-06-03",
-      "time": "16:50",
-      "summary": "Connecta amb experts globals d'IA en sessions petites per compartir projectes i oportunitats."
-    },
-    {
-      "title": "Networking for AI Professionals around the world - August 13",
-      "link_id": "c_6c3dc6",
-      "source": "AI Professionals Barcelona",
-      "date": "2026-06-03",
-      "time": "18:11",
-      "summary": "Participa en trobades virtuals per ampliar la teva xarxa i col·laborar en iniciatives IA."
+      "summary": "Explora l’enfocament empresarial de l’AI amb Claude, centrant-se en aplicacions pràctiques i casos d’ús."
     }
   ]
 }
