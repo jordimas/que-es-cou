@@ -1,88 +1,40 @@
 {
-  "generated_at": "2026-06-19T10:30",
+  "generated_at": "2026-06-20T10:23",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "El fabricant alemany d'equipament per a la xarxa elèctrica SGB‑SMIT en converses preliminars d'OPA",
-      "link_id": "c_ed4cf6",
+      "title": "ChatGPT ha mogut el meu formatge: la IA sacseja la secció d'autoajuda",
+      "link_id": "c_e97443",
       "source": "Financial Times",
-      "date": "2026-06-19",
+      "date": "2026-06-20",
       "time": "04:00",
-      "summary": "El fabricant alemany d'equipament per a la xarxa elèctrica SGB‑SMIT en converses preliminars d'OPA"
+      "summary": "Explora com les eines d'IA canvien el mercat dels llibres d'autoajuda i la percepció del consumidor."
     },
     {
-      "title": "El gegant tecnològic excava a Wall Street per obtenir diners per a IA",
-      "link_id": "c_b8847c",
+      "title": "Utilitzar IA per a consells financers? Avanceu amb prudència",
+      "link_id": "c_555d70",
       "source": "Financial Times",
-      "date": "2026-06-19",
+      "date": "2026-06-20",
       "time": "04:00",
-      "summary": "El gegant tecnològic excava a Wall Street per obtenir diners per a IA"
+      "summary": "Advoca per regulacions per evitar errors costosos en consells financers automatitzats per IA."
     },
     {
-      "title": "La IA converteix els productes de Nintendo i Sony en béns de luxe inesperats",
-      "link_id": "c_6a20eb",
-      "source": "Financial Times",
-      "date": "2026-06-19",
-      "time": "04:00",
-      "summary": "La IA converteix els productes de Nintendo i Sony en béns de luxe inesperats"
-    },
-    {
-      "title": "«Hem creat un monstre»: les empreses limiten l'ús de la IA per reduir costos",
-      "link_id": "c_988373",
-      "source": "Financial Times",
-      "date": "2026-06-19",
-      "time": "04:00",
-      "summary": "«Hem creat un monstre»: les empreses limiten l'ús de la IA per reduir costos"
-    },
-    {
-      "title": "SpaceX planeja un acord d'obligacions de 20 000 milions de dòlars després d'una OPA rècord",
-      "link_id": "c_0d512d",
-      "source": "Financial Times",
-      "date": "2026-06-18",
-      "time": "22:01",
-      "summary": "SpaceX planeja un acord d'obligacions de 20 000 milions de dòlars després d'una OPA rècord"
-    },
-    {
-      "title": "SpaceX adverteix que el pla de satèl·lit de la UE podria perjudicar la connectivitat a Ucraïna",
-      "link_id": "c_d8f0df",
-      "source": "Financial Times",
-      "date": "2026-06-18",
-      "time": "22:00",
-      "summary": "SpaceX adverteix que el pla de satèl·lit de la UE podria perjudicar la connectivitat a Ucraïna"
-    },
-    {
-      "title": "Waymo retira aproximadament 3.900 robotaxis després que alguns entrin en zones de construcció d'autopista",
-      "link_id": "c_04590e",
+      "title": "La crisi de memòria arriba a extrems que fins i tot Apple no pot evitar",
+      "link_id": "c_e5d17d",
       "source": "CNBC Technology",
-      "date": "2026-06-18",
-      "time": "21:57",
-      "summary": "Waymo retira aproximadament 3.900 robotaxis després que alguns entrin en zones de construcció d'autopista"
+      "date": "2026-06-19",
+      "time": "12:00",
+      "summary": "Apple podria augmentar preus per compensar la escassetat de memòria en dispositius."
     },
     {
-      "title": "Les accions d'Accenture cauen al mínim des del 2017 a mesura que augmenta la amenaça de la IA",
-      "link_id": "c_4d2da1",
-      "source": "Financial Times",
-      "date": "2026-06-18",
-      "time": "20:25",
-      "summary": "Les accions d'Accenture cauen al mínim des del 2017 a mesura que augmenta la amenaça de la IA"
-    },
-    {
-      "title": "Amazon investiga enginyers que van criticar l'expansió dels centres de dades d'IA",
-      "link_id": "c_a6a714",
+      "title": "El CEO de Qualcomm, Cristiano Amon, parla del nou món dels agents d'IA",
+      "link_id": "c_ab9809",
       "source": "CNBC Technology",
-      "date": "2026-06-18",
-      "time": "19:47",
-      "summary": "Amazon investiga enginyers que van criticar l'expansió dels centres de dades d'IA"
-    },
-    {
-      "title": "Intel puja un 10 % després que Trump anunciés una col·laboració amb Apple en disseny de xips als EUA",
-      "link_id": "c_935d1a",
-      "source": "CNBC Technology",
-      "date": "2026-06-18",
-      "time": "16:51",
-      "summary": "Intel puja un 10 % després que Trump anunciés una col·laboració amb Apple en disseny de xips als EUA"
+      "date": "2026-06-19",
+      "time": "11:00",
+      "summary": "Amon destaca com els agents d'IA transformen el desenvolupament de productes i serveis."
     }
   ]
 }

@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-06-19T11:58",
+  "generated_at": "2026-06-20T10:23",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Apple i Intel treballaran junts per fabricar xips als EUA",
-      "link_id": "c_242b64",
-      "source": "Android Authority",
+      "title": "Apple price hikes predicted to be ‘fairly imminent’ — so don't wait on upgrading your Mac, iPad or iPhone",
+      "link_id": "c_83ec92",
+      "source": "TechRadar",
       "date": "2026-06-19",
-      "time": "09:34",
-      "summary": "Trump anuncia una col·laboració entre Apple i Intel per produir xips a Estats Units, impulsant la manufactura local."
+      "time": "11:49",
+      "summary": "Experts preveuen augmentos de preus a Apple pròximament; recomanen actualitzar ara per evitar costos futurs."
     },
     {
-      "title": "Waymo emet una nova retirada per zones de construcció d'autopista",
-      "link_id": "c_33ac84",
-      "source": "CNET",
-      "date": "2026-06-18",
-      "time": "22:00",
-      "summary": "Els robotaxi de Waymo són retirats per evitar conduir a zones de construcció, millorant la seguretat."
-    },
-    {
-      "title": "Data i portada del preordre de GTA 6 revelades per Rockstar",
-      "link_id": "c_5b2042",
-      "source": "PCWorld",
-      "date": "2026-06-18",
-      "time": "14:06",
-      "summary": "Rockstar anuncia que les preordres de GTA 6 començaran el 25 de juny amb nova portada."
-    },
-    {
-      "title": "Tim Cook avisa que els augments de preu per IA són inevitables",
-      "link_id": "c_2ff73c",
-      "source": "Bloomberg Technology",
-      "date": "2026-06-18",
-      "time": "11:45",
-      "summary": "Apple incrementarà els preus a causa del cost creixent de la memòria RAM i IA."
-    },
-    {
-      "title": "Epic Games i Coalició per a l'Equitat critiquen les noves condicions de l'App Store al Brasil",
-      "link_id": "c_9234e8",
-      "source": "9to5Mac",
+      "title": "Researchers drop checkm8-style BootROM exploit for A12 and A13 iPhones",
+      "link_id": "c_7644fd",
+      "source": "The Register",
       "date": "2026-06-19",
-      "time": "02:32",
-      "summary": "Desenvolupadors denuncien restriccions i tarifes elevades en la nova política d'Apple al Brasil."
+      "time": "18:02",
+      "summary": "Nou exploit de BootROM afecta iPhones amb xips A12 i A13, permet accés no autoritzat al sistema."
     },
     {
-      "title": "EE. UU. avisen que ASML podria tenir una eina de xips avançada a Xina",
-      "link_id": "c_a9b1b8",
-      "source": "Bloomberg Technology",
+      "title": "On the trail of the dotcom queen: how Julie Meyer left a pattern of unpaid bills, missing funds and broken dreams in her wake",
+      "link_id": "c_ec924c",
+      "source": "The Guardian",
       "date": "2026-06-19",
-      "time": "00:37",
-      "summary": "El govern nord-americà expressa preocupació per una possible violació d'exportació de tecnologia avançada."
+      "time": "07:00",
+      "summary": "Investigació revela que la emprenedora Julie Meyer va deixar deutes i promeses trencades a la comunitat tecnològica."
     },
     {
-      "title": "Les visions d'IA de Google parlen de monstres ficticis com si fossin reals",
-      "link_id": "c_d25224",
+      "title": "Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M",
+      "link_id": "c_1a18be",
+      "source": "TechCrunch",
+      "date": "2026-06-19",
+      "time": "00:51",
+      "summary": "Elastic compra Deductive AI, una startup d'IA, per un màxim de 85 milions de dòlars."
+    },
+    {
+      "title": "Trump Tells Axios He Doesn’t See Anthropic as US Security Threat",
+      "link_id": "c_724915",
+      "source": "Bloomberg",
+      "date": "2026-06-19",
+      "time": "19:49",
+      "summary": "El president Trump afirma que Anthropic no representa una amenaça de seguretat per als Estats Units."
+    },
+    {
+      "title": "Apple clears the air on watchOS 27 skipping multiple models, and you can partly blame AI for it",
+      "link_id": "c_85b849",
       "source": "Digital Trends",
       "date": "2026-06-19",
-      "time": "05:31",
-      "summary": "Els resums d'IA de Google confonen ficció amb informació veritable, generant confusió."
+      "time": "22:24",
+      "summary": "Apple explica que watchOS 27 exclou diversos models, culpa parcialment la intel·ligència artificial per la decisió."
     },
     {
-      "title": "El regulador d'IA del Regne Unit renuncia després d'intents d'humor inapropiats",
-      "link_id": "c_93515d",
+      "title": "WhatsApp tests new animated message bubbles on iPhone",
+      "link_id": "c_f7d2ca",
+      "source": "9to5Mac",
+      "date": "2026-06-20",
+      "time": "02:25",
+      "summary": "WhatsApp prova noves bombolles animades per a missatges a l'iPhone, millorant la interacció visual."
+    },
+    {
+      "title": "Your old iPhone may have a security flaw Apple can’t fix",
+      "link_id": "c_8749e9",
+      "source": "Digital Trends",
+      "date": "2026-06-20",
+      "time": "02:25",
+      "summary": "Un defecte de seguretat en models antics d'iPhone és impossible d'arreglar per Apple."
+    },
+    {
+      "title": "New video game console aims to get kids moving",
+      "link_id": "c_530afd",
       "source": "BBC Technology",
-      "date": "2026-06-19",
-      "time": "09:55",
-      "summary": "El cap del regulador d'IA dimiteix per comentaris inadequats, generant controvèrsia."
+      "date": "2026-06-20",
+      "time": "01:10",
+      "summary": "Llançament d'una consola de videojocs que incentiva l'activitat física dels nens."
     },
     {
-      "title": "La teva nit de cinema pot canviar amb les noves làmpades Philips Hue",
-      "link_id": "c_75c747",
-      "source": "Android Authority",
-      "date": "2026-06-19",
-      "time": "09:55",
-      "summary": "Les làmpades Philips Hue ofereixen il·luminació reactiva per millorar l'experiència cinematogràfica."
-    },
-    {
-      "title": "Google elimina el Nest Home Mini i el Nest Audio",
-      "link_id": "c_a01dbe",
-      "source": "Engadget",
-      "date": "2026-06-18",
-      "time": "20:33",
-      "summary": "Google posa fi a la producció dels altaveus intel·ligents Nest Home Mini i Nest Audio."
+      "title": "He made your free video player run smoothly. Now he’s doing that for robots.",
+      "link_id": "c_b06417",
+      "source": "TechCrunch",
+      "date": "2026-06-20",
+      "time": "00:47",
+      "summary": "Jean-Baptiste Kempf optimitza reproductors gratuïts i ara aplica la mateixa tecnologia a robots."
     }
   ]
 }
