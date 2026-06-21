@@ -1,17 +1,22 @@
 {
-  "generated_at": "2026-06-20T08:23",
+  "generated_at": "2026-06-21T12:00",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
     {
-      "name": "Ara.cat",
-      "url": "https://www.ara.cat/rss/",
-      "articles_found": 3
-    },
-    {
       "name": "MetaData",
       "url": "https://www.metadata.cat/sindica",
       "articles_found": 3
+    },
+    {
+      "name": "324.cat",
+      "url": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0",
+      "articles_found": 2
+    },
+    {
+      "name": "Ara.cat",
+      "url": "https://www.ara.cat/rss/",
+      "articles_found": 2
     },
     {
       "name": "La Vanguardia (en català)",
@@ -19,32 +24,27 @@
       "articles_found": 2
     },
     {
-      "name": "El Periódico",
-      "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
-      "articles_found": 1
-    },
-    {
-      "name": "RAC1",
-      "url": "https://www.rac1.cat/rss/home.xml",
+      "name": "VilaWeb",
+      "url": "https://www.vilaweb.cat/feed/",
       "articles_found": 1
     }
   ],
   "articles": [
-    {
-      "title": "Fita a Barcelona: un robot extreu un ronyó a un nen amb una sola incisió",
-      "link_id": "c_34e1b6",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-06-20",
-      "time": "07:58",
-      "summary": "Primer robot europeu que extreu ronyó infantil amb una sola incisió, reduint temps d'hospitalització i cicatrius."
-    },
     {
       "title": "Barcelona atrau una inversió de 92 milions per impulsar el centre de computació quàntica més gran del sud d’Europa",
       "link_id": "c_d0e0c1",
       "source": "MetaData",
       "date": "2026-06-19",
       "time": "08:50",
-      "summary": "Barcelona atrau 92 milions d'euros per al centre quàntic del sud d'Europa, creant 210 llocs de treball."
+      "summary": "Barcelona acull el centre de computació quàntica més gran del sud d’Europa, generant 210 nous llocs i impulsant la recerca."
+    },
+    {
+      "title": "Catalunya accelera l’aposta pels centres de dades per impulsar la sobirania digital i la competitivitat",
+      "link_id": "c_2a14a7",
+      "source": "MetaData",
+      "date": "2026-06-16",
+      "time": "12:25",
+      "summary": "El govern aposta per centres de dades com infraestructura clau, reforçant la sobirania digital i la competitivitat de Catalunya."
     },
     {
       "title": "Catalunya fa un pas més per acollir una de les grans gigafactories europees d’intel·ligència artificial",
@@ -52,15 +52,23 @@
       "source": "MetaData",
       "date": "2026-06-16",
       "time": "16:20",
-      "summary": "Catalunya acull una gigafàbrica d'IA, impulsant la sobirania tecnològica i generant milers d'empleats."
+      "summary": "Catalunya aprova una societat públic-privada per acollir una gigafàbrica d’IA a Móra la Nova, amb 719 milions d’euros."
     },
     {
-      "title": "Educació planteja un any sabàtic retribuït per a docents amb més de 15 anys d’experiència",
-      "link_id": "c_0bc230",
-      "source": "Ara.cat",
-      "date": "2026-06-17",
-      "time": "13:23",
-      "summary": "Proposa un any sabàtic retribuït per docents veterans, millorant benestar i retenció del professorat."
+      "title": "Philippe Aghion, Nobel d'Economia, defensa els beneficis de la IA \"per als que pensen de forma disruptiva\"",
+      "link_id": "c_728745",
+      "source": "324.cat",
+      "date": "2026-06-20",
+      "time": "18:32",
+      "summary": "L’economista Nobel Philippe Aghion defensa la IA com a motor d’innovació per impulsar la productivitat i el creixement."
+    },
+    {
+      "title": "Sobrecàrrega a la feina per la IA i la digitalització: \"La gent està sobrepassada i acaba al metge\"",
+      "link_id": "c_ec6d99",
+      "source": "324.cat",
+      "date": "2026-06-21",
+      "time": "07:40",
+      "summary": "El professor Todolí alerta que la digitalització sobrecarrega els treballadors, augmentant les baixes i la necessitat de suport mèdic."
     },
     {
       "title": "Eurecat accelera la innovació de les empreses amb solucions tecnològiques d'alt impacte",
@@ -68,7 +76,7 @@
       "source": "Ara.cat",
       "date": "2026-06-19",
       "time": "21:58",
-      "summary": "Eurecat rep el Premi Nacional per transferir coneixement, impulsant innovació empresarial i benestar social."
+      "summary": "Eurecat rep el Premi Nacional a la Transferència del Coneixement, impulsant la innovació empresarial i el benestar social a Catalunya."
     },
     {
       "title": "El CEEC reivindica el paper clau del sector energètic en la seva gran trobada anual",
@@ -76,39 +84,31 @@
       "source": "Ara.cat",
       "date": "2026-06-18",
       "time": "06:41",
-      "summary": "El CEEC destaca la importància del sector energètic en la Nit de l'Eficiència, promoguent la transició."
+      "summary": "El CEEC organitza la Nit de l’Eficiència, reunint 750 professionals per promoure la transició energètica i la innovació."
     },
     {
-      "title": "Els adolescents catalans viuen més connectats que mai: augmenten l’ansietat i la violència digital",
-      "link_id": "c_d4e18e",
-      "source": "MetaData",
-      "date": "2026-06-15",
-      "time": "10:50",
-      "summary": "Estudi revela que joves catalans excessivament connectats pateixen més ansietat i violència digital."
-    },
-    {
-      "title": "OpenAI, la creadora de ChatGPT, va perdre 39.000 milions de dòlars el 2025",
-      "link_id": "c_ec781a",
-      "source": "El Periódico",
-      "date": "2026-06-17",
-      "time": "10:23",
-      "summary": "OpenAI registra pèrdues de 39.000 milions de dòlars el 2025, mostrant dificultats financeres de la IA."
-    },
-    {
-      "title": "\"D'entrada, la idea sona com una bogeria\": un grup de científics prova una tècnica per \"recongelar\" l'Àrtic",
-      "link_id": "c_aa59e9",
-      "source": "RAC1",
-      "date": "2026-06-19",
-      "time": "15:23",
-      "summary": "Científics experimenten una tècnica per recongelar l'Àrtic, buscant frenar el desglaç accelerat."
-    },
-    {
-      "title": "Sexualitat, música i control sobre la tecnologia clouen el +D",
-      "link_id": "c_1d0447",
+      "title": "Fita a Barcelona: un robot extreu un ronyó a un nen amb una sola incisió",
+      "link_id": "c_34e1b6",
       "source": "La Vanguardia (en català)",
       "date": "2026-06-20",
-      "time": "08:06",
-      "summary": "Sexualitat, música i control tecnològic impulsen el projecte +D, explorant la història digital del sexe."
+      "time": "07:58",
+      "summary": "Un robot pioner extreu un ronyó d’un nen amb una sola incisió, marcant un avanç mèdic d’Europa."
+    },
+    {
+      "title": "La gent en la intel·ligència artificial (i V)",
+      "link_id": "c_c2cd83",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-06-20",
+      "time": "00:35",
+      "summary": "Debat sobre la decisió humana en entorns automatitzats, qüestionant la sobirania i la responsabilitat davant els algoritmes."
+    },
+    {
+      "title": "L’impacte de la IA: allargarà la vida de les centrals de gas i de les nuclears?",
+      "link_id": "c_8ec31f",
+      "source": "VilaWeb",
+      "date": "2026-06-20",
+      "time": "19:40",
+      "summary": "Les Nacions Unides alerten sobre l’impacte ambiental dels centres de dades, mentre la UE impulsa canvis de consum energètic."
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T10:00",
+  "generated_at": "2026-06-21T08:58",
   "id": "podcasts",
   "title": "Podcasts en català sobre tecnologia",
   "sources_checked": [],
@@ -10,7 +10,7 @@
       "source": "L'altra ràdio",
       "date": "2026-06-18",
       "time": "07:33",
-      "summary": "Explora com la nostàlgia digital impulsa l'ús d'aparells antics entre joves catalans."
+      "summary": "Explora com la nostàlgia impulsa l'ús d'antics dispositius i la importància de la simplicitat tecnològica."
     },
     {
       "title": "L' Altra Ràdio - Radioafició: centenari Gaudí, curs a l'EETAC de Castelldefels i fira Friedrichshafen",
@@ -18,7 +18,7 @@
       "source": "L'altra ràdio",
       "date": "2026-06-11",
       "time": "07:33",
-      "summary": "Descobreix el centenari de Gaudí i les noves iniciatives de radioafició a l'EETAC."
+      "summary": "Commemora el centenari de Gaudí amb noves indicacions radiofòniques i formació d'operadors a l'EETAC."
     },
     {
       "title": "El gòTIC - Tenim una missió! del 17/6/2026",
@@ -26,7 +26,7 @@
       "source": "El Gòtic",
       "date": "2026-06-16",
       "time": "16:29",
-      "summary": "Presenta recursos digitals per afrontar reptes ciutadans, amb enfocament en innovació local."
+      "summary": "Recull recursos digitals per afrontar reptes ciutadans, impulsant la inclusió i la innovació a Tàrrega."
     },
     {
       "title": "El gòTIC - Tenim una missió! del 10/6/2026",
@@ -34,15 +34,7 @@
       "source": "El Gòtic",
       "date": "2026-06-09",
       "time": "16:30",
-      "summary": "Segueix la mateixa missió, oferint estratègies per a la transformació digital de la comunitat."
-    },
-    {
-      "title": "Una comissió parlamentària dóna suport a l’aixecament de la immunitat d’un eurodiputat involucrat en el Huawei-Gate",
-      "link_id": "c_8c2892",
-      "source": "Societat de la Informació",
-      "date": "2026-06-05",
-      "time": "11:50",
-      "summary": "Analitza el debat sobre l'immunitat parlamentària d'un eurodiputat vinculat al cas Huawei."
+      "summary": "Segona entrega de la missió digital, oferint estratègies per a la transformació tecnològica local."
     },
     {
       "title": "Les paraules de Lleó XIV sobre la IA, la selectivitat i educació abans i després de ChatGPT",
@@ -50,7 +42,7 @@
       "source": "Internet amb Genís Roca",
       "date": "2026-06-06",
       "time": "19:34",
-      "summary": "Reflexiona sobre la IA i l'educació, comparant perspectives històriques amb l'era ChatGPT."
+      "summary": "Reflexiona sobre IA i educació, comparant perspectives històriques amb l'era post‑ChatGPT."
     },
     {
       "title": "Ja no mosseguem la poma",
@@ -58,7 +50,7 @@
       "source": "Foc a Terra",
       "date": "2026-06-15",
       "time": "04:00",
-      "summary": "Revisa les novetats de la WWDC, incloent controls parentals i l'arribada de Siri AI."
+      "summary": "Analitza les novetats de la WWDC, destacant controls parentals i l'arribada de Siri AI."
     },
     {
       "title": "A clor obert, amb Anna Tarrés",
@@ -66,7 +58,15 @@
       "source": "Foc a Terra",
       "date": "2026-06-08",
       "time": "04:00",
-      "summary": "Entrevista a la llegenda de la natació sincronitzada, destacant la seva transformació esportiva."
+      "summary": "Entrevista a la campiona de natació sincronitzada, revelant la seva trajectòria i impacte esportiu."
+    },
+    {
+      "title": "Porta la teva comunitat local al xat mundial!",
+      "link_id": "c_5a8be2",
+      "source": "WordPress Pòdcast",
+      "date": "2026-06-16",
+      "time": "00:00",
+      "summary": "Descobreix com WordPress integra comunitats locals al Slack global per potenciar la col·laboració."
     },
     {
       "title": "Capítol 67: Digue’m com camines i et diré quina malaltia pots tenir",
@@ -74,7 +74,7 @@
       "source": "RAC&GO",
       "date": "2026-06-16",
       "time": "06:21",
-      "summary": "Explora com sensors i IA poden predir malalties a través de l'anàlisi de la teva manera de caminar."
+      "summary": "Explora l'ús d'IA i sensors per predir malalties a través de l'anàlisi de la teva caminada."
     }
   ]
 }

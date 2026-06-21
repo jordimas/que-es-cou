@@ -1,40 +1,48 @@
 {
-  "generated_at": "2026-06-20T10:23",
+  "generated_at": "2026-06-21T09:00",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "ChatGPT ha mogut el meu formatge: la IA sacseja la secció d'autoajuda",
-      "link_id": "c_e97443",
+      "title": "Grups de telecomunicacions del Regne Unit introdueixen un ‘interruptor d’emergència’ per reduir el robatori de telèfons a les botigues",
+      "link_id": "c_80f29d",
       "source": "Financial Times",
-      "date": "2026-06-20",
-      "time": "04:00",
-      "summary": "Explora com les eines d'IA canvien el mercat dels llibres d'autoajuda i la percepció del consumidor."
+      "date": "2026-06-21",
+      "time": "05:21",
+      "summary": "Virgin Media O2 i VodafoneThree actuen després que Apple i Samsung rebutgin mesures més àmplies."
     },
     {
-      "title": "Utilitzar IA per a consells financers? Avanceu amb prudència",
-      "link_id": "c_555d70",
+      "title": "Els treballadors es converteixen en el proper gran embotellament de la IA",
+      "link_id": "c_57869f",
       "source": "Financial Times",
-      "date": "2026-06-20",
+      "date": "2026-06-21",
       "time": "04:00",
-      "summary": "Advoca per regulacions per evitar errors costosos en consells financers automatitzats per IA."
+      "summary": "Les grans tecnologies reconeixen la necessitat de força i habilitats artesanals per construir i mantenir centres de dades."
     },
     {
-      "title": "La crisi de memòria arriba a extrems que fins i tot Apple no pot evitar",
-      "link_id": "c_e5d17d",
+      "title": "L’expansió de la IA ofereix als inversors tecnològics nous motius per vigilar el mercat de bons",
+      "link_id": "c_eb950b",
       "source": "CNBC Technology",
-      "date": "2026-06-19",
+      "date": "2026-06-20",
       "time": "12:00",
-      "summary": "Apple podria augmentar preus per compensar la escassetat de memòria en dispositius."
+      "summary": "Les grans tecnologies gasten reserves i augmenten deutes per a centres de dades, obligant inversors a seguir les taxes d’interès."
     },
     {
-      "title": "El CEO de Qualcomm, Cristiano Amon, parla del nou món dels agents d'IA",
-      "link_id": "c_ab9809",
-      "source": "CNBC Technology",
-      "date": "2026-06-19",
+      "title": "L’Anthropic va aconseguir un prohibició d’exportació d’IA mitjançant el diàleg?",
+      "link_id": "c_8b132d",
+      "source": "Financial Times",
+      "date": "2026-06-20",
       "time": "11:00",
-      "summary": "Amon destaca com els agents d'IA transformen el desenvolupament de productes i serveis."
+      "summary": "L’anàlisi del FT indica que Anthropic va advertir sobre els perills de la IA avançada més que OpenAI aquest any."
+    },
+    {
+      "title": "Bonificacions massives per als treballadors de xips a Corea del Sud alerta el banc central sobre la inflació",
+      "link_id": "c_86777f",
+      "source": "CNBC Technology",
+      "date": "2026-06-20",
+      "time": "08:59",
+      "summary": "Els treballadors tecnològics reben bonificacions de milions de won, provocant que el Banc de Corea adverteixi sobre la pressió inflacionària."
     }
   ]
 }

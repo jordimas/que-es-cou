@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-06-20T10:23",
+  "generated_at": "2026-06-21T10:58",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Apple price hikes predicted to be ‘fairly imminent’ — so don't wait on upgrading your Mac, iPad or iPhone",
-      "link_id": "c_83ec92",
-      "source": "TechRadar",
-      "date": "2026-06-19",
-      "time": "11:49",
-      "summary": "Experts preveuen augmentos de preus a Apple pròximament; recomanen actualitzar ara per evitar costos futurs."
-    },
-    {
-      "title": "Researchers drop checkm8-style BootROM exploit for A12 and A13 iPhones",
-      "link_id": "c_7644fd",
-      "source": "The Register",
-      "date": "2026-06-19",
-      "time": "18:02",
-      "summary": "Nou exploit de BootROM afecta iPhones amb xips A12 i A13, permet accés no autoritzat al sistema."
-    },
-    {
-      "title": "On the trail of the dotcom queen: how Julie Meyer left a pattern of unpaid bills, missing funds and broken dreams in her wake",
-      "link_id": "c_ec924c",
-      "source": "The Guardian",
-      "date": "2026-06-19",
-      "time": "07:00",
-      "summary": "Investigació revela que la emprenedora Julie Meyer va deixar deutes i promeses trencades a la comunitat tecnològica."
-    },
-    {
-      "title": "Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M",
-      "link_id": "c_1a18be",
+      "title": "Meredith Whittaker de Signal vol que recordeu que els xatbots d'IA «no són els vostres amics»",
+      "link_id": "c_4559ab",
       "source": "TechCrunch",
-      "date": "2026-06-19",
-      "time": "00:51",
-      "summary": "Elastic compra Deductive AI, una startup d'IA, per un màxim de 85 milions de dòlars."
+      "date": "2026-06-20",
+      "time": "20:32",
+      "summary": "Advoca per una visió crítica dels xatbots, subratllant riscos de confiança cega i manipulació."
     },
     {
-      "title": "Trump Tells Axios He Doesn’t See Anthropic as US Security Threat",
-      "link_id": "c_724915",
-      "source": "Bloomberg",
-      "date": "2026-06-19",
-      "time": "19:49",
-      "summary": "El president Trump afirma que Anthropic no representa una amenaça de seguretat per als Estats Units."
+      "title": "Claude Guillemot, cofundador d'Ubisoft, mor a 69 anys en un accident d'avió a prop de La Baule",
+      "link_id": "c_5a2c1b",
+      "source": "The Next Web",
+      "date": "2026-06-20",
+      "time": "17:17",
+      "summary": "La mort del pioner del videojoc deixa un buit en la indústria i recorda la fragilitat de la vida."
     },
     {
-      "title": "Apple clears the air on watchOS 27 skipping multiple models, and you can partly blame AI for it",
+      "title": "El laureat Nobel John Jumper abandona DeepMind per unir-se a l'empresa rival Anthropic",
+      "link_id": "c_c10790",
+      "source": "TechCrunch",
+      "date": "2026-06-20",
+      "time": "16:39",
+      "summary": "El moviment podria accelerar la competència en IA avançada i canviar l'estratègia de Google."
+    },
+    {
+      "title": "Claude Guillemot, un dels cofundadors d'Ubisoft, ha mort en un accident d'avió",
+      "link_id": "c_ead051",
+      "source": "Engadget",
+      "date": "2026-06-20",
+      "time": "15:34",
+      "summary": "La seva contribució a jocs icònics marca una pèrdua significativa per a la comunitat gamer."
+    },
+    {
+      "title": "Apple tanca permanentment tres botigues avui; aquí la llista",
+      "link_id": "c_608f50",
+      "source": "9to5Mac",
+      "date": "2026-06-20",
+      "time": "15:11",
+      "summary": "Les tancaments reflecteixen canvis en el comerç minorista i l'impacte de les compres en línia."
+    },
+    {
+      "title": "Tres botigues Apple als EUA es tanquen permanentment avui",
+      "link_id": "c_41f69d",
+      "source": "MacRumors",
+      "date": "2026-06-20",
+      "time": "14:14",
+      "summary": "El tancament afecta empleats i consumidors, mostrant la reestructuració de la presència física d'Apple."
+    },
+    {
+      "title": "Jio Platforms sol·licita la major OPI mai vista a l'Índia, amb gairebé 3 000 milions destinats al pagament de deutes",
+      "link_id": "c_b3e357",
+      "source": "The Next Web",
+      "date": "2026-06-20",
+      "time": "11:24",
+      "summary": "L'oferta podria transformar el sector de telecomunicacions i augmentar la competència global."
+    },
+    {
+      "title": "Jio Platforms planeja reduir 3 000 milions de deute amb els fons de l'OPI",
+      "link_id": "c_0529a1",
+      "source": "Bloomberg Technology",
+      "date": "2026-06-20",
+      "time": "10:49",
+      "summary": "L'estratègia busca reforçar les finances i impulsar nous projectes tecnològics."
+    },
+    {
+      "title": "Apple explica la decisió de watchOS 27 de deixar fora diversos models",
+      "link_id": "c_12cd69",
+      "source": "MacRumors",
+      "date": "2026-06-19",
+      "time": "22:24",
+      "summary": "La mesura es deu a les exigències de Siri AI i a la limitació de maquinari antic."
+    },
+    {
+      "title": "Apple explica la decisió de watchOS 27 de deixar fora diversos models",
       "link_id": "c_85b849",
       "source": "Digital Trends",
       "date": "2026-06-19",
       "time": "22:24",
-      "summary": "Apple explica que watchOS 27 exclou diversos models, culpa parcialment la intel·ligència artificial per la decisió."
-    },
-    {
-      "title": "WhatsApp tests new animated message bubbles on iPhone",
-      "link_id": "c_f7d2ca",
-      "source": "9to5Mac",
-      "date": "2026-06-20",
-      "time": "02:25",
-      "summary": "WhatsApp prova noves bombolles animades per a missatges a l'iPhone, millorant la interacció visual."
-    },
-    {
-      "title": "Your old iPhone may have a security flaw Apple can’t fix",
-      "link_id": "c_8749e9",
-      "source": "Digital Trends",
-      "date": "2026-06-20",
-      "time": "02:25",
-      "summary": "Un defecte de seguretat en models antics d'iPhone és impossible d'arreglar per Apple."
-    },
-    {
-      "title": "New video game console aims to get kids moving",
-      "link_id": "c_530afd",
-      "source": "BBC Technology",
-      "date": "2026-06-20",
-      "time": "01:10",
-      "summary": "Llançament d'una consola de videojocs que incentiva l'activitat física dels nens."
-    },
-    {
-      "title": "He made your free video player run smoothly. Now he’s doing that for robots.",
-      "link_id": "c_b06417",
-      "source": "TechCrunch",
-      "date": "2026-06-20",
-      "time": "00:47",
-      "summary": "Jean-Baptiste Kempf optimitza reproductors gratuïts i ara aplica la mateixa tecnologia a robots."
+      "summary": "Els usuaris veuran menys actualitzacions, però guanyaran rendiment i noves funcions d'IA."
     }
   ]
 }
