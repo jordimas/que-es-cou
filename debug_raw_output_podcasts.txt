@@ -1,80 +1,96 @@
 {
-  "generated_at": "2026-06-21T08:58",
+  "generated_at": "2026-06-22T10:42",
   "id": "podcasts",
   "title": "Podcasts en català sobre tecnologia",
   "sources_checked": [],
   "articles": [
     {
+      "title": "El mercat de xips i la fragilitat de la sobirania tecnològica europea – Programa 668",
+      "link_id": "c_dd511c",
+      "source": "Mossega la poma",
+      "date": "2026-06-20",
+      "time": "10:48",
+      "summary": "Analitza la dependència europea del xip, la influència de SpaceX i la necessitat d’infraestructura oberta."
+    },
+    {
+      "title": "La nova llei de la UE respecte a la IA i anècdotes de viatges – Programa 667",
+      "link_id": "c_9ec3ca",
+      "source": "Mossega la poma",
+      "date": "2026-06-13",
+      "time": "11:42",
+      "summary": "Explora la nova normativa d'IA europea i com les grans tecnologies afecten viatges i societat."
+    },
+    {
       "title": "L' Altra Ràdio - El retorn de la tecnologia simple",
       "link_id": "c_53eeb1",
       "source": "L'altra ràdio",
       "date": "2026-06-18",
-      "time": "07:33",
-      "summary": "Explora com la nostàlgia impulsa l'ús d'antics dispositius i la importància de la simplicitat tecnològica."
+      "time": "16:33",
+      "summary": "Discuteix la tendència a reutilitzar dispositius antics i el valor cultural de la tecnologia senzilla."
     },
     {
       "title": "L' Altra Ràdio - Radioafició: centenari Gaudí, curs a l'EETAC de Castelldefels i fira Friedrichshafen",
       "link_id": "c_12d5c3",
       "source": "L'altra ràdio",
       "date": "2026-06-11",
-      "time": "07:33",
-      "summary": "Commemora el centenari de Gaudí amb noves indicacions radiofòniques i formació d'operadors a l'EETAC."
+      "time": "16:33",
+      "summary": "Commemora el centenari de Gaudí amb noves iniciatives de radioafició i formació a l'EETAC."
     },
     {
       "title": "El gòTIC - Tenim una missió! del 17/6/2026",
       "link_id": "c_a5d8ec",
       "source": "El Gòtic",
-      "date": "2026-06-16",
-      "time": "16:29",
-      "summary": "Recull recursos digitals per afrontar reptes ciutadans, impulsant la inclusió i la innovació a Tàrrega."
+      "date": "2026-06-17",
+      "time": "01:29",
+      "summary": "Presenta recursos digitals per afrontar reptes ciutadans, impulsant la participació i innovació local."
     },
     {
       "title": "El gòTIC - Tenim una missió! del 10/6/2026",
       "link_id": "c_4849bb",
       "source": "El Gòtic",
-      "date": "2026-06-09",
-      "time": "16:30",
-      "summary": "Segona entrega de la missió digital, oferint estratègies per a la transformació tecnològica local."
+      "date": "2026-06-10",
+      "time": "01:30",
+      "summary": "Ofereix estratègies per millorar la inclusió digital i resoldre problemes socials a Tàrrega."
     },
     {
-      "title": "Les paraules de Lleó XIV sobre la IA, la selectivitat i educació abans i després de ChatGPT",
-      "link_id": "c_7647f7",
-      "source": "Internet amb Genís Roca",
-      "date": "2026-06-06",
-      "time": "19:34",
-      "summary": "Reflexiona sobre IA i educació, comparant perspectives històriques amb l'era post‑ChatGPT."
+      "title": "Posem Holallum a la foscor, amb Oriol Vila",
+      "link_id": "c_ab6c80",
+      "source": "Foc a Terra",
+      "date": "2026-06-22",
+      "time": "06:00",
+      "summary": "Entrevista a Oriol Vila sobre emprenedoria, IA i el futur del CRM personal."
     },
     {
       "title": "Ja no mosseguem la poma",
       "link_id": "c_4ee64a",
       "source": "Foc a Terra",
       "date": "2026-06-15",
-      "time": "04:00",
-      "summary": "Analitza les novetats de la WWDC, destacant controls parentals i l'arribada de Siri AI."
+      "time": "06:00",
+      "summary": "Analitza les novetats de la WWDC, controls parentals i el retorn de Siri AI."
     },
     {
       "title": "A clor obert, amb Anna Tarrés",
       "link_id": "c_93c8cc",
       "source": "Foc a Terra",
       "date": "2026-06-08",
-      "time": "04:00",
-      "summary": "Entrevista a la campiona de natació sincronitzada, revelant la seva trajectòria i impacte esportiu."
+      "time": "06:00",
+      "summary": "Explora la transformació de la natació sincronitzada en esport de masses gràcies a Anna Tarrés."
     },
     {
       "title": "Porta la teva comunitat local al xat mundial!",
       "link_id": "c_5a8be2",
       "source": "WordPress Pòdcast",
       "date": "2026-06-16",
-      "time": "00:00",
-      "summary": "Descobreix com WordPress integra comunitats locals al Slack global per potenciar la col·laboració."
+      "time": "02:00",
+      "summary": "Mostra com integrar comunitats locals a Slack global per ampliar la comunicació i col·laboració."
     },
     {
       "title": "Capítol 67: Digue’m com camines i et diré quina malaltia pots tenir",
       "link_id": "c_fc168d",
       "source": "RAC&GO",
       "date": "2026-06-16",
-      "time": "06:21",
-      "summary": "Explora l'ús d'IA i sensors per predir malalties a través de l'anàlisi de la teva caminada."
+      "time": "08:21",
+      "summary": "Explica com sensors i IA poden predir malalties a partir del patró de caminada."
     }
   ]
 }

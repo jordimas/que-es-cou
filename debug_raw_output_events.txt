@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T09:00",
+  "generated_at": "2026-06-22T10:42",
   "id": "events",
   "title": "Trobades",
   "sources_checked": [],
@@ -10,7 +10,15 @@
       "source": "WordPress BCN",
       "date": "2026-06-17",
       "time": "15:42",
-      "summary": "Aprèn a crear un directori d’empreses amb Elementor, afegint accés restringit i acords de confidencialitat."
+      "summary": "Descobreix com integrar GeoDirectory i UsersWP per crear un directori empresarial amb accés restringit i confidencialitat."
+    },
+    {
+      "title": "Grow Your Business with AI: Introducing Claude Cowork",
+      "link_id": "c_cfa889",
+      "source": "AI Professionals Barcelona",
+      "date": "2026-06-21",
+      "time": "15:59",
+      "summary": "Aprèn a potenciar la teva empresa amb Claude Cowork, IA que treballa directament amb fitxers locals."
     }
   ]
 }

@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-06-21T12:00",
+  "generated_at": "2026-06-22T12:00",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
+    {
+      "name": "Ara.cat",
+      "url": "https://www.ara.cat/rss/",
+      "articles_found": 3
+    },
     {
       "name": "MetaData",
       "url": "https://www.metadata.cat/sindica",
       "articles_found": 3
     },
     {
-      "name": "324.cat",
-      "url": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0",
-      "articles_found": 2
-    },
-    {
-      "name": "Ara.cat",
-      "url": "https://www.ara.cat/rss/",
-      "articles_found": 2
-    },
-    {
-      "name": "La Vanguardia (en català)",
-      "url": "https://www.lavanguardia.com/rss/encatala.xml",
+      "name": "Ara Balears",
+      "url": "https://www.arabalears.cat/rss/",
       "articles_found": 2
     },
     {
       "name": "VilaWeb",
       "url": "https://www.vilaweb.cat/feed/",
+      "articles_found": 1
+    },
+    {
+      "name": "RAC1",
+      "url": "https://www.rac1.cat/rss/home.xml",
       "articles_found": 1
     }
   ],
@@ -36,39 +36,23 @@
       "source": "MetaData",
       "date": "2026-06-19",
       "time": "08:50",
-      "summary": "Barcelona acull el centre de computació quàntica més gran del sud d’Europa, generant 210 nous llocs i impulsant la recerca."
+      "summary": "Barcelona atrau 92 milions d'euros i 210 llocs per al centre quàntic més gran del sud d'Europa, impulsant la recerca."
     },
     {
-      "title": "Catalunya accelera l’aposta pels centres de dades per impulsar la sobirania digital i la competitivitat",
-      "link_id": "c_2a14a7",
+      "title": "La IA entra a Collserola per avançar-se als incendis forestals",
+      "link_id": "c_1b8109",
       "source": "MetaData",
-      "date": "2026-06-16",
-      "time": "12:25",
-      "summary": "El govern aposta per centres de dades com infraestructura clau, reforçant la sobirania digital i la competitivitat de Catalunya."
+      "date": "2026-06-22",
+      "time": "11:50",
+      "summary": "Collserola prova IA i videovigilància per alertar incendis forestals en temps real, protegint el parc i la població."
     },
     {
-      "title": "Catalunya fa un pas més per acollir una de les grans gigafactories europees d’intel·ligència artificial",
-      "link_id": "c_acba84",
+      "title": "Barcelona acollirà la 12a European Blockchain Convention en plena consolidació institucional dels actius digitals",
+      "link_id": "c_0f6e25",
       "source": "MetaData",
-      "date": "2026-06-16",
-      "time": "16:20",
-      "summary": "Catalunya aprova una societat públic-privada per acollir una gigafàbrica d’IA a Móra la Nova, amb 719 milions d’euros."
-    },
-    {
-      "title": "Philippe Aghion, Nobel d'Economia, defensa els beneficis de la IA \"per als que pensen de forma disruptiva\"",
-      "link_id": "c_728745",
-      "source": "324.cat",
-      "date": "2026-06-20",
-      "time": "18:32",
-      "summary": "L’economista Nobel Philippe Aghion defensa la IA com a motor d’innovació per impulsar la productivitat i el creixement."
-    },
-    {
-      "title": "Sobrecàrrega a la feina per la IA i la digitalització: \"La gent està sobrepassada i acaba al metge\"",
-      "link_id": "c_ec6d99",
-      "source": "324.cat",
-      "date": "2026-06-21",
-      "time": "07:40",
-      "summary": "El professor Todolí alerta que la digitalització sobrecarrega els treballadors, augmentant les baixes i la necessitat de suport mèdic."
+      "date": "2026-06-22",
+      "time": "09:43",
+      "summary": "La 12a European Blockchain Convention a Barcelona reunirà 6.000 professionals per definir el futur dels actius digitals."
     },
     {
       "title": "Eurecat accelera la innovació de les empreses amb solucions tecnològiques d'alt impacte",
@@ -76,7 +60,7 @@
       "source": "Ara.cat",
       "date": "2026-06-19",
       "time": "21:58",
-      "summary": "Eurecat rep el Premi Nacional a la Transferència del Coneixement, impulsant la innovació empresarial i el benestar social a Catalunya."
+      "summary": "Eurecat rep el Premi Nacional per la transferència del coneixement, impulsant solucions tecnològiques d'alt impacte a les empreses."
     },
     {
       "title": "El CEEC reivindica el paper clau del sector energètic en la seva gran trobada anual",
@@ -84,31 +68,47 @@
       "source": "Ara.cat",
       "date": "2026-06-18",
       "time": "06:41",
-      "summary": "El CEEC organitza la Nit de l’Eficiència, reunint 750 professionals per promoure la transició energètica i la innovació."
+      "summary": "El CEEC destaca el paper clau de l'energia eficient en la Nit de l'Eficiència, reunint 750 professionals del sector."
     },
     {
-      "title": "Fita a Barcelona: un robot extreu un ronyó a un nen amb una sola incisió",
-      "link_id": "c_34e1b6",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-06-20",
-      "time": "07:58",
-      "summary": "Un robot pioner extreu un ronyó d’un nen amb una sola incisió, marcant un avanç mèdic d’Europa."
+      "title": "50.000 cotxes electrificats matriculats en només tres anys: el rècord improbable de BYD",
+      "link_id": "c_c8f91d",
+      "source": "Ara.cat",
+      "date": "2026-06-19",
+      "time": "17:26",
+      "summary": "BYD supera el rècord amb 50.000 cotxes electrificats matriculats a Espanya en tres anys, accelerant la mobilitat sostenible."
     },
     {
-      "title": "La gent en la intel·ligència artificial (i V)",
-      "link_id": "c_c2cd83",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-06-20",
-      "time": "00:35",
-      "summary": "Debat sobre la decisió humana en entorns automatitzats, qüestionant la sobirania i la responsabilitat davant els algoritmes."
-    },
-    {
-      "title": "L’impacte de la IA: allargarà la vida de les centrals de gas i de les nuclears?",
-      "link_id": "c_8ec31f",
+      "title": "S’ha acabat l’era de la IA barata?",
+      "link_id": "c_2ac23f",
       "source": "VilaWeb",
-      "date": "2026-06-20",
+      "date": "2026-06-21",
       "time": "19:40",
-      "summary": "Les Nacions Unides alerten sobre l’impacte ambiental dels centres de dades, mentre la UE impulsa canvis de consum energètic."
+      "summary": "La IA barata desapareix mentre les empreses augmenten preus per recuperar inversions en xips i centres de dades."
+    },
+    {
+      "title": "Els drons ucraïnesos aïllen Crimea i la deixen sense gasolina i sense turistes",
+      "link_id": "c_ca5837",
+      "source": "Ara Balears",
+      "date": "2026-06-21",
+      "time": "11:55",
+      "summary": "Drones ucraïnesos aïllen Crimea, bloquejant el trànsit i deixant la península sense subministraments ni turisme."
+    },
+    {
+      "title": "Bars que només serveixen llet, una moda saludable a Kigali",
+      "link_id": "c_3b2493",
+      "source": "Ara Balears",
+      "date": "2026-06-22",
+      "time": "06:00",
+      "summary": "Bars de llet a Kigali promouen una moda saludable, impulsant el consum de productes lactis locals."
+    },
+    {
+      "title": "Els Mossos enxampen un lladre al Sónar amb 34 mòbils robats amagats als pantalons",
+      "link_id": "c_6aff45",
+      "source": "RAC1",
+      "date": "2026-06-22",
+      "time": "08:02",
+      "summary": "Mossos detenen un lladre amb 34 telèfons robats al Sónar, evitant un gran robatori a l'esdeveniment musical."
     }
   ]
 }
