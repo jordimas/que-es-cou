@@ -1,31 +1,36 @@
 {
-  "generated_at": "2026-06-22T12:00",
+  "generated_at": "2026-06-23T09:45",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
-    {
-      "name": "Ara.cat",
-      "url": "https://www.ara.cat/rss/",
-      "articles_found": 3
-    },
     {
       "name": "MetaData",
       "url": "https://www.metadata.cat/sindica",
       "articles_found": 3
     },
     {
-      "name": "Ara Balears",
-      "url": "https://www.arabalears.cat/rss/",
+      "name": "Ara.cat",
+      "url": "https://www.ara.cat/rss/",
       "articles_found": 2
     },
     {
-      "name": "VilaWeb",
-      "url": "https://www.vilaweb.cat/feed/",
+      "name": "El Nacional.cat",
+      "url": "https://www.elnacional.cat/uploads/feeds/feed_ca.xml",
+      "articles_found": 2
+    },
+    {
+      "name": "Segre",
+      "url": "https://www.segre.com/ca/rss/home.xml",
       "articles_found": 1
     },
     {
-      "name": "RAC1",
-      "url": "https://www.rac1.cat/rss/home.xml",
+      "name": "El Mon.cat",
+      "url": "https://www.elmon.cat/feed/",
+      "articles_found": 1
+    },
+    {
+      "name": "Cugat.cat",
+      "url": "https://www.cugat.cat/feed/",
       "articles_found": 1
     }
   ],
@@ -36,7 +41,15 @@
       "source": "MetaData",
       "date": "2026-06-19",
       "time": "08:50",
-      "summary": "Barcelona atrau 92 milions d'euros i 210 llocs per al centre quàntic més gran del sud d'Europa, impulsant la recerca."
+      "summary": "La inversió de 92 milions impulsa Barcelona com a hub de computació quàntica, creant 210 nous llocs d'ocupació."
+    },
+    {
+      "title": "Eurecat liderarà el primer gran model europeu d’IA per a la robòtica industrial",
+      "link_id": "c_065179",
+      "source": "MetaData",
+      "date": "2026-06-22",
+      "time": "15:43",
+      "summary": "Eurecat encapçalarà el projecte GRAIL, una IA europea per millorar la productivitat dels robots industrials."
     },
     {
       "title": "La IA entra a Collserola per avançar-se als incendis forestals",
@@ -44,71 +57,63 @@
       "source": "MetaData",
       "date": "2026-06-22",
       "time": "11:50",
-      "summary": "Collserola prova IA i videovigilància per alertar incendis forestals en temps real, protegint el parc i la població."
-    },
-    {
-      "title": "Barcelona acollirà la 12a European Blockchain Convention en plena consolidació institucional dels actius digitals",
-      "link_id": "c_0f6e25",
-      "source": "MetaData",
-      "date": "2026-06-22",
-      "time": "09:43",
-      "summary": "La 12a European Blockchain Convention a Barcelona reunirà 6.000 professionals per definir el futur dels actius digitals."
+      "summary": "Un pilot d'IA vigila Collserola, detectant focs incipients en temps real per protegir el parc natural."
     },
     {
       "title": "Eurecat accelera la innovació de les empreses amb solucions tecnològiques d'alt impacte",
       "link_id": "c_a01179",
       "source": "Ara.cat",
       "date": "2026-06-19",
-      "time": "21:58",
-      "summary": "Eurecat rep el Premi Nacional per la transferència del coneixement, impulsant solucions tecnològiques d'alt impacte a les empreses."
+      "time": "23:58",
+      "summary": "Eurecat rep el Premi Nacional a la Transferència del Coneixement, reconeixent la seva contribució a empreses i societat."
     },
     {
-      "title": "El CEEC reivindica el paper clau del sector energètic en la seva gran trobada anual",
-      "link_id": "c_17a628",
+      "title": "Kit Digital, un model que ha transformat la gestió de les ajudes",
+      "link_id": "c_82d296",
       "source": "Ara.cat",
-      "date": "2026-06-18",
-      "time": "06:41",
-      "summary": "El CEEC destaca el paper clau de l'energia eficient en la Nit de l'Eficiència, reunint 750 professionals del sector."
-    },
-    {
-      "title": "50.000 cotxes electrificats matriculats en només tres anys: el rècord improbable de BYD",
-      "link_id": "c_c8f91d",
-      "source": "Ara.cat",
-      "date": "2026-06-19",
-      "time": "17:26",
-      "summary": "BYD supera el rècord amb 50.000 cotxes electrificats matriculats a Espanya en tres anys, accelerant la mobilitat sostenible."
-    },
-    {
-      "title": "S’ha acabat l’era de la IA barata?",
-      "link_id": "c_2ac23f",
-      "source": "VilaWeb",
-      "date": "2026-06-21",
-      "time": "19:40",
-      "summary": "La IA barata desapareix mentre les empreses augmenten preus per recuperar inversions en xips i centres de dades."
-    },
-    {
-      "title": "Els drons ucraïnesos aïllen Crimea i la deixen sense gasolina i sense turistes",
-      "link_id": "c_ca5837",
-      "source": "Ara Balears",
-      "date": "2026-06-21",
-      "time": "11:55",
-      "summary": "Drones ucraïnesos aïllen Crimea, bloquejant el trànsit i deixant la península sense subministraments ni turisme."
-    },
-    {
-      "title": "Bars que només serveixen llet, una moda saludable a Kigali",
-      "link_id": "c_3b2493",
-      "source": "Ara Balears",
       "date": "2026-06-22",
-      "time": "06:00",
-      "summary": "Bars de llet a Kigali promouen una moda saludable, impulsant el consum de productes lactis locals."
+      "time": "23:59",
+      "summary": "El programa Kit Digital ha finançat més de 172.700 ajudes, impulsant la digitalització de pimes catalanes."
     },
     {
-      "title": "Els Mossos enxampen un lladre al Sónar amb 34 mòbils robats amagats als pantalons",
-      "link_id": "c_6aff45",
-      "source": "RAC1",
+      "title": "Retards dos mesos a la línia del tren de la costa per robatori de cable",
+      "link_id": "c_0c033b",
+      "source": "Segre",
+      "date": "2026-06-23",
+      "time": "05:32",
+      "summary": "Robatori de cable obliga a reduir la velocitat del tren de la costa, provocant retards de fins a dos mesos."
+    },
+    {
+      "title": "Un nou robatori de coure afecta l’R3 per segon dia consecutiu",
+      "link_id": "c_8a88c4",
+      "source": "El Mon.cat",
+      "date": "2026-06-23",
+      "time": "09:32",
+      "summary": "Un segon robatori de coure interromp la línia R3 de Rodalies, afectant milers de viatgers a la zona."
+    },
+    {
+      "title": "Sant Cugat equipa els treballadors de la neteja amb polseres que alerten dels cops de calor i gorres refrigerants",
+      "link_id": "c_3903a2",
+      "source": "Cugat.cat",
       "date": "2026-06-22",
-      "time": "08:02",
-      "summary": "Mossos detenen un lladre amb 34 telèfons robats al Sónar, evitant un gran robatori a l'esdeveniment musical."
+      "time": "13:18",
+      "summary": "Els netejadors de Sant Cugat portaran polseres i gorres refrigerants per prevenir cops de calor durant l'estiu."
+    },
+    {
+      "title": "El Prime Day d'Amazon deixa els AirPods 4 d'Apple completament enfonsats: preu mínim històric",
+      "link_id": "c_91a7f7",
+      "source": "El Nacional.cat",
+      "date": "2026-06-23",
+      "time": "08:31",
+      "summary": "El Prime Day abaixa el preu dels AirPods 4, oferint l'oferta més barata fins ara a Catalunya."
+    },
+    {
+      "title": "Els robots per a la llar fan un nou pas: la Xina crea un vàter amb rodes completament autònom",
+      "link_id": "c_9f2b23",
+      "source": "El Nacional.cat",
+      "date": "2026-06-22",
+      "time": "20:35",
+      "summary": "La Xina desenvolupa un vàter autònom amb rodes, mostrant com la robòtica domèstica avança ràpidament."
     }
   ]
 }

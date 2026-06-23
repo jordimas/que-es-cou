@@ -1,24 +1,88 @@
 {
-  "generated_at": "2026-06-22T12:42",
+  "generated_at": "2026-06-23T10:00",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Bain prova objectius d'adquisició de programari amb rèpliques d'IA vibecodificades",
-      "link_id": "c_2caff1",
+      "title": "SpaceX perd 400.000 milions de dòlars en valor de mercat mentre el repte inicial es capgira",
+      "link_id": "c_136fc1",
       "source": "Financial Times",
-      "date": "2026-06-22",
-      "time": "04:00",
-      "summary": "Bain recrea ràpidament programari per avaluar avantatges competitius abans d'adquirir-lo."
+      "date": "2026-06-23",
+      "time": "05:59",
+      "summary": "La capitalització de SpaceX cau un 16% després d'un augment inicial de les obligacions nord-americanes."
     },
     {
-      "title": "Les guerres desencadenen una fuita de capital de risc de 12.000 milions de dòlars cap a la tecnologia de defensa",
-      "link_id": "c_5ed9bb",
+      "title": "Intercanvi d'IA",
+      "link_id": "c_cc7816",
       "source": "Financial Times",
-      "date": "2026-06-21",
-      "time": "18:00",
-      "summary": "Les tensions globals impulsen inversions massives en startups de defensa, accelerant valoracions i riscos."
+      "date": "2026-06-23",
+      "time": "04:06",
+      "summary": "FT explora com l'IA transforma sectors a través de diàlegs amb científics i líders empresarials."
+    },
+    {
+      "title": "OpenAI presenta anuncis de ChatGPT als màrqueting de Cannes abans de la OPI",
+      "link_id": "c_bbdfeb",
+      "source": "Financial Times",
+      "date": "2026-06-23",
+      "time": "04:00",
+      "summary": "OpenAI busca nous ingressos mostrant anuncis a Cannes, tot i que encara no ha cotitzat."
+    },
+    {
+      "title": "Una empresa d'IA va volar mostrant vincles amb Trump, però ara lluita per sobreviure",
+      "link_id": "c_3de805",
+      "source": "Financial Times",
+      "date": "2026-06-23",
+      "time": "04:00",
+      "summary": "Fermi, vinculada a Trump, veu caure les accions i la destitució del CEO, posant en dubte el seu futur."
+    },
+    {
+      "title": "Alphabet viu el seu pitjor dia en més d'un any per temors d'IA després de sortides de perfil alt",
+      "link_id": "c_faa0b6",
+      "source": "CNBC Technology",
+      "date": "2026-06-22",
+      "time": "21:04",
+      "summary": "Alphabet viu una caiguda històrica mentre es van perdre executius clau d'IA, generant incertesa al mercat."
+    },
+    {
+      "title": "Amenaces impulsades per IA podrien tenir èxit 'dins mesos', alerta Five Eyes",
+      "link_id": "c_93f1b6",
+      "source": "Financial Times",
+      "date": "2026-06-22",
+      "time": "15:59",
+      "summary": "Five Eyes alerta que les amenaces d'IA podrien ser operatives en qüestió de mesos."
+    },
+    {
+      "title": "Aquestes dues accions podrien ser grans guanyadores de la propera generació de xips d'IA",
+      "link_id": "c_6d5762",
+      "source": "CNBC Technology",
+      "date": "2026-06-22",
+      "time": "15:36",
+      "summary": "Analistes preveuen que dues accions podrien guanyar força gràcies a la demanda creixent de xips d'IA."
+    },
+    {
+      "title": "SpaceX signa acord de potència informàtica amb la startup d'IA de codi obert Reflection per fins a 6.300 milions de dòlars",
+      "link_id": "c_21528e",
+      "source": "CNBC Technology",
+      "date": "2026-06-22",
+      "time": "15:00",
+      "summary": "SpaceX ofereix potència de càlcul a Reflection, ampliant la seva presència en serveis d'IA al núvol."
+    },
+    {
+      "title": "Firma d'IA guanya un cas judicial al Regne Unit per primera vegada",
+      "link_id": "c_37bf62",
+      "source": "Financial Times",
+      "date": "2026-06-22",
+      "time": "11:27",
+      "summary": "Una firma d'IA aconsegueix guanyar un procés judicial britànic, marcant un precedent legal."
+    },
+    {
+      "title": "Simon Johnson: 'Ningú necessita tants treballadors de col·legi blanc com abans'",
+      "link_id": "c_820d0e",
+      "source": "Financial Times",
+      "date": "2026-06-22",
+      "time": "11:00",
+      "summary": "Johnson advoca per reduir la plantilla de treballadors de col·legi blanc davant l'automatització."
     }
   ]
 }

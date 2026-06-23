@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-06-22T12:42",
+  "generated_at": "2026-06-23T08:31",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Polymarket ha pagat creadors per publicar vídeos enganyosos sobre apostes falses",
-      "link_id": "c_7f3a66",
-      "source": "TechCrunch",
-      "date": "2026-06-21",
-      "time": "16:35",
-      "summary": "Polymarket paga influencers per crear contingut fals, enganyant usuaris i distorsionant el mercat d'apostes."
-    },
-    {
-      "title": "Polymarket ha pagat persones per publicar vídeos falsos mostrant-se apostant",
-      "link_id": "c_3489b8",
-      "source": "The Verge",
-      "date": "2026-06-21",
-      "time": "14:19",
-      "summary": "Els vídeos falsos mostren apostes inexistents, buscant augmentar la visibilitat de Polymarket a les xarxes socials."
-    },
-    {
-      "title": "Segons informes, Polymarket paga creadors per publicar vídeos falsos d’apostes",
-      "link_id": "c_d6be4a",
-      "source": "Engadget",
-      "date": "2026-06-21",
-      "time": "20:53",
-      "summary": "Creadors reben diners per publicar clips falsos, alimentant una campanya de desinformació sobre apostes en línia."
-    },
-    {
-      "title": "Claude Guillemot, cofundador d'Ubisoft, mor en un accident d'avió",
-      "link_id": "c_03221b",
-      "source": "TechCrunch",
-      "date": "2026-06-21",
-      "time": "18:34",
-      "summary": "La mort del pioner de videojocs Claude Guillemot sacseja la indústria i recorda la seva llegenda."
-    },
-    {
-      "title": "Claude Guillemot, cofundador d'Ubisoft, mor en un accident d'avió",
-      "link_id": "c_023193",
-      "source": "Tom's Hardware",
-      "date": "2026-06-21",
-      "time": "14:04",
-      "summary": "El tràgic accident deixa la comunitat de jocs sense una de les seves veus fundadores."
-    },
-    {
-      "title": "Els plans d’un dispositiu portàtil Xbox de Microsoft reapareixen amb un misteriós nou logotip",
-      "link_id": "c_94f1ea",
-      "source": "Digital Trends",
+      "title": "El accident de Tesla que va matar una dona de Texas serà investigat pels reguladors federals",
+      "link_id": "c_2f0d9a",
+      "source": "NYT Technology",
       "date": "2026-06-22",
-      "time": "10:29",
-      "summary": "El nou logotip podria indicar una estratègia de Microsoft per revitalitzar el mercat de consoles portàtils."
+      "time": "22:53",
+      "summary": "Investigació federal examinarà les circumstàncies del xoc i l’ús del sistema d’assistència."
     },
     {
-      "title": "Estalvia centenars convertint un SSD o disc dur inactiu en un disc extern útil per només 8 $",
-      "link_id": "c_2ace34",
+      "title": "Nvidia afirma que el repte de l’aigua per a la IA està gairebé resolt",
+      "link_id": "c_d9afb6",
+      "source": "Axios",
+      "date": "2026-06-22",
+      "time": "09:00",
+      "summary": "Nvidia diu que la nova arquitectura redueix dràsticament el consum d’aigua dels centres de dades."
+    },
+    {
+      "title": "Valve obre les reserves del Steam Machine: preu inicial de 1.049 $, cua aleatòria per evitar revenda i inventari limitat",
+      "link_id": "c_87ff81",
       "source": "Tom's Hardware",
       "date": "2026-06-22",
-      "time": "10:28",
-      "summary": "Reutilitza discos antics com a emmagatzematge extern, reduint costos i residus electrònics."
+      "time": "17:00",
+      "summary": "Preu base de 1.049 $, reserva amb cua aleatòria per evitar revenda i existències limitades."
     },
     {
-      "title": "Chrome prova un botó 'Ask Gemini' que segueix les teves seleccions de text a la web",
-      "link_id": "c_5a0aea",
-      "source": "Digital Trends",
-      "date": "2026-06-22",
-      "time": "10:19",
-      "summary": "La funció permet consultar Gemini directament des del text seleccionat, millorant la interacció amb IA."
-    },
-    {
-      "title": "Construïnt i revisant PC: No cometis aquest error d'actualització",
-      "link_id": "c_9f52d5",
-      "source": "CNET",
-      "date": "2026-06-22",
-      "time": "10:07",
-      "summary": "Evita errors comuns en actualitzacions de PC que poden reduir rendiment i comprometre la compatibilitat."
-    },
-    {
-      "title": "Aquests són els 12 productes d'Ikea que el cap de disseny de l'empresa posseeix personalment",
-      "link_id": "c_d39394",
+      "title": "Meta suspèn el programa de seguiment d’empleats després d’una filtració interna de dades",
+      "link_id": "c_0b1745",
       "source": "Wired",
       "date": "2026-06-22",
-      "time": "10:00",
-      "summary": "El dissenyador de Ikea mostra la seva selecció personal, revelant preferències i tendències de l'empresa."
+      "time": "21:08",
+      "summary": "Meta ha aturat el seguiment de tecles i ratolins després de filtrar dades internes."
+    },
+    {
+      "title": "Google DeepMind apostarà 75 M$ al futur de la IA a Hollywood amb l’acord amb A24",
+      "link_id": "c_88a5c9",
+      "source": "TechCrunch",
+      "date": "2026-06-22",
+      "time": "18:49",
+      "summary": "DeepMind invertirà 75 M$ per desenvolupar eines d’IA que transformin la producció cinematogràfica."
+    },
+    {
+      "title": "OpenAI llança una nova iniciativa per trobar i corregir errors de codi obert",
+      "link_id": "c_3b5962",
+      "source": "TechCrunch",
+      "date": "2026-06-23",
+      "time": "00:11",
+      "summary": "OpenAI ofereix recursos per detectar i arreglar vulnerabilitats en projectes de codi obert."
+    },
+    {
+      "title": "Masayoshi Son descarta la idea de Musk sobre centres de dades orbitals",
+      "link_id": "c_3aed0e",
+      "source": "Bloomberg Technology",
+      "date": "2026-06-23",
+      "time": "04:16",
+      "summary": "Son afirma que les instal·lacions espacials són innecessàries; la IA es desenvoluparà a la Terra."
+    },
+    {
+      "title": "Segons informes, l’IA Mythos d’Anthropic ha vulnerat gairebé tots els sistemes classificats de la NSA",
+      "link_id": "c_6697a3",
+      "source": "Tom's Hardware",
+      "date": "2026-06-22",
+      "time": "17:26",
+      "summary": "L’IA Mythos ha superat les proves de seguretat, accedint a sistemes confidencials de la NSA."
+    },
+    {
+      "title": "L’aliança Five Eyes alerta que les amenaces cibernètiques d’IA avançada són a mesos",
+      "link_id": "c_cb25d5",
+      "source": "The Next Web",
+      "date": "2026-06-23",
+      "time": "07:56",
+      "summary": "Els serveis de intel·ligència alerten que les noves IA podrien ser utilitzades per atacs cibernètics pròximament."
+    },
+    {
+      "title": "Llista actualitzada: grans acomiadaments tecnològics el 2026 amb l’IA com a motiu",
+      "link_id": "c_81f1e8",
+      "source": "TechCrunch",
+      "date": "2026-06-23",
+      "time": "01:27",
+      "summary": "Empreses tecnològiques han acomiadat milers de treballadors citant l’automatització impulsada per IA."
     }
   ]
 }
