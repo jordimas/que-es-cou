@@ -1,55 +1,92 @@
 {
-  "generated_at": "2026-06-23T09:45",
+  "generated_at": "2026-06-24T09:30",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
     {
-      "name": "MetaData",
-      "url": "https://www.metadata.cat/sindica",
-      "articles_found": 3
+      "name": "Via Empresa",
+      "url": "https://www.viaempresa.cat/uploads/feeds/feed_via-empresa-2024_ca.xml",
+      "articles_found": 1
+    },
+    {
+      "name": "324.cat",
+      "url": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0",
+      "articles_found": 1
     },
     {
       "name": "Ara.cat",
       "url": "https://www.ara.cat/rss/",
+      "articles_found": 3
+    },
+    {
+      "name": "MetaData",
+      "url": "https://www.metadata.cat/sindica",
       "articles_found": 2
     },
     {
-      "name": "El Nacional.cat",
-      "url": "https://www.elnacional.cat/uploads/feeds/feed_ca.xml",
-      "articles_found": 2
-    },
-    {
-      "name": "Segre",
-      "url": "https://www.segre.com/ca/rss/home.xml",
+      "name": "Tot Barcelona",
+      "url": "https://www.totbarcelona.cat/feed/",
       "articles_found": 1
     },
     {
-      "name": "El Mon.cat",
-      "url": "https://www.elmon.cat/feed/",
+      "name": "La Vanguardia (en català)",
+      "url": "https://www.lavanguardia.com/rss/encatala.xml",
       "articles_found": 1
     },
     {
-      "name": "Cugat.cat",
-      "url": "https://www.cugat.cat/feed/",
+      "name": "Lúdica",
+      "url": "https://ludica.cat/feed/",
       "articles_found": 1
     }
   ],
   "articles": [
     {
-      "title": "Barcelona atrau una inversió de 92 milions per impulsar el centre de computació quàntica més gran del sud d’Europa",
-      "link_id": "c_d0e0c1",
-      "source": "MetaData",
-      "date": "2026-06-19",
-      "time": "08:50",
-      "summary": "La inversió de 92 milions impulsa Barcelona com a hub de computació quàntica, creant 210 nous llocs d'ocupació."
+      "title": "Europastry compra la nord-americana Highland Baking Company",
+      "link_id": "c_0bf8a7",
+      "source": "Via Empresa",
+      "date": "2026-06-24",
+      "time": "10:01",
+      "summary": "Europastry compra Highland Baking, ampliant la presència catalana als EUA i superant els 2.000 milions d'euros de facturació."
     },
     {
-      "title": "Eurecat liderarà el primer gran model europeu d’IA per a la robòtica industrial",
-      "link_id": "c_065179",
-      "source": "MetaData",
+      "title": "Noves normes de circulació: 15 anys, l'edat mínima per circular en patinet elèctric",
+      "link_id": "c_a0c9e6",
+      "source": "324.cat",
+      "date": "2026-06-23",
+      "time": "19:24",
+      "summary": "Nou límit d'edat i casc obligatori per patinets protegeixen joves conductors i milloren la seguretat viària."
+    },
+    {
+      "title": "El Parlament Europeu desbloqueja l'euro digital",
+      "link_id": "c_d83960",
+      "source": "Ara.cat",
+      "date": "2026-06-23",
+      "time": "11:33",
+      "summary": "El Parlament Europeu aprova l'euro digital, impulsant una moneda digital europea per facilitar transaccions i innovació financera."
+    },
+    {
+      "title": "Eurecat accelera la innovació de les empreses amb solucions tecnològiques d'alt impacte",
+      "link_id": "c_a01179",
+      "source": "Ara.cat",
+      "date": "2026-06-19",
+      "time": "21:58",
+      "summary": "Eurecat rep el Premi Nacional, reconeixent la seva contribució a la innovació empresarial i al benestar social."
+    },
+    {
+      "title": "Kit Digital, un model que ha transformat la gestió de les ajudes",
+      "link_id": "c_82d296",
+      "source": "Ara.cat",
       "date": "2026-06-22",
-      "time": "15:43",
-      "summary": "Eurecat encapçalarà el projecte GRAIL, una IA europea per millorar la productivitat dels robots industrials."
+      "time": "21:59",
+      "summary": "El programa Kit Digital ha concedit més de 172.700 ajudes a Catalunya, impulsant la digitalització de pimes i creixement econòmic."
+    },
+    {
+      "title": "La biotecnològica catalana Hipra espera tenir una vacuna contra la pesta porcina d'aquí 7 anys",
+      "link_id": "c_ff9c5d",
+      "source": "MetaData",
+      "date": "2026-06-23",
+      "time": "14:11",
+      "summary": "Hipra lidera un consorci internacional per desenvolupar una vacuna contra la pesta porcina en els pròxims set anys."
     },
     {
       "title": "La IA entra a Collserola per avançar-se als incendis forestals",
@@ -57,63 +94,31 @@
       "source": "MetaData",
       "date": "2026-06-22",
       "time": "11:50",
-      "summary": "Un pilot d'IA vigila Collserola, detectant focs incipients en temps real per protegir el parc natural."
+      "summary": "Un projecte pilot usa IA i videovigilància per detectar incendis forestals a la Serra de Collserola, augmentant la resposta ràpida."
     },
     {
-      "title": "Eurecat accelera la innovació de les empreses amb solucions tecnològiques d'alt impacte",
-      "link_id": "c_a01179",
-      "source": "Ara.cat",
-      "date": "2026-06-19",
-      "time": "23:58",
-      "summary": "Eurecat rep el Premi Nacional a la Transferència del Coneixement, reconeixent la seva contribució a empreses i societat."
-    },
-    {
-      "title": "Kit Digital, un model que ha transformat la gestió de les ajudes",
-      "link_id": "c_82d296",
-      "source": "Ara.cat",
-      "date": "2026-06-22",
-      "time": "23:59",
-      "summary": "El programa Kit Digital ha finançat més de 172.700 ajudes, impulsant la digitalització de pimes catalanes."
-    },
-    {
-      "title": "Retards dos mesos a la línia del tren de la costa per robatori de cable",
-      "link_id": "c_0c033b",
-      "source": "Segre",
+      "title": "Barcelona també tindrà videovigilància al Raval i la plaça Reial",
+      "link_id": "c_4c62b1",
+      "source": "Tot Barcelona",
       "date": "2026-06-23",
-      "time": "05:32",
-      "summary": "Robatori de cable obliga a reduir la velocitat del tren de la costa, provocant retards de fins a dos mesos."
+      "time": "12:57",
+      "summary": "L'Ajuntament instal·la 33 càmeres al Raval i la plaça Reial, reforçant la seguretat urbana i la vigilància pública."
     },
     {
-      "title": "Un nou robatori de coure afecta l’R3 per segon dia consecutiu",
-      "link_id": "c_8a88c4",
-      "source": "El Mon.cat",
-      "date": "2026-06-23",
-      "time": "09:32",
-      "summary": "Un segon robatori de coure interromp la línia R3 de Rodalies, afectant milers de viatgers a la zona."
+      "title": "El Govern inverteix 300 milions més en tecnologia quàntica per potenciar la gigafactoria de Móra la Nova",
+      "link_id": "c_54d87e",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-06-24",
+      "time": "07:52",
+      "summary": "El Govern destina 300 milions addicionals a la tecnologia quàntica per potenciar la gigafactoria de Móra la Nova."
     },
     {
-      "title": "Sant Cugat equipa els treballadors de la neteja amb polseres que alerten dels cops de calor i gorres refrigerants",
-      "link_id": "c_3903a2",
-      "source": "Cugat.cat",
+      "title": "Les dades recollides per Pokémon Go s’han utilitzat per entrenar tecnologia amb aplicacions militars",
+      "link_id": "c_001496",
+      "source": "Lúdica",
       "date": "2026-06-22",
-      "time": "13:18",
-      "summary": "Els netejadors de Sant Cugat portaran polseres i gorres refrigerants per prevenir cops de calor durant l'estiu."
-    },
-    {
-      "title": "El Prime Day d'Amazon deixa els AirPods 4 d'Apple completament enfonsats: preu mínim històric",
-      "link_id": "c_91a7f7",
-      "source": "El Nacional.cat",
-      "date": "2026-06-23",
-      "time": "08:31",
-      "summary": "El Prime Day abaixa el preu dels AirPods 4, oferint l'oferta més barata fins ara a Catalunya."
-    },
-    {
-      "title": "Els robots per a la llar fan un nou pas: la Xina crea un vàter amb rodes completament autònom",
-      "link_id": "c_9f2b23",
-      "source": "El Nacional.cat",
-      "date": "2026-06-22",
-      "time": "20:35",
-      "summary": "La Xina desenvolupa un vàter autònom amb rodes, mostrant com la robòtica domèstica avança ràpidament."
+      "time": "17:40",
+      "summary": "Dades de Pokémon Go s'han utilitzat per entrenar IA amb aplicacions militars, revelant riscos de privacitat i ús no autoritzat."
     }
   ]
 }

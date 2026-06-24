@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-06-23T08:31",
+  "generated_at": "2026-06-24T10:24",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "El accident de Tesla que va matar una dona de Texas serà investigat pels reguladors federals",
-      "link_id": "c_2f0d9a",
-      "source": "NYT Technology",
-      "date": "2026-06-22",
-      "time": "22:53",
-      "summary": "Investigació federal examinarà les circumstàncies del xoc i l’ús del sistema d’assistència."
-    },
-    {
-      "title": "Nvidia afirma que el repte de l’aigua per a la IA està gairebé resolt",
-      "link_id": "c_d9afb6",
-      "source": "Axios",
-      "date": "2026-06-22",
-      "time": "09:00",
-      "summary": "Nvidia diu que la nova arquitectura redueix dràsticament el consum d’aigua dels centres de dades."
-    },
-    {
-      "title": "Valve obre les reserves del Steam Machine: preu inicial de 1.049 $, cua aleatòria per evitar revenda i inventari limitat",
-      "link_id": "c_87ff81",
-      "source": "Tom's Hardware",
-      "date": "2026-06-22",
-      "time": "17:00",
-      "summary": "Preu base de 1.049 $, reserva amb cua aleatòria per evitar revenda i existències limitades."
-    },
-    {
-      "title": "Meta suspèn el programa de seguiment d’empleats després d’una filtració interna de dades",
-      "link_id": "c_0b1745",
-      "source": "Wired",
-      "date": "2026-06-22",
-      "time": "21:08",
-      "summary": "Meta ha aturat el seguiment de tecles i ratolins després de filtrar dades internes."
-    },
-    {
-      "title": "Google DeepMind apostarà 75 M$ al futur de la IA a Hollywood amb l’acord amb A24",
-      "link_id": "c_88a5c9",
-      "source": "TechCrunch",
-      "date": "2026-06-22",
-      "time": "18:49",
-      "summary": "DeepMind invertirà 75 M$ per desenvolupar eines d’IA que transformin la producció cinematogràfica."
-    },
-    {
-      "title": "OpenAI llança una nova iniciativa per trobar i corregir errors de codi obert",
-      "link_id": "c_3b5962",
+      "title": "Claude Tag d'Anthropic aprèn la teva empresa, un missatge de Slack a la vegada",
+      "link_id": "c_9f34bd",
       "source": "TechCrunch",
       "date": "2026-06-23",
-      "time": "00:11",
-      "summary": "OpenAI ofereix recursos per detectar i arreglar vulnerabilitats en projectes de codi obert."
+      "time": "17:00",
+      "summary": "Claude Tag s'integra a Slack per ajudar amb tasques i informació empresarial."
     },
     {
-      "title": "Masayoshi Son descarta la idea de Musk sobre centres de dades orbitals",
-      "link_id": "c_3aed0e",
+      "title": "Meta llança nous ulleres intel·ligents més barates amb la seva marca",
+      "link_id": "c_7d30d8",
+      "source": "TechCrunch",
+      "date": "2026-06-23",
+      "time": "14:11",
+      "summary": "Meta presenta ulleres intel·ligents assequibles, amb càmera i micròfons integrats."
+    },
+    {
+      "title": "El superordinador LineShine de la Xina supera l'El Capitan dels EUA i encapçala el Top500",
+      "link_id": "c_4a75be",
+      "source": "Tom's Hardware",
+      "date": "2026-06-23",
+      "time": "12:55",
+      "summary": "LineShine, basat només en CPU, supera 2 ExaFLOPS i ocupa el primer lloc mundial."
+    },
+    {
+      "title": "Oracle acomiada 21.000 empleats en un any per l'adopció d'IA i costos d'infraestructura",
+      "link_id": "c_1a2d66",
+      "source": "Tom's Hardware",
+      "date": "2026-06-23",
+      "time": "12:05",
+      "summary": "Oracle reduïx la plantilla per centrar-se en IA, amb més acomiadaments previstos."
+    },
+    {
+      "title": "Steam Machine es llança amb 879 £, Valve cita costos de components",
+      "link_id": "c_0577e2",
+      "source": "PCWorld",
+      "date": "2026-06-23",
+      "time": "11:25",
+      "summary": "Valve presenta Steam Machine a 879 £, destacant l'augment dels costos de components."
+    },
+    {
+      "title": "YouTube de Google arribeix un acord abans del segon judici per addicció a les xarxes socials a Califòrnia",
+      "link_id": "c_0c54d7",
+      "source": "Digital Trends",
+      "date": "2026-06-24",
+      "time": "06:46",
+      "summary": "YouTube resol el cas amb un adolescent, evitant un judici ampli a Califòrnia."
+    },
+    {
+      "title": "Les pors d'una bombolla d'IA fan caure les accions tecnològiques",
+      "link_id": "c_561867",
+      "source": "Axios",
+      "date": "2026-06-23",
+      "time": "14:04",
+      "summary": "Les accions tecnològiques cauen per l'ansietat d'una possible bombolla d'IA."
+    },
+    {
+      "title": "Meta suspèn el programa de monitoratge d'empleats després que fallin les proteccions de dades",
+      "link_id": "c_b28728",
+      "source": "Computerworld",
+      "date": "2026-06-24",
+      "time": "01:20",
+      "summary": "Meta atura la vigilància interna per problemes de seguretat de dades."
+    },
+    {
+      "title": "Meta ha creat una aplicació de mercats de predicció",
+      "link_id": "c_752cc8",
+      "source": "NYT Technology",
+      "date": "2026-06-23",
+      "time": "22:42",
+      "summary": "Meta llança una app independent per apostar en esdeveniments futurs."
+    },
+    {
+      "title": "Un client d'Anthropic demanda els EUA per la pèrdua d'accés a l'IA Fable",
+      "link_id": "c_eef233",
       "source": "Bloomberg Technology",
       "date": "2026-06-23",
-      "time": "04:16",
-      "summary": "Son afirma que les instal·lacions espacials són innecessàries; la IA es desenvoluparà a la Terra."
-    },
-    {
-      "title": "Segons informes, l’IA Mythos d’Anthropic ha vulnerat gairebé tots els sistemes classificats de la NSA",
-      "link_id": "c_6697a3",
-      "source": "Tom's Hardware",
-      "date": "2026-06-22",
-      "time": "17:26",
-      "summary": "L’IA Mythos ha superat les proves de seguretat, accedint a sistemes confidencials de la NSA."
-    },
-    {
-      "title": "L’aliança Five Eyes alerta que les amenaces cibernètiques d’IA avançada són a mesos",
-      "link_id": "c_cb25d5",
-      "source": "The Next Web",
-      "date": "2026-06-23",
-      "time": "07:56",
-      "summary": "Els serveis de intel·ligència alerten que les noves IA podrien ser utilitzades per atacs cibernètics pròximament."
-    },
-    {
-      "title": "Llista actualitzada: grans acomiadaments tecnològics el 2026 amb l’IA com a motiu",
-      "link_id": "c_81f1e8",
-      "source": "TechCrunch",
-      "date": "2026-06-23",
-      "time": "01:27",
-      "summary": "Empreses tecnològiques han acomiadat milers de treballadors citant l’automatització impulsada per IA."
+      "time": "21:22",
+      "summary": "Un usuari d'Anthropic processa el govern nord-americà per restringir l'IA Fable."
     }
   ]
 }
