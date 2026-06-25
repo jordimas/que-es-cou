@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T08:30",
+  "generated_at": "2026-06-25T08:30",
   "id": "podcasts",
   "title": "Podcasts en català sobre tecnologia",
   "sources_checked": [],
@@ -10,7 +10,7 @@
       "source": "Mossega la poma",
       "date": "2026-06-20",
       "time": "08:48",
-      "summary": "Exploració del mercat de xips i la sobirania tecnològica europea, amb èmfasi en IA i infraestructura oberta."
+      "summary": "Anàlisi del mercat de xips i la necessitat d’una sobirania tecnològica europea independent."
     },
     {
       "title": "La nova llei de la UE respecte a la IA i anècdotes de viatges – Programa 667",
@@ -18,7 +18,7 @@
       "source": "Mossega la poma",
       "date": "2026-06-13",
       "time": "09:42",
-      "summary": "Debat sobre la nova llei d'IA de la UE i anècdotes de viatges, destacant el poder corporatiu."
+      "summary": "Exploració de la nova normativa europea d'IA i relats de viatges que il·lustren el seu impacte."
     },
     {
       "title": "L' Altra Ràdio - El retorn de la tecnologia simple",
@@ -26,7 +26,7 @@
       "source": "L'altra ràdio",
       "date": "2026-06-18",
       "time": "07:33",
-      "summary": "Discussió sobre la tecnologia simple i l'ús d'aparells antics per part de joves, amb IA generada imatges."
+      "summary": "Discussió sobre com la tecnologia simple torna a ser rellevant entre les noves generacions digitals."
     },
     {
       "title": "L' Altra Ràdio - Radioafició: centenari Gaudí, curs a l'EETAC de Castelldefels i fira Friedrichshafen",
@@ -34,7 +34,7 @@
       "source": "L'altra ràdio",
       "date": "2026-06-11",
       "time": "07:33",
-      "summary": "Cobertura del centenari de Gaudí i activitats de radioafició, incloent curs a l'EETAC i fira alemanya."
+      "summary": "Cobertura del centenari de Gaudí i activitats de radioafició, incloent cursos i fira internacional."
     },
     {
       "title": "El gòTIC - Tenim una missió! del 24/6/2026",
@@ -42,7 +42,7 @@
       "source": "El Gòtic",
       "date": "2026-06-23",
       "time": "16:29",
-      "summary": "Missió digital del gòTIC: recursos i estratègies per afrontar reptes de la ciutadania digital actual."
+      "summary": "Missió del gòTIC per impulsar recursos digitals a la comunitat de Tàrrega aquest juny."
     },
     {
       "title": "El gòTIC - Tenim una missió! del 17/6/2026",
@@ -50,15 +50,7 @@
       "source": "El Gòtic",
       "date": "2026-06-16",
       "time": "16:29",
-      "summary": "Segona entrega de la missió gòTIC, continuant el suport a la transformació digital de la comunitat."
-    },
-    {
-      "title": "El gòTIC - Tenim una missió! del 10/6/2026",
-      "link_id": "c_4849bb",
-      "source": "El Gòtic",
-      "date": "2026-06-09",
-      "time": "16:30",
-      "summary": "Primera sessió de la missió gòTIC, enfocada a compartir eines per a la ciutadania digital."
+      "summary": "Segona entrega de la missió gòTIC, centrada en estratègies per a la ciutadania digital."
     },
     {
       "title": "Posem Holallum a la foscor, amb Oriol Vila",
@@ -66,7 +58,7 @@
       "source": "Foc a Terra",
       "date": "2026-06-22",
       "time": "04:00",
-      "summary": "Entrevista amb Oriol Vila de Holaluz sobre emprenedoria, IA i el projecte Blablanote com a CRM personal."
+      "summary": "Entrevista amb Oriol Vila sobre la seva trajectòria emprenedora i el projecte Holaluz."
     },
     {
       "title": "Ja no mosseguem la poma",
@@ -74,7 +66,7 @@
       "source": "Foc a Terra",
       "date": "2026-06-15",
       "time": "04:00",
-      "summary": "Anàlisi de les novetats de la WWDC, incloent controls parentals i el retorn d'Apple Intelligence."
+      "summary": "Anàlisi de les novetats de la WWDC, incloent controls parentals i Apple Intelligence."
     },
     {
       "title": "L'equip de WordPress 7.1 i tot el que vindrà",
@@ -82,7 +74,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-06-23",
       "time": "00:00",
-      "summary": "Novetats de WordPress 7.1, amb full de ruta detallat i funcionalitats destacades per desenvolupadors."
+      "summary": "Presentació de les noves funcionalitats i full de ruta de WordPress 7.1."
     },
     {
       "title": "Porta la teva comunitat local al xat mundial!",
@@ -90,7 +82,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-06-16",
       "time": "00:00",
-      "summary": "Integració de WordPress amb Slack global per connectar comunitats locals al xat mundial."
+      "summary": "Explicació de com integrar comunitats locals al Slack global de WordPress."
     },
     {
       "title": "Capítol 67: Digue’m com camines i et diré quina malaltia pots tenir",
@@ -98,7 +90,7 @@
       "source": "RAC&GO",
       "date": "2026-06-16",
       "time": "06:21",
-      "summary": "Exploració de sensors i IA per predir malalties a través de la caminada, amb startup catalana Ephion Health."
+      "summary": "Exploració de sensors i IA per predir malalties a partir del patró de caminar."
     }
   ]
 }

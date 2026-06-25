@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-06-24T10:24",
+  "generated_at": "2026-06-25T10:25",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Claude Tag d'Anthropic aprèn la teva empresa, un missatge de Slack a la vegada",
-      "link_id": "c_9f34bd",
-      "source": "TechCrunch",
-      "date": "2026-06-23",
-      "time": "17:00",
-      "summary": "Claude Tag s'integra a Slack per ajudar amb tasques i informació empresarial."
+      "title": "GTA 6 Confirma un preu de 80 dòlars, edició Ultimate i precomandes a mitjanit",
+      "link_id": "c_f1ecd0",
+      "source": "CNET",
+      "date": "2026-06-25",
+      "time": "04:59",
+      "summary": "Grand Theft Auto VI costarà 80 dòlars, amb edició Ultimate i precomandes a mitjanit."
     },
     {
-      "title": "Meta llança nous ulleres intel·ligents més barates amb la seva marca",
-      "link_id": "c_7d30d8",
-      "source": "TechCrunch",
-      "date": "2026-06-23",
-      "time": "14:11",
-      "summary": "Meta presenta ulleres intel·ligents assequibles, amb càmera i micròfons integrats."
-    },
-    {
-      "title": "El superordinador LineShine de la Xina supera l'El Capitan dels EUA i encapçala el Top500",
-      "link_id": "c_4a75be",
-      "source": "Tom's Hardware",
-      "date": "2026-06-23",
-      "time": "12:55",
-      "summary": "LineShine, basat només en CPU, supera 2 ExaFLOPS i ocupa el primer lloc mundial."
-    },
-    {
-      "title": "Oracle acomiada 21.000 empleats en un any per l'adopció d'IA i costos d'infraestructura",
-      "link_id": "c_1a2d66",
-      "source": "Tom's Hardware",
-      "date": "2026-06-23",
-      "time": "12:05",
-      "summary": "Oracle reduïx la plantilla per centrar-se en IA, amb més acomiadaments previstos."
-    },
-    {
-      "title": "Steam Machine es llança amb 879 £, Valve cita costos de components",
-      "link_id": "c_0577e2",
-      "source": "PCWorld",
-      "date": "2026-06-23",
-      "time": "11:25",
-      "summary": "Valve presenta Steam Machine a 879 £, destacant l'augment dels costos de components."
-    },
-    {
-      "title": "YouTube de Google arribeix un acord abans del segon judici per addicció a les xarxes socials a Califòrnia",
-      "link_id": "c_0c54d7",
-      "source": "Digital Trends",
-      "date": "2026-06-24",
-      "time": "06:46",
-      "summary": "YouTube resol el cas amb un adolescent, evitant un judici ampli a Califòrnia."
-    },
-    {
-      "title": "Les pors d'una bombolla d'IA fan caure les accions tecnològiques",
-      "link_id": "c_561867",
-      "source": "Axios",
-      "date": "2026-06-23",
-      "time": "14:04",
-      "summary": "Les accions tecnològiques cauen per l'ansietat d'una possible bombolla d'IA."
-    },
-    {
-      "title": "Meta suspèn el programa de monitoratge d'empleats després que fallin les proteccions de dades",
-      "link_id": "c_b28728",
-      "source": "Computerworld",
-      "date": "2026-06-24",
-      "time": "01:20",
-      "summary": "Meta atura la vigilància interna per problemes de seguretat de dades."
-    },
-    {
-      "title": "Meta ha creat una aplicació de mercats de predicció",
-      "link_id": "c_752cc8",
-      "source": "NYT Technology",
-      "date": "2026-06-23",
-      "time": "22:42",
-      "summary": "Meta llança una app independent per apostar en esdeveniments futurs."
-    },
-    {
-      "title": "Un client d'Anthropic demanda els EUA per la pèrdua d'accés a l'IA Fable",
-      "link_id": "c_eef233",
+      "title": "Micron Soars After AI-Fueled Forecast Shatters Estimates",
+      "link_id": "c_5fb6da",
       "source": "Bloomberg Technology",
-      "date": "2026-06-23",
-      "time": "21:22",
-      "summary": "Un usuari d'Anthropic processa el govern nord-americà per restringir l'IA Fable."
+      "date": "2026-06-24",
+      "time": "20:05",
+      "summary": "Micron supera les expectatives amb previsions impulsades per la IA, impulsant les seves accions."
+    },
+    {
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "link_id": "c_05cfbc",
+      "source": "TechCrunch",
+      "date": "2026-06-25",
+      "time": "00:08",
+      "summary": "OpenAI presenta el seu primer xip personalitzat, dissenyat amb Broadcom."
+    },
+    {
+      "title": "US opens second federal investigation of deadly Tesla crash",
+      "link_id": "c_280f79",
+      "source": "The Guardian Tech",
+      "date": "2026-06-24",
+      "time": "21:03",
+      "summary": "Autoritats obren una segona investigació federal sobre la mort causada per un Tesla."
+    },
+    {
+      "title": "OpenAI's free GPT-5.5 model makes ChatGPT better at understanding context",
+      "link_id": "c_f93f13",
+      "source": "Engadget",
+      "date": "2026-06-25",
+      "time": "05:06",
+      "summary": "El model gratuït GPT‑5.5 d'OpenAI millora la comprensió de context del ChatGPT."
+    },
+    {
+      "title": "Google opens the Play Store to external billing in the US, UK, and Europe next week",
+      "link_id": "c_0bad3a",
+      "source": "9to5Google",
+      "date": "2026-06-25",
+      "time": "01:20",
+      "summary": "Google permet facturació externa a la Play Store a EE. UU, Regne Unit i Europa."
+    },
+    {
+      "title": "AI coding token costs are on track to rival human payroll",
+      "link_id": "c_d01bc7",
+      "source": "InfoWorld",
+      "date": "2026-06-25",
+      "time": "00:48",
+      "summary": "Les empreses podrien pagar tant per tokens d'IA com per salaris de desenvolupadors."
+    },
+    {
+      "title": "Qualcomm lands Meta as first named customer for its Dragonfly data centre chips",
+      "link_id": "c_549694",
+      "source": "The Next Web",
+      "date": "2026-06-24",
+      "time": "19:44",
+      "summary": "Qualcomm anuncia Meta com com a primer client dels seus xips de centre de dades Dragonfly."
+    },
+    {
+      "title": "Meta pauses employee tracker for AI training amid privacy concerns",
+      "link_id": "c_1491c3",
+      "source": "The Guardian Tech",
+      "date": "2026-06-24",
+      "time": "11:38",
+      "summary": "Meta suspèn el seguiment dels empleats per entrenar IA a causa de problemes de privacitat."
+    },
+    {
+      "title": "Chamath Palihapitiya rejects the AI jobs apocalypse",
+      "link_id": "c_7747d4",
+      "source": "Axios",
+      "date": "2026-06-24",
+      "time": "09:10",
+      "summary": "Chamath afirma que la IA canviarà les tasques, però no eliminarà els llocs de treball."
     }
   ]
 }

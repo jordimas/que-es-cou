@@ -1,22 +1,152 @@
 {
-  "generated_at": "2026-06-24T09:30",
+  "generated_at": "2026-06-25T08:30",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
     {
-      "name": "Via Empresa",
-      "url": "https://www.viaempresa.cat/uploads/feeds/feed_via-empresa-2024_ca.xml",
+      "name": "Ara.cat",
+      "url": "https://www.ara.cat/rss/",
+      "articles_found": 2
+    },
+    {
+      "name": "El Periódico",
+      "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
+      "articles_found": 2
+    },
+    {
+      "name": "RAC1",
+      "url": "https://www.rac1.cat/rss/home.xml",
       "articles_found": 1
+    },
+    {
+      "name": "La Vanguardia (en català)",
+      "url": "https://www.lavanguardia.com/rss/encatala.xml",
+      "articles_found": 2
+    },
+    {
+      "name": "VilaWeb",
+      "url": "https://www.vilaweb.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "NacióDigital",
+      "url": "https://www.naciodigital.cat/rss/tecnologia",
+      "articles_found": 0
     },
     {
       "name": "324.cat",
       "url": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0",
-      "articles_found": 1
+      "articles_found": 0
     },
     {
-      "name": "Ara.cat",
-      "url": "https://www.ara.cat/rss/",
-      "articles_found": 3
+      "name": "El Nacional.cat",
+      "url": "https://www.elnacional.cat/uploads/feeds/feed_ca.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "El Mon.cat",
+      "url": "https://www.elmon.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "El Mon.cat Tecnologia",
+      "url": "https://elmon.cat/tecnologia/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "El Mon.cat Societat",
+      "url": "https://elmon.cat/societat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "Betevé",
+      "url": "https://beteve.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/barcelona.feed?type=rss",
+      "articles_found": 0
+    },
+    {
+      "name": "Segre",
+      "url": "https://www.segre.com/ca/rss/home.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "Regio7",
+      "url": "https://www.regio7.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Diari d'Andorra",
+      "url": "https://www.diariandorra.ad/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Bon Dia Andorra",
+      "url": "https://www.bondia.ad/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Altaveu",
+      "url": "https://www.altaveu.com/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Nuvol",
+      "url": "https://www.nuvol.com/feed",
+      "articles_found": 0
+    },
+    {
+      "name": "Diari Mes",
+      "url": "https://www.diarimes.com/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Directe.cat",
+      "url": "https://www.directe.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Cugat.cat",
+      "url": "https://www.cugat.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "CatalunyaPress",
+      "url": "https://www.catalunyapress.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Tot Barcelona",
+      "url": "https://www.totbarcelona.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "e-notícies",
+      "url": "https://www.e-noticies.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Lleida Diari",
+      "url": "https://www.lleidadiari.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "Catorze",
+      "url": "https://www.catorze.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Xarxanet",
+      "url": "https://www.xarxanet.org/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Bondia",
+      "url": "https://www.bondia.cat/?feed=rss2",
+      "articles_found": 0
     },
     {
       "name": "MetaData",
@@ -24,85 +154,93 @@
       "articles_found": 2
     },
     {
-      "name": "Tot Barcelona",
-      "url": "https://www.totbarcelona.cat/feed/",
-      "articles_found": 1
+      "name": "El Temps",
+      "url": "https://www.eltemps.cat/sindica",
+      "articles_found": 0
     },
     {
-      "name": "La Vanguardia (en català)",
-      "url": "https://www.lavanguardia.com/rss/encatala.xml",
+      "name": "Àpunt",
+      "url": "https://www.apuntmedia.es/rss/",
+      "articles_found": 0
+    },
+    {
+      "name": "El Periòdic d'Ontinyent",
+      "url": "https://www.elperiodicvalencia.com/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Saó",
+      "url": "https://www.revistasao.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "Diari de Balears",
+      "url": "https://www.diaridebalears.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "IB3 Notícies",
+      "url": "https://ib3.org/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "Ara Balears",
+      "url": "https://www.arabalears.cat/rss/",
+      "articles_found": 0
+    },
+    {
+      "name": "Manacor Comarcal",
+      "url": "https://manacorcomarcal.com/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Via Empresa",
+      "url": "https://www.viaempresa.cat/uploads/feeds/feed_via-empresa-2024_ca.xml",
       "articles_found": 1
     },
     {
       "name": "Lúdica",
       "url": "https://ludica.cat/feed/",
-      "articles_found": 1
+      "articles_found": 0
+    },
+    {
+      "name": "Accent Obert",
+      "url": "https://accentobert.cat/feed/",
+      "articles_found": 0
     }
   ],
   "articles": [
     {
-      "title": "Europastry compra la nord-americana Highland Baking Company",
-      "link_id": "c_0bf8a7",
-      "source": "Via Empresa",
+      "title": "Bars que només serveixen llet, una moda saludable a Kigali",
+      "link_id": "c_3b2493",
+      "source": "Ara.cat",
+      "date": "2026-06-22",
+      "time": "06:00",
+      "summary": "Nou fenomen a Kigali: bars que només serveixen llet, promoguent nutrició i cultura local."
+    },
+    {
+      "title": "Smart #2, un biplaça elèctric urbà amb 300 km d'autonomia",
+      "link_id": "c_98c7bf",
+      "source": "Ara.cat",
       "date": "2026-06-24",
-      "time": "10:01",
-      "summary": "Europastry compra Highland Baking, ampliant la presència catalana als EUA i superant els 2.000 milions d'euros de facturació."
+      "time": "16:27",
+      "summary": "Smart #2, bicicleta elèctrica urbana amb 300 km d’autonomia, aposta per mobilitat sostenible."
     },
     {
-      "title": "Noves normes de circulació: 15 anys, l'edat mínima per circular en patinet elèctric",
-      "link_id": "c_a0c9e6",
-      "source": "324.cat",
+      "title": "Els menors de 15 anys no podran conduir patinets elèctrics i l'ús del casc serà obligatori: tots els canvis en el reglament de circulació",
+      "link_id": "c_3ed6fe",
+      "source": "RAC1",
       "date": "2026-06-23",
-      "time": "19:24",
-      "summary": "Nou límit d'edat i casc obligatori per patinets protegeixen joves conductors i milloren la seguretat viària."
+      "time": "15:03",
+      "summary": "Menors de 15 anys prohibits de conduir patinets elèctrics; l’ús del casc serà obligatori per seguretat."
     },
     {
-      "title": "El Parlament Europeu desbloqueja l'euro digital",
-      "link_id": "c_d83960",
-      "source": "Ara.cat",
+      "title": "El Govern assegura que Espanya té «a punt» la seva candidatura per acollir una gigafactoria europea d’IA a Tarragona",
+      "link_id": "c_346c94",
+      "source": "El Periódico",
       "date": "2026-06-23",
-      "time": "11:33",
-      "summary": "El Parlament Europeu aprova l'euro digital, impulsant una moneda digital europea per facilitar transaccions i innovació financera."
-    },
-    {
-      "title": "Eurecat accelera la innovació de les empreses amb solucions tecnològiques d'alt impacte",
-      "link_id": "c_a01179",
-      "source": "Ara.cat",
-      "date": "2026-06-19",
-      "time": "21:58",
-      "summary": "Eurecat rep el Premi Nacional, reconeixent la seva contribució a la innovació empresarial i al benestar social."
-    },
-    {
-      "title": "Kit Digital, un model que ha transformat la gestió de les ajudes",
-      "link_id": "c_82d296",
-      "source": "Ara.cat",
-      "date": "2026-06-22",
-      "time": "21:59",
-      "summary": "El programa Kit Digital ha concedit més de 172.700 ajudes a Catalunya, impulsant la digitalització de pimes i creixement econòmic."
-    },
-    {
-      "title": "La biotecnològica catalana Hipra espera tenir una vacuna contra la pesta porcina d'aquí 7 anys",
-      "link_id": "c_ff9c5d",
-      "source": "MetaData",
-      "date": "2026-06-23",
-      "time": "14:11",
-      "summary": "Hipra lidera un consorci internacional per desenvolupar una vacuna contra la pesta porcina en els pròxims set anys."
-    },
-    {
-      "title": "La IA entra a Collserola per avançar-se als incendis forestals",
-      "link_id": "c_1b8109",
-      "source": "MetaData",
-      "date": "2026-06-22",
-      "time": "11:50",
-      "summary": "Un projecte pilot usa IA i videovigilància per detectar incendis forestals a la Serra de Collserola, augmentant la resposta ràpida."
-    },
-    {
-      "title": "Barcelona també tindrà videovigilància al Raval i la plaça Reial",
-      "link_id": "c_4c62b1",
-      "source": "Tot Barcelona",
-      "date": "2026-06-23",
-      "time": "12:57",
-      "summary": "L'Ajuntament instal·la 33 càmeres al Raval i la plaça Reial, reforçant la seguretat urbana i la vigilància pública."
+      "time": "14:50",
+      "summary": "Espanya prepara candidatura per acollir una gigafàbrica europea d’IA a Tarragona, impulsant la innovació regional."
     },
     {
       "title": "El Govern inverteix 300 milions més en tecnologia quàntica per potenciar la gigafactoria de Móra la Nova",
@@ -110,15 +248,47 @@
       "source": "La Vanguardia (en català)",
       "date": "2026-06-24",
       "time": "07:52",
-      "summary": "El Govern destina 300 milions addicionals a la tecnologia quàntica per potenciar la gigafactoria de Móra la Nova."
+      "summary": "El Govern destina 300 milions addicionals a la tecnologia quàntica per reforçar la gigafàbrica de Móra la Nova."
     },
     {
-      "title": "Les dades recollides per Pokémon Go s’han utilitzat per entrenar tecnologia amb aplicacions militars",
-      "link_id": "c_001496",
-      "source": "Lúdica",
+      "title": "La IA entra a Collserola per avançar-se als incendis forestals",
+      "link_id": "c_1b8109",
+      "source": "MetaData",
       "date": "2026-06-22",
-      "time": "17:40",
-      "summary": "Dades de Pokémon Go s'han utilitzat per entrenar IA amb aplicacions militars, revelant riscos de privacitat i ús no autoritzat."
+      "time": "11:50",
+      "summary": "Pilotatge d’IA a Collserola detecta incendis incipients, millorant la resposta ràpida i la protecció forestal."
+    },
+    {
+      "title": "Eurecat liderarà el primer gran model europeu d’IA per a la robòtica industrial",
+      "link_id": "c_065179",
+      "source": "MetaData",
+      "date": "2026-06-22",
+      "time": "15:43",
+      "summary": "Eurecat liderarà el projecte GRAIL, primer model europeu d’IA per a la robòtica industrial."
+    },
+    {
+      "title": "Europastry compra la nord-americana Highland Baking Company",
+      "link_id": "c_0bf8a7",
+      "source": "Via Empresa",
+      "date": "2026-06-24",
+      "time": "10:01",
+      "summary": "Europastry compra Highland Baking, ampliant la seva presència als EUA i superant els 2.000 milions d’euros."
+    },
+    {
+      "title": "Alibaba denuncia l’administració Trump per afegir-la a la seva llista negra d’empreses militars de la Xina",
+      "link_id": "c_657dd0",
+      "source": "El Periódico",
+      "date": "2026-06-24",
+      "time": "11:25",
+      "summary": "Alibaba demanda l’administració Trump per la inclusió a la llista negra militar, defensant els seus drets comercials."
+    },
+    {
+      "title": "Els assessors fiscals critiquen l’ús opac de la IA en les tributacions",
+      "link_id": "c_d93c42",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-06-25",
+      "time": "08:34",
+      "summary": "Assessors fiscals alerten sobre la falta de transparència de la IA en tributació, demanant regulació clara."
     }
   ]
 }

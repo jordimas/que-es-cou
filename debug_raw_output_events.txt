@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T08:24",
+  "generated_at": "2026-06-25T08:25",
   "id": "events",
   "title": "Trobades",
   "sources_checked": [],
@@ -10,7 +10,7 @@
       "source": "WordPress BCN",
       "date": "2026-06-17",
       "time": "15:42",
-      "summary": "Aprèn a integrar un directori empresarial amb Elementor i plugins avançats, incloent accés restringit i confidencialitat."
+      "summary": "Explorarem com integrar GeoDirectory i UsersWP per crear un directori empresarial amb accés restringit i confidencialitat."
     },
     {
       "title": "BarcelonaJS x MongoDB Meetup",
@@ -18,7 +18,15 @@
       "source": "BarcelonaJS",
       "date": "2026-06-22",
       "time": "14:36",
-      "summary": "Descobreix l'operació CWAL de MongoDB, una solució AI‑first per dashboards flexibles i integrables."
+      "summary": "Descobreix les novetats de MongoDB i la col·laboració amb ReactJS en una sessió pràctica i informal."
+    },
+    {
+      "title": "Get Google AI Certified - AI Professionals' July 2026 Cohort",
+      "link_id": "c_8282ab",
+      "source": "AI Professionals Barcelona",
+      "date": "2026-06-24",
+      "time": "23:06",
+      "summary": "Aprofita el curs gratuït de Google per obtenir la certificació AI i accedir a 90 dies de Google Pro."
     },
     {
       "title": "Grow Your Business with AI: Introducing Claude Cowork",
@@ -26,7 +34,7 @@
       "source": "AI Professionals Barcelona",
       "date": "2026-06-21",
       "time": "15:59",
-      "summary": "Explora com Claude Cowork automatitza tasques i actua com assistent empresarial, millorant eficiència i decisions."
+      "summary": "Aprèn com Claude Cowork pot automatitzar tasques i actuar com assistent empresarial per impulsar el teu negoci."
     },
     {
       "title": "\"How to Win Friends & Influence People\" - empowered learning",
@@ -34,7 +42,7 @@
       "source": "AI Professionals Barcelona",
       "date": "2026-06-22",
       "time": "21:49",
-      "summary": "Workshop online que combina principis clàssics de Dale Carnegie amb IA per aprenentatge personalitzat i pràctic."
+      "summary": "Workshop en línia que combina les tècniques clàssiques de Dale Carnegie amb aprenentatge personalitzat impulsat per IA."
     }
   ]
 }
