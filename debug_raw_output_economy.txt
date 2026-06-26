@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-06-25T08:25",
+  "generated_at": "2026-06-26T10:32",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Qualcomm revela Meta com a primer client de gran tecnologia per a xips de centre de dades",
-      "link_id": "c_18387a",
+      "title": "Els mercats globals cauen mentre els inversors es preocupen per la demanda d'IA",
+      "link_id": "c_7e17d3",
       "source": "Financial Times",
-      "date": "2026-06-24",
-      "time": "21:23",
-      "summary": "Qualcomm ofereix xips de centre de dades a Meta, marcant una nova col·laboració entre gegants tecnològics."
+      "date": "2026-06-26",
+      "time": "08:10",
+      "summary": "Inversors temen que la demanda d'IA es freni, provocant caiguda generalitzada dels mercats."
     },
     {
-      "title": "Les accions de Qualcomm pujen un 15% després que l'empresa gairebé dobli les previsions de ingressos no mòbils per 2029",
-      "link_id": "c_8e4157",
-      "source": "Financial Times",
-      "date": "2026-06-24",
-      "time": "20:44",
-      "summary": "Les accions de Qualcomm s'enforteixen un 15% gràcies a les previsions de creixement dels ingressos no mòbils."
+      "title": "Les accions d'IA en caiguda indiquen un nou dia de turbulència per a les empreses tecnològiques",
+      "link_id": "c_a87cdb",
+      "source": "CNBC Technology",
+      "date": "2026-06-26",
+      "time": "07:44",
+      "summary": "Les caigudes d'accions d'IA reflecteixen incertesa sobre costos i rendibilitat del sector tecnològic."
     },
     {
-      "title": "Qualcomm signa un acord amb la startup d'IA Modular per reforçar la pila de programari i l'expansió del centre de dades",
-      "link_id": "c_ee575f",
-      "source": "Financial Times",
-      "date": "2026-06-24",
-      "time": "19:36",
-      "summary": "Qualcomm i Modular col·laboren per millorar el programari i expandir la infraestructura de centres de dades IA."
-    },
-    {
-      "title": "Anthropic acusa Alibaba d'obtenir accés il·legal a Claude",
-      "link_id": "c_268159",
+      "title": "Apple augmenta els preus del MacBook i l'iPad un 20%",
+      "link_id": "c_274d27",
       "source": "Financial Times",
       "date": "2026-06-25",
-      "time": "05:22",
-      "summary": "Anthropic denuncia que Alibaba ha accedit il·legalment al model d'IA Claude, suscitant preocupacions de seguretat."
+      "time": "20:36",
+      "summary": "Apple traspassa un augment de 20% en preus de MacBook i iPad, impactant consumidors."
     },
     {
-      "title": "Micron registra un augment de beneficis de quinze vegades, impulsant les accions globals d'IA",
+      "title": "Micron puja un 15% després d'uns guanys espectaculars, impulsant algunes accions de xips",
+      "link_id": "c_582e1b",
+      "source": "CNBC Technology",
+      "date": "2026-06-25",
+      "time": "20:31",
+      "summary": "Micron guanya un 15% gràcies a vendes massives de memòria, impulsant el sector de xips."
+    },
+    {
+      "title": "L'acció d'Apple cau per l'augment de preus del Mac i l'iPad; per què resistirà la tempesta",
+      "link_id": "c_f636db",
+      "source": "CNBC Technology",
+      "date": "2026-06-25",
+      "time": "20:27",
+      "summary": "L'augment de preus d'Apple afecta les seves accions, però la companyia manté solidesa financera."
+    },
+    {
+      "title": "Les accions de Micron pujen després d'uns resultats espectaculars que sacsegen la tecnologia de Wall Street",
+      "link_id": "c_4e7957",
+      "source": "Financial Times",
+      "date": "2026-06-25",
+      "time": "20:23",
+      "summary": "Resultats excepcionals de Micron fan pujar les seves accions i mouen el mercat tecnològic."
+    },
+    {
+      "title": "Apple registra el pitjor dia en més d'un any després d'augmentar els preus del MacBook i l'iPad",
+      "link_id": "c_ba5e5e",
+      "source": "CNBC Technology",
+      "date": "2026-06-25",
+      "time": "20:06",
+      "summary": "Apple viu el pitjor dia d'accions des de fa un any a causa dels nous preus."
+    },
+    {
+      "title": "Micron anuncia un augment de beneficis de quinze vegades, impulsant les accions d'IA globals",
       "link_id": "c_665d91",
       "source": "Financial Times",
       "date": "2026-06-25",
-      "time": "04:54",
-      "summary": "Micron multiplica per quinze els beneficis, impulsant les accions d'IA a nivell mundial."
+      "time": "18:40",
+      "summary": "El benefici de Micron multiplica quinze vegades, reforçant l'optimisme sobre les accions d'IA."
     },
     {
-      "title": "SK Hynix puja un 12% després dels resultats de Micron; llistat estrany al Nasdaq",
-      "link_id": "c_1641c6",
-      "source": "CNBC Technology",
-      "date": "2026-06-25",
-      "time": "04:17",
-      "summary": "SK Hynix guanya un 12% després dels resultats de Micron, reforçant la seva presència al Nasdaq."
-    },
-    {
-      "title": "Les accions de Micron pujen un 15% per l'augment de preus de la memòria que quadruplica els ingressos",
-      "link_id": "c_542bca",
-      "source": "CNBC Technology",
-      "date": "2026-06-24",
-      "time": "22:39",
-      "summary": "L'augment de preus de la memòria impulsa els ingressos de Micron, fent pujar les seves accions un 15%."
-    },
-    {
-      "title": "Anthropic acusa Alibaba d'una campanya per extreure a la força i il·legalment capacitats d'IA",
-      "link_id": "c_1f1e50",
-      "source": "CNBC Technology",
-      "date": "2026-06-24",
-      "time": "21:18",
-      "summary": "Anthropic acusa Alibaba d'extracció agressiva i il·legal de capacitats d'IA, augmentant tensions del sector."
-    },
-    {
-      "title": "SK Hynix aposta per la demanda d'IA amb una oferta pública de 29.000 milions de dòlars als EUA",
-      "link_id": "c_7a4a53",
-      "source": "Financial Times",
-      "date": "2026-06-24",
-      "time": "10:09",
-      "summary": "SK Hynix llança una oferta pública de 29.000 milions, apostant per la creixent demanda d'IA."
-    },
-    {
-      "title": "Meta s'afanya per substituir la moderació humana per IA",
-      "link_id": "c_eefecd",
+      "title": "Anthropic contracta un economista amb opinions curioses sobre la supervivència humana",
+      "link_id": "c_bec434",
       "source": "Financial Times",
       "date": "2026-06-25",
-      "time": "04:00",
-      "summary": "Meta implementa IA per substituir moderadors humans, buscant reduir costos i augmentar eficiència."
+      "time": "12:50",
+      "summary": "Anthropic incorpora un economista que ofereix perspectives inusuals sobre la supervivència humana."
+    },
+    {
+      "title": "L'última ronda de contractacions d'Anthropic revela on construirà els pròxims centres de dades d'IA",
+      "link_id": "c_36a83b",
+      "source": "CNBC Technology",
+      "date": "2026-06-25",
+      "time": "05:00",
+      "summary": "Les noves contractacions d'Anthropic indiquen expansions de centres de dades d'IA a Àsia."
     }
   ]
 }

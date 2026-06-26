@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-06-25T10:25",
+  "generated_at": "2026-06-26T10:00",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "GTA 6 Confirma un preu de 80 dòlars, edició Ultimate i precomandes a mitjanit",
-      "link_id": "c_f1ecd0",
-      "source": "CNET",
-      "date": "2026-06-25",
-      "time": "04:59",
-      "summary": "Grand Theft Auto VI costarà 80 dòlars, amb edició Ultimate i precomandes a mitjanit."
-    },
-    {
-      "title": "Micron Soars After AI-Fueled Forecast Shatters Estimates",
-      "link_id": "c_5fb6da",
-      "source": "Bloomberg Technology",
-      "date": "2026-06-24",
-      "time": "20:05",
-      "summary": "Micron supera les expectatives amb previsions impulsades per la IA, impulsant les seves accions."
-    },
-    {
-      "title": "OpenAI unveils its first custom chip, built by Broadcom",
-      "link_id": "c_05cfbc",
+      "title": "Apple puja els preus del Mac i l'iPad, deixa l'iPhone sense augment",
+      "link_id": "c_c8aeb5",
       "source": "TechCrunch",
       "date": "2026-06-25",
-      "time": "00:08",
-      "summary": "OpenAI presenta el seu primer xip personalitzat, dissenyat amb Broadcom."
+      "time": "14:52",
+      "summary": "Apple incrementa preus per compensar l'augment del cost de memòria i emmagatzematge, afectant Macs i iPads."
     },
     {
-      "title": "US opens second federal investigation of deadly Tesla crash",
-      "link_id": "c_280f79",
-      "source": "The Guardian Tech",
-      "date": "2026-06-24",
-      "time": "21:03",
-      "summary": "Autoritats obren una segona investigació federal sobre la mort causada per un Tesla."
+      "title": "Notion Mail tancarà el servei",
+      "link_id": "c_899be6",
+      "source": "Android Authority",
+      "date": "2026-06-25",
+      "time": "22:58",
+      "summary": "Notion tanca el seu client de correu, deixant els usuaris migrar a altres solucions d'IA."
     },
     {
-      "title": "OpenAI's free GPT-5.5 model makes ChatGPT better at understanding context",
-      "link_id": "c_f93f13",
+      "title": "OpenAI només llançarà inicialment ChatGPT 5.6 a clients aprovats pel govern",
+      "link_id": "c_3fa27b",
       "source": "Engadget",
       "date": "2026-06-25",
-      "time": "05:06",
-      "summary": "El model gratuït GPT‑5.5 d'OpenAI millora la comprensió de context del ChatGPT."
+      "time": "22:48",
+      "summary": "OpenAI limita l'accés a la nova versió de ChatGPT, només per entitats governamentals autoritzades."
     },
     {
-      "title": "Google opens the Play Store to external billing in the US, UK, and Europe next week",
-      "link_id": "c_0bad3a",
+      "title": "Tornem a començar: Microsoft puja els preus de l'Xbox a causa de la escassetat de memòria",
+      "link_id": "c_c63583",
+      "source": "CNET",
+      "date": "2026-06-25",
+      "time": "22:34",
+      "summary": "Microsoft augmenta els preus de les consoles Xbox a causa de la pujada del cost de la RAM."
+    },
+    {
+      "title": "Google Finance ja disponible com a aplicació Android dedicada",
+      "link_id": "c_ddb43b",
       "source": "9to5Google",
       "date": "2026-06-25",
-      "time": "01:20",
-      "summary": "Google permet facturació externa a la Play Store a EE. UU, Regne Unit i Europa."
+      "time": "16:00",
+      "summary": "Google Finance llança una aplicació Android independent, millorant l'accés a notícies i anàlisis financeres."
     },
     {
-      "title": "AI coding token costs are on track to rival human payroll",
-      "link_id": "c_d01bc7",
-      "source": "InfoWorld",
-      "date": "2026-06-25",
-      "time": "00:48",
-      "summary": "Les empreses podrien pagar tant per tokens d'IA com per salaris de desenvolupadors."
-    },
-    {
-      "title": "Qualcomm lands Meta as first named customer for its Dragonfly data centre chips",
-      "link_id": "c_549694",
+      "title": "Hackers van robar tres milions de dòlars a usuaris de Polymarket via un proveïdor tercer compromès",
+      "link_id": "c_959039",
       "source": "The Next Web",
-      "date": "2026-06-24",
-      "time": "19:44",
-      "summary": "Qualcomm anuncia Meta com com a primer client dels seus xips de centre de dades Dragonfly."
+      "date": "2026-06-25",
+      "time": "20:52",
+      "summary": "Un atac a través d'un proveïdor compromès va permetre robar tres milions de dòlars a Polymarket."
     },
     {
-      "title": "Meta pauses employee tracker for AI training amid privacy concerns",
-      "link_id": "c_1491c3",
-      "source": "The Guardian Tech",
-      "date": "2026-06-24",
-      "time": "11:38",
-      "summary": "Meta suspèn el seguiment dels empleats per entrenar IA a causa de problemes de privacitat."
+      "title": "El model més petit de Liquid AI, LFM2.5-230M, supera models 4 vegades més grans en extracció de dades i pot funcionar 'a qualsevol lloc'",
+      "link_id": "c_41d11c",
+      "source": "VentureBeat",
+      "date": "2026-06-25",
+      "time": "23:31",
+      "summary": "LFM2.5-230M, el model més petit de Liquid AI, supera rivals en extracció de dades i és extremadament versàtil."
     },
     {
-      "title": "Chamath Palihapitiya rejects the AI jobs apocalypse",
-      "link_id": "c_7747d4",
-      "source": "Axios",
-      "date": "2026-06-24",
-      "time": "09:10",
-      "summary": "Chamath afirma que la IA canviarà les tasques, però no eliminarà els llocs de treball."
+      "title": "YouTube Shorts es fan encara més curts amb una actualització que permet duplicar la velocitat de reproducció",
+      "link_id": "c_d5101a",
+      "source": "TechCrunch",
+      "date": "2026-06-25",
+      "time": "22:02",
+      "summary": "YouTube Shorts introdueix una funció per duplicar la velocitat, reduint la durada dels vídeos curts."
+    },
+    {
+      "title": "Patronus AI obté 50 milions de dòlars per crear 'munds digitals' que posen a prova agents d'IA",
+      "link_id": "c_3c08ee",
+      "source": "TechCrunch",
+      "date": "2026-06-25",
+      "time": "20:19",
+      "summary": "Patronus AI rep finançament per crear entorns digitals que avaluen i milloren el rendiment dels agents d'IA."
+    },
+    {
+      "title": "Recol·locació del comerç minorista per a l'era de la IA",
+      "link_id": "c_d71fc2",
+      "source": "MIT Technology Review",
+      "date": "2026-06-25",
+      "time": "14:22",
+      "summary": "L'article analitza com el comerç minorista s'adapta a les tecnologies d'intel·ligència artificial."
     }
   ]
 }
