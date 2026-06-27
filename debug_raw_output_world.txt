@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-06-26T10:00",
+  "generated_at": "2026-06-27T09:51",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Apple puja els preus del Mac i l'iPad, deixa l'iPhone sense augment",
-      "link_id": "c_c8aeb5",
+      "title": "OpenAI limita el llançament de GPT-5.6 després de la sol·licitud del govern, diu que les restriccions no haurien de ser la norma",
+      "link_id": "c_f9a162",
       "source": "TechCrunch",
-      "date": "2026-06-25",
-      "time": "14:52",
-      "summary": "Apple incrementa preus per compensar l'augment del cost de memòria i emmagatzematge, afectant Macs i iPads."
+      "date": "2026-06-26",
+      "time": "18:32",
+      "summary": "OpenAI redueix l'accés al model GPT-5.6 per complir les exigències del govern dels EUA."
     },
     {
-      "title": "Notion Mail tancarà el servei",
-      "link_id": "c_899be6",
-      "source": "Android Authority",
-      "date": "2026-06-25",
-      "time": "22:58",
-      "summary": "Notion tanca el seu client de correu, deixant els usuaris migrar a altres solucions d'IA."
+      "title": "L'administració Trump llança Anthropic Mythos per a més de 100 empreses i agències dels EUA",
+      "link_id": "c_d51325",
+      "source": "TechCrunch",
+      "date": "2026-06-27",
+      "time": "01:01",
+      "summary": "Anthropic reposa el model Mythos a més de cent organitzacions americanes amb autorització governamental."
     },
     {
-      "title": "OpenAI només llançarà inicialment ChatGPT 5.6 a clients aprovats pel govern",
-      "link_id": "c_3fa27b",
+      "title": "Oblida l'impost Apple, aquest és l'impost de la IA",
+      "link_id": "c_b9b4d5",
+      "source": "InfoWorld",
+      "date": "2026-06-26",
+      "time": "13:19",
+      "summary": "Apple augmenta preus per l'augment del cost dels xips, afectant consumidors."
+    },
+    {
+      "title": "Executiu d'Apple responsable del Vision Pro abandona l'empresa per unir-se a OpenAI",
+      "link_id": "c_68e75a",
       "source": "Engadget",
-      "date": "2026-06-25",
-      "time": "22:48",
-      "summary": "OpenAI limita l'accés a la nova versió de ChatGPT, només per entitats governamentals autoritzades."
+      "date": "2026-06-27",
+      "time": "07:36",
+      "summary": "El cap del Vision Pro de Apple passa a OpenAI, reforçant l'equip d'IA."
     },
     {
-      "title": "Tornem a començar: Microsoft puja els preus de l'Xbox a causa de la escassetat de memòria",
-      "link_id": "c_c63583",
-      "source": "CNET",
-      "date": "2026-06-25",
-      "time": "22:34",
-      "summary": "Microsoft augmenta els preus de les consoles Xbox a causa de la pujada del cost de la RAM."
-    },
-    {
-      "title": "Google Finance ja disponible com a aplicació Android dedicada",
-      "link_id": "c_ddb43b",
-      "source": "9to5Google",
-      "date": "2026-06-25",
-      "time": "16:00",
-      "summary": "Google Finance llança una aplicació Android independent, millorant l'accés a notícies i anàlisis financeres."
-    },
-    {
-      "title": "Hackers van robar tres milions de dòlars a usuaris de Polymarket via un proveïdor tercer compromès",
-      "link_id": "c_959039",
-      "source": "The Next Web",
-      "date": "2026-06-25",
-      "time": "20:52",
-      "summary": "Un atac a través d'un proveïdor compromès va permetre robar tres milions de dòlars a Polymarket."
-    },
-    {
-      "title": "El model més petit de Liquid AI, LFM2.5-230M, supera models 4 vegades més grans en extracció de dades i pot funcionar 'a qualsevol lloc'",
-      "link_id": "c_41d11c",
-      "source": "VentureBeat",
-      "date": "2026-06-25",
-      "time": "23:31",
-      "summary": "LFM2.5-230M, el model més petit de Liquid AI, supera rivals en extracció de dades i és extremadament versàtil."
-    },
-    {
-      "title": "YouTube Shorts es fan encara més curts amb una actualització que permet duplicar la velocitat de reproducció",
-      "link_id": "c_d5101a",
+      "title": "Els hackers russos van ser responsables de l'atac de 2,5 mil milions a Jaguar Land Rover",
+      "link_id": "c_8085eb",
       "source": "TechCrunch",
-      "date": "2026-06-25",
-      "time": "22:02",
-      "summary": "YouTube Shorts introdueix una funció per duplicar la velocitat, reduint la durada dels vídeos curts."
+      "date": "2026-06-26",
+      "time": "17:29",
+      "summary": "Un atac cibernètic rus va causar danys de 2,5 mil milions de dòlars a Jaguar Land Rover."
     },
     {
-      "title": "Patronus AI obté 50 milions de dòlars per crear 'munds digitals' que posen a prova agents d'IA",
-      "link_id": "c_3c08ee",
+      "title": "La FTC autoritza Musk a adquirir la startup Mesh",
+      "link_id": "c_eebc81",
       "source": "TechCrunch",
-      "date": "2026-06-25",
-      "time": "20:19",
-      "summary": "Patronus AI rep finançament per crear entorns digitals que avaluen i milloren el rendiment dels agents d'IA."
+      "date": "2026-06-27",
+      "time": "00:38",
+      "summary": "La FTC dóna el vistiplau a Musk per comprar Mesh, una startup d'IA de xarxes."
     },
     {
-      "title": "Recol·locació del comerç minorista per a l'era de la IA",
-      "link_id": "c_d71fc2",
-      "source": "MIT Technology Review",
-      "date": "2026-06-25",
-      "time": "14:22",
-      "summary": "L'article analitza com el comerç minorista s'adapta a les tecnologies d'intel·ligència artificial."
+      "title": "Corgi, la startup d'assegurances impulsada per Y Combinator, nega haver robat un producte de codi obert",
+      "link_id": "c_46702e",
+      "source": "TechCrunch",
+      "date": "2026-06-26",
+      "time": "22:00",
+      "summary": "Corgi rebutja les acusacions de robatori de programari, defensant la seva transparència."
+    },
+    {
+      "title": "Novak Djokovic es converteix en assessor de l'empresa de capital privat General Atlantic",
+      "link_id": "c_f26745",
+      "source": "TechCrunch",
+      "date": "2026-06-26",
+      "time": "19:13",
+      "summary": "El campió de tennis Novak Djokovic s'uneix a General Atlantic com a assessor estratègic."
+    },
+    {
+      "title": "OpenAI contracta l'exdirector d'India de Uber per liderar el seu mercat més gran fora dels EUA",
+      "link_id": "c_f08b64",
+      "source": "Engadget",
+      "date": "2026-06-26",
+      "time": "18:19",
+      "summary": "OpenAI incorpora l'antic cap d'Uber India per expandir el seu negoci global."
+    },
+    {
+      "title": "Per què tothom, des d'OpenAI fins a SpaceX, construeix els seus propis xips",
+      "link_id": "c_819367",
+      "source": "TechCrunch",
+      "date": "2026-06-26",
+      "time": "17:43",
+      "summary": "Empreses tecnològiques desenvolupen xips propis per reduir la dependència de Nvidia."
     }
   ]
 }

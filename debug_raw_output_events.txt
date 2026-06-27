@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T08:32",
+  "generated_at": "2026-06-27T07:51",
   "id": "events",
   "title": "Trobades",
   "sources_checked": [],
@@ -10,7 +10,7 @@
       "source": "WordPress BCN",
       "date": "2026-06-17",
       "time": "15:42",
-      "summary": "Descobreix com integrar un directori empresarial a WordPress amb Elementor i plugins especialitzats."
+      "summary": "Aprèn a crear i ampliar un directori empresarial amb Elementor, GeoDirectory i UsersWP."
     },
     {
       "title": "BarcelonaJS x MongoDB Meetup",
@@ -18,15 +18,23 @@
       "source": "BarcelonaJS",
       "date": "2026-06-22",
       "time": "14:36",
-      "summary": "Explora les sinergies entre MongoDB i la comunitat BarcelonaJS en aquest meetup col·laboratiu."
+      "summary": "Descobreix com MongoDB impulsa aplicacions amb IA i dashboards flexibles."
     },
     {
-      "title": "Get AI Skilled: AI Professionals' AI Fluent Certificate",
+      "title": "Get Google AI Certified - AI Professionals' July 2026 Cohort",
       "link_id": "c_8282ab",
       "source": "AI Professionals Barcelona",
       "date": "2026-06-24",
       "time": "23:06",
-      "summary": "Obté el certificat AI Fluent gratuït i aprèn les habilitats d'IA en un cohort intensiu."
+      "summary": "Certifica't gratuïtament amb Google AI i desenvolupa habilitats per al teu negoci."
+    },
+    {
+      "title": "Google AI Professional Certificate - Weekend Intensive Day 1 of 2",
+      "link_id": "c_527211",
+      "source": "AI Professionals Barcelona",
+      "date": "2026-06-27",
+      "time": "03:46",
+      "summary": "Intensiu de dos dies per dominar certificació AI de Google amb pràctiques."
     },
     {
       "title": "Grow Your Business with AI: Introducing Claude Cowork",
@@ -34,7 +42,7 @@
       "source": "AI Professionals Barcelona",
       "date": "2026-06-21",
       "time": "15:59",
-      "summary": "Coneix Claude Cowork, una IA que actua com a col·laborador empresarial per automatitzar tasques."
+      "summary": "Explora Claude Cowork, IA que treballa directament amb fitxers locals per empreses."
     },
     {
       "title": "\"How to Win Friends & Influence People\" - empowered learning",
@@ -42,7 +50,7 @@
       "source": "AI Professionals Barcelona",
       "date": "2026-06-22",
       "time": "21:49",
-      "summary": "Revisita els principis de Dale Carnegie amb aprenentatge personalitzat impulsat per IA en un taller en línia."
+      "summary": "Taller online que combina principis clàssics amb aprenentatge personalitzat impulsat per IA."
     },
     {
       "title": "Python Meetup June: Summer is already here!",
@@ -50,7 +58,7 @@
       "source": "PyBCN",
       "date": "2026-06-23",
       "time": "14:53",
-      "summary": "Participa al meetup de Python amb xerrades sobre feedback per aprenents i laboratori de seguretat."
+      "summary": "Reunió amb xerrades sobre feedback per aprenents i laboratori de seguretat amb Python."
     }
   ]
 }

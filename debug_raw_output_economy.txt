@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-06-26T10:32",
+  "generated_at": "2026-06-27T09:51",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Els mercats globals cauen mentre els inversors es preocupen per la demanda d'IA",
-      "link_id": "c_7e17d3",
+      "title": "L'administració Trump permet un accés limitat al model Mythos d'Anthropic",
+      "link_id": "c_74df0b",
       "source": "Financial Times",
-      "date": "2026-06-26",
-      "time": "08:10",
-      "summary": "Inversors temen que la demanda d'IA es freni, provocant caiguda generalitzada dels mercats."
+      "date": "2026-06-27",
+      "time": "00:37",
+      "summary": "La mesura busca equilibrar la innovació d'Anthropic amb les preocupacions de seguretat nacional."
     },
     {
-      "title": "Les accions d'IA en caiguda indiquen un nou dia de turbulència per a les empreses tecnològiques",
+      "title": "L'administració Trump permet a Anthropic llançar el model AI Mythos a algunes empreses i agències governamentals",
+      "link_id": "c_0f71bc",
+      "source": "CNBC Technology",
+      "date": "2026-06-27",
+      "time": "00:34",
+      "summary": "Llançament restringit apunta a controlar l'ús comercial i governamental del model Mythos."
+    },
+    {
+      "title": "OpenAI llança GPT-5.6 a usuaris seleccionats aprovats pel govern dels EUA",
+      "link_id": "c_ad1f38",
+      "source": "Financial Times",
+      "date": "2026-06-26",
+      "time": "21:10",
+      "summary": "OpenAI ofereix GPT-5.6 només a entitats aprovades, destacant la regulació creixent."
+    },
+    {
+      "title": "OpenAI limita nous models d'IA a socis de confiança per sol·licitud del govern dels EUA",
+      "link_id": "c_f98905",
+      "source": "CNBC Technology",
+      "date": "2026-06-26",
+      "time": "17:02",
+      "summary": "Els nous models d'OpenAI es limiten a socis fiables per reduir riscos de seguretat."
+    },
+    {
+      "title": "Apple busca comprar xips de memòria d'una empresa xinesa inclosa a la llista negra",
+      "link_id": "c_44d467",
+      "source": "Financial Times",
+      "date": "2026-06-27",
+      "time": "02:17",
+      "summary": "Apple vol assegurar subministrament de memòria superant restriccions comercials amb proveïdor prohibit."
+    },
+    {
+      "title": "Les accions d'Oracle registren la pitjor setmana des del col·lapse punt com del 2001, per preocupacions de finançament d'IA",
+      "link_id": "c_6b773f",
+      "source": "CNBC Technology",
+      "date": "2026-06-26",
+      "time": "22:29",
+      "summary": "Les accions d'Oracle cauen per l'augment del deute i les incerteses d'IA."
+    },
+    {
+      "title": "Zhipu de Xina s'acosta als principals models d'IA dels EUA amb Anthropic i OpenAI limitats",
+      "link_id": "c_f35ca2",
+      "source": "CNBC Technology",
+      "date": "2026-06-26",
+      "time": "22:11",
+      "summary": "Zhipu avança gràcies a models oberts, mentre Anthropic i OpenAI es veuen limitats."
+    },
+    {
+      "title": "Nvidia i Alphabet es queden fora del rebot tecnològic megacap mentre les accions de xips cauen",
       "link_id": "c_a87cdb",
       "source": "CNBC Technology",
       "date": "2026-06-26",
-      "time": "07:44",
-      "summary": "Les caigudes d'accions d'IA reflecteixen incertesa sobre costos i rendibilitat del sector tecnològic."
+      "time": "21:06",
+      "summary": "Nvidia i Alphabet eviten el repunt tecnològic, deixant les accions de xips en baixada."
     },
     {
-      "title": "Apple augmenta els preus del MacBook i l'iPad un 20%",
-      "link_id": "c_274d27",
+      "title": "L'S&P 500 registra la més llarga racha de pèrdues en 10 mesos mentre les empreses de xips cauen",
+      "link_id": "c_7e17d3",
       "source": "Financial Times",
-      "date": "2026-06-25",
-      "time": "20:36",
-      "summary": "Apple traspassa un augment de 20% en preus de MacBook i iPad, impactant consumidors."
+      "date": "2026-06-26",
+      "time": "20:24",
+      "summary": "L'S&P 500 continua perdent impuls a causa de la caiguda dels fabricants de xips."
     },
     {
-      "title": "Micron puja un 15% després d'uns guanys espectaculars, impulsant algunes accions de xips",
-      "link_id": "c_582e1b",
+      "title": "ON Semiconductor viu el pitjor dia des del 2020 mentre el CEO defensa l'acord amb Synaptics",
+      "link_id": "c_5b46d2",
       "source": "CNBC Technology",
-      "date": "2026-06-25",
-      "time": "20:31",
-      "summary": "Micron guanya un 15% gràcies a vendes massives de memòria, impulsant el sector de xips."
-    },
-    {
-      "title": "L'acció d'Apple cau per l'augment de preus del Mac i l'iPad; per què resistirà la tempesta",
-      "link_id": "c_f636db",
-      "source": "CNBC Technology",
-      "date": "2026-06-25",
-      "time": "20:27",
-      "summary": "L'augment de preus d'Apple afecta les seves accions, però la companyia manté solidesa financera."
-    },
-    {
-      "title": "Les accions de Micron pujen després d'uns resultats espectaculars que sacsegen la tecnologia de Wall Street",
-      "link_id": "c_4e7957",
-      "source": "Financial Times",
-      "date": "2026-06-25",
-      "time": "20:23",
-      "summary": "Resultats excepcionals de Micron fan pujar les seves accions i mouen el mercat tecnològic."
-    },
-    {
-      "title": "Apple registra el pitjor dia en més d'un any després d'augmentar els preus del MacBook i l'iPad",
-      "link_id": "c_ba5e5e",
-      "source": "CNBC Technology",
-      "date": "2026-06-25",
-      "time": "20:06",
-      "summary": "Apple viu el pitjor dia d'accions des de fa un any a causa dels nous preus."
-    },
-    {
-      "title": "Micron anuncia un augment de beneficis de quinze vegades, impulsant les accions d'IA globals",
-      "link_id": "c_665d91",
-      "source": "Financial Times",
-      "date": "2026-06-25",
-      "time": "18:40",
-      "summary": "El benefici de Micron multiplica quinze vegades, reforçant l'optimisme sobre les accions d'IA."
-    },
-    {
-      "title": "Anthropic contracta un economista amb opinions curioses sobre la supervivència humana",
-      "link_id": "c_bec434",
-      "source": "Financial Times",
-      "date": "2026-06-25",
-      "time": "12:50",
-      "summary": "Anthropic incorpora un economista que ofereix perspectives inusuals sobre la supervivència humana."
-    },
-    {
-      "title": "L'última ronda de contractacions d'Anthropic revela on construirà els pròxims centres de dades d'IA",
-      "link_id": "c_36a83b",
-      "source": "CNBC Technology",
-      "date": "2026-06-25",
-      "time": "05:00",
-      "summary": "Les noves contractacions d'Anthropic indiquen expansions de centres de dades d'IA a Àsia."
+      "date": "2026-06-26",
+      "time": "20:09",
+      "summary": "ON Semiconductor defensa la compra de Synaptics malgrat la caiguda del mercat de xips."
     }
   ]
 }
