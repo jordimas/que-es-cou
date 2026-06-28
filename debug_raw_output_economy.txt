@@ -1,88 +1,72 @@
 {
-  "generated_at": "2026-06-27T09:51",
+  "generated_at": "2026-06-28T10:23",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "L'administració Trump permet un accés limitat al model Mythos d'Anthropic",
-      "link_id": "c_74df0b",
+      "title": "Apple lluita contra una factura de patents de 500 milions de dòlars al Tribunal Suprem del Regne Unit",
+      "link_id": "c_d0aa4c",
       "source": "Financial Times",
-      "date": "2026-06-27",
-      "time": "00:37",
-      "summary": "La mesura busca equilibrar la innovació d'Anthropic amb les preocupacions de seguretat nacional."
+      "date": "2026-06-28",
+      "time": "04:00",
+      "summary": "Apple desafia una demanda de 500 milions al tribunal britànic, buscant protegir la seva tecnologia mòbil."
     },
     {
-      "title": "L'administració Trump permet a Anthropic llançar el model AI Mythos a algunes empreses i agències governamentals",
-      "link_id": "c_0f71bc",
-      "source": "CNBC Technology",
-      "date": "2026-06-27",
-      "time": "00:34",
-      "summary": "Llançament restringit apunta a controlar l'ús comercial i governamental del model Mythos."
-    },
-    {
-      "title": "OpenAI llança GPT-5.6 a usuaris seleccionats aprovats pel govern dels EUA",
-      "link_id": "c_ad1f38",
+      "title": "Google limita l'ús de Gemini de Meta a mesura que la demanda d'IA tensiona la capacitat",
+      "link_id": "c_19134b",
       "source": "Financial Times",
-      "date": "2026-06-26",
-      "time": "21:10",
-      "summary": "OpenAI ofereix GPT-5.6 només a entitats aprovades, destacant la regulació creixent."
+      "date": "2026-06-28",
+      "time": "04:00",
+      "summary": "Google limita l'accés a Gemini de Meta per gestionar la pressió de la demanda creixent d'IA."
     },
     {
-      "title": "OpenAI limita nous models d'IA a socis de confiança per sol·licitud del govern dels EUA",
-      "link_id": "c_f98905",
-      "source": "CNBC Technology",
-      "date": "2026-06-26",
-      "time": "17:02",
-      "summary": "Els nous models d'OpenAI es limiten a socis fiables per reduir riscos de seguretat."
-    },
-    {
-      "title": "Apple busca comprar xips de memòria d'una empresa xinesa inclosa a la llista negra",
-      "link_id": "c_44d467",
+      "title": "El centre tecnològic xinès es llança als robotaxi, deixant els conductors fora del joc",
+      "link_id": "c_d9b90f",
       "source": "Financial Times",
+      "date": "2026-06-28",
+      "time": "02:53",
+      "summary": "Shenzhen impulsa vehicles autònoms, deixant molts conductors tradicionals sense feina en l'economia gig."
+    },
+    {
+      "title": "La escassetat de memòria sacseja Apple i Microsoft, una crisi existent·ial per a les empreses més petites",
+      "link_id": "c_c46035",
+      "source": "CNBC Technology",
       "date": "2026-06-27",
-      "time": "02:17",
-      "summary": "Apple vol assegurar subministrament de memòria superant restriccions comercials amb proveïdor prohibit."
+      "time": "13:21",
+      "summary": "La manca de memòria afecta Apple i Microsoft, posant en risc la competitivitat de les empreses petites."
     },
     {
-      "title": "Les accions d'Oracle registren la pitjor setmana des del col·lapse punt com del 2001, per preocupacions de finançament d'IA",
-      "link_id": "c_6b773f",
+      "title": "Alphabet reforça una de les seves millors armes en la lluita per la supremacia de la IA",
+      "link_id": "c_22efcd",
       "source": "CNBC Technology",
-      "date": "2026-06-26",
-      "time": "22:29",
-      "summary": "Les accions d'Oracle cauen per l'augment del deute i les incerteses d'IA."
+      "date": "2026-06-27",
+      "time": "13:21",
+      "summary": "Alphabet aprofita el seu silici propi per reforçar la posició en la cursa de potència computacional d'IA."
     },
     {
-      "title": "Zhipu de Xina s'acosta als principals models d'IA dels EUA amb Anthropic i OpenAI limitats",
-      "link_id": "c_f35ca2",
+      "title": "Com GE Vernova construeix turbines de gas massives que alimenten l'explosió dels centres de dades d'IA",
+      "link_id": "c_e74ff6",
       "source": "CNBC Technology",
-      "date": "2026-06-26",
-      "time": "22:11",
-      "summary": "Zhipu avança gràcies a models oberts, mentre Anthropic i OpenAI es veuen limitats."
+      "date": "2026-06-27",
+      "time": "12:00",
+      "summary": "GE Vernova desenvolupa turbines de gas enormes per subministrar energia als centres de dades d'IA en expansió."
     },
     {
-      "title": "Nvidia i Alphabet es queden fora del rebot tecnològic megacap mentre les accions de xips cauen",
+      "title": "Nvidia i Alphabet es queden fora del repunt tecnològic, mentre les accions de xips continuen caient",
       "link_id": "c_a87cdb",
       "source": "CNBC Technology",
-      "date": "2026-06-26",
-      "time": "21:06",
-      "summary": "Nvidia i Alphabet eviten el repunt tecnològic, deixant les accions de xips en baixada."
+      "date": "2026-06-27",
+      "time": "11:38",
+      "summary": "Nvidia i Alphabet eviten el repunt tecnològic, mentre les accions de xips continuen caient."
     },
     {
-      "title": "L'S&P 500 registra la més llarga racha de pèrdues en 10 mesos mentre les empreses de xips cauen",
-      "link_id": "c_7e17d3",
+      "title": "Els fabricants de xips són cars a nivell mundial",
+      "link_id": "c_23c34a",
       "source": "Financial Times",
-      "date": "2026-06-26",
-      "time": "20:24",
-      "summary": "L'S&P 500 continua perdent impuls a causa de la caiguda dels fabricants de xips."
-    },
-    {
-      "title": "ON Semiconductor viu el pitjor dia des del 2020 mentre el CEO defensa l'acord amb Synaptics",
-      "link_id": "c_5b46d2",
-      "source": "CNBC Technology",
-      "date": "2026-06-26",
-      "time": "20:09",
-      "summary": "ON Semiconductor defensa la compra de Synaptics malgrat la caiguda del mercat de xips."
+      "date": "2026-06-27",
+      "time": "09:30",
+      "summary": "Les valoracions dels fabricants de xips es mantenen altes, alimentant la preocupació per la inflació del sector IA."
     }
   ]
 }

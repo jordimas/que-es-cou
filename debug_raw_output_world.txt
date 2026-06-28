@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-06-27T09:51",
+  "generated_at": "2026-06-28T10:23",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "OpenAI limita el llançament de GPT-5.6 després de la sol·licitud del govern, diu que les restriccions no haurien de ser la norma",
-      "link_id": "c_f9a162",
-      "source": "TechCrunch",
-      "date": "2026-06-26",
-      "time": "18:32",
-      "summary": "OpenAI redueix l'accés al model GPT-5.6 per complir les exigències del govern dels EUA."
+      "title": "Apple busca una solució políticament controvertida per a la crisi de memòria, i el govern dels EUA no n'està content",
+      "link_id": "c_f5f7d0",
+      "source": "The Guardian Tech",
+      "date": "2026-06-27",
+      "time": "17:40",
+      "summary": "Apple busca aprovar la compra de xips CXMT per reduir costos, però el Congrés es mostra escèptic."
     },
     {
-      "title": "L'administració Trump llança Anthropic Mythos per a més de 100 empreses i agències dels EUA",
-      "link_id": "c_d51325",
+      "title": "Les empreses atribueixen l'augment de preus a la escassetat de memòria i la pressió de la IA",
+      "link_id": "c_fb8d07",
+      "source": "The Guardian Tech",
+      "date": "2026-06-27",
+      "time": "23:10",
+      "summary": "Les empreses atribueixen l'augment de preus a la escassetat de memòria i la pressió de la IA."
+    },
+    {
+      "title": "Notícia: El potent model Anthropic, Fable 5, està a punt de tornar aviat",
+      "link_id": "c_561465",
+      "source": "Axios",
+      "date": "2026-06-27",
+      "time": "12:45",
+      "summary": "Fable 5 podria tornar a estar disponible per a desenvolupadors després d'un acord amb el govern."
+    },
+    {
+      "title": "Segons informes, l'executiu de Vision Pro d'Apple abandona per a OpenAI",
+      "link_id": "c_2de869",
       "source": "TechCrunch",
       "date": "2026-06-27",
-      "time": "01:01",
-      "summary": "Anthropic reposa el model Mythos a més de cent organitzacions americanes amb autorització governamental."
+      "time": "16:45",
+      "summary": "El responsable del Vision Pro d'Apple passa a OpenAI, reforçant la seva aposta per la IA."
     },
     {
-      "title": "Oblida l'impost Apple, aquest és l'impost de la IA",
-      "link_id": "c_b9b4d5",
-      "source": "InfoWorld",
-      "date": "2026-06-26",
-      "time": "13:19",
-      "summary": "Apple augmenta preus per l'augment del cost dels xips, afectant consumidors."
+      "title": "El cap de pagaments indi preveu que la IA jugarà un paper clau en la propera era del creixement dels pagaments digitals",
+      "link_id": "c_46fe68",
+      "source": "TechCrunch",
+      "date": "2026-06-28",
+      "time": "05:00",
+      "summary": "Dilip Asbe afirma que la IA impulsarà noves apps UPI més competitives i rendibles."
     },
     {
-      "title": "Executiu d'Apple responsable del Vision Pro abandona l'empresa per unir-se a OpenAI",
-      "link_id": "c_68e75a",
-      "source": "Engadget",
+      "title": "Bashblog – un únic script bash per crear blogs",
+      "link_id": "c_5c5246",
+      "source": "Hacker News",
+      "date": "2026-06-28",
+      "time": "04:48",
+      "summary": "Bashblog permet crear blogs senzills amb només un script Bash, simplificant el desplegament."
+    },
+    {
+      "title": "Bateries MagSafe: les millors opcions per al teu iPhone 17, iPhone Air i més",
+      "link_id": "c_56eb4c",
+      "source": "9to5Mac",
+      "date": "2026-06-28",
+      "time": "03:22",
+      "summary": "Les bateries MagSafe amb càrrega ràpida són essencials per a la nova gamma d'iPhone."
+    },
+    {
+      "title": "El pany sense clau TMD és una solució de 280 $ per a un problema de 60 $",
+      "link_id": "c_c264d4",
+      "source": "The Verge",
+      "date": "2026-06-28",
+      "time": "03:00",
+      "summary": "El pany TMD ofereix seguretat avançada però el seu preu elevat limita l'adopció."
+    },
+    {
+      "title": "Com veure Citizen Vigilante en línia des de qualsevol lloc – Regne Unit, EUA, Alemanya",
+      "link_id": "c_4ea2ed",
+      "source": "TechRadar",
       "date": "2026-06-27",
-      "time": "07:36",
-      "summary": "El cap del Vision Pro de Apple passa a OpenAI, reforçant l'equip d'IA."
+      "time": "23:42",
+      "summary": "Citizen Vigilante esdevé l'opció més vista a les plataformes de streaming per al públic global."
     },
     {
-      "title": "Els hackers russos van ser responsables de l'atac de 2,5 mil milions a Jaguar Land Rover",
-      "link_id": "c_8085eb",
-      "source": "TechCrunch",
-      "date": "2026-06-26",
-      "time": "17:29",
-      "summary": "Un atac cibernètic rus va causar danys de 2,5 mil milions de dòlars a Jaguar Land Rover."
-    },
-    {
-      "title": "La FTC autoritza Musk a adquirir la startup Mesh",
-      "link_id": "c_eebc81",
-      "source": "TechCrunch",
+      "title": "Nourish: un nou compositor Wayland impulsat per Vulkan amb desplaçament i panoràmica infinita",
+      "link_id": "c_8d4aef",
+      "source": "Phoronix",
       "date": "2026-06-27",
-      "time": "00:38",
-      "summary": "La FTC dóna el vistiplau a Musk per comprar Mesh, una startup d'IA de xarxes."
-    },
-    {
-      "title": "Corgi, la startup d'assegurances impulsada per Y Combinator, nega haver robat un producte de codi obert",
-      "link_id": "c_46702e",
-      "source": "TechCrunch",
-      "date": "2026-06-26",
-      "time": "22:00",
-      "summary": "Corgi rebutja les acusacions de robatori de programari, defensant la seva transparència."
-    },
-    {
-      "title": "Novak Djokovic es converteix en assessor de l'empresa de capital privat General Atlantic",
-      "link_id": "c_f26745",
-      "source": "TechCrunch",
-      "date": "2026-06-26",
-      "time": "19:13",
-      "summary": "El campió de tennis Novak Djokovic s'uneix a General Atlantic com a assessor estratègic."
-    },
-    {
-      "title": "OpenAI contracta l'exdirector d'India de Uber per liderar el seu mercat més gran fora dels EUA",
-      "link_id": "c_f08b64",
-      "source": "Engadget",
-      "date": "2026-06-26",
-      "time": "18:19",
-      "summary": "OpenAI incorpora l'antic cap d'Uber India per expandir el seu negoci global."
-    },
-    {
-      "title": "Per què tothom, des d'OpenAI fins a SpaceX, construeix els seus propis xips",
-      "link_id": "c_819367",
-      "source": "TechCrunch",
-      "date": "2026-06-26",
-      "time": "17:43",
-      "summary": "Empreses tecnològiques desenvolupen xips propis per reduir la dependència de Nvidia."
+      "time": "20:52",
+      "summary": "Nourish introdueix un espai de treball infinit, millorant la productivitat en entorns Wayland."
     }
   ]
 }
