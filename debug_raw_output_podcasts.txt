@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T08:23",
+  "generated_at": "2026-06-29T10:00",
   "id": "podcasts",
   "title": "Podcasts en català sobre tecnologia",
   "sources_checked": [],
@@ -10,47 +10,47 @@
       "source": "Mossega la poma",
       "date": "2026-06-20",
       "time": "08:48",
-      "summary": "Analitza la dependència europea del xip i la necessitat d’una sobirania tecnològica independent."
-    },
-    {
-      "title": "La nova llei de la UE respecte a la IA i anècdotes de viatges – Programa 667",
-      "link_id": "c_9ec3ca",
-      "source": "Mossega la poma",
-      "date": "2026-06-13",
-      "time": "09:42",
-      "summary": "Explora la nova normativa europea d'IA i relats personals sobre el seu impacte."
+      "summary": "Anàlisi del mercat de xips i la necessitat d’una sobirania tecnològica europea independent."
     },
     {
       "title": "L' Altra Ràdio - La intel·ligència artificial i la cacera de bolets",
       "link_id": "c_586653",
       "source": "L'altra ràdio",
       "date": "2026-06-25",
-      "time": "07:33",
-      "summary": "Mostra com ChatGPT ajuda a identificar bolets, combinant tecnologia i natura."
+      "time": "14:33",
+      "summary": "Exploració de com la IA ajuda a trobar bolets i reflexions sobre la jubilació d’un tècnic de so."
     },
     {
       "title": "L' Altra Ràdio - El retorn de la tecnologia simple",
       "link_id": "c_53eeb1",
       "source": "L'altra ràdio",
       "date": "2026-06-18",
-      "time": "07:33",
-      "summary": "Discuteix la tendència a reutilitzar dispositius antics com a resposta sostenible."
+      "time": "14:33",
+      "summary": "Discussió sobre l’atracció juvenil cap a dispositius antics i el paper de la IA en la creació d’imatges."
     },
     {
       "title": "El gòTIC - Tenim una missió! del 24/6/2026",
       "link_id": "c_493f69",
       "source": "El Gòtic",
-      "date": "2026-06-23",
-      "time": "16:29",
-      "summary": "Presenta recursos digitals per a la ciutadania, impulsant la inclusió tecnològica."
+      "date": "2026-06-24",
+      "time": "23:29",
+      "summary": "Recursos digitals per a la ciutadania, enfocats a resoldre reptes tecnològics locals."
     },
     {
       "title": "El gòTIC - Tenim una missió! del 17/6/2026",
       "link_id": "c_a5d8ec",
       "source": "El Gòtic",
-      "date": "2026-06-16",
-      "time": "16:29",
-      "summary": "Segueix la mateixa iniciativa, oferint eines per afrontar reptes digitals locals."
+      "date": "2026-06-17",
+      "time": "23:29",
+      "summary": "Continuació de la missió digital, oferint estratègies per a la transformació ciutadana."
+    },
+    {
+      "title": "Superagent Llados",
+      "link_id": "c_781ce4",
+      "source": "Foc a Terra",
+      "date": "2026-06-29",
+      "time": "04:00",
+      "summary": "Descobrim com la IA de Claude optimitza tasques rutinàries i impulsa la productivitat."
     },
     {
       "title": "Posem Holallum a la foscor, amb Oriol Vila",
@@ -58,7 +58,7 @@
       "source": "Foc a Terra",
       "date": "2026-06-22",
       "time": "04:00",
-      "summary": "Entrevista al cofundador de Holaluz sobre emprenedoria i noves oportunitats IA."
+      "summary": "Entrevista amb Oriol Vila sobre Holaluz, emprenedoria i la nova plataforma Blablanote."
     },
     {
       "title": "Ja no mosseguem la poma",
@@ -66,7 +66,7 @@
       "source": "Foc a Terra",
       "date": "2026-06-15",
       "time": "04:00",
-      "summary": "Analitza les novetats de la WWDC, incloent Apple Intelligence i millores de seguretat."
+      "summary": "Anàlisi de les novetats de WWDC, controls parentals i l’arribada de Siri AI."
     },
     {
       "title": "L'equip de WordPress 7.1 i tot el que vindrà",
@@ -74,7 +74,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-06-23",
       "time": "00:00",
-      "summary": "Detalla les noves funcionalitats i el full de ruta de la versió 7.1."
+      "summary": "Novetats de WordPress 7.1, amb full de ruta i millores clau per a desenvolupadors."
     },
     {
       "title": "Porta la teva comunitat local al xat mundial!",
@@ -82,7 +82,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-06-16",
       "time": "00:00",
-      "summary": "Explica com integrar comunitats locals a Slack global per ampliar la col·laboració."
+      "summary": "Integració de comunitats locals al Slack global, fomentant la col·laboració internacional de WordPress."
     },
     {
       "title": "Capítol 67: Digue’m com camines i et diré quina malaltia pots tenir",
@@ -90,7 +90,7 @@
       "source": "RAC&GO",
       "date": "2026-06-16",
       "time": "06:21",
-      "summary": "Explora l'ús de sensors i IA per predir malalties a partir del teu estil de caminar."
+      "summary": "Exploració de sensors i IA per predir malalties a través de la manera de caminar."
     }
   ]
 }

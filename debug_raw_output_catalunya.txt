@@ -1,11 +1,26 @@
 {
-  "generated_at": "2026-06-28T10:00",
+  "generated_at": "2026-06-29T09:50",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
     {
+      "name": "Via Empresa",
+      "url": "https://www.viaempresa.cat/uploads/feeds/feed_via-empresa-2024_ca.xml",
+      "articles_found": 1
+    },
+    {
+      "name": "Ara.cat",
+      "url": "https://www.ara.cat/rss/",
+      "articles_found": 2
+    },
+    {
       "name": "RAC1",
       "url": "https://www.rac1.cat/rss/home.xml",
+      "articles_found": 2
+    },
+    {
+      "name": "324.cat",
+      "url": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0",
       "articles_found": 2
     },
     {
@@ -14,42 +29,67 @@
       "articles_found": 1
     },
     {
-      "name": "Tot Barcelona",
-      "url": "https://www.totbarcelona.cat/feed/",
-      "articles_found": 2
-    },
-    {
-      "name": "Lleida Diari",
-      "url": "https://www.lleidadiari.cat/feed/",
-      "articles_found": 2
-    },
-    {
-      "name": "Segre",
-      "url": "https://www.segre.com/ca/rss/home.xml",
-      "articles_found": 2
-    },
-    {
       "name": "MetaData",
       "url": "https://www.metadata.cat/sindica",
-      "articles_found": 1
+      "articles_found": 2
     }
   ],
   "articles": [
+    {
+      "title": "Digi anuncia la seva intenció de sortir a borsa amb el suport de la família Domínguez de la Maza",
+      "link_id": "c_30f80e",
+      "source": "Via Empresa",
+      "date": "2026-06-29",
+      "time": "10:32",
+      "summary": "Digi busca finançament públic per impulsar la telecomunicació catalana i crear nous llocs de treball."
+    },
+    {
+      "title": "Per què els grans laboratoris d'IA contracten tants filòsofs?",
+      "link_id": "c_c3524d",
+      "source": "Ara.cat",
+      "date": "2026-06-26",
+      "time": "07:00",
+      "summary": "Les empreses d'IA recluten filòsofs per abordar ètiques i responsabilitats, reforçant la reflexió humana en la tecnologia."
+    },
+    {
+      "title": "Túnel del Cadí: Cap a una infraestructura “zero emissions” en consum elèctric al Pirineu",
+      "link_id": "c_ffc7f6",
+      "source": "Ara.cat",
+      "date": "2026-06-28",
+      "time": "23:59",
+      "summary": "El túnel del Cadí apunta a ser infraestructura zero emissions, reduint consum elèctric i impacte ambiental al Pirineu."
+    },
     {
       "title": "Investigadors catalans aconsegueixen que un bacteri modificat converteixi patates en plàstic biodegradable en només 24 hores",
       "link_id": "c_1ee5d2",
       "source": "RAC1",
       "date": "2026-06-25",
       "time": "18:05",
-      "summary": "Bacteri modificat converteix patates en plàstic biodegradable en 24 hores, reduint residus plàstics."
+      "summary": "Investigadors converteixen patates en plàstic biodegradable en 24 hores, oferint solució sostenible per a residus."
     },
     {
-      "title": "Toni Reboredo, enginyer informàtic: \"Activar els avisos sísmics de Google al mòbil pot salvar vides\"",
-      "link_id": "c_95b440",
+      "title": "\"Les paneroles s'estan fent resistents als insecticides i estan desenvolupant mètodes per combatre els nostres intents d'erradicació\"",
+      "link_id": "c_95d22d",
       "source": "RAC1",
-      "date": "2026-06-25",
-      "time": "18:19",
-      "summary": "Avisos sísmics de Google al mòbil poden alertar la població abans d’un terratrèmol."
+      "date": "2026-06-26",
+      "time": "17:47",
+      "summary": "Les paneroles mostren resistència creixent als insecticides, obligant a noves estratègies de control agrícola."
+    },
+    {
+      "title": "La Unió Europea autoritza el cultiu de fruites i verdures editades genèticament",
+      "link_id": "c_4359a3",
+      "source": "324.cat",
+      "date": "2026-06-28",
+      "time": "18:05",
+      "summary": "L'UE autoritza cultius genètics per millorar rendiments, generant debat sobre seguretat alimentària."
+    },
+    {
+      "title": "Apple apuja els preus un 20% a causa de la IA: el \"Ramageddon\" ha arribat per quedar-se?",
+      "link_id": "c_7f94ca",
+      "source": "324.cat",
+      "date": "2026-06-28",
+      "time": "14:54",
+      "summary": "Apple eleva preus un 20% per la demanda d'IA, impactant consumidors i empreses tecnològiques."
     },
     {
       "title": "La CNMC alerta de risc de monopoli a la xarxa de recàrrega de cotxes elèctrics",
@@ -57,55 +97,7 @@
       "source": "La Vanguardia (en català)",
       "date": "2026-06-28",
       "time": "07:50",
-      "summary": "Vint empreses controlen 95% de punts de recàrrega, amenaçant la competència del sector EV."
-    },
-    {
-      "title": "TMB atura les escales mecàniques més virals del metro per evitar les selfies perilloses",
-      "link_id": "c_92b868",
-      "source": "Tot Barcelona",
-      "date": "2026-06-27",
-      "time": "17:11",
-      "summary": "Escales mecàniques del metro es desactiven per evitar selfies perilloses i accidents."
-    },
-    {
-      "title": "L’Ajuntament retira el senyal discriminatori amb les persones amb mobilitat reduïda de Navas",
-      "link_id": "c_6e39a2",
-      "source": "Tot Barcelona",
-      "date": "2026-06-27",
-      "time": "12:51",
-      "summary": "Senyal discriminatori per a mobilitat reduïda eliminat, millorant accessibilitat a la zona de Navas."
-    },
-    {
-      "title": "La calor extrema dispara un 17% els accidents laborals",
-      "link_id": "c_14a212",
-      "source": "Lleida Diari",
-      "date": "2026-06-27",
-      "time": "18:11",
-      "summary": "Onades de calor augmenten un 17% els accidents laborals, afectant la seguretat dels treballadors."
-    },
-    {
-      "title": "Preocupant: 8 de cada 10 treballadors pateixen cansament digital",
-      "link_id": "c_eb1c41",
-      "source": "Lleida Diari",
-      "date": "2026-06-27",
-      "time": "12:15",
-      "summary": "83,5% dels treballadors pateixen cansament digital, impactant la salut mental i productivitat."
-    },
-    {
-      "title": "El talent que ningú no vol contractar i salva empreses",
-      "link_id": "c_614ac4",
-      "source": "Segre",
-      "date": "2026-06-28",
-      "time": "05:37",
-      "summary": "Professionals amb dècades d’experiència són excluits del mercat, tot i ser crucials per a les empreses."
-    },
-    {
-      "title": "Serosense: Fibra òptica de nova generació, amb accent local",
-      "link_id": "c_1cbc20",
-      "source": "Segre",
-      "date": "2026-06-28",
-      "time": "07:00",
-      "summary": "Fibra òptica de nova generació impulsa connexions més ràpides a Lleida, reforçant la infraestructura digital."
+      "summary": "La CNMC alerta sobre el monopoli en punts de recàrrega, advertint riscos per a usuaris d'EV."
     },
     {
       "title": "Reportatge: Què passa entre l’estadi i la teva pantalla? La tecnologia invisible que fa possible el Mundial 2026",
@@ -113,7 +105,15 @@
       "source": "MetaData",
       "date": "2026-06-26",
       "time": "10:00",
-      "summary": "Mundial 2026 depèn de 5G, centres de dades i IA per gestionar milers de connexions simultànies."
+      "summary": "El Mundial 2026 depèn de 5G i IA per gestionar milers de connexions simultànies en estadis."
+    },
+    {
+      "title": "Catalunya ja pot simular les condicions de l’espai: entra en servei la nova Cambra de Buit Tèrmic",
+      "link_id": "c_313301",
+      "source": "MetaData",
+      "date": "2026-06-25",
+      "time": "14:35",
+      "summary": "Nova Cambra de Buit Tèrmic permet simular l'espai, accelerant proves de satèl·lits i tecnologies espacials."
     }
   ]
 }

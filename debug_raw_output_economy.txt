@@ -1,72 +1,80 @@
 {
-  "generated_at": "2026-06-28T10:23",
+  "generated_at": "2026-06-29T10:00",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Apple lluita contra una factura de patents de 500 milions de dòlars al Tribunal Suprem del Regne Unit",
-      "link_id": "c_d0aa4c",
+      "title": "Samsung i SK Hynix preveuen una expansió de fabricació de xips de 600.000 milions de dòlars",
+      "link_id": "c_c08485",
       "source": "Financial Times",
-      "date": "2026-06-28",
+      "date": "2026-06-29",
+      "time": "07:07",
+      "summary": "Amb el suport del govern sud-coreà, les empreses busquen satisfer la demanda creixent de memòries."
+    },
+    {
+      "title": "Corea del Sud anuncia inversions de Samsung i SK Hynix en projectes d'IA i semiconductors",
+      "link_id": "c_598452",
+      "source": "CNBC Technology",
+      "date": "2026-06-29",
+      "time": "06:44",
+      "summary": "Les accions de les dues companyies van caure després de revelar els plans d'inversió massiva."
+    },
+    {
+      "title": "El boom de la IA s'enfronta a una nova amenaça: el clima sever",
+      "link_id": "c_f8b0b1",
+      "source": "CNBC Technology",
+      "date": "2026-06-29",
+      "time": "09:20",
+      "summary": "Les onades de calor i tempestes augmenten el risc per als centres de dades d'IA."
+    },
+    {
+      "title": "Intel·ligència artificial i la pausa d'Engels",
+      "link_id": "c_7741a7",
+      "source": "Financial Times",
+      "date": "2026-06-29",
+      "time": "05:00",
+      "summary": "La política podria limitar més el desenvolupament de la IA que la capacitat computacional."
+    },
+    {
+      "title": "Les accions de Baidu pujen un 7% amb l'objectiu d'IPO de 50.000 milions a Hong Kong",
+      "link_id": "c_193f3f",
+      "source": "CNBC Technology",
+      "date": "2026-06-29",
+      "time": "04:09",
+      "summary": "La unitat de xips d'IA, Kunlunxin, busca finançar el seu creixement amb una oferta pública."
+    },
+    {
+      "title": "El nou ordre mundial basat en IA",
+      "link_id": "c_2df93b",
+      "source": "Financial Times",
+      "date": "2026-06-29",
       "time": "04:00",
-      "summary": "Apple desafia una demanda de 500 milions al tribunal britànic, buscant protegir la seva tecnologia mòbil."
+      "summary": "Un factor singular determina ara la jerarquia de rendiments globals."
     },
     {
-      "title": "Google limita l'ús de Gemini de Meta a mesura que la demanda d'IA tensiona la capacitat",
-      "link_id": "c_19134b",
+      "title": "La IA impulsa un rècord de 200.000 milions d'USD en fusions i adquisicions del sector energètic dels EUA",
+      "link_id": "c_dacf4b",
       "source": "Financial Times",
-      "date": "2026-06-28",
+      "date": "2026-06-29",
       "time": "04:00",
-      "summary": "Google limita l'accés a Gemini de Meta per gestionar la pressió de la demanda creixent d'IA."
+      "summary": "Les empreses busquen infraestructura per a centres de dades energètics."
     },
     {
-      "title": "El centre tecnològic xinès es llança als robotaxi, deixant els conductors fora del joc",
-      "link_id": "c_d9b90f",
+      "title": "Robots, no xatbots, realitzaran el potencial de la IA",
+      "link_id": "c_57ed1e",
       "source": "Financial Times",
       "date": "2026-06-28",
-      "time": "02:53",
-      "summary": "Shenzhen impulsa vehicles autònoms, deixant molts conductors tradicionals sense feina en l'economia gig."
+      "time": "11:00",
+      "summary": "Aplicacions a la planta de fabricació podrien impulsar les economies avançades."
     },
     {
-      "title": "La escassetat de memòria sacseja Apple i Microsoft, una crisi existent·ial per a les empreses més petites",
-      "link_id": "c_c46035",
-      "source": "CNBC Technology",
-      "date": "2026-06-27",
-      "time": "13:21",
-      "summary": "La manca de memòria afecta Apple i Microsoft, posant en risc la competitivitat de les empreses petites."
-    },
-    {
-      "title": "Alphabet reforça una de les seves millors armes en la lluita per la supremacia de la IA",
-      "link_id": "c_22efcd",
-      "source": "CNBC Technology",
-      "date": "2026-06-27",
-      "time": "13:21",
-      "summary": "Alphabet aprofita el seu silici propi per reforçar la posició en la cursa de potència computacional d'IA."
-    },
-    {
-      "title": "Com GE Vernova construeix turbines de gas massives que alimenten l'explosió dels centres de dades d'IA",
-      "link_id": "c_e74ff6",
-      "source": "CNBC Technology",
-      "date": "2026-06-27",
-      "time": "12:00",
-      "summary": "GE Vernova desenvolupa turbines de gas enormes per subministrar energia als centres de dades d'IA en expansió."
-    },
-    {
-      "title": "Nvidia i Alphabet es queden fora del repunt tecnològic, mentre les accions de xips continuen caient",
-      "link_id": "c_a87cdb",
-      "source": "CNBC Technology",
-      "date": "2026-06-27",
-      "time": "11:38",
-      "summary": "Nvidia i Alphabet eviten el repunt tecnològic, mentre les accions de xips continuen caient."
-    },
-    {
-      "title": "Els fabricants de xips són cars a nivell mundial",
-      "link_id": "c_23c34a",
+      "title": "Les accions d'IA s'enfronten a més turbulències?",
+      "link_id": "c_92e91d",
       "source": "Financial Times",
-      "date": "2026-06-27",
-      "time": "09:30",
-      "summary": "Les valoracions dels fabricants de xips es mantenen altes, alimentant la preocupació per la inflació del sector IA."
+      "date": "2026-06-28",
+      "time": "11:00",
+      "summary": "El mercat qüestiona la sostenibilitat dels valors tecnològics."
     }
   ]
 }

@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-06-28T10:23",
+  "generated_at": "2026-06-29T10:00",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Apple busca una solució políticament controvertida per a la crisi de memòria, i el govern dels EUA no n'està content",
-      "link_id": "c_f5f7d0",
-      "source": "The Guardian Tech",
-      "date": "2026-06-27",
-      "time": "17:40",
-      "summary": "Apple busca aprovar la compra de xips CXMT per reduir costos, però el Congrés es mostra escèptic."
-    },
-    {
-      "title": "Les empreses atribueixen l'augment de preus a la escassetat de memòria i la pressió de la IA",
-      "link_id": "c_fb8d07",
-      "source": "The Guardian Tech",
-      "date": "2026-06-27",
-      "time": "23:10",
-      "summary": "Les empreses atribueixen l'augment de preus a la escassetat de memòria i la pressió de la IA."
-    },
-    {
-      "title": "Notícia: El potent model Anthropic, Fable 5, està a punt de tornar aviat",
-      "link_id": "c_561465",
-      "source": "Axios",
-      "date": "2026-06-27",
-      "time": "12:45",
-      "summary": "Fable 5 podria tornar a estar disponible per a desenvolupadors després d'un acord amb el govern."
-    },
-    {
-      "title": "Segons informes, l'executiu de Vision Pro d'Apple abandona per a OpenAI",
-      "link_id": "c_2de869",
-      "source": "TechCrunch",
-      "date": "2026-06-27",
-      "time": "16:45",
-      "summary": "El responsable del Vision Pro d'Apple passa a OpenAI, reforçant la seva aposta per la IA."
-    },
-    {
-      "title": "El cap de pagaments indi preveu que la IA jugarà un paper clau en la propera era del creixement dels pagaments digitals",
-      "link_id": "c_46fe68",
-      "source": "TechCrunch",
-      "date": "2026-06-28",
-      "time": "05:00",
-      "summary": "Dilip Asbe afirma que la IA impulsarà noves apps UPI més competitives i rendibles."
-    },
-    {
-      "title": "Bashblog – un únic script bash per crear blogs",
-      "link_id": "c_5c5246",
-      "source": "Hacker News",
-      "date": "2026-06-28",
-      "time": "04:48",
-      "summary": "Bashblog permet crear blogs senzills amb només un script Bash, simplificant el desplegament."
-    },
-    {
-      "title": "Bateries MagSafe: les millors opcions per al teu iPhone 17, iPhone Air i més",
-      "link_id": "c_56eb4c",
+      "title": "Els preus del teu Mac i iPad acaben d'augmentar; les centrals d'IA en són la causa",
+      "link_id": "c_9dbc5d",
       "source": "9to5Mac",
-      "date": "2026-06-28",
-      "time": "03:22",
-      "summary": "Les bateries MagSafe amb càrrega ràpida són essencials per a la nova gamma d'iPhone."
+      "date": "2026-06-29",
+      "time": "02:33",
+      "summary": "L'augment es deu al augment de la demanda de memòria per part de centres d'IA que encareixen els components."
     },
     {
-      "title": "El pany sense clau TMD és una solució de 280 $ per a un problema de 60 $",
-      "link_id": "c_c264d4",
+      "title": "Els EUA autoritzen l'ús ampliat del Mythos 5 d'Anthropic",
+      "link_id": "c_b12233",
+      "source": "Bloomberg Technology",
+      "date": "2026-06-29",
+      "time": "05:50",
+      "summary": "L'aprovació permetrà que empreses i investigadors accedeixin al model avançat per a aplicacions més potents."
+    },
+    {
+      "title": "Xina afirma tenir el superordinador més ràpid del món",
+      "link_id": "c_5387f2",
       "source": "The Verge",
       "date": "2026-06-28",
-      "time": "03:00",
-      "summary": "El pany TMD ofereix seguretat avançada però el seu preu elevat limita l'adopció."
+      "time": "17:20",
+      "summary": "El nou superordinador supera el rècord anterior, impulsant la investigació científica i la intel·ligència artificial."
     },
     {
-      "title": "Com veure Citizen Vigilante en línia des de qualsevol lloc – Regne Unit, EUA, Alemanya",
-      "link_id": "c_4ea2ed",
-      "source": "TechRadar",
-      "date": "2026-06-27",
-      "time": "23:42",
-      "summary": "Citizen Vigilante esdevé l'opció més vista a les plataformes de streaming per al públic global."
+      "title": "Camions de bateries Tesla són robats abans d'abandonar la fàbrica",
+      "link_id": "c_2fc160",
+      "source": "Wired",
+      "date": "2026-06-29",
+      "time": "09:00",
+      "summary": "Els robatoris apunten a vulnerabilitats logístiques, deixant la cadena de subministrament de Tesla exposada."
     },
     {
-      "title": "Nourish: un nou compositor Wayland impulsat per Vulkan amb desplaçament i panoràmica infinita",
-      "link_id": "c_8d4aef",
-      "source": "Phoronix",
-      "date": "2026-06-27",
-      "time": "20:52",
-      "summary": "Nourish introdueix un espai de treball infinit, millorant la productivitat en entorns Wayland."
+      "title": "Aquest robot humanoide és un pràctic i terrorífic intern d'oficina",
+      "link_id": "c_9dfab6",
+      "source": "Wired",
+      "date": "2026-06-29",
+      "time": "08:00",
+      "summary": "El robot pot realitzar tasques administratives amb precisió, però genera preocupacions ètiques sobre l'automatització."
+    },
+    {
+      "title": "Fiscalies van presentar registres de ChatGPT com a prova al judici del foc de Palisades",
+      "link_id": "c_2b895f",
+      "source": "The Verge",
+      "date": "2026-06-28",
+      "time": "14:12",
+      "summary": "Els registres revelen com el sospitós va utilitzar IA per obtenir informació durant l'incendi."
+    },
+    {
+      "title": "La llei californiana contra anuncis estridents en streaming entra en vigor el 1 de juliol",
+      "link_id": "c_df0752",
+      "source": "TechCrunch",
+      "date": "2026-06-28",
+      "time": "21:34",
+      "summary": "La normativa busca reduir la pol·lució auditiva i millorar l'experiència dels usuaris en streaming."
+    },
+    {
+      "title": "No puc creure com encara és excel·lent el Samsung Galaxy S24 Ultra el 2026",
+      "link_id": "c_80c504",
+      "source": "Android Authority",
+      "date": "2026-06-29",
+      "time": "09:30",
+      "summary": "Malgrat l'any, el S24 Ultra manté una càmera i rendiment que superen la competència."
+    },
+    {
+      "title": "Una nova aplicació genial per a qui organitza fotos com a pàgines de revista",
+      "link_id": "c_dda5b5",
+      "source": "Digital Trends",
+      "date": "2026-06-29",
+      "time": "08:16",
+      "summary": "L'app afegeix marcs, marques d'aigua i detalls EXIF per a compartir fotos amb estil."
+    },
+    {
+      "title": "Enfrontem forces amb tot el diners del món: Erin Brockovich i la seva lluita contra les centrals d'IA",
+      "link_id": "c_985488",
+      "source": "The Guardian Tech",
+      "date": "2026-06-29",
+      "time": "04:00",
+      "summary": "Brockovich denuncia l'impacte ambiental i social de les grans instal·lacions d'IA sense regulació."
     }
   ]
 }
