@@ -1,48 +1,56 @@
 {
-  "generated_at": "2026-06-29T10:00",
+  "generated_at": "2026-06-30T17:45",
   "id": "podcasts",
   "title": "Podcasts en català sobre tecnologia",
   "sources_checked": [],
   "articles": [
+    {
+      "title": "Apple apuja els preus – Final de Temporada – Programa 669",
+      "link_id": "c_bc9076",
+      "source": "Mossega la poma",
+      "date": "2026-06-29",
+      "time": "15:18",
+      "summary": "Apple incrementa preus de Macs i iPads, atribuint-ho a l'augment de cost de la RAM i IA."
+    },
     {
       "title": "El mercat de xips i la fragilitat de la sobirania tecnològica europea – Programa 668",
       "link_id": "c_dd511c",
       "source": "Mossega la poma",
       "date": "2026-06-20",
       "time": "08:48",
-      "summary": "Anàlisi del mercat de xips i la necessitat d’una sobirania tecnològica europea independent."
+      "summary": "Analitzem la dependència europea del xip, la pressió del mercat i la necessitat d'infraestructura oberta."
     },
     {
       "title": "L' Altra Ràdio - La intel·ligència artificial i la cacera de bolets",
       "link_id": "c_586653",
       "source": "L'altra ràdio",
       "date": "2026-06-25",
-      "time": "14:33",
-      "summary": "Exploració de com la IA ajuda a trobar bolets i reflexions sobre la jubilació d’un tècnic de so."
+      "time": "07:33",
+      "summary": "ChatGPT ajuda a identificar bolets, mostrant com la IA pot transformar la recerca de camp."
     },
     {
       "title": "L' Altra Ràdio - El retorn de la tecnologia simple",
       "link_id": "c_53eeb1",
       "source": "L'altra ràdio",
       "date": "2026-06-18",
-      "time": "14:33",
-      "summary": "Discussió sobre l’atracció juvenil cap a dispositius antics i el paper de la IA en la creació d’imatges."
+      "time": "07:33",
+      "summary": "Joves redescobreixen dispositius antics, destacant el valor de la simplicitat en l'era digital."
     },
     {
       "title": "El gòTIC - Tenim una missió! del 24/6/2026",
       "link_id": "c_493f69",
       "source": "El Gòtic",
-      "date": "2026-06-24",
-      "time": "23:29",
+      "date": "2026-06-23",
+      "time": "16:29",
       "summary": "Recursos digitals per a la ciutadania, enfocats a resoldre reptes tecnològics locals."
     },
     {
       "title": "El gòTIC - Tenim una missió! del 17/6/2026",
       "link_id": "c_a5d8ec",
       "source": "El Gòtic",
-      "date": "2026-06-17",
-      "time": "23:29",
-      "summary": "Continuació de la missió digital, oferint estratègies per a la transformació ciutadana."
+      "date": "2026-06-16",
+      "time": "16:29",
+      "summary": "Iniciativa municipal per impulsar la transformació digital i la participació ciutadana."
     },
     {
       "title": "Superagent Llados",
@@ -50,7 +58,7 @@
       "source": "Foc a Terra",
       "date": "2026-06-29",
       "time": "04:00",
-      "summary": "Descobrim com la IA de Claude optimitza tasques rutinàries i impulsa la productivitat."
+      "summary": "Explorem com l'IA Claude augmenta la productivitat en tasques rutinàries empresarials."
     },
     {
       "title": "Posem Holallum a la foscor, amb Oriol Vila",
@@ -58,15 +66,15 @@
       "source": "Foc a Terra",
       "date": "2026-06-22",
       "time": "04:00",
-      "summary": "Entrevista amb Oriol Vila sobre Holaluz, emprenedoria i la nova plataforma Blablanote."
+      "summary": "Oriol Vila comparteix la seva experiència emprenedora i la nova plataforma Blablanote basada en IA."
     },
     {
-      "title": "Ja no mosseguem la poma",
-      "link_id": "c_4ee64a",
-      "source": "Foc a Terra",
-      "date": "2026-06-15",
-      "time": "04:00",
-      "summary": "Anàlisi de les novetats de WWDC, controls parentals i l’arribada de Siri AI."
+      "title": "Diem adéu a l'editor clàssic",
+      "link_id": "c_4f0467",
+      "source": "WordPress Pòdcast",
+      "date": "2026-06-30",
+      "time": "00:00",
+      "summary": "L'editor clàssic desapareix progressivament mentre WordPress impulsa l'ecosistema de blocs."
     },
     {
       "title": "L'equip de WordPress 7.1 i tot el que vindrà",
@@ -74,7 +82,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-06-23",
       "time": "00:00",
-      "summary": "Novetats de WordPress 7.1, amb full de ruta i millores clau per a desenvolupadors."
+      "summary": "Presenten les novetats de la versió 7.1, incloent millores de rendiment i noves funcionalitats."
     },
     {
       "title": "Porta la teva comunitat local al xat mundial!",
@@ -82,7 +90,15 @@
       "source": "WordPress Pòdcast",
       "date": "2026-06-16",
       "time": "00:00",
-      "summary": "Integració de comunitats locals al Slack global, fomentant la col·laboració internacional de WordPress."
+      "summary": "WordPress integra Slack global, facilitant la comunicació entre comunitats locals i audiència internacional."
+    },
+    {
+      "title": "Capítol 68: Tendios o com superar la burocràcia del sector públic",
+      "link_id": "c_06b6e4",
+      "source": "RAC&GO",
+      "date": "2026-06-30",
+      "time": "06:00",
+      "summary": "Tendios ofereix solucions IA per simplificar tràmits i accelerar contractes públics."
     },
     {
       "title": "Capítol 67: Digue’m com camines i et diré quina malaltia pots tenir",
@@ -90,7 +106,7 @@
       "source": "RAC&GO",
       "date": "2026-06-16",
       "time": "06:21",
-      "summary": "Exploració de sensors i IA per predir malalties a través de la manera de caminar."
+      "summary": "Ephion Health desenvolupa sensors i IA per predir malalties a través de l'anàlisi de la marxa."
     }
   ]
 }

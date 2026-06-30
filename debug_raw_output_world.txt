@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-06-29T10:00",
+  "generated_at": "2026-06-30T19:30",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Els preus del teu Mac i iPad acaben d'augmentar; les centrals d'IA en són la causa",
-      "link_id": "c_9dbc5d",
+      "title": "WhatsApp ara permet reservar un nom d'usuari",
+      "link_id": "c_8d7c03",
       "source": "9to5Mac",
-      "date": "2026-06-29",
-      "time": "02:33",
-      "summary": "L'augment es deu al augment de la demanda de memòria per part de centres d'IA que encareixen els components."
+      "date": "2026-06-30",
+      "time": "16:00",
+      "summary": "WhatsApp permet reservar noms d'usuari per a missatges privats sense números."
     },
     {
-      "title": "Els EUA autoritzen l'ús ampliat del Mythos 5 d'Anthropic",
-      "link_id": "c_b12233",
-      "source": "Bloomberg Technology",
-      "date": "2026-06-29",
-      "time": "05:50",
-      "summary": "L'aprovació permetrà que empreses i investigadors accedeixin al model avançat per a aplicacions més potents."
+      "title": "Blue Origin encara no sap per què el coet New Glenn va esclatar el mes passat",
+      "link_id": "c_5f3f05",
+      "source": "The Next Web",
+      "date": "2026-06-30",
+      "time": "16:58",
+      "summary": "Blue Origin investiga la causa de l'explosió del coet New Glenn."
     },
     {
-      "title": "Xina afirma tenir el superordinador més ràpid del món",
-      "link_id": "c_5387f2",
+      "title": "El Tribunal Suprem deté l'intent de Trump d'acabar amb la ciutadania per naixement",
+      "link_id": "c_88d7f4",
       "source": "The Verge",
-      "date": "2026-06-28",
-      "time": "17:20",
-      "summary": "El nou superordinador supera el rècord anterior, impulsant la investigació científica i la intel·ligència artificial."
+      "date": "2026-06-30",
+      "time": "14:44",
+      "summary": "El Tribunal Suprem protegeix el dret constitucional a la ciutadania per naixement."
     },
     {
-      "title": "Camions de bateries Tesla són robats abans d'abandonar la fàbrica",
+      "title": "Microsoft presenta Memora per abordar el problema de memòria dels agents d'IA",
+      "link_id": "c_7cadcb",
+      "source": "Computerworld",
+      "date": "2026-06-30",
+      "time": "10:25",
+      "summary": "Memora ofereix una memòria escalable i fiable per a agents d'IA."
+    },
+    {
+      "title": "L'iPhone 18 Pro s'ha filtrat en una prova de caiguda a la fàbrica, i Apple no està entusiasmat",
+      "link_id": "c_14d5ec",
+      "source": "Digital Trends",
+      "date": "2026-06-30",
+      "time": "07:39",
+      "summary": "Filtracions mostren l'iPhone 18 Pro en proves de resistència, generant controvèrsia."
+    },
+    {
+      "title": "Tesla té un problema de robatori de bateries",
       "link_id": "c_2fc160",
       "source": "Wired",
-      "date": "2026-06-29",
-      "time": "09:00",
-      "summary": "Els robatoris apunten a vulnerabilitats logístiques, deixant la cadena de subministrament de Tesla exposada."
+      "date": "2026-06-30",
+      "time": "07:19",
+      "summary": "Roba de bateries de Tesla es produeix en robatoris organitzats a les seves fàbriques."
     },
     {
-      "title": "Aquest robot humanoide és un pràctic i terrorífic intern d'oficina",
-      "link_id": "c_9dfab6",
-      "source": "Wired",
-      "date": "2026-06-29",
-      "time": "08:00",
-      "summary": "El robot pot realitzar tasques administratives amb precisió, però genera preocupacions ètiques sobre l'automatització."
+      "title": "Meta va pagar contractistes per fer-se passar per adolescents i investigar xats d'IA rivals",
+      "link_id": "c_51975a",
+      "source": "The Next Web",
+      "date": "2026-06-30",
+      "time": "16:54",
+      "summary": "Contractistes de Meta van enganyar xats d'IA rivals fent-se passar per adolescents."
     },
     {
-      "title": "Fiscalies van presentar registres de ChatGPT com a prova al judici del foc de Palisades",
-      "link_id": "c_2b895f",
+      "title": "L'explosió d'IA de Google fa augmentar emissions i consum d'energia",
+      "link_id": "c_ec1be4",
+      "source": "Axios",
+      "date": "2026-06-30",
+      "time": "16:00",
+      "summary": "Google registra un augment històric d'emissions i consum energètic per a IA."
+    },
+    {
+      "title": "L'API Tenor de Google es tanca, eliminant els selectors de GIF a la web",
+      "link_id": "c_ee997b",
       "source": "The Verge",
-      "date": "2026-06-28",
-      "time": "14:12",
-      "summary": "Els registres revelen com el sospitós va utilitzar IA per obtenir informació durant l'incendi."
+      "date": "2026-06-30",
+      "time": "14:30",
+      "summary": "L'API Tenor es desactiva, deixant sense GIFs a moltes aplicacions web."
     },
     {
-      "title": "La llei californiana contra anuncis estridents en streaming entra en vigor el 1 de juliol",
-      "link_id": "c_df0752",
-      "source": "TechCrunch",
-      "date": "2026-06-28",
-      "time": "21:34",
-      "summary": "La normativa busca reduir la pol·lució auditiva i millorar l'experiència dels usuaris en streaming."
-    },
-    {
-      "title": "No puc creure com encara és excel·lent el Samsung Galaxy S24 Ultra el 2026",
-      "link_id": "c_80c504",
-      "source": "Android Authority",
+      "title": "Google implementa controls per aplicació per a còpies de seguretat d'Android",
+      "link_id": "c_c554aa",
+      "source": "9to5Google",
       "date": "2026-06-29",
-      "time": "09:30",
-      "summary": "Malgrat l'any, el S24 Ultra manté una càmera i rendiment que superen la competència."
-    },
-    {
-      "title": "Una nova aplicació genial per a qui organitza fotos com a pàgines de revista",
-      "link_id": "c_dda5b5",
-      "source": "Digital Trends",
-      "date": "2026-06-29",
-      "time": "08:16",
-      "summary": "L'app afegeix marcs, marques d'aigua i detalls EXIF per a compartir fotos amb estil."
-    },
-    {
-      "title": "Enfrontem forces amb tot el diners del món: Erin Brockovich i la seva lluita contra les centrals d'IA",
-      "link_id": "c_985488",
-      "source": "The Guardian Tech",
-      "date": "2026-06-29",
-      "time": "04:00",
-      "summary": "Brockovich denuncia l'impacte ambiental i social de les grans instal·lacions d'IA sense regulació."
+      "time": "23:54",
+      "summary": "Google afegeix opcions per controlar les còpies de seguretat d'aplicacions Android."
     }
   ]
 }

@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-06-29T09:50",
+  "generated_at": "2026-06-30T17:30",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
     {
-      "name": "Via Empresa",
-      "url": "https://www.viaempresa.cat/uploads/feeds/feed_via-empresa-2024_ca.xml",
-      "articles_found": 1
-    },
-    {
       "name": "Ara.cat",
       "url": "https://www.ara.cat/rss/",
-      "articles_found": 2
+      "articles_found": 3
+    },
+    {
+      "name": "El Periódico",
+      "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
+      "articles_found": 1
     },
     {
       "name": "RAC1",
@@ -19,101 +19,281 @@
       "articles_found": 2
     },
     {
-      "name": "324.cat",
-      "url": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0",
-      "articles_found": 2
-    },
-    {
       "name": "La Vanguardia (en català)",
       "url": "https://www.lavanguardia.com/rss/encatala.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "VilaWeb",
+      "url": "https://www.vilaweb.cat/feed/",
       "articles_found": 1
+    },
+    {
+      "name": "NacióDigital",
+      "url": "https://www.naciodigital.cat/rss/tecnologia",
+      "articles_found": 0
+    },
+    {
+      "name": "324.cat",
+      "url": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0",
+      "articles_found": 0
+    },
+    {
+      "name": "Softcatalà",
+      "url": "https://www.softcatala.org/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "El Nacional.cat",
+      "url": "https://www.elnacional.cat/uploads/feeds/feed_ca.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "El Mon.cat",
+      "url": "https://www.elmon.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "El Mon.cat Tecnologia",
+      "url": "https://elmon.cat/tecnologia/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "El Mon.cat Societat",
+      "url": "https://elmon.cat/societat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "Betevé",
+      "url": "https://beteve.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/barcelona.feed?type=rss",
+      "articles_found": 0
+    },
+    {
+      "name": "Segre",
+      "url": "https://www.segre.com/ca/rss/home.xml",
+      "articles_found": 1
+    },
+    {
+      "name": "Regio7",
+      "url": "https://www.regio7.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Diari d'Andorra",
+      "url": "https://www.diariandorra.ad/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Bon Dia Andorra",
+      "url": "https://www.bondia.ad/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Altaveu",
+      "url": "https://www.altaveu.com/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Nuvol",
+      "url": "https://www.nuvol.com/feed",
+      "articles_found": 0
+    },
+    {
+      "name": "Diari Mes",
+      "url": "https://www.diarimes.com/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Directe.cat",
+      "url": "https://www.directe.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Cugat.cat",
+      "url": "https://www.cugat.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "CatalunyaPress",
+      "url": "https://www.catalunyapress.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Tot Barcelona",
+      "url": "https://www.totbarcelona.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "e-notícies",
+      "url": "https://www.e-noticies.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Lleida Diari",
+      "url": "https://www.lleidadiari.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "Catorze",
+      "url": "https://www.catorze.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Xarxanet",
+      "url": "https://www.xarxanet.org/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Bondia",
+      "url": "https://www.bondia.cat/?feed=rss2",
+      "articles_found": 0
     },
     {
       "name": "MetaData",
       "url": "https://www.metadata.cat/sindica",
-      "articles_found": 2
+      "articles_found": 1
+    },
+    {
+      "name": "El Temps",
+      "url": "https://www.eltemps.cat/sindica",
+      "articles_found": 0
+    },
+    {
+      "name": "Àpunt",
+      "url": "https://www.apuntmedia.es/rss/",
+      "articles_found": 1
+    },
+    {
+      "name": "El Periòdic d'Ontinyent",
+      "url": "https://www.elperiodicvalencia.com/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Saó",
+      "url": "https://www.revistasao.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "Diari de Balears",
+      "url": "https://www.diaridebalears.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "IB3 Notícies",
+      "url": "https://ib3.org/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "Ara Balears",
+      "url": "https://www.arabalears.cat/rss/",
+      "articles_found": 0
+    },
+    {
+      "name": "Manacor Comarcal",
+      "url": "https://manacorcomarcal.com/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Via Empresa",
+      "url": "https://www.viaempresa.cat/uploads/feeds/feed_via-empresa-2024_ca.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "Lúdica",
+      "url": "https://ludica.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "Accent Obert",
+      "url": "https://accentobert.cat/feed/",
+      "articles_found": 0
     }
   ],
   "articles": [
     {
-      "title": "Digi anuncia la seva intenció de sortir a borsa amb el suport de la família Domínguez de la Maza",
-      "link_id": "c_30f80e",
-      "source": "Via Empresa",
-      "date": "2026-06-29",
-      "time": "10:32",
-      "summary": "Digi busca finançament públic per impulsar la telecomunicació catalana i crear nous llocs de treball."
-    },
-    {
-      "title": "Per què els grans laboratoris d'IA contracten tants filòsofs?",
-      "link_id": "c_c3524d",
+      "title": "L'ARA llança Goita, l’assistent que t'ofereix els millors plans culturals i gastronòmics de Barcelona",
+      "link_id": "c_e501ea",
       "source": "Ara.cat",
-      "date": "2026-06-26",
-      "time": "07:00",
-      "summary": "Les empreses d'IA recluten filòsofs per abordar ètiques i responsabilitats, reforçant la reflexió humana en la tecnologia."
+      "date": "2026-06-30",
+      "time": "05:00",
+      "summary": "Nou assistent IA Goita ofereix recomanacions personalitzades de cultura i gastronomia per a gaudir Barcelona sense esforç."
     },
     {
       "title": "Túnel del Cadí: Cap a una infraestructura “zero emissions” en consum elèctric al Pirineu",
       "link_id": "c_ffc7f6",
       "source": "Ara.cat",
       "date": "2026-06-28",
-      "time": "23:59",
-      "summary": "El túnel del Cadí apunta a ser infraestructura zero emissions, reduint consum elèctric i impacte ambiental al Pirineu."
+      "time": "21:59",
+      "summary": "El túnel del Cadí apunta a ser la primera infraestructura catalana de zero emissions, reduint consum elèctric al Pirineu."
     },
     {
-      "title": "Investigadors catalans aconsegueixen que un bacteri modificat converteixi patates en plàstic biodegradable en només 24 hores",
-      "link_id": "c_1ee5d2",
-      "source": "RAC1",
-      "date": "2026-06-25",
-      "time": "18:05",
-      "summary": "Investigadors converteixen patates en plàstic biodegradable en 24 hores, oferint solució sostenible per a residus."
+      "title": "Heura guanya a la indústria càrnia als tribunals: els seus productes vegans es poden definir com a 'burguer' o 'salsitxa'",
+      "link_id": "c_0fc76e",
+      "source": "Ara.cat",
+      "date": "2026-06-29",
+      "time": "18:17",
+      "summary": "Heura guanya al judici, permetent etiquetar productes vegans com a 'burguer' i 'salsitxa' sense restriccions."
     },
     {
-      "title": "\"Les paneroles s'estan fent resistents als insecticides i estan desenvolupant mètodes per combatre els nostres intents d'erradicació\"",
-      "link_id": "c_95d22d",
-      "source": "RAC1",
-      "date": "2026-06-26",
-      "time": "17:47",
-      "summary": "Les paneroles mostren resistència creixent als insecticides, obligant a noves estratègies de control agrícola."
-    },
-    {
-      "title": "La Unió Europea autoritza el cultiu de fruites i verdures editades genèticament",
-      "link_id": "c_4359a3",
-      "source": "324.cat",
-      "date": "2026-06-28",
-      "time": "18:05",
-      "summary": "L'UE autoritza cultius genètics per millorar rendiments, generant debat sobre seguretat alimentària."
-    },
-    {
-      "title": "Apple apuja els preus un 20% a causa de la IA: el \"Ramageddon\" ha arribat per quedar-se?",
-      "link_id": "c_7f94ca",
-      "source": "324.cat",
-      "date": "2026-06-28",
-      "time": "14:54",
-      "summary": "Apple eleva preus un 20% per la demanda d'IA, impactant consumidors i empreses tecnològiques."
-    },
-    {
-      "title": "La CNMC alerta de risc de monopoli a la xarxa de recàrrega de cotxes elèctrics",
-      "link_id": "c_1937d9",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-06-28",
-      "time": "07:50",
-      "summary": "La CNMC alerta sobre el monopoli en punts de recàrrega, advertint riscos per a usuaris d'EV."
-    },
-    {
-      "title": "Reportatge: Què passa entre l’estadi i la teva pantalla? La tecnologia invisible que fa possible el Mundial 2026",
-      "link_id": "c_264c72",
+      "title": "Indra Group reforça l’aposta pel talent a Catalunya amb noves aliances amb universitats i centres d’FP",
+      "link_id": "c_f5a3a8",
       "source": "MetaData",
-      "date": "2026-06-26",
-      "time": "10:00",
-      "summary": "El Mundial 2026 depèn de 5G i IA per gestionar milers de connexions simultànies en estadis."
+      "date": "2026-06-30",
+      "time": "16:05",
+      "summary": "Indra crearà 1.500 llocs qualificats i ampliarà col·laboracions amb universitats per impulsar IA, ciberseguretat i espai."
     },
     {
-      "title": "Catalunya ja pot simular les condicions de l’espai: entra en servei la nova Cambra de Buit Tèrmic",
-      "link_id": "c_313301",
-      "source": "MetaData",
-      "date": "2026-06-25",
-      "time": "14:35",
-      "summary": "Nova Cambra de Buit Tèrmic permet simular l'espai, accelerant proves de satèl·lits i tecnologies espacials."
+      "title": "Menys ciència-ficció i més productivitat: la IA avança en pimes, autònoms i despatxos",
+      "link_id": "c_f792e7",
+      "source": "Segre",
+      "date": "2026-06-30",
+      "time": "16:27",
+      "summary": "La intel·ligència artificial automatitza tràmits i anàlisis, impulsant productivitat en pimes, autònoms i despatxos professionals."
+    },
+    {
+      "title": "OpenAI planeja retardar la seva sortida a borsa el 2027",
+      "link_id": "c_150b20",
+      "source": "El Periódico",
+      "date": "2026-06-26",
+      "time": "10:48",
+      "summary": "OpenAI posposa la seva sortida a borsa fins al 2027, generant incertesa en el sector IA."
+    },
+    {
+      "title": "WhatsApp obri el procés de reserva de noms d'usuari personalitzats",
+      "link_id": "c_af7857",
+      "source": "Àpunt",
+      "date": "2026-06-30",
+      "time": "07:58",
+      "summary": "WhatsApp permet reservar noms d'usuari personalitzats, augmentant la privacitat i evitant compartir números telefònics."
+    },
+    {
+      "title": "Citizen Lab declararà finalment en la causa per l’espionatge a Gonzalo Boye",
+      "link_id": "c_6f3a04",
+      "source": "VilaWeb",
+      "date": "2026-06-30",
+      "time": "12:49",
+      "summary": "Citizen Lab testificarà davant jutge de Madrid sobre l'espionatge a Gonzalo Boye, revelant vulnerabilitats tecnològiques."
+    },
+    {
+      "title": "Una avaria deixa sense llum durant hores prop de 17.000 persones a Barcelona, l'Hospitalet, Esplugues i Cornellà de Llobregat",
+      "link_id": "c_9786ad",
+      "source": "RAC1",
+      "date": "2026-06-29",
+      "time": "20:45",
+      "summary": "Una avaria deixa 17.000 residents a Barcelona i àrees veïnes sense electricitat durant diverses hores."
+    },
+    {
+      "title": "Els instal·ladors no donen l'abast davant l'augment de la demanda d'aire condicionat: \"Les empreses podrien contractar 22.000 persones d'avui per a demà\"",
+      "link_id": "c_e62761",
+      "source": "RAC1",
+      "date": "2026-06-30",
+      "time": "13:14",
+      "summary": "L'augment de l'aire condicionat supera el 20% respecte l'any passat, provocant escassetat d'instal·ladors."
     }
   ]
 }

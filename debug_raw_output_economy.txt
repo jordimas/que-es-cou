@@ -1,80 +1,88 @@
 {
-  "generated_at": "2026-06-29T10:00",
+  "generated_at": "2026-06-30T17:30",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Samsung i SK Hynix preveuen una expansió de fabricació de xips de 600.000 milions de dòlars",
-      "link_id": "c_c08485",
-      "source": "Financial Times",
-      "date": "2026-06-29",
-      "time": "07:07",
-      "summary": "Amb el suport del govern sud-coreà, les empreses busquen satisfer la demanda creixent de memòries."
-    },
-    {
-      "title": "Corea del Sud anuncia inversions de Samsung i SK Hynix en projectes d'IA i semiconductors",
-      "link_id": "c_598452",
+      "title": "El valor del Mag 7 es redueix $2,3 bilions a causa de les incerteses en la despesa d'IA, però els inversors segueixen recolzant els fabricants de xips",
+      "link_id": "c_efaa06",
       "source": "CNBC Technology",
-      "date": "2026-06-29",
-      "time": "06:44",
-      "summary": "Les accions de les dues companyies van caure després de revelar els plans d'inversió massiva."
+      "date": "2026-06-30",
+      "time": "10:05",
+      "summary": "Malgrat la caiguda del Mag 7, els inversors mantenen la confiança en les empreses de semiconductors."
     },
     {
-      "title": "El boom de la IA s'enfronta a una nova amenaça: el clima sever",
-      "link_id": "c_f8b0b1",
-      "source": "CNBC Technology",
-      "date": "2026-06-29",
-      "time": "09:20",
-      "summary": "Les onades de calor i tempestes augmenten el risc per als centres de dades d'IA."
-    },
-    {
-      "title": "Intel·ligència artificial i la pausa d'Engels",
-      "link_id": "c_7741a7",
+      "title": "Les accions del Magnificent Seven perden $2,2 bilions en la rotació tecnològica de Wall Street",
+      "link_id": "c_b93420",
       "source": "Financial Times",
-      "date": "2026-06-29",
-      "time": "05:00",
-      "summary": "La política podria limitar més el desenvolupament de la IA que la capacitat computacional."
-    },
-    {
-      "title": "Les accions de Baidu pujen un 7% amb l'objectiu d'IPO de 50.000 milions a Hong Kong",
-      "link_id": "c_193f3f",
-      "source": "CNBC Technology",
-      "date": "2026-06-29",
-      "time": "04:09",
-      "summary": "La unitat de xips d'IA, Kunlunxin, busca finançar el seu creixement amb una oferta pública."
-    },
-    {
-      "title": "El nou ordre mundial basat en IA",
-      "link_id": "c_2df93b",
-      "source": "Financial Times",
-      "date": "2026-06-29",
+      "date": "2026-06-30",
       "time": "04:00",
-      "summary": "Un factor singular determina ara la jerarquia de rendiments globals."
+      "summary": "Els grans grups tecnològics perden 2,2 bilions de dòlars mentre els inversors busquen alternatives d'IA."
     },
     {
-      "title": "La IA impulsa un rècord de 200.000 milions d'USD en fusions i adquisicions del sector energètic dels EUA",
-      "link_id": "c_dacf4b",
-      "source": "Financial Times",
-      "date": "2026-06-29",
-      "time": "04:00",
-      "summary": "Les empreses busquen infraestructura per a centres de dades energètics."
+      "title": "La repressió d'IA de l'administració Trump obre la porta a Xina",
+      "link_id": "c_24c11a",
+      "source": "CNBC Technology",
+      "date": "2026-06-30",
+      "time": "16:52",
+      "summary": "Les restriccions americanes a Anthropic podrien permetre a Xina avançar en tecnologia d'IA."
     },
     {
-      "title": "Robots, no xatbots, realitzaran el potencial de la IA",
-      "link_id": "c_57ed1e",
-      "source": "Financial Times",
-      "date": "2026-06-28",
-      "time": "11:00",
-      "summary": "Aplicacions a la planta de fabricació podrien impulsar les economies avançades."
+      "title": "Blue Origin canvia a una plataforma de llançament redissenyada després de l'explosió",
+      "link_id": "c_2d3781",
+      "source": "CNBC Technology",
+      "date": "2026-06-30",
+      "time": "16:39",
+      "summary": "Blue Origin canvia de pla el llançament després de l'explosió, adoptant un disseny ja desenvolupat."
     },
     {
-      "title": "Les accions d'IA s'enfronten a més turbulències?",
-      "link_id": "c_92e91d",
+      "title": "AeroVironment puja un 15% mentre aprofita l'augment de la despesa de defensa",
+      "link_id": "c_ea1f90",
+      "source": "CNBC Technology",
+      "date": "2026-06-30",
+      "time": "15:55",
+      "summary": "AeroVironment guanya un 15% gràcies al creixement de la despesa militar en drons."
+    },
+    {
+      "title": "AWS inverteix 1.000 milions de dòlars en una nova unitat d'IA per a enginyers",
+      "link_id": "c_de6e53",
+      "source": "CNBC Technology",
+      "date": "2026-06-30",
+      "time": "15:00",
+      "summary": "AWS inverteix 1.000 milions de dòlars en una nova unitat d'IA per a clients empresarials."
+    },
+    {
+      "title": "AeroVironment puja un 28% gràcies a uns resultats superiors",
+      "link_id": "c_65c51e",
+      "source": "CNBC Technology",
+      "date": "2026-06-30",
+      "time": "13:05",
+      "summary": "Els resultats superen les expectatives i fan pujar AeroVironment un 28% al mercat."
+    },
+    {
+      "title": "Els CEOs tecnològics volen regles per a la IA — pot ser massa tard",
+      "link_id": "c_e205b5",
       "source": "Financial Times",
-      "date": "2026-06-28",
-      "time": "11:00",
-      "summary": "El mercat qüestiona la sostenibilitat dels valors tecnològics."
+      "date": "2026-06-30",
+      "time": "12:00",
+      "summary": "Els directius tecnològics demanen regulacions d'IA, però temen que ja sigui massa tard."
+    },
+    {
+      "title": "Les comissions de les botigues d'aplicacions d'Apple i Google són objecte de la CMA",
+      "link_id": "c_ea02f0",
+      "source": "Financial Times",
+      "date": "2026-06-30",
+      "time": "10:21",
+      "summary": "La CMA investiga les comissions de les botigues d'aplicacions d'Apple i Google per protegir la competència."
+    },
+    {
+      "title": "Digital Realty cau un 5% després d'adquirir una participació de 3,5 mil milions a centres de dades de Blackstone",
+      "link_id": "c_66527d",
+      "source": "CNBC Technology",
+      "date": "2026-06-30",
+      "time": "09:49",
+      "summary": "Digital Realty baixa un 5% després d'adquirir una participació de 3,5 mil milions a centres de dades de Blackstone."
     }
   ]
 }
