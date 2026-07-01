@@ -1,32 +1,56 @@
 {
-  "generated_at": "2026-06-30T19:30",
+  "generated_at": "2026-07-01T10:55",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "WhatsApp ara permet reservar un nom d'usuari",
-      "link_id": "c_8d7c03",
-      "source": "9to5Mac",
-      "date": "2026-06-30",
-      "time": "16:00",
-      "summary": "WhatsApp permet reservar noms d'usuari per a missatges privats sense números."
+      "title": "EE. U. aixeca les restriccions d'exportació del Fable 5 d'Anthropic, permetent el retorn del model",
+      "link_id": "c_d0ed0c",
+      "source": "The Next Web",
+      "date": "2026-07-01",
+      "time": "07:39",
+      "summary": "Després de setmanes de bloqueig, Anthropic pot tornar a oferir el model avançat a usuaris globals."
     },
     {
-      "title": "Blue Origin encara no sap per què el coet New Glenn va esclatar el mes passat",
-      "link_id": "c_5f3f05",
+      "title": "WhatsApp assegura que els noms d'usuari no et deixaran vulnerable a estafadors",
+      "link_id": "c_383f52",
+      "source": "Digital Trends",
+      "date": "2026-06-30",
+      "time": "20:03",
+      "summary": "WhatsApp afirma que la nova funció de noms d'usuari protegeix la privacitat contra fraus."
+    },
+    {
+      "title": "Samsung adelanta el proper gran esdeveniment Unpacked amb publicacions a xarxes socials que gairebé no revelen res — però hem detectat algunes pistes",
+      "link_id": "c_57b553",
+      "source": "The Verge",
+      "date": "2026-07-01",
+      "time": "07:30",
+      "summary": "Samsung comparteix imatges difuses, però els detalls suggerits apunten a nous dissenys plegables."
+    },
+    {
+      "title": "Gemini Spark pot ara automatitzar les tasques d'escriptori més repetitives",
+      "link_id": "c_7b4904",
+      "source": "Android Authority",
+      "date": "2026-07-01",
+      "time": "07:21",
+      "summary": "Gemini Spark automatitza tasques repetitives, permetent als usuaris centrar‑se en treballs més creatius."
+    },
+    {
+      "title": "Meta cobrarà per la millor funció d'IA de les seves ulleres intel·ligents, amb límit encara que paguis",
+      "link_id": "c_b8f792",
+      "source": "Digital Trends",
+      "date": "2026-07-01",
+      "time": "06:50",
+      "summary": "Meta introdueix una subscripció de 19,99 $ per a Conversació Focus, limitada a tres hores mensuals."
+    },
+    {
+      "title": "Google llança Nano Banana 2 Lite, el generador d'imatges IA més ràpid i econòmic fins ara",
+      "link_id": "c_357e7c",
       "source": "The Next Web",
       "date": "2026-06-30",
-      "time": "16:58",
-      "summary": "Blue Origin investiga la causa de l'explosió del coet New Glenn."
-    },
-    {
-      "title": "El Tribunal Suprem deté l'intent de Trump d'acabar amb la ciutadania per naixement",
-      "link_id": "c_88d7f4",
-      "source": "The Verge",
-      "date": "2026-06-30",
-      "time": "14:44",
-      "summary": "El Tribunal Suprem protegeix el dret constitucional a la ciutadania per naixement."
+      "time": "20:22",
+      "summary": "Nano Banana 2 Lite genera imatges en quatre segons i costa menys de quatre cèntims per mil."
     },
     {
       "title": "Microsoft presenta Memora per abordar el problema de memòria dels agents d'IA",
@@ -34,55 +58,31 @@
       "source": "Computerworld",
       "date": "2026-06-30",
       "time": "10:25",
-      "summary": "Memora ofereix una memòria escalable i fiable per a agents d'IA."
+      "summary": "Memora ofereix una memòria a llarg termini escalable per a agents d'IA, millorant la coherència."
     },
     {
-      "title": "L'iPhone 18 Pro s'ha filtrat en una prova de caiguda a la fàbrica, i Apple no està entusiasmat",
-      "link_id": "c_14d5ec",
-      "source": "Digital Trends",
-      "date": "2026-06-30",
-      "time": "07:39",
-      "summary": "Filtracions mostren l'iPhone 18 Pro en proves de resistència, generant controvèrsia."
-    },
-    {
-      "title": "Tesla té un problema de robatori de bateries",
-      "link_id": "c_2fc160",
-      "source": "Wired",
-      "date": "2026-06-30",
-      "time": "07:19",
-      "summary": "Roba de bateries de Tesla es produeix en robatoris organitzats a les seves fàbriques."
-    },
-    {
-      "title": "Meta va pagar contractistes per fer-se passar per adolescents i investigar xats d'IA rivals",
-      "link_id": "c_51975a",
-      "source": "The Next Web",
-      "date": "2026-06-30",
-      "time": "16:54",
-      "summary": "Contractistes de Meta van enganyar xats d'IA rivals fent-se passar per adolescents."
-    },
-    {
-      "title": "L'explosió d'IA de Google fa augmentar emissions i consum d'energia",
-      "link_id": "c_ec1be4",
-      "source": "Axios",
-      "date": "2026-06-30",
-      "time": "16:00",
-      "summary": "Google registra un augment històric d'emissions i consum energètic per a IA."
-    },
-    {
-      "title": "L'API Tenor de Google es tanca, eliminant els selectors de GIF a la web",
-      "link_id": "c_ee997b",
+      "title": "Aprovat pels EUA, bloquejat pel Regne Unit: la fusió Getty‑Shutterstock es desmorona",
+      "link_id": "c_ca0cf1",
       "source": "The Verge",
-      "date": "2026-06-30",
-      "time": "14:30",
-      "summary": "L'API Tenor es desactiva, deixant sense GIFs a moltes aplicacions web."
+      "date": "2026-07-01",
+      "time": "12:41",
+      "summary": "La fusió entre Getty i Shutterstock es cancela després de problemes regulatoris transatlàntics."
     },
     {
-      "title": "Google implementa controls per aplicació per a còpies de seguretat d'Android",
-      "link_id": "c_c554aa",
-      "source": "9to5Google",
-      "date": "2026-06-29",
-      "time": "23:54",
-      "summary": "Google afegeix opcions per controlar les còpies de seguretat d'aplicacions Android."
+      "title": "El ‘Pare d'Internet’ finalment es jubila",
+      "link_id": "c_91dc8e",
+      "source": "TechCrunch",
+      "date": "2026-07-01",
+      "time": "03:15",
+      "summary": "Vinton Cerf, pioner dels protocols d'Internet, deixa el seu càrrec a Google després de dècades."
+    },
+    {
+      "title": "Neon compra ‘Artificial’, una pel·lícula sobre OpenAI, després que Amazon la rebutgi",
+      "link_id": "c_2d1ef0",
+      "source": "NYT Technology",
+      "date": "2026-06-30",
+      "time": "23:02",
+      "summary": "Neon adquireix el documental ‘Artificial’ per explorar l'impacte d'OpenAI en la cultura."
     }
   ]
 }

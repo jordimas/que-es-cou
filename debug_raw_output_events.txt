@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T17:45",
+  "generated_at": "2026-07-01T09:00",
   "id": "events",
   "title": "Trobades",
   "sources_checked": [],
@@ -10,7 +10,7 @@
       "source": "WordPress BCN",
       "date": "2026-06-17",
       "time": "15:42",
-      "summary": "Descobreix com integrar GeoDirectory i UsersWP per crear un directori empresarial amb accés restringit."
+      "summary": "Estudi de cas real per afegir un directori d’empreses amb Elementor i plugins avançats."
     },
     {
       "title": "BarcelonaJS x MongoDB Meetup",
@@ -18,7 +18,7 @@
       "source": "BarcelonaJS",
       "date": "2026-06-22",
       "time": "14:36",
-      "summary": "Explora l'operació CWAL de MongoDB, una plataforma AI‑first per dashboards flexibles."
+      "summary": "Col·laboració entre BarcelonaJS i MongoDB, presentació d’una plataforma AI‑first per dashboards flexibles."
     },
     {
       "title": "Get Google AI Certified - AI Professionals' July 2026 Cohort",
@@ -26,7 +26,7 @@
       "source": "AI Professionals Barcelona",
       "date": "2026-06-24",
       "time": "23:06",
-      "summary": "Participa en la cohort gratuïta de certificació AI de Google i obtén credencials professionals."
+      "summary": "Certificació gratuïta d’IA de Google, curs setmanal en viu durant set setmanes."
     },
     {
       "title": "Google AI Professional Certificate - Weekend Intensive Day 1 of 2",
@@ -34,7 +34,7 @@
       "source": "AI Professionals Barcelona",
       "date": "2026-06-27",
       "time": "03:46",
-      "summary": "Intensiu de dos dies amb cursos d'AI per brainstorming, investigació i redacció professional."
+      "summary": "Intensiu de cap de setmana: tres cursos d’IA per planificació, investigació i redacció."
     },
     {
       "title": "Google AI Professional Certificate - Weekend Intensive Day 2 of 2",
@@ -42,7 +42,7 @@
       "source": "AI Professionals Barcelona",
       "date": "2026-06-27",
       "time": "08:08",
-      "summary": "Segona jornada centrada en creació de contingut, anàlisi de dades i desenvolupament d'aplicacions AI."
+      "summary": "Segon dia intensiu: aprenentatge d’IA per creació de contingut, anàlisi de dades i apps."
     },
     {
       "title": "Grow Your Business with AI: Introducing Claude Cowork",
@@ -58,15 +58,7 @@
       "source": "AI Professionals Barcelona",
       "date": "2026-06-22",
       "time": "21:49",
-      "summary": "Taller en línia que combina les tècniques clàssiques de Carnegie amb aprenentatge personalitzat per IA."
-    },
-    {
-      "title": "Python Meetup June: Summer is already here!",
-      "link_id": "c_0399d3",
-      "source": "PyBCN",
-      "date": "2026-06-23",
-      "time": "14:53",
-      "summary": "Reunió amb xerrades sobre feedback per aprenents i laboratori de seguretat impulsat per Python."
+      "summary": "Taller en línia gratuït que combina principis clàssics amb aprenentatge personalitzat impulsat per IA."
     }
   ]
 }

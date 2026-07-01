@@ -1,16 +1,24 @@
 {
-  "generated_at": "2026-06-30T17:45",
+  "generated_at": "2026-07-01T08:53",
   "id": "videos",
   "title": "Vídeos en català sobre tecnologia",
   "sources_checked": [],
   "articles": [
+    {
+      "title": "A què hem estat jugant aquest juny",
+      "link_id": "c_36f78d",
+      "source": "Catalunya PlayStation",
+      "date": "2026-06-30",
+      "time": "21:39",
+      "summary": "Anàlisi de les novetats i tendències dels jocs del juny, amb enfocament en les experiències locals."
+    },
     {
       "title": "🎙️Lúdica #56 - Jocs reflexius, zen i lents (amb Víctor Navarro-Remesal)",
       "link_id": "c_350ea9",
       "source": "Lúdica (Vídeos)",
       "date": "2026-06-30",
       "time": "16:42",
-      "summary": "Entrevista sobre jocs que estimulen reflexes i relaxació, amb insights de Víctor Navarro‑Remesal sobre disseny zen."
+      "summary": "Debat sobre jocs que fomenten la calma i la reflexió, amb convidat especial Víctor Navarro-Remesal."
     }
   ]
 }
