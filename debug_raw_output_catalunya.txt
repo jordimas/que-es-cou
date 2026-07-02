@@ -1,101 +1,79 @@
 {
-  "generated_at": "2026-07-01T10:53",
+  "generated_at": "2026-07-02T12:00",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
+    {
+      "name": "Ara.cat",
+      "url": "https://www.ara.cat/rss/",
+      "articles_found": 2
+    },
+    {
+      "name": "El Periódico",
+      "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "RAC1",
+      "url": "https://www.rac1.cat/rss/home.xml",
+      "articles_found": 1
+    },
     {
       "name": "La Vanguardia (en català)",
       "url": "https://www.lavanguardia.com/rss/encatala.xml",
       "articles_found": 3
     },
     {
-      "name": "Àpunt",
-      "url": "https://www.apuntmedia.es/rss/",
-      "articles_found": 1
+      "name": "324.cat",
+      "url": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0",
+      "articles_found": 0
     },
     {
       "name": "MetaData",
       "url": "https://www.metadata.cat/sindica",
-      "articles_found": 3
-    },
-    {
-      "name": "RAC1",
-      "url": "https://www.rac1.cat/rss/home.xml",
-      "articles_found": 3
+      "articles_found": 2
     }
   ],
   "articles": [
+    {
+      "title": "Espanya espera el sí a la gigafactoria d’IA",
+      "link_id": "c_1b8177",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-07-02",
+      "time": "08:24",
+      "summary": "La UE avala la gigafàbrica d'IA a Móra la Nova, impulsant la innovació catalana."
+    },
+    {
+      "title": "Per què les compres a Shein, AliExpress i Temu et costaran tres euros més a partir d'avui?",
+      "link_id": "c_0fa646",
+      "source": "RAC1",
+      "date": "2026-07-01",
+      "time": "13:25",
+      "summary": "La UE imposa 3 € per paquets barats, frenant les compres a Shein i Temu."
+    },
     {
       "title": "Rússia busca gasolina per pal·liar la crisi dels drons",
       "link_id": "c_4c425d",
       "source": "La Vanguardia (en català)",
       "date": "2026-07-01",
       "time": "08:31",
-      "summary": "Drons russos alimenten conflicte: Europa accelera desenvolupament d'uns drons autònoms per defensar el seu espai aeri."
+      "summary": "Rússia busca gasolina per alleujar la crisi dels drons que amenacen Europa."
     },
     {
-      "title": "La UE comença a aplicar una taxa mínima de tres euros als paquets barats importats de fora del bloc",
-      "link_id": "c_673ab8",
-      "source": "Àpunt",
+      "title": "Grifols reorganitza el seu negoci de 'biopharma' i separa els EUA de la resta del món",
+      "link_id": "c_530f03",
+      "source": "Ara.cat",
       "date": "2026-07-01",
-      "time": "07:47",
-      "summary": "UE imposa taxa de 3 € a paquets barats, afectant compradors en plataformes com Shein i Temu."
+      "time": "08:26",
+      "summary": "Grifols separa el negoci biopharma dels EUA, reforçant l'autonomia operativa global."
     },
     {
-      "title": "Les dones representen només el 19,5% del talent TIC europeu malgrat la creixent demanda de professionals",
-      "link_id": "c_624d64",
-      "source": "MetaData",
-      "date": "2026-07-01",
-      "time": "08:28",
-      "summary": "Informe revela que només el 19,5 % del talent TIC europeu són dones, malgrat la gran demanda."
-    },
-    {
-      "title": "Indra Group reforça l’aposta pel talent a Catalunya amb noves aliances amb universitats i centres d’FP",
-      "link_id": "c_f5a3a8",
-      "source": "MetaData",
+      "title": "La revisió més exhaustiva sobre les vacunes de la covid esvaeix els dubtes",
+      "link_id": "c_658d0a",
+      "source": "Ara.cat",
       "date": "2026-06-30",
-      "time": "16:05",
-      "summary": "Indra aposta per 1.500 nous llocs TIC a Catalunya fins al 2027, reforçant col·laboracions universitàries."
-    },
-    {
-      "title": "ChatGPT es consolida com a nou espai de suport emocional entre els joves, segons un estudi de la URV",
-      "link_id": "c_b84c22",
-      "source": "MetaData",
-      "date": "2026-06-29",
-      "time": "15:15",
-      "summary": "Estudi mostra que quasi 4 de cada 10 adolescents utilitzen ChatGPT per suport emocional, tot i limitacions."
-    },
-    {
-      "title": "Albert Batlle proposa aprofitar els equipaments privats per combatre la calor: \"Jo tenia una tieta que passava l'estiu a El Corte Inglés\"",
-      "link_id": "c_1eb36f",
-      "source": "RAC1",
-      "date": "2026-07-01",
-      "time": "07:59",
-      "summary": "Albert Batlle proposa usar equips privats per alleujar calor, suggerint solucions locals i econòmiques."
-    },
-    {
-      "title": "Enginyer civil: ''No baixis l'aire condicionat de cop a 20 °C, posa'l a 26 °C i activa el mode 'dry'''",
-      "link_id": "c_e50480",
-      "source": "RAC1",
-      "date": "2026-06-30",
-      "time": "14:28",
-      "summary": "Enginyer recomana mantenir AC a 26 °C i activar mode 'dry' per reduir consum energètic."
-    },
-    {
-      "title": "Els instal·ladors, col·lapsats per la demanda d'aire condicionat: \"Les empreses podrien contractar 22.000 persones demà\"",
-      "link_id": "c_e62761",
-      "source": "RAC1",
-      "date": "2026-06-30",
-      "time": "13:14",
-      "summary": "Instal·ladors d'aire condicionat podrien contractar 22 000 treballadors demà per cobrir demanda explosiva."
-    },
-    {
-      "title": "Pantalles o paper i boli?",
-      "link_id": "c_14b645",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-07-01",
-      "time": "00:35",
-      "summary": "Debat sobre ús de pantalles a les aules: riscos per salut i aprenentatge versus beneficis digitals."
+      "time": "22:30",
+      "summary": "Una revisió exhaustiva confirma l'eficàcia i seguretat de les vacunes COVID‑19."
     },
     {
       "title": "Badalona impulsa Can Ruti com el gran ‘hub’ biomèdic del sud d’Europa",
@@ -103,7 +81,23 @@
       "source": "La Vanguardia (en català)",
       "date": "2026-06-30",
       "time": "09:36",
-      "summary": "Badalona transforma Can Ruti en hub biomèdic, impulsant recerca i innovació en salut a Europa del sud."
+      "summary": "Badalona impulsa Can Ruti com a gran centre biomèdic del sud d'Europa."
+    },
+    {
+      "title": "Indra Group reforça l’aposta pel talent a Catalunya amb noves aliances amb universitats i centres d’FP",
+      "link_id": "c_f5a3a8",
+      "source": "MetaData",
+      "date": "2026-06-30",
+      "time": "16:05",
+      "summary": "Indra crea 1.500 llocs de treball TIC a Catalunya, reforçant la formació universitària."
+    },
+    {
+      "title": "Secartys reivindica la IA com a motor de competitivitat i accelera la seva transformació per connectar la indústria tecnològica catalana",
+      "link_id": "c_ad25a0",
+      "source": "MetaData",
+      "date": "2026-07-01",
+      "time": "16:05",
+      "summary": "Secartys destaca la IA com a motor clau per a la competitivitat industrial catalana."
     }
   ]
 }

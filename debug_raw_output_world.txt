@@ -1,88 +1,124 @@
 {
-  "generated_at": "2026-07-01T10:55",
+  "generated_at": "2026-07-02T10:13",
   "id": "world",
   "title": "Notícies tecnològiques del món",
-  "sources_checked": [],
+  "sources_checked": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/rss/index.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "CNET",
+      "url": "https://www.cnet.com/rss/news/",
+      "articles_found": 0
+    },
+    {
+      "name": "Axios",
+      "url": "https://www.axios.com/feeds/feed.rss",
+      "articles_found": 0
+    },
+    {
+      "name": "TechRadar",
+      "url": "https://www.techradar.com/feeds/articletype/news",
+      "articles_found": 0
+    },
+    {
+      "name": "9to5Mac",
+      "url": "https://9to5mac.com/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "Digital Trends",
+      "url": "https://www.digitaltrends.com/feed/",
+      "articles_found": 0
+    }
+  ],
   "articles": [
     {
-      "title": "EE. U. aixeca les restriccions d'exportació del Fable 5 d'Anthropic, permetent el retorn del model",
-      "link_id": "c_d0ed0c",
-      "source": "The Next Web",
+      "title": "Sony deixarà de produir discos físics per a PlayStation el 2028",
+      "link_id": "c_d22d51",
+      "source": "9to5Mac",
       "date": "2026-07-01",
-      "time": "07:39",
-      "summary": "Després de setmanes de bloqueig, Anthropic pot tornar a oferir el model avançat a usuaris globals."
+      "time": "22:30",
+      "summary": "Sony anuncia que a partir de gener de 2028 només vendrà jocs digitals, posant fi als discos físics."
     },
     {
-      "title": "WhatsApp assegura que els noms d'usuari no et deixaran vulnerable a estafadors",
-      "link_id": "c_383f52",
-      "source": "Digital Trends",
-      "date": "2026-06-30",
-      "time": "20:03",
-      "summary": "WhatsApp afirma que la nova funció de noms d'usuari protegeix la privacitat contra fraus."
+      "title": "Error d'Apple revela adreces de correu reals a través de \"Hide My Email\"",
+      "link_id": "c_8a4982",
+      "source": "CNET",
+      "date": "2026-07-01",
+      "time": "21:02",
+      "summary": "Una vulnerabilitat permet a atacants descobrir l'adreça de correu real darrere d'un àlies."
     },
     {
-      "title": "Samsung adelanta el proper gran esdeveniment Unpacked amb publicacions a xarxes socials que gairebé no revelen res — però hem detectat algunes pistes",
-      "link_id": "c_57b553",
+      "title": "SpaceX mostra un prototip d'AI més prim que un iPhone",
+      "link_id": "c_e42350",
       "source": "The Verge",
       "date": "2026-07-01",
-      "time": "07:30",
-      "summary": "Samsung comparteix imatges difuses, però els detalls suggerits apunten a nous dissenys plegables."
+      "time": "20:10",
+      "summary": "SpaceX presentava un dispositiu de mà amb AI, més prim que un iPhone, segons el WSJ."
     },
     {
-      "title": "Gemini Spark pot ara automatitzar les tasques d'escriptori més repetitives",
-      "link_id": "c_7b4904",
-      "source": "Android Authority",
-      "date": "2026-07-01",
-      "time": "07:21",
-      "summary": "Gemini Spark automatitza tasques repetitives, permetent als usuaris centrar‑se en treballs més creatius."
-    },
-    {
-      "title": "Meta cobrarà per la millor funció d'IA de les seves ulleres intel·ligents, amb límit encara que paguis",
-      "link_id": "c_b8f792",
-      "source": "Digital Trends",
-      "date": "2026-07-01",
-      "time": "06:50",
-      "summary": "Meta introdueix una subscripció de 19,99 $ per a Conversació Focus, limitada a tres hores mensuals."
-    },
-    {
-      "title": "Google llança Nano Banana 2 Lite, el generador d'imatges IA més ràpid i econòmic fins ara",
-      "link_id": "c_357e7c",
-      "source": "The Next Web",
-      "date": "2026-06-30",
-      "time": "20:22",
-      "summary": "Nano Banana 2 Lite genera imatges en quatre segons i costa menys de quatre cèntims per mil."
-    },
-    {
-      "title": "Microsoft presenta Memora per abordar el problema de memòria dels agents d'IA",
-      "link_id": "c_7cadcb",
-      "source": "Computerworld",
-      "date": "2026-06-30",
-      "time": "10:25",
-      "summary": "Memora ofereix una memòria a llarg termini escalable per a agents d'IA, millorant la coherència."
-    },
-    {
-      "title": "Aprovat pels EUA, bloquejat pel Regne Unit: la fusió Getty‑Shutterstock es desmorona",
-      "link_id": "c_ca0cf1",
-      "source": "The Verge",
-      "date": "2026-07-01",
-      "time": "12:41",
-      "summary": "La fusió entre Getty i Shutterstock es cancela després de problemes regulatoris transatlàntics."
-    },
-    {
-      "title": "El ‘Pare d'Internet’ finalment es jubila",
-      "link_id": "c_91dc8e",
+      "title": "Apple: vulnerabilitat a \"Hide My Email\" exposa correus reals",
+      "link_id": "c_e088c7",
       "source": "TechCrunch",
       "date": "2026-07-01",
-      "time": "03:15",
-      "summary": "Vinton Cerf, pioner dels protocols d'Internet, deixa el seu càrrec a Google després de dècades."
+      "time": "19:18",
+      "summary": "Un error fa que el servei d'Apple reveli les adreces de correu originals dels usuaris."
     },
     {
-      "title": "Neon compra ‘Artificial’, una pel·lícula sobre OpenAI, després que Amazon la rebutgi",
-      "link_id": "c_2d1ef0",
-      "source": "NYT Technology",
-      "date": "2026-06-30",
-      "time": "23:02",
-      "summary": "Neon adquireix el documental ‘Artificial’ per explorar l'impacte d'OpenAI en la cultura."
+      "title": "Anthropic restaura el model Claude Fable 5 després de les restriccions dels EUA",
+      "link_id": "c_e8264e",
+      "source": "Axios",
+      "date": "2026-07-01",
+      "time": "20:55",
+      "summary": "Fable 5 torna a estar disponible globalment després que el govern dels EUA aixequi el control d'exportació."
+    },
+    {
+      "title": "Meta cobra per la funció \"Conversation Focus\" a les seves ulleres intel·ligents",
+      "link_id": "c_b8f792",
+      "source": "TechRadar",
+      "date": "2026-07-01",
+      "time": "06:50",
+      "summary": "Meta limita l'ús gratuït de la funció d'amplificació de veu i la converteix en subscripció de 20 $."
+    },
+    {
+      "title": "Apple prova nous models d'iPad Pro per a 2027",
+      "link_id": "c_f50c89",
+      "source": "9to5Mac",
+      "date": "2026-07-01",
+      "time": "21:17",
+      "summary": "Apple està experimentant amb nous iPad Pro i un MacBook Pro d'entrada redissenyat per a 2027."
+    },
+    {
+      "title": "Apple podria redissenyar el MacBook Pro d'entrada el 2027",
+      "link_id": "c_e0ae65",
+      "source": "The Verge",
+      "date": "2026-07-02",
+      "time": "22:39",
+      "summary": "Segons Bloomberg, Apple planeja una nova versió del MacBook Pro d'entrada amb pantalla OLED."
+    },
+    {
+      "title": "El xip M6 d'Apple encara no arriba, però els M7 apareixeran a principis de 2027",
+      "link_id": "c_2c3284",
+      "source": "Digital Trends",
+      "date": "2026-07-01",
+      "time": "21:36",
+      "summary": "Apple llançarà els primers dispositius amb xip M7 a principis de 2027, després del M6."
+    },
+    {
+      "title": "Tres colors possibles per a l'iPhone 18 Pro, el negre no hi és",
+      "link_id": "c_e5202e",
+      "source": "Digital Trends",
+      "date": "2026-07-01",
+      "time": "19:58",
+      "summary": "Segons filtracions, l'iPhone 18 Pro vindrà en color cirera fosc, blau clar i gris platejat."
     }
   ]
 }

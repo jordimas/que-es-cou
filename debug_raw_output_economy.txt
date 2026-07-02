@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-07-01T10:53",
+  "generated_at": "2026-07-02T09:00",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Anthropic llança un programa d'IA per al descobriment de fàrmacs, junt amb gegants tecnològics apostant per la salut",
-      "link_id": "c_27cfae",
+      "title": "Les accions de Samsung Electronics i SK Hynix cauen més del 9% a causa de la caiguda del sector de xips",
+      "link_id": "c_a76ea9",
       "source": "CNBC Technology",
-      "date": "2026-06-30",
-      "time": "21:27",
-      "summary": "Anthropic aposta per la IA en farmacologia, buscant nous mercats i reduir costos de recerca."
+      "date": "2026-07-02",
+      "time": "07:25",
+      "summary": "Les caigudes reflecteixen la incertesa del mercat de semiconductors i la pressió sobre les grans fabricants."
     },
     {
-      "title": "Anthropic afirma que l'administració Trump ha aixecat els controls d'exportació sobre Claude Fable 5 i Mythos 5",
-      "link_id": "c_2f508e",
+      "title": "OpenAI proposa un 5% de participació a l'administració Trump per alleujar la pressió de Washington",
+      "link_id": "c_807e96",
       "source": "CNBC Technology",
-      "date": "2026-07-01",
-      "time": "04:16",
-      "summary": "Els controls d'exportació aixecats permeten que Anthropic torni a comercialitzar els models avançats d'IA."
+      "date": "2026-07-02",
+      "time": "07:13",
+      "summary": "L'oferta busca reduir la regulació americana, però genera controvèrsia sobre la influència governamental en IA."
     },
     {
-      "title": "La Casa Blanca aixeca la prohibició dels models d'Anthropic",
-      "link_id": "c_d27df8",
+      "title": "Apple planeja cinc nous iPhone fins al 2027 i considera xips fabricats a la Xina en l'impuls plegable",
+      "link_id": "c_35a240",
+      "source": "CNBC Technology",
+      "date": "2026-07-02",
+      "time": "07:07",
+      "summary": "Apple aposta per proveïdors xinesos per mantenir costos baixos mentre impulsa dispositius plegables avançats."
+    },
+    {
+      "title": "Quantum Systems valora una fusió amb la start-up de drons kamikaze Stark",
+      "link_id": "c_e4ac9e",
       "source": "Financial Times",
-      "date": "2026-07-01",
-      "time": "02:34",
-      "summary": "La decisió obre el mercat nord-americà per a les tecnologies d'IA d'Anthropic, impulsant la competència."
+      "date": "2026-07-02",
+      "time": "07:00",
+      "summary": "La possible fusió podria ampliar l'oferta militar de drons, superant obstacles d'inversors amb finançament de 1,2 mrd $."
     },
     {
-      "title": "Actors vinculats a la Xina apunten més que la tecnologia mentre s'intensifica la competència d'IA amb els EUA",
-      "link_id": "c_221747",
+      "title": "Amazon dissenya els seus propis xips d'IA per a Echo, Fire TV i futurs dispositius",
+      "link_id": "c_293668",
       "source": "CNBC Technology",
-      "date": "2026-06-30",
-      "time": "23:27",
-      "summary": "Ciberamenaces xineses s'amplien més enllà del sector tecnològic, augmentant la pressió sobre la seguretat global."
+      "date": "2026-07-02",
+      "time": "05:10",
+      "summary": "Amazon desenvolupa xips personalitzats per millorar rendiment d'IA en dispositius domèstics i futurs productes."
     },
     {
-      "title": "El CEO de Micron: els clients exigents en preus han contribuït a l'escassetat de memòria",
-      "link_id": "c_e7e592",
-      "source": "CNBC Technology",
-      "date": "2026-06-30",
-      "time": "22:43",
-      "summary": "Pressió de preus dels clients ha reduït les inversions, agreujant la crisi de subministrament de memòria."
-    },
-    {
-      "title": "Rally històric de xips afegeix 2 bilions de dòlars al valor combinat de Micron, Intel i AMD al segon trimestre",
-      "link_id": "c_31c96c",
-      "source": "CNBC Technology",
-      "date": "2026-06-30",
-      "time": "22:43",
-      "summary": "L'augment massiu d'inversions en xips d'IA eleva el valor combinat de les empreses clau a dos bilions."
-    },
-    {
-      "title": "Cook d'Apple manté converses «constructives» amb el cap tecnològic de la UE sobre «Siri IA»",
-      "link_id": "c_9049ea",
+      "title": "OpenAI proposa cedir un 5% a l'administració Trump",
+      "link_id": "c_19446a",
       "source": "Financial Times",
-      "date": "2026-06-30",
-      "time": "22:27",
-      "summary": "Les negociacions busquen evitar sancions, mentre la UE pressiona Apple per adaptar Siri a regulacions d'IA."
+      "date": "2026-07-02",
+      "time": "04:00",
+      "summary": "OpenAI busca suport polític oferint participació, però la proposta podria crear conflictes d'interès."
     },
     {
-      "title": "Jim Cramer afirma que el comerç d'IA ha canviat i aquestes accions lideren ara",
-      "link_id": "c_811070",
-      "source": "CNBC Technology",
-      "date": "2026-06-30",
-      "time": "22:24",
-      "summary": "Cramer destaca que les empreses d'IA superen les grans tecnològiques, canviant les preferències d'inversors."
+      "title": "La UE estudia regles climàtiques més febles per a centres de dades, beneficiant les grans tecnologies",
+      "link_id": "c_0bbb61",
+      "source": "Financial Times",
+      "date": "2026-07-02",
+      "time": "04:00",
+      "summary": "La UE relaxa les exigències energètiques, facilitant l'expansió de centres de dades per a grans empreses."
     },
     {
-      "title": "Palo Alto i CrowdStrike registren el millor trimestre gràcies a les amenaces d'IA que impulsen la demanda cibernètica",
-      "link_id": "c_45a54f",
-      "source": "CNBC Technology",
-      "date": "2026-06-30",
-      "time": "20:36",
-      "summary": "L'augment de les amenaces d'IA impulsa la demanda de solucions de seguretat, beneficiant Palo Alto i CrowdStrike."
+      "title": "Les start-ups de bateries veuen una demanda 'boja' per suavitzar pics d'energia en centres de dades",
+      "link_id": "c_b702ed",
+      "source": "Financial Times",
+      "date": "2026-07-02",
+      "time": "04:00",
+      "summary": "L'augment de processadors d'IA impulsa la necessitat d'emmagatzematge per estabilitzar el subministrament elèctric."
     },
     {
-      "title": "AeroVironment puja un 19% aprofitant l'augment de la despesa en defensa",
-      "link_id": "c_ea1f90",
+      "title": "La IA ajuda els treballadors a demandar els seus caps, podria trencar el sistema",
+      "link_id": "c_2f3aa2",
+      "source": "Financial Times",
+      "date": "2026-07-02",
+      "time": "04:00",
+      "summary": "L'ús d'IA en litigis laborals sobrecarrega tribunals, plantejant dubtes sobre la justícia del procés."
+    },
+    {
+      "title": "Ant Group, afiliada d'Alibaba, s'endinsa en robots humanoides amb dotze acords en 18 mesos",
+      "link_id": "c_89d34c",
       "source": "CNBC Technology",
-      "date": "2026-06-30",
-      "time": "20:05",
-      "summary": "L'augment de la despesa militar impulsa les vendes de drons, fent créixer els ingressos d'AeroVironment."
+      "date": "2026-07-02",
+      "time": "01:00",
+      "summary": "Ant Group inverteix en robots humanoides, accelerant la competència en IA i automatització industrial."
     }
   ]
 }
