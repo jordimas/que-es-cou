@@ -1,124 +1,88 @@
 {
-  "generated_at": "2026-07-02T10:13",
+  "generated_at": "2026-07-03T10:12",
   "id": "world",
   "title": "Notícies tecnològiques del món",
-  "sources_checked": [
-    {
-      "name": "TechCrunch",
-      "url": "https://techcrunch.com/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "The Verge",
-      "url": "https://www.theverge.com/rss/index.xml",
-      "articles_found": 0
-    },
-    {
-      "name": "CNET",
-      "url": "https://www.cnet.com/rss/news/",
-      "articles_found": 0
-    },
-    {
-      "name": "Axios",
-      "url": "https://www.axios.com/feeds/feed.rss",
-      "articles_found": 0
-    },
-    {
-      "name": "TechRadar",
-      "url": "https://www.techradar.com/feeds/articletype/news",
-      "articles_found": 0
-    },
-    {
-      "name": "9to5Mac",
-      "url": "https://9to5mac.com/feed/",
-      "articles_found": 0
-    },
-    {
-      "name": "Digital Trends",
-      "url": "https://www.digitaltrends.com/feed/",
-      "articles_found": 0
-    }
-  ],
+  "sources_checked": [],
   "articles": [
     {
-      "title": "Sony deixarà de produir discos físics per a PlayStation el 2028",
-      "link_id": "c_d22d51",
-      "source": "9to5Mac",
-      "date": "2026-07-01",
-      "time": "22:30",
-      "summary": "Sony anuncia que a partir de gener de 2028 només vendrà jocs digitals, posant fi als discos físics."
+      "title": "Les entregues de Tesla augmenten un 25% | Bloomberg Tech 02/07/2026",
+      "link_id": "c_5d4645",
+      "source": "Bloomberg Technology",
+      "date": "2026-07-02",
+      "time": "17:57",
+      "summary": "Les entregues de Tesla augmenten un 25% al segon trimestre, impulsades per les vendes a Europa."
     },
     {
-      "title": "Error d'Apple revela adreces de correu reals a través de \"Hide My Email\"",
-      "link_id": "c_8a4982",
-      "source": "CNET",
-      "date": "2026-07-01",
-      "time": "21:02",
-      "summary": "Una vulnerabilitat permet a atacants descobrir l'adreça de correu real darrere d'un àlies."
-    },
-    {
-      "title": "SpaceX mostra un prototip d'AI més prim que un iPhone",
-      "link_id": "c_e42350",
-      "source": "The Verge",
-      "date": "2026-07-01",
-      "time": "20:10",
-      "summary": "SpaceX presentava un dispositiu de mà amb AI, més prim que un iPhone, segons el WSJ."
-    },
-    {
-      "title": "Apple: vulnerabilitat a \"Hide My Email\" exposa correus reals",
-      "link_id": "c_e088c7",
+      "title": "Meta llança silenciosament l'aplicació de jocs amb IA Pocket",
+      "link_id": "c_cce8c7",
       "source": "TechCrunch",
-      "date": "2026-07-01",
-      "time": "19:18",
-      "summary": "Un error fa que el servei d'Apple reveli les adreces de correu originals dels usuaris."
+      "date": "2026-07-02",
+      "time": "18:44",
+      "summary": "Meta llança Pocket, una app que permet crear i compartir mini-jocs amb IA només amb textos."
     },
     {
-      "title": "Anthropic restaura el model Claude Fable 5 després de les restriccions dels EUA",
-      "link_id": "c_e8264e",
-      "source": "Axios",
-      "date": "2026-07-01",
-      "time": "20:55",
-      "summary": "Fable 5 torna a estar disponible globalment després que el govern dels EUA aixequi el control d'exportació."
+      "title": "Polític que investigava l'ús del programari espia va ser hackejat amb Pegasus",
+      "link_id": "c_77e632",
+      "source": "TechCrunch",
+      "date": "2026-07-03",
+      "time": "05:05",
+      "summary": "Un polític europeu investigava el Pegasus i el seu telèfon va ser hackejat amb el programari espia."
     },
     {
-      "title": "Meta cobra per la funció \"Conversation Focus\" a les seves ulleres intel·ligents",
-      "link_id": "c_b8f792",
-      "source": "TechRadar",
-      "date": "2026-07-01",
-      "time": "06:50",
-      "summary": "Meta limita l'ús gratuït de la funció d'amplificació de veu i la converteix en subscripció de 20 $."
+      "title": "Google perd l'última apel·lació contra la multa antitrust d'Android de 4,7 mil milions d'euros",
+      "link_id": "c_54e814",
+      "source": "TechCrunch",
+      "date": "2026-07-02",
+      "time": "14:22",
+      "summary": "Google ha perdut l'última apel·lació i ha de pagar una multa de 4,7 mil milions d'euros per pràctiques antitrust."
     },
     {
-      "title": "Apple prova nous models d'iPad Pro per a 2027",
-      "link_id": "c_f50c89",
-      "source": "9to5Mac",
-      "date": "2026-07-01",
-      "time": "21:17",
-      "summary": "Apple està experimentant amb nous iPad Pro i un MacBook Pro d'entrada redissenyat per a 2027."
+      "title": "La fàbrica de discs PlayStation de Sony ja es reorienta",
+      "link_id": "c_9a32de",
+      "source": "The Verge",
+      "date": "2026-07-03",
+      "time": "01:05",
+      "summary": "Sony reorienta la seva fàbrica de discs PlayStation cap a noves produccions, deixant de fabricar discs."
     },
     {
-      "title": "Apple podria redissenyar el MacBook Pro d'entrada el 2027",
-      "link_id": "c_e0ae65",
+      "title": "Conductor de Tesla enfronta càrrecs d'homicidi involuntari per accident a Texas que va matar una dona a casa seva",
+      "link_id": "c_5920c9",
       "source": "The Verge",
       "date": "2026-07-02",
-      "time": "22:39",
-      "summary": "Segons Bloomberg, Apple planeja una nova versió del MacBook Pro d'entrada amb pantalla OLED."
+      "time": "22:09",
+      "summary": "Un conductor de Tesla és acusat d'homicidi involuntari després d'un accident que va matar una dona a Texas."
     },
     {
-      "title": "El xip M6 d'Apple encara no arriba, però els M7 apareixeran a principis de 2027",
-      "link_id": "c_2c3284",
-      "source": "Digital Trends",
-      "date": "2026-07-01",
-      "time": "21:36",
-      "summary": "Apple llançarà els primers dispositius amb xip M7 a principis de 2027, després del M6."
+      "title": "Nou descobert PamStealer no és el malware típic de macOS",
+      "link_id": "c_827a32",
+      "source": "Ars Technica",
+      "date": "2026-07-02",
+      "time": "19:38",
+      "summary": "Nou macOS malware anomenat PamStealer destaca l'augment dels robadors d'informació a Mac."
     },
     {
-      "title": "Tres colors possibles per a l'iPhone 18 Pro, el negre no hi és",
-      "link_id": "c_e5202e",
-      "source": "Digital Trends",
-      "date": "2026-07-01",
-      "time": "19:58",
-      "summary": "Segons filtracions, l'iPhone 18 Pro vindrà en color cirera fosc, blau clar i gris platejat."
+      "title": "Microsoft llança una empresa d'enginyeria d'IA",
+      "link_id": "c_e3d2e0",
+      "source": "InfoWorld",
+      "date": "2026-07-03",
+      "time": "01:23",
+      "summary": "Microsoft crea la Frontier Company, 6.000 experts per desplegar IA a empreses, amb 2,5 mil milions d'inversió."
+    },
+    {
+      "title": "OpenAI proposa donar un 5% del seu capital a un fons soberà dels EUA",
+      "link_id": "c_4de1d6",
+      "source": "TechCrunch",
+      "date": "2026-07-02",
+      "time": "15:20",
+      "summary": "OpenAI considera oferir un 5% de participació al govern dels EUA per compartir els beneficis de la IA."
+    },
+    {
+      "title": "El servei Hide My Email d'Apple pot no estar amagant res",
+      "link_id": "c_30b3b5",
+      "source": "TechRadar",
+      "date": "2026-07-02",
+      "time": "13:57",
+      "summary": "Una vulnerabilitat a Hide My Email permet descobrir l'adreça real, i Apple encara no l'ha arreglat."
     }
   ]
 }

@@ -1,16 +1,24 @@
 {
-  "generated_at": "2026-07-02T12:00",
+  "generated_at": "2026-07-03T12:00",
   "id": "podcasts",
   "title": "Podcasts en català sobre tecnologia",
   "sources_checked": [],
   "articles": [
+    {
+      "title": "L' Altra Ràdio - Usos curiosos de la intel·ligència artificial",
+      "link_id": "c_b9ce40",
+      "source": "L'altra ràdio",
+      "date": "2026-07-02",
+      "time": "07:33",
+      "summary": "Exploració d’aplicacions inesperades d’IA, des de traduir sons d’animals fins a generar diàlegs creatius."
+    },
     {
       "title": "L' Altra Ràdio - La intel·ligència artificial i la cacera de bolets",
       "link_id": "c_586653",
       "source": "L'altra ràdio",
       "date": "2026-06-25",
       "time": "07:33",
-      "summary": "Explora com ChatGPT ajuda a identificar bolets, combinant tecnologia i natura en una entrevista amb Xavier García."
+      "summary": "Descobrim com ChatGPT ajuda a localitzar bolets i reflexionem sobre la jubilació d’un tècnic de so."
     },
     {
       "title": "L' Altra Ràdio - El retorn de la tecnologia simple",
@@ -18,7 +26,7 @@
       "source": "L'altra ràdio",
       "date": "2026-06-18",
       "time": "07:33",
-      "summary": "Analitza l'atracció per dispositius antics i com la IA crea imatges retro, reflexionant sobre la simplicitat digital."
+      "summary": "Debatem el retorn a dispositius antics i com la simplicitat tecnològica inspira noves generacions."
     },
     {
       "title": "El gòTIC - Tenim una missió! del 1/7/2026",
@@ -26,7 +34,7 @@
       "source": "El Gòtic",
       "date": "2026-06-30",
       "time": "16:29",
-      "summary": "Presenta recursos per a la ciutadania digital, enfocant solucions a reptes tecnològics locals del municipi de Tàrrega."
+      "summary": "Presentem la missió digital del gòTIC, enfocada a recursos per a la ciutadania digital."
     },
     {
       "title": "El gòTIC - Tenim una missió! del 24/6/2026",
@@ -34,7 +42,7 @@
       "source": "El Gòtic",
       "date": "2026-06-23",
       "time": "16:29",
-      "summary": "Detalla iniciatives digitals per a la comunitat, amb guies pràctiques i estratègies per a la transformació tecnològica."
+      "summary": "Segona entrega de la missió gòTIC, continuant l’impuls d’eines digitals per a la comunitat."
     },
     {
       "title": "Superagent Llados",
@@ -42,7 +50,7 @@
       "source": "Foc a Terra",
       "date": "2026-06-29",
       "time": "04:00",
-      "summary": "Desxifra l'impacte d'agents IA en negocis, mostrant com Claude augmenta la productivitat diària."
+      "summary": "Anàlisi d’un agent IA que pretén automatitzar negocis, mostrant l’ús de Claude en tasques diàries."
     },
     {
       "title": "Posem Holallum a la foscor, amb Oriol Vila",
@@ -50,7 +58,7 @@
       "source": "Foc a Terra",
       "date": "2026-06-22",
       "time": "04:00",
-      "summary": "Entrevista al cofundador de Holaluz sobre emprenedoria, escalar startups i la nova plataforma Blablanote basada en IA."
+      "summary": "Entrevista amb Oriol Vila sobre Holaluz, emprenedoria i la nova plataforma Blablanote basada en IA."
     },
     {
       "title": "Diem adéu a l'editor clàssic",
@@ -58,7 +66,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-06-30",
       "time": "00:00",
-      "summary": "Analitza la transició cap a l'editor de blocs, explicant com l'antic editor clàssic serà eliminat."
+      "summary": "Anunciem la fi imminent de l’editor clàssic de WordPress, impulsant la transició cap al bloc."
     },
     {
       "title": "L'equip de WordPress 7.1 i tot el que vindrà",
@@ -66,7 +74,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-06-23",
       "time": "00:00",
-      "summary": "Revela les novetats de la versió 7.1, incloent millores de rendiment i noves funcionalitats per desenvolupadors."
+      "summary": "Presentem les novetats de WordPress 7.1, incloent un full de ruta clar per a desenvolupadors."
     },
     {
       "title": "Capítol 68: Tendios o com superar la burocràcia del sector públic",
@@ -74,7 +82,7 @@
       "source": "RAC&GO",
       "date": "2026-06-30",
       "time": "06:00",
-      "summary": "Explora solucions IA de Tendios per agilitzar processos administratius i reduir la burocràcia en contractes públics."
+      "summary": "Explorem com Tendios utilitza IA per simplificar processos de contractació pública i reduir burocràcia."
     }
   ]
 }

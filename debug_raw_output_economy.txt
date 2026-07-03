@@ -1,88 +1,24 @@
 {
-  "generated_at": "2026-07-02T09:00",
+  "generated_at": "2026-07-03T10:12",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Les accions de Samsung Electronics i SK Hynix cauen més del 9% a causa de la caiguda del sector de xips",
-      "link_id": "c_a76ea9",
-      "source": "CNBC Technology",
-      "date": "2026-07-02",
-      "time": "07:25",
-      "summary": "Les caigudes reflecteixen la incertesa del mercat de semiconductors i la pressió sobre les grans fabricants."
+      "title": "Anthropic tanca les escletxes que permeten l'accés xinès a Claude",
+      "link_id": "c_dd4544",
+      "source": "Financial Times",
+      "date": "2026-07-03",
+      "time": "04:00",
+      "summary": "L'empresa reforça les restriccions per evitar que la intel·ligència artificial Claude sigui utilitzada per entitats xineses."
     },
     {
       "title": "OpenAI proposa un 5% de participació a l'administració Trump per alleujar la pressió de Washington",
       "link_id": "c_807e96",
       "source": "CNBC Technology",
-      "date": "2026-07-02",
-      "time": "07:13",
-      "summary": "L'oferta busca reduir la regulació americana, però genera controvèrsia sobre la influència governamental en IA."
-    },
-    {
-      "title": "Apple planeja cinc nous iPhone fins al 2027 i considera xips fabricats a la Xina en l'impuls plegable",
-      "link_id": "c_35a240",
-      "source": "CNBC Technology",
-      "date": "2026-07-02",
-      "time": "07:07",
-      "summary": "Apple aposta per proveïdors xinesos per mantenir costos baixos mentre impulsa dispositius plegables avançats."
-    },
-    {
-      "title": "Quantum Systems valora una fusió amb la start-up de drons kamikaze Stark",
-      "link_id": "c_e4ac9e",
-      "source": "Financial Times",
-      "date": "2026-07-02",
-      "time": "07:00",
-      "summary": "La possible fusió podria ampliar l'oferta militar de drons, superant obstacles d'inversors amb finançament de 1,2 mrd $."
-    },
-    {
-      "title": "Amazon dissenya els seus propis xips d'IA per a Echo, Fire TV i futurs dispositius",
-      "link_id": "c_293668",
-      "source": "CNBC Technology",
-      "date": "2026-07-02",
-      "time": "05:10",
-      "summary": "Amazon desenvolupa xips personalitzats per millorar rendiment d'IA en dispositius domèstics i futurs productes."
-    },
-    {
-      "title": "OpenAI proposa cedir un 5% a l'administració Trump",
-      "link_id": "c_19446a",
-      "source": "Financial Times",
-      "date": "2026-07-02",
-      "time": "04:00",
-      "summary": "OpenAI busca suport polític oferint participació, però la proposta podria crear conflictes d'interès."
-    },
-    {
-      "title": "La UE estudia regles climàtiques més febles per a centres de dades, beneficiant les grans tecnologies",
-      "link_id": "c_0bbb61",
-      "source": "Financial Times",
-      "date": "2026-07-02",
-      "time": "04:00",
-      "summary": "La UE relaxa les exigències energètiques, facilitant l'expansió de centres de dades per a grans empreses."
-    },
-    {
-      "title": "Les start-ups de bateries veuen una demanda 'boja' per suavitzar pics d'energia en centres de dades",
-      "link_id": "c_b702ed",
-      "source": "Financial Times",
-      "date": "2026-07-02",
-      "time": "04:00",
-      "summary": "L'augment de processadors d'IA impulsa la necessitat d'emmagatzematge per estabilitzar el subministrament elèctric."
-    },
-    {
-      "title": "La IA ajuda els treballadors a demandar els seus caps, podria trencar el sistema",
-      "link_id": "c_2f3aa2",
-      "source": "Financial Times",
-      "date": "2026-07-02",
-      "time": "04:00",
-      "summary": "L'ús d'IA en litigis laborals sobrecarrega tribunals, plantejant dubtes sobre la justícia del procés."
-    },
-    {
-      "title": "Ant Group, afiliada d'Alibaba, s'endinsa en robots humanoides amb dotze acords en 18 mesos",
-      "link_id": "c_89d34c",
-      "source": "CNBC Technology",
-      "date": "2026-07-02",
-      "time": "01:00",
-      "summary": "Ant Group inverteix en robots humanoides, accelerant la competència en IA i automatització industrial."
+      "date": "2026-07-03",
+      "time": "03:44",
+      "summary": "L'oferta busca reduir la regulació estatunidenca sobre IA, oferint al govern una part de l'empresa."
     }
   ]
 }
