@@ -1,24 +1,48 @@
 {
-  "generated_at": "2026-07-03T10:12",
+  "generated_at": "2026-07-04T09:00",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Anthropic tanca les escletxes que permeten l'accés xinès a Claude",
-      "link_id": "c_dd4544",
-      "source": "Financial Times",
-      "date": "2026-07-03",
-      "time": "04:00",
-      "summary": "L'empresa reforça les restriccions per evitar que la intel·ligència artificial Claude sigui utilitzada per entitats xineses."
+      "title": "Macron i Modi llancen ofensives de carisma personal mentre França i Índia competeixen per atrapar inversions en IA",
+      "link_id": "c_d270dd",
+      "source": "CNBC Technology",
+      "date": "2026-07-04",
+      "time": "05:00",
+      "summary": "Els dos líders busquen atraure empreses tecnològiques per impulsar el desenvolupament d'intel·ligència artificial nacional."
     },
     {
-      "title": "OpenAI proposa un 5% de participació a l'administració Trump per alleujar la pressió de Washington",
-      "link_id": "c_807e96",
+      "title": "Inversors vs jugadors: Sony abandona els discs",
+      "link_id": "c_9e8ecb",
+      "source": "Financial Times",
+      "date": "2026-07-04",
+      "time": "04:00",
+      "summary": "La decisió podria reduir els ingressos de l'empresa i canviar el model de distribució de videojocs."
+    },
+    {
+      "title": "Qui va dissenyar realment aquest vestit? Com la moda reacciona a la IA",
+      "link_id": "c_28ffe0",
+      "source": "Financial Times",
+      "date": "2026-07-04",
+      "time": "04:00",
+      "summary": "Dissenyadors debaten l'autoria mentre les eines d'IA transformen el procés creatiu de la moda."
+    },
+    {
+      "title": "Trump s'oposarà a una regulació estricta de la IA als EUA, segons assessor tecnològic sortint",
+      "link_id": "c_bd297a",
+      "source": "Financial Times",
+      "date": "2026-07-03",
+      "time": "14:32",
+      "summary": "L'ex-conseller advoca per una política menys restrictiva per evitar frenar la innovació en intel·ligència artificial."
+    },
+    {
+      "title": "The Tech Download: Panos Panay, cap de dispositius d'Amazon, parla de l'impuls d'IA en gadgets",
+      "link_id": "c_4b611f",
       "source": "CNBC Technology",
       "date": "2026-07-03",
-      "time": "03:44",
-      "summary": "L'oferta busca reduir la regulació estatunidenca sobre IA, oferint al govern una part de l'empresa."
+      "time": "12:41",
+      "summary": "Amazon aposta per integrar IA en nous dispositius, buscant diferenciar-se en el mercat de tecnologia domèstica."
     }
   ]
 }

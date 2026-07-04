@@ -1,12 +1,32 @@
 {
-  "generated_at": "2026-07-03T09:00",
+  "generated_at": "2026-07-04T07:49",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
     {
+      "name": "El Temps",
+      "url": "https://www.eltemps.cat/sindica",
+      "articles_found": 1
+    },
+    {
+      "name": "Via Empresa",
+      "url": "https://www.viaempresa.cat/uploads/feeds/feed_via-empresa-2024_ca.xml",
+      "articles_found": 1
+    },
+    {
+      "name": "324.cat",
+      "url": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0",
+      "articles_found": 1
+    },
+    {
       "name": "La Vanguardia (en català)",
       "url": "https://www.lavanguardia.com/rss/encatala.xml",
-      "articles_found": 2
+      "articles_found": 1
+    },
+    {
+      "name": "Ara.cat",
+      "url": "https://www.ara.cat/rss/",
+      "articles_found": 3
     },
     {
       "name": "MetaData",
@@ -14,106 +34,91 @@
       "articles_found": 2
     },
     {
-      "name": "Ara.cat",
-      "url": "https://www.ara.cat/rss/",
-      "articles_found": 2
-    },
-    {
-      "name": "El Periódico",
-      "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
-      "articles_found": 1
-    },
-    {
-      "name": "RAC1",
-      "url": "https://www.rac1.cat/rss/home.xml",
-      "articles_found": 2
-    },
-    {
-      "name": "Àpunt",
-      "url": "https://www.apuntmedia.es/rss/",
+      "name": "Segre",
+      "url": "https://www.segre.com/ca/rss/home.xml",
       "articles_found": 1
     }
   ],
   "articles": [
     {
-      "title": "La justícia europea avala la multa a Google més alta de la història per monopoli: 4.100 M€",
-      "link_id": "c_f389e0",
+      "title": "Mora la Nova i el tren de la IA",
+      "link_id": "c_b7d229",
+      "source": "El Temps",
+      "date": "2026-07-04",
+      "time": "05:00",
+      "summary": "Móra la Nova esdevé centre europeu d'IA, prometent milers d'empleats i innovació regional."
+    },
+    {
+      "title": "ByteTravel s'incorpora al BME Growth",
+      "link_id": "c_a38e5d",
+      "source": "Via Empresa",
+      "date": "2026-07-03",
+      "time": "15:51",
+      "summary": "ByteTravel entra al BME Growth, impulsant el sector traveltech català amb capital fresc."
+    },
+    {
+      "title": "La incubadora líquida que ha gestat el miracle de Gaia, l'ovella prematura extrema nascuda sense seqüeles",
+      "link_id": "c_91cc37",
+      "source": "324.cat",
+      "date": "2026-07-03",
+      "time": "14:04",
+      "summary": "Investigadors catalans desenvolupen placenta artificial, millorant la supervivència dels prematurs extrems."
+    },
+    {
+      "title": "La justícia europea confirma la multa de 4.100 milions d’euros a Google",
+      "link_id": "c_4a22fa",
       "source": "La Vanguardia (en català)",
-      "date": "2026-07-02",
-      "time": "14:17",
-      "summary": "La UE imposa una multa rècord a Google, reforçant la regulació antimonopoli en el sector digital."
+      "date": "2026-07-03",
+      "time": "09:40",
+      "summary": "La UE imposa una multa rècord a Google per abús d'Android, reforçant la competència digital."
     },
     {
-      "title": "La gran aposta catalana per la IA pren forma: la gigafactoria de Móra la Nova apunta al 2028",
-      "link_id": "c_f4c987",
-      "source": "MetaData",
-      "date": "2026-07-02",
-      "time": "15:20",
-      "summary": "Catalunya lidera la iniciativa europea d'IA amb una gigafàbrica de 1.500 milions d'euros a Móra la Nova."
-    },
-    {
-      "title": "Túnel del Cadí: Cap a una infraestructura “zero emissions” en consum elèctric al Pirineu",
-      "link_id": "c_ffc7f6",
-      "source": "Ara.cat",
-      "date": "2026-06-28",
-      "time": "21:59",
-      "summary": "El túnel del Cadí busca reduir el consum elèctric, convertint-se en una infraestructura zero emissions al Pirineu."
-    },
-    {
-      "title": "¿Les 'stablecoins' són diners?",
-      "link_id": "c_50fb1a",
+      "title": "Un eurodiputat va ser espiat amb Pegasus mentre investigava el Catalangate al Parlament Europeu",
+      "link_id": "c_725adf",
       "source": "Ara.cat",
       "date": "2026-07-03",
-      "time": "05:00",
-      "summary": "Les stablecoins es qüestionen com a diners, plantejant dubtes sobre la seva naturalesa i regulació financera."
+      "time": "12:53",
+      "summary": "Un eurodiputat grec és espiat amb Pegasus mentre investigava l'espionatge polític a Europa."
     },
     {
-      "title": "OpenAI proposa que l’administració Trump s’apropiï d’un 5% de l’empresa",
-      "link_id": "c_96dbea",
-      "source": "El Periódico",
-      "date": "2026-07-02",
-      "time": "11:14",
-      "summary": "OpenAI considera cedir un 5% al govern dels EUA, generant debat sobre la influència estatal en IA."
+      "title": "Una IA xinesa guanya terreny als models més potents de Claude i ChatGPT",
+      "link_id": "c_eb3758",
+      "source": "Ara.cat",
+      "date": "2026-07-03",
+      "time": "18:45",
+      "summary": "La startup xinesa Z.ai llança GLM-5.2, rival competitiu dels models d'OpenAI i Anthropic."
     },
     {
-      "title": "El secret per caminar 10.000 passos diaris és fingir que et persegueixen zombis: l'app viral per evitar el sedentarisme",
-      "link_id": "c_3f83cd",
-      "source": "RAC1",
-      "date": "2026-07-02",
-      "time": "12:51",
-      "summary": "Una app viral anima a caminar 10.000 passos diaris simulant una persecució de zombis per combatre el sedentarisme."
+      "title": "El teu nou portàtil serà més car per culpa de la IA, encara que no la facis servir",
+      "link_id": "c_addcb1",
+      "source": "Ara.cat",
+      "date": "2026-07-03",
+      "time": "13:31",
+      "summary": "La IA eleva el cost dels portàtils, ja que augmenta la demanda de xips de memòria."
     },
     {
-      "title": "Carlos Llull, tècnic de climatització: \"Deixar l'aire condicionat encès durant 8 hores a la nit pot costar al voltant d'un euro en electricitat\"",
-      "link_id": "c_25d368",
-      "source": "RAC1",
-      "date": "2026-07-02",
-      "time": "22:45",
-      "summary": "Deixar l'aire condicionat encès tota la nit pot suposar un cost addicional d'un euro a la factura elèctrica."
-    },
-    {
-      "title": "Neix Valltech, una plataforma per consolidar el Vallès com a referent tecnològic i industrial",
-      "link_id": "c_3282fa",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-07-02",
-      "time": "15:43",
-      "summary": "Valltech consolida el Vallès com a hub tecnològic, impulsant 2.000 empreses innovadores i el 17% del PIB català."
-    },
-    {
-      "title": "02.07.2026 | La intel·ligència artificial dibuixa el primer mapa mundial de les comunitats vegetals",
-      "link_id": "c_6d507f",
-      "source": "Àpunt",
-      "date": "2026-07-02",
-      "time": "18:00",
-      "summary": "La IA genera el primer mapa mundial de comunitats vegetals, mostrant com el canvi climàtic afecta la flora."
-    },
-    {
-      "title": "Xavier Luri: “Si Europa no és autònoma en comunicacions o navegació per satèl·lit, això pot condicionar seriosament el nostre futur econòmic”",
-      "link_id": "c_6403e9",
+      "title": "Indra Group reforça l’aposta pel talent a Catalunya amb noves aliances amb universitats i centres d’FP",
+      "link_id": "c_f5a3a8",
       "source": "MetaData",
-      "date": "2026-07-02",
-      "time": "10:00",
-      "summary": "El congrés Space Economy 2026 a Barcelona destaca la importància de la sobirania espacial per al futur econòmic europeu."
+      "date": "2026-06-30",
+      "time": "16:05",
+      "summary": "Indra crearà 1.500 llocs de treball en IA i ciberseguretat a Catalunya abans del 2027."
+    },
+    {
+      "title": "Menys ciència-ficció i més productivitat: la IA avança en pimes, autònoms i despatxos",
+      "link_id": "c_f792e7",
+      "source": "Segre",
+      "date": "2026-06-30",
+      "time": "16:27",
+      "summary": "La IA automatitza tasques en pimes i autònoms, augmentant productivitat sense gran bombolla mediàtica."
+    },
+    {
+      "title": "Secartys reivindica la IA com a motor de competitivitat i accelera la seva transformació per connectar la indústria tecnològica catalana",
+      "link_id": "c_ad25a0",
+      "source": "MetaData",
+      "date": "2026-07-01",
+      "time": "16:05",
+      "summary": "Secartys impulsa la IA com a motor de competitivitat, reunint 200 professionals per debatre el futur."
     }
   ]
 }

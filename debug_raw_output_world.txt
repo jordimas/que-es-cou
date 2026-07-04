@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-07-03T10:12",
+  "generated_at": "2026-07-04T09:00",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Les entregues de Tesla augmenten un 25% | Bloomberg Tech 02/07/2026",
-      "link_id": "c_5d4645",
-      "source": "Bloomberg Technology",
+      "title": "Meta ha llançat una aplicació per crear jocs d'IA generativa",
+      "link_id": "c_3e85d1",
+      "source": "Engadget",
       "date": "2026-07-02",
-      "time": "17:57",
-      "summary": "Les entregues de Tesla augmenten un 25% al segon trimestre, impulsades per les vendes a Europa."
+      "time": "22:53",
+      "summary": "Meta ofereix una eina per dissenyar i compartir mini jocs generats per IA amb facilitat."
     },
     {
-      "title": "Meta llança silenciosament l'aplicació de jocs amb IA Pocket",
+      "title": "Meta acaba de llançar una aplicació de codificació de vibracions per a jocs, anomenada Pocket",
+      "link_id": "c_d11838",
+      "source": "TechRadar",
+      "date": "2026-07-02",
+      "time": "20:28",
+      "summary": "Pocket combina codificació d'IA i interfície simple per crear jocs interactius en minuts."
+    },
+    {
+      "title": "Meta llança silenciosament l'aplicació de jocs amb vibra-codi Pocket",
       "link_id": "c_cce8c7",
       "source": "TechCrunch",
       "date": "2026-07-02",
       "time": "18:44",
-      "summary": "Meta llança Pocket, una app que permet crear i compartir mini-jocs amb IA només amb textos."
+      "summary": "Una nova app que permet crear jocs d'IA només amb instruccions de text, sense programació."
     },
     {
-      "title": "Polític que investigava l'ús del programari espia va ser hackejat amb Pegasus",
+      "title": "Polític grec que investigava programari espia ha estat objecte d'un atac de Pegasus",
+      "link_id": "c_0706ea",
+      "source": "Bloomberg Technology",
+      "date": "2026-07-03",
+      "time": "06:00",
+      "summary": "Un polític grec que investigava programari espia ha estat vulnerat per Pegasus."
+    },
+    {
+      "title": "Polític que investigava abusos de programari espia va ser hackejat amb el programari Pegasus",
       "link_id": "c_77e632",
       "source": "TechCrunch",
       "date": "2026-07-03",
       "time": "05:05",
-      "summary": "Un polític europeu investigava el Pegasus i el seu telèfon va ser hackejat amb el programari espia."
+      "summary": "Un polític europeu ha estat vulnerat per Pegasus després d'investigar l'ús del programari espia."
     },
     {
-      "title": "Google perd l'última apel·lació contra la multa antitrust d'Android de 4,7 mil milions d'euros",
-      "link_id": "c_54e814",
-      "source": "TechCrunch",
-      "date": "2026-07-02",
-      "time": "14:22",
-      "summary": "Google ha perdut l'última apel·lació i ha de pagar una multa de 4,7 mil milions d'euros per pràctiques antitrust."
-    },
-    {
-      "title": "La fàbrica de discs PlayStation de Sony ja es reorienta",
-      "link_id": "c_9a32de",
-      "source": "The Verge",
+      "title": "Polítics de la UE van investigar el programari Pegasus. Després va acabar al telèfon d'un d'ells",
+      "link_id": "c_abba35",
+      "source": "Wired",
       "date": "2026-07-03",
-      "time": "01:05",
-      "summary": "Sony reorienta la seva fàbrica de discs PlayStation cap a noves produccions, deixant de fabricar discs."
+      "time": "05:00",
+      "summary": "Després d'investigar Pegasus, un polític de la UE va trobar el programari instal·lat al seu telèfon."
     },
     {
-      "title": "Conductor de Tesla enfronta càrrecs d'homicidi involuntari per accident a Texas que va matar una dona a casa seva",
-      "link_id": "c_5920c9",
-      "source": "The Verge",
-      "date": "2026-07-02",
-      "time": "22:09",
-      "summary": "Un conductor de Tesla és acusat d'homicidi involuntari després d'un accident que va matar una dona a Texas."
-    },
-    {
-      "title": "Nou descobert PamStealer no és el malware típic de macOS",
-      "link_id": "c_827a32",
-      "source": "Ars Technica",
-      "date": "2026-07-02",
-      "time": "19:38",
-      "summary": "Nou macOS malware anomenat PamStealer destaca l'augment dels robadors d'informació a Mac."
-    },
-    {
-      "title": "Microsoft llança una empresa d'enginyeria d'IA",
-      "link_id": "c_e3d2e0",
-      "source": "InfoWorld",
+      "title": "Amazon acaba d'augmentar inesperadament la RAM del Fire HD 10",
+      "link_id": "c_b6d4cf",
+      "source": "Android Authority",
       "date": "2026-07-03",
-      "time": "01:23",
-      "summary": "Microsoft crea la Frontier Company, 6.000 experts per desplegar IA a empreses, amb 2,5 mil milions d'inversió."
+      "time": "18:43",
+      "summary": "Actualització inesperada que eleva la RAM del Fire HD 10, millorant la multitarea i velocitat."
     },
     {
-      "title": "OpenAI proposa donar un 5% del seu capital a un fons soberà dels EUA",
-      "link_id": "c_4de1d6",
+      "title": "La tauleta Fire HD 10 d'Amazon acaba de rebre un augment de RAM",
+      "link_id": "c_afc066",
+      "source": "Engadget",
+      "date": "2026-07-03",
+      "time": "15:40",
+      "summary": "Amazon augmenta la memòria RAM del Fire HD 10 per millorar el rendiment del dispositiu."
+    },
+    {
+      "title": "Ventilador Qi per a carregadors sense fil",
+      "link_id": "c_f942d8",
+      "source": "The Verge",
+      "date": "2026-07-04",
+      "time": "03:00",
+      "summary": "Nou carregador sense fil amb ventilador integrat per refredar el dispositiu durant la càrrega."
+    },
+    {
+      "title": "L'únic glossari d'IA que necessitaràs aquest any",
+      "link_id": "c_8b9622",
       "source": "TechCrunch",
-      "date": "2026-07-02",
-      "time": "15:20",
-      "summary": "OpenAI considera oferir un 5% de participació al govern dels EUA per compartir els beneficis de la IA."
-    },
-    {
-      "title": "El servei Hide My Email d'Apple pot no estar amagant res",
-      "link_id": "c_30b3b5",
-      "source": "TechRadar",
-      "date": "2026-07-02",
-      "time": "13:57",
-      "summary": "Una vulnerabilitat a Hide My Email permet descobrir l'adreça real, i Apple encara no l'ha arreglat."
+      "date": "2026-07-03",
+      "time": "21:20",
+      "summary": "Un glossari complet d'expressions d'IA per ajudar professionals a entendre termes clau del sector."
     }
   ]
 }
