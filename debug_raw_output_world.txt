@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-07-04T09:00",
+  "generated_at": "2026-07-05T10:04",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Meta ha llançat una aplicació per crear jocs d'IA generativa",
-      "link_id": "c_3e85d1",
-      "source": "Engadget",
-      "date": "2026-07-02",
-      "time": "22:53",
-      "summary": "Meta ofereix una eina per dissenyar i compartir mini jocs generats per IA amb facilitat."
-    },
-    {
-      "title": "Meta acaba de llançar una aplicació de codificació de vibracions per a jocs, anomenada Pocket",
-      "link_id": "c_d11838",
-      "source": "TechRadar",
-      "date": "2026-07-02",
-      "time": "20:28",
-      "summary": "Pocket combina codificació d'IA i interfície simple per crear jocs interactius en minuts."
-    },
-    {
-      "title": "Meta llança silenciosament l'aplicació de jocs amb vibra-codi Pocket",
-      "link_id": "c_cce8c7",
-      "source": "TechCrunch",
-      "date": "2026-07-02",
-      "time": "18:44",
-      "summary": "Una nova app que permet crear jocs d'IA només amb instruccions de text, sense programació."
-    },
-    {
-      "title": "Polític grec que investigava programari espia ha estat objecte d'un atac de Pegasus",
-      "link_id": "c_0706ea",
-      "source": "Bloomberg Technology",
-      "date": "2026-07-03",
-      "time": "06:00",
-      "summary": "Un polític grec que investigava programari espia ha estat vulnerat per Pegasus."
-    },
-    {
-      "title": "Polític que investigava abusos de programari espia va ser hackejat amb el programari Pegasus",
-      "link_id": "c_77e632",
-      "source": "TechCrunch",
-      "date": "2026-07-03",
-      "time": "05:05",
-      "summary": "Un polític europeu ha estat vulnerat per Pegasus després d'investigar l'ús del programari espia."
-    },
-    {
-      "title": "Polítics de la UE van investigar el programari Pegasus. Després va acabar al telèfon d'un d'ells",
-      "link_id": "c_abba35",
-      "source": "Wired",
-      "date": "2026-07-03",
-      "time": "05:00",
-      "summary": "Després d'investigar Pegasus, un polític de la UE va trobar el programari instal·lat al seu telèfon."
-    },
-    {
-      "title": "Amazon acaba d'augmentar inesperadament la RAM del Fire HD 10",
-      "link_id": "c_b6d4cf",
-      "source": "Android Authority",
-      "date": "2026-07-03",
-      "time": "18:43",
-      "summary": "Actualització inesperada que eleva la RAM del Fire HD 10, millorant la multitarea i velocitat."
-    },
-    {
-      "title": "La tauleta Fire HD 10 d'Amazon acaba de rebre un augment de RAM",
-      "link_id": "c_afc066",
-      "source": "Engadget",
-      "date": "2026-07-03",
-      "time": "15:40",
-      "summary": "Amazon augmenta la memòria RAM del Fire HD 10 per millorar el rendiment del dispositiu."
-    },
-    {
-      "title": "Ventilador Qi per a carregadors sense fil",
-      "link_id": "c_f942d8",
+      "title": "La NASA llança una missió d'emergència per evitar que l'Observatori Swift s'estavelli a la Terra",
+      "link_id": "c_068a3f",
       "source": "The Verge",
       "date": "2026-07-04",
-      "time": "03:00",
-      "summary": "Nou carregador sense fil amb ventilador integrat per refredar el dispositiu durant la càrrega."
+      "time": "15:06",
+      "summary": "La missió busca interceptar l'Observatori Swift abans que la seva òrbita caigui i es cremi."
     },
     {
-      "title": "L'únic glossari d'IA que necessitaràs aquest any",
-      "link_id": "c_8b9622",
+      "title": "La missió de la NASA per rescatar l'Observatori Swift en caiguda s'ha llançat",
+      "link_id": "c_4e9a96",
+      "source": "Engadget",
+      "date": "2026-07-04",
+      "time": "16:00",
+      "summary": "L'equip ha enviat la nau robòtica LINK per interceptar l'satèl abans que es cremi."
+    },
+    {
+      "title": "Midjourney vol que els estudis de Hollywood revelin els detalls del seu ús d'IA",
+      "link_id": "c_5f2e5b",
       "source": "TechCrunch",
-      "date": "2026-07-03",
-      "time": "21:20",
-      "summary": "Un glossari complet d'expressions d'IA per ajudar professionals a entendre termes clau del sector."
+      "date": "2026-07-04",
+      "time": "18:00",
+      "summary": "L'empresa busca obligar els estudis a divulgar com utilitzen la intel·ligència artificial."
+    },
+    {
+      "title": "Midjourney demana als estudis de Hollywood que el van demandar que mostrin al tribunal com usen IA",
+      "link_id": "c_aced2b",
+      "source": "Engadget",
+      "date": "2026-07-04",
+      "time": "11:33",
+      "summary": "L'empresa vol que el jutge vegi les pràctiques d'IA dels estudis demandants."
+    },
+    {
+      "title": "Nou anunci de Google imagina una Declaració d'Independència escrita amb ajuda d'IA",
+      "link_id": "c_8b6460",
+      "source": "TechCrunch",
+      "date": "2026-07-04",
+      "time": "20:55",
+      "summary": "El comercial mostra com els pares fundadors podrien usar Google Workspace per redactar el document."
+    },
+    {
+      "title": "Una enquesta celeste de 10 anys comença a gravar una 'pel·lícula còsmica', cucs cibernètics s'immersen i més notícies científiques",
+      "link_id": "c_e39cde",
+      "source": "Engadget",
+      "date": "2026-07-04",
+      "time": "19:45",
+      "summary": "El projecte captura l'univers en moviment i explora insectes augmentats per IA."
+    },
+    {
+      "title": "Com el teu smartwatch i la IA podrien detectar signes primerencs de malaltia",
+      "link_id": "c_c3b855",
+      "source": "Engadget",
+      "date": "2026-07-04",
+      "time": "18:30",
+      "summary": "Els dispositius analitzen patrons vitals per alertar sobre possibles problemes de salut."
+    },
+    {
+      "title": "Tesla amplia el servei de robotaxi a una petita zona de Miami",
+      "link_id": "c_f2aaea",
+      "source": "Engadget",
+      "date": "2026-07-04",
+      "time": "17:30",
+      "summary": "L'empresa prova el transport autònom en barris seleccionats de la ciutat."
+    },
+    {
+      "title": "Alibaba prohibeix als empleats usar Claude Code",
+      "link_id": "c_029b92",
+      "source": "TechCrunch",
+      "date": "2026-07-04",
+      "time": "16:32",
+      "summary": "L'empresa classifica Claude Code com a programari d'alt risc i el bloqueja."
+    },
+    {
+      "title": "La Casa Blanca suprimeix milers de pàgines sobre conservació d'energia durant l'onada de calor",
+      "link_id": "c_a01e59",
+      "source": "The Verge",
+      "date": "2026-07-04",
+      "time": "12:19",
+      "summary": "El DOE elimina contingut després de la pressió política de la crisi energètica."
     }
   ]
 }

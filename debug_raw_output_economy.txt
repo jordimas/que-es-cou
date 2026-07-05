@@ -1,48 +1,32 @@
 {
-  "generated_at": "2026-07-04T09:00",
+  "generated_at": "2026-07-05T09:30",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Macron i Modi llancen ofensives de carisma personal mentre França i Índia competeixen per atrapar inversions en IA",
+      "title": "Com Bending Spoons va construir un imperi tecnològic de 23.000 milions de dòlars a partir de marques en dificultat",
+      "link_id": "c_c84686",
+      "source": "Financial Times",
+      "date": "2026-07-05",
+      "time": "04:00",
+      "summary": "L'empresa italiana transforma marques febles en un grup global, impulsat per adquisicions i una oferta a la borsa Nasdaq."
+    },
+    {
+      "title": "Uber frena l'expansió europea de repartiment d'aliments mentre busca adquirir Delivery Hero",
+      "link_id": "c_c6b122",
+      "source": "Financial Times",
+      "date": "2026-07-05",
+      "time": "04:00",
+      "summary": "L'empresa retarda l'entrada en cinc mercats europeus, centrant-se en la possible compra de Delivery Hero."
+    },
+    {
+      "title": "Des de Macron fins a Modi, els governs ofereixen una catifa vermella als gegants de la IA",
       "link_id": "c_d270dd",
       "source": "CNBC Technology",
       "date": "2026-07-04",
-      "time": "05:00",
-      "summary": "Els dos líders busquen atraure empreses tecnològiques per impulsar el desenvolupament d'intel·ligència artificial nacional."
-    },
-    {
-      "title": "Inversors vs jugadors: Sony abandona els discs",
-      "link_id": "c_9e8ecb",
-      "source": "Financial Times",
-      "date": "2026-07-04",
-      "time": "04:00",
-      "summary": "La decisió podria reduir els ingressos de l'empresa i canviar el model de distribució de videojocs."
-    },
-    {
-      "title": "Qui va dissenyar realment aquest vestit? Com la moda reacciona a la IA",
-      "link_id": "c_28ffe0",
-      "source": "Financial Times",
-      "date": "2026-07-04",
-      "time": "04:00",
-      "summary": "Dissenyadors debaten l'autoria mentre les eines d'IA transformen el procés creatiu de la moda."
-    },
-    {
-      "title": "Trump s'oposarà a una regulació estricta de la IA als EUA, segons assessor tecnològic sortint",
-      "link_id": "c_bd297a",
-      "source": "Financial Times",
-      "date": "2026-07-03",
-      "time": "14:32",
-      "summary": "L'ex-conseller advoca per una política menys restrictiva per evitar frenar la innovació en intel·ligència artificial."
-    },
-    {
-      "title": "The Tech Download: Panos Panay, cap de dispositius d'Amazon, parla de l'impuls d'IA en gadgets",
-      "link_id": "c_4b611f",
-      "source": "CNBC Technology",
-      "date": "2026-07-03",
-      "time": "12:41",
-      "summary": "Amazon aposta per integrar IA en nous dispositius, buscant diferenciar-se en el mercat de tecnologia domèstica."
+      "time": "09:33",
+      "summary": "Països com França i Índia atrauen inversions en centres de dades IA, buscant liderar la infraestructura tecnològica."
     }
   ]
 }
