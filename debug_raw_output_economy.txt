@@ -1,32 +1,64 @@
 {
-  "generated_at": "2026-07-05T09:30",
+  "generated_at": "2026-07-06T11:01",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Com Bending Spoons va construir un imperi tecnològic de 23.000 milions de dòlars a partir de marques en dificultat",
-      "link_id": "c_c84686",
+      "title": "SaaSpocalypse posposat",
+      "link_id": "c_2d515d",
       "source": "Financial Times",
-      "date": "2026-07-05",
-      "time": "04:00",
-      "summary": "L'empresa italiana transforma marques febles en un grup global, impulsat per adquisicions i una oferta a la borsa Nasdaq."
+      "date": "2026-07-06",
+      "time": "05:30",
+      "summary": "L'empresa ha decidit ajornar el llançament, deixant incerts els inversors sobre el futur del mercat SaaS."
     },
     {
-      "title": "Uber frena l'expansió europea de repartiment d'aliments mentre busca adquirir Delivery Hero",
-      "link_id": "c_c6b122",
+      "title": "Per què OpenAI i Anthropic podrien tenir dificultats per cotitzar",
+      "link_id": "c_970ca3",
       "source": "Financial Times",
-      "date": "2026-07-05",
+      "date": "2026-07-06",
       "time": "04:00",
-      "summary": "L'empresa retarda l'entrada en cinc mercats europeus, centrant-se en la possible compra de Delivery Hero."
+      "summary": "Els costos elevats i la competència intensa podrien impedir que OpenAI i Anthropic arriben a la borsa aquest any."
     },
     {
-      "title": "Des de Macron fins a Modi, els governs ofereixen una catifa vermella als gegants de la IA",
-      "link_id": "c_d270dd",
+      "title": "Son aposta tot a la IA",
+      "link_id": "c_1a4c3e",
+      "source": "Financial Times",
+      "date": "2026-07-06",
+      "time": "04:00",
+      "summary": "El famós inversor Son concentra la seva fortuna en empreses d'IA, generant preocupació per un possible monopoli."
+    },
+    {
+      "title": "Impuls de Londres cap a la sobirania de la IA",
+      "link_id": "c_ba7325",
+      "source": "Financial Times",
+      "date": "2026-07-06",
+      "time": "04:00",
+      "summary": "Londres busca reduir la dependència dels EUA en IA, però encara es veu com una extensió americana."
+    },
+    {
+      "title": "El sistema de racks d'IA de nova generació de Nvidia es retarda fins al 2028 per problemes de fabricació, segons SemiAnalysis",
+      "link_id": "c_10045a",
       "source": "CNBC Technology",
-      "date": "2026-07-04",
-      "time": "09:33",
-      "summary": "Països com França i Índia atrauen inversions en centres de dades IA, buscant liderar la infraestructura tecnològica."
+      "date": "2026-07-06",
+      "time": "03:21",
+      "summary": "Problemes de producció retardaran el nou rack d'IA de Nvidia fins al 2028, afectant les expectatives del sector."
+    },
+    {
+      "title": "El regulador del Regne Unit adverteix d'una 'cursa d'armes' per seguir el ritme de l'ús de la IA en serveis financers",
+      "link_id": "c_ef7d2e",
+      "source": "Financial Times",
+      "date": "2026-07-05",
+      "time": "21:00",
+      "summary": "La FCA alerta que la competència en IA financera podria desencadenar una carrera d'armes reguladores."
+    },
+    {
+      "title": "Els centres de dades són una prova crucial de la determinació industrial dels EUA",
+      "link_id": "c_87b4bc",
+      "source": "Financial Times",
+      "date": "2026-07-05",
+      "time": "15:00",
+      "summary": "Els centres de dades es converteixen en indicador clau de la capacitat industrial americana per a la IA."
     }
   ]
 }

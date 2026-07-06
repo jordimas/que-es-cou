@@ -1,17 +1,22 @@
 {
-  "generated_at": "2026-07-05T08:04",
+  "generated_at": "2026-07-06T09:30",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
     {
-      "name": "Ara.cat",
-      "url": "https://www.ara.cat/rss/",
+      "name": "El Temps",
+      "url": "https://www.eltemps.cat/sindica",
+      "articles_found": 1
+    },
+    {
+      "name": "MetaData",
+      "url": "https://www.metadata.cat/sindica",
       "articles_found": 3
     },
     {
-      "name": "El Periódico",
-      "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
-      "articles_found": 1
+      "name": "Ara.cat",
+      "url": "https://www.ara.cat/rss/",
+      "articles_found": 2
     },
     {
       "name": "RAC1",
@@ -19,45 +24,48 @@
       "articles_found": 1
     },
     {
-      "name": "La Vanguardia (en català)",
-      "url": "https://www.lavanguardia.com/rss/encatala.xml",
-      "articles_found": 1
+      "name": "El Nacional",
+      "url": "https://www.elnacional.cat/uploads/feeds/feed_ca.xml",
+      "articles_found": 2
     },
     {
       "name": "Via Empresa",
       "url": "https://www.viaempresa.cat/uploads/feeds/feed_via-empresa-2024_ca.xml",
       "articles_found": 1
-    },
-    {
-      "name": "El Temps",
-      "url": "https://www.eltemps.cat/sindica",
-      "articles_found": 1
     }
   ],
   "articles": [
     {
-      "title": "Mora la Nova i el tren de la IA",
+      "title": "Móra la Nova i el tren de la IA",
       "link_id": "c_b7d229",
       "source": "El Temps",
       "date": "2026-07-04",
       "time": "05:00",
-      "summary": "Móra la Nova acull la primera gigafàbrica europea d'IA, prometent milers de llocs de treball i innovació."
+      "summary": "Móra la Nova s'apunta a liderar la IA europea, impulsant la innovació i la reindustrialització regional."
+    },
+    {
+      "title": "Catalunya inverteix 3 milions d’euros en BIM i IA per accelerar les llicències d’obres",
+      "link_id": "c_43138e",
+      "source": "MetaData",
+      "date": "2026-07-06",
+      "time": "10:08",
+      "summary": "La BIM i la IA reduiran la burocràcia de llicències, accelerant obres i estalviant temps als ciutadans."
     },
     {
       "title": "La IA, una realitat en auge als despatxos professionals",
       "link_id": "c_aced86",
       "source": "Ara.cat",
       "date": "2026-07-04",
-      "time": "23:59",
-      "summary": "Set de cada deu despatxos professionals ja integren IA per automatitzar tasques i millorar l'eficiència."
+      "time": "21:59",
+      "summary": "Set de cada deu despatxos professionals ja utilitzen IA, transformant la gestió legal i millorant l'eficiència."
     },
     {
-      "title": "ByteTravel s'incorpora al BME Growth",
-      "link_id": "c_a38e5d",
-      "source": "Via Empresa",
-      "date": "2026-07-03",
-      "time": "15:51",
-      "summary": "ByteTravel entra al BME Growth, impulsant el sector traveltech català amb una capitalització de 135 milions."
+      "title": "L'alternativa catalana als generadors dièsel que \"ven resiliència\" contra les apagades",
+      "link_id": "c_0fd7cf",
+      "source": "Ara.cat",
+      "date": "2026-07-04",
+      "time": "11:00",
+      "summary": "Després de l'apagada del 2025, es promouen generadors alternatius per garantir energia crítica a hospitals."
     },
     {
       "title": "Els centres de dades que facilita el Govern disparen la temperatura del seu entorn entre dos i nou graus",
@@ -65,39 +73,47 @@
       "source": "RAC1",
       "date": "2026-07-05",
       "time": "09:05",
-      "summary": "Estudi de Cambridge alerta que els centres de dades catalans escalfen l'entorn fins a nou graus."
+      "summary": "Estudis revelen que els centres de dades catalans escalfen l'entorn fins a nou graus, impactant clima."
     },
     {
-      "title": "La CNMC prepara una nova IA per perseguir càrtels entre empreses",
-      "link_id": "c_038398",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-07-04",
-      "time": "07:33",
-      "summary": "La CNMC llança Atenea, IA que vigil·larà contractes públics per detectar pràctiques anticompetitives."
+      "title": "Apple llançarà aquests 16 dispositius abans que acabi l'any",
+      "link_id": "c_0fa056",
+      "source": "El Nacional",
+      "date": "2026-07-05",
+      "time": "16:05",
+      "summary": "Apple llançarà 16 nous dispositius abans de 2026, ampliant l'ecosistema i la competència tecnològica."
     },
     {
-      "title": "La Justícia europea confirma una multa rècord de 4.125 milions a Google",
-      "link_id": "c_f3cbf0",
-      "source": "El Periódico",
-      "date": "2026-07-02",
-      "time": "10:29",
-      "summary": "La UE imposa una multa rècord de 4.125 milions d'euros a Google per abús d'Android."
+      "title": "ChatGPT \"és millor que el 99% dels doctors\" segons l'influent Marc Andreessen",
+      "link_id": "c_96a241",
+      "source": "El Nacional",
+      "date": "2026-07-05",
+      "time": "12:00",
+      "summary": "ChatGPT supera el 99% dels metges segons Marc Andreessen, generant debat sobre IA en salut."
     },
     {
-      "title": "¿Les 'stablecoins' són diners?",
-      "link_id": "c_50fb1a",
-      "source": "Ara.cat",
+      "title": "ByteTravel s'incorpora al BME Growth",
+      "link_id": "c_a38e5d",
+      "source": "Via Empresa",
       "date": "2026-07-03",
-      "time": "07:00",
-      "summary": "Les stablecoins es qüestionen com a diners reals, generant debat sobre regulació i seguretat financera."
+      "time": "15:51",
+      "summary": "ByteTravel entra al BME Growth, impulsant el sector traveltech català cap a nous inversors."
     },
     {
-      "title": "L'alternativa catalana als generadors dièsel que \"ven resiliència\" contra les apagades",
-      "link_id": "c_0fd7cf",
-      "source": "Ara.cat",
-      "date": "2026-07-04",
-      "time": "13:00",
-      "summary": "Després de l'apagada del 2025, Catalunya explora generadors alternatius per garantir resiliència energètica."
+      "title": "Secartys reivindica la IA com a motor de competitivitat i accelera la seva transformació per connectar la indústria tecnològica catalana",
+      "link_id": "c_ad25a0",
+      "source": "MetaData",
+      "date": "2026-07-01",
+      "time": "16:05",
+      "summary": "Secartys reuneix 200 professionals per debatre IA i competitivitat industrial a la jornada 2026."
+    },
+    {
+      "title": "Xavier Luri: “Si Europa no és autònoma en comunicacions o navegació per satèl·lit, això pot condicionar seriosament el nostre futur econòmic”",
+      "link_id": "c_6403e9",
+      "source": "MetaData",
+      "date": "2026-07-02",
+      "time": "10:00",
+      "summary": "El Space Economy Congress 2026 a Barcelona destaca la sobirania tecnològica satel·lítil com a clau econòmica."
     }
   ]
 }
