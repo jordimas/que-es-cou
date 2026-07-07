@@ -1,64 +1,88 @@
 {
-  "generated_at": "2026-07-06T11:01",
+  "generated_at": "2026-07-07T09:00",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "SaaSpocalypse posposat",
-      "link_id": "c_2d515d",
+      "title": "Les accions de Samsung cauen un 10% malgrat un benefici trimestral rècord impulsat per l'auge de la IA",
+      "link_id": "c_f1dfce",
       "source": "Financial Times",
-      "date": "2026-07-06",
-      "time": "05:30",
-      "summary": "L'empresa ha decidit ajornar el llançament, deixant incerts els inversors sobre el futur del mercat SaaS."
+      "date": "2026-07-07",
+      "time": "06:51",
+      "summary": "Els inversors temen les despeses massives en IA tot i els guanys històrics."
     },
     {
-      "title": "Per què OpenAI i Anthropic podrien tenir dificultats per cotitzar",
-      "link_id": "c_970ca3",
+      "title": "Google i XTX recolzen la start-up alemanya de fusió mentre les apostes nuclears es multipliquen",
+      "link_id": "c_cb2636",
       "source": "Financial Times",
-      "date": "2026-07-06",
+      "date": "2026-07-07",
+      "time": "06:00",
+      "summary": "La inversió apunta a aconseguir energia neta amb tecnologia de fusió avançada."
+    },
+    {
+      "title": "Els models d'IA xinesos guanyen terreny davant empreses nord-americanes mentre augmenten els costos d'OpenAI i Anthropic",
+      "link_id": "c_bec48a",
+      "source": "CNBC Technology",
+      "date": "2026-07-07",
+      "time": "05:00",
+      "summary": "Les noves ofertes xineses podrien canviar l'equilibri del mercat global d'IA."
+    },
+    {
+      "title": "El gran joc de Masa Son",
+      "link_id": "c_c82bb6",
+      "source": "Financial Times",
+      "date": "2026-07-07",
       "time": "04:00",
-      "summary": "Els costos elevats i la competència intensa podrien impedir que OpenAI i Anthropic arriben a la borsa aquest any."
+      "summary": "El fundador de SoftBank aposta tot al sector de la intel·ligència artificial."
     },
     {
-      "title": "Son aposta tot a la IA",
-      "link_id": "c_1a4c3e",
+      "title": "L'empresa de ulleres intel·ligents xineses d'un veterà d'Apple es converteix en unicorn amb finançament de Tencent i Meituan",
+      "link_id": "c_113942",
+      "source": "CNBC Technology",
+      "date": "2026-07-07",
+      "time": "00:45",
+      "summary": "El projecte busca portar la IA personal a dispositius portàtils de consum massiu."
+    },
+    {
+      "title": "Alibaba prohibeix l'ús d'Anthropic AI per als empleats després d'una acusació d'atac de destil·lació",
+      "link_id": "c_d10aa2",
+      "source": "CNBC Technology",
+      "date": "2026-07-06",
+      "time": "21:26",
+      "summary": "L'empresa classifica el model com a alt risc per possibles vulnerabilitats de seguretat."
+    },
+    {
+      "title": "Honeywell crea una filial d'IA amb acord de 14,5 mil milions per Element",
+      "link_id": "c_3fe58b",
       "source": "Financial Times",
       "date": "2026-07-06",
-      "time": "04:00",
-      "summary": "El famós inversor Son concentra la seva fortuna en empreses d'IA, generant preocupació per un possible monopoli."
+      "time": "20:24",
+      "summary": "L'operació forma una empresa de materials avançats amb valor combinat de 29 mil milions."
     },
     {
-      "title": "Impuls de Londres cap a la sobirania de la IA",
-      "link_id": "c_ba7325",
+      "title": "Fons d'inversió dirigit per un antic investigador d'OpenAI aposta per l'IPO nord-americana de SK Hynix",
+      "link_id": "c_f7443f",
       "source": "Financial Times",
       "date": "2026-07-06",
-      "time": "04:00",
-      "summary": "Londres busca reduir la dependència dels EUA en IA, però encara es veu com una extensió americana."
+      "time": "18:08",
+      "summary": "L'estratègia busca aprofitar el creixement del mercat de memòries de Corea del Sud."
     },
     {
-      "title": "El sistema de racks d'IA de nova generació de Nvidia es retarda fins al 2028 per problemes de fabricació, segons SemiAnalysis",
+      "title": "El sistema de racks d'IA de nova generació de Nvidia es retarda fins al 2028 per problemes de fabricació",
       "link_id": "c_10045a",
       "source": "CNBC Technology",
       "date": "2026-07-06",
-      "time": "03:21",
-      "summary": "Problemes de producció retardaran el nou rack d'IA de Nvidia fins al 2028, afectant les expectatives del sector."
+      "time": "17:26",
+      "summary": "El retard posa en dubte la capacitat de Nvidia per mantenir el ritme de llançaments anuals."
     },
     {
-      "title": "El regulador del Regne Unit adverteix d'una 'cursa d'armes' per seguir el ritme de l'ús de la IA en serveis financers",
-      "link_id": "c_ef7d2e",
-      "source": "Financial Times",
-      "date": "2026-07-05",
-      "time": "21:00",
-      "summary": "La FCA alerta que la competència en IA financera podria desencadenar una carrera d'armes reguladores."
-    },
-    {
-      "title": "Els centres de dades són una prova crucial de la determinació industrial dels EUA",
-      "link_id": "c_87b4bc",
-      "source": "Financial Times",
-      "date": "2026-07-05",
-      "time": "15:00",
-      "summary": "Els centres de dades es converteixen en indicador clau de la capacitat industrial americana per a la IA."
+      "title": "Klarna busca una llicència bancària nord-americana en el seu últim intent d'ampliar més enllà del model compra ara, paga després",
+      "link_id": "c_fca3b2",
+      "source": "CNBC Technology",
+      "date": "2026-07-06",
+      "time": "15:36",
+      "summary": "L'empresa vol integrar serveis bancaris tradicionals per reforçar la seva oferta financera global."
     }
   ]
 }

@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-07-06T09:01",
+  "generated_at": "2026-07-07T10:30",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "El iPhone plegable d'Apple podria tenir escassa disponibilitat en el seu llançament",
-      "link_id": "c_5a3e6b",
+      "title": "Xbox elimina 3.200 empleats i tanca 4 estudis en el 'Reset' de l'estratègia de jocs de Microsoft",
+      "link_id": "c_f9f9ac",
+      "source": "CNET",
+      "date": "2026-07-06",
+      "time": "23:08",
+      "summary": "Microsoft redueix la plantilla d'Xbox, afectant 3.200 treballadors i quatre estudis de desenvolupament."
+    },
+    {
+      "title": "Apple finalment permet que el Siri soni com vols",
+      "link_id": "c_a825d4",
+      "source": "Digital Trends",
+      "date": "2026-07-07",
+      "time": "06:39",
+      "summary": "Siri ara permet ajustar el to i la velocitat de parla segons les preferències de l'usuari."
+    },
+    {
+      "title": "Google comptarà totes les còpies de seguretat d'Android cap a la teva quota d'emmagatzematge",
+      "link_id": "c_7cf7f2",
       "source": "Engadget",
       "date": "2026-07-06",
-      "time": "08:11",
-      "summary": "Llançament limitat podria deixar molts consumidors sense el nou iPhone doble pantalla."
+      "time": "22:09",
+      "summary": "Google inclourà les còpies de seguretat d'Android en el límit d'emmagatzematge del compte."
     },
     {
-      "title": "El iPhone plegable d'Apple podria arribar aquest tardor, però serà difícil aconseguir-ne un",
-      "link_id": "c_0ae67d",
+      "title": "iOS 27 beta 3 facilita l'ajust de la intensitat d'Audio Adaptatiu dels teus AirPods",
+      "link_id": "c_0c734d",
       "source": "Digital Trends",
-      "date": "2026-07-05",
-      "time": "20:50",
-      "summary": "Llançament tardor amb demanda alta farà que sigui complicat comprar-lo."
+      "date": "2026-07-07",
+      "time": "07:03",
+      "summary": "La nova beta facilita la configuració de l'Audio Adaptatiu per millorar l'experiència auditiva."
     },
     {
-      "title": "Informe: l'iPhone Ultra tindrà una disponibilitat extremadament limitada al llançament, pot arribar una mica més tard",
-      "link_id": "c_f12edf",
-      "source": "9to5Mac",
-      "date": "2026-07-05",
-      "time": "20:38",
-      "summary": "Llançament amb pocs exemplars; possibles retards en les entregues."
+      "title": "El primer atac de ransomware operat per IA encara necessitava un humà",
+      "link_id": "c_489d04",
+      "source": "TechCrunch",
+      "date": "2026-07-06",
+      "time": "23:56",
+      "summary": "Un agent d'IA va executar un atac ransomware complet, però un humà encara va triar la víctima."
     },
     {
-      "title": "L'«iPhone Ultra» probablement repetirà la història de l'iPhone X",
-      "link_id": "c_f39ed8",
-      "source": "MacRumors",
-      "date": "2026-07-05",
-      "time": "17:28",
-      "summary": "Es preveu una demanda alta i retards similars a l'iPhone X."
+      "title": "Inversors EUA podran accedir a SK Hynix, nou fabricant de memòria impulsat per IA",
+      "link_id": "c_a05d14",
+      "source": "TechCrunch",
+      "date": "2026-07-06",
+      "time": "23:21",
+      "summary": "SK Hynix planeja una IPO als EUA, impulsada pel creixement de la intel·ligència artificial."
     },
     {
-      "title": "Mai he estat més preocupat pel futur de Google Home",
-      "link_id": "c_4513ff",
-      "source": "Android Authority",
+      "title": "Bookshop.org anuncia suport per a eReaders Kobo aquest any",
+      "link_id": "c_e44937",
+      "source": "TechCrunch",
+      "date": "2026-07-06",
+      "time": "18:12",
+      "summary": "Bookshop.org confirma que finalment oferirà suport oficial per als lectors Kobo aquest any."
+    },
+    {
+      "title": "L'agència d'espionatge canadenca va hackejar traficants de drogues i un grup de ransomware l'any passat",
+      "link_id": "c_0e23dc",
+      "source": "TechCrunch",
+      "date": "2026-07-06",
+      "time": "14:43",
+      "summary": "L'agència canadenca ha revelat operacions de ciberespionatge contra traficants i un grup de ransomware."
+    },
+    {
+      "title": "WhatsApp introdueix una funció per reservar i modificar el nom d'usuari abans del llançament complet",
+      "link_id": "c_326cc3",
+      "source": "TechCrunch",
+      "date": "2026-07-06",
+      "time": "14:15",
+      "summary": "WhatsApp introdueix una funció per reservar i modificar el nom d'usuari abans del llançament complet."
+    },
+    {
+      "title": "Even Realities arriba a una valoració de mil milions de dòlars amb finançament de Meituan i Tencent",
+      "link_id": "c_1c25c7",
+      "source": "TechCrunch",
       "date": "2026-07-06",
       "time": "09:00",
-      "summary": "Estratègia incerta de Google Home planteja dubtes sobre la seva viabilitat."
-    },
-    {
-      "title": "Com els palestins creen un arxiu digital que no es pot esborrar",
-      "link_id": "c_f11da3",
-      "source": "Wired",
-      "date": "2026-07-06",
-      "time": "09:00",
-      "summary": "Projecte preserva la història palestina amb còpies distribuïdes i seguretat cibernètica."
-    },
-    {
-      "title": "Amundi afirma que les indústries europees es beneficiaran del boom de la IA",
-      "link_id": "c_01eea5",
-      "source": "Bloomberg Technology",
-      "date": "2026-07-06",
-      "time": "08:53",
-      "summary": "Inversors veuen oportunitats en IA per al sector industrial europeu."
-    },
-    {
-      "title": "Xampú i galetes reben una renovació amb IA mentre les grans marques reinventen els seus laboratoris",
-      "link_id": "c_d93e44",
-      "source": "The Next Web",
-      "date": "2026-07-06",
-      "time": "08:38",
-      "summary": "Empreses utilitzen IA per dissenyar productes de consum més eficients."
-    },
-    {
-      "title": "Les Nacions Unides afirmen que la IA avança més ràpid que les regulacions, i ho demostra amb un informe",
-      "link_id": "c_c1314f",
-      "source": "The Next Web",
-      "date": "2026-07-06",
-      "time": "08:26",
-      "summary": "Informe alerta sobre la necessitat urgent de regulacions per a la IA."
-    },
-    {
-      "title": "La sèrie Galaxy Z Fold 8 de Samsung podria eliminar el seu gran defecte enfortint els angles de plegament",
-      "link_id": "c_c3ebff",
-      "source": "Digital Trends",
-      "date": "2026-07-06",
-      "time": "08:26",
-      "summary": "Redisseny del bisell redueix la visibilitat de la bisellada, millorant l'experiència d'ús."
+      "summary": "Even Realities obté una valoració de mil milions gràcies a una ronda de 150 milions liderada per Meituan i Tencent."
     }
   ]
 }
