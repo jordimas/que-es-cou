@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-07-07T10:30",
+  "generated_at": "2026-07-08T09:30",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Xbox elimina 3.200 empleats i tanca 4 estudis en el 'Reset' de l'estratègia de jocs de Microsoft",
-      "link_id": "c_f9f9ac",
-      "source": "CNET",
-      "date": "2026-07-06",
-      "time": "23:08",
-      "summary": "Microsoft redueix la plantilla d'Xbox, afectant 3.200 treballadors i quatre estudis de desenvolupament."
-    },
-    {
-      "title": "Apple finalment permet que el Siri soni com vols",
-      "link_id": "c_a825d4",
-      "source": "Digital Trends",
+      "title": "Meta acaba de llançar un nou generador d'IA, Muse Image, i els usuaris ja protesten per l'ús de les seves fotos",
+      "link_id": "c_d031b5",
+      "source": "TechCrunch",
       "date": "2026-07-07",
-      "time": "06:39",
-      "summary": "Siri ara permet ajustar el to i la velocitat de parla segons les preferències de l'usuari."
+      "time": "22:18",
+      "summary": "Muse Image genera imatges a partir de textos, però molts usuaris es queixen que utilitza les seves fotos sense consentiment."
     },
     {
-      "title": "Google comptarà totes les còpies de seguretat d'Android cap a la teva quota d'emmagatzematge",
-      "link_id": "c_7cf7f2",
+      "title": "Claude Cowork s'amplia a mòbil i web",
+      "link_id": "c_c913b9",
+      "source": "TechCrunch",
+      "date": "2026-07-07",
+      "time": "16:27",
+      "summary": "Claude Cowork ara funciona tant en dispositius mòbils com en navegadors, permetent treballar des de qualsevol lloc."
+    },
+    {
+      "title": "L'esdeveniment Pixel de Google està programat per al 12 d'agost",
+      "link_id": "c_19a05f",
+      "source": "TechCrunch",
+      "date": "2026-07-07",
+      "time": "18:38",
+      "summary": "Google anunciarà el llançament dels nous dispositius Pixel el 12 d'agost, amb novetats de maquinari."
+    },
+    {
+      "title": "El ‘G-Wagen dels cotxes de golf’ podria ser el segon cotxe ideal",
+      "link_id": "c_ebfd4f",
+      "source": "The Verge",
+      "date": "2026-07-07",
+      "time": "17:52",
+      "summary": "Un cotxe de golf amb disseny robust i gran capacitat, ideal com a vehicle secundari."
+    },
+    {
+      "title": "Les ulleres de Meta desactivaran la càmera si es manipula la llum de privacitat",
+      "link_id": "c_d9cf43",
+      "source": "The Verge",
+      "date": "2026-07-08",
+      "time": "23:55",
+      "summary": "Les ulleres de Meta apagaran la càmera quan la llum de privacitat sigui alterada o trencada."
+    },
+    {
+      "title": "Microsoft planeja reduir costos tancant 3.200 llocs de treball al sector Xbox",
+      "link_id": "c_51f520",
+      "source": "PCWorld",
+      "date": "2026-07-07",
+      "time": "12:00",
+      "summary": "Microsoft planeja reduir costos tancant 3.200 llocs de treball al sector Xbox."
+    },
+    {
+      "title": "El fabricant de xips d'IA SambaNova recull 1.000 milions de dòlars amb una valoració de 11.000 milions, cinc mesos després de l'última ronda",
+      "link_id": "c_6707d7",
+      "source": "TechCrunch",
+      "date": "2026-07-08",
+      "time": "07:16",
+      "summary": "SambaNova ha recaptat mil milions de dòlars, elevant la seva valoració a 11.000 milions."
+    },
+    {
+      "title": "Meta afirma que desactivarà la càmera de les seves ulleres si es manipula el LED d'enregistrament",
+      "link_id": "c_6c3a28",
       "source": "Engadget",
-      "date": "2026-07-06",
-      "time": "22:09",
-      "summary": "Google inclourà les còpies de seguretat d'Android en el límit d'emmagatzematge del compte."
+      "date": "2026-07-08",
+      "time": "06:44",
+      "summary": "Meta desactivarà la càmera de les seves ulleres si es manipula el LED d'enregistrament."
     },
     {
-      "title": "iOS 27 beta 3 facilita l'ajust de la intensitat d'Audio Adaptatiu dels teus AirPods",
-      "link_id": "c_0c734d",
-      "source": "Digital Trends",
+      "title": "El nou estàndard de vídeo d'Android 17 podria fer que els vídeos HDR molestos siguin cosa del passat",
+      "link_id": "c_35fadb",
+      "source": "Android Authority",
+      "date": "2026-07-08",
+      "time": "06:30",
+      "summary": "Android 17 introdueix un estàndard de vídeo que redueix la brillantor excessiva dels HDR."
+    },
+    {
+      "title": "Segons informes, Xbox volia 77 milions d'abonats a Game Pass. Actualment en té només 30 milions",
+      "link_id": "c_259601",
+      "source": "Bloomberg Technology",
       "date": "2026-07-07",
-      "time": "07:03",
-      "summary": "La nova beta facilita la configuració de l'Audio Adaptatiu per millorar l'experiència auditiva."
-    },
-    {
-      "title": "El primer atac de ransomware operat per IA encara necessitava un humà",
-      "link_id": "c_489d04",
-      "source": "TechCrunch",
-      "date": "2026-07-06",
-      "time": "23:56",
-      "summary": "Un agent d'IA va executar un atac ransomware complet, però un humà encara va triar la víctima."
-    },
-    {
-      "title": "Inversors EUA podran accedir a SK Hynix, nou fabricant de memòria impulsat per IA",
-      "link_id": "c_a05d14",
-      "source": "TechCrunch",
-      "date": "2026-07-06",
-      "time": "23:21",
-      "summary": "SK Hynix planeja una IPO als EUA, impulsada pel creixement de la intel·ligència artificial."
-    },
-    {
-      "title": "Bookshop.org anuncia suport per a eReaders Kobo aquest any",
-      "link_id": "c_e44937",
-      "source": "TechCrunch",
-      "date": "2026-07-06",
-      "time": "18:12",
-      "summary": "Bookshop.org confirma que finalment oferirà suport oficial per als lectors Kobo aquest any."
-    },
-    {
-      "title": "L'agència d'espionatge canadenca va hackejar traficants de drogues i un grup de ransomware l'any passat",
-      "link_id": "c_0e23dc",
-      "source": "TechCrunch",
-      "date": "2026-07-06",
-      "time": "14:43",
-      "summary": "L'agència canadenca ha revelat operacions de ciberespionatge contra traficants i un grup de ransomware."
-    },
-    {
-      "title": "WhatsApp introdueix una funció per reservar i modificar el nom d'usuari abans del llançament complet",
-      "link_id": "c_326cc3",
-      "source": "TechCrunch",
-      "date": "2026-07-06",
-      "time": "14:15",
-      "summary": "WhatsApp introdueix una funció per reservar i modificar el nom d'usuari abans del llançament complet."
-    },
-    {
-      "title": "Even Realities arriba a una valoració de mil milions de dòlars amb finançament de Meituan i Tencent",
-      "link_id": "c_1c25c7",
-      "source": "TechCrunch",
-      "date": "2026-07-06",
-      "time": "09:00",
-      "summary": "Even Realities obté una valoració de mil milions gràcies a una ronda de 150 milions liderada per Meituan i Tencent."
+      "time": "22:21",
+      "summary": "Xbox només té 30 milions d'usuaris Game Pass, molt per sota de l'objectiu de 77 milions."
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T10:30",
+  "generated_at": "2026-07-08T09:00",
   "id": "podcasts",
   "title": "Podcasts en català sobre tecnologia",
   "sources_checked": [],
@@ -10,39 +10,39 @@
       "source": "Mossega la poma",
       "date": "2026-06-29",
       "time": "15:18",
-      "summary": "Analitzem l'impacte dels nous preus d'Apple en Macs i iPads, i com afecta els usuaris."
+      "summary": "Analitzem l'augment de preus d'Apple i les seves repercussions en Macs i iPads."
     },
     {
       "title": "L' Altra Ràdio - Usos curiosos de la intel·ligència artificial",
       "link_id": "c_b9ce40",
       "source": "L'altra ràdio",
       "date": "2026-07-02",
-      "time": "07:33",
-      "summary": "Descobrim aplicacions inesperades d'IA, des de traduir sons d'animals fins a generar art creatiu."
+      "time": "14:33",
+      "summary": "Descobrim aplicacions inesperades d'IA, des de traduir sons d'animals fins a generar prompts creatius."
     },
     {
       "title": "L' Altra Ràdio - La intel·ligència artificial i la cacera de bolets",
       "link_id": "c_586653",
       "source": "L'altra ràdio",
       "date": "2026-06-25",
-      "time": "07:33",
-      "summary": "Explorem com ChatGPT ajuda a identificar bolets a la muntanya, mostrant un exemple pràctic d'IA."
+      "time": "14:33",
+      "summary": "Explorem com ChatGPT ajuda a identificar bolets a la muntanya, mostrant l'IA en la natura."
     },
     {
       "title": "El gòTIC - Tenim una missió! del 1/7/2026",
       "link_id": "c_05403e",
       "source": "El Gòtic",
       "date": "2026-06-30",
-      "time": "16:29",
+      "time": "23:29",
       "summary": "Presentem recursos digitals per a la ciutadania, enfocats a resoldre reptes tecnològics actuals."
     },
     {
       "title": "El gòTIC - Tenim una missió! del 24/6/2026",
       "link_id": "c_493f69",
       "source": "El Gòtic",
-      "date": "2026-06-23",
-      "time": "16:29",
-      "summary": "Compartim estratègies per a la transformació digital, ajudant administracions locals a innovar."
+      "date": "2026-06-24",
+      "time": "23:29",
+      "summary": "Compartim estratègies per a la transformació digital i la participació ciutadana en temes tecnològics."
     },
     {
       "title": "N'IA per llogar-hi cadires, amb David Poblador",
@@ -50,7 +50,7 @@
       "source": "Foc a Terra",
       "date": "2026-07-06",
       "time": "04:00",
-      "summary": "Debatem l'ús d'IA per optimitzar lloguers de cadires, mostrant casos reals i beneficis."
+      "summary": "Debatem l'ús d'IA per optimitzar lloguers de cadires, mostrant casos pràctics i beneficis."
     },
     {
       "title": "Superagent Llados",
@@ -58,7 +58,7 @@
       "source": "Foc a Terra",
       "date": "2026-06-29",
       "time": "04:00",
-      "summary": "Analitzem com l'IA autònoma pot impulsar negocis sense empleats, amb exemples de Claude."
+      "summary": "Explorem agents IA que gestionen negocis massius, i com Claude augmenta la productivitat."
     },
     {
       "title": "Diem adéu a l'editor clàssic",
@@ -66,15 +66,7 @@
       "source": "WordPress Pòdcast",
       "date": "2026-06-30",
       "time": "00:00",
-      "summary": "Expliquem la transició cap a l'editor de blocs i el futur de l'editor clàssic."
-    },
-    {
-      "title": "L'equip de WordPress 7.1 i tot el que vindrà",
-      "link_id": "c_74cefe",
-      "source": "WordPress Pòdcast",
-      "date": "2026-06-23",
-      "time": "00:00",
-      "summary": "Presentem les novetats de la versió 7.1 i la visió del proper desenvolupament."
+      "summary": "Analitzem la transició cap a l'editor de blocs i el futur de l'editor clàssic a WordPress."
     },
     {
       "title": "Capítol 68: Tendios o com superar la burocràcia del sector públic",
@@ -82,7 +74,7 @@
       "source": "RAC&GO",
       "date": "2026-06-30",
       "time": "06:00",
-      "summary": "Descobrim solucions IA de Tendios per agilitzar processos administratius i impulsar emprenedoria pública."
+      "summary": "Descobrim com l'IA de Tendios simplifica processos administratius i impulsa oportunitats de negoci."
     }
   ]
 }

@@ -1,24 +1,16 @@
 {
-  "generated_at": "2026-07-07T08:30",
+  "generated_at": "2026-07-08T07:30",
   "id": "events",
   "title": "Trobades",
   "sources_checked": [],
   "articles": [
-    {
-      "title": "BarcelonaJS x MongoDB Meetup",
-      "link_id": "c_b4c7a6",
-      "source": "BarcelonaJS",
-      "date": "2026-06-22",
-      "time": "14:36",
-      "summary": "Descobreix com MongoDB integra IA en dashboards flexibles, ideal per desenvolupadors full‑stack."
-    },
     {
       "title": "Google AI Professional Certificate - Weekend Intensive Day 1 of 2",
       "link_id": "c_527211",
       "source": "AI Professionals Barcelona",
       "date": "2026-06-27",
       "time": "03:46",
-      "summary": "Intensiu cap a la certificació Google AI amb tallers pràctics de generació de contingut i anàlisi de dades."
+      "summary": "Intensiu de dos dies per obtenir la certificació Google AI, amb tallers pràctics i sessions en viu."
     },
     {
       "title": "Google AI Professional Certificate - Weekend Intensive Day 2 of 2",
@@ -26,15 +18,7 @@
       "source": "AI Professionals Barcelona",
       "date": "2026-06-27",
       "time": "08:08",
-      "summary": "Segona jornada aprofundint en aplicacions IA, des de creació de contingut fins al desenvolupament d’aplicacions."
-    },
-    {
-      "title": "\"How to Win Friends & Influence People\" - empowered learning",
-      "link_id": "c_0c90fb",
-      "source": "AI Professionals Barcelona",
-      "date": "2026-06-22",
-      "time": "21:49",
-      "summary": "Taller online que combina principis clàssics de relacions amb aprenentatge personalitzat impulsat per IA."
+      "summary": "Segona jornada del intensiu de certificació Google AI, enfocada a creació de contingut i anàlisi de dades."
     }
   ]
 }

@@ -1,26 +1,16 @@
 {
-  "generated_at": "2026-07-07T10:30",
+  "generated_at": "2026-07-08T09:30",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
-    {
-      "name": "El Punt Avui",
-      "url": "https://www.elpuntavui.cat/barcelona.feed?type=rss",
-      "articles_found": 1
-    },
-    {
-      "name": "La Vanguardia (en català)",
-      "url": "https://www.lavanguardia.com/rss/encatala.xml",
-      "articles_found": 1
-    },
     {
       "name": "Ara.cat",
       "url": "https://www.ara.cat/rss/",
       "articles_found": 3
     },
     {
-      "name": "324.cat",
-      "url": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0",
+      "name": "La Vanguardia (en català)",
+      "url": "https://www.lavanguardia.com/rss/encatala.xml",
       "articles_found": 1
     },
     {
@@ -29,24 +19,29 @@
       "articles_found": 1
     },
     {
-      "name": "Via Empresa",
-      "url": "https://www.viaempresa.cat/uploads/feeds/feed_via-empresa-2024_ca.xml",
+      "name": "MetaData",
+      "url": "https://www.metadata.cat/sindica",
       "articles_found": 2
     },
     {
-      "name": "Segre",
-      "url": "https://www.segre.com/ca/rss/home.xml",
+      "name": "El Mon.cat",
+      "url": "https://www.elmon.cat/feed/",
+      "articles_found": 2
+    },
+    {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/barcelona.feed?type=rss",
       "articles_found": 1
     }
   ],
   "articles": [
     {
-      "title": "Catalunya crearà un “núvol sobirà” per allotjar dades i serveis estratègics de l’administració",
-      "link_id": "c_368276",
-      "source": "El Punt Avui",
+      "title": "La Generalitat invertirà 481 milions en un núvol públic sobirà per garantir l'autonomia digital",
+      "link_id": "c_2874ce",
+      "source": "Ara.cat",
       "date": "2026-07-07",
-      "time": "09:38",
-      "summary": "El govern aposta 481 M€ per crear un núvol sobirà que protegirà dades públiques i reduirà la dependència estrangera."
+      "time": "09:15",
+      "summary": "El nou núvol sobirà reforçarà la sobirania digital catalana, reduint dependència d'empreses estrangeres."
     },
     {
       "title": "Microsoft anuncia l’acomiadament de 4.800 empleats de la divisió de Xbox",
@@ -54,7 +49,55 @@
       "source": "La Vanguardia (en català)",
       "date": "2026-07-07",
       "time": "09:15",
-      "summary": "Microsoft retalla 4.800 llocs a Xbox, reflectint l’impacte de la IA en la indústria del videojoc."
+      "summary": "L'acomiadament massiu a Xbox afecta milers, evidenciant l'impacte de la IA en el sector videojocs."
+    },
+    {
+      "title": "Fins al 56% de les dones han patit violència masclista a través de mitjans tecnològics",
+      "link_id": "c_008ccc",
+      "source": "IB3 Notícies",
+      "date": "2026-07-07",
+      "time": "19:10",
+      "summary": "Més de la meitat de les dones pateixen violència masclista digital, requerint mesures de protecció en línia."
+    },
+    {
+      "title": "Reportatge: RepScan, la ‘legaltech’ catalana que vol convertir l’eliminació de continguts nocius en un nou estàndard digital",
+      "link_id": "c_760e63",
+      "source": "MetaData",
+      "date": "2026-07-07",
+      "time": "16:30",
+      "summary": "RepScan ofereix solucions per eliminar continguts nocius, establint un nou estàndard de seguretat digital."
+    },
+    {
+      "title": "Homming impulsa una nova etapa en la gestió del lloguer amb IA aplicada a l’operativa diària",
+      "link_id": "c_a51976",
+      "source": "El Mon.cat",
+      "date": "2026-07-07",
+      "time": "16:14",
+      "summary": "Homming introdueix IA per optimitzar gestió de lloguers, reduint tasques manuals i millorant decisions."
+    },
+    {
+      "title": "Quantum Labs instal·larà a la Universitat de Màlaga l’ordinador quàntic més gran d’Europa, amb 431 qubits, una inversió de 50 milions i més de 100 enginyers",
+      "link_id": "c_d71f01",
+      "source": "El Mon.cat",
+      "date": "2026-07-07",
+      "time": "16:10",
+      "summary": "Quantum Labs instal·larà a Màlaga el superordinador de 431 qubits, impulsant la recerca europea."
+    },
+    {
+      "title": "Catalunya inverteix 3 milions d’euros en BIM i IA per accelerar les llicències d’obres",
+      "link_id": "c_43138e",
+      "source": "MetaData",
+      "date": "2026-07-06",
+      "time": "10:08",
+      "summary": "La Generalitat aposta per BIM i IA, prometent reduir fins a la meitat els terminis d'obres."
+    },
+    {
+      "title": "L'alternativa catalana als generadors dièsel que \"ven resiliència\" contra les apagades",
+      "link_id": "c_0fd7cf",
+      "source": "Ara.cat",
+      "date": "2026-07-04",
+      "time": "11:00",
+      "summary": "Nova solució catalana de generadors dièsel ofereix resiliència energètica davant apagades prolongades."
     },
     {
       "title": "La IA, una realitat en auge als despatxos professionals",
@@ -62,63 +105,15 @@
       "source": "Ara.cat",
       "date": "2026-07-04",
       "time": "21:59",
-      "summary": "Set de cada deu despatxos professionals ja utilitzen IA, impulsant eficiència i transformació digital en el sector legal."
+      "summary": "Set de cada deu despatxos ja utilitzen IA, millorant eficiència i reduint errors administratius."
     },
     {
-      "title": "Quina és la millor IA en català i com tenir-ne una de privada a casa",
-      "link_id": "c_c13377",
-      "source": "324.cat",
-      "date": "2026-07-06",
-      "time": "06:46",
-      "summary": "Softcatalà recomana una IA gratuïta i privada per a usuaris catalans, garantint seguretat i autonomia de dades."
-    },
-    {
-      "title": "L’Hospital Son Llàtzer incorpora un nou sistema robotitzat per a la dispensació de medicaments",
-      "link_id": "c_742fd7",
-      "source": "IB3 Notícies",
-      "date": "2026-07-06",
-      "time": "13:58",
-      "summary": "L'Hospital Son Llàtzer implementa robots per dispensar medicaments, accelerant la seguretat i l'eficiència farmacèutica."
-    },
-    {
-      "title": "El Govern estrena un pla pilot amb drons per prevenir riscos laborals en episodis de calor extrema",
-      "link_id": "c_0a8fa5",
-      "source": "Via Empresa",
-      "date": "2026-07-06",
-      "time": "13:48",
-      "summary": "El Govern llança pilot amb drons per monitoritzar treballadors en calor extrema, millorant la prevenció d'incidents laborals."
-    },
-    {
-      "title": "La catalana Luxquanta coordina 'Quarternext', un projecte europeu contra l'amenaça quàntica",
-      "link_id": "c_76f95d",
-      "source": "Via Empresa",
-      "date": "2026-07-06",
-      "time": "12:27",
-      "summary": "Luxquanta coordina Quarternext, projecte europeu per avançar la criptografia quàntica i reforçar la seguretat digital."
-    },
-    {
-      "title": "La IA, poc verificada pels alumnes",
-      "link_id": "c_b5d32f",
-      "source": "Segre",
-      "date": "2026-07-06",
-      "time": "19:20",
-      "summary": "Estudi revela que només un 10 % d’estudiants comprova la informació generada per IA, exposant riscos educatius."
-    },
-    {
-      "title": "Els bancs s'adonen que tenen clients",
-      "link_id": "c_1d5fa2",
-      "source": "Ara.cat",
-      "date": "2026-07-05",
-      "time": "05:56",
-      "summary": "Els bancs catalans reconeixen la necessitat de recuperar clients, impulsant serveis digitals per revitalitzar la relació."
-    },
-    {
-      "title": "Grifols es prepara per fer el salt a Wall Street",
-      "link_id": "c_c1a449",
-      "source": "Ara.cat",
-      "date": "2026-07-06",
-      "time": "05:00",
-      "summary": "Grifols avança cap a la borsa nord-americana, buscant expandir el seu negoci de biofarmàcia a nivell global."
+      "title": "Neix Barça Play",
+      "link_id": "c_6493c1",
+      "source": "El Punt Avui",
+      "date": "2026-07-08",
+      "time": "02:00",
+      "summary": "Barça llança Barça Play, una plataforma digital exclusiva per a socis i aficionats."
     }
   ]
 }
