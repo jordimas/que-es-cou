@@ -1,16 +1,56 @@
 {
-  "generated_at": "2026-07-08T07:30",
+  "generated_at": "2026-07-10T09:51",
   "id": "videos",
   "title": "Vídeos en català sobre tecnologia",
   "sources_checked": [],
   "articles": [
+    {
+      "title": "la IA després de la mandra: atracció i escepticisme",
+      "link_id": "c_1f02cb",
+      "source": "Albert Lloreta",
+      "date": "2026-07-09",
+      "time": "16:46",
+      "summary": "Explora com la intel·ligència artificial atrau i genera dubtes en una era de passivitat digital."
+    },
     {
       "title": "A què hem estat jugant aquest juny",
       "link_id": "c_36f78d",
       "source": "Catalunya PlayStation",
       "date": "2026-06-30",
       "time": "21:39",
-      "summary": "Recapitulació de jocs jugats al juny, amb anàlisi de tendències i moments destacats."
+      "summary": "Revisió dels jocs més destacats del juny, amb anàlisi de tendències i novetats catalanes."
+    },
+    {
+      "title": "Pixelats vs. DEMOLISH FIST!! 🤜🤛",
+      "link_id": "c_518185",
+      "source": "Pixelats",
+      "date": "2026-06-12",
+      "time": "10:00",
+      "summary": "Enfrontament èpic entre Pixelats i DEMOLISH FIST, mostrant habilitats i humor en temps real."
+    },
+    {
+      "title": "Els Putxinel·lis - Capítol 11 - Retrobaments",
+      "link_id": "c_13c1be",
+      "source": "Pixelats",
+      "date": "2026-06-12",
+      "time": "10:00",
+      "summary": "Capítol 11 revela retrobaments inesperats que canvien la dinàmica de la sèrie Putxinel·lis."
+    },
+    {
+      "title": "Cobertura STATE OF PLAY - Juny 2026 (NO) E3",
+      "link_id": "c_41a62a",
+      "source": "3D Nassos",
+      "date": "2026-06-06",
+      "time": "18:13",
+      "summary": "Cobertura completa del State of Play de juny, amb novetats i rumors del sector videojoc."
+    },
+    {
+      "title": "🔴 [NTH] Nintendo Direct en català! (09/06/26) 🔴",
+      "link_id": "c_332f37",
+      "source": "Nintenhype.cat",
+      "date": "2026-06-09",
+      "time": "23:16",
+      "summary": "Nintendo Direct en català presenta les últimes revelacions i estratègies per a la Switch 2."
     },
     {
       "title": "🎙️Lúdica #56 - Jocs reflexius, zen i lents (amb Víctor Navarro-Remesal)",
@@ -18,7 +58,7 @@
       "source": "Lúdica (Vídeos)",
       "date": "2026-06-30",
       "time": "16:42",
-      "summary": "Entrevista sobre jocs que fomenten la calma i la reflexió, amb exemples pràctics."
+      "summary": "Entrevista sobre jocs reflexius i experiències zen, explorant el ritme lent del gaming."
     }
   ]
 }

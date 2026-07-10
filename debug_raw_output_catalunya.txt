@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-08T09:30",
+  "generated_at": "2026-07-10T12:00",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
     {
-      "name": "Ara.cat",
-      "url": "https://www.ara.cat/rss/",
-      "articles_found": 3
+      "name": "MetaData",
+      "url": "https://www.metadata.cat/sindica",
+      "articles_found": 1
     },
     {
       "name": "La Vanguardia (en català)",
@@ -14,106 +14,106 @@
       "articles_found": 1
     },
     {
-      "name": "IB3 Notícies",
-      "url": "https://ib3.org/feed/",
+      "name": "El Periódico",
+      "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
+      "articles_found": 3
+    },
+    {
+      "name": "Via Empresa",
+      "url": "https://www.viaempresa.cat/uploads/feeds/feed_via-empresa-2024_ca.xml",
+      "articles_found": 3
+    },
+    {
+      "name": "Ara.cat",
+      "url": "https://www.ara.cat/rss/",
       "articles_found": 1
     },
     {
-      "name": "MetaData",
-      "url": "https://www.metadata.cat/sindica",
-      "articles_found": 2
-    },
-    {
-      "name": "El Mon.cat",
-      "url": "https://www.elmon.cat/feed/",
-      "articles_found": 2
-    },
-    {
-      "name": "El Punt Avui",
-      "url": "https://www.elpuntavui.cat/barcelona.feed?type=rss",
+      "name": "VilaWeb",
+      "url": "https://www.vilaweb.cat/feed/",
       "articles_found": 1
     }
   ],
   "articles": [
     {
-      "title": "La Generalitat invertirà 481 milions en un núvol públic sobirà per garantir l'autonomia digital",
-      "link_id": "c_2874ce",
-      "source": "Ara.cat",
+      "title": "Catalunya invertirà 481 milions d’euros en un núvol públic sobirà per reforçar l’autonomia digital",
+      "link_id": "c_76b897",
+      "source": "MetaData",
       "date": "2026-07-07",
-      "time": "09:15",
-      "summary": "El nou núvol sobirà reforçarà la sobirania digital catalana, reduint dependència d'empreses estrangeres."
+      "time": "09:25",
+      "summary": "El govern aposta per un núvol sobirà, reduint la dependència dels grans proveïdors americans."
     },
     {
-      "title": "Microsoft anuncia l’acomiadament de 4.800 empleats de la divisió de Xbox",
-      "link_id": "c_a36321",
+      "title": "VW planteja reduir fins a un 50% la gamma de models i retallar producció",
+      "link_id": "c_cf7bf9",
       "source": "La Vanguardia (en català)",
-      "date": "2026-07-07",
-      "time": "09:15",
-      "summary": "L'acomiadament massiu a Xbox afecta milers, evidenciant l'impacte de la IA en el sector videojocs."
+      "date": "2026-07-10",
+      "time": "08:33",
+      "summary": "Volkswagen talla meitat de models i baixa la producció per adaptar-se al mercat global."
     },
     {
-      "title": "Fins al 56% de les dones han patit violència masclista a través de mitjans tecnològics",
-      "link_id": "c_008ccc",
-      "source": "IB3 Notícies",
-      "date": "2026-07-07",
-      "time": "19:10",
-      "summary": "Més de la meitat de les dones pateixen violència masclista digital, requerint mesures de protecció en línia."
+      "title": "La Unió Europea autoritza les plataformes a escanejar missatges privats dels usuaris contra l’abús sexual infantil",
+      "link_id": "c_1b1cbd",
+      "source": "El Periódico",
+      "date": "2026-07-09",
+      "time": "13:20",
+      "summary": "Les xarxes podran analitzar missatges per protegir infants, generant debat sobre privacitat."
     },
     {
-      "title": "Reportatge: RepScan, la ‘legaltech’ catalana que vol convertir l’eliminació de continguts nocius en un nou estàndard digital",
-      "link_id": "c_760e63",
-      "source": "MetaData",
-      "date": "2026-07-07",
-      "time": "16:30",
-      "summary": "RepScan ofereix solucions per eliminar continguts nocius, establint un nou estàndard de seguretat digital."
+      "title": "El metro de Barcelona registra 44,8 milions de viatgers al maig, un rècord per aquest mes",
+      "link_id": "c_49aa81",
+      "source": "Via Empresa",
+      "date": "2026-07-10",
+      "time": "10:06",
+      "summary": "El metro bat rècord de viatgers, mostrant augment de mobilitat urbana postpandèmia."
     },
     {
-      "title": "Homming impulsa una nova etapa en la gestió del lloguer amb IA aplicada a l’operativa diària",
-      "link_id": "c_a51976",
-      "source": "El Mon.cat",
-      "date": "2026-07-07",
-      "time": "16:14",
-      "summary": "Homming introdueix IA per optimitzar gestió de lloguers, reduint tasques manuals i millorant decisions."
+      "title": "Endesa ja suma 1.540 punts de recàrrega de vehicles elèctrics a Catalunya, un 14% més",
+      "link_id": "c_f96971",
+      "source": "Via Empresa",
+      "date": "2026-07-09",
+      "time": "12:55",
+      "summary": "Endesa amplia la xarxa de recàrregues, impulsant la transició cap a vehicles elèctrics."
     },
     {
-      "title": "Quantum Labs instal·larà a la Universitat de Màlaga l’ordinador quàntic més gran d’Europa, amb 431 qubits, una inversió de 50 milions i més de 100 enginyers",
-      "link_id": "c_d71f01",
-      "source": "El Mon.cat",
-      "date": "2026-07-07",
-      "time": "16:10",
-      "summary": "Quantum Labs instal·larà a Màlaga el superordinador de 431 qubits, impulsant la recerca europea."
+      "title": "Les 'spin-off' del BSC-CNS capten 100 milions d’inversió privada",
+      "link_id": "c_68d91f",
+      "source": "Via Empresa",
+      "date": "2026-07-10",
+      "time": "09:50",
+      "summary": "Les noves empreses del BSC atrauen cent milions, generant més de 600 llocs d'alta qualificació."
     },
     {
-      "title": "Catalunya inverteix 3 milions d’euros en BIM i IA per accelerar les llicències d’obres",
-      "link_id": "c_43138e",
-      "source": "MetaData",
-      "date": "2026-07-06",
-      "time": "10:08",
-      "summary": "La Generalitat aposta per BIM i IA, prometent reduir fins a la meitat els terminis d'obres."
+      "title": "El Cruïlla es transforma en un laboratori ciutadà per experimentar amb IA",
+      "link_id": "c_12e44b",
+      "source": "El Periódico",
+      "date": "2026-07-10",
+      "time": "10:06",
+      "summary": "El festival ofereix espais per provar i validar projectes d’intel·ligència artificial amb el públic."
     },
     {
-      "title": "L'alternativa catalana als generadors dièsel que \"ven resiliència\" contra les apagades",
-      "link_id": "c_0fd7cf",
-      "source": "Ara.cat",
-      "date": "2026-07-04",
-      "time": "11:00",
-      "summary": "Nova solució catalana de generadors dièsel ofereix resiliència energètica davant apagades prolongades."
-    },
-    {
-      "title": "La IA, una realitat en auge als despatxos professionals",
-      "link_id": "c_aced86",
-      "source": "Ara.cat",
-      "date": "2026-07-04",
-      "time": "21:59",
-      "summary": "Set de cada deu despatxos ja utilitzen IA, millorant eficiència i reduint errors administratius."
-    },
-    {
-      "title": "Neix Barça Play",
-      "link_id": "c_6493c1",
-      "source": "El Punt Avui",
+      "title": "Meta permet que qualsevol utilitzi les teves fotos d’Instagram per generar imatges amb IA: així ho pots canviar",
+      "link_id": "c_44197c",
+      "source": "El Periódico",
       "date": "2026-07-08",
-      "time": "02:00",
-      "summary": "Barça llança Barça Play, una plataforma digital exclusiva per a socis i aficionats."
+      "time": "10:28",
+      "summary": "Meta llança Muse Image, però ofereix opcions per protegir les teves fotos d’ús no autoritzat."
+    },
+    {
+      "title": "Grifols es prepara per fer el salt a Wall Street",
+      "link_id": "c_c1a449",
+      "source": "Ara.cat",
+      "date": "2026-07-06",
+      "time": "05:00",
+      "summary": "Grifols planeja cotitzar part del seu negoci biofarmacèutic a la borsa nord-americana."
+    },
+    {
+      "title": "El 12% dels trens de Rodalia a Catalunya, fora de servei cada dia per manteniment o actes vandàlics",
+      "link_id": "c_4d82f5",
+      "source": "VilaWeb",
+      "date": "2026-07-10",
+      "time": "09:22",
+      "summary": "Un dotzè dels trens queda inactiu diàriament, afectant la mobilitat i generant queixes."
     }
   ]
 }

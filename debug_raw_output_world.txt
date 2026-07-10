@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-07-08T09:30",
+  "generated_at": "2026-07-10T11:51",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Meta acaba de llançar un nou generador d'IA, Muse Image, i els usuaris ja protesten per l'ús de les seves fotos",
-      "link_id": "c_d031b5",
-      "source": "TechCrunch",
-      "date": "2026-07-07",
-      "time": "22:18",
-      "summary": "Muse Image genera imatges a partir de textos, però molts usuaris es queixen que utilitza les seves fotos sense consentiment."
+      "title": "OpenAI llança ChatGPT Work per automatitzar tasques empresarials i amplia els models GPT‑5.6 més eficients",
+      "link_id": "c_a06db5",
+      "source": "InfoWorld",
+      "date": "2026-07-10",
+      "time": "09:17",
+      "summary": "OpenAI llança ChatGPT Work per automatitzar tasques empresarials i amplia els models GPT‑5.6 més eficients."
     },
     {
-      "title": "Claude Cowork s'amplia a mòbil i web",
-      "link_id": "c_c913b9",
-      "source": "TechCrunch",
-      "date": "2026-07-07",
-      "time": "16:27",
-      "summary": "Claude Cowork ara funciona tant en dispositius mòbils com en navegadors, permetent treballar des de qualsevol lloc."
+      "title": "ChatGPT Work pot gestionar aplicacions, fitxers i projectes complexos, millorant la productivitat empresarial",
+      "link_id": "c_550f4e",
+      "source": "Computerworld",
+      "date": "2026-07-10",
+      "time": "09:20",
+      "summary": "ChatGPT Work pot gestionar aplicacions, fitxers i projectes complexos, millorant la productivitat empresarial."
     },
     {
-      "title": "L'esdeveniment Pixel de Google està programat per al 12 d'agost",
-      "link_id": "c_19a05f",
-      "source": "TechCrunch",
-      "date": "2026-07-07",
-      "time": "18:38",
-      "summary": "Google anunciarà el llançament dels nous dispositius Pixel el 12 d'agost, amb novetats de maquinari."
+      "title": "OpenAI publica GPT‑5.6 Sol, el model més potent, després d’una demora per restriccions governamentals",
+      "link_id": "c_d78e02",
+      "source": "NYT Technology",
+      "date": "2026-07-09",
+      "time": "19:34",
+      "summary": "OpenAI publica GPT‑5.6 Sol, el model més potent, després d’una demora per restriccions governamentals."
     },
     {
-      "title": "El ‘G-Wagen dels cotxes de golf’ podria ser el segon cotxe ideal",
-      "link_id": "c_ebfd4f",
+      "title": "OpenAI declara GPT‑5.6 com el model preferit per a Microsoft Copilot 365",
+      "link_id": "c_4cae51",
+      "source": "TechCrunch",
+      "date": "2026-07-10",
+      "time": "00:16",
+      "summary": "OpenAI declara GPT‑5.6 com el model preferit per a Microsoft Copilot 365."
+    },
+    {
+      "title": "OpenAI llança GPT‑5.6 i presenta ChatGPT Work per tasques avançades",
+      "link_id": "c_07d656",
       "source": "The Verge",
-      "date": "2026-07-07",
-      "time": "17:52",
-      "summary": "Un cotxe de golf amb disseny robust i gran capacitat, ideal com a vehicle secundari."
+      "date": "2026-07-09",
+      "time": "13:00",
+      "summary": "OpenAI llança GPT‑5.6 i presenta ChatGPT Work per tasques avançades."
     },
     {
-      "title": "Les ulleres de Meta desactivaran la càmera si es manipula la llum de privacitat",
-      "link_id": "c_d9cf43",
-      "source": "The Verge",
-      "date": "2026-07-08",
-      "time": "23:55",
-      "summary": "Les ulleres de Meta apagaran la càmera quan la llum de privacitat sigui alterada o trencada."
+      "title": "Fidji Simo abandona el seu càrrec executiu a OpenAI, convertint‑se en assessora a temps parcial",
+      "link_id": "c_202712",
+      "source": "NYT Technology",
+      "date": "2026-07-10",
+      "time": "00:38",
+      "summary": "Fidji Simo abandona el seu càrrec executiu a OpenAI, convertint‑se en assessora a temps parcial."
     },
     {
-      "title": "Microsoft planeja reduir costos tancant 3.200 llocs de treball al sector Xbox",
-      "link_id": "c_51f520",
-      "source": "PCWorld",
-      "date": "2026-07-07",
-      "time": "12:00",
-      "summary": "Microsoft planeja reduir costos tancant 3.200 llocs de treball al sector Xbox."
-    },
-    {
-      "title": "El fabricant de xips d'IA SambaNova recull 1.000 milions de dòlars amb una valoració de 11.000 milions, cinc mesos després de l'última ronda",
-      "link_id": "c_6707d7",
+      "title": "Fidji Simo deixa el seu rol de vicepresidenta a OpenAI després d’una baixa mèdica prolongada",
+      "link_id": "c_fbde75",
       "source": "TechCrunch",
-      "date": "2026-07-08",
-      "time": "07:16",
-      "summary": "SambaNova ha recaptat mil milions de dòlars, elevant la seva valoració a 11.000 milions."
+      "date": "2026-07-09",
+      "time": "23:38",
+      "summary": "Fidji Simo deixa el seu rol de vicepresidenta a OpenAI després d’una baixa mèdica prolongada."
     },
     {
-      "title": "Meta afirma que desactivarà la càmera de les seves ulleres si es manipula el LED d'enregistrament",
-      "link_id": "c_6c3a28",
-      "source": "Engadget",
-      "date": "2026-07-08",
-      "time": "06:44",
-      "summary": "Meta desactivarà la càmera de les seves ulleres si es manipula el LED d'enregistrament."
+      "title": "Fidji Simo renuncia al lideratge de l’AGI d’OpenAI per problemes de salut",
+      "link_id": "c_adeb79",
+      "source": "The Verge",
+      "date": "2026-07-09",
+      "time": "19:24",
+      "summary": "Fidji Simo renuncia al lideratge de l’AGI d’OpenAI per problemes de salut."
     },
     {
-      "title": "El nou estàndard de vídeo d'Android 17 podria fer que els vídeos HDR molestos siguin cosa del passat",
-      "link_id": "c_35fadb",
-      "source": "Android Authority",
-      "date": "2026-07-08",
-      "time": "06:30",
-      "summary": "Android 17 introdueix un estàndard de vídeo que redueix la brillantor excessiva dels HDR."
+      "title": "Fidji Simo deixa la seva posició a OpenAI, marcant un canvi clau en l’empresa",
+      "link_id": "c_c79dd4",
+      "source": "9to5Mac",
+      "date": "2026-07-09",
+      "time": "16:45",
+      "summary": "Fidji Simo deixa la seva posició a OpenAI, marcant un canvi clau en l’empresa."
     },
     {
-      "title": "Segons informes, Xbox volia 77 milions d'abonats a Game Pass. Actualment en té només 30 milions",
-      "link_id": "c_259601",
-      "source": "Bloomberg Technology",
-      "date": "2026-07-07",
-      "time": "22:21",
-      "summary": "Xbox només té 30 milions d'usuaris Game Pass, molt per sota de l'objectiu de 77 milions."
+      "title": "OpenAI elimina el navegador AI Atlas, retirant‑lo abans del primer aniversari",
+      "link_id": "c_e74406",
+      "source": "The Next Web",
+      "date": "2026-07-10",
+      "time": "07:36",
+      "summary": "OpenAI elimina el navegador AI Atlas, retirant‑lo abans del primer aniversari."
     }
   ]
 }
