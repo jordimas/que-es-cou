@@ -1,1 +1,88 @@
-{"generated_at":"2026-07-10T11:30","id":"economy","title":"Notícies econòmiques del món","sources_checked":[],"articles":[{"title":"SK Hynix recull 26.500 milions de dòlars en el seu debut al mercat dels EUA","link_id":"c_54da83","source":"Financial Times","date":"2026-07-10","time":"07:08","summary":"Recaptació record per SK Hynix marca la major entrada d'una empresa estrangera al mercat borsari nord-americà."},{"title":"FirstFT: Models d'IA nord-americans venuts a grups xinesos inclosos a la llista negra","link_id":"c_2fb151","source":"Financial Times","date":"2026-07-10","time":"04:31","summary":"Venda d'IA nord-americana a entitats xineses sancionades genera controvèrsia sobre regulació tecnològica."},{"title":"Pot un ‘superprevisor’ d'IA superar el mercat?","link_id":"c_46c8be","source":"Financial Times","date":"2026-07-10","time":"04:30","summary":"Un model d'IA avançat intenta predir decisions de la Reserva Federal, però encara no supera els experts."},{"title":"OpenAI i Google venen models d'IA a grups xinesos de la llista negra","link_id":"c_8979b2","source":"Financial Times","date":"2026-07-10","time":"04:00","summary":"OpenAI i Google ofereixen tecnologia d'IA a grups xinesos prohibits, provocant preocupacions de seguretat nacional."},{"title":"Tencent lidera l'acord per desfer l'adquisició de $2 mil milions de Manus per Meta","link_id":"c_51d55d","source":"Financial Times","date":"2026-07-10","time":"03:03","summary":"Tencent pren el control de Manus, revertint una adquisició de Meta per complir les ordres de Beijing."},{"title":"Les accions de Micron pujen gairebé un 5% després d'anunciar milers de milions més en inversions de fabricació de xips als EUA","link_id":"c_220482","source":"CNBC Technology","date":"2026-07-09","time":"21:57","summary":"Micron impulsa la cadena de subministrament de xips amb una nova inversió multimilionària als EUA."},{"title":"El CEO d'Anduril afirma que és dolent fer IPO al mig d'un cicle d'esperança","link_id":"c_77b55e","source":"CNBC Technology","date":"2026-07-09","time":"20:45","summary":"El CEO d'Anduril alerta que llançar una OPI durant l'excés d'esperança pot perjudicar l'empresa."},{"title":"Carlyle ven una unitat d'energia per centres de dades de 2,6 mil milions a EQT amb retorn de cinc vegades","link_id":"c_84cacf","source":"Financial Times","date":"2026-07-09","time":"19:00","summary":"Carlyle ven la seva unitat d'energia per centres de dades a EQT, assegurant un retorn de cinc vegades."},{"title":"El CEO de Palo Alto, Arora, diu que els preus de l'IA han de baixar un 90% per l'augment dels costos de tokens","link_id":"c_2d6dd0","source":"CNBC Technology","date":"2026-07-09","time":"18:50","summary":"Arora advoca per reduir els preus de l'IA un 90% per contrarestar l'augment dels costos de tokens."},{"title":"Anthropic nomena l'expresident de la Fed, Ben Bernanke, al seu fons independent","link_id":"c_8da128","source":"CNBC Technology","date":"2026-07-09","time":"17:23","summary":"Ben Bernanke s'incorpora al consell independent d'Anthropic, aportant experiència macroeconòmica a l'empresa d'IA."}]}
+{
+  "generated_at": "2026-07-11T09:15",
+  "id": "economy",
+  "title": "Notícies econòmiques del món",
+  "sources_checked": [],
+  "articles": [
+    {
+      "title": "Apple demanda OpenAI per robatori d'informació ultra confidencial",
+      "link_id": "c_4cea3c",
+      "source": "CNBC Technology",
+      "date": "2026-07-11",
+      "time": "04:09",
+      "summary": "OpenAI acusat de robar secrets; Apple busca compensació i imposa restriccions a futures col·laboracions."
+    },
+    {
+      "title": "Apple demanda OpenAI per robatori de secrets comercials, afirma que l'esquema era a tots els nivells",
+      "link_id": "c_187fe7",
+      "source": "Financial Times",
+      "date": "2026-07-10",
+      "time": "22:50",
+      "summary": "L'empresa tecnològica denuncia l'ús illegal d'informació confidencial, augmentant tensions en el sector."
+    },
+    {
+      "title": "SK Hynix puja un 13% en el debut al Nasdaq; el president declara una demanda enorme",
+      "link_id": "c_45a443",
+      "source": "CNBC Technology",
+      "date": "2026-07-10",
+      "time": "20:34",
+      "summary": "El debut al Nasdaq impulsa la valoració, reflectint la demanda creixent de memòria per IA."
+    },
+    {
+      "title": "Les accions nord-americanes de SK Hynix augmenten un 13% en el debut al Nasdaq",
+      "link_id": "c_54da83",
+      "source": "Financial Times",
+      "date": "2026-07-10",
+      "time": "20:23",
+      "summary": "L'oferta pública a EUA genera entusiasme, destacant la confiança dels inversors en la tecnologia de memòria."
+    },
+    {
+      "title": "Empreses d'IA ofereixen un salvament als museus. Què demanen a canvi?",
+      "link_id": "c_5609f3",
+      "source": "Financial Times",
+      "date": "2026-07-11",
+      "time": "04:00",
+      "summary": "Les empreses d'IA finançen museus per millorar la imatge pública, esperant beneficis de reputació."
+    },
+    {
+      "title": "Per què els xips cauen malgrat el boom de la IA",
+      "link_id": "c_87e1d3",
+      "source": "Financial Times",
+      "date": "2026-07-11",
+      "time": "04:00",
+      "summary": "Malgrat l'auge de la IA, la sobreoferta i problemes logístics frenen el preu dels xips."
+    },
+    {
+      "title": "Qui neteja després de la festa del codi vibe?",
+      "link_id": "c_d71e35",
+      "source": "Financial Times",
+      "date": "2026-07-11",
+      "time": "04:00",
+      "summary": "L'augment d'eines d'IA genera gran volum de codi, deixant la neteja a desenvolupadors humans."
+    },
+    {
+      "title": "La cursa de la IA passa de models grans a sistemes més barats i intel·ligents",
+      "link_id": "c_ead7ec",
+      "source": "CNBC Technology",
+      "date": "2026-07-10",
+      "time": "21:27",
+      "summary": "Les empreses opten per models més eficients i assequibles, canviant la competència cap a costos."
+    },
+    {
+      "title": "EUA relaxen els controls d'exportació de xips avançats i drons per als Emirats Àrabs",
+      "link_id": "c_127448",
+      "source": "Financial Times",
+      "date": "2026-07-10",
+      "time": "21:25",
+      "summary": "La nova política busca impulsar la cooperació amb els Emirats, tot generant controvèrsia sobre seguretat."
+    },
+    {
+      "title": "El poder d'OpenAI es consolida sota el cofundador Greg Brockman abans d'una possible OPI",
+      "link_id": "c_deaad6",
+      "source": "CNBC Technology",
+      "date": "2026-07-10",
+      "time": "20:51",
+      "summary": "Greg Brockman pren el lideratge, preparant l'empresa per a una possible oferta pública inicial."
+    }
+  ]
+}
