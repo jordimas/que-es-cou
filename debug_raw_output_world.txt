@@ -1,88 +1,96 @@
 {
-  "generated_at": "2026-07-11T09:12",
+  "generated_at": "2026-07-12T09:29",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Meta abandona la funció Muse Image AI perquè ‘no compleix les expectatives’ de privacitat dels usuaris",
+      "title": "Meta elimina la funció d'IA a Instagram després de dies de reacció",
+      "link_id": "c_b3cc74",
+      "source": "NYT Technology",
+      "date": "2026-07-11",
+      "time": "12:34",
+      "summary": "Després de crítiques massives, Meta suprimeix la generació d'imatges d'IA a Instagram."
+    },
+    {
+      "title": "Meta va suprimir la funció Muse Image d'IA tres dies després del llançament; Hollywood es va cansar",
+      "link_id": "c_990620",
+      "source": "The Next Web",
+      "date": "2026-07-11",
+      "time": "10:26",
+      "summary": "Hollywood pressiona Meta perquè retiri la controvertida funció Muse Image d'IA."
+    },
+    {
+      "title": "Meta abandona la funció Muse Image d'IA per vulnerar la privacitat dels usuaris",
       "link_id": "c_acb258",
       "source": "The Guardian Tech",
       "date": "2026-07-11",
       "time": "05:07",
-      "summary": "Meta abandona la funció després de que experts i usuaris la consideressin una violació de privacitat."
+      "summary": "La funció Muse Image d'IA es retira per problemes de privacitat."
     },
     {
-      "title": "Meta elimina la funció d'IA a Instagram després de dies de crítiques",
-      "link_id": "c_b3cc74",
-      "source": "NYT Technology",
-      "date": "2026-07-11",
-      "time": "02:03",
-      "summary": "La funció d'IA a Instagram es va retirar per la gran oposició pública i mediàtica."
-    },
-    {
-      "title": "Meta retira la nova funció d'imatges IA després de crítiques",
+      "title": "Meta retira la nova funció d'imatges d'IA després de dies de crítiques",
       "link_id": "c_711d18",
       "source": "BBC Technology",
       "date": "2026-07-11",
       "time": "01:45",
-      "summary": "Meta elimina la nova eina d'imatges IA després de rebre crítiques intensives dels usuaris."
+      "summary": "Després de reaccions negatives, Meta elimina la nova característica d'imatges d'IA."
     },
     {
-      "title": "Meta desactiva la funció que generava imatges IA de qualsevol compte públic d'Instagram",
+      "title": "Meta desactiva la funció que generava imatges d'IA de qualsevol compte públic d'Instagram",
       "link_id": "c_14c6fb",
       "source": "Engadget",
       "date": "2026-07-11",
       "time": "01:33",
-      "summary": "La característica permetia crear imatges IA de perfils públics, generant preocupacions de privacitat."
+      "summary": "Els usuaris ja no poden crear imatges d'IA a partir de comptes públics d'Instagram."
     },
     {
-      "title": "Meta elimina la controvertida funció d'IA a Instagram després de les crítiques",
-      "link_id": "c_de5eca",
-      "source": "TechCrunch",
-      "date": "2026-07-10",
-      "time": "23:55",
-      "summary": "Després de protestes, Meta suprimeix la funcionalitat d'IA que provocava controvèrsia a Instagram."
-    },
-    {
-      "title": "Meta desactiva la funció d'Instagram que permetia crear deepfakes IA de comptes públics",
-      "link_id": "c_ad03e5",
-      "source": "The Verge",
+      "title": "Oblida el typosquatting; el slopsquatting és la nova amenaça a la cadena de subministrament creada per eines de codificació IA",
+      "link_id": "c_040712",
+      "source": "VentureBeat",
       "date": "2026-07-11",
-      "time": "03:49",
-      "summary": "La funció que produïa deepfakes IA de comptes públics es va desactivar per Meta."
+      "time": "16:00",
+      "summary": "Les eines IA poden introduir codi maliciós via slopsquatting, una nova vulnerabilitat."
     },
     {
-      "title": "Meta retira la seva característica d'IA per generar imatges, després de l'oposició immediata",
-      "link_id": "c_79a80d",
-      "source": "Digital Trends",
-      "date": "2026-07-10",
-      "time": "23:35",
-      "summary": "Meta retira la seva característica d'IA per generar imatges, després de l'oposició immediata."
+      "title": "OpenAI integra novament la seguretat a la recerca; el seu cap de seguretat se'n va",
+      "link_id": "c_963f37",
+      "source": "The Next Web",
+      "date": "2026-07-11",
+      "time": "11:10",
+      "summary": "OpenAI reestructura la seguretat, fent que el cap de seguretat abandoni l'empresa."
     },
     {
-      "title": "Apple demanda OpenAI, acusant-la de robar secrets de l'empresa",
-      "link_id": "c_a45a4f",
-      "source": "NYT Technology",
-      "date": "2026-07-10",
-      "time": "23:23",
-      "summary": "Apple acusa OpenAI de robar informació confidencial per avançar en el seu negoci d'IA."
+      "title": "El cap de seguretat d'OpenAI abandona l'empresa",
+      "link_id": "c_b84ded",
+      "source": "Engadget",
+      "date": "2026-07-11",
+      "time": "15:39",
+      "summary": "OpenAI perd el seu responsable de seguretat enmig d'una reorganització."
     },
     {
-      "title": "Apple demanda OpenAI i els seus empleats per robatori de secrets comercials",
-      "link_id": "c_c33069",
-      "source": "BBC Technology",
-      "date": "2026-07-10",
-      "time": "22:54",
-      "summary": "Apple denuncia a OpenAI i als seus antics empleats per suposat robatori de secrets comercials."
+      "title": "Reed Jobs prefereix parlar de curar el càncer que del seu cognom",
+      "link_id": "c_3141f5",
+      "source": "TechCrunch",
+      "date": "2026-07-12",
+      "time": "00:16",
+      "summary": "Reed Jobs destaca la cura del càncer com a prioritat sobre el seu llegat familiar."
     },
     {
-      "title": "Apple demanda OpenAI, afirmant que l'empresa d'IA va robar secrets comercials",
-      "link_id": "c_197666",
-      "source": "The Guardian Tech",
-      "date": "2026-07-10",
-      "time": "22:33",
-      "summary": "Apple afirma que OpenAI ha expropiat secrets comercials, intensificant la disputa legal."
+      "title": "Aquesta màquina de granissat va ser una salvació durant l'onada de calor a NYC",
+      "link_id": "c_94527b",
+      "source": "TechCrunch",
+      "date": "2026-07-11",
+      "time": "22:00",
+      "summary": "La màquina de granissat va alleujar la calor extrema a Nova York."
+    },
+    {
+      "title": "L'app de compres IA Phia de Phoebe Gates presumptament va obtenir vendes d'afiliats falses amb clics simulats",
+      "link_id": "c_73cb74",
+      "source": "Engadget",
+      "date": "2026-07-11",
+      "time": "20:29",
+      "summary": "Phia ha estat acusada de inflar vendes d'afiliats amb clics falsos."
     }
   ]
 }

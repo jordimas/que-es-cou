@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-07-11T07:12",
+  "generated_at": "2026-07-12T09:29",
   "id": "events",
   "title": "Trobades",
   "sources_checked": [],
   "articles": [
-    {
-      "title": "Google AI Professional Certificate - Weekend Intensive Day 1 of 2",
-      "link_id": "c_527211",
-      "source": "AI Professionals Barcelona",
-      "date": "2026-06-27",
-      "time": "03:46",
-      "summary": "Intensiu curs de certificació AI de Google, dues jornades pràctiques per dominar IA en negocis i desenvolupament."
-    },
     {
       "title": "Google AI Professional Certificate - Weekend Intensive Day 2 of 2",
       "link_id": "c_62afe2",
       "source": "AI Professionals Barcelona",
       "date": "2026-06-27",
       "time": "08:08",
-      "summary": "Segona jornada intensiva del certificat AI de Google, enfocada a creació de contingut i anàlisi de dades."
+      "summary": "Segona jornada intensiva del certificat Google AI, amb tallers pràctics d'IA per a contingut, anàlisi i desenvolupament."
+    },
+    {
+      "title": "Vibe Coding 101: Introduction & Live Demo",
+      "link_id": "c_290813",
+      "source": "AI Professionals Barcelona",
+      "date": "2026-07-11",
+      "time": "21:25",
+      "summary": "Introducció a Vibe Coding, demostració en viu de programació sense codi per accelerar la creació d'aplicacions."
     }
   ]
 }

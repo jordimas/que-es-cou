@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-11T12:00",
+  "generated_at": "2026-07-12T12:00",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
     {
       "name": "Ara.cat",
       "url": "https://www.ara.cat/rss/",
-      "articles_found": 3
+      "articles_found": 2
     },
     {
       "name": "El Periódico",
@@ -14,69 +14,63 @@
       "articles_found": 2
     },
     {
+      "name": "324.cat",
+      "url": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0",
+      "articles_found": 2
+    },
+    {
+      "name": "Lleida Diari",
+      "url": "https://www.lleidadiari.cat/feed/",
+      "articles_found": 1
+    },
+    {
+      "name": "La Vanguardia (en català)",
+      "url": "https://www.lavanguardia.com/rss/encatala.xml",
+      "articles_found": 1
+    },
+    {
       "name": "RAC1",
       "url": "https://www.rac1.cat/rss/home.xml",
-      "articles_found": 2
+      "articles_found": 1
     },
     {
-      "name": "MetaData",
-      "url": "https://www.metadata.cat/sindica",
-      "articles_found": 2
-    },
-    {
-      "name": "Via Empresa",
-      "url": "https://www.viaempresa.cat/uploads/feeds/feed_via-empresa-2024_ca.xml",
+      "name": "Segre",
+      "url": "https://www.segre.com/ca/rss/home.xml",
       "articles_found": 1
     }
   ],
   "articles": [
-    {
-      "title": "Brussel·les confirma la investigació a Meta pel disseny addictiu de Facebook i Instagram i amenaça de multar-la",
-      "link_id": "c_ad6aa2",
-      "source": "RAC1",
-      "date": "2026-07-10",
-      "time": "19:18",
-      "summary": "Meta investiga dissenys addictius de Facebook i Instagram, amenaçant una multa mil·lionària per protegir usuaris."
-    },
-    {
-      "title": "Catalunya invertirà 481 milions d’euros en un núvol públic sobirà per reforçar l’autonomia digital",
-      "link_id": "c_76b897",
-      "source": "MetaData",
-      "date": "2026-07-07",
-      "time": "09:25",
-      "summary": "Catalunya crearà un núvol sobirà per garantir la sobirania digital i excloure grans tecnològics estrangers."
-    },
-    {
-      "title": "Endesa supera les 163.000 famílies beneficiàries del bo social a Catalunya",
-      "link_id": "c_6d0ce1",
-      "source": "Ara.cat",
-      "date": "2026-07-10",
-      "time": "18:38",
-      "summary": "Endesa supera 163.000 famílies beneficiàries del bo social, reforçant l’ajut energètic a Catalunya."
-    },
-    {
-      "title": "El BBVA i el Santander se sumen al fons europeu de 15.000 milions per a tecnològiques",
-      "link_id": "c_26a005",
-      "source": "Ara.cat",
-      "date": "2026-07-10",
-      "time": "18:28",
-      "summary": "BBVA i Santander s’uneixen al fons europeu de 15.000 milions per impulsar tecnologies emergents a Europa."
-    },
-    {
-      "title": "Adeu a l’'scroll' infinit i al 'play' automàtic: Brussel·les amenaça Facebook i Instagram amb una multa astronòmica",
-      "link_id": "c_fbc05c",
-      "source": "Ara.cat",
-      "date": "2026-07-10",
-      "time": "12:01",
-      "summary": "Brussel·les amenaça Meta amb multa per dissenys addictius a Instagram i Facebook, buscant regular les xarxes socials."
-    },
     {
       "title": "La Unió Europea autoritza les plataformes a escanejar missatges privats dels usuaris contra l’abús sexual infantil",
       "link_id": "c_1b1cbd",
       "source": "El Periódico",
       "date": "2026-07-09",
       "time": "13:20",
-      "summary": "La UE autoritza l’escaneig de missatges privats per combatre l’abús sexual infantil, generant controvèrsia sobre la privacitat."
+      "summary": "Les plataformes podran analitzar missatges per detectar abús sexual infantil, generant debat sobre privacitat i seguretat."
+    },
+    {
+      "title": "Meta, obligada a retirar l'eina que permet utilitzar fotos d'Instagram per generar imatges amb IA",
+      "link_id": "c_6b3da7",
+      "source": "324.cat",
+      "date": "2026-07-11",
+      "time": "18:52",
+      "summary": "Meta ha retirat l'eina que generava imatges amb fotos d'Instagram, respon a crítiques sobre ús indegut."
+    },
+    {
+      "title": "Compte amb l’eclipsi solar: un simple error pot provocar lesions irreversibles als ulls",
+      "link_id": "c_307773",
+      "source": "Lleida Diari",
+      "date": "2026-07-11",
+      "time": "11:20",
+      "summary": "L'eclipsi solar del 12 d'agost requereix ulleres homologades; l'error pot causar lesions irreversibles."
+    },
+    {
+      "title": "La potabilitzadora d’aigua de Sant Feliu pot proveir el 15% de la metròpolis",
+      "link_id": "c_daa42a",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-07-11",
+      "time": "09:30",
+      "summary": "La nova planta d'aigua de Sant Feliu pot subministrar el 15% de la zona metropolitana, millorant l'eficiència."
     },
     {
       "title": "\"Si tens un infart a Barcelona i no hi ha desfibril·ladors a prop, amb drons repartits per la ciutat en pots tenir un en segons\"",
@@ -84,23 +78,39 @@
       "source": "RAC1",
       "date": "2026-07-10",
       "time": "13:20",
-      "summary": "Drones d’emergència podrien portar desfibril·ladors a Barcelona, reduint el temps de resposta en casos d’infart."
+      "summary": "Drones d'emergència poden proporcionar desfibril·ladors en segons, reforçant la resposta mèdica urbana."
     },
     {
-      "title": "Barcelona es converteix en capital europea de l’espai amb l’Space Economy Congress 2026",
-      "link_id": "c_84c0e6",
-      "source": "MetaData",
-      "date": "2026-07-06",
-      "time": "12:49",
-      "summary": "Barcelona acull el Space Economy Congress 2026, posicionant la ciutat com a capital europea de l’espai."
+      "title": "Submer invertirà més de 1.000 milions en un nou centre de dades a Flix",
+      "link_id": "c_5dc080",
+      "source": "Ara.cat",
+      "date": "2026-07-11",
+      "time": "14:51",
+      "summary": "Submer invertirà més de mil milions d'euros en un centre de dades sostenible a Flix, impulsant IA."
     },
     {
-      "title": "El metro de Barcelona registra 44,8 milions de viatgers al maig, un rècord per aquest mes",
-      "link_id": "c_49aa81",
-      "source": "Via Empresa",
+      "title": "El BBVA i el Santander se sumen al fons europeu de 15.000 milions per a tecnològiques",
+      "link_id": "c_26a005",
+      "source": "Ara.cat",
       "date": "2026-07-10",
-      "time": "17:58",
-      "summary": "El metro de Barcelona registra rècord de 44,8 milions de viatgers al maig, indicant augment de mobilitat urbana."
+      "time": "16:28",
+      "summary": "BBVA i Santander s'uneixen al fons europeu de 15.000 milions per impulsar startups tecnològiques."
+    },
+    {
+      "title": "Circ per a sords: creen vocabulari circense en llengua de signes",
+      "link_id": "c_e3c730",
+      "source": "324.cat",
+      "date": "2026-07-11",
+      "time": "22:14",
+      "summary": "El projecte LSC.circ crea vocabulari circense en llengua de signes, facilitant l'accessibilitat cultural."
+    },
+    {
+      "title": "Talent de Tàrrega a Oxford",
+      "link_id": "c_65d5e5",
+      "source": "Segre",
+      "date": "2026-07-11",
+      "time": "05:36",
+      "summary": "Aleix Seguí, de Tàrrega, obté beca La Caixa per doctorat a Oxford, destacant el talent català."
     },
     {
       "title": "El Cruïlla es transforma en un laboratori ciutadà per experimentar amb IA",
@@ -108,7 +118,7 @@
       "source": "El Periódico",
       "date": "2026-07-10",
       "time": "10:06",
-      "summary": "El Cruïlla es converteix en laboratori ciutadà per provar projectes d’intel·ligència artificial durant el festival."
+      "summary": "El festival Cruïlla ofereix un laboratori ciutadà d'IA, permetent al públic provar i validar projectes intel·ligents."
     }
   ]
 }
