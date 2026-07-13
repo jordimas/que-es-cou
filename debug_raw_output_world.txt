@@ -1,96 +1,88 @@
 {
-  "generated_at": "2026-07-12T09:29",
+  "generated_at": "2026-07-13T10:18",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Meta elimina la funció d'IA a Instagram després de dies de reacció",
-      "link_id": "c_b3cc74",
-      "source": "NYT Technology",
-      "date": "2026-07-11",
-      "time": "12:34",
-      "summary": "Després de crítiques massives, Meta suprimeix la generació d'imatges d'IA a Instagram."
-    },
-    {
-      "title": "Meta va suprimir la funció Muse Image d'IA tres dies després del llançament; Hollywood es va cansar",
-      "link_id": "c_990620",
-      "source": "The Next Web",
-      "date": "2026-07-11",
-      "time": "10:26",
-      "summary": "Hollywood pressiona Meta perquè retiri la controvertida funció Muse Image d'IA."
-    },
-    {
-      "title": "Meta abandona la funció Muse Image d'IA per vulnerar la privacitat dels usuaris",
-      "link_id": "c_acb258",
-      "source": "The Guardian Tech",
-      "date": "2026-07-11",
-      "time": "05:07",
-      "summary": "La funció Muse Image d'IA es retira per problemes de privacitat."
-    },
-    {
-      "title": "Meta retira la nova funció d'imatges d'IA després de dies de crítiques",
-      "link_id": "c_711d18",
-      "source": "BBC Technology",
-      "date": "2026-07-11",
-      "time": "01:45",
-      "summary": "Després de reaccions negatives, Meta elimina la nova característica d'imatges d'IA."
-    },
-    {
-      "title": "Meta desactiva la funció que generava imatges d'IA de qualsevol compte públic d'Instagram",
-      "link_id": "c_14c6fb",
-      "source": "Engadget",
-      "date": "2026-07-11",
-      "time": "01:33",
-      "summary": "Els usuaris ja no poden crear imatges d'IA a partir de comptes públics d'Instagram."
-    },
-    {
-      "title": "Oblida el typosquatting; el slopsquatting és la nova amenaça a la cadena de subministrament creada per eines de codificació IA",
-      "link_id": "c_040712",
-      "source": "VentureBeat",
-      "date": "2026-07-11",
-      "time": "16:00",
-      "summary": "Les eines IA poden introduir codi maliciós via slopsquatting, una nova vulnerabilitat."
-    },
-    {
-      "title": "OpenAI integra novament la seguretat a la recerca; el seu cap de seguretat se'n va",
-      "link_id": "c_963f37",
-      "source": "The Next Web",
-      "date": "2026-07-11",
-      "time": "11:10",
-      "summary": "OpenAI reestructura la seguretat, fent que el cap de seguretat abandoni l'empresa."
-    },
-    {
-      "title": "El cap de seguretat d'OpenAI abandona l'empresa",
-      "link_id": "c_b84ded",
-      "source": "Engadget",
-      "date": "2026-07-11",
-      "time": "15:39",
-      "summary": "OpenAI perd el seu responsable de seguretat enmig d'una reorganització."
-    },
-    {
-      "title": "Reed Jobs prefereix parlar de curar el càncer que del seu cognom",
-      "link_id": "c_3141f5",
-      "source": "TechCrunch",
+      "title": "El M7 Ultra d'Apple podria enfrontar-se a Nvidia Blackwell amb uns impressionants 1,5 TB de memòria",
+      "link_id": "c_e43bab",
+      "source": "Digital Trends",
       "date": "2026-07-12",
-      "time": "00:16",
-      "summary": "Reed Jobs destaca la cura del càncer com a prioritat sobre el seu llegat familiar."
+      "time": "19:09",
+      "summary": "El xip promet rendiment d'IA comparable al de les GPUs més avançades, impulsant Macs professionals."
     },
     {
-      "title": "Aquesta màquina de granissat va ser una salvació durant l'onada de calor a NYC",
-      "link_id": "c_94527b",
-      "source": "TechCrunch",
-      "date": "2026-07-11",
-      "time": "22:00",
-      "summary": "La màquina de granissat va alleujar la calor extrema a Nova York."
+      "title": "El xip M7 Ultra d'Apple dissenyat per igualar el Mac Pro de 2019",
+      "link_id": "c_9207d5",
+      "source": "MacRumors",
+      "date": "2026-07-12",
+      "time": "15:53",
+      "summary": "Amb 1,5 TB de memòria, el M7 Ultra podria redefinir les capacitats de computació per a creadors."
     },
     {
-      "title": "L'app de compres IA Phia de Phoebe Gates presumptament va obtenir vendes d'afiliats falses amb clics simulats",
-      "link_id": "c_73cb74",
-      "source": "Engadget",
-      "date": "2026-07-11",
-      "time": "20:29",
-      "summary": "Phia ha estat acusada de inflar vendes d'afiliats amb clics falsos."
+      "title": "El M7 Ultra podria incloure fins a 1,5 TB de RAM, igualant finalment el Mac Pro de 2019",
+      "link_id": "c_de4f8c",
+      "source": "9to5Mac",
+      "date": "2026-07-12",
+      "time": "14:34",
+      "summary": "La gran capacitat de RAM permetrà entrenar models locals sense dependre del núvol."
+    },
+    {
+      "title": "Apple’s M7 Ultra could take on Nvidia Blackwell with a staggering 1.5TB of memory",
+      "link_id": "c_ef0761",
+      "source": "Bloomberg",
+      "date": "2026-07-12",
+      "time": "14:00",
+      "summary": "Apple aposta per aquest xip per guanyar avantatge competitiu en intel·ligència artificial."
+    },
+    {
+      "title": "Apple podria llançar dos nous Apple Pencil la primavera vinent juntament amb l'iPad Pro",
+      "link_id": "c_990f12",
+      "source": "Digital Trends",
+      "date": "2026-07-12",
+      "time": "18:21",
+      "summary": "Llançament sincronitzat amb el proper iPad Pro, oferint una experiència d'escriptura millorada."
+    },
+    {
+      "title": "Dos nous Apple Pencil es llançaran l'any que ve",
+      "link_id": "c_4ccd0a",
+      "source": "MacRumors",
+      "date": "2026-07-12",
+      "time": "15:45",
+      "summary": "Els nous estilògrafics milloraran la productivitat d'estudiants i professionals creatius."
+    },
+    {
+      "title": "Apple desenvolupa nous models d'Apple Pencil per a llançament l'any que ve, possiblement amb bateries reemplaçables",
+      "link_id": "c_10a8f4",
+      "source": "9to5Mac",
+      "date": "2026-07-12",
+      "time": "14:17",
+      "summary": "Les bateries reemplaçables compliran les noves regulacions europees sobre sostenibilitat."
+    },
+    {
+      "title": "Apple acusa OpenAI de robar els seus secrets tecnològics centrals",
+      "link_id": "c_4fbf3a",
+      "source": "The Register",
+      "date": "2026-07-13",
+      "time": "07:31",
+      "summary": "El cas podria marcar un precedent en la protecció de propietat intel·lectual tecnològica."
+    },
+    {
+      "title": "Apple demanda OpenAI per la lluita de talent en IA",
+      "link_id": "c_a8c718",
+      "source": "Bloomberg",
+      "date": "2026-07-13",
+      "time": "07:25",
+      "summary": "La demanda reflecteix la creixent rivalitat per talent i secrets d'IA entre gegants."
+    },
+    {
+      "title": "OpenAI ha retirat temporalment les restriccions d'ús de ChatGPT Work i Codex",
+      "link_id": "c_d13be5",
+      "source": "Digital Trends",
+      "date": "2026-07-13",
+      "time": "08:10",
+      "summary": "Els límits d'ús es relaxen temporalment, permetent a usuaris avançats més llibertat."
     }
   ]
 }

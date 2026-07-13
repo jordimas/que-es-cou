@@ -1,64 +1,80 @@
 {
-  "generated_at": "2026-07-12T09:29",
+  "generated_at": "2026-07-13T10:30",
   "id": "economy",
   "title": "Notícies econòmiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "‘Gairebé il·limitat’: Executius diuen que la demanda d'IA segueix forta encara que les empreses passen a ‘maximitzar valor’",
-      "link_id": "c_095bd7",
+      "title": "El rival europeu d'Anduril, Helsing, recull 1,800 milions de dòlars amb una valoració de 18 mil milions.",
+      "link_id": "c_275d83",
       "source": "CNBC Technology",
-      "date": "2026-07-12",
-      "time": "05:00",
-      "summary": "Executius asseguren que la demanda d'IA segueix creixent, tot i que les empreses busquen reduir costos."
+      "date": "2026-07-13",
+      "time": "08:13",
+      "summary": "Finançament impulsa l'expansió europea de defensa, reforçant competència contra Anduril i EUA."
     },
     {
-      "title": "Els ‘innovadors i disruptors’ contractats per portar IA al sector públic del Regne Unit",
-      "link_id": "c_e34b4c",
-      "source": "Financial Times",
-      "date": "2026-07-12",
-      "time": "04:00",
-      "summary": "El govern britànic contracta experts per impulsar solucions d'IA en serveis públics i millorar l'eficiència."
-    },
-    {
-      "title": "La computació quàntica és emocionant, però vigileu el rebombament del gat de Schrödinger",
-      "link_id": "c_2e7bc8",
-      "source": "Financial Times",
-      "date": "2026-07-12",
-      "time": "04:00",
-      "summary": "La computació quàntica promet avançaments, però els riscos d'errors inesperats podrien frenar la seva adopció."
-    },
-    {
-      "title": "Les grans tecnologies afrontaran multes per falles en protecció del consumidor, segons un oficial de la UE",
-      "link_id": "c_009081",
-      "source": "Financial Times",
-      "date": "2026-07-12",
-      "time": "04:00",
-      "summary": "La UE planeja multes per a grans tecnologies que no protegeixen adequadament els consumidors davant de riscos digitals."
-    },
-    {
-      "title": "El comerç volàtil d'IA puja, però el petroli manté Wall Street en alerta la setmana passada",
-      "link_id": "c_92dcd6",
+      "title": "TSMC, el major fabricant de xips per contracte del món, registra un augment del 68% dels ingressos de juny.",
+      "link_id": "c_c5aaa8",
       "source": "CNBC Technology",
-      "date": "2026-07-11",
-      "time": "16:25",
-      "summary": "Les accions d'IA pujen, però la incertesa del petroli manté els inversors cautelosos al mercat."
+      "date": "2026-07-13",
+      "time": "07:29",
+      "summary": "Creixement explosiu indica demanda creixent de xips avançats per a IA i automoció."
     },
     {
-      "title": "Com les rebrandings d'IA no aconsegueixen un augment sostenible del preu de les accions",
-      "link_id": "c_ec096b",
+      "title": "Els inversors redueixen les apostes en fabricants asiàtics de xips després d'un augment vertiginós.",
+      "link_id": "c_34fd17",
       "source": "Financial Times",
-      "date": "2026-07-11",
-      "time": "15:41",
-      "summary": "Les empreses que rebrandegen amb IA no aconsegueixen augmentar sosteniblement el preu de les seves accions."
+      "date": "2026-07-13",
+      "time": "04:00",
+      "summary": "Inversors temen sobrevaloració i riscos geopolítics, reduint exposició a la regió asiàtica."
     },
     {
-      "title": "Mentre Neuralink de Musk perfora caps, BrainCo de la Xina aposta per la tecnologia cerebral portàtil",
+      "title": "Empreses adopten models d'IA xinesos per reduir despeses.",
+      "link_id": "c_e5a5ee",
+      "source": "Financial Times",
+      "date": "2026-07-13",
+      "time": "04:00",
+      "summary": "Empreses busquen alternatives més barates i menys regulades per a solucions d'IA."
+    },
+    {
+      "title": "Les empreses inciten els empleats a usar més IA, però l'efecte ha estat contraproduent.",
+      "link_id": "c_feb098",
+      "source": "Financial Times",
+      "date": "2026-07-13",
+      "time": "03:00",
+      "summary": "Pressió per adoptar IA genera resistència i disminució de productivitat entre els equips."
+    },
+    {
+      "title": "Mentre Neuralink de Musk perfora caps, BrainCo de Xina aposta per la tecnologia cerebral portàtil.",
       "link_id": "c_f43497",
       "source": "CNBC Technology",
-      "date": "2026-07-11",
-      "time": "13:47",
-      "summary": "Neuralink avança amb implants cerebrals, mentre BrainCo aposta per dispositius portables per millorar la neurociència."
+      "date": "2026-07-13",
+      "time": "01:56",
+      "summary": "Tecnologia cerebral portàtil podria transformar tractaments mèdics, tot i controvèrsies ètiques."
+    },
+    {
+      "title": "Els comerciants es preparen per a la volatilitat del won després de l'oferta massiva de SK Hynix.",
+      "link_id": "c_6c1014",
+      "source": "Financial Times",
+      "date": "2026-07-13",
+      "time": "01:40",
+      "summary": "Llistat de SK Hynix pot desestabilitzar el mercat de divises asiàtic."
+    },
+    {
+      "title": "Elon Musk i Sam Altman es barallen a X després que Apple demandi OpenAI.",
+      "link_id": "c_eff71e",
+      "source": "CNBC Technology",
+      "date": "2026-07-12",
+      "time": "20:29",
+      "summary": "Polèmica pública entre líders tecnològics intensifica la lluita per la propietat intel·lectual."
+    },
+    {
+      "title": "La majoria dels treballadors nord-americans recolzen un fons de riquesa d'IA davant l'augment de desnonaments tecnològics.",
+      "link_id": "c_ed8d38",
+      "source": "CNBC Technology",
+      "date": "2026-07-12",
+      "time": "12:27",
+      "summary": "Proposta de fons d'IA busca protegir treballadors davant la incertesa laboral tecnològica."
     }
   ]
 }

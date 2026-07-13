@@ -1,80 +1,72 @@
 {
-  "generated_at": "2026-07-12T07:30",
+  "generated_at": "2026-07-13T09:00",
   "id": "podcasts",
   "title": "Podcasts en català sobre tecnologia",
   "sources_checked": [],
   "articles": [
     {
-      "title": "Apple apuja els preus – Final de Temporada – Programa 669",
-      "link_id": "c_bc9076",
-      "source": "Mossega la poma",
-      "date": "2026-06-29",
-      "time": "15:18",
-      "summary": "Apple encareix Macs i iPads per l'augment de la RAM, analitzant les repercussions per als usuaris."
-    },
-    {
       "title": "L' Altra Ràdio - Les dones del temps i el Servei Meteorològic de Catalunya",
       "link_id": "c_1c9b09",
       "source": "L'altra ràdio",
       "date": "2026-07-09",
-      "time": "14:33",
-      "summary": "Entrevista a Marta Balaguer sobre el paper de les dones i la meteorologia al Servei Meteorològic de Catalunya."
+      "time": "16:33",
+      "summary": "Entrevista a Marta Balaguer sobre la teledetecció i el paper de les dones a la meteorologia catalana."
     },
     {
       "title": "L' Altra Ràdio - Usos curiosos de la intel·ligència artificial",
       "link_id": "c_b9ce40",
       "source": "L'altra ràdio",
       "date": "2026-07-02",
-      "time": "14:33",
+      "time": "16:33",
       "summary": "Descobrim aplicacions inesperades d'IA, des de traduir lladrucs fins a generar prompts sorprenents."
     },
     {
       "title": "El gòTIC - Tenim una missió! del 8/7/2026",
       "link_id": "c_12fba6",
       "source": "El Gòtic",
-      "date": "2026-07-07",
-      "time": "23:29",
-      "summary": "Explorem recursos digitals per a la ciutadania, enfocats a resoldre reptes tecnològics actuals."
+      "date": "2026-07-08",
+      "time": "01:29",
+      "summary": "Recursos digitals per a la ciutadania, enfocats a resoldre reptes tecnològics locals."
     },
     {
       "title": "El gòTIC - Tenim una missió! del 1/7/2026",
       "link_id": "c_05403e",
       "source": "El Gòtic",
-      "date": "2026-06-30",
-      "time": "23:29",
-      "summary": "Presentem iniciatives per a la transformació digital i la participació ciutadana en projectes locals."
+      "date": "2026-07-01",
+      "time": "01:29",
+      "summary": "Iniciativa municipal que comparteix estratègies per a la transformació digital del territori."
+    },
+    {
+      "title": "Fika a terra, amb David Poblador",
+      "link_id": "c_79ca9b",
+      "source": "Foc a Terra",
+      "date": "2026-07-13",
+      "time": "06:00",
+      "summary": "David Poblador parla de Fable i de com impulsar projectes d'IA al context català."
     },
     {
       "title": "N'IA per llogar-hi cadires, amb David Poblador",
       "link_id": "c_291a7a",
       "source": "Foc a Terra",
       "date": "2026-07-06",
-      "time": "04:00",
-      "summary": "Debatem com la IA pot optimitzar lloguers de mobiliari, mostrant casos pràctics i beneficis."
+      "time": "06:00",
+      "summary": "Conversació sobre IA aplicada a lloguer de cadires i altres temes de mobilitat digital."
     },
     {
       "title": "Superagent Llados",
       "link_id": "c_781ce4",
       "source": "Foc a Terra",
       "date": "2026-06-29",
-      "time": "04:00",
-      "summary": "Explorem l'ús d'IA per a agents autònoms que impulsen negocis sense necessitat de personal."
-    },
-    {
-      "title": "Diem adéu a l'editor clàssic",
-      "link_id": "c_4f0467",
-      "source": "WordPress Pòdcast",
-      "date": "2026-06-30",
-      "time": "00:00",
-      "summary": "Analitzem la transició cap a l'editor de blocs i el futur de l'editor clàssic."
+      "time": "06:00",
+      "summary": "Exploració d'agents IA que prometen productivitat empresarial sense necessitat de grans inversions."
     },
     {
       "title": "Capítol 68: Tendios o com superar la burocràcia del sector públic",
       "link_id": "c_06b6e4",
       "source": "RAC&GO",
       "date": "2026-06-30",
-      "time": "06:00",
-      "summary": "Descobrim com l'IA ajuda a simplificar processos burocràtics i accelerar contractes públics."
+      "time": "08:00",
+      "summary": "Albert Riera explica com la IA pot simplificar processos i reduir la burocràcia pública."
     }
   ]
 }
