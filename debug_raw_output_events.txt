@@ -1,24 +1,56 @@
 {
-  "generated_at": "2026-07-13T08:30",
+  "generated_at": "2026-07-15T07:16",
   "id": "events",
   "title": "Trobades",
   "sources_checked": [],
   "articles": [
-    {
-      "title": "Get Google AI Certified - AI Professionals July 2026 Cohort [2 of 7]",
-      "link_id": "c_0bb60a",
-      "source": "AI Professionals Barcelona",
-      "date": "2026-07-13",
-      "time": "00:41",
-      "summary": "Formació gratuïta per obtenir la certificació AI de Google, setmanes intensives amb pràctiques reals."
-    },
     {
       "title": "Vibe Coding 101: Introduction & Live Demo",
       "link_id": "c_290813",
       "source": "AI Professionals Barcelona",
       "date": "2026-07-11",
       "time": "21:25",
-      "summary": "Descobreix Vibe Coding, programació sense codi, amb demostració en directe i exemples pràctics."
+      "summary": "Descobreix com programar sense codi amb una demostració en directe que mostra les possibilitats del Vibe Coding."
+    },
+    {
+      "title": "Get Google AI Certified - AI Professionals July 2026 Cohort [3 of 7]",
+      "link_id": "c_c60ffb",
+      "source": "AI Professionals Barcelona",
+      "date": "2026-07-13",
+      "time": "10:24",
+      "summary": "Aprèn IA per recerca i anàlisi amb el tercer curs del programa gratuït de certificació de Google."
+    },
+    {
+      "title": "Get Google AI Certified - AI Professionals July 2026 Cohort [4 of 7]",
+      "link_id": "c_816863",
+      "source": "AI Professionals Barcelona",
+      "date": "2026-07-13",
+      "time": "16:48",
+      "summary": "Domina la IA per escriptura i comunicació en el quart mòdul, amb exercicis pràctics i suport en viu."
+    },
+    {
+      "title": "Get Google AI Certified - AI Professionals July 2026 Cohort [5 of 7]",
+      "link_id": "c_8b3062",
+      "source": "AI Professionals Barcelona",
+      "date": "2026-07-13",
+      "time": "21:52",
+      "summary": "Explora la IA per crear contingut, aprenent tècniques avançades per generar textos i multimèdia automàticament."
+    },
+    {
+      "title": "Get Google AI Certified - AI Professionals July 2026 Cohort [6 of 7]",
+      "link_id": "c_cf68f9",
+      "source": "AI Professionals Barcelona",
+      "date": "2026-07-14",
+      "time": "02:50",
+      "summary": "Analitza dades amb IA al sisè curs, aplicant models d'aprenentatge automàtic a casos reals."
+    },
+    {
+      "title": "Get Google AI Certified - AI Professionals July 2026 Cohort [7 of 7]",
+      "link_id": "c_8d01cf",
+      "source": "AI Professionals Barcelona",
+      "date": "2026-07-14",
+      "time": "19:13",
+      "summary": "Construeix aplicacions amb IA en l'últim mòdul, integrant habilitats adquirides durant tot el programa."
     }
   ]
 }

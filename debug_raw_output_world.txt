@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-07-13T10:18",
+  "generated_at": "2026-07-15T09:16",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "El M7 Ultra d'Apple podria enfrontar-se a Nvidia Blackwell amb uns impressionants 1,5 TB de memòria",
-      "link_id": "c_e43bab",
-      "source": "Digital Trends",
-      "date": "2026-07-12",
-      "time": "19:09",
-      "summary": "El xip promet rendiment d'IA comparable al de les GPUs més avançades, impulsant Macs professionals."
+      "title": "El primer dispositiu d'OpenAI serà un altaveu intel·ligent portàtil",
+      "link_id": "c_9d4bf5",
+      "source": "CNET",
+      "date": "2026-07-14",
+      "time": "23:46",
+      "summary": "L'empresa planeja un altaveu sense pantalla que interactuarà amb l'usuari i control·larà la llar."
     },
     {
-      "title": "El xip M7 Ultra d'Apple dissenyat per igualar el Mac Pro de 2019",
-      "link_id": "c_9207d5",
+      "title": "Segons informes, el primer dispositiu de maquinari d'OpenAI és un altaveu sense pantalla que pot moure's",
+      "link_id": "c_3a47fa",
+      "source": "TechCrunch",
+      "date": "2026-07-14",
+      "time": "22:22",
+      "summary": "Altaveu mòbil sense pantalla pot moure's i oferir assistència personalitzada amb IA avançada."
+    },
+    {
+      "title": "El primer dispositiu d'IA d'OpenAI serà un altaveu intel·ligent portàtil",
+      "link_id": "c_307fee",
       "source": "MacRumors",
-      "date": "2026-07-12",
-      "time": "15:53",
-      "summary": "Amb 1,5 TB de memòria, el M7 Ultra podria redefinir les capacitats de computació per a creadors."
+      "date": "2026-07-14",
+      "time": "21:38",
+      "summary": "Dispositiu portàtil combina altaveu intel·ligent amb sensors per a una experiència domèstica immersiva."
     },
     {
-      "title": "El M7 Ultra podria incloure fins a 1,5 TB de RAM, igualant finalment el Mac Pro de 2019",
-      "link_id": "c_de4f8c",
+      "title": "OpenAI podria anunciar aquest any un altaveu intel·ligent de ChatGPT",
+      "link_id": "c_efdd76",
+      "source": "The Verge",
+      "date": "2026-07-14",
+      "time": "21:26",
+      "summary": "Altaveu intel·ligent de ChatGPT podria integrar-se a la llar per a converses naturals."
+    },
+    {
+      "title": "Informe: el primer dispositiu d'OpenAI serà un altaveu portàtil amb càmera i altres sensors",
+      "link_id": "c_7b027f",
       "source": "9to5Mac",
-      "date": "2026-07-12",
-      "time": "14:34",
-      "summary": "La gran capacitat de RAM permetrà entrenar models locals sense dependre del núvol."
+      "date": "2026-07-14",
+      "time": "21:14",
+      "summary": "Altaveu portàtil inclou càmera i sensors, ampliant les capacitats d'interacció amb IA."
     },
     {
-      "title": "Apple’s M7 Ultra could take on Nvidia Blackwell with a staggering 1.5TB of memory",
-      "link_id": "c_ef0761",
-      "source": "Bloomberg",
-      "date": "2026-07-12",
-      "time": "14:00",
-      "summary": "Apple aposta per aquest xip per guanyar avantatge competitiu en intel·ligència artificial."
+      "title": "Google Images rep una redisseny similar a Pinterest per al seu 25è aniversari",
+      "link_id": "c_c771e5",
+      "source": "The Verge",
+      "date": "2026-07-14",
+      "time": "23:18",
+      "summary": "Google Images celebra 25 anys amb una nova interfície que destaca contingut visual personalitzat."
     },
     {
-      "title": "Apple podria llançar dos nous Apple Pencil la primavera vinent juntament amb l'iPad Pro",
-      "link_id": "c_990f12",
-      "source": "Digital Trends",
-      "date": "2026-07-12",
-      "time": "18:21",
-      "summary": "Llançament sincronitzat amb el proper iPad Pro, oferint una experiència d'escriptura millorada."
+      "title": "OpenAI rebutja la demanda d'Apple per secrets comercials",
+      "link_id": "c_7ed955",
+      "source": "TechCrunch",
+      "date": "2026-07-14",
+      "time": "22:07",
+      "summary": "OpenAI nega les acusacions d'Apple, afirmant que la demanda careix de fonaments legals."
     },
     {
-      "title": "Dos nous Apple Pencil es llançaran l'any que ve",
-      "link_id": "c_4ccd0a",
+      "title": "Nova York és el primer estat que pausa la construcció de centres de dades d'IA",
+      "link_id": "c_13b7d7",
+      "source": "CNET",
+      "date": "2026-07-14",
+      "time": "21:35",
+      "summary": "El govern de Nova York imposa una moràtor d'un any per a nous centres de dades d'IA."
+    },
+    {
+      "title": "OpenAI: No hi ha evidència que la demanda d'Apple tingui mèrit",
+      "link_id": "c_820871",
       "source": "MacRumors",
-      "date": "2026-07-12",
-      "time": "15:45",
-      "summary": "Els nous estilògrafics milloraran la productivitat d'estudiants i professionals creatius."
+      "date": "2026-07-14",
+      "time": "20:45",
+      "summary": "OpenAI declara que la demanda d'Apple no té proves suficients per justificar una acció legal."
     },
     {
-      "title": "Apple desenvolupa nous models d'Apple Pencil per a llançament l'any que ve, possiblement amb bateries reemplaçables",
-      "link_id": "c_10a8f4",
+      "title": "OpenAI afirma que no ha trobat evidència que recolzi les acusacions d'Apple sobre robatori de secrets comercials",
+      "link_id": "c_50c337",
       "source": "9to5Mac",
-      "date": "2026-07-12",
-      "time": "14:17",
-      "summary": "Les bateries reemplaçables compliran les noves regulacions europees sobre sostenibilitat."
-    },
-    {
-      "title": "Apple acusa OpenAI de robar els seus secrets tecnològics centrals",
-      "link_id": "c_4fbf3a",
-      "source": "The Register",
-      "date": "2026-07-13",
-      "time": "07:31",
-      "summary": "El cas podria marcar un precedent en la protecció de propietat intel·lectual tecnològica."
-    },
-    {
-      "title": "Apple demanda OpenAI per la lluita de talent en IA",
-      "link_id": "c_a8c718",
-      "source": "Bloomberg",
-      "date": "2026-07-13",
-      "time": "07:25",
-      "summary": "La demanda reflecteix la creixent rivalitat per talent i secrets d'IA entre gegants."
-    },
-    {
-      "title": "OpenAI ha retirat temporalment les restriccions d'ús de ChatGPT Work i Codex",
-      "link_id": "c_d13be5",
-      "source": "Digital Trends",
-      "date": "2026-07-13",
-      "time": "08:10",
-      "summary": "Els límits d'ús es relaxen temporalment, permetent a usuaris avançats més llibertat."
+      "date": "2026-07-14",
+      "time": "20:11",
+      "summary": "OpenAI afirma que les al·legacions d'Apple sobre robatori de secrets comercials són infundades."
     }
   ]
 }

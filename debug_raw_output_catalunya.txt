@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-13T08:30",
+  "generated_at": "2026-07-15T09:30",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
     {
       "name": "Ara.cat",
       "url": "https://www.ara.cat/rss/",
-      "articles_found": 1
+      "articles_found": 2
     },
     {
       "name": "El Periódico",
       "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
-      "articles_found": 3
+      "articles_found": 2
     },
     {
       "name": "RAC1",
@@ -21,67 +21,227 @@
     {
       "name": "La Vanguardia (en català)",
       "url": "https://www.lavanguardia.com/rss/encatala.xml",
-      "articles_found": 2
+      "articles_found": 0
+    },
+    {
+      "name": "VilaWeb",
+      "url": "https://www.vilaweb.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "NacióDigital",
+      "url": "https://www.naciodigital.cat/rss/tecnologia",
+      "articles_found": 0
+    },
+    {
+      "name": "324.cat",
+      "url": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0",
+      "articles_found": 0
+    },
+    {
+      "name": "Softcatalà",
+      "url": "https://www.softcatala.org/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "El Nacional.cat",
+      "url": "https://www.elnacional.cat/uploads/feeds/feed_ca.xml",
+      "articles_found": 1
+    },
+    {
+      "name": "El Mon.cat",
+      "url": "https://www.elmon.cat/feed/",
+      "articles_found": 1
+    },
+    {
+      "name": "El Mon.cat Tecnologia",
+      "url": "https://elmon.cat/tecnologia/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "El Mon.cat Societat",
+      "url": "https://elmon.cat/societat/feed/",
+      "articles_found": 0
     },
     {
       "name": "Betevé",
       "url": "https://beteve.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "El Punt Avui",
+      "url": "https://www.elpuntavui.cat/barcelona.feed?type=rss",
+      "articles_found": 0
+    },
+    {
+      "name": "Segre",
+      "url": "https://www.segre.com/ca/rss/home.xml",
       "articles_found": 1
+    },
+    {
+      "name": "Regio7",
+      "url": "https://www.regio7.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Diari d'Andorra",
+      "url": "https://www.diariandorra.ad/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Bon Dia Andorra",
+      "url": "https://www.bondia.ad/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Altaveu",
+      "url": "https://www.altaveu.com/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Nuvol",
+      "url": "https://www.nuvol.com/feed",
+      "articles_found": 0
+    },
+    {
+      "name": "Diari Mes",
+      "url": "https://www.diarimes.com/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Directe.cat",
+      "url": "https://www.directe.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Cugat.cat",
+      "url": "https://www.cugat.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "CatalunyaPress",
+      "url": "https://www.catalunyapress.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Tot Barcelona",
+      "url": "https://www.totbarcelona.cat/feed/",
+      "articles_found": 1
+    },
+    {
+      "name": "e-notícies",
+      "url": "https://www.e-noticies.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Lleida Diari",
+      "url": "https://www.lleidadiari.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "Catorze",
+      "url": "https://www.catorze.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Xarxanet",
+      "url": "https://www.xarxanet.org/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Bondia",
+      "url": "https://www.bondia.cat/?feed=rss2",
+      "articles_found": 0
+    },
+    {
+      "name": "Ara Balears",
+      "url": "https://www.arabalears.cat/rss/",
+      "articles_found": 0
+    },
+    {
+      "name": "Manacor Comarcal",
+      "url": "https://manacorcomarcal.com/?feed=rss2",
+      "articles_found": 0
     },
     {
       "name": "Via Empresa",
       "url": "https://www.viaempresa.cat/uploads/feeds/feed_via-empresa-2024_ca.xml",
+      "articles_found": 0
+    },
+    {
+      "name": "Lúdica",
+      "url": "https://ludica.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "Accent Obert",
+      "url": "https://accentobert.cat/feed/",
+      "articles_found": 0
+    },
+    {
+      "name": "MetaData",
+      "url": "https://www.metadata.cat/sindica",
       "articles_found": 1
+    },
+    {
+      "name": "El Temps",
+      "url": "https://www.eltemps.cat/sindica",
+      "articles_found": 0
+    },
+    {
+      "name": "Àpunt",
+      "url": "https://www.apuntmedia.es/rss/",
+      "articles_found": 0
     }
   ],
   "articles": [
     {
-      "title": "Submer inverteix més de 1.000 milions en un centre de dades d'IA als terrenys d'Ercros a Flix",
-      "link_id": "c_105d82",
-      "source": "Via Empresa",
-      "date": "2026-07-13",
-      "time": "09:36",
-      "summary": "Submer invertirà més de mil milions d'euros en un centre de dades d'IA a Flix, creant 150 llocs de treball."
-    },
-    {
-      "title": "La Unió Europea autoritza les plataformes a escanejar missatges privats dels usuaris contra l’abús sexual infantil",
-      "link_id": "c_1b1cbd",
-      "source": "El Periódico",
-      "date": "2026-07-09",
-      "time": "13:20",
-      "summary": "La UE autoritza plataformes a escanejar missatges privats per combatre l'abús sexual infantil, generant controvèrsia sobre privacitat."
-    },
-    {
-      "title": "El GPS anticalor: una aplicació et recomana la ruta més fresca entre dos punts",
-      "link_id": "c_48e078",
-      "source": "Betevé",
-      "date": "2026-07-13",
-      "time": "08:00",
-      "summary": "Nou GPS anticalor indica rutes fresques en onades de calor, ajudant ciutadans a evitar zones superescalfades."
-    },
-    {
-      "title": "Barcelona elimina en 20 anys un de cada tres carrils per al cotxe",
-      "link_id": "c_374c2a",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-07-12",
-      "time": "07:48",
-      "summary": "Barcelona eliminarà un terç dels carrils per al cotxe, ampliant espais per a busos i vianants."
-    },
-    {
-      "title": "\"Si tens un infart a Barcelona i no hi ha desfibril·ladors a prop, amb drons repartits per la ciutat en pots tenir un en segons\"",
-      "link_id": "c_e817c1",
-      "source": "RAC1",
-      "date": "2026-07-10",
-      "time": "13:20",
-      "summary": "Drones d'emergència podran proporcionar desfibril·ladors en segons, millorant la resposta mèdica urbana."
-    },
-    {
-      "title": "Robots, IA i taxis autònoms: un viatge tecnològic a Shanghai",
-      "link_id": "c_f8b654",
+      "title": "La tecnologia catalana bat rècords i factura més de 30.000 milions",
+      "link_id": "c_ec4b6e",
       "source": "Ara.cat",
-      "date": "2026-07-12",
-      "time": "17:00",
-      "summary": "Experiència a Shanghai mostra taxis autònoms amb IA i robots, anticipant el futur del transport urbà."
+      "date": "2026-07-13",
+      "time": "13:20",
+      "summary": "El sector TIC català supera els 30.000 milions, impulsat per IA i inversió pública, reforçant la competitivitat internacional."
+    },
+    {
+      "title": "El Govern invertirà 66,3 milions a habilitar carreteres intel·ligents",
+      "link_id": "c_4b17c1",
+      "source": "Segre",
+      "date": "2026-07-15",
+      "time": "05:35",
+      "summary": "El Govern destina 66,3 milions per carreteres intel·ligents, amb sensors i 5G, millorant seguretat i mobilitat."
+    },
+    {
+      "title": "Filvit reforça la seva aposta per la innovació amb noves solucions contra mosquits i paparres",
+      "link_id": "c_4e3c41",
+      "source": "El Mon.cat",
+      "date": "2026-07-14",
+      "time": "13:57",
+      "summary": "Filvit llança nous repel·lents contra mosquits i paparres, protegint famílies i reduint malalties cutànies."
+    },
+    {
+      "title": "Les empreses i les administracions demanen normes europees per protegir les dades crítiques davant l’avenç de la IA",
+      "link_id": "c_faf6a0",
+      "source": "Tot Barcelona",
+      "date": "2026-07-14",
+      "time": "13:49",
+      "summary": "Empreses i administracions demanen normes europees per salvaguardar dades crítiques davant l'avenç de la IA."
+    },
+    {
+      "title": "Alerta de Consum sobre les ulleres per mirar l'eclipsi solar: així pots comprovar si estan homologades i evitar danys oculars",
+      "link_id": "c_7149c2",
+      "source": "RAC1",
+      "date": "2026-07-14",
+      "time": "08:17",
+      "summary": "Consumidors reben consells per comprovar la certificació d'ulleres d'eclipsi i evitar lesions oculars."
+    },
+    {
+      "title": "Un 68% de les empreses d’Espanya asseguren que la IA no té un impacte negatiu en l’ocupació",
+      "link_id": "c_20e3c0",
+      "source": "El Periódico",
+      "date": "2026-07-14",
+      "time": "11:40",
+      "summary": "El 68% de les pimes espanyoles afirma que la IA no ha afectat negativament l'ocupació."
     },
     {
       "title": "El Cruïlla es transforma en un laboratori ciutadà per experimentar amb IA",
@@ -89,23 +249,31 @@
       "source": "El Periódico",
       "date": "2026-07-10",
       "time": "10:06",
-      "summary": "El festival Cruïlla es converteix en laboratori ciutadà per provar projectes d'intel·ligència artificial."
+      "summary": "El festival Cruïlla ofereix un laboratori ciutadà per provar i validar projectes d'intel·ligència artificial."
     },
     {
-      "title": "Meta permet que qualsevol utilitzi les teves fotos d’Instagram per generar imatges amb IA: així ho pots canviar",
-      "link_id": "c_44197c",
-      "source": "El Periódico",
-      "date": "2026-07-08",
-      "time": "10:28",
-      "summary": "Meta permet l'ús de fotos d'Instagram per generar imatges IA; els usuaris poden desactivar-ho."
+      "title": "Europa prepara un canvi històric a internet: hauràs de verificar la teva edat per utilitzar xarxes socials",
+      "link_id": "c_d294f8",
+      "source": "El Nacional.cat",
+      "date": "2026-07-14",
+      "time": "16:00",
+      "summary": "Europa imposarà verificació d'edat a les xarxes socials, protegint menors davant continguts inadequats."
     },
     {
-      "title": "Apple demanda OpenAI (ChatGPT) pel robatori de secrets comercials",
-      "link_id": "c_731bb1",
-      "source": "La Vanguardia (en català)",
-      "date": "2026-07-12",
-      "time": "08:19",
-      "summary": "Apple demanda OpenAI per suposat robatori de secrets comercials de l'iPhone, intensificant la guerra tecnològica."
+      "title": "La Comissió Europea acusa Meta de fomentar el disseny addictiu d’Instagram i Facebook i l’amenaça amb una multa històrica",
+      "link_id": "c_a2b610",
+      "source": "MetaData",
+      "date": "2026-07-13",
+      "time": "10:25",
+      "summary": "La Comissió Europea multarà Meta per dissenys addictius d'Instagram i Facebook, exigint canvis urgents."
+    },
+    {
+      "title": "Sense llicència per operar amb criptomonedes",
+      "link_id": "c_cdd4f5",
+      "source": "Ara.cat",
+      "date": "2026-07-14",
+      "time": "05:00",
+      "summary": "Només 210 empreses tenen llicència MiCA per operar criptomonedes, limitant l'accés al mercat europeu."
     }
   ]
 }
