@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-07-15T09:16",
+  "generated_at": "2026-07-16T11:41",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "El primer dispositiu d'OpenAI serà un altaveu intel·ligent portàtil",
-      "link_id": "c_9d4bf5",
+      "title": "És oficial: OnePlus ha desaparegut. Llarg viure a Oppo",
+      "link_id": "c_8cff11",
       "source": "CNET",
-      "date": "2026-07-14",
-      "time": "23:46",
-      "summary": "L'empresa planeja un altaveu sense pantalla que interactuarà amb l'usuari i control·larà la llar."
+      "date": "2026-07-16",
+      "time": "09:01",
+      "summary": "OnePlus abandona els mercats dels EUA i Europa, deixant el seu lloc a Oppo."
     },
     {
-      "title": "Segons informes, el primer dispositiu de maquinari d'OpenAI és un altaveu sense pantalla que pot moure's",
-      "link_id": "c_3a47fa",
-      "source": "TechCrunch",
-      "date": "2026-07-14",
-      "time": "22:22",
-      "summary": "Altaveu mòbil sense pantalla pot moure's i oferir assistència personalitzada amb IA avançada."
+      "title": "AppleCare+ augmenta els preus per a Macs i iPads",
+      "link_id": "c_631ded",
+      "source": "Engadget",
+      "date": "2026-07-16",
+      "time": "07:47",
+      "summary": "Els preus d'AppleCare+ pujen 0,50 $ al mes o 5 $ a l'any per a nous subscriptors."
     },
     {
-      "title": "El primer dispositiu d'IA d'OpenAI serà un altaveu intel·ligent portàtil",
-      "link_id": "c_307fee",
-      "source": "MacRumors",
-      "date": "2026-07-14",
-      "time": "21:38",
-      "summary": "Dispositiu portàtil combina altaveu intel·ligent amb sensors per a una experiència domèstica immersiva."
+      "title": "Microsoft arregla rècord de 570 vulnerabilitats de Windows",
+      "link_id": "c_6eed03",
+      "source": "ZDNet",
+      "date": "2026-07-15",
+      "time": "18:28",
+      "summary": "La actualització de juliol soluciona 570 falles, incloent tres zero‑day i 61 crítiques."
     },
     {
-      "title": "OpenAI podria anunciar aquest any un altaveu intel·ligent de ChatGPT",
-      "link_id": "c_efdd76",
+      "title": "Apple Intelligence obté aprovació reguladora a la Xina",
+      "link_id": "c_c90003",
+      "source": "Engadget",
+      "date": "2026-07-15",
+      "time": "14:22",
+      "summary": "Apple col·laborarà amb Baidu i Alibaba per llançar el seu servei d'IA al mercat xinès."
+    },
+    {
+      "title": "El primer procés judicial de xAI contra un usuari de Grok",
+      "link_id": "c_765c42",
+      "source": "The Next Web",
+      "date": "2026-07-16",
+      "time": "08:11",
+      "summary": "xAI acusa l'usuari d'enganyar les mesures de seguretat de Grok; el tribunal decidirà la responsabilitat."
+    },
+    {
+      "title": "Spotify amplia comptes gestionats a la versió gratuïta",
+      "link_id": "c_dc679f",
       "source": "The Verge",
-      "date": "2026-07-14",
-      "time": "21:26",
-      "summary": "Altaveu intel·ligent de ChatGPT podria integrar-se a la llar per a converses naturals."
+      "date": "2026-07-15",
+      "time": "14:42",
+      "summary": "Ara els usuaris gratuïts poden crear comptes amb control parental sense subscripció de pagament."
     },
     {
-      "title": "Informe: el primer dispositiu d'OpenAI serà un altaveu portàtil amb càmera i altres sensors",
-      "link_id": "c_7b027f",
-      "source": "9to5Mac",
-      "date": "2026-07-14",
-      "time": "21:14",
-      "summary": "Altaveu portàtil inclou càmera i sensors, ampliant les capacitats d'interacció amb IA."
-    },
-    {
-      "title": "Google Images rep una redisseny similar a Pinterest per al seu 25è aniversari",
-      "link_id": "c_c771e5",
-      "source": "The Verge",
-      "date": "2026-07-14",
-      "time": "23:18",
-      "summary": "Google Images celebra 25 anys amb una nova interfície que destaca contingut visual personalitzat."
-    },
-    {
-      "title": "OpenAI rebutja la demanda d'Apple per secrets comercials",
-      "link_id": "c_7ed955",
-      "source": "TechCrunch",
-      "date": "2026-07-14",
-      "time": "22:07",
-      "summary": "OpenAI nega les acusacions d'Apple, afirmant que la demanda careix de fonaments legals."
-    },
-    {
-      "title": "Nova York és el primer estat que pausa la construcció de centres de dades d'IA",
-      "link_id": "c_13b7d7",
+      "title": "El primer dispositiu d'OpenAI és un teclat per a Codex",
+      "link_id": "c_419bfe",
       "source": "CNET",
-      "date": "2026-07-14",
-      "time": "21:35",
-      "summary": "El govern de Nova York imposa una moràtor d'un any per a nous centres de dades d'IA."
+      "date": "2026-07-15",
+      "time": "23:53",
+      "summary": "El teclat ajuda a supervisar els agents Codex, no a substituir-los."
     },
     {
-      "title": "OpenAI: No hi ha evidència que la demanda d'Apple tingui mèrit",
-      "link_id": "c_820871",
+      "title": "Apple prohibeix serveis domèstics en els anuncis de Maps",
+      "link_id": "c_859cc7",
+      "source": "TechCrunch",
+      "date": "2026-07-15",
+      "time": "18:21",
+      "summary": "Apple impedeix que fusters, electricistes i altres serveis locals apareguin a Maps."
+    },
+    {
+      "title": "Rebutjar l'entrenament d'IA de Samsung Health no esborra el teu historial",
+      "link_id": "c_2fa4a9",
+      "source": "Digital Trends",
+      "date": "2026-07-15",
+      "time": "12:24",
+      "summary": "Només s'elimina la informació usada per a l'IA, mantenint les dades de salut existents."
+    },
+    {
+      "title": "Apple tanca la vulnerabilitat d'Apple iPhone desbloquejat per finançament",
+      "link_id": "c_7a3a5b",
       "source": "MacRumors",
-      "date": "2026-07-14",
-      "time": "20:45",
-      "summary": "OpenAI declara que la demanda d'Apple no té proves suficients per justificar una acció legal."
-    },
-    {
-      "title": "OpenAI afirma que no ha trobat evidència que recolzi les acusacions d'Apple sobre robatori de secrets comercials",
-      "link_id": "c_50c337",
-      "source": "9to5Mac",
-      "date": "2026-07-14",
-      "time": "20:11",
-      "summary": "OpenAI afirma que les al·legacions d'Apple sobre robatori de secrets comercials són infundades."
+      "date": "2026-07-15",
+      "time": "22:20",
+      "summary": "Els iPhone comprats amb finançament de T‑Mobile o Verizon quedaran bloquejats al operador."
     }
   ]
 }

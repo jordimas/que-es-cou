@@ -1,1 +1,88 @@
-{"generated_at":"2026-07-15T09:16","id":"economy","title":"Notícies econòmiques del món","sources_checked":[],"articles":[{"title":"ASML puja més del 7% després d'augmentar les previsions de vendes per segon cop aquest any gràcies a la forta demanda de xips d'IA","link_id":"c_ae3aa0","source":"CNBC Technology","date":"2026-07-15","time":"07:11","summary":"L'augment de la demanda d'IA impulsa les accions d'ASML, reforçant la seva posició al mercat de lithografia."},{"title":"ASML augmenta les seves previsions davant l'auge de la IA que impulsa la demanda de fabricació de xips","link_id":"c_a02b80","source":"Financial Times","date":"2026-07-15","time":"05:54","summary":"ASML preveu més vendes gràcies al creixement explosiu dels xips d'intel·ligència artificial."},{"title":"Nova York es converteix en el primer estat dels EUA en prohibir centres de dades d'IA","link_id":"c_d392b8","source":"CNBC Technology","date":"2026-07-14","time":"18:49","summary":"La prohibició busca frenar l'impacte ambiental i la concentració de poder dels centres d'IA."},{"title":"Nova York suspèn per primera vegada el desenvolupament de centres de dades","link_id":"c_2a896b","source":"Financial Times","date":"2026-07-14","time":"16:19","summary":"La mesura pretén regular l'expansió de centres de dades per motius de seguretat i sostenibilitat."},{"title":"Demis Hassabis, cap de Google DeepMind, demana que EUA lideri un organisme de normes per a la IA","link_id":"c_853af3","source":"CNBC Technology","date":"2026-07-14","time":"14:01","summary":"Hassabis advoca per una autoritat americana que estableixi estàndards globals per a la IA."},{"title":"Demis Hassabis, cap de DeepMind, sol·licita un organisme liderat pels EUA per provar models d'IA avançada","link_id":"c_1aa279","source":"Financial Times","date":"2026-07-14","time":"11:48","summary":"Demana un organisme liderat pels EUA per avaluar models d'IA d'última generació."},{"title":"Per què Europa aposta de cop fortament pels drons","link_id":"c_10b2aa","source":"CNBC Technology","date":"2026-07-15","time":"05:05","summary":"Europa veu els drons com a clau per a la defensa i la logística moderna."},{"title":"El fabricant de xips CXMT busca 10.000 milions de dòlars en la major OPI de Xina des del 2010","link_id":"c_3c266e","source":"Financial Times","date":"2026-07-15","time":"04:55","summary":"CXMT busca finançament massiu per satisfer la creixent demanda de memòria per a IA a Xina."},{"title":"Oracle encapçala la cursa per subministrar al Japó serveis de núvol ultra secrets","link_id":"c_d4c42a","source":"Financial Times","date":"2026-07-15","time":"04:00","summary":"Oracle ofereix solucions de núvol ultra segures per reforçar la infraestructura crítica del Japó."},{"title":"La startup de Daniel Ek de escaneig corporal recull 700 milions de dòlars per expandir-se als EUA","link_id":"c_b7360c","source":"Financial Times","date":"2026-07-15","time":"04:00","summary":"Neko Health, liderada per Ek, multiplica el seu valor amb una ronda de finançament de 700 milions."}]}
+{
+  "generated_at": "2026-07-16T10:00",
+  "id": "economy",
+  "title": "Notícies econòmiques del món",
+  "sources_checked": [],
+  "articles": [
+    {
+      "title": "Les accions d'ASML cauen després d'augmentar la previsió de vendes per segon cop aquest any per la forta demanda de xips d'IA",
+      "link_id": "c_ae3aa0",
+      "source": "CNBC Technology",
+      "date": "2026-07-15",
+      "time": "16:54",
+      "summary": "ASML baixa les previsions davant la demanda d'xips d'IA, provocant caiguda del preu de les accions."
+    },
+    {
+      "title": "ASML augmenta les previsions mentre el boom d'IA impulsa la demanda de fabricació de xips",
+      "link_id": "c_a02b80",
+      "source": "Financial Times",
+      "date": "2026-07-15",
+      "time": "16:07",
+      "summary": "ASML mostra optimisme amb noves previsions gràcies al boom d'IA, impulsant el valor de les seves accions."
+    },
+    {
+      "title": "TSMC invertirà 100.000 milions de dòlars addicionals a Arizona després d'un augment del 77% del benefici del segon trimestre",
+      "link_id": "c_4e21a8",
+      "source": "CNBC Technology",
+      "date": "2026-07-16",
+      "time": "08:24",
+      "summary": "TSMC destina 100.000 milions de dòlars a Arizona després d'un augment del 77% del benefici trimestral."
+    },
+    {
+      "title": "El fabricant de xips TSMC invertirà altres 100.000 milions de dòlars en producció als EUA",
+      "link_id": "c_476415",
+      "source": "Financial Times",
+      "date": "2026-07-16",
+      "time": "07:24",
+      "summary": "TSMC incrementa la inversió als EUA amb altres 100.000 milions, reforçant la seva capacitat de producció."
+    },
+    {
+      "title": "L'ús de VPN al Regne Unit es duplica mentre la gent eludi les lleis sobre pornografia",
+      "link_id": "c_d562d8",
+      "source": "Financial Times",
+      "date": "2026-07-16",
+      "time": "09:01",
+      "summary": "L'ús de VPN al Regne Unit duplica, indicant que joves eluden les restriccions de contingut pornogràfic."
+    },
+    {
+      "title": "El cap de Google DeepMind, Demis Hassabis, demana que EUA lideri un organisme de normes d'IA",
+      "link_id": "c_853af3",
+      "source": "CNBC Technology",
+      "date": "2026-07-16",
+      "time": "07:07",
+      "summary": "Demis Hassabis demana una iniciativa americana per establir normes globals d'IA davant el ràpid avanç tecnològic."
+    },
+    {
+      "title": "Huawei busca creixement, Malàisia entra al sector de bateries",
+      "link_id": "c_4e2eb9",
+      "source": "Financial Times",
+      "date": "2026-07-16",
+      "time": "06:57",
+      "summary": "Huawei busca expandir-se mentre Malàisia aposta per la producció de bateries, reforçant la seva presència asiàtica."
+    },
+    {
+      "title": "Un executiu sènior de núvol d'Amazon abandona l'empresa després de 18 anys",
+      "link_id": "c_57393e",
+      "source": "CNBC Technology",
+      "date": "2026-07-15",
+      "time": "18:23",
+      "summary": "Un veterà de 18 anys a AWS abandona, deixant un buit en la direcció del núvol i IA."
+    },
+    {
+      "title": "Anthropic s'acosta a una mega-IPO mentre els bancaris organitzen reunions amb inversors",
+      "link_id": "c_d3a597",
+      "source": "CNBC Technology",
+      "date": "2026-07-15",
+      "time": "17:22",
+      "summary": "Anthropic avança cap a una mega-IPO, buscant superar OpenAI amb reunions d'inversors programades."
+    },
+    {
+      "title": "DTCC, el poderós del postoperatiu de Wall Street, prova mercats tokenitzats amb grans actors de la indústria",
+      "link_id": "c_b21b98",
+      "source": "CNBC Technology",
+      "date": "2026-07-15",
+      "time": "14:49",
+      "summary": "DTCC experimenta la tokenització d'actius reals, col·laborant amb grans empreses per impulsar el mercat."
+    }
+  ]
+}
