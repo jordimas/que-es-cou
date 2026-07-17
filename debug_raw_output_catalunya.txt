@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T12:00",
+  "generated_at": "2026-07-17T07:30",
   "id": "catalunya",
   "title": "Notícies tecnològiques de Catalunya",
   "sources_checked": [
@@ -9,28 +9,33 @@
       "articles_found": 2
     },
     {
+      "name": "Tot Barcelona",
+      "url": "https://www.totbarcelona.cat/feed/",
+      "articles_found": 2
+    },
+    {
       "name": "MetaData",
       "url": "https://www.metadata.cat/sindica",
+      "articles_found": 2
+    },
+    {
+      "name": "El Periódico",
+      "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
+      "articles_found": 1
+    },
+    {
+      "name": "Segre",
+      "url": "https://www.segre.com/ca/rss/home.xml",
+      "articles_found": 1
+    },
+    {
+      "name": "La Vanguardia (en català)",
+      "url": "https://www.lavanguardia.com/rss/encatala.xml",
       "articles_found": 1
     },
     {
       "name": "Betevé",
       "url": "https://beteve.cat/feed/",
-      "articles_found": 1
-    },
-    {
-      "name": "Ara.cat",
-      "url": "https://www.ara.cat/rss/",
-      "articles_found": 2
-    },
-    {
-      "name": "RAC1",
-      "url": "https://www.rac1.cat/rss/home.xml",
-      "articles_found": 3
-    },
-    {
-      "name": "El Periódico",
-      "url": "https://www.elperiodico.cat/ca/rss/tecnologia/rss.xml",
       "articles_found": 1
     }
   ],
@@ -41,71 +46,31 @@
       "source": "Via Empresa",
       "date": "2026-07-16",
       "time": "10:21",
-      "summary": "Uber ofereix comprar Delivery Hero, propietària de Glovo, per consolidar el mercat de repartiment a Europa."
+      "summary": "L'OPA d'Uber podria transformar el mercat de repartiment a Espanya, consolidant Glovo dins de Delivery Hero."
     },
     {
-      "title": "Configura.cat supera el mig milió de dispositius configurats en català",
-      "link_id": "c_41b655",
+      "title": "Serveo i l’Hospital 12 d’Octubre impulsen una tecnologia avançada per fabricar en 24 hores mascaretes personalitzades de ventilació no invasiva per a nadons prematurs",
+      "link_id": "c_0c7519",
+      "source": "Tot Barcelona",
+      "date": "2026-07-16",
+      "time": "18:14",
+      "summary": "Mascarilles 3D personalitzades per nadons prematurs reduiran complicacions respiratòries i acceleraran atencions mèdiques."
+    },
+    {
+      "title": "GBSB Global dona el tret de sortida a una nova edició d’Impuls AgriTech amb 12 projectes d’innovació per transformar el sector agroalimentari",
+      "link_id": "c_72fd52",
+      "source": "Tot Barcelona",
+      "date": "2026-07-16",
+      "time": "18:10",
+      "summary": "Impuls AgriTech impulsa 12 projectes que modernitzaran la producció agrícola catalana amb tecnologia avançada."
+    },
+    {
+      "title": "ITSready porta la salut sexual al mòbil: Catalunya impulsa el primer projecte digital per detectar ITS entre els joves",
+      "link_id": "c_1f5163",
       "source": "MetaData",
-      "date": "2026-07-16",
-      "time": "08:29",
-      "summary": "Configura.cat supera el mig milió de dispositius configurats en català, impulsant la presència digital de la llengua."
-    },
-    {
-      "title": "Multa de 320.000 € a una comercialitzadora d’Endesa per generar confusió entre les marques",
-      "link_id": "c_460c3a",
-      "source": "Betevé",
-      "date": "2026-07-16",
-      "time": "08:40",
-      "summary": "La CNMC imposa 320.000 € a Energia XXI per confondre marques, protegint consumidors de pràctiques enganyoses."
-    },
-    {
-      "title": "El Marroc allibera el periodista Ali Lmrabet, veí de Barcelona, detingut des de diumenge",
-      "link_id": "c_0cc0b1",
-      "source": "Ara.cat",
-      "date": "2026-07-15",
-      "time": "10:58",
-      "summary": "El periodista Ali Lmrabet, veí de Barcelona, és alliberat al Marroc després d'una detenció de set dies."
-    },
-    {
-      "title": "El cap del Pentàgon anuncia anàlisis anuals de testosterona per als soldats majors de 30 anys",
-      "link_id": "c_89082f",
-      "source": "Ara.cat",
-      "date": "2026-07-15",
-      "time": "19:38",
-      "summary": "El Pentàgon iniciarà anàlisis anuals de testosterona per soldats majors de 30 anys, per garantir rendiment."
-    },
-    {
-      "title": "Alerta de Consum sobre les ulleres per mirar l'eclipsi solar: així pots comprovar si estan homologades i evitar danys oculars",
-      "link_id": "c_7149c2",
-      "source": "RAC1",
-      "date": "2026-07-14",
-      "time": "08:17",
-      "summary": "L'Agència Catalana de Consum alerta sobre ulleres d'eclipsi no homologades, evitant possibles danys oculars."
-    },
-    {
-      "title": "El nou \"Google Maps\" de l'àrea metropolitana de Barcelona per saber com anar d'un lloc a un altre pel camí més fresc",
-      "link_id": "c_c982a4",
-      "source": "RAC1",
-      "date": "2026-07-15",
-      "time": "12:56",
-      "summary": "L'AMB llança una versió de Google Maps que indica rutes més fresques per combatre la calor urbana."
-    },
-    {
-      "title": "Forest Drought, l'eina creada per catalans que pot predir millor com avancen els incendis",
-      "link_id": "c_b81141",
-      "source": "RAC1",
-      "date": "2026-07-15",
-      "time": "20:06",
-      "summary": "L'eina catalana Forest Drought predirà amb precisió l'avanç dels incendis, ajudant a la gestió forestal."
-    },
-    {
-      "title": "El sector tecnològic de Catalunya dispara el seu negoci a un rècord de 30.600 milions d’euros",
-      "link_id": "c_d01cba",
-      "source": "El Periódico",
-      "date": "2026-07-13",
-      "time": "11:27",
-      "summary": "El sector TIC català registra un negoci rècord de 30.600 milions d'euros, impulsant l'economia regional."
+      "date": "2026-07-17",
+      "time": "08:52",
+      "summary": "ITSready ofereix kits gratuïts i un xatbot per diagnosticar VIH, clamídia i gonorrea entre joves catalans."
     },
     {
       "title": "Catalunya registra el màxim de demanda elèctrica del 2026 en plena onada de calor amb 8.119 MW",
@@ -113,7 +78,47 @@
       "source": "Via Empresa",
       "date": "2026-07-16",
       "time": "10:02",
-      "summary": "Catalunya arriba al màxim de demanda elèctrica del 2026 amb 8.119 MW, reflectint l'ona de calor."
+      "summary": "El pic de demanda elèctrica supera els 8.000 MW, evidenciant l'impacte de l'onada de calor."
+    },
+    {
+      "title": "El sector tecnològic de Catalunya dispara el seu negoci a un rècord de 30.600 milions d’euros",
+      "link_id": "c_d01cba",
+      "source": "El Periódico",
+      "date": "2026-07-13",
+      "time": "11:27",
+      "summary": "El sector TIC català genera 30.600 milions d'euros, impulsant el PIB sense afectar l'ocupació."
+    },
+    {
+      "title": "La IA impulsa un sector TIC de rècord: ja factura més de 30.600 milions d’euros sense destruir ocupació",
+      "link_id": "c_c0ae05",
+      "source": "MetaData",
+      "date": "2026-07-12",
+      "time": "12:30",
+      "summary": "La IA eleva la facturació del sector TIC a rècord, mantenint els llocs de treball."
+    },
+    {
+      "title": "Nau gegant per a avions a Alguaire, que suposarà la creació de 150 llocs de treball",
+      "link_id": "c_e8fffa",
+      "source": "Segre",
+      "date": "2026-07-16",
+      "time": "08:30",
+      "summary": "El nou hangar d'Alguaire crearà 150 nous llocs de treball en manteniment d'avions grans."
+    },
+    {
+      "title": "Barcelona es posarà a prova davant episodis extrems de calor",
+      "link_id": "c_38acee",
+      "source": "La Vanguardia (en català)",
+      "date": "2026-07-16",
+      "time": "09:35",
+      "summary": "Barcelona provarà la seva capacitat de resposta davant incendis i altes temperatures amb simulacre."
+    },
+    {
+      "title": "El CZFB i la Fundació MWCapital arriben a un acord per impulsar l’ecosistema tecnològic de Barcelona",
+      "link_id": "c_0619a6",
+      "source": "Betevé",
+      "date": "2026-07-16",
+      "time": "16:10",
+      "summary": "El CZFB i MWCapital reforcen l'ecosistema tecnològic barceloní amb noves inversions i col·laboracions."
     }
   ]
 }

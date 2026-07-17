@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-07-16T11:41",
+  "generated_at": "2026-07-17T09:19",
   "id": "world",
   "title": "Notícies tecnològiques del món",
   "sources_checked": [],
   "articles": [
     {
-      "title": "És oficial: OnePlus ha desaparegut. Llarg viure a Oppo",
-      "link_id": "c_8cff11",
-      "source": "CNET",
-      "date": "2026-07-16",
-      "time": "09:01",
-      "summary": "OnePlus abandona els mercats dels EUA i Europa, deixant el seu lloc a Oppo."
-    },
-    {
-      "title": "AppleCare+ augmenta els preus per a Macs i iPads",
-      "link_id": "c_631ded",
-      "source": "Engadget",
-      "date": "2026-07-16",
-      "time": "07:47",
-      "summary": "Els preus d'AppleCare+ pujen 0,50 $ al mes o 5 $ a l'any per a nous subscriptors."
-    },
-    {
-      "title": "Microsoft arregla rècord de 570 vulnerabilitats de Windows",
-      "link_id": "c_6eed03",
-      "source": "ZDNet",
-      "date": "2026-07-15",
-      "time": "18:28",
-      "summary": "La actualització de juliol soluciona 570 falles, incloent tres zero‑day i 61 crítiques."
-    },
-    {
-      "title": "Apple Intelligence obté aprovació reguladora a la Xina",
-      "link_id": "c_c90003",
-      "source": "Engadget",
-      "date": "2026-07-15",
-      "time": "14:22",
-      "summary": "Apple col·laborarà amb Baidu i Alibaba per llançar el seu servei d'IA al mercat xinès."
-    },
-    {
-      "title": "El primer procés judicial de xAI contra un usuari de Grok",
-      "link_id": "c_765c42",
-      "source": "The Next Web",
-      "date": "2026-07-16",
-      "time": "08:11",
-      "summary": "xAI acusa l'usuari d'enganyar les mesures de seguretat de Grok; el tribunal decidirà la responsabilitat."
-    },
-    {
-      "title": "Spotify amplia comptes gestionats a la versió gratuïta",
-      "link_id": "c_dc679f",
-      "source": "The Verge",
-      "date": "2026-07-15",
-      "time": "14:42",
-      "summary": "Ara els usuaris gratuïts poden crear comptes amb control parental sense subscripció de pagament."
-    },
-    {
-      "title": "El primer dispositiu d'OpenAI és un teclat per a Codex",
-      "link_id": "c_419bfe",
-      "source": "CNET",
-      "date": "2026-07-15",
-      "time": "23:53",
-      "summary": "El teclat ajuda a supervisar els agents Codex, no a substituir-los."
-    },
-    {
-      "title": "Apple prohibeix serveis domèstics en els anuncis de Maps",
-      "link_id": "c_859cc7",
+      "title": "Roblox llança una funció de creació de jocs amb IA a la seva aplicació mòbil",
+      "link_id": "c_2b79cf",
       "source": "TechCrunch",
-      "date": "2026-07-15",
-      "time": "18:21",
-      "summary": "Apple impedeix que fusters, electricistes i altres serveis locals apareguin a Maps."
+      "date": "2026-07-16",
+      "time": "18:22",
+      "summary": "Roblox afegeix una eina que converteix textos en jocs jugables directament al mòbil."
     },
     {
-      "title": "Rebutjar l'entrenament d'IA de Samsung Health no esborra el teu historial",
-      "link_id": "c_2fa4a9",
+      "title": "Google continua la seva sèrie de canvis de nom convertint NotebookLM en Gemini Notebook",
+      "link_id": "c_93aae3",
+      "source": "TechCrunch",
+      "date": "2026-07-16",
+      "time": "16:00",
+      "summary": "Google canvia el nom del seu assistent de notes IA per reforçar la marca Gemini."
+    },
+    {
+      "title": "L'estat de Nova York acaba de posar en pausa l'auge dels centres de dades d'IA",
+      "link_id": "c_4a5ac9",
+      "source": "NetworkWorld",
+      "date": "2026-07-17",
+      "time": "01:17",
+      "summary": "El govern de Nova York ha suspès temporalment els permisos per a nous centres de dades d'IA."
+    },
+    {
+      "title": "S'ha presentat una nova demanda contra Apple per la vulnerabilitat de privacitat 'Hide My Email'",
+      "link_id": "c_d90d4b",
+      "source": "CNET",
+      "date": "2026-07-16",
+      "time": "22:45",
+      "summary": "Una demanda acusa Apple de vulnerabilitat que exposa adreces de correu real dels usuaris."
+    },
+    {
+      "title": "TikTok s'enfronta a una investigació al Regne Unit per temors sobre verificació d'edat i danys a menors",
+      "link_id": "c_f48f66",
+      "source": "The Guardian Tech",
+      "date": "2026-07-16",
+      "time": "13:02",
+      "summary": "Oficials del Regne Unit investiguen TikTok per possibles fallades en la verificació d'edat."
+    },
+    {
+      "title": "Google Vids ara et permet protagonitzar els teus propis vídeos amb IA",
+      "link_id": "c_50f11b",
+      "source": "TechCrunch",
+      "date": "2026-07-16",
+      "time": "18:32",
+      "summary": "Google Vids permet crear i personalitzar vídeos amb avatars IA sense necessitat de càmera."
+    },
+    {
+      "title": "Thinking Machines Lab ofereix a les empreses una alternativa nord-americana d'IA de pes obert",
+      "link_id": "c_f56380",
+      "source": "InfoWorld",
+      "date": "2026-07-16",
+      "time": "11:03",
+      "summary": "Thinking Machines Lab llança Inkling, un model d'IA de 975 mil milions de paràmetres."
+    },
+    {
+      "title": "El mode IA de Google Search ja pot gestionar tasques més enllà de la barra de cerca",
+      "link_id": "c_a669fd",
+      "source": "Android Authority",
+      "date": "2026-07-16",
+      "time": "16:00",
+      "summary": "El mode IA de Google Search automatitza tasques com programar cites o afegir productes al carret."
+    },
+    {
+      "title": "Meta IA avisarà els pares quan els adolescents esmentin autolesions",
+      "link_id": "c_c93c22",
       "source": "Digital Trends",
-      "date": "2026-07-15",
-      "time": "12:24",
-      "summary": "Només s'elimina la informació usada per a l'IA, mantenint les dades de salut existents."
+      "date": "2026-07-16",
+      "time": "15:42",
+      "summary": "Meta IA notificarà els pares quan els adolescents parlin de comportaments d'autolesió."
     },
     {
-      "title": "Apple tanca la vulnerabilitat d'Apple iPhone desbloquejat per finançament",
-      "link_id": "c_7a3a5b",
-      "source": "MacRumors",
-      "date": "2026-07-15",
-      "time": "22:20",
-      "summary": "Els iPhone comprats amb finançament de T‑Mobile o Verizon quedaran bloquejats al operador."
+      "title": "El primer dispositiu de maquinari d'OpenAI és un macropod RGB — 'Codex Micro' amb 13 tecles de perfil baix i un joystick per controlar agents d'IA de codificació",
+      "link_id": "c_e97895",
+      "source": "Tom's Hardware",
+      "date": "2026-07-16",
+      "time": "11:00",
+      "summary": "Codex Micro combina teclat RGB, joystick i llums per facilitar la interacció amb agents d'IA."
     }
   ]
 }
