@@ -1,8 +1,8 @@
 # que-es-cou2
 
-News aggregator that fetches RSS feeds, filters tech articles, and renders an HTML page in Catalan. Runs every 4 hours via GitHub Actions and deploys to GitHub Pages at quescou.cat.
+Discontinued news aggregator that fetched RSS feeds, filtered tech articles, and rendered an HTML page in Catalan. GitHub Pages now publishes a static discontinued-project page.
 
-## Architecture
+## Historical Architecture
 
 - `fetch.py` — fetches all RSS/Atom feeds from `config/sources.yaml`, writes per-category JSON files (`raw_feeds_*.json`)
 - `prompts/curate_*.md` — instructions for Gemini to curate feeds into `news.json` (filtering, translation, selection), one per category
@@ -12,13 +12,13 @@ News aggregator that fetches RSS feeds, filters tech articles, and renders an HT
 - `config/sources.yaml` — all RSS feed sources organized by category: world, catalunya, podcasts, events
 - `config/feed_age.json` — per-category max age overrides for feed fetching
 
-## Pipeline
+## Historical Pipeline
 
 ```
 config/sources.yaml → fetch.py → raw_feeds_*.json → groq_tech_filter.py (prompts/tech_topic_filter.md) → curate.py (prompts/curate_*.md) → news.json → render.py → news.html + feed.xml
 ```
 
-## Categories
+## Historical Categories
 
 - **world** — international tech news (top 10, last 24h)
 - **catalunya** — Catalan/local tech news (top 10, last 7 days)
@@ -50,4 +50,4 @@ The `Makefile` runs `fetch.py`, `groq_tech_filter.py`, `curate.py`, and `render.
 
 ## CI/CD
 
-GitHub Actions workflows run manually, and production also runs on push to `main`. Scheduled cron runs are disabled. Deploys to GitHub Pages. Requires `GEMINI_API_KEY` secret.
+GitHub Actions workflows deploy a static discontinued-project page to GitHub Pages. Scheduled cron runs and the automated news pipeline are disabled.

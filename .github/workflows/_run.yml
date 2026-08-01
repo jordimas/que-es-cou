@@ -1,4 +1,4 @@
-name: Run (reusable)
+name: Deploy static site (reusable)
 on:
   workflow_call:
     inputs:
@@ -9,22 +9,9 @@ on:
         required: false
         type: string
         default: ""
-      send_telegram:
-        required: false
-        type: boolean
-        default: true
-    secrets:
-      GEMINI_API_KEY:
-        required: true
-      GROQ_API_KEY:
-        required: false
-      TG_TOKEN:
-        required: true
-      TG_CHAT_ID:
-        required: true
 
 jobs:
-  run:
+  deploy:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -34,67 +21,13 @@ jobs:
         with:
           ref: ${{ inputs.branch }}
 
-      - name: Restore telegram.json from storage branch
+      - name: Prepare static site
         run: |
-          BRANCH=${{ inputs.branch }}
-          git fetch origin storage --depth=1 2>/dev/null || true
-          git show origin/storage:${BRANCH}/telegram.json 2>/dev/null > /tmp/telegram.json && mkdir -p output && cp /tmp/telegram.json output/telegram.json || echo "telegram.json not found in storage branch, starting fresh"
-
-      - name: Restore filter_cache.json from storage branch
-        run: |
-          BRANCH=${{ inputs.branch }}
-          git fetch origin storage --depth=1 2>/dev/null || true
-          git show origin/storage:${BRANCH}/filter_cache.json 2>/dev/null > /tmp/filter_cache.json && mkdir -p output && cp /tmp/filter_cache.json output/filter_cache.json || echo "filter_cache.json not found in storage branch, starting fresh"
-
-      - name: Install Python dependencies
-        run: pip install -r requirements.txt
-
-      - name: Run script
-        env:
-          TZ: Europe/Madrid
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
-        run: make run
-
-      - name: Update telegram.json with new hashes
-        run: python telegram.py --save-only
-
-      - name: Save telegram.json and filter_cache.json to storage branch
-        run: |
-          BRANCH=${{ inputs.branch }}
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          cp output/telegram.json /tmp/telegram.json
-          cp output/filter_cache.json /tmp/filter_cache.json 2>/dev/null || true
-          if git fetch origin storage --depth=1 2>/dev/null; then
-            git checkout -B storage origin/storage
-          else
-            git checkout --orphan storage
-            git rm -rf . --quiet 2>/dev/null || true
-          fi
-          mkdir -p ${BRANCH}
-          cp /tmp/telegram.json ${BRANCH}/telegram.json
-          git add ${BRANCH}/telegram.json
-          if [ -f /tmp/filter_cache.json ]; then
-            cp /tmp/filter_cache.json ${BRANCH}/filter_cache.json
-            git add ${BRANCH}/filter_cache.json
-          fi
-          git commit -m "Update ${BRANCH}/telegram.json and filter_cache.json [skip ci]" || echo "Nothing to commit"
-          git push origin storage
-          git checkout ${BRANCH}
-
-      - name: Send Telegram notification
-        if: ${{ inputs.send_telegram }}
-        env:
-          TG_TOKEN: ${{ secrets.TG_TOKEN }}
-          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
-        run: python telegram.py --send-only
-
-      - name: Rename news.html to index.html
-        run: mv ${{ github.workspace }}/output/news.html ${{ github.workspace }}/output/index.html
-
-      - name: Copy static files to output
-        run: cp ${{ github.workspace }}/static/*.html ${{ github.workspace }}/static/robots.txt ${{ github.workspace }}/output/
+          rm -rf output
+          mkdir -p output
+          cp static/index.html output/index.html
+          cp static/robots.txt output/robots.txt
+          touch output/.nojekyll
 
       - name: Deploy to gh-pages branch
         uses: peaceiris/actions-gh-pages@v4
@@ -103,5 +36,4 @@ jobs:
           publish_branch: gh-pages
           publish_dir: ${{ github.workspace }}/output
           destination_dir: ${{ inputs.deploy_dir }}
-          exclude_assets: '*.json'
-          keep_files: true
+          keep_files: false

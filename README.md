@@ -1,8 +1,10 @@
 # que-es-cou
 
-News aggregator that fetches RSS feeds, filters tech articles, and renders an HTML page in Catalan. Runs every 4 hours via GitHub Actions and deploys to GitHub Pages.
+Archived news aggregator that fetched RSS feeds, filtered tech articles, and rendered an HTML page in Catalan.
 
-## Pipeline (`make run`)
+The project has been discontinued and is no longer updated automatically. The source code remains available as free software for anyone who wants to use it, adapt it, or continue the project.
+
+## Historical pipeline (`make run`)
 
 ```
 config/sources.yaml
@@ -69,4 +71,3 @@ config/sources.yaml
 * **render.py**
   * Renders `news.json` to `news.html` using Jinja2 template
   * Generates `feed.xml` (RSS feed)
-
