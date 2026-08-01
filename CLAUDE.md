@@ -50,4 +50,4 @@ The `Makefile` runs `fetch.py`, `groq_tech_filter.py`, `curate.py`, and `render.
 
 ## CI/CD
 
-GitHub Actions workflow (`.github/workflows/run.yml`) runs on schedule every 4 hours, on push to main, or manually. Deploys to GitHub Pages. Requires `GEMINI_API_KEY` secret.
+GitHub Actions workflows run manually, and production also runs on push to `main`. Scheduled cron runs are disabled. Deploys to GitHub Pages. Requires `GEMINI_API_KEY` secret.

@@ -10,7 +10,7 @@ jobs:
     with:
       branch: dev
       deploy_dir: dev
-      send_telegram: ${{ github.event_name == 'schedule' }}
+      send_telegram: false
     secrets:
       GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
